@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --check scripts/fetch-kalshi.mjs)"
+    ]
+  }
+}

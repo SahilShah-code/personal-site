@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sahil</title>
+  <style>
+    :root {
+      --ink: #111111;
+      --paper: #ffffff;
+      --muted: #999999;
+      --hair: #e6e6e6;
+      --up: #1a7f3c;
+      --down: #b03030;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body { height: 100%; }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Courier New", "Courier", monospace;
+      font-size: 14px;
+      line-height: 1.6;
+      letter-spacing: 0.02em;
+      -webkit-font-smoothing: antialiased;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      padding: 28px 32px;
+    }
+
+    /* ---- top bar ---- */
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      width: 100%;
+    }
+    .name { font-weight: 400; cursor: pointer; }
+    .cursor {
+      display: inline-block;
+      width: 7px;
+      background: var(--ink);
+      margin-left: 1px;
+      animation: blink 1.1s steps(1) infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    .date {
+      color: var(--ink);
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* ---- main / views ---- */
+    main { flex: 1; display: flex; align-items: center; }
+    .view { display: none; width: 100%; }
+    .view.active { display: block; }
+    #view-home.active { display: flex; align-items: center; }
+
+    /* ---- tab list (home) ---- */
+    nav ul { list-style: none; }
+    nav li { margin: 2px 0; }
+    nav a {
+      color: var(--ink);
+      text-decoration: none;
+      display: inline-block;
+      transition: transform 0.18s ease, opacity 0.18s ease;
+      opacity: 0;
+    }
+    nav a .idx { color: var(--muted); margin-right: 14px; }
+    nav a:hover { transform: translateX(10px); }
+    nav a:hover .idx { color: var(--ink); }
+    body.ready nav a { opacity: 1; }
+    body.ready nav li:nth-child(1) a { transition-delay: 0.05s; }
+    body.ready nav li:nth-child(2) a { transition-delay: 0.15s; }
+    body.ready nav li:nth-child(3) a { transition-delay: 0.25s; }
+    body.ready nav li:nth-child(4) a { transition-delay: 0.35s; }
+
+    /* ---- prediction markets view ---- */
+    .back {
+      color: var(--muted);
+      text-decoration: none;
+      display: inline-block;
+      margin-bottom: 34px;
+      transition: color 0.18s ease, transform 0.18s ease;
+    }
+    .back:hover { color: var(--ink); transform: translateX(-6px); }
+
+    .pm-title { font-size: 14px; color: var(--muted); margin-bottom: 6px; }
+
+    .pnl-big {
+      font-size: 42px;
+      line-height: 1.1;
+      font-variant-numeric: tabular-nums;
+      margin: 2px 0 2px;
+    }
+    .pnl-sub { font-size: 12px; color: var(--muted); }
+
+    .up { color: var(--up); }
+    .down { color: var(--down); }
+
+    /* spark */
+    .spark-wrap { margin: 22px 0 40px; }
+    .spark { width: 100%; height: 64px; display: block; }
+
+    section { margin-bottom: 40px; }
+    section h2 {
+      font-size: 12px;
+      font-weight: 400;
+      color: var(--muted);
+      letter-spacing: 0.1em;
+      margin: 0 0 12px;
+    }
+    .rows { width: 100%; border-collapse: collapse; }
+    .rows th {
+      text-align: left;
+      font-weight: 400;
+      color: var(--muted);
+      font-size: 11px;
+      padding: 0 16px 8px 0;
+      border-bottom: 1px solid var(--hair);
+    }
+    .rows th.num, .rows td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .rows td {
+      padding: 11px 16px 11px 0;
+      border-bottom: 1px solid var(--hair);
+      vertical-align: top;
+    }
+    .rows tr:last-child td { border-bottom: none; }
+    .rows tbody tr { transition: background 0.12s ease; }
+    .rows tbody tr:hover { background: #fafafa; }
+    .mkt { max-width: 360px; }
+    .mkt .tick { color: var(--muted); font-size: 11px; }
+    .side-yes { color: var(--ink); }
+    .side-no { color: var(--muted); }
+    .live-dot {
+      display: inline-block; width: 6px; height: 6px; border-radius: 50%;
+      background: var(--up); margin-right: 7px; vertical-align: middle;
+      animation: pulse 1.8s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.25;} }
+
+    .updated { color: var(--muted); font-size: 11px; margin-top: -20px; margin-bottom: 34px; }
+
+    @media (max-width: 600px) {
+      body { padding: 20px; }
+      header { flex-direction: column; gap: 8px; }
+      .date { text-align: left; }
+      .pnl-big { font-size: 34px; }
+      .rows .hide-sm { display: none; }
+      .mkt { max-width: 190px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="name" id="home-link"><span id="typed"></span><span class="cursor">&nbsp;</span></div>
+    <div class="date" id="date"></div>
+  </header>
+
+  <main>
+    <!-- HOME -->
+    <div class="view active" id="view-home">
+      <nav>
+        <ul>
+          <li><a href="#about"><span class="idx">01</span>about</a></li>
+          <li><a href="#prediction-markets"><span class="idx">02</span>prediction markets</a></li>
+          <li><a href="#biotech"><span class="idx">03</span>biotech</a></li>
+          <li><a href="#documentaries"><span class="idx">04</span>documentaries</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <!-- PREDICTION MARKETS -->
+    <div class="view" id="view-prediction-markets">
+      <a href="#" class="back" id="pm-back">&larr; back</a>
+
+      <div class="pm-title">02 / prediction markets &mdash; kalshi</div>
+
+      <div class="pnl-big" id="pnl-net">—</div>
+      <div class="pnl-sub" id="pnl-breakdown">&nbsp;</div>
+
+      <div class="spark-wrap">
+        <svg class="spark" id="spark" viewBox="0 0 600 64" preserveAspectRatio="none"></svg>
+      </div>
+
+      <section>
+        <h2><span class="live-dot"></span>active positions</h2>
+        <table class="rows">
+          <thead>
+            <tr>
+              <th>market</th>
+              <th class="num">side</th>
+              <th class="num hide-sm">avg</th>
+              <th class="num hide-sm">last</th>
+              <th class="num">return</th>
+            </tr>
+          </thead>
+          <tbody id="active-rows"></tbody>
+        </table>
+      </section>
+
+      <section>
+        <h2>settled &mdash; historicals</h2>
+        <table class="rows">
+          <thead>
+            <tr>
+              <th>market</th>
+              <th class="num hide-sm">result</th>
+              <th class="num hide-sm">date</th>
+              <th class="num">return</th>
+            </tr>
+          </thead>
+          <tbody id="settled-rows"></tbody>
+        </table>
+      </section>
+
+      <div class="updated" id="pm-updated"></div>
+    </div>
+  </main>
+
+  <script>
+    /* =========================================================================
+       DATA LOADING
+       -------------------------------------------------------------------------
+       The site reads a static, pre-sanitized JSON file: data/kalshi.json.
+       That file is produced by scripts/fetch-kalshi.mjs, run on a schedule by
+       a GitHub Action (your API keys live only in GitHub Secrets, never here).
+
+       The JSON is PERCENTAGES ONLY — no dollar amounts, no position sizes.
+       If the file can't be loaded (e.g. local file:// preview), we fall back to
+       the SAMPLE object below so the page still renders.
+       ========================================================================= */
+    const SAMPLE = {
+      updated: "sample data — not yet connected to your kalshi account",
+      net_return_pct: 12.4,
+      realized_return_pct: 15.1,
+      unrealized_return_pct: 8.2,
+      win_rate_pct: 66.7,
+      // cumulative realized return %, chronological (starts at 0)
+      curve: [0, 6.1, 3.9, -2.4, 4.7, 11.0, 15.1],
+      active: [
+        { title: "Fed cuts rates in Sept 2026",      ticker: "FED-26SEP-CUT",  side: "yes", avg: 61, last: 68, return_pct: 11.5 },
+        { title: "US GDP > 2.5% Q3 2026",             ticker: "GDP-26Q3-H",     side: "no",  avg: 56, last: 61, return_pct: 8.9 },
+        { title: "NYC mayor approval > 50% in Aug",   ticker: "NYCAPP-26AUG",   side: "yes", avg: 33, last: 29, return_pct: -12.1 },
+        { title: "S&P 500 closes above 6500 in 2026", ticker: "SPX-26-6500",    side: "yes", avg: 55, last: 62, return_pct: 12.7 },
+        { title: "Hottest year on record (2026)",     ticker: "CLIMATE-26-HOT", side: "yes", avg: 71, last: 74, return_pct: 4.2 },
+      ],
+      settled: [
+        { title: "CPI above 3.0% (June 2026)",   ticker: "CPI-26JUN",      result: "yes", date: "2026-07-11", return_pct: 42.0 },
+        { title: "Gov shutdown before July 2026", ticker: "SHUTDOWN-26H1",  result: "no",  date: "2026-06-30", return_pct: 18.5 },
+        { title: "BTC above $100k (June 2026)",  ticker: "BTC-26JUN-100K", result: "no",  date: "2026-06-28", return_pct: -100.0 },
+        { title: "Jobs report beats estimate (May)", ticker: "NFP-26MAY",  result: "yes", date: "2026-06-06", return_pct: 63.0 },
+        { title: "Fed holds rates (May 2026)",   ticker: "FED-26MAY-HOLD", result: "yes", date: "2026-05-01", return_pct: 27.5 },
+        { title: "Oscars host confirmed by Feb", ticker: "OSCAR-26-HOST",  result: "no",  date: "2026-02-15", return_pct: -35.0 },
+      ],
+    };
+
+    async function loadPortfolio() {
+      try {
+        const res = await fetch("./data/kalshi.json", { cache: "no-store" });
+        if (!res.ok) throw new Error(res.status);
+        return await res.json();
+      } catch (_) {
+        return SAMPLE; // local preview / not connected yet
+      }
+    }
+
+    /* ---------- formatting ---------- */
+    const fmtPct = (v) => {
+      const sign = v > 0 ? "+" : v < 0 ? "−" : "";
+      return sign + Math.abs(v).toFixed(1) + "%";
+    };
+    const cls = (v) => (v > 0 ? "up" : v < 0 ? "down" : "");
+
+    /* ---------- render ---------- */
+    function renderPortfolio(p) {
+      document.getElementById("pnl-net").innerHTML =
+        `<span class="${cls(p.net_return_pct)}">${fmtPct(p.net_return_pct)}</span>`;
+      document.getElementById("pnl-breakdown").textContent =
+        `net return  ·  realized ${fmtPct(p.realized_return_pct)}  ·  unrealized ${fmtPct(p.unrealized_return_pct)}  ·  win rate ${p.win_rate_pct.toFixed(0)}%`;
+
+      document.getElementById("active-rows").innerHTML = p.active.map(pos => `
+        <tr>
+          <td class="mkt">${pos.title}<br><span class="tick">${pos.ticker}</span></td>
+          <td class="num"><span class="side-${pos.side}">${pos.side.toUpperCase()}</span></td>
+          <td class="num hide-sm">${pos.avg}¢</td>
+          <td class="num hide-sm">${pos.last}¢</td>
+          <td class="num ${cls(pos.return_pct)}">${fmtPct(pos.return_pct)}</td>
+        </tr>`).join("");
+
+      const settled = [...p.settled].sort((a, b) => b.date.localeCompare(a.date));
+      document.getElementById("settled-rows").innerHTML = settled.map(x => `
+        <tr>
+          <td class="mkt">${x.title}<br><span class="tick">${x.ticker}</span></td>
+          <td class="num hide-sm"><span class="side-${x.result}">${x.result.toUpperCase()}</span></td>
+          <td class="num hide-sm">${x.date}</td>
+          <td class="num ${cls(x.return_pct)}">${fmtPct(x.return_pct)}</td>
+        </tr>`).join("");
+
+      drawSpark(p.curve);
+      document.getElementById("pm-updated").textContent =
+        typeof p.updated === "string" && p.updated.includes("sample")
+          ? p.updated
+          : "updated " + p.updated;
+    }
+
+    /* ---------- cumulative return sparkline ---------- */
+    function drawSpark(pts) {
+      if (!pts || pts.length < 2) { document.getElementById("spark").innerHTML = ""; return; }
+      const W = 600, H = 64, pad = 4;
+      const min = Math.min(...pts, 0), max = Math.max(...pts, 0);
+      const span = (max - min) || 1;
+      const x = i => pad + (i * (W - pad * 2)) / (pts.length - 1);
+      const y = v => H - pad - ((v - min) / span) * (H - pad * 2);
+      const line = pts.map((v, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");
+      const zeroY = y(0).toFixed(1);
+      const last = pts[pts.length - 1];
+      document.getElementById("spark").innerHTML = `
+        <line x1="0" y1="${zeroY}" x2="${W}" y2="${zeroY}" stroke="var(--hair)" stroke-width="1"/>
+        <path d="${line}" fill="none" stroke="${last >= 0 ? 'var(--up)' : 'var(--down)'}" stroke-width="1.5"/>
+        <circle cx="${x(pts.length - 1)}" cy="${y(last)}" r="2.5" fill="${last >= 0 ? 'var(--up)' : 'var(--down)'}"/>`;
+    }
+
+    /* =========================================================================
+       ROUTING
+       -------------------------------------------------------------------------
+       We switch views with DIRECT click handlers (not hashchange) so navigation
+       works even inside sandboxed preview iframes that swallow hash changes.
+       The URL hash is still updated for deep-linking, but best-effort only.
+       ========================================================================= */
+    const VIEWS = new Set(["home", "prediction-markets"]); // views that exist so far
+    let pmLoaded = false;
+
+    function show(view) {
+      if (!VIEWS.has(view)) view = "home";
+      document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
+      document.getElementById("view-" + view).classList.add("active");
+      try { history.replaceState(null, "", view === "home" ? "#" : "#" + view); } catch (_) {}
+      if (view === "prediction-markets" && !pmLoaded) {
+        pmLoaded = true;
+        loadPortfolio().then(renderPortfolio);
+      }
+    }
+
+    // Tab links -> switch view directly.
+    document.querySelectorAll("nav a").forEach(a => {
+      a.addEventListener("click", (e) => {
+        e.preventDefault();
+        show(a.getAttribute("href").replace("#", ""));
+      });
+    });
+
+    document.getElementById("home-link").addEventListener("click", () => show("home"));
+    document.getElementById("pm-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") show("home"); });
+
+    /* =========================================================================
+       TOP BAR
+       ========================================================================= */
+    function renderDate() {
+      const d = new Date();
+      document.getElementById("date").textContent =
+        d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" }).toLowerCase();
+    }
+    renderDate();
+    setInterval(renderDate, 60 * 1000);
+
+    const NAME = "sahil";
+    const typed = document.getElementById("typed");
+    let i = 0;
+    (function type() {
+      if (i <= NAME.length) { typed.textContent = NAME.slice(0, i); i++; setTimeout(type, 110); }
+      else { document.body.classList.add("ready"); }
+    })();
+
+    // Honor a deep link on load (best-effort), else show home.
+    show(location.hash.replace("#", "") || "home");
+  </script>
+</body>
+</html>
