@@ -1,9 +1,10 @@
 {
-  "updated": "2026-07-15 21:20 UTC",
+  "updated": "2026-07-15 21:27 UTC",
   "net_return_pct": 0,
   "realized_return_pct": 0,
   "unrealized_return_pct": 0,
   "win_rate_pct": 3.4,
+  "settled_total": 58,
   "curve": [
     0,
     0,
@@ -68,409 +69,143 @@
   "active": [],
   "settled": [
     {
-      "title": "KXMVESPORTSMULTIGAMEEXTENDED-S202655ED38E309E-E3005B7C3B8",
+      "title": "yes Reg Time: Tie,yes Ousmane Dembele: 1+",
       "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202655ED38E309E-E3005B7C3B8",
       "result": "no",
       "date": "2026-07-14",
       "return_pct": 0
     },
     {
-      "title": "KXATP-26WIM-ZVE",
+      "title": "Will Alexander Zverev win the Wimbledon Men's Singles?",
       "ticker": "KXATP-26WIM-ZVE",
       "result": "no",
       "date": "2026-07-12",
       "return_pct": 0
     },
     {
-      "title": "KXWCADVANCE-26JUL11NORENG-NOR",
+      "title": "Norway vs England: To Advance",
       "ticker": "KXWCADVANCE-26JUL11NORENG-NOR",
       "result": "no",
       "date": "2026-07-11",
       "return_pct": 0
     },
     {
-      "title": "KXWCADVANCE-26JUL09FRAMAR-MAR",
+      "title": "France vs Morocco: To Advance",
       "ticker": "KXWCADVANCE-26JUL09FRAMAR-MAR",
       "result": "no",
       "date": "2026-07-09",
       "return_pct": 0
     },
     {
-      "title": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E5747CA7CCB-ACCEECD35D5",
+      "title": "yes Morocco advances,yes Michael Olise: 1+,yes Achraf Hakimi: 1+",
       "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E5747CA7CCB-ACCEECD35D5",
       "result": "no",
       "date": "2026-07-09",
       "return_pct": 0
     },
     {
-      "title": "KXATPMATCH-26JUL08COBFER-FER",
+      "title": "Will Arthur Fery win the Cobolli vs Fery: Quarterfinal match?",
       "ticker": "KXATPMATCH-26JUL08COBFER-FER",
       "result": "yes",
       "date": "2026-07-08",
       "return_pct": 0
     },
     {
-      "title": "KXATPMATCH-26JUL06DIMFER-FER",
+      "title": "Will Arthur Fery win the Dimitrov vs Fery: Round Of 16 match?",
       "ticker": "KXATPMATCH-26JUL06DIMFER-FER",
       "result": "yes",
       "date": "2026-07-06",
       "return_pct": 0
     },
     {
-      "title": "KXATPMATCH-26JUL06FRIBUB-BUB",
+      "title": "Will Alexander Bublik win the Fritz vs Bublik: Round Of 16 match?",
       "ticker": "KXATPMATCH-26JUL06FRIBUB-BUB",
       "result": "no",
       "date": "2026-07-06",
       "return_pct": 0
     },
     {
-      "title": "KXATPMATCH-26JUL01NAKSTR-NAK",
+      "title": "Will Brandon Nakashima win the Nakashima vs Struff: Round Of 64 match?",
       "ticker": "KXATPMATCH-26JUL01NAKSTR-NAK",
       "result": "no",
       "date": "2026-07-02",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN25TURUSA-USA",
+      "title": "Turkiye vs USA Winner?",
       "ticker": "KXWCGAME-26JUN25TURUSA-USA",
       "result": "no",
       "date": "2026-06-26",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN24RSAKOR-KOR",
+      "title": "South Africa vs Korea Republic Winner?",
       "ticker": "KXWCGAME-26JUN24RSAKOR-KOR",
       "result": "no",
       "date": "2026-06-25",
       "return_pct": 0
     },
     {
-      "title": "KXMVESPORTSMULTIGAMEEXTENDED-S202637DA1E0A4A6-3B39448CCFB",
+      "title": "yes Tie,yes England,yes Croatia,yes Bosnia and Herzegovina,yes Czechia,yes Morocco,yes Korea Republic,yes Brazil,yes Tie",
       "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202637DA1E0A4A6-3B39448CCFB",
       "result": "no",
       "date": "2026-06-24",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN21URUCPV-CPV",
+      "title": "Uruguay vs Cape Verde Winner?",
       "ticker": "KXWCGAME-26JUN21URUCPV-CPV",
       "result": "no",
       "date": "2026-06-22",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN20ECUCUW-CUW",
+      "title": "Ecuador vs Curacao Winner?",
       "ticker": "KXWCGAME-26JUN20ECUCUW-CUW",
       "result": "no",
       "date": "2026-06-21",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN20NEDSWE-SWE",
+      "title": "Netherlands vs Sweden Winner?",
       "ticker": "KXWCGAME-26JUN20NEDSWE-SWE",
       "result": "no",
       "date": "2026-06-20",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN19TURPAR-TUR",
+      "title": "Turkiye vs Paraguay Winner?",
       "ticker": "KXWCGAME-26JUN19TURPAR-TUR",
       "result": "no",
       "date": "2026-06-20",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN17ENGCRO-CRO",
+      "title": "England vs Croatia Winner?",
       "ticker": "KXWCGAME-26JUN17ENGCRO-CRO",
       "result": "no",
       "date": "2026-06-17",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN17AUTJOR-TIE",
+      "title": "Austria vs Jordan Winner?",
       "ticker": "KXWCGAME-26JUN17AUTJOR-TIE",
       "result": "no",
       "date": "2026-06-17",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN17AUTJOR-JOR",
+      "title": "Austria vs Jordan Winner?",
       "ticker": "KXWCGAME-26JUN17AUTJOR-JOR",
       "result": "no",
       "date": "2026-06-17",
       "return_pct": 0
     },
     {
-      "title": "KXWCGAME-26JUN16FRASEN-SEN",
+      "title": "France vs Senegal Winner?",
       "ticker": "KXWCGAME-26JUN16FRASEN-SEN",
       "result": "no",
       "date": "2026-06-16",
-      "return_pct": 0
-    },
-    {
-      "title": "KXWCGAME-26JUN15IRINZL-TIE",
-      "ticker": "KXWCGAME-26JUN15IRINZL-TIE",
-      "result": "yes",
-      "date": "2026-06-16",
-      "return_pct": 0
-    },
-    {
-      "title": "KXWCGAME-26JUN15IRINZL-IRI",
-      "ticker": "KXWCGAME-26JUN15IRINZL-IRI",
-      "result": "no",
-      "date": "2026-06-16",
-      "return_pct": 0
-    },
-    {
-      "title": "KXUFCFIGHT-26JUN14PERGAN-GAN",
-      "ticker": "KXUFCFIGHT-26JUN14PERGAN-GAN",
-      "result": "yes",
-      "date": "2026-06-15",
-      "return_pct": 0
-    },
-    {
-      "title": "KXUFCFIGHT-26JUN14PERGAN-PER",
-      "ticker": "KXUFCFIGHT-26JUN14PERGAN-PER",
-      "result": "no",
-      "date": "2026-06-15",
-      "return_pct": 0
-    },
-    {
-      "title": "KXWCGAME-26JUN13BRAMAR-TIE",
-      "ticker": "KXWCGAME-26JUN13BRAMAR-TIE",
-      "result": "yes",
-      "date": "2026-06-14",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAMENTION-26JUN10SASNYK-ALIE",
-      "ticker": "KXNBAMENTION-26JUN10SASNYK-ALIE",
-      "result": "no",
-      "date": "2026-06-11",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAGAME-26JUN08SASNYK-SAS",
-      "ticker": "KXNBAGAME-26JUN08SASNYK-SAS",
-      "result": "yes",
-      "date": "2026-06-09",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAGAME-26JUN08SASNYK-NYK",
-      "ticker": "KXNBAGAME-26JUN08SASNYK-NYK",
-      "result": "no",
-      "date": "2026-06-09",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAGAME-26JUN05NYKSAS-SAS",
-      "ticker": "KXNBAGAME-26JUN05NYKSAS-SAS",
-      "result": "no",
-      "date": "2026-06-06",
-      "return_pct": 0
-    },
-    {
-      "title": "KXMVESPORTSMULTIGAMEEXTENDED-S20267584D3B4CED-BA24CB8718C",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S20267584D3B4CED-BA24CB8718C",
-      "result": "no",
-      "date": "2026-06-05",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAGAME-26JUN03NYKSAS-NYK",
-      "ticker": "KXNBAGAME-26JUN03NYKSAS-NYK",
-      "result": "yes",
-      "date": "2026-06-04",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26JUN03BERARN-BER",
-      "ticker": "KXATPMATCH-26JUN03BERARN-BER",
-      "result": "no",
-      "date": "2026-06-03",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26JUN02MENFON-FON",
-      "ticker": "KXATPMATCH-26JUN02MENFON-FON",
-      "result": "no",
-      "date": "2026-06-02",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26JUN01TIAARN-TIA",
-      "ticker": "KXATPMATCH-26JUN01TIAARN-TIA",
-      "result": "no",
-      "date": "2026-06-01",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY31RUUFON-FON",
-      "ticker": "KXATPMATCH-26MAY31RUUFON-FON",
-      "result": "yes",
-      "date": "2026-05-31",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAWEST-26-SAS",
-      "ticker": "KXNBAWEST-26-SAS",
-      "result": "yes",
-      "date": "2026-05-31",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAWEST-26-OKC",
-      "ticker": "KXNBAWEST-26-OKC",
-      "result": "no",
-      "date": "2026-05-31",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY30ARNCOL-ARN",
-      "ticker": "KXATPMATCH-26MAY30ARNCOL-ARN",
-      "result": "yes",
-      "date": "2026-05-30",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY29RUUPAU-PAU",
-      "ticker": "KXATPMATCH-26MAY29RUUPAU-PAU",
-      "result": "no",
-      "date": "2026-05-29",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY29FONDJO-FON",
-      "ticker": "KXATPMATCH-26MAY29FONDJO-FON",
-      "result": "yes",
-      "date": "2026-05-29",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY28ARNTSI-ARN",
-      "ticker": "KXATPMATCH-26MAY28ARNTSI-ARN",
-      "result": "yes",
-      "date": "2026-05-28",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY27VANNAK-VAN",
-      "ticker": "KXATPMATCH-26MAY27VANNAK-VAN",
-      "result": "no",
-      "date": "2026-05-28",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY27COLSHE-SHE",
-      "ticker": "KXATPMATCH-26MAY27COLSHE-SHE",
-      "result": "no",
-      "date": "2026-05-28",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY28COMDAR-COM",
-      "ticker": "KXATPMATCH-26MAY28COMDAR-COM",
-      "result": "yes",
-      "date": "2026-05-28",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY27HURTIA-HUR",
-      "ticker": "KXATPMATCH-26MAY27HURTIA-HUR",
-      "result": "no",
-      "date": "2026-05-28",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY27SONPAU-SON",
-      "ticker": "KXATPMATCH-26MAY27SONPAU-SON",
-      "result": "no",
-      "date": "2026-05-27",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY27BASMIC-BAS",
-      "ticker": "KXATPMATCH-26MAY27BASMIC-BAS",
-      "result": "no",
-      "date": "2026-05-27",
-      "return_pct": 0
-    },
-    {
-      "title": "KXNBAGAME-26MAY26SASOKC-SAS",
-      "ticker": "KXNBAGAME-26MAY26SASOKC-SAS",
-      "result": "no",
-      "date": "2026-05-27",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY25AUGALT-AUG",
-      "ticker": "KXATPMATCH-26MAY25AUGALT-AUG",
-      "result": "yes",
-      "date": "2026-05-26",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY25QUICOM-QUI",
-      "ticker": "KXATPMATCH-26MAY25QUICOM-QUI",
-      "result": "no",
-      "date": "2026-05-26",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY25CERVAN-VAN",
-      "ticker": "KXATPMATCH-26MAY25CERVAN-VAN",
-      "result": "no",
-      "date": "2026-05-25",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY24BUSRUB-RUB",
-      "ticker": "KXATPMATCH-26MAY24BUSRUB-RUB",
-      "result": "yes",
-      "date": "2026-05-25",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY24HIJPAU-HIJ",
-      "ticker": "KXATPMATCH-26MAY24HIJPAU-HIJ",
-      "result": "no",
-      "date": "2026-05-25",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY25SONHER-HER",
-      "ticker": "KXATPMATCH-26MAY25SONHER-HER",
-      "result": "no",
-      "date": "2026-05-24",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY24FRIBAS-FRI",
-      "ticker": "KXATPMATCH-26MAY24FRIBAS-FRI",
-      "result": "no",
-      "date": "2026-05-24",
-      "return_pct": 0
-    },
-    {
-      "title": "KXATPMATCH-26MAY24FRIBAS-BAS",
-      "ticker": "KXATPMATCH-26MAY24FRIBAS-BAS",
-      "result": "yes",
-      "date": "2026-05-24",
-      "return_pct": 0
-    },
-    {
-      "title": "KXMLSGAME-26MAY23CHITOR-TOR",
-      "ticker": "KXMLSGAME-26MAY23CHITOR-TOR",
-      "result": "no",
-      "date": "2026-05-24",
-      "return_pct": 0
-    },
-    {
-      "title": "KXMLSGAME-26MAY23CHITOR-CHI",
-      "ticker": "KXMLSGAME-26MAY23CHITOR-CHI",
-      "result": "yes",
-      "date": "2026-05-24",
       "return_pct": 0
     }
   ]
