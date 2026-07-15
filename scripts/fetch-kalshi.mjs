@@ -86,128 +86,115 @@ async function kgetAll(endpoint, arrayKey, params = {}) {
 /* ----------------------------------------------------------------------------
  * Cost basis from fills (used to turn P&L into % returns)
  * -------------------------------------------------------------------------- */
-function costBasisByTicker(fills) {
-  // Per ticker, aggregate buy cost + count for each side.
-  const acc = {};
-  for (const f of fills) {
-    const t = (acc[f.ticker] ??= {
-      yes: { count: 0, cost: 0 }, no: { count: 0, cost: 0 }, totalBuyCost: 0,
-    });
-    const side = f.side; // "yes" | "no"
-    const price = side === "yes" ? f.yes_price : f.no_price; // cents
-    if (f.action === "buy") {
-      t[side].count += f.count;
-      t[side].cost += f.count * price;
-      t.totalBuyCost += f.count * price;
-    }
-  }
-  return acc;
-}
-
-const avgOf = (leg) => (leg && leg.count ? leg.cost / leg.count : 0);
 const round1 = (n) => Math.round(n * 10) / 10;
+
+// How many settled markets to show in the "historicals" list (aggregates still
+// use ALL of them). Kept modest so the page stays readable and title lookups
+// stay light.
+const DISPLAY_SETTLED = 20;
 
 /* ----------------------------------------------------------------------------
  * Main
  * -------------------------------------------------------------------------- */
 async function main() {
-  const [positionsResp, settlementsResp, fills] = await Promise.all([
+  const [positionsResp, settlementsResp] = await Promise.all([
     kget("/portfolio/positions"),
     kget("/portfolio/settlements"),
-    kgetAll("/portfolio/fills", "fills"),
   ]);
 
   if (DEBUG) {
     await mkdir("data/_debug", { recursive: true });
     await writeFile("data/_debug/positions.json", JSON.stringify(positionsResp, null, 2));
     await writeFile("data/_debug/settlements.json", JSON.stringify(settlementsResp, null, 2));
-    await writeFile("data/_debug/fills.json", JSON.stringify(fills, null, 2));
   }
 
-  const cost = costBasisByTicker(fills);
-
-  // ---- MAPPING (verify against DEBUG output for your account) ----
   const marketPositions = (positionsResp.market_positions || [])
     .filter((mp) => mp.position !== 0);
   const settlements = settlementsResp.settlements || [];
 
-  // Fetch market metadata (title + current price) for each open ticker.
-  const markets = {};
-  await Promise.all(
-    marketPositions.map(async (mp) => {
-      try {
-        const m = (await kget(`/markets/${mp.ticker}`)).market;
-        markets[mp.ticker] = m;
-      } catch {
-        markets[mp.ticker] = null;
-      }
-    })
-  );
+  // Fetch a human title for each ticker we'll display (open + recent settled).
+  const titleCache = {};
+  async function titleFor(ticker) {
+    if (ticker in titleCache) return titleCache[ticker];
+    try {
+      titleCache[ticker] = (await kget(`/markets/${ticker}`)).market?.title || ticker;
+    } catch {
+      titleCache[ticker] = ticker;
+    }
+    return titleCache[ticker];
+  }
 
-  /* -------- ACTIVE positions -------- */
+  /* -------- ACTIVE positions --------
+     Kalshi gives cost + current value directly on each market_position:
+       total_traded    = cost basis of the position (cents)
+       market_exposure = current market value of the position (cents)
+     avg / last are derived per-contract just for display.                    */
   let unrealizedPnl = 0, activeCost = 0;
-  const active = marketPositions.map((mp) => {
+  const active = await Promise.all(marketPositions.map(async (mp) => {
     const side = mp.position > 0 ? "yes" : "no";
-    const leg = cost[mp.ticker]?.[side];
-    const avg = Math.round(avgOf(leg)) || 0; // avg entry, cents
-    const m = markets[mp.ticker] || {};
-    // current price of the *held side*, in cents
-    const yesLast = m.last_price ?? m.yes_bid ?? avg;
-    const last = side === "yes" ? yesLast : 100 - yesLast;
-    const basis = avg || 1;
-    const return_pct = round1(((last - avg) / basis) * 100);
-
     const qty = Math.abs(mp.position);
-    unrealizedPnl += (last - avg) * qty;
-    activeCost += avg * qty;
+    const costCents = mp.total_traded ?? 0;
+    const valueCents = mp.market_exposure ?? 0;
+    const avg = qty ? Math.round(costCents / qty) : 0;
+    const last = qty ? Math.round(valueCents / qty) : 0;
+    const return_pct = costCents ? round1(((valueCents - costCents) / costCents) * 100) : 0;
 
-    return {
-      title: m.title || mp.ticker,
-      ticker: mp.ticker,
-      side,
-      avg,
-      last,
-      return_pct,
-    };
-  });
+    unrealizedPnl += valueCents - costCents;
+    activeCost += costCents;
 
-  /* -------- SETTLED (historicals) -------- */
-  let realizedPnl = 0, settledCost = 0, wins = 0;
-  const settled = settlements.map((s) => {
-    const basisCents = cost[s.ticker]?.totalBuyCost || 0;
-    const revenue = s.revenue ?? 0; // payout, cents
-    const pnl = revenue - basisCents;
-    const return_pct = basisCents ? round1((pnl / basisCents) * 100) : 0;
-    if (pnl > 0) wins++;
-    realizedPnl += pnl;
-    settledCost += basisCents;
-    const dt = s.settled_time || s.determined_time || "";
+    return { title: await titleFor(mp.ticker), ticker: mp.ticker, side, avg, last, return_pct };
+  }));
+
+  /* -------- SETTLED (historicals) --------
+     Each settlement carries its own cost + payout:
+       yes_total_cost + no_total_cost = cost basis (cents)
+       revenue                        = payout received (cents)               */
+  const settledCalc = settlements.map((s) => {
+    const costCents = (s.yes_total_cost ?? 0) + (s.no_total_cost ?? 0);
+    const revenue = s.revenue ?? 0;
+    const pnl = revenue - costCents;
     return {
-      title: s.title || s.ticker,
       ticker: s.ticker,
       result: (s.market_result || "").toLowerCase() === "yes" ? "yes" : "no",
-      date: dt ? dt.slice(0, 10) : "",
-      return_pct,
+      date: (s.settled_time || s.determined_time || "").slice(0, 10),
+      costCents,
+      pnl,
+      return_pct: costCents ? round1((pnl / costCents) * 100) : 0,
+      sortKey: s.settled_time || s.determined_time || "",
     };
   });
+
+  // Aggregates over ALL settled markets.
+  const realizedPnl = settledCalc.reduce((a, x) => a + x.pnl, 0);
+  const settledCost = settledCalc.reduce((a, x) => a + x.costCents, 0);
+  const wins = settledCalc.filter((x) => x.pnl > 0).length;
 
   /* -------- aggregates (percentages only) -------- */
   const realized_return_pct = settledCost ? round1((realizedPnl / settledCost) * 100) : 0;
   const unrealized_return_pct = activeCost ? round1((unrealizedPnl / activeCost) * 100) : 0;
   const totalCost = settledCost + activeCost;
   const net_return_pct = totalCost ? round1(((realizedPnl + unrealizedPnl) / totalCost) * 100) : 0;
-  const win_rate_pct = settled.length ? round1((wins / settled.length) * 100) : 0;
+  const win_rate_pct = settledCalc.length ? round1((wins / settledCalc.length) * 100) : 0;
 
   // cumulative realized return %, chronological, for the sparkline
-  const chrono = [...settlements].sort((a, b) =>
-    (a.settled_time || "").localeCompare(b.settled_time || ""));
+  const chrono = [...settledCalc].sort((a, b) => a.sortKey.localeCompare(b.sortKey));
   let cumPnl = 0, cumCost = 0;
   const curve = [0];
-  for (const s of chrono) {
-    cumPnl += (s.revenue ?? 0) - (cost[s.ticker]?.totalBuyCost || 0);
-    cumCost += cost[s.ticker]?.totalBuyCost || 0;
+  for (const x of chrono) {
+    cumPnl += x.pnl;
+    cumCost += x.costCents;
     curve.push(cumCost ? round1((cumPnl / cumCost) * 100) : 0);
   }
+
+  // Displayed historicals: most recent N, with titles.
+  const recent = [...settledCalc].sort((a, b) => b.sortKey.localeCompare(a.sortKey)).slice(0, DISPLAY_SETTLED);
+  const settled = await Promise.all(recent.map(async (x) => ({
+    title: await titleFor(x.ticker),
+    ticker: x.ticker,
+    result: x.result,
+    date: x.date,
+    return_pct: x.return_pct,
+  })));
 
   const out = {
     updated: new Date().toISOString().replace("T", " ").slice(0, 16) + " UTC",
@@ -215,6 +202,7 @@ async function main() {
     realized_return_pct,
     unrealized_return_pct,
     win_rate_pct,
+    settled_total: settledCalc.length,
     curve,
     active,
     settled,
@@ -222,7 +210,7 @@ async function main() {
 
   await mkdir(path.dirname("data/kalshi.json"), { recursive: true });
   await writeFile("data/kalshi.json", JSON.stringify(out, null, 2) + "\n");
-  console.log(`Wrote data/kalshi.json — ${active.length} active, ${settled.length} settled, net ${net_return_pct}%`);
+  console.log(`Wrote data/kalshi.json — ${active.length} active, ${settledCalc.length} settled (showing ${settled.length}), net ${net_return_pct}%`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

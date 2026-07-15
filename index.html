@@ -203,7 +203,7 @@
       </section>
 
       <section>
-        <h2>settled &mdash; historicals</h2>
+        <h2 id="settled-head">settled &mdash; historicals</h2>
         <table class="rows">
           <thead>
             <tr>
@@ -292,6 +292,12 @@
         </tr>`).join("");
 
       const settled = [...p.settled].sort((a, b) => b.date.localeCompare(a.date));
+      const settledHead = document.getElementById("settled-head");
+      if (settledHead) {
+        settledHead.innerHTML = p.settled_total && p.settled_total > p.settled.length
+          ? `settled &mdash; historicals <span style="color:var(--muted)">(showing ${p.settled.length} of ${p.settled_total})</span>`
+          : "settled &mdash; historicals";
+      }
       document.getElementById("settled-rows").innerHTML = settled.map(x => `
         <tr>
           <td class="mkt">${x.title}<br><span class="tick">${x.ticker}</span></td>
