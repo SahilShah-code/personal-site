@@ -88,6 +88,18 @@ async function kgetAll(endpoint, arrayKey, params = {}) {
  * -------------------------------------------------------------------------- */
 const round1 = (n) => Math.round(n * 10) / 10;
 
+// Kalshi reports money two ways: integer CENTS in bare fields (e.g. `revenue`)
+// and DOLLAR strings in `*_dollars` fields (e.g. "yes_total_cost_dollars":
+// "9.407000"). These normalize everything to DOLLARS.
+const strDollars = (v) => (v == null ? 0 : parseFloat(v) || 0);
+const centsToDollars = (v) =>
+  v == null ? 0 : (typeof v === "number" ? v / 100 : (parseFloat(v) || 0) / 100);
+// Prefer "<base>_dollars" (string, dollars); fall back to bare "<base>" (cents).
+const moneyDollars = (obj, base) =>
+  obj[base + "_dollars"] != null ? strDollars(obj[base + "_dollars"])
+  : obj[base] != null ? (typeof obj[base] === "number" ? obj[base] / 100 : strDollars(obj[base]))
+  : 0;
+
 // How many settled markets to show in the "historicals" list (aggregates still
 // use ALL of them). Kept modest so the page stays readable and title lookups
 // stay light.
@@ -125,48 +137,49 @@ async function main() {
   }
 
   /* -------- ACTIVE positions --------
-     Kalshi gives cost + current value directly on each market_position:
-       total_traded    = cost basis of the position (cents)
-       market_exposure = current market value of the position (cents)
-     avg / last are derived per-contract just for display.                    */
-  let unrealizedPnl = 0, activeCost = 0;
+     All money normalized to DOLLARS via moneyDollars() (handles both the
+     `*_dollars` string fields and bare cents integers). avg / last are
+     per-contract prices in cents, just for display.                          */
+  let unrealizedPnl = 0, activeCost = 0; // dollars
   const active = await Promise.all(marketPositions.map(async (mp) => {
-    const side = mp.position > 0 ? "yes" : "no";
-    const qty = Math.abs(mp.position);
-    const costCents = mp.total_traded ?? 0;
-    const valueCents = mp.market_exposure ?? 0;
-    const avg = qty ? Math.round(costCents / qty) : 0;
-    const last = qty ? Math.round(valueCents / qty) : 0;
-    const return_pct = costCents ? round1(((valueCents - costCents) / costCents) * 100) : 0;
+    const qtyRaw = mp.position != null ? mp.position : (parseFloat(mp.position_fp) || 0);
+    const side = qtyRaw > 0 ? "yes" : "no";
+    const qty = Math.abs(qtyRaw);
+    const cost = moneyDollars(mp, "total_traded");     // dollars
+    const value = moneyDollars(mp, "market_exposure"); // dollars (current value)
+    const avg = qty ? Math.round((cost / qty) * 100) : 0;   // cents/contract
+    const last = qty ? Math.round((value / qty) * 100) : 0; // cents/contract
+    const return_pct = cost ? round1(((value - cost) / cost) * 100) : 0;
 
-    unrealizedPnl += valueCents - costCents;
-    activeCost += costCents;
+    unrealizedPnl += value - cost;
+    activeCost += cost;
 
     return { title: await titleFor(mp.ticker), ticker: mp.ticker, side, avg, last, return_pct };
   }));
 
   /* -------- SETTLED (historicals) --------
-     Each settlement carries its own cost + payout:
-       yes_total_cost + no_total_cost = cost basis (cents)
-       revenue                        = payout received (cents)               */
+     yes_total_cost_dollars + no_total_cost_dollars = cost basis (dollar strings)
+     revenue (cents) = payout received;  fee_cost (dollar string) = fees paid    */
   const settledCalc = settlements.map((s) => {
-    const costCents = (s.yes_total_cost ?? 0) + (s.no_total_cost ?? 0);
-    const revenue = s.revenue ?? 0;
-    const pnl = revenue - costCents;
+    const contractCost = moneyDollars(s, "yes_total_cost") + moneyDollars(s, "no_total_cost");
+    const fees = strDollars(s.fee_cost);        // dollars
+    const cost = contractCost + fees;           // total outlay (basis) so a full loss = -100%
+    const revenue = centsToDollars(s.revenue);  // dollars
+    const pnl = revenue - cost;                 // dollars, net of fees
     return {
       ticker: s.ticker,
       result: (s.market_result || "").toLowerCase() === "yes" ? "yes" : "no",
       date: (s.settled_time || s.determined_time || "").slice(0, 10),
-      costCents,
+      cost,
       pnl,
-      return_pct: costCents ? round1((pnl / costCents) * 100) : 0,
+      return_pct: cost ? round1((pnl / cost) * 100) : 0,
       sortKey: s.settled_time || s.determined_time || "",
     };
   });
 
   // Aggregates over ALL settled markets.
   const realizedPnl = settledCalc.reduce((a, x) => a + x.pnl, 0);
-  const settledCost = settledCalc.reduce((a, x) => a + x.costCents, 0);
+  const settledCost = settledCalc.reduce((a, x) => a + x.cost, 0);
   const wins = settledCalc.filter((x) => x.pnl > 0).length;
 
   /* -------- aggregates (percentages only) -------- */
@@ -182,7 +195,7 @@ async function main() {
   const curve = [0];
   for (const x of chrono) {
     cumPnl += x.pnl;
-    cumCost += x.costCents;
+    cumCost += x.cost;
     curve.push(cumCost ? round1((cumPnl / cumCost) * 100) : 0);
   }
 
