@@ -109,19 +109,41 @@ const DISPLAY_SETTLED = 20;
  * Main
  * -------------------------------------------------------------------------- */
 async function main() {
-  const [positionsResp, settlementsResp] = await Promise.all([
-    kget("/portfolio/positions"),
+  // positions defaults to OPEN positions only. settlement_status=all returns
+  // every market ever traded (open + closed + settled), each carrying Kalshi's
+  // own realized_pnl — which includes profit taken by SELLING early, not just
+  // held-to-settlement outcomes. Paginate to be safe.
+  async function pagePositions(status) {
+    let cursor, mkt = [], evt = [];
+    do {
+      const p = await kget("/portfolio/positions", { settlement_status: status, limit: 500, cursor });
+      mkt = mkt.concat(p.market_positions || []);
+      evt = evt.concat(p.event_positions || []);
+      cursor = p.cursor || undefined;
+    } while (cursor);
+    return { market_positions: mkt, event_positions: evt };
+  }
+
+  const [allPositions, settlementsResp, fills] = await Promise.all([
+    pagePositions("all"),
     kget("/portfolio/settlements"),
+    kgetAll("/portfolio/fills", "fills"),
   ]);
 
   if (DEBUG) {
     await mkdir("data/_debug", { recursive: true });
-    await writeFile("data/_debug/positions.json", JSON.stringify(positionsResp, null, 2));
+    await writeFile("data/_debug/positions_all.json", JSON.stringify(allPositions, null, 2));
     await writeFile("data/_debug/settlements.json", JSON.stringify(settlementsResp, null, 2));
+    await writeFile("data/_debug/fills.json", JSON.stringify(fills, null, 2));
+    // Schema-only summary (safe to read in logs; no dollar values).
+    console.log("SCHEMA market_positions count:", allPositions.market_positions.length);
+    console.log("SCHEMA market_position keys   :", JSON.stringify(Object.keys(allPositions.market_positions[0] || {})));
+    console.log("SCHEMA fills count            :", fills.length);
+    console.log("SCHEMA fill keys              :", JSON.stringify(Object.keys(fills[0] || {})));
   }
 
-  const marketPositions = (positionsResp.market_positions || [])
-    .filter((mp) => mp.position !== 0);
+  const marketPositions = (allPositions.market_positions || [])
+    .filter((mp) => (mp.position ?? 0) !== 0);
   const settlements = settlementsResp.settlements || [];
 
   // Fetch a human title for each ticker we'll display (open + recent settled).
