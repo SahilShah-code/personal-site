@@ -49,10 +49,15 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- data/kalshi.json; then
-            git add data/kalshi.json
-            git commit -m "chore: refresh kalshi snapshot"
-            git push
-          else
-            echo "No change in data/kalshi.json"
+          if git diff --quiet -- data/kalshi.json; then
+            echo "No change in data/kalshi.json"; exit 0
           fi
+          git add data/kalshi.json
+          git commit -m "chore: refresh kalshi snapshot"
+          # Integrate anything that landed since checkout, then push. Retry once
+          # to survive a concurrent commit racing us to the ref.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push attempt $i failed, retrying..."; sleep 3
+          done
+          echo "could not push after retries"; exit 1
