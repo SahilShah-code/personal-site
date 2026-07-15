@@ -179,40 +179,79 @@ async function main() {
     return { title: await titleFor(mp.ticker), ticker: mp.ticker, side, avg, last, return_pct };
   }));
 
-  /* -------- SETTLED (historicals) --------
-     yes_total_cost_dollars + no_total_cost_dollars = cost basis (dollar strings)
-     revenue (cents) = payout received;  fee_cost (dollar string) = fees paid    */
-  const settledCalc = settlements.map((s) => {
-    const contractCost = moneyDollars(s, "yes_total_cost") + moneyDollars(s, "no_total_cost");
-    const fees = strDollars(s.fee_cost);        // dollars
-    const cost = contractCost + fees;           // total outlay (basis) so a full loss = -100%
-    const revenue = centsToDollars(s.revenue);  // dollars
-    const pnl = revenue - cost;                 // dollars, net of fees
-    return {
-      ticker: s.ticker,
+  /* -------- REALIZED P&L from FILLS (+ settlements) --------
+     Kalshi's positions endpoint drops closed markets, so realized P&L is
+     reconstructed from the full fills history. Per market:
+       realized = (sell proceeds + settlement payout) - (buy cost + all fees)
+     This counts BOTH held-to-settlement outcomes AND trades closed early by
+     selling — the early exits were previously missing, hiding real winners.  */
+
+  // settlement payout + metadata, keyed by ticker
+  const settleByTicker = {};
+  for (const s of settlements) {
+    settleByTicker[s.ticker] = {
+      revenue: centsToDollars(s.revenue),                 // payout, dollars
+      fee: strDollars(s.fee_cost),
       result: (s.market_result || "").toLowerCase() === "yes" ? "yes" : "no",
-      date: (s.settled_time || s.determined_time || "").slice(0, 10),
+      time: s.settled_time || s.determined_time || "",
+    };
+  }
+
+  // aggregate each market's cash flows from its fills
+  const agg = {};
+  for (const f of fills) {
+    const ticker = f.ticker || f.market_ticker;
+    if (!ticker) continue;
+    const a = (agg[ticker] ??= { buyCost: 0, sellProceeds: 0, fees: 0, yesNet: 0, noNet: 0, lastTs: "" });
+    const isNo = (f.side || f.outcome_side || f.book_side || "").toLowerCase() === "no";
+    const price = isNo ? strDollars(f.no_price_dollars) : strDollars(f.yes_price_dollars); // $/contract
+    const count = parseFloat(f.count_fp) || 0;
+    const amount = count * price;
+    a.fees += strDollars(f.fee_cost);
+    const ts = f.created_time || f.ts || "";
+    if (ts > a.lastTs) a.lastTs = ts;
+    if ((f.action || "").toLowerCase() === "buy") {
+      a.buyCost += amount;
+      if (isNo) a.noNet += count; else a.yesNet += count;
+    } else {
+      a.sellProceeds += amount;
+      if (isNo) a.noNet -= count; else a.yesNet -= count;
+    }
+  }
+
+  // a market is "realized" when it's settled or its contracts are all closed out
+  const closed = [];
+  for (const [ticker, a] of Object.entries(agg)) {
+    const s = settleByTicker[ticker];
+    const openContracts = Math.max(0, a.yesNet) + Math.max(0, a.noNet);
+    if (openContracts > 0.01 && !s) continue; // still open -> shown via positions endpoint
+    const cost = a.buyCost + a.fees + (s ? s.fee : 0);      // total outlay (basis)
+    const proceeds = a.sellProceeds + (s ? s.revenue : 0);  // sells + settlement payout
+    const pnl = proceeds - cost;
+    closed.push({
+      ticker,
+      result: s ? s.result : "closed",   // "closed" = exited by selling before resolution
+      date: (s ? s.time : a.lastTs).slice(0, 10),
+      time: s ? s.time : a.lastTs,
       cost,
       pnl,
       return_pct: cost ? round1((pnl / cost) * 100) : 0,
-      sortKey: s.settled_time || s.determined_time || "",
-    };
-  });
+    });
+  }
 
-  // Aggregates over ALL settled markets.
-  const realizedPnl = settledCalc.reduce((a, x) => a + x.pnl, 0);
-  const settledCost = settledCalc.reduce((a, x) => a + x.cost, 0);
-  const wins = settledCalc.filter((x) => x.pnl > 0).length;
+  const realizedPnl = closed.reduce((x, r) => x + r.pnl, 0);
+  const closedCost = closed.reduce((x, r) => x + r.cost, 0);
+  const wins = closed.filter((r) => r.pnl > 0).length;
 
   /* -------- aggregates (percentages only) -------- */
-  const realized_return_pct = settledCost ? round1((realizedPnl / settledCost) * 100) : 0;
+  const realized_return_pct = closedCost ? round1((realizedPnl / closedCost) * 100) : 0;
   const unrealized_return_pct = activeCost ? round1((unrealizedPnl / activeCost) * 100) : 0;
-  const totalCost = settledCost + activeCost;
+  const totalCost = closedCost + activeCost;
   const net_return_pct = totalCost ? round1(((realizedPnl + unrealizedPnl) / totalCost) * 100) : 0;
-  const win_rate_pct = settledCalc.length ? round1((wins / settledCalc.length) * 100) : 0;
+  const win_rate_pct = closed.length ? round1((wins / closed.length) * 100) : 0;
 
   // cumulative realized return %, chronological, for the sparkline
-  const chrono = [...settledCalc].sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+  const chrono = [...closed].sort((a, b) => a.time.localeCompare(b.time));
   let cumPnl = 0, cumCost = 0;
   const curve = [0];
   for (const x of chrono) {
@@ -222,7 +261,7 @@ async function main() {
   }
 
   // Displayed historicals: most recent N, with titles.
-  const recent = [...settledCalc].sort((a, b) => b.sortKey.localeCompare(a.sortKey)).slice(0, DISPLAY_SETTLED);
+  const recent = [...closed].sort((a, b) => b.time.localeCompare(a.time)).slice(0, DISPLAY_SETTLED);
   const settled = await Promise.all(recent.map(async (x) => ({
     title: await titleFor(x.ticker),
     ticker: x.ticker,
@@ -237,7 +276,7 @@ async function main() {
     realized_return_pct,
     unrealized_return_pct,
     win_rate_pct,
-    settled_total: settledCalc.length,
+    settled_total: closed.length,
     curve,
     active,
     settled,
@@ -245,7 +284,7 @@ async function main() {
 
   await mkdir(path.dirname("data/kalshi.json"), { recursive: true });
   await writeFile("data/kalshi.json", JSON.stringify(out, null, 2) + "\n");
-  console.log(`Wrote data/kalshi.json — ${active.length} active, ${settledCalc.length} settled (showing ${settled.length}), net ${net_return_pct}%`);
+  console.log(`Wrote data/kalshi.json — ${active.length} active, ${closed.length} closed/settled (showing ${settled.length}), realized ${realized_return_pct}%, win ${win_rate_pct}%`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
