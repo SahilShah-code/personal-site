@@ -223,9 +223,6 @@
       <nav>
         <ul>
           <li><a href="#about"><span class="idx">01</span>about</a></li>
-          <li><a href="#prediction-markets"><span class="idx">02</span>prediction markets</a></li>
-          <li><a href="#biotech"><span class="idx">03</span>biotech</a></li>
-          <li><a href="#documentaries"><span class="idx">04</span>documentaries</a></li>
         </ul>
       </nav>
     </div>
@@ -519,6 +516,8 @@
       ["prediction markets", "markets"], ["prediction markets", "tennis"],
     ];
     const mmFont = () => '12px "Courier New", monospace';
+    // bubbles that navigate to a built view when clicked
+    const MM_LINKS = { "prediction markets": "prediction-markets" };
     let mm = null, mmInited = false;
 
     function mmMeasure() {
@@ -568,11 +567,16 @@
           if (mm.downXY && Math.hypot(x - mm.downXY[0], y - mm.downXY[1]) > 4) mm.moved = true;
         } else {
           mm.hover = mmNodeAt(x, y);
-          c.style.cursor = mm.hover >= 0 ? "grab" : "default";
+          c.style.cursor = mm.hover < 0 ? "default"
+            : (MM_LINKS[mm.nodes[mm.hover].label] ? "pointer" : "grab");
         }
       });
       c.addEventListener("pointerup", () => {
-        if (mm.drag >= 0 && !mm.moved) mm.sel = (mm.sel === mm.drag ? -1 : mm.drag);
+        if (mm.drag >= 0 && !mm.moved) {
+          const label = mm.nodes[mm.drag].label;
+          if (MM_LINKS[label]) { mm.drag = -1; show(MM_LINKS[label]); return; }
+          mm.sel = (mm.sel === mm.drag ? -1 : mm.drag);
+        }
         mm.drag = -1;
       });
     }
@@ -675,7 +679,7 @@
       a.addEventListener("click", (e) => { e.preventDefault(); show(a.getAttribute("href").replace("#", "")); });
     });
     document.getElementById("home-link").addEventListener("click", () => show("home"));
-    document.getElementById("pm-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
+    document.getElementById("pm-back").addEventListener("click", (e) => { e.preventDefault(); show("about"); });
     document.getElementById("about-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") show("home"); });
 
