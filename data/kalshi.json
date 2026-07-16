@@ -1,69 +1,69 @@
 {
-  "updated": "2026-07-16 14:56 UTC",
-  "net_return_pct": -13.9,
-  "realized_return_pct": -13.9,
+  "updated": "2026-07-16 15:01 UTC",
+  "net_return_pct": -6.6,
+  "realized_return_pct": -6.6,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 42.1,
+  "win_rate_pct": 50.9,
   "settled_total": 57,
   "curve": [
     0,
-    -5.2,
-    43.8,
-    35.3,
-    -0.9,
-    -0.4,
-    -9.6,
-    -9.3,
-    -12.2,
-    -19.6,
-    -9.9,
-    -9.4,
-    -7.7,
-    -9.7,
-    -8.2,
-    -4.4,
-    -8.9,
-    -13.8,
-    -11.7,
-    -10.8,
-    -5.3,
-    -1.3,
-    -2,
-    -1.3,
-    1.6,
-    2.2,
-    0.2,
-    -8.4,
+    2.5,
+    61.8,
+    50.9,
+    8.1,
+    8.7,
+    -1.6,
+    -1.5,
+    -4.7,
+    -13,
+    -2.8,
+    -2.2,
+    -0.1,
+    -2.4,
+    -0.6,
+    3.6,
+    -1.5,
+    -6.9,
+    -4.6,
+    -3.5,
+    2.3,
+    6.7,
+    6,
+    6.7,
+    9.8,
+    10.6,
+    8.4,
+    -1.2,
+    -1.2,
+    -2.9,
+    -4.5,
+    -4.3,
+    -3.2,
+    -4.3,
+    -3.7,
+    -7.9,
+    -3.3,
+    -2.4,
+    -7.4,
+    -6.2,
+    -2.5,
+    -1.2,
+    -1,
+    -3.1,
+    -5.1,
+    -1.5,
+    -2.5,
+    -3.9,
+    -5.8,
+    -6.7,
     -8.5,
-    -10,
-    -11.5,
-    -11.3,
-    -10.3,
-    -11.3,
-    -10.8,
-    -14.6,
-    -10.5,
-    -9.7,
-    -14.2,
-    -13.2,
-    -10.1,
-    -9.1,
-    -8.9,
-    -10.8,
-    -12.7,
-    -9.5,
-    -10.4,
-    -11.7,
-    -13.4,
-    -14.2,
-    -15.8,
-    -11.1,
-    -10.7,
-    -11.5,
-    -13.1,
-    -13.2,
-    -12.5,
-    -13.9
+    -3.4,
+    -3,
+    -3.9,
+    -5.7,
+    -5.9,
+    -5.1,
+    -6.6
   ],
   "active": [],
   "settled": [
@@ -79,21 +79,21 @@
       "ticker": "KXATP-26WIM-ZVE",
       "result": "no",
       "date": "2026-07-12",
-      "return_pct": 26
+      "return_pct": 39.4
     },
     {
       "title": "Norway vs England: To Advance",
       "ticker": "KXWCADVANCE-26JUL11NORENG-NOR",
       "result": "no",
       "date": "2026-07-11",
-      "return_pct": -18.2
+      "return_pct": -11.3
     },
     {
       "title": "France vs Morocco: To Advance",
       "ticker": "KXWCADVANCE-26JUL09FRAMAR-MAR",
       "result": "no",
       "date": "2026-07-09",
-      "return_pct": -96.1
+      "return_pct": -95.9
     },
     {
       "title": "yes Morocco advances,yes Michael Olise: 1+,yes Achraf Hakimi: 1+",
@@ -107,14 +107,14 @@
       "ticker": "KXATPMATCH-26JUL08COBFER-FER",
       "result": "yes",
       "date": "2026-07-08",
-      "return_pct": 10.4
+      "return_pct": 15.3
     },
     {
       "title": "Will Arthur Fery win the Dimitrov vs Fery: Round Of 16 match?",
       "ticker": "KXATPMATCH-26JUL06DIMFER-FER",
       "result": "yes",
       "date": "2026-07-06",
-      "return_pct": 223.5
+      "return_pct": 253.9
     },
     {
       "title": "Will Alexander Bublik win the Fritz vs Bublik: Round Of 16 match?",
@@ -142,7 +142,7 @@
       "ticker": "KXWCGAME-26JUN24RSAKOR-KOR",
       "result": "no",
       "date": "2026-06-25",
-      "return_pct": -76.5
+      "return_pct": -74.8
     },
     {
       "title": "yes Tie,yes England,yes Croatia,yes Bosnia and Herzegovina,yes Czechia,yes Morocco,yes Korea Republic,yes Brazil,yes Tie",
@@ -156,7 +156,7 @@
       "ticker": "KXWCGAME-26JUN21URUCPV-CPV",
       "result": "no",
       "date": "2026-06-22",
-      "return_pct": 187.8
+      "return_pct": 268.5
     },
     {
       "title": "Ecuador vs Curacao Winner?",
@@ -177,28 +177,28 @@
       "ticker": "KXWCGAME-26JUN19TURPAR-TUR",
       "result": "no",
       "date": "2026-06-20",
-      "return_pct": -3.1
+      "return_pct": 5.9
     },
     {
       "title": "England vs Croatia Winner?",
       "ticker": "KXWCGAME-26JUN17ENGCRO-CRO",
       "result": "no",
       "date": "2026-06-17",
-      "return_pct": 1.5
+      "return_pct": 14.4
     },
     {
       "title": "Austria vs Jordan Winner?",
       "ticker": "KXWCGAME-26JUN17AUTJOR-TIE",
       "result": "no",
       "date": "2026-06-17",
-      "return_pct": 61.5
+      "return_pct": 80.5
     },
     {
       "title": "Austria vs Jordan Winner?",
       "ticker": "KXWCGAME-26JUN17AUTJOR-JOR",
       "result": "no",
       "date": "2026-06-17",
-      "return_pct": 86.2
+      "return_pct": 122
     },
     {
       "title": "France vs Senegal Winner?",
