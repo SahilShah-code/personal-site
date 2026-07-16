@@ -198,24 +198,36 @@ async function main() {
   }
 
   // aggregate each market's cash flows from its fills
+  //
+  // IMPORTANT: a fill's `side`/`outcome_side` just mirror `book_side` (bid=yes,
+  // ask=no) — they describe the order-book side matched, NOT the contract the
+  // user holds. On a SELL (a close), the tag is therefore the OPPOSITE of the
+  // side actually held. So the "effective side" = tagged side on a buy, and the
+  // opposite of the tagged side on a sell. Price + position netting both follow
+  // the effective side. (Validated: for held-to-settlement markets the net
+  // effective contracts reconcile exactly with the API's settlement payout.)
   const agg = {};
   for (const f of fills) {
     const ticker = f.ticker || f.market_ticker;
     if (!ticker) continue;
     const a = (agg[ticker] ??= { buyCost: 0, sellProceeds: 0, fees: 0, yesNet: 0, noNet: 0, lastTs: "" });
-    const isNo = (f.side || f.outcome_side || f.book_side || "").toLowerCase() === "no";
-    const price = isNo ? strDollars(f.no_price_dollars) : strDollars(f.yes_price_dollars); // $/contract
     const count = parseFloat(f.count_fp) || 0;
+    const yesP = strDollars(f.yes_price_dollars);
+    const noP = strDollars(f.no_price_dollars);
+    const action = (f.action || "").toLowerCase();
+    const tagNo = (f.side || f.outcome_side || "").toLowerCase() === "no";
+    const effNo = action === "buy" ? tagNo : !tagNo; // sell = opposite of tag
+    const price = effNo ? noP : yesP;                // price of the effective side
     const amount = count * price;
     a.fees += strDollars(f.fee_cost);
     const ts = f.created_time || f.ts || "";
     if (ts > a.lastTs) a.lastTs = ts;
-    if ((f.action || "").toLowerCase() === "buy") {
+    if (action === "buy") {
       a.buyCost += amount;
-      if (isNo) a.noNet += count; else a.yesNet += count;
+      if (effNo) a.noNet += count; else a.yesNet += count;
     } else {
       a.sellProceeds += amount;
-      if (isNo) a.noNet -= count; else a.yesNet -= count;
+      if (effNo) a.noNet -= count; else a.yesNet -= count;
     }
   }
 
