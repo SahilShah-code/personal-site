@@ -1,0 +1,43 @@
+[
+  {
+    "id": "biotech-prediction-signal",
+    "title": "Prediction markets → biotech stock moves",
+    "status": "testing",
+    "date": "2026-07-16",
+    "summary": "Biotech prices are driven by binary catalysts (approvals, PDUFA dates, trial readouts). Prediction markets now quote explicit odds on those exact events. Can that odds data forecast the stock's move better than the usual baselines?",
+    "sections": [
+      {
+        "h": "thesis",
+        "body": "A single binary event — an FDA approval vs. a complete response letter, a PDUFA decision, an AdCom vote, a pivotal Phase 3 readout — can move a biotech stock 30–80% in a day. Prediction markets now put an explicit, continuously-updating probability on many of these events.\n\nHypothesis: the market-implied probability, and especially its *changes over time*, carries tradable information about the direction and magnitude of the stock's move around the catalyst — potentially faster or cleaner than options-implied moves or analyst estimates."
+      },
+      {
+        "h": "why biotech specifically",
+        "body": "Most equities move on a fuzzy blend of many factors. Clinical-stage biotech is the opposite: price is dominated by discrete, dateable, binary events with clean resolutions. That makes it the ideal testbed for a prediction-market signal —\n- the catalysts have known (or narrow) dates\n- the outcome resolves unambiguously (approved / not)\n- the payoff maps directly onto a probability\n- the price reaction is large enough to measure above the noise"
+      },
+      {
+        "h": "data & sources",
+        "body": "- Catalyst calendar: PDUFA / AdCom dates, Phase 2/3 readout windows — from ClinicalTrials.gov, FDA calendars, company IR\n- Prediction markets: implied-probability time series per catalyst — Kalshi (FDA-approval markets), Polymarket, etc.\n- Equity data: daily + intraday OHLCV for each biotech ticker, plus a sector index (XBI / IBB) to market-adjust\n- Optional benchmark: options-implied move (straddle) as the signal to beat"
+      },
+      {
+        "h": "methodology",
+        "body": "1. Assemble a sample of catalysts that have BOTH a tradable prediction market and a public equity.\n2. Build the implied-probability series p(t) for each catalyst from the market.\n3. Event study: define a window [-T, +T] around the event; compute abnormal returns (stock return minus beta-adjusted XBI).\n4. Signal tests:\n- Lead-lag: cross-correlate Δp(t) with stock returns — does the market move first, and by how many hours/days?\n- Predictive power: does p(t) / Δp(t) predict the sign and size of the post-catalyst jump? (directional accuracy, regression R²)\n- Calibration: Brier score and AUC of p(t) vs the realized outcome\n- Trading sim: size a position by the edge between market prob and options-implied prob; measure hit-rate, avg return, Sharpe"
+      },
+      {
+        "h": "metrics to compute",
+        "body": "- n = number of catalysts in sample\n- directional accuracy (% of jumps whose sign the signal called)\n- Brier score & AUC (probability calibration vs outcome)\n- lead-lag correlation and the lag at which it peaks\n- cumulative abnormal return (CAR) around the event\n- backtested strategy: hit-rate, average return, Sharpe, max drawdown"
+      },
+      {
+        "h": "results",
+        "body": "— pending first backtest — nothing here will be filled in until it's computed from real data."
+      },
+      {
+        "h": "open questions",
+        "body": "- Coverage: are there enough biotech catalysts with liquid prediction markets to get a meaningful n?\n- Causation: do markets actually lead the stock, or just mirror the same options/flow information?\n- Selection bias: markets tend to exist for the high-profile catalysts — does that skew results?\n- Timing: prediction markets can resolve on a lag vs. the stock's instant reaction — how to align the clocks?"
+      },
+      {
+        "h": "next steps",
+        "body": "1. Enumerate a starter set (~10–20) of biotech catalysts that already had prediction markets.\n2. Pull stock historicals for those tickers (+ XBI).\n3. Source the prediction-market price history for each.\n4. Run the event study, report the metrics above, and see if the signal is real."
+      }
+    ]
+  }
+]

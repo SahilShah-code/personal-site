@@ -208,6 +208,39 @@
     #mindmap { width: 100%; height: 100%; display: block; touch-action: none; }
     .mm-hint { color: var(--muted); font-size: 11px; letter-spacing: .04em; }
 
+    /* ---- thinking: idea repository ---- */
+    .idea-card {
+      border: 1px solid var(--hair); border-radius: 3px;
+      padding: 16px 18px; margin-bottom: 12px; cursor: pointer; max-width: 680px;
+      transition: border-color .15s ease, transform .15s ease;
+    }
+    .idea-card:hover { border-color: var(--ink); transform: translateX(4px); }
+    .idea-card .idea-top { display: flex; justify-content: space-between; align-items: baseline; gap: 14px; }
+    .idea-card h3 { font-size: 14px; font-weight: 400; margin: 0; }
+    .idea-card .summary { color: #555; font-size: 12.5px; line-height: 1.7; margin-top: 8px; }
+    .idea-card .date { color: var(--muted); font-size: 11px; margin-top: 10px; }
+    .status {
+      font-size: 10px; letter-spacing: .12em; text-transform: uppercase;
+      padding: 2px 8px; border-radius: 2px; border: 1px solid var(--hair);
+      color: var(--muted); white-space: nowrap; flex-shrink: 0;
+    }
+    .status.testing   { color: var(--ink); border-color: var(--ink); }
+    .status.validated { color: var(--up); border-color: var(--up); }
+    .status.shelved   { color: var(--muted); text-decoration: line-through; }
+
+    .idea-detail-head { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; margin-bottom: 4px; }
+    #idea-body h1 { font-size: 20px; font-weight: 400; margin: 0; max-width: 680px; }
+    #idea-body .date { color: var(--muted); font-size: 11px; margin-bottom: 30px; }
+    .idea-section { max-width: 680px; margin-bottom: 30px; }
+    .idea-section h2 {
+      font-size: 12px; font-weight: 400; color: var(--muted);
+      letter-spacing: .12em; text-transform: lowercase; margin: 0 0 10px;
+    }
+    .idea-section p { font-size: 13px; line-height: 1.8; margin: 0 0 12px; }
+    .idea-section ul { margin: 0 0 12px; padding-left: 18px; }
+    .idea-section li { font-size: 13px; line-height: 1.8; }
+    .idea-section ol { margin: 0 0 12px; padding-left: 20px; }
+
     @media (max-width: 600px) {
       body { padding: 20px; }
       header { flex-direction: column; gap: 8px; }
@@ -300,9 +333,18 @@
 
     <!-- THINKING -->
     <div class="view" id="view-thinking">
-      <a href="#" class="back" id="thinking-back">&larr; back</a>
-      <div class="pm-title">02 / thinking</div>
-      <div class="mm-hint">still thinking&hellip;</div>
+      <!-- index: list of ideas -->
+      <div id="thinking-index">
+        <a href="#" class="back" id="thinking-back">&larr; back</a>
+        <div class="pm-title">02 / thinking</div>
+        <p class="mm-hint" style="margin-bottom:26px">a running log of ideas i'm chewing on.</p>
+        <div id="ideas-list"></div>
+      </div>
+      <!-- detail: one idea -->
+      <div id="thinking-detail" style="display:none">
+        <a href="#" class="back" id="idea-back">&larr; ideas</a>
+        <div id="idea-body"></div>
+      </div>
     </div>
   </main>
 
@@ -679,6 +721,69 @@
     });
 
     /* =========================================================================
+       THINKING — idea repository (index of ideas -> full idea page)
+       Ideas live in data/ideas.json; add an entry there to add an idea.
+       ========================================================================= */
+    let ideasData = null, ideasLoaded = false;
+
+    const esc = (s) => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    function mdLite(text) {
+      return String(text).split(/\n\n+/).map(b => {
+        const lines = b.split("\n");
+        if (lines.every(l => /^- /.test(l))) return "<ul>" + lines.map(l => `<li>${esc(l.slice(2))}</li>`).join("") + "</ul>";
+        if (lines.every(l => /^\d+\.\s/.test(l))) return "<ol>" + lines.map(l => `<li>${esc(l.replace(/^\d+\.\s/, ""))}</li>`).join("") + "</ol>";
+        return "<p>" + esc(b).replace(/\n/g, "<br>") + "</p>";
+      }).join("");
+    }
+
+    function showIdeaIndex() {
+      document.getElementById("thinking-index").style.display = "";
+      document.getElementById("thinking-detail").style.display = "none";
+    }
+    function showIdeaDetail() {
+      document.getElementById("thinking-index").style.display = "none";
+      document.getElementById("thinking-detail").style.display = "";
+    }
+
+    async function thinkingEnter() {
+      showIdeaIndex();
+      if (ideasLoaded) return;
+      ideasLoaded = true;
+      try {
+        const res = await fetch("./data/ideas.json", { cache: "no-store" });
+        ideasData = res.ok ? await res.json() : [];
+      } catch (_) { ideasData = []; }
+      renderIdeaIndex();
+    }
+
+    function renderIdeaIndex() {
+      const list = document.getElementById("ideas-list");
+      if (!ideasData || !ideasData.length) { list.innerHTML = '<p class="mm-hint">— no ideas yet —</p>'; return; }
+      list.innerHTML = ideasData.map(idea => `
+        <div class="idea-card" data-id="${esc(idea.id)}">
+          <div class="idea-top">
+            <h3>${esc(idea.title)}</h3>
+            <span class="status ${esc(idea.status)}">${esc(idea.status)}</span>
+          </div>
+          <div class="summary">${esc(idea.summary)}</div>
+          <div class="date">${esc(idea.date)}</div>
+        </div>`).join("");
+      list.querySelectorAll(".idea-card").forEach(c => c.addEventListener("click", () => openIdea(c.dataset.id)));
+    }
+
+    function openIdea(id) {
+      const idea = (ideasData || []).find(x => x.id === id);
+      if (!idea) return;
+      const secs = (idea.sections || []).map(s =>
+        `<div class="idea-section"><h2>${esc(s.h)}</h2>${mdLite(s.body)}</div>`).join("");
+      document.getElementById("idea-body").innerHTML =
+        `<div class="idea-detail-head"><h1>${esc(idea.title)}</h1><span class="status ${esc(idea.status)}">${esc(idea.status)}</span></div>
+         <div class="date">${esc(idea.date)}</div>${secs}`;
+      showIdeaDetail();
+      window.scrollTo(0, 0);
+    }
+
+    /* =========================================================================
        ROUTING (direct click handlers; hash is best-effort only)
        ========================================================================= */
     const VIEWS = new Set(["home", "prediction-markets", "about", "thinking"]);
@@ -694,6 +799,7 @@
         loadPortfolio().then(renderPortfolio);
       }
       mmSetActive(view === "about");
+      if (view === "thinking") thinkingEnter();
     }
     document.querySelectorAll("nav a").forEach(a => {
       a.addEventListener("click", (e) => { e.preventDefault(); show(a.getAttribute("href").replace("#", "")); });
@@ -702,6 +808,7 @@
     document.getElementById("pm-back").addEventListener("click", (e) => { e.preventDefault(); show("about"); });
     document.getElementById("about-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
     document.getElementById("thinking-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
+    document.getElementById("idea-back").addEventListener("click", (e) => { e.preventDefault(); showIdeaIndex(); window.scrollTo(0, 0); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") show("home"); });
 
     /* =========================================================================
