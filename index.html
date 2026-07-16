@@ -801,7 +801,12 @@
           r: 2.2, glow: 0.8, base: 0.4,
         });
       });
-      const edges = [], K = 2;
+      // ambient nodes: INVISIBLE — they exist only to form the firing mesh (lines)
+      const AMB = Math.max(24, Math.min(Math.round((W * H) / 16000), 48));
+      for (let a = 0; a < AMB; a++) {
+        nodes.push({ isIdea: false, x: 16 + Math.random() * (W - 32), y: 16 + Math.random() * (H - 32), r: 0, glow: 0, base: 0 });
+      }
+      const edges = [], K = 3;
       for (let i = 0; i < nodes.length; i++) {
         const order = nodes.map((n, j) => [j, (n.x - nodes[i].x) ** 2 + (n.y - nodes[i].y) ** 2])
           .filter(([j]) => j !== i).sort((a, b) => a[1] - b[1]);
@@ -833,10 +838,13 @@
       const n = syn.nodes[i];
       if (!n) return;
       n.glow = 1;
-      if (depth > 3 || syn.pulses.length > 160) return;
-      for (const { n: j, e: ei } of (syn.adj[i] || [])) {
-        if (depth === 0 || Math.random() < 0.5) {
-          syn.pulses.push({ from: i, to: j, edge: ei, t0: performance.now(), dur: 380 + Math.random() * 340, depth });
+      if (depth >= 2 || syn.pulses.length > 14) return; // keep cascades small + sparse
+      const nb = (syn.adj[i] || []).slice();
+      const count = depth === 0 ? 2 : 1; // limited fan-out, not every neighbor
+      for (let k = 0; k < count && nb.length; k++) {
+        const { n: j, e: ei } = nb.splice(Math.floor(Math.random() * nb.length), 1)[0];
+        if (depth === 0 || Math.random() < 0.4) {
+          syn.pulses.push({ from: i, to: j, edge: ei, t0: performance.now(), dur: 520 + Math.random() * 420, depth });
         }
       }
     }
@@ -845,7 +853,7 @@
       if (!syn) return;
       const { nodes, edges } = syn;
       if (ts > syn.nextFire) {
-        syn.nextFire = ts + 450 + Math.random() * 850;
+        syn.nextFire = ts + 700 + Math.random() * 1100;
         let idx;
         const ideaIdx = nodes.map((n, i) => n.isIdea ? i : -1).filter(i => i >= 0);
         if (ideaIdx.length && Math.random() < 0.4) idx = ideaIdx[Math.floor(Math.random() * ideaIdx.length)];
@@ -879,15 +887,18 @@
       }
       ctx.textAlign = "center"; ctx.textBaseline = "top"; ctx.font = '11px "Courier New", monospace';
       nodes.forEach((n, i) => {
+        if (!n.isIdea) return; // ambient nodes stay invisible (mesh + firing only)
         const hot = i === hover;
         const bright = Math.min(1, n.base + n.glow * 0.55 + (hot ? 0.4 : 0));
         ctx.beginPath(); ctx.arc(n.x, n.y, n.r * (hot ? 1.7 : 1), 0, Math.PI * 2);
         ctx.fillStyle = `rgba(${SYN_C},${bright})`;
         ctx.shadowBlur = 4 + n.glow * 14 + (hot ? 10 : 0); ctx.shadowColor = `rgba(${SYN_C},0.9)`;
         ctx.fill(); ctx.shadowBlur = 0;
-        const lbl = n.label.length > 34 ? n.label.slice(0, 33) + "…" : n.label;
-        ctx.fillStyle = `rgba(220,238,252,${hot ? 1 : 0.4 + n.glow * 0.4})`;
-        ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 9);
+        if (hot) { // title only on hover
+          const lbl = n.label.length > 40 ? n.label.slice(0, 39) + "…" : n.label;
+          ctx.fillStyle = "rgba(230,242,252,1)";
+          ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 9);
+        }
       });
     }
 
