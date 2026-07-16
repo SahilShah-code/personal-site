@@ -27,6 +27,10 @@
         "body": "- n = number of catalysts in sample\n- directional accuracy (% of jumps whose sign the signal called)\n- Brier score & AUC (probability calibration vs outcome)\n- lead-lag correlation and the lag at which it peaks\n- cumulative abnormal return (CAR) around the event\n- backtested strategy: hit-rate, average return, Sharpe, max drawdown"
       },
       {
+        "h": "data feasibility (scanned 2026-07-16)",
+        "body": "Scanned Polymarket + Kalshi public APIs for biotech-catalyst markets that (a) resolved and (b) map to a public stock.\n\nFindings:\n- Polymarket has ~40 resolved FDA-approval catalyst markets; ~15-25 map to public biotech tickers (CELC, VRDN, IONS, RARE, PGEN, ARVN, CAPR, ARGX, AZN, MNKD, CING…)\n- Per-market odds price-history IS fetchable (CLOB prices-history). Verified real series, e.g.: Ultragenyx UX111 0.20→0.00 (rejected, 33d), Capricor Deramiocel 0.24→0.01 (CRL, 3d), Precigen PRGN-2012 0.74→0.61 (approved, 16d), argenx Vyvgart 0.82→1.00 (approved, 9d)\n- Both approvals AND rejections/CRLs are represented — good for testing predictive power, not just winners\n- Kalshi has far thinner biotech coverage → Polymarket is the primary source\n\nCaveats that shape the test:\n- Windows are short: markets are usually created only ~1-5 weeks before the catalyst, so there's little runway for a long lead-lag study. The realistic test is a NEAR-catalyst event study (does the odds level / odds-jump predict the catalyst-day stock move?), not months of lead-lag.\n- Modest liquidity → odds can be noisy\n- Sample of ~15-25 is enough for a preliminary read, not high-powered statistics\n- The odds API rate-limits → fetching needs retries/backoff"
+      },
+      {
         "h": "results",
         "body": "— pending first backtest — nothing here will be filled in until it's computed from real data."
       },
