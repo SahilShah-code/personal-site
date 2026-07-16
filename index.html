@@ -196,6 +196,11 @@
 
     .updated { color: var(--muted); font-size: 11px; margin-top: -20px; margin-bottom: 34px; }
 
+    /* ---- about: interactive mind map ---- */
+    .mindmap-wrap { position: relative; width: 100%; height: min(70vh, 620px); margin: 16px 0 12px; }
+    #mindmap { width: 100%; height: 100%; display: block; touch-action: none; }
+    .mm-hint { color: var(--muted); font-size: 11px; letter-spacing: .04em; }
+
     @media (max-width: 600px) {
       body { padding: 20px; }
       header { flex-direction: column; gap: 8px; }
@@ -276,6 +281,16 @@
       </section>
 
       <div class="updated" id="pm-updated"></div>
+    </div>
+
+    <!-- ABOUT -->
+    <div class="view" id="view-about">
+      <a href="#" class="back" id="about-back">&larr; back</a>
+      <div class="pm-title">01 / about</div>
+      <div class="mindmap-wrap">
+        <canvas id="mindmap"></canvas>
+      </div>
+      <div class="mm-hint">drag the bubbles &middot; hover to trace connections &middot; click one &mdash; descriptions soon</div>
     </div>
   </main>
 
@@ -494,9 +509,155 @@
     });
 
     /* =========================================================================
+       ABOUT — interactive mind map (force-directed, draggable, floating)
+       ========================================================================= */
+    const MM_NODES = ["Penn", "research", "tennis", "prediction markets", "biotech", "markets", "SketchNF"];
+    const MM_EDGES = [
+      ["Penn", "research"], ["Penn", "tennis"], ["Penn", "SketchNF"],
+      ["research", "biotech"], ["research", "prediction markets"], ["research", "markets"],
+      ["biotech", "markets"], ["biotech", "SketchNF"],
+      ["prediction markets", "markets"], ["prediction markets", "tennis"],
+    ];
+    const mmFont = () => '12px "Courier New", monospace';
+    let mm = null, mmInited = false;
+
+    function mmMeasure() {
+      const rect = mm.canvas.getBoundingClientRect();
+      mm.dpr = window.devicePixelRatio || 1;
+      mm.W = rect.width; mm.H = rect.height;
+      mm.canvas.width = Math.max(1, rect.width * mm.dpr);
+      mm.canvas.height = Math.max(1, rect.height * mm.dpr);
+      mm.ctx.setTransform(mm.dpr, 0, 0, mm.dpr, 0, 0);
+    }
+
+    function mmInit() {
+      const canvas = document.getElementById("mindmap");
+      const ctx = canvas.getContext("2d");
+      const nodes = MM_NODES.map((label, i) => ({ label, x: 0, y: 0, vx: 0, vy: 0, r: 30, phase: i * 1.7 }));
+      const byLabel = {}; nodes.forEach((n, i) => (byLabel[n.label] = i));
+      const edges = MM_EDGES.map(([a, b]) => [byLabel[a], byLabel[b]]).filter(([a, b]) => a != null && b != null);
+      mm = { canvas, ctx, nodes, edges, W: 0, H: 0, dpr: 1, hover: -1, sel: -1, drag: -1, moved: false, downXY: null, raf: 0, t0: 0 };
+      mmMeasure();
+      ctx.font = mmFont();
+      nodes.forEach(n => { n.r = Math.max(30, ctx.measureText(n.label.toLowerCase()).width / 2 + 16); });
+      const cx = mm.W / 2, cy = mm.H / 2, R = Math.min(cx, cy) * 0.55;
+      nodes.forEach((n, i) => { const a = (i / nodes.length) * Math.PI * 2; n.x = cx + Math.cos(a) * R; n.y = cy + Math.sin(a) * R; });
+      mmWire();
+    }
+
+    function mmNodeAt(px, py) {
+      for (let i = mm.nodes.length - 1; i >= 0; i--) {
+        const n = mm.nodes[i];
+        if ((px - n.x) ** 2 + (py - n.y) ** 2 <= n.r * n.r) return i;
+      }
+      return -1;
+    }
+
+    function mmWire() {
+      const c = mm.canvas;
+      const at = (e) => { const r = c.getBoundingClientRect(); return [e.clientX - r.left, e.clientY - r.top]; };
+      c.addEventListener("pointerdown", (e) => {
+        const [x, y] = at(e); const i = mmNodeAt(x, y);
+        mm.drag = i; mm.moved = false; mm.downXY = [x, y];
+        if (i >= 0) c.setPointerCapture(e.pointerId);
+      });
+      c.addEventListener("pointermove", (e) => {
+        const [x, y] = at(e);
+        if (mm.drag >= 0) {
+          const n = mm.nodes[mm.drag]; n.x = x; n.y = y; n.vx = 0; n.vy = 0;
+          if (mm.downXY && Math.hypot(x - mm.downXY[0], y - mm.downXY[1]) > 4) mm.moved = true;
+        } else {
+          mm.hover = mmNodeAt(x, y);
+          c.style.cursor = mm.hover >= 0 ? "grab" : "default";
+        }
+      });
+      c.addEventListener("pointerup", () => {
+        if (mm.drag >= 0 && !mm.moved) mm.sel = (mm.sel === mm.drag ? -1 : mm.drag);
+        mm.drag = -1;
+      });
+    }
+
+    function mmStep(ts) {
+      if (!mm) return;
+      if (!mm.t0) mm.t0 = ts;
+      const time = (ts - mm.t0) / 1000;
+      const { nodes, edges, W, H } = mm, cx = W / 2, cy = H / 2;
+      for (const n of nodes) { n.fx = 0; n.fy = 0; }
+      // repulsion
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i + 1; j < nodes.length; j++) {
+          const a = nodes[i], b = nodes[j];
+          let dx = a.x - b.x, dy = a.y - b.y, d2 = dx * dx + dy * dy; if (d2 < 1) d2 = 1;
+          const d = Math.sqrt(d2), rep = 26000 / d2, ux = dx / d, uy = dy / d;
+          a.fx += ux * rep; a.fy += uy * rep; b.fx -= ux * rep; b.fy -= uy * rep;
+        }
+      }
+      // springs
+      for (const [i, j] of edges) {
+        const a = nodes[i], b = nodes[j];
+        let dx = b.x - a.x, dy = b.y - a.y; const d = Math.hypot(dx, dy) || 1;
+        const rest = a.r + b.r + 60, f = (d - rest) * 0.03, ux = dx / d, uy = dy / d;
+        a.fx += ux * f; a.fy += uy * f; b.fx -= ux * f; b.fy -= uy * f;
+      }
+      // centering + gentle wander
+      for (const n of nodes) {
+        n.fx += (cx - n.x) * 0.005; n.fy += (cy - n.y) * 0.005;
+        n.fx += Math.cos(time * 0.6 + n.phase) * 5; n.fy += Math.sin(time * 0.5 + n.phase * 1.4) * 5;
+      }
+      // integrate
+      for (let i = 0; i < nodes.length; i++) {
+        const n = nodes[i];
+        if (i === mm.drag) { n.vx = 0; n.vy = 0; continue; }
+        n.vx = (n.vx + n.fx * 0.02) * 0.86; n.vy = (n.vy + n.fy * 0.02) * 0.86;
+        const sp = Math.hypot(n.vx, n.vy); if (sp > 3.4) { n.vx *= 3.4 / sp; n.vy *= 3.4 / sp; }
+        n.x += n.vx; n.y += n.vy;
+        const pad = n.r + 3;
+        if (n.x < pad) { n.x = pad; n.vx *= -0.4; } if (n.x > W - pad) { n.x = W - pad; n.vx *= -0.4; }
+        if (n.y < pad) { n.y = pad; n.vy *= -0.4; } if (n.y > H - pad) { n.y = H - pad; n.vy *= -0.4; }
+      }
+      mmDraw();
+      mm.raf = requestAnimationFrame(mmStep);
+    }
+
+    function mmDraw() {
+      const { ctx, W, H, nodes, edges, hover, sel } = mm;
+      ctx.clearRect(0, 0, W, H);
+      const focus = hover >= 0 ? hover : sel;
+      ctx.lineWidth = 1;
+      for (const [i, j] of edges) {
+        const a = nodes[i], b = nodes[j], hot = focus >= 0 && (focus === i || focus === j);
+        ctx.strokeStyle = hot ? "#111" : "#dcdcdc";
+        ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+      }
+      ctx.font = mmFont(); ctx.textAlign = "center"; ctx.textBaseline = "middle";
+      nodes.forEach((n, i) => {
+        const active = i === hover || i === sel;
+        const dim = focus >= 0 && !active && !edges.some(([a, b]) => (a === focus && b === i) || (b === focus && a === i));
+        ctx.globalAlpha = dim ? 0.28 : 1;
+        ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+        ctx.fillStyle = active ? "#111" : "#fff"; ctx.fill();
+        ctx.lineWidth = active ? 2 : 1.4; ctx.strokeStyle = "#111"; ctx.stroke();
+        ctx.fillStyle = active ? "#fff" : "#111"; ctx.fillText(n.label.toLowerCase(), n.x, n.y);
+        ctx.globalAlpha = 1;
+      });
+    }
+
+    function mmSetActive(on) {
+      if (on) {
+        if (!mmInited) { mmInit(); mmInited = true; } else { mmMeasure(); }
+        if (!mm.raf) { mm.t0 = 0; mm.raf = requestAnimationFrame(mmStep); }
+      } else if (mm && mm.raf) {
+        cancelAnimationFrame(mm.raf); mm.raf = 0;
+      }
+    }
+    window.addEventListener("resize", () => {
+      if (mm && document.getElementById("view-about").classList.contains("active")) mmMeasure();
+    });
+
+    /* =========================================================================
        ROUTING (direct click handlers; hash is best-effort only)
        ========================================================================= */
-    const VIEWS = new Set(["home", "prediction-markets"]);
+    const VIEWS = new Set(["home", "prediction-markets", "about"]);
     let pmLoaded = false;
     function show(view) {
       if (!VIEWS.has(view)) view = "home";
@@ -508,12 +669,14 @@
         pmLoaded = true;
         loadPortfolio().then(renderPortfolio);
       }
+      mmSetActive(view === "about");
     }
     document.querySelectorAll("nav a").forEach(a => {
       a.addEventListener("click", (e) => { e.preventDefault(); show(a.getAttribute("href").replace("#", "")); });
     });
     document.getElementById("home-link").addEventListener("click", () => show("home"));
     document.getElementById("pm-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
+    document.getElementById("about-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") show("home"); });
 
     /* =========================================================================
