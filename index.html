@@ -789,22 +789,19 @@
 
     function synBuild() {
       const { W, H } = syn, nodes = [], ideas = ideasData || [];
+      // one small dot per idea — no ambient filler nodes
       ideas.forEach((idea, i) => {
         const a = (i / Math.max(1, ideas.length)) * Math.PI * 2 + 0.6;
-        const rad = ideas.length === 1 ? 0 : Math.min(W, H) * 0.26;
+        const rad = ideas.length === 1 ? 0 : Math.min(W, H) * 0.28;
+        const jit = ideas.length === 1 ? 0 : 30;
         nodes.push({
           isIdea: true, id: idea.id, label: idea.title,
-          x: W * 0.5 + Math.cos(a) * rad + (Math.random() - 0.5) * 40,
-          y: H * 0.5 + Math.sin(a) * rad + (Math.random() - 0.5) * 40,
-          r: 6, glow: 0.6, base: 0.55,
+          x: W * 0.5 + Math.cos(a) * rad + (Math.random() - 0.5) * jit,
+          y: H * 0.5 + Math.sin(a) * rad + (Math.random() - 0.5) * jit,
+          r: 2.2, glow: 0.8, base: 0.4,
         });
       });
-      const AMB = Math.max(26, Math.min(Math.round((W * H) / 15000), 60));
-      for (let i = 0; i < AMB; i++) {
-        nodes.push({ isIdea: false, x: 20 + Math.random() * (W - 40), y: 20 + Math.random() * (H - 40),
-                     r: 1.3 + Math.random() * 1.8, glow: 0, base: 0.12 + Math.random() * 0.14 });
-      }
-      const edges = [], K = 3;
+      const edges = [], K = 2;
       for (let i = 0; i < nodes.length; i++) {
         const order = nodes.map((n, j) => [j, (n.x - nodes[i].x) ** 2 + (n.y - nodes[i].y) ** 2])
           .filter(([j]) => j !== i).sort((a, b) => a[1] - b[1]);
@@ -882,19 +879,15 @@
       }
       ctx.textAlign = "center"; ctx.textBaseline = "top"; ctx.font = '11px "Courier New", monospace';
       nodes.forEach((n, i) => {
-        const hot = n.isIdea && i === hover;
-        const bright = Math.min(1, n.base + n.glow + (hot ? 0.5 : 0));
-        ctx.beginPath(); ctx.arc(n.x, n.y, n.r * (hot ? 1.35 : 1), 0, Math.PI * 2);
+        const hot = i === hover;
+        const bright = Math.min(1, n.base + n.glow * 0.55 + (hot ? 0.4 : 0));
+        ctx.beginPath(); ctx.arc(n.x, n.y, n.r * (hot ? 1.7 : 1), 0, Math.PI * 2);
         ctx.fillStyle = `rgba(${SYN_C},${bright})`;
-        ctx.shadowBlur = n.glow * 16 + (n.isIdea ? 6 : 0) + (hot ? 12 : 0); ctx.shadowColor = `rgba(${SYN_C},0.9)`;
+        ctx.shadowBlur = 4 + n.glow * 14 + (hot ? 10 : 0); ctx.shadowColor = `rgba(${SYN_C},0.9)`;
         ctx.fill(); ctx.shadowBlur = 0;
-        if (n.isIdea) {
-          ctx.beginPath(); ctx.arc(n.x, n.y, n.r + 4, 0, Math.PI * 2);
-          ctx.strokeStyle = `rgba(${SYN_C},${0.22 + n.glow * 0.5})`; ctx.lineWidth = 1; ctx.stroke();
-          const lbl = n.label.length > 34 ? n.label.slice(0, 33) + "…" : n.label;
-          ctx.fillStyle = `rgba(235,245,255,${hot ? 1 : 0.5 + n.glow * 0.4})`;
-          ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 8);
-        }
+        const lbl = n.label.length > 34 ? n.label.slice(0, 33) + "…" : n.label;
+        ctx.fillStyle = `rgba(220,238,252,${hot ? 1 : 0.4 + n.glow * 0.4})`;
+        ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 9);
       });
     }
 
