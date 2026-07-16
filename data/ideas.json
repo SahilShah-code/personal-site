@@ -1,7 +1,7 @@
 [
   {
     "id": "biotech-prediction-signal",
-    "title": "Prediction markets → biotech stock moves",
+    "title": "Prediction markets ⇄ biotech stocks",
     "status": "testing",
     "date": "2026-07-16",
     "summary": "Biotech prices are driven by binary catalysts (approvals, PDUFA dates, trial readouts). Prediction markets now quote explicit odds on those exact events. Can that odds data forecast the stock's move better than the usual baselines?",
