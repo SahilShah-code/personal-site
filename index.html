@@ -196,6 +196,13 @@
 
     .updated { color: var(--muted); font-size: 11px; margin-top: -20px; margin-bottom: 34px; }
 
+    /* ---- animated ellipsis on the "thinking" tab ---- */
+    .think-dots::after { content: ""; animation: think 1.6s steps(1, end) infinite; }
+    @keyframes think {
+      0% { content: ""; } 25% { content: "."; } 50% { content: ".."; }
+      75% { content: "..."; } 100% { content: "...."; }
+    }
+
     /* ---- about: interactive mind map ---- */
     .mindmap-wrap { position: relative; width: 100%; height: min(70vh, 620px); margin: 16px 0 12px; }
     #mindmap { width: 100%; height: 100%; display: block; touch-action: none; }
@@ -223,6 +230,7 @@
       <nav>
         <ul>
           <li><a href="#about"><span class="idx">01</span>about</a></li>
+          <li><a href="#thinking"><span class="idx">02</span>thinking<span class="think-dots"></span></a></li>
         </ul>
       </nav>
     </div>
@@ -288,6 +296,13 @@
         <canvas id="mindmap"></canvas>
       </div>
       <div class="mm-hint">drag the bubbles &middot; hover to trace connections &middot; click one &mdash; descriptions soon</div>
+    </div>
+
+    <!-- THINKING -->
+    <div class="view" id="view-thinking">
+      <a href="#" class="back" id="thinking-back">&larr; back</a>
+      <div class="pm-title">02 / thinking</div>
+      <div class="mm-hint">still thinking&hellip;</div>
     </div>
   </main>
 
@@ -666,7 +681,7 @@
     /* =========================================================================
        ROUTING (direct click handlers; hash is best-effort only)
        ========================================================================= */
-    const VIEWS = new Set(["home", "prediction-markets", "about"]);
+    const VIEWS = new Set(["home", "prediction-markets", "about", "thinking"]);
     let pmLoaded = false;
     function show(view) {
       if (!VIEWS.has(view)) view = "home";
@@ -686,6 +701,7 @@
     document.getElementById("home-link").addEventListener("click", () => show("home"));
     document.getElementById("pm-back").addEventListener("click", (e) => { e.preventDefault(); show("about"); });
     document.getElementById("about-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
+    document.getElementById("thinking-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") show("home"); });
 
     /* =========================================================================
