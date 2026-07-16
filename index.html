@@ -516,8 +516,8 @@
       ["prediction markets", "markets"], ["prediction markets", "tennis"],
     ];
     const mmFont = () => '12px "Courier New", monospace';
-    // bubbles that navigate to a built view when clicked
-    const MM_LINKS = { "prediction markets": "prediction-markets" };
+    // bubbles that navigate when clicked — internal view name, or an external URL
+    const MM_LINKS = { "prediction markets": "prediction-markets", "SketchNF": "https://sketchnf.org" };
     let mm = null, mmInited = false;
 
     function mmMeasure() {
@@ -573,8 +573,13 @@
       });
       c.addEventListener("pointerup", () => {
         if (mm.drag >= 0 && !mm.moved) {
-          const label = mm.nodes[mm.drag].label;
-          if (MM_LINKS[label]) { mm.drag = -1; show(MM_LINKS[label]); return; }
+          const label = mm.nodes[mm.drag].label, dest = MM_LINKS[label];
+          if (dest) {
+            mm.drag = -1;
+            if (/^https?:/.test(dest)) window.open(dest, "_blank", "noopener");
+            else show(dest);
+            return;
+          }
           mm.sel = (mm.sel === mm.drag ? -1 : mm.drag);
         }
         mm.drag = -1;
