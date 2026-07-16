@@ -30,20 +30,10 @@ jobs:
         env:
           KALSHI_API_KEY_ID: ${{ secrets.KALSHI_API_KEY_ID }}
           KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
-          DEBUG: "1"   # first-run only: dumps raw responses to data/_debug/ (gitignored). Remove once field mapping is confirmed.
+          # To re-diagnose the API shape later, set DEBUG: "1" here — the script
+          # will write raw responses to data/_debug/ (gitignored) and log field
+          # schemas. Left off for normal runs.
         run: node scripts/fetch-kalshi.mjs
-
-      # TEMPORARY: makes the raw debug dump downloadable from the Actions run page
-      # WITHOUT committing sensitive financial data to git history or Pages.
-      # Delete this step (and DEBUG above) once the field mapping is confirmed.
-      - name: Upload debug dump (temporary)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: kalshi-debug
-          path: data/_debug/
-          retention-days: 1
-          if-no-files-found: warn
 
       - name: Commit updated snapshot
         run: |
