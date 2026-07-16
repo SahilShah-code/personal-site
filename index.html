@@ -764,12 +764,13 @@
         } catch (_) { ideasData = []; }
       }
       if (!syn) synInit(); else synMeasure();
+      if (!synIntroPlayed) { synBuildIntro(); synIntroPlayed = true; }
       synSetActive(true);
     }
 
     /* ---- synapse network: idea = clickable glowing node; ambient nodes fire ---- */
     const SYN_C = "125,211,252"; // cyan glow
-    let syn = null;
+    let syn = null, synIntroPlayed = false;
 
     function synMeasure() {
       const rect = syn.canvas.getBoundingClientRect();
@@ -868,13 +869,24 @@
       syn.pulses = syn.pulses.filter(p => (ts - p.t0) / p.dur < 1);
       for (const n of nodes) n.glow *= 0.94;
       for (const e of edges) e.glow *= 0.9;
-      synDraw(ts);
+      if (syn.intro) {
+        if (syn.intro.t0 == null) syn.intro.t0 = ts;
+        const e2 = ts - syn.intro.t0;
+        const whiteA = e2 < 700 ? e2 / 700 : e2 < 1700 ? 1 : Math.max(0, 1 - (e2 - 1700) / 1100);
+        const normalA = e2 < 1500 ? 0 : Math.min(1, (e2 - 1500) / 1300);
+        synDraw(ts, normalA);
+        synDrawIntro(whiteA);
+        if (e2 >= syn.intro.dur) syn.intro = null;
+      } else {
+        synDraw(ts, 1);
+      }
       syn.raf = requestAnimationFrame(synStep);
     }
 
-    function synDraw(ts) {
+    function synDraw(ts, alpha) {
       const { ctx, W, H, nodes, edges, pulses, hover } = syn;
       ctx.clearRect(0, 0, W, H);
+      ctx.globalAlpha = alpha == null ? 1 : alpha;
       for (const e of edges) {
         const a = nodes[e.a], b = nodes[e.b];
         ctx.strokeStyle = `rgba(${SYN_C},${0.05 + e.glow * 0.5})`;
@@ -902,6 +914,44 @@
           ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 9);
         }
       });
+      ctx.globalAlpha = 1;
+    }
+
+    // intro: a white neuron+axon web that blooms then dissolves into the live view
+    function synBuildIntro() {
+      const { W, H } = syn;
+      const N = Math.max(42, Math.min(Math.round(W * H / 8500), 72));
+      const nodes = [];
+      for (let i = 0; i < N; i++) nodes.push({ x: Math.random() * W, y: Math.random() * H, r: 1.4 + Math.random() * 2.4 });
+      const edges = [];
+      for (let i = 0; i < N; i++) {
+        const order = nodes.map((n, j) => [j, (n.x - nodes[i].x) ** 2 + (n.y - nodes[i].y) ** 2]).filter(([j]) => j !== i).sort((a, b) => a[1] - b[1]);
+        const k = 2 + (Math.random() < 0.5 ? 1 : 0);
+        for (let m = 0; m < k && m < order.length; m++) {
+          const j = order[m][0];
+          if (!edges.some(e => (e.a === i && e.b === j) || (e.a === j && e.b === i)))
+            edges.push({ a: i, b: j, mx: (Math.random() - 0.5) * 34, my: (Math.random() - 0.5) * 34 });
+        }
+      }
+      syn.intro = { t0: null, dur: 2800, nodes, edges };
+    }
+
+    function synDrawIntro(alpha) {
+      if (alpha <= 0 || !syn.intro) return;
+      const { ctx } = syn, { nodes, edges } = syn.intro;
+      ctx.globalAlpha = alpha;
+      ctx.strokeStyle = "rgba(255,255,255,0.5)"; ctx.lineWidth = 1;
+      for (const e of edges) {
+        const a = nodes[e.a], b = nodes[e.b];
+        ctx.beginPath(); ctx.moveTo(a.x, a.y);
+        ctx.quadraticCurveTo((a.x + b.x) / 2 + e.mx, (a.y + b.y) / 2 + e.my, b.x, b.y); ctx.stroke();
+      }
+      ctx.fillStyle = "rgba(255,255,255,0.95)"; ctx.shadowColor = "rgba(255,255,255,0.8)";
+      for (const n of nodes) {
+        ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+        ctx.shadowBlur = 8; ctx.fill();
+      }
+      ctx.shadowBlur = 0; ctx.globalAlpha = 1;
     }
 
     function synSetActive(on) {
