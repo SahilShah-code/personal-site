@@ -243,6 +243,16 @@ async function main() {
   const closedCost = closed.reduce((x, r) => x + r.cost, 0);
   const wins = closed.filter((r) => r.pnl > 0).length;
 
+  if (DEBUG) {
+    // Per-market breakdown + raw fills, to diagnose miscomputed P&L.
+    const fillsByTicker = {};
+    for (const f of fills) { const t = f.ticker || f.market_ticker; (fillsByTicker[t] ??= []).push(f); }
+    const breakdown = Object.entries(agg).map(([ticker, a]) => ({
+      ticker, ...a, settle: settleByTicker[ticker] || null, fills: fillsByTicker[ticker],
+    }));
+    await writeFile("data/_debug/breakdown.json", JSON.stringify(breakdown, null, 2));
+  }
+
   /* -------- aggregates (percentages only) -------- */
   const realized_return_pct = closedCost ? round1((realizedPnl / closedCost) * 100) : 0;
   const unrealized_return_pct = activeCost ? round1((unrealizedPnl / activeCost) * 100) : 0;
