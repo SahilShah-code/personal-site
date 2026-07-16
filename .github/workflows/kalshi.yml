@@ -30,18 +30,10 @@ jobs:
         env:
           KALSHI_API_KEY_ID: ${{ secrets.KALSHI_API_KEY_ID }}
           KALSHI_PRIVATE_KEY: ${{ secrets.KALSHI_PRIVATE_KEY }}
-          DEBUG: "1"   # TEMP: diagnosing a miscomputed market — remove after
+          # To re-diagnose later, set DEBUG: "1" here — the script writes raw
+          # responses + a per-market breakdown to data/_debug/ (gitignored) and
+          # logs field schemas. Off for normal runs.
         run: node scripts/fetch-kalshi.mjs
-
-      # TEMP: download the debug dump from the run's Artifacts. Remove after.
-      - name: Upload debug dump (temporary)
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: kalshi-debug
-          path: data/_debug/
-          retention-days: 1
-          if-no-files-found: warn
 
       - name: Commit updated snapshot
         run: |
