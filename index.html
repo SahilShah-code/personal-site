@@ -32,8 +32,8 @@
       transition: background .45s ease, color .45s ease;
     }
 
-    /* ---- pitch-black theme, active only on the prediction-markets tab ---- */
-    body.pm-dark {
+    /* ---- pitch-black theme (prediction-markets + thinking tabs) ---- */
+    body.pm-dark, body.think-dark {
       --paper: #000000;
       --ink: #f2f2f2;
       --muted: #6f6f6f;
@@ -208,6 +208,10 @@
     #mindmap { width: 100%; height: 100%; display: block; touch-action: none; }
     .mm-hint { color: var(--muted); font-size: 11px; letter-spacing: .04em; }
 
+    /* ---- thinking: synapse network ---- */
+    .synapse-wrap { position: relative; width: 100%; height: min(72vh, 660px); margin: 10px 0 8px; }
+    #synapses { width: 100%; height: 100%; display: block; touch-action: none; }
+
     /* ---- thinking: idea repository ---- */
     .idea-card {
       border: 1px solid var(--hair); border-radius: 3px;
@@ -337,8 +341,8 @@
       <div id="thinking-index">
         <a href="#" class="back" id="thinking-back">&larr; back</a>
         <div class="pm-title">02 / thinking</div>
-        <p class="mm-hint" style="margin-bottom:26px">a running log of ideas i'm chewing on.</p>
-        <div id="ideas-list"></div>
+        <p class="mm-hint" style="margin-bottom:14px">still thinking&hellip;</p>
+        <div class="synapse-wrap"><canvas id="synapses"></canvas></div>
       </div>
       <!-- detail: one idea -->
       <div id="thinking-detail" style="display:none">
@@ -739,37 +743,169 @@
     function showIdeaIndex() {
       document.getElementById("thinking-index").style.display = "";
       document.getElementById("thinking-detail").style.display = "none";
+      synSetActive(true);
     }
     function showIdeaDetail() {
       document.getElementById("thinking-index").style.display = "none";
       document.getElementById("thinking-detail").style.display = "";
+      synSetActive(false);
     }
 
     async function thinkingEnter() {
-      showIdeaIndex();
-      if (ideasLoaded) return;
-      ideasLoaded = true;
-      try {
-        const res = await fetch("./data/ideas.json", { cache: "no-store" });
-        ideasData = res.ok ? await res.json() : [];
-      } catch (_) { ideasData = []; }
-      renderIdeaIndex();
+      document.getElementById("thinking-index").style.display = "";
+      document.getElementById("thinking-detail").style.display = "none";
+      if (!ideasLoaded) {
+        ideasLoaded = true;
+        try {
+          const res = await fetch("./data/ideas.json", { cache: "no-store" });
+          ideasData = res.ok ? await res.json() : [];
+        } catch (_) { ideasData = []; }
+      }
+      if (!syn) synInit(); else synMeasure();
+      synSetActive(true);
     }
 
-    function renderIdeaIndex() {
-      const list = document.getElementById("ideas-list");
-      if (!ideasData || !ideasData.length) { list.innerHTML = '<p class="mm-hint">— no ideas yet —</p>'; return; }
-      list.innerHTML = ideasData.map(idea => `
-        <div class="idea-card" data-id="${esc(idea.id)}">
-          <div class="idea-top">
-            <h3>${esc(idea.title)}</h3>
-            <span class="status ${esc(idea.status)}">${esc(idea.status)}</span>
-          </div>
-          <div class="summary">${esc(idea.summary)}</div>
-          <div class="date">${esc(idea.date)}</div>
-        </div>`).join("");
-      list.querySelectorAll(".idea-card").forEach(c => c.addEventListener("click", () => openIdea(c.dataset.id)));
+    /* ---- synapse network: idea = clickable glowing node; ambient nodes fire ---- */
+    const SYN_C = "125,211,252"; // cyan glow
+    let syn = null;
+
+    function synMeasure() {
+      const rect = syn.canvas.getBoundingClientRect();
+      syn.dpr = window.devicePixelRatio || 1;
+      syn.W = rect.width; syn.H = rect.height;
+      syn.canvas.width = Math.max(1, rect.width * syn.dpr);
+      syn.canvas.height = Math.max(1, rect.height * syn.dpr);
+      syn.ctx.setTransform(syn.dpr, 0, 0, syn.dpr, 0, 0);
     }
+
+    function synInit() {
+      const canvas = document.getElementById("synapses");
+      syn = { canvas, ctx: canvas.getContext("2d"), W: 0, H: 0, dpr: 1,
+              nodes: [], edges: [], adj: [], pulses: [], hover: -1, raf: 0, nextFire: 0 };
+      synMeasure();
+      synBuild();
+      synWire();
+    }
+
+    function synBuild() {
+      const { W, H } = syn, nodes = [], ideas = ideasData || [];
+      ideas.forEach((idea, i) => {
+        const a = (i / Math.max(1, ideas.length)) * Math.PI * 2 + 0.6;
+        const rad = ideas.length === 1 ? 0 : Math.min(W, H) * 0.26;
+        nodes.push({
+          isIdea: true, id: idea.id, label: idea.title,
+          x: W * 0.5 + Math.cos(a) * rad + (Math.random() - 0.5) * 40,
+          y: H * 0.5 + Math.sin(a) * rad + (Math.random() - 0.5) * 40,
+          r: 6, glow: 0.6, base: 0.55,
+        });
+      });
+      const AMB = Math.max(26, Math.min(Math.round((W * H) / 15000), 60));
+      for (let i = 0; i < AMB; i++) {
+        nodes.push({ isIdea: false, x: 20 + Math.random() * (W - 40), y: 20 + Math.random() * (H - 40),
+                     r: 1.3 + Math.random() * 1.8, glow: 0, base: 0.12 + Math.random() * 0.14 });
+      }
+      const edges = [], K = 3;
+      for (let i = 0; i < nodes.length; i++) {
+        const order = nodes.map((n, j) => [j, (n.x - nodes[i].x) ** 2 + (n.y - nodes[i].y) ** 2])
+          .filter(([j]) => j !== i).sort((a, b) => a[1] - b[1]);
+        for (let k = 0; k < K && k < order.length; k++) {
+          const j = order[k][0];
+          if (!edges.some(e => (e.a === i && e.b === j) || (e.a === j && e.b === i))) edges.push({ a: i, b: j, glow: 0 });
+        }
+      }
+      const adj = nodes.map(() => []);
+      edges.forEach((e, ei) => { adj[e.a].push({ n: e.b, e: ei }); adj[e.b].push({ n: e.a, e: ei }); });
+      syn.nodes = nodes; syn.edges = edges; syn.adj = adj; syn.pulses = []; syn.nextFire = 0;
+    }
+
+    function synWire() {
+      const c = syn.canvas;
+      const at = (e) => { const r = c.getBoundingClientRect(); return [e.clientX - r.left, e.clientY - r.top]; };
+      const ideaAt = (x, y) => {
+        for (let i = 0; i < syn.nodes.length; i++) {
+          const n = syn.nodes[i];
+          if (n.isIdea && (x - n.x) ** 2 + (y - n.y) ** 2 <= (n.r + 10) ** 2) return i;
+        }
+        return -1;
+      };
+      c.addEventListener("pointermove", (e) => { const [x, y] = at(e); syn.hover = ideaAt(x, y); c.style.cursor = syn.hover >= 0 ? "pointer" : "default"; });
+      c.addEventListener("pointerdown", (e) => { const [x, y] = at(e); const i = ideaAt(x, y); if (i >= 0) { synFire(i, 0); openIdea(syn.nodes[i].id); } });
+    }
+
+    function synFire(i, depth) {
+      const n = syn.nodes[i];
+      if (!n) return;
+      n.glow = 1;
+      if (depth > 3 || syn.pulses.length > 160) return;
+      for (const { n: j, e: ei } of (syn.adj[i] || [])) {
+        if (depth === 0 || Math.random() < 0.5) {
+          syn.pulses.push({ from: i, to: j, edge: ei, t0: performance.now(), dur: 380 + Math.random() * 340, depth });
+        }
+      }
+    }
+
+    function synStep(ts) {
+      if (!syn) return;
+      const { nodes, edges } = syn;
+      if (ts > syn.nextFire) {
+        syn.nextFire = ts + 450 + Math.random() * 850;
+        let idx;
+        const ideaIdx = nodes.map((n, i) => n.isIdea ? i : -1).filter(i => i >= 0);
+        if (ideaIdx.length && Math.random() < 0.4) idx = ideaIdx[Math.floor(Math.random() * ideaIdx.length)];
+        else idx = Math.floor(Math.random() * nodes.length);
+        synFire(idx, 0);
+      }
+      for (const p of syn.pulses) {
+        if ((ts - p.t0) / p.dur >= 1) { edges[p.edge].glow = 1; synFire(p.to, p.depth + 1); }
+      }
+      syn.pulses = syn.pulses.filter(p => (ts - p.t0) / p.dur < 1);
+      for (const n of nodes) n.glow *= 0.94;
+      for (const e of edges) e.glow *= 0.9;
+      synDraw(ts);
+      syn.raf = requestAnimationFrame(synStep);
+    }
+
+    function synDraw(ts) {
+      const { ctx, W, H, nodes, edges, pulses, hover } = syn;
+      ctx.clearRect(0, 0, W, H);
+      for (const e of edges) {
+        const a = nodes[e.a], b = nodes[e.b];
+        ctx.strokeStyle = `rgba(${SYN_C},${0.05 + e.glow * 0.5})`;
+        ctx.lineWidth = 0.6 + e.glow * 1.2;
+        ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+      }
+      for (const p of pulses) {
+        const prog = Math.min(1, (ts - p.t0) / p.dur), a = nodes[p.from], b = nodes[p.to];
+        ctx.beginPath(); ctx.arc(a.x + (b.x - a.x) * prog, a.y + (b.y - a.y) * prog, 1.8, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(${SYN_C},0.95)`; ctx.shadowBlur = 10; ctx.shadowColor = `rgba(${SYN_C},0.9)`;
+        ctx.fill(); ctx.shadowBlur = 0;
+      }
+      ctx.textAlign = "center"; ctx.textBaseline = "top"; ctx.font = '11px "Courier New", monospace';
+      nodes.forEach((n, i) => {
+        const hot = n.isIdea && i === hover;
+        const bright = Math.min(1, n.base + n.glow + (hot ? 0.5 : 0));
+        ctx.beginPath(); ctx.arc(n.x, n.y, n.r * (hot ? 1.35 : 1), 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(${SYN_C},${bright})`;
+        ctx.shadowBlur = n.glow * 16 + (n.isIdea ? 6 : 0) + (hot ? 12 : 0); ctx.shadowColor = `rgba(${SYN_C},0.9)`;
+        ctx.fill(); ctx.shadowBlur = 0;
+        if (n.isIdea) {
+          ctx.beginPath(); ctx.arc(n.x, n.y, n.r + 4, 0, Math.PI * 2);
+          ctx.strokeStyle = `rgba(${SYN_C},${0.22 + n.glow * 0.5})`; ctx.lineWidth = 1; ctx.stroke();
+          const lbl = n.label.length > 34 ? n.label.slice(0, 33) + "…" : n.label;
+          ctx.fillStyle = `rgba(235,245,255,${hot ? 1 : 0.5 + n.glow * 0.4})`;
+          ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 8);
+        }
+      });
+    }
+
+    function synSetActive(on) {
+      if (on) { if (syn && !syn.raf) { syn.nextFire = 0; syn.raf = requestAnimationFrame(synStep); } }
+      else if (syn && syn.raf) { cancelAnimationFrame(syn.raf); syn.raf = 0; }
+    }
+    window.addEventListener("resize", () => {
+      if (syn && document.getElementById("view-thinking").classList.contains("active")
+          && document.getElementById("thinking-index").style.display !== "none") { synMeasure(); synBuild(); }
+    });
 
     function openIdea(id) {
       const idea = (ideasData || []).find(x => x.id === id);
@@ -793,13 +929,14 @@
       document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
       document.getElementById("view-" + view).classList.add("active");
       document.body.classList.toggle("pm-dark", view === "prediction-markets");
+      document.body.classList.toggle("think-dark", view === "thinking");
       try { history.replaceState(null, "", view === "home" ? "#" : "#" + view); } catch (_) {}
       if (view === "prediction-markets" && !pmLoaded) {
         pmLoaded = true;
         loadPortfolio().then(renderPortfolio);
       }
       mmSetActive(view === "about");
-      if (view === "thinking") thinkingEnter();
+      if (view === "thinking") thinkingEnter(); else synSetActive(false);
     }
     document.querySelectorAll("nav a").forEach(a => {
       a.addEventListener("click", (e) => { e.preventDefault(); show(a.getAttribute("href").replace("#", "")); });
