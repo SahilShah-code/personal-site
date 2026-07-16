@@ -29,7 +29,22 @@
       flex-direction: column;
       min-height: 100vh;
       padding: 28px 32px;
+      transition: background .45s ease, color .45s ease;
     }
+
+    /* ---- pitch-black theme, active only on the prediction-markets tab ---- */
+    body.pm-dark {
+      --paper: #000000;
+      --ink: #f2f2f2;
+      --muted: #6f6f6f;
+      --hair: #1e1e1e;
+      --up: #39ff14;      /* neon green */
+      --down: #ff3860;    /* neon red   */
+      --rowhover: #121212;
+    }
+    body.pm-dark .pnl-big { text-shadow: 0 0 14px currentColor; }
+    body.pm-dark .side-yes { color: var(--ink); }
+    body.pm-dark .side-no { color: var(--muted); }
 
     /* ---- top bar ---- */
     header {
@@ -104,7 +119,7 @@
     /* ---- sparkline (interactive) ---- */
     .spark-wrap { position: relative; margin: 22px 0 40px; }
     .spark { width: 100%; height: 84px; display: block; cursor: crosshair; }
-    .spark-path { transition: stroke-dashoffset 1.1s cubic-bezier(.22,.61,.36,1); }
+    .spark-path { transition: stroke-dashoffset 1.2s cubic-bezier(.22,.61,.36,1), opacity 1s ease; }
     .spark-guide { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 2 3; opacity: 0; transition: opacity .12s ease; }
     .spark-hover-dot { opacity: 0; transition: opacity .12s ease; }
     .spark-tip {
@@ -162,7 +177,7 @@
       transition: background .12s ease, transform .12s ease;
       animation: rowIn .4s ease both;
     }
-    .rows tbody tr:hover { background: #fafafa; }
+    .rows tbody tr:hover { background: var(--rowhover, #fafafa); }
     .rows tbody tr:hover .mkt { transform: translateX(3px); }
     .mkt { max-width: 440px; transition: transform .12s ease; }
     .rows tbody tr:hover td.return { font-weight: 700; }
@@ -415,12 +430,15 @@
         <circle cx="${X(pts.length - 1)}" cy="${Y(last)}" r="2.5" fill="${color}"/>
         <rect x="0" y="0" width="${W}" height="${H}" fill="transparent" id="spark-hit"/>`;
 
-      // animate the line drawing in
+      // animate the line drawing in + neon fade-in glow (in the line's own color)
       const path = svg.querySelector(".spark-path");
       const len = path.getTotalLength();
       path.style.strokeDasharray = len;
       path.style.strokeDashoffset = len;
-      requestAnimationFrame(() => { path.style.strokeDashoffset = 0; });
+      path.style.opacity = 0;
+      path.style.filter = `drop-shadow(0 0 3px ${color}) drop-shadow(0 0 9px ${color})`;
+      svg.querySelectorAll("circle").forEach(c => { c.style.filter = `drop-shadow(0 0 5px ${color})`; });
+      requestAnimationFrame(() => { path.style.strokeDashoffset = 0; path.style.opacity = 1; });
 
       // store coord fns for hover
       svg._X = X; svg._Y = Y; svg._n = pts.length;
@@ -484,6 +502,7 @@
       if (!VIEWS.has(view)) view = "home";
       document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
       document.getElementById("view-" + view).classList.add("active");
+      document.body.classList.toggle("pm-dark", view === "prediction-markets");
       try { history.replaceState(null, "", view === "home" ? "#" : "#" + view); } catch (_) {}
       if (view === "prediction-markets" && !pmLoaded) {
         pmLoaded = true;
