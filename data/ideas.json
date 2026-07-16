@@ -38,8 +38,13 @@
         "diagram": "logic"
       },
       {
+        "h": "does the stock lead the market? (lead-lag v2 — 2026-07-16)",
+        "body": "Hypothesis (good one): the stock trades in the millions/day while these markets do $5k–150k, so the STOCK might lead the odds and be the better signal. Tested it directly — aligned daily stock abnormal returns with daily odds changes across each run-up (9 catalysts, 103 pooled daily obs), z-scored per catalyst, and cross-correlated in BOTH directions.\n\nCCF(k) = corr(stock today, odds-change k days later):\n- k = 0 (same day):            +0.19   ← strongest\n- k = +1 (stock leads by a day): +0.06\n- k = −1 (market leads by a day): −0.13\n\nNext-day directional event study:\n- stock → next-day odds: corr +0.06, accuracy 54%\n- odds → next-day stock: corr −0.13, accuracy 52%\n\nRead: at DAILY resolution the relationship is almost entirely SAME-DAY — stock and odds move together, and neither reliably leads the other by a day (both next-day signals are basically coin-flips). That does NOT kill the hypothesis: if the liquid stock leads the thin market, it would happen intraday (minutes–hours) and would look exactly like this same-day coupling. Proving it needs historical INTRADAY data for both sides, which isn't available for these older catalysts. Verdict: no daily lead either way; the sub-day question stays open.",
+        "diagram": "leadlag"
+      },
+      {
         "h": "where this goes next",
-        "body": "1. Add the options-implied move as the baseline to beat — the real question is whether the market beats what options already price.\n2. Focus on CONTESTED catalysts (odds ~0.3–0.7), where a surprise is even possible — that's where any edge lives.\n3. Grow n as more markets resolve, and tighten the reaction window to the exact announcement timestamp."
+        "body": "1. Add the options-implied move as the baseline to beat — the real question is whether the market beats what options already price.\n2. Focus on CONTESTED catalysts (odds ~0.3–0.7), where a surprise is even possible — that's where any edge lives.\n3. Grow n as more markets resolve, and tighten the reaction window to the exact announcement timestamp.\n4. Get INTRADAY (minute/hour) stock + odds for recent catalysts to test the sub-day lead-lag directly — that's where a high-volume stock would lead a thin market, and it's the open question from v2."
       },
       {
         "h": "open questions",

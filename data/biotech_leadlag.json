@@ -1,0 +1,23 @@
+{
+  "asOf": "2026-07-16",
+  "nCatalysts": 9,
+  "nDailyObs": 103,
+  "ccf": {
+    "-2": -0.031,
+    "-1": -0.13,
+    "0": 0.187,
+    "1": 0.057,
+    "2": -0.132
+  },
+  "sameDayCorr": 0.187,
+  "stockToMarket": {
+    "corr": 0.057,
+    "dirAcc": 0.536,
+    "n": 56
+  },
+  "marketToStock": {
+    "corr": -0.13,
+    "dirAcc": 0.517,
+    "n": 58
+  }
+}
