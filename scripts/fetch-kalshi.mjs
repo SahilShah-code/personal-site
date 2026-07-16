@@ -237,7 +237,9 @@ async function main() {
     const s = settleByTicker[ticker];
     const openContracts = Math.max(0, a.yesNet) + Math.max(0, a.noNet);
     if (openContracts > 0.01 && !s) continue; // still open -> shown via positions endpoint
-    const cost = a.buyCost + a.fees + (s ? s.fee : 0);      // total outlay (basis)
+    // a.fees already sums every per-fill fee; settle.fee just echoes that same
+    // total, so it must NOT be added again (that double-counted fees).
+    const cost = a.buyCost + a.fees;                        // total outlay (basis)
     const proceeds = a.sellProceeds + (s ? s.revenue : 0);  // sells + settlement payout
     const pnl = proceeds - cost;
     closed.push({
