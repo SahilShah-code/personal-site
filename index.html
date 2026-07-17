@@ -247,6 +247,23 @@
     .idea-section .diagram { display: block; width: 100%; max-width: 640px; height: auto; margin: 18px 0 8px; }
     .idea-section .diagram-cap { color: var(--muted); font-size: 10.5px; letter-spacing: .05em; margin: 0 0 4px; }
 
+    /* ---- the feed (news portal) ---- */
+    #news-body { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 12px 30px; max-width: 1040px; }
+    .news-cat { break-inside: avoid; margin-bottom: 14px; }
+    .news-cat h2 {
+      font-size: 12px; font-weight: 400; color: var(--muted); letter-spacing: .12em;
+      text-transform: lowercase; margin: 0 0 8px; padding-bottom: 6px; border-bottom: 1px solid var(--hair);
+    }
+    a.news-item {
+      display: block; text-decoration: none; color: var(--ink);
+      padding: 8px 0; border-bottom: 1px solid var(--hair); transition: transform .12s ease;
+    }
+    .news-cat a.news-item:last-child { border-bottom: none; }
+    a.news-item:hover { transform: translateX(3px); }
+    a.news-item:hover .news-title { color: #7dd3fc; }
+    .news-title { display: block; font-size: 12.5px; line-height: 1.5; transition: color .12s ease; }
+    .news-meta { display: block; color: var(--muted); font-size: 10.5px; margin-top: 3px; }
+
     @media (max-width: 600px) {
       body { padding: 20px; }
       header { flex-direction: column; gap: 8px; }
@@ -351,6 +368,14 @@
         <a href="#" class="back" id="idea-back">&larr; ideas</a>
         <div id="idea-body"></div>
       </div>
+    </div>
+
+    <!-- THE FEED (news portal) -->
+    <div class="view" id="view-news">
+      <a href="#" class="back" id="news-back">&larr; back</a>
+      <div class="pm-title">the feed</div>
+      <div class="updated" id="news-updated">&nbsp;</div>
+      <div id="news-body"></div>
     </div>
   </main>
 
@@ -798,7 +823,7 @@
         const rad = ideas.length === 1 ? 0 : Math.min(W, H) * 0.28;
         const jit = ideas.length === 1 ? 0 : 30;
         nodes.push({
-          isIdea: true, id: idea.id, label: idea.title,
+          isIdea: true, id: idea.id, label: idea.title, link: idea.link || null,
           x: W * 0.5 + Math.cos(a) * rad + (Math.random() - 0.5) * jit,
           y: H * 0.5 + Math.sin(a) * rad + (Math.random() - 0.5) * jit,
           r: 2.2, glow: 0.8, base: 0.4,
@@ -834,7 +859,13 @@
         return -1;
       };
       c.addEventListener("pointermove", (e) => { const [x, y] = at(e); syn.hover = ideaAt(x, y); c.style.cursor = syn.hover >= 0 ? "pointer" : "default"; });
-      c.addEventListener("pointerdown", (e) => { const [x, y] = at(e); const i = ideaAt(x, y); if (i >= 0) { synFire(i, 0); openIdea(syn.nodes[i].id); } });
+      c.addEventListener("pointerdown", (e) => {
+        const [x, y] = at(e); const i = ideaAt(x, y);
+        if (i < 0) return;
+        synFire(i, 0);
+        const n = syn.nodes[i];
+        if (n.link) show(n.link); else openIdea(n.id);
+      });
     }
 
     function synFire(i, depth) {
@@ -1026,16 +1057,49 @@
     }
 
     /* =========================================================================
+       THE FEED — daily news portal (reads data/news.json)
+       ========================================================================= */
+    function newsAgo(ts) {
+      if (!ts) return "";
+      const s = (Date.now() - ts) / 1000;
+      if (s < 3600) return Math.max(1, Math.round(s / 60)) + "m ago";
+      if (s < 86400) return Math.round(s / 3600) + "h ago";
+      return Math.round(s / 86400) + "d ago";
+    }
+    function renderNews(d) {
+      document.getElementById("news-updated").textContent = d && d.updated
+        ? "updated " + new Date(d.updated).toLocaleString("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }).toLowerCase()
+        : "";
+      document.getElementById("news-body").innerHTML = (d.categories || []).map(c => `
+        <section class="news-cat">
+          <h2>${esc(c.label)}</h2>
+          ${(c.items || []).map(it => `<a class="news-item" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">
+            <span class="news-title">${esc(it.title)}</span>
+            <span class="news-meta">${esc(it.source)}${it.ts ? " · " + newsAgo(it.ts) : ""}</span>
+          </a>`).join("")}
+        </section>`).join("");
+    }
+    async function newsEnter() {
+      try {
+        const r = await fetch("./data/news.json", { cache: "no-store" });
+        if (!r.ok) throw new Error(r.status);
+        renderNews(await r.json());
+      } catch (_) {
+        document.getElementById("news-body").innerHTML = '<p class="mm-hint">— feed unavailable —</p>';
+      }
+    }
+
+    /* =========================================================================
        ROUTING (direct click handlers; hash is best-effort only)
        ========================================================================= */
-    const VIEWS = new Set(["home", "prediction-markets", "about", "thinking"]);
+    const VIEWS = new Set(["home", "prediction-markets", "about", "thinking", "news"]);
     let pmLoaded = false;
     function show(view) {
       if (!VIEWS.has(view)) view = "home";
       document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
       document.getElementById("view-" + view).classList.add("active");
       document.body.classList.toggle("pm-dark", view === "prediction-markets");
-      document.body.classList.toggle("think-dark", view === "thinking");
+      document.body.classList.toggle("think-dark", view === "thinking" || view === "news");
       try { history.replaceState(null, "", view === "home" ? "#" : "#" + view); } catch (_) {}
       if (view === "prediction-markets" && !pmLoaded) {
         pmLoaded = true;
@@ -1043,6 +1107,7 @@
       }
       mmSetActive(view === "about");
       if (view === "thinking") thinkingEnter(); else synSetActive(false);
+      if (view === "news") newsEnter();
     }
     document.querySelectorAll("nav a").forEach(a => {
       a.addEventListener("click", (e) => { e.preventDefault(); show(a.getAttribute("href").replace("#", "")); });
@@ -1052,6 +1117,7 @@
     document.getElementById("about-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
     document.getElementById("thinking-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
     document.getElementById("idea-back").addEventListener("click", (e) => { e.preventDefault(); showIdeaIndex(); window.scrollTo(0, 0); });
+    document.getElementById("news-back").addEventListener("click", (e) => { e.preventDefault(); show("thinking"); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") show("home"); });
 
     /* =========================================================================

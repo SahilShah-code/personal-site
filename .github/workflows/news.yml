@@ -1,0 +1,43 @@
+name: refresh the feed
+
+# Pulls daily news headlines (Google News RSS) and commits data/news.json
+# so the "the feed" portal on the thinking page stays current.
+
+on:
+  schedule:
+    - cron: "0 11 * * *"   # daily ~11:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-feed
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch news
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit updated feed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/news.json; then
+            echo "No change in data/news.json"; exit 0
+          fi
+          git add data/news.json
+          git commit -m "chore: refresh the feed"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "push attempt $i failed, retrying..."; sleep 3
+          done
+          echo "could not push after retries"; exit 1
