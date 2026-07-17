@@ -422,29 +422,36 @@
       const W = window.innerWidth, H = window.innerHeight;
       canvas.width = W * dpr; canvas.height = H * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 
-      const drips = [];
-      for (let x = -10; x < W + 10; x += 20) {
-        const w = 16 + Math.random() * 18;
+      const maxLen = H + 80;
+      const cols = [];
+      for (let x = -20; x < W + 20; x += 18) {
+        const w = 15 + Math.random() * 16;
         const g = ctx.createLinearGradient(x, 0, x + w, 0); // horizontal = cylindrical metal sheen
         g.addColorStop(0, "#6f7379"); g.addColorStop(0.22, "#eef1f5"); g.addColorStop(0.45, "#c2c7ce");
         g.addColorStop(0.68, "#f6f8fb"); g.addColorStop(0.85, "#aeb3ba"); g.addColorStop(1, "#787c82");
-        drips.push({ x, w, grad: g, speed: 0.75 + Math.random() * 1.05, delay: Math.random() * 650 });
+        cols.push({ x, w, grad: g });
       }
 
-      const POUR = 1900, HOLD = 350, FADE_MS = 1100, TOTAL = POUR + HOLD + FADE_MS;
+      // a wavy diagonal wavefront glides top-left -> bottom-right; paint trails it
+      const SPAN = W + maxLen + 160;          // distance the front travels
+      const POUR = 2600, HOLD = 350, FADE_MS = 1050, TOTAL = POUR + HOLD + FADE_MS;
+      const ease = (p) => (p < 0.5 ? 4 * p * p * p : 1 - Math.pow(-2 * p + 2, 3) / 2);
       const t0 = performance.now();
       function frame(t) {
         const e = t - t0;
         ctx.clearRect(0, 0, W, H);
         ctx.globalAlpha = e > POUR + HOLD ? Math.max(0, 1 - (e - POUR - HOLD) / FADE_MS) : 1;
-        for (const d of drips) {
-          const de = Math.max(0, e - d.delay);
-          const prog = Math.min(1, (de / POUR) * d.speed);
-          const len = prog * (H + 70);
+        const front = ease(Math.min(1, e / POUR)) * SPAN;
+        for (const c of cols) {
+          // diagonal sweep (front - x) + two drifting sine waves = gliding wave front
+          const reach = front - c.x
+            + 60 * Math.sin(c.x * 0.010 + e * 0.0045)
+            + 24 * Math.sin(c.x * 0.031 - e * 0.0075);
+          const len = Math.max(0, Math.min(maxLen, reach));
           if (len <= 0) continue;
-          ctx.fillStyle = d.grad;
-          ctx.fillRect(d.x, 0, d.w, len);
-          ctx.beginPath(); ctx.arc(d.x + d.w / 2, len, d.w * 0.62, 0, Math.PI * 2); ctx.fill(); // drip head
+          ctx.fillStyle = c.grad;
+          ctx.fillRect(c.x, 0, c.w, len);
+          if (len < maxLen) { ctx.beginPath(); ctx.arc(c.x + c.w / 2, len, c.w * 0.6, 0, Math.PI * 2); ctx.fill(); }
         }
         ctx.globalAlpha = 1;
         if (e < TOTAL) requestAnimationFrame(frame);
