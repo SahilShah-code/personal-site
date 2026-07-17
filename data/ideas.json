@@ -63,5 +63,13 @@
     "date": "2026-07-17",
     "summary": "daily news portal",
     "link": "news"
+  },
+  {
+    "id": "markets-to-watch",
+    "title": "markets to watch",
+    "status": "live",
+    "date": "2026-07-17",
+    "summary": "news-driven prediction markets",
+    "link": "signals"
   }
 ]

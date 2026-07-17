@@ -1,11 +1,12 @@
-name: refresh the feed
+name: refresh feed + signals
 
-# Pulls daily news headlines (Google News RSS) and commits data/news.json
-# so the "the feed" portal on the thinking page stays current.
+# Pulls news headlines (Google News RSS) -> data/news.json, then derives
+# news-driven "markets to watch" (Polymarket) -> data/market-signals.json.
+# Feeds the thinking page's "the feed" and "markets to watch" tools.
 
 on:
   schedule:
-    - cron: "0 11 * * *"   # daily ~11:00 UTC
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 permissions:
@@ -27,15 +28,18 @@ jobs:
       - name: Fetch news
         run: node scripts/fetch-news.mjs
 
-      - name: Commit updated feed
+      - name: Fetch market signals
+        run: node scripts/fetch-signals.mjs
+
+      - name: Commit updated feed + signals
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- data/news.json; then
-            echo "No change in data/news.json"; exit 0
+          if git diff --quiet -- data/news.json data/market-signals.json; then
+            echo "No change"; exit 0
           fi
-          git add data/news.json
-          git commit -m "chore: refresh the feed"
+          git add data/news.json data/market-signals.json
+          git commit -m "chore: refresh feed + market signals"
           for i in 1 2 3; do
             git pull --rebase --autostash origin main && git push && exit 0
             echo "push attempt $i failed, retrying..."; sleep 3

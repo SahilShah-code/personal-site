@@ -271,6 +271,19 @@
     .news-title { display: block; font-size: 12.5px; line-height: 1.5; transition: color .12s ease; }
     .news-meta { display: block; color: var(--muted); font-size: 10.5px; margin-top: 3px; }
 
+    /* ---- markets to watch (news-driven signals) ---- */
+    #news-updated, #signals-updated { margin-top: 2px; }
+    .sig-sec-h { font-size: 12px; color: var(--muted); letter-spacing: .1em; text-transform: lowercase; margin: 0 0 14px; }
+    .sig { border: 1px solid var(--hair); border-radius: 3px; padding: 13px 16px; margin-bottom: 12px; max-width: 720px; }
+    .sig-top { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; }
+    a.sig-q { font-size: 13px; color: var(--ink); text-decoration: none; line-height: 1.5; }
+    a.sig-q:hover { color: #7dd3fc; }
+    .sig-nums { white-space: nowrap; font-variant-numeric: tabular-nums; font-size: 12px; color: var(--muted); }
+    .sig-tag { font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); border: 1px solid var(--hair); border-radius: 2px; padding: 1px 7px; margin-top: 9px; display: inline-block; }
+    .sig-news { margin-top: 9px; }
+    .sig-news a { display: block; color: var(--muted); font-size: 11.5px; text-decoration: none; padding: 2px 0; line-height: 1.5; }
+    .sig-news a:hover { color: #7dd3fc; }
+
     @media (max-width: 600px) {
       body { padding: 20px; }
       header { flex-direction: column; gap: 8px; }
@@ -384,6 +397,14 @@
       <div class="pm-title">the feed</div>
       <div class="updated" id="news-updated">&nbsp;</div>
       <div id="news-body"></div>
+    </div>
+
+    <!-- MARKETS TO WATCH (news-driven prediction markets) -->
+    <div class="view" id="view-signals">
+      <a href="#" class="back" id="signals-back">&larr; back</a>
+      <div class="pm-title">markets to watch</div>
+      <div class="updated" id="signals-updated">&nbsp;</div>
+      <div id="signals-body"></div>
     </div>
   </main>
 
@@ -1141,17 +1162,49 @@
       }
     }
 
+    /* ---- markets to watch: news-driven prediction markets ---- */
+    function sigCard(s) {
+      const cls = s.change24h > 0 ? "up" : s.change24h < 0 ? "down" : "";
+      const chg = (s.change24h > 0 ? "+" : "") + s.change24h + "pt";
+      return `<div class="sig">
+        <div class="sig-top">
+          <a class="sig-q" href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.question)}</a>
+          <span class="sig-nums">${s.yes != null ? s.yes + "% · " : ""}<span class="${cls}">${chg} 24h</span></span>
+        </div>
+        <span class="sig-tag">${esc(s.topic)}</span>
+        ${s.headlines && s.headlines.length ? `<div class="sig-news">${s.headlines.map(h => `<a href="${esc(h.url)}" target="_blank" rel="noopener noreferrer">↳ ${esc(h.title)} · ${esc(h.source)}</a>`).join("")}</div>` : ""}
+      </div>`;
+    }
+    function renderSignals(d) {
+      document.getElementById("signals-updated").textContent = d && d.updated
+        ? "updated " + new Date(d.updated).toLocaleString("en-US", { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" }).toLowerCase()
+        : "";
+      let html = "";
+      if (d.withNews && d.withNews.length) html += `<div class="sig-sec-h"><span class="live-dot"></span>news-driven — markets moving on recent headlines</div>` + d.withNews.map(sigCard).join("");
+      if (d.moversOnly && d.moversOnly.length) html += `<div class="sig-sec-h" style="margin-top:30px">biggest 24h movers</div>` + d.moversOnly.map(sigCard).join("");
+      document.getElementById("signals-body").innerHTML = html || '<p class="mm-hint">— nothing flagged right now —</p>';
+    }
+    async function signalsEnter() {
+      try {
+        const r = await fetch("./data/market-signals.json", { cache: "no-store" });
+        if (!r.ok) throw new Error(r.status);
+        renderSignals(await r.json());
+      } catch (_) {
+        document.getElementById("signals-body").innerHTML = '<p class="mm-hint">— signals unavailable —</p>';
+      }
+    }
+
     /* =========================================================================
        ROUTING (direct click handlers; hash is best-effort only)
        ========================================================================= */
-    const VIEWS = new Set(["home", "prediction-markets", "about", "thinking", "news"]);
+    const VIEWS = new Set(["home", "prediction-markets", "about", "thinking", "news", "signals"]);
     let pmLoaded = false;
     function show(view) {
       if (!VIEWS.has(view)) view = "home";
       document.querySelectorAll(".view").forEach(v => v.classList.remove("active"));
       document.getElementById("view-" + view).classList.add("active");
       document.body.classList.toggle("pm-dark", view === "prediction-markets");
-      document.body.classList.toggle("think-dark", view === "thinking" || view === "news");
+      document.body.classList.toggle("think-dark", view === "thinking" || view === "news" || view === "signals");
       try { history.replaceState(null, "", view === "home" ? "#" : "#" + view); } catch (_) {}
       if (view === "prediction-markets" && !pmLoaded) {
         pmLoaded = true;
@@ -1160,6 +1213,7 @@
       mmSetActive(view === "about");
       if (view === "thinking") thinkingEnter(); else synSetActive(false);
       if (view === "news") newsEnter();
+      if (view === "signals") signalsEnter();
     }
     document.querySelectorAll("nav a").forEach(a => {
       a.addEventListener("click", (e) => { e.preventDefault(); show(a.getAttribute("href").replace("#", "")); });
@@ -1170,6 +1224,7 @@
     document.getElementById("thinking-back").addEventListener("click", (e) => { e.preventDefault(); show("home"); });
     document.getElementById("idea-back").addEventListener("click", (e) => { e.preventDefault(); showIdeaIndex(); window.scrollTo(0, 0); });
     document.getElementById("news-back").addEventListener("click", (e) => { e.preventDefault(); show("thinking"); });
+    document.getElementById("signals-back").addEventListener("click", (e) => { e.preventDefault(); show("thinking"); });
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") show("home"); });
 
     /* =========================================================================
