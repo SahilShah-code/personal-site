@@ -46,13 +46,6 @@
     body.pm-dark .side-yes { color: var(--ink); }
     body.pm-dark .side-no { color: var(--muted); }
 
-    /* ---- home intro: metallic silver paint-drip waterfall ---- */
-    #intro-paint {
-      position: fixed; inset: 0; width: 100vw; height: 100vh;
-      z-index: 9999; display: block; pointer-events: none;
-    }
-    #intro-paint.done { display: none; }
-
     /* ---- top bar ---- */
     header {
       display: flex;
@@ -295,7 +288,6 @@
   </style>
 </head>
 <body>
-  <canvas id="intro-paint"></canvas>
   <header>
     <div class="name" id="home-link"><span id="typed"></span><span class="cursor">&nbsp;</span></div>
     <div class="date" id="date"></div>
@@ -409,62 +401,6 @@
   </main>
 
   <script>
-    /* =========================================================================
-       HOME INTRO — metallic silver paint-drip waterfall (plays on home load)
-       ========================================================================= */
-    (function paintIntro() {
-      const canvas = document.getElementById("intro-paint");
-      if (!canvas) return;
-      // only on initial landing at home (skip if deep-linked to a sub-view)
-      if (location.hash && location.hash !== "#") { canvas.remove(); return; }
-      const ctx = canvas.getContext("2d");
-      const dpr = window.devicePixelRatio || 1;
-      const W = window.innerWidth, H = window.innerHeight;
-      canvas.width = W * dpr; canvas.height = H * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-
-      const maxLen = H + 90;
-      // one cohesive sheet of liquid metal whose wavy diagonal front glides TL -> BR
-      const SPAN = W + maxLen + 180;          // distance the front travels
-      const POUR = 2600, HOLD = 400, FADE_MS = 1050, TOTAL = POUR + HOLD + FADE_MS;
-      const ease = (p) => (p < 0.5 ? 4 * p * p * p : 1 - Math.pow(-2 * p + 2, 3) / 2);
-      const clamp01 = (v) => Math.max(0.001, Math.min(0.999, v));
-      const t0 = performance.now();
-
-      function frame(t) {
-        const e = t - t0;
-        ctx.clearRect(0, 0, W, H);
-        ctx.globalAlpha = e > POUR + HOLD ? Math.max(0, 1 - (e - POUR - HOLD) / FADE_MS) : 1;
-        const front = ease(Math.min(1, e / POUR)) * SPAN;
-
-        // single metallic gradient with a slowly drifting sheen band -> flowing metal
-        const hl = 0.5 + 0.34 * Math.sin(e * 0.0016);
-        const g = ctx.createLinearGradient(0, 0, W, H);
-        g.addColorStop(0, "#83878c");
-        g.addColorStop(clamp01(hl - 0.24), "#b4b8be");
-        g.addColorStop(clamp01(hl - 0.06), "#f7f9fc");
-        g.addColorStop(clamp01(hl + 0.05), "#e6e9ee");
-        g.addColorStop(clamp01(hl + 0.24), "#a5a9af");
-        g.addColorStop(1, "#767a7f");
-
-        // trace the wavy diagonal front as ONE closed shape (top edge + wavefront)
-        ctx.beginPath();
-        ctx.moveTo(-30, 0);
-        for (let x = -30; x <= W + 30; x += 5) {
-          const len = Math.max(0, Math.min(maxLen,
-            front - x + 62 * Math.sin(x * 0.009 + e * 0.0042) + 22 * Math.sin(x * 0.028 - e * 0.007)));
-          ctx.lineTo(x, len);
-        }
-        ctx.lineTo(W + 30, 0);
-        ctx.closePath();
-        ctx.fillStyle = g;
-        ctx.fill();
-
-        ctx.globalAlpha = 1;
-        if (e < TOTAL) requestAnimationFrame(frame);
-        else canvas.remove();
-      }
-      requestAnimationFrame(frame);
-    })();
 
     /* =========================================================================
        DATA LOADING
