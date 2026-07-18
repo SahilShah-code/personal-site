@@ -1,341 +1,45 @@
 {
-  "updated": "2026-07-18T01:16:38.413Z",
+  "updated": "2026-07-18T07:24:47.612Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": [
-        {
-          "title": "LeBron James unveils dramatic bald look at TIME100 Sports Gala as NBA world awaits free agency decision",
-          "source": "MARCA",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSVVqWG5mREpDZFdXVVB3S3Y0NkxnMlZqekx4RUNjdnNpNVI2WWY1N1FGOG9uYzB6d0p1eEdPUzBzMUJEWHZPM1dNUEpIRFREU1V3WUlzVkh0VElwREtvX09lb1lveVJZOVNDRFJ2SEROTXR2RjByOE1Sd1VDOUNkeEJJSmd5ak91NllKY1M3MnhoNXlmTUFncW1Rd0lKaHlKcEcwdGJoakdsR0lQZEdycGhrNWZUd2xRYUQyWTIwQWZkdTVhcXBudktzUEZ6MEhtRjFfTmZtM1puZUE0eDFYdS1MNmM5RmZJcEFCcGQ1ZG_SAfABQVVfeXFMT09SLTNscU83SW9PdndMbk10eC1KWFo3VTFDS3VSdDRueThJMGJHNkk1MGxPc3ZxVkVoeWpSNW1kNmh5d1lRbmMyZm1QUUl3WWJQSTJ2Mzd3RXZXclIzNmJ5X2pGR2RUTmJaSWZid2dNMG9kcU9ISDYzMkFTZ0d6YUpMVWtocVpHT3BRWnVlMTdaMXprUmYyZHFWSW9lSGlETGkxRjVBR0d4ZVk5aTZXYXZZcThJYkdCbDZkcno4ZWNTeElJT0NkRW5YdTlMbVd4WWFYS04tYm5hN1pGajFZbVdwRDduelJaTVQxTGgtSnF5?oc=5",
-          "ts": 1784334720000
-        },
-        {
-          "title": "Golden State Warriors vs Los Angeles Lakers Jul 18, 2026 Game Summary",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBseEQ0OUM3NUJYOWExUXRxb1pzWDhuc0xmZ2FKOWs5V0I2cDhiZ0xlbGFfMHJxVlVHQ045eVl4a0dEVmNPTUpXeFVsdkFIaGpnOUNDYkxOYXRkdw?oc=5",
-          "ts": 1784334454000
-        },
-        {
-          "title": "Boston Celtics vs Orlando Magic Jul 18, 2026 Game Summary",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VaWpyZTlDWUZmQjF2ZW9UWDdzQURHd3FwbS1SU3NiRHMtZUVIT09TcHBZSlNxOFR1RVBDOW1pR1V2bjZkMHlzcmZaQjZkUVBEWlY4SlRkeTQwUQ?oc=5",
-          "ts": 1784333948000
-        },
-        {
-          "title": "Atlanta Hawks vs Washington Wizards Jul 18, 2026 Game Summary",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uNk5JMmtXc1dqQ2QzYU9ZZmE5YXY2QzhyWU1TZjJzeEZEN2FUVG9JdVUwTUVOZW92WFR1eEdEQXRpZ092SXNYeGNQcmtDdjNBUlBWYkdSTkZWZw?oc=5",
-          "ts": 1784333927000
-        },
-        {
-          "title": "San Antonio Spurs vs Phoenix Suns Jul 18, 2026 Game Summary",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55dGJBU1ZyNHVtMWlpb0sxNTdISDFjUUtqMktjbDZnQ3NYMVpqYjNZMTVtQTFfOEthVUNoMGxrWjBYcjRJX1MzQm1GRmYwY2RFN2ljcmtrWkdPZw?oc=5",
-          "ts": 1784333909000
-        },
-        {
-          "title": "Boston Celtics vs Orlando Magic Jul 18, 2026 Game Summary",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ocjl3MnVuM1B6c05vWFVialFxY2l1aFdkUnkwOW5HSzR0UDdlR3N4eWY2WkZsenE1ajJxR3BGTFdrS1YzTVVMR1JxMVZ6OGlSbkpz?oc=5",
-          "ts": 1784332162000
-        }
-      ]
+      "items": []
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": [
-        {
-          "title": "Ravens DT Nnamdi Madubuike ‘Pointed In The Right Direction’",
-          "source": "NFL Rumors - ProFootballRumors.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnRJR2NpT2FIVUVDU0drUkdPNExZUGM3Zi1IMGlJVWprTlJzV2xRR0xWME9RNXFZLTRaeU9pa19FOWVpSUhQVmR3VWstN3pBTE1lakpVT1pFWXlFcGJzNzZSaEQtaHVOd2s1NURZLWc0YTR6WG5WNHk5LVlmMzBZY0p3UGN6T2dJdkhaQ1Rva085VW1ITUFOcThCNlVnbGFt?oc=5",
-          "ts": 1784336690000
-        },
-        {
-          "title": "Bucky Irving, Xavier Worthy, And 2 Other Dynasty Fantasy Football Fallers",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZXpLMzZtWVhOVXhZLWwyOGJzVURGdWxpSFJ4Y2t2cFhROWtZRVo5TFNKWnNaR1lGQ214RUMyWF9aRmFmcTZKM3EzY0FINzhmMkVtdzBRdERuelIta2F5dUdJNlNfQjBFWTNaNFllcERUaG04SVZuQlZQelVBdFNaam1Qbmp1czRPdjA1UjVLQm42UkRmTG0xbXlRbmQ1NUtGb0FnSEE3ZmdzYnFL?oc=5",
-          "ts": 1784336543000
-        },
-        {
-          "title": "DeVonta Smith and 2 Other Dynasty Fantasy Football Stock Risers",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVlzekswRTlCYmtFcmttdnY5V21RQTVSSThWQ0tFaWc0TWwwS1RvSExxSXNGX1hMQ1BQbjZrQXpRdnZTX0p3UVhOTWwwbFpmd1pUbzM2Y2dRR2JzUWtRdW9xYXNTRVMxVnF1S1ZRTlNwUVhvOTJNaGVRZ0xzVE9xdzBUc1c2MkpYa3h1ekNTUTVtakdRNTB0UnVPRmt1d2Y5cWc?oc=5",
-          "ts": 1784335072000
-        },
-        {
-          "title": "Former Houston Texans RB Joe Mixon's Reputation Remains Strong Even Without an NFL Team",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHpaUllHRkNiTzVmdnhRN3JFSW5WdVplQ1pxMlpCMXZZOXc0NERROC0wWThmemJDb01yY2J1YXhwMEdvNS1XV3l1VXhMQ3R2N1hndDR6SGdsaWRZQ21yMmEwc0w4QVB0LVl5ckFQQ2ZsSlNuczU4OFN3ajJsTWNFeG5CWQ?oc=5",
-          "ts": 1784334840000
-        },
-        {
-          "title": "Bills Praised for Drafting Elite ‘Chess Piece’ Defender",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUW85WmMtdHBqdndXbVhGUWp3NXY2NFd6ck94OG1STlg2YmlUQUFZRGZqaUNJQVAwQ1hoVi1qbloyV042WVlPdS1ESkQ0RjhaSHpvU095ZU96ZUFJWDZZdjRKcTZZMUZDcU5wNG1nbjVXdE5wdFlyaDJ5UDBUTTR0T2QxME9ZSGxmOGdB?oc=5",
-          "ts": 1784334120000
-        },
-        {
-          "title": "The Eagles Have These 4 Questions to Answer Before Breaking Training Camp",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzVoVUN2NEhtbWZZREhDeHBUUHZmLVNZb2RLcDF1Tnc0anpkUEhOWXFRMmdtUnRST0E5U2NWZVp1aW9XTVd6bDUzdk9oSnI4bTgzUHdKT0xHbF9XbWJENU5nWXF6Yk5wQ3VUM0tLVG9Hd2hCRlJnS3B6U0oxOEhveEhCbkpsSS1PTnh3?oc=5",
-          "ts": 1784333456000
-        }
-      ]
+      "items": []
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "ts": 1784012400000
-        },
-        {
-          "title": "Potential ATP-WTA merger put on hold",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnBLTlI4akZRQXZEOEk0ZUhFWFR4WmhRaUJxdXNtRFJwNE9WTXNwVnpZSXN1TmZZVDVpTWg5M2VodGRVcGxBRGx5ZDJRMm5vLWUtSnVPR25mbWxRcHpka0tfbTRGQW1tQ2N3dEhKRDNPSkpEWTlaZXA0LWMzUlhhdU1EVjJ5QzJrckt1OFRhRXNYdw?oc=5",
-          "ts": 1783993860000
-        },
-        {
-          "title": "ATP/WTA: Cerundolo, Tiafoe, Noskova seize the moment",
-          "source": "Roland-Garros 2026",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWE91RV9pazluVnRKandja2VIdkV5aWR4ci1jNTJoZVREOTEwNWotVm1XUWRWLUIyb0RqN2NkS0dwSS1WVE91Qm45WlR4OF9jV05HYzlLaUVKdlRxYlZDUDRSR3JKalNQdEtORDZrQTNUeDFEb2t6UHdHLVp3bzVSRFVsN2FXbzYtV2J6V0E2Mk4tV2ljOE1IWXpWRHpsQWYzN3llNnQtM20tSXNsek5PUmxsUHRiSFJVcGI4S25uYw?oc=5",
-          "ts": 1782111600000
-        },
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
-          "ts": 1782025200000
-        },
-        {
-          "title": "HSBC Championships 2026: Results & updates",
-          "source": "LTA",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV21HV2dRUGZ5TVQ0SmlUSmpWNmVwaDJWYU1qTDA1NzQzS3otV0pLTmE5T0MtX05YMFYtWDRGQ1Y0RGZMenhYYUhITE04N1AwM1hrSHdieHdKWFViVmluSTNVZjBLSGtpS2gyZ2I1SDJOVy1HR1dSczN1eEg0YkdBTmxXWQ?oc=5",
-          "ts": 1782025200000
-        },
-        {
-          "title": "ATP Singles Rankings",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lUXBWcFFIUkZiOXhJV3dOeE53YkdOM242X0ttWG5tOVJlelVQN24wR0dDODUzNlZLRUh0Z18wTTBaVWVfV3pEMjBVaDNpX2paRUZIU2cwMG1FdXc1YlNkWQ?oc=5",
-          "ts": 1781549557000
-        }
-      ]
+      "items": []
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": [
-        {
-          "title": "2026 World Cup final: U.S. President Donald Trump to attend; FIFA will present championship rings",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcERnd3lOZDBqc1lMdXpxYmZ6alBiUzhhQ1N0ODE0RkZCYVBnVHhqY3JHdTRibml6RG5mVlNxVEdIRjRBdzljNXg1LV9QRWFZM3hCeFhRc2w2SHRMYkUxd0VvQ21tRk05cE05VWQyS1o1M0ZiX0xsNk1xNzhMTTNkUjg3cWtQVnVTTFgyQkpiWkl2VFNlRnlTcDRfSDJWZDVjTkh4RHJDSFZrOUJ1c0wzeUpmblMxeG1NeklZ?oc=5",
-          "ts": 1784336975000
-        },
-        {
-          "title": "Hear the World Cup Final Halftime Show with Shakira, Madonna, BTS & Justin Bieber",
-          "source": "SiriusXM",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NY1FsRnBrbmNVRlF3U0hBVmhJbDJhazhBVGxFZm9PRXVnWEE0ZFpGQkR1R3ZjanhhQVJRaXl5eGZ5TnBRYlZhV1REVUwxZkdJZld5a004aDhyUTFHRG8zcXJuajFkZkxXQmdvVEhoZzc4Z1Ro?oc=5",
-          "ts": 1784336651000
-        },
-        {
-          "title": "New York is the heart of the world and is a fitting host for the 2026 World Cup final",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGdvWnZPcS1qLUdHdDR2c2ZCT2tMaGdmY1pwRUhvWGNaY1BaQXhHY3UtdjNDYWw5UDFpcU5CVXBqdHJ3Xzlwc2t3UXBwSjRhNWh0QnhqTXQxZXlQaG14Ry1Qc0V1VXM2SlpUV0NQdmgzWXEzZzNpU3VFY2VTTUNSamROMXBDVllXQjZjTkR3SC1qWHZPVEV0OTgwMnhwZVN1d1cwSnM5SDQtcXN3emJuT3Z4UVBDWlZEVnVFc0tZSEI?oc=5",
-          "ts": 1784336378000
-        },
-        {
-          "title": "New Jersey and FIFA clash again over plan to sell MetLife Stadium grass for $11.2M",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeG1POW5UUm5felZkVHlWY3FQNXZzVnA3aVFyZ1JjY0l3UWdRX3VTclNucHBHNDBpakJyYks3cmZubGMtcjctOGhxd3AtQ2Nqa3pjUHFhY2pfMzdUM3hmTXlxOE9aLVdMZlE1czV2Vk9BZ1RVZXNWT0oyaEUzNHNqUFV5R1VYRjUtSGNJaUd4UTlBRkd2RnhzYUVucFJVNm9XVWZIdg?oc=5",
-          "ts": 1784334681000
-        },
-        {
-          "title": "Jude Bellingham Shares Poem From England's Bus Driver After World Cup Exit",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnNKMjRuS1JzUC1UY1FJaEJCWGZGLUljSU03alBHZTR2cGlNRFdkckg1LXdhUkU3V3B4cHNmM0huVWpRMEZKTmdpc1Nfb3RVSDd1aktwSlVtWXRocElHNXNMeUFPMnVlOTFqVEJ4R0hKbjRtTUVfZnNsLS1CS2o1VWhtSXFYWFlGX3U5VW5DNnE3em5ES1VSWlNmeGVhem1ucDJtUW00RlpObjFOckh1VlRXLULSAbQBQVVfeXFMUDFwM1lBTUZWYXFLZThMWi1DMUIxa0pkN0JrZXNJWTJ1TGVGN0ZMYXdUaUpDY29BWERFbTFwaUxtUGVZdHNYTjY1QlV2V180VmszcHNkTDh4OWg0WG9QT3dVRFkzLXVsZzJWLTVvS1B1b3JnaFBUMUlXQTE2VHpTSXhkNk51UXJyT1Y1QU5nNGFwMThBOGNlSFluQk10dmRaRVg1ZGlkc2xrSnZNS3VOVnBTMWRh?oc=5",
-          "ts": 1784334410000
-        },
-        {
-          "title": "'Something really special': FIFA World Cup soccer grows on Trump",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbHRjd08tMmtzc3VneWgzTHF6blloVEFYWjhfME1lSWh5NW9QN0NwMWhyNk90LWJkTkFLYkhVRk83M3NNVTNTTnZBNE5QWlBHczN5UnNjc28tNjJJSThQZXJOMDV2bllGczRJOVphTTZnV1pHcjJwckM5VjFrWXpuaG85bXRKQ2twcUlvWHlmRnBWYlZmMjUwMW9uMA?oc=5",
-          "ts": 1784331540000
-        }
-      ]
+      "items": []
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": [
-        {
-          "title": "Fed is laser-focused on inflation drop, Warsh says",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDk5U3NZLTNsUE5MczVCMkwtRWE0Y0hiWlI5MUZKUy1HX3JubjZiTUZGazBpR3oyX1Ruc2RVMXhaZ3FCSHBTNzZzUVJUT0xnY19GNVdRdi1aV3RvaWlVZnd1M0ZKemJQQ0NHSmgyWHpua3lRcFNKRVgyWWM5b2o1V0J5UW1RVFBvX184UXJ4azV3MURfc3dwdG1xampEd1RXVXdtcw?oc=5",
-          "ts": 1784285100000
-        },
-        {
-          "title": "The Fed digests an optimistic week for economic data",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0g5SDU1anJlMF8wcFlJZy1QRF91R3NVTUJ4clppY3hDX2tBZS1sWnlOa1daRXNwMFNnMWJZcTFGTGR3bXdPN0Ztb1hnbzUwRzRyOVdQdG1JZ1ZKX09BSG1WODZPQlhKZXRiMTg4dmFTVEhGWmVaV3FSMTByMXJFNDVXN2Y2WDZSVWNLcFRDRmJDWDJYZzcyczU1NExuZVAtWlc5bTRR?oc=5",
-          "ts": 1784238300000
-        },
-        {
-          "title": "Can the Fed lower inflation? 5 takeaways from Warsh on Capitol Hill.",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWxCMFhpWGlJMmtIQk5tSzIxaGxNbFBOTHJqV1MyVVlYNGZReTc2bnVtZ2E5Q0FlUHV3QnZWTXdxdGJOeEJhcG85VlBMRnlpN3NDdWxFclBBSUdXa1YxZWNZenlGWXViYm5mTktBb1hIMTgzN0NZcHVhQWNJZm9yNFptd3llR2RlbXZBZHRfVzRZSU5ZS05VUVB6d2p0OUlMc0NoeUxHQWgzM0VMLTJNT1V1aw?oc=5",
-          "ts": 1784231400000
-        },
-        {
-          "title": "Remarks on inflation, employment and monetary policy",
-          "source": "Federal Reserve Bank of Dallas",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PMGkwNXZubFJsX0F4SjRBazVNamk5TTQ0aGpiV1FVQWdaYy1rZTZWZ3pBNzlZZGlaX1Q1X00yc1V5cHlnb1BzSDJVZ085YUdMS0dWSmdfMEVaY1BRMV94M0tPMHdRT2pkYWlITQ?oc=5",
-          "ts": 1784229908000
-        },
-        {
-          "title": "SF FedViews: Labor Market in Balance but Inflation Elevated and Uncertain",
-          "source": "Federal Reserve Bank of San Francisco",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRExnYWRYalJYdXdiSVctU2hrQjZHUVJ1cTFiZkpBSjR0MTZpaXZUbVRuQmRJN2RQdFV6TG00bnVDSXE2QkcyRFlBSVhEVjNEd0xnaEFmOVdqZmpKbVMxbFYzRGFEMGg5ckpfbElOYV82TFNtNDItVmp3d01BU3hVeW56UkIyaE45RG9UUGVtYnJkLVg0WDhQYk5RZjhrUUlG?oc=5",
-          "ts": 1784228400000
-        },
-        {
-          "title": "There's no 'excuse' for rate hike, Hassett says. Does the Fed agree?",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORU5LWXBNRHAwM1FhbXpCRHAxb3NoLXZtSHBvcFEtZlQtaDI0blBxZlFxYXBzcm9EcWk3cW1BSkJrMldadlE3SUxHRWdhWmY4MWJkaGV3alllckhzZ011MVlpWDlFY1VsbkJIRzFSdGdiLWd1S1Njb1Z2UjRTSXRiRWs3WU5rZ2NoVmdCUVpqdGJ6T2FxeVc3RGo5dlBSQmVFVHQ3QVZqbkVuNFBFc3ZtTkVUTkI2M00?oc=5",
-          "ts": 1784224500000
-        }
-      ]
+      "items": []
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": [
-        {
-          "title": "Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5",
-          "ts": 1784335200000
-        },
-        {
-          "title": "JPMorgan (NYSE: JPM) sells S&P 500 digital buffered notes with 8.5% capped return",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXVUVy1Wc3dMbzA3T0swaXZoSngteUVEcWpVOWIwZUtaV2ItMjlQaVYyalFvM0xjNm9UdFZ2a3NZbkVGWXZ3c2w0SE9NTWFvWldRbW9ZT1FoQ2JvYzZISEZmTE5xVUxMWlJTblgwM3hqV3JyODl6ZHI0MFBDdE5UX2RJSVBkTmdNU0YtaDFnVzhaR0RtU0FnTWNTUkFIVzdfb2gzcWJOaHJFQQ?oc=5",
-          "ts": 1784334018000
-        },
-        {
-          "title": "JPMorgan (NYSE: JPM) sells buffered notes tied to S&P 500 futures index",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNkEtd2E1LWVaLXJHYU9UX3RuRHVZLUhUMWlBQUp5M3JIVUFXQWtKalFxYkZFZDc1ZFAtdnhFek1VTWl1S2lnVHJpY0hRZTFlT09zbTR1VTFVQ1AybFJtb2thTHdjZmJXOTJyeWlWS01Rc2kzUEgzalRoNGZ1ZE1iV1BVbWc5RTEwT04yYm5IUldtSVpjVTBGaTRTeGp5SS1BVzEyMEtOYTFYUQ?oc=5",
-          "ts": 1784334017000
-        },
-        {
-          "title": "JPMorgan (JPM) sells $1M S&P 500 digital contingent buffered notes with 8.13% cap",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREROVGhJM3o2aFhjQzZkMUhZcENqN3EzcFp3YjlJeU5sLTlnejVhS3BhZ3VrN1o0Wk9pcEhMemh3MUdHdEkzbnBEdlI4aVExbks2LUE0RDRzNWNfVk5aU29UYXlRMlNvbkFSTWVkSUhheE5YMVBfcld5SUh5VklHVVB2d2xNcTRKN3JwNHhZenhoeVRzbl9ZVG1vU2M3Wm1EX0I3U3p2cVFUdw?oc=5",
-          "ts": 1784333901000
-        },
-        {
-          "title": "JPMorgan (NYSE: JPM) offers barrier notes linked to Dow Jones and S&P 500",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV09oSDNIYkp0RmRiWV9LYkc2Nk5WMm4tcnVKSjVhYkhjYjlpd1pTM0QxQlhsZDJfaVFDLXlPUGp3NDY1RnJ6aU90dmlKWHJoVUN3NGE2Q1p0T0xTX3R4N2RDVG96bjY5Y1FYaDByeEFSa2Q3WGItTDJZMDFsYWlrd2ZuLW9VX292UmpTWFlpTkl5VTBoQTZjNURaWTNzVWU4MkZKSmlVdnJFdw?oc=5",
-          "ts": 1784333901000
-        },
-        {
-          "title": "JPMorgan (NYSE: JPM) prices S&P 500-linked digital buffered notes with 9.14% cap",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjBRRHVERmY1Y184M2MzcldrY3lnckhTdFItbVIxSFFhYU5UYXhmWDM0WTlfcElMXy1QQzgyOWRqazY2V2lHcnd2VHNRR3dLek00cTgzQ1dzTGEzRXBuSWp1V3lrY2UyV1E2OE1pWTFxT0lzNmhoNzNvUkxKZmRraXk5NXVTazltcTFkdzE1Mi1kV251bV9mX3lIZ25pUllBVUpUNVVOSFZ6UQ?oc=5",
-          "ts": 1784333900000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": [
-        {
-          "title": "New effort can help beat China in biotech race — if RFK Jr. doesn’t hold it back",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVRXbU1memluOHJvREdxSVNuNC1QT3BKY2Z1V2FINGF2cDlONkgxZ3ZEUmNwa294WFR3Z0dfVDFHdEFDOGRiOWpfNUhvSGRtNHV4azBpYUhGYVpkeWpvNzllMFdxa2NYV3p2SnhfbFFZbjFxR1dlMy10QXJ0YXBLZlpldmZrTEd2OW1rbjlzeS1uR2JxeHJEN0UzTXIyY2R4SUZGNUUtakhUOGFfRHJacHpRcjFxTHBFdDVkRQ?oc=5",
-          "ts": 1784296800000
-        },
-        {
-          "title": "Kalshi launches biotech prediction markets pilot program",
-          "source": "Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWY0SnBXY24zZl9HNmNRMlNKRWhpRXgtZGFPSE5UZDBDQzh4R0FVajJFMENMdTVxSjVObVlWUUtSM1dGWFNLUlRLeF90NmtXSmVpdGFnZjBOWDFrWXRncGY3OHRMbVItRDVn?oc=5",
-          "ts": 1784207743000
-        },
-        {
-          "title": "FDA approves Merck’s oral PCSK9 drug, a first",
-          "source": "STAT",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGM0WmhnOHg1aHlKUk9RdHFYYmk3dDYtZUpRbDk3d20tNHhmbzBtbFZDV1RTdXJCSUVXdmNmU0x3MUxQc0lFaTlPVUo3NXlDc0JQZ2pqdGRWSnZBMmw5Yzh0MGpZSkN4Q2N2ZnNpOC14TlV0bVNEM29VdXBINVlGNG9UdWRUNS1fVWZwamRHZU5heEliS0M1ZGtadw?oc=5",
-          "ts": 1784207167000
-        },
-        {
-          "title": "Kalshi comes for biopharma, with prediction markets for clinical trials and FDA approvals",
-          "source": "STAT",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaHRSTHo0S1BBd1BhQmVNbVE3Nlkxc2p6NkNsaTg5SXlZQXNWenRYMFdNdml3aVBKLVVNOG9XQVdhdVI4aTJCRkJpSEdXeWludnZ0c2xjTS1aVjhYV2FyVHY5am1wRXA5WmpZVDNNa2JhQnh1blRhLU1GUU1hNnBWdzJ1YzI5TE8zWW1IbUlZX3FCQzJ6Rnl3MWdTcTdFZy1TZm00QUZPaw?oc=5",
-          "ts": 1784203267000
-        },
-        {
-          "title": "Smarter data, faster decisions: How biotech funding pressures are reshaping clinical development",
-          "source": "Clinical Trials Arena",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeksyZ01Hajk1d3p0X1dIaVhKdmJ4WFhxTWVjNURLaWFaOGNxUHAtZXBhNkdVTEFLOXZVTF9rV3BWLXVaRVVtNVM5MHV3c2tIaXlxUkFMdTE2cTd0Q0RtNzhFT1hEUjc2Z2tTYzJ1RFozYzVBSnRyaWpvbDR1RVRTbU1TRlVZU1RQT2VrbUNuWG4wY0ZuZ1B2c05ncW94a1dZZXVPV3pVVEtCY3lUNGlZWmt2bWJ2NnAxZ252cjF1NlFnOU1iX2Q2ZS1KUENndl9XaXBaeG9tUQ?oc=5",
-          "ts": 1784122748000
-        },
-        {
-          "title": "Biotech companies tout benefits of AI-assisted drug development",
-          "source": "BioXconomy",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTUF1S19YMDBNeFQzRkVHTHNZb3BWREJaenFvN1lFZUg0UGdhazV2ekhBWjN3RWlNbHg3c01KSzdzdnJoclVnb3E5aEhyY2hrNlJfRkpKYUE3ckpGSUc4WUQyU3Q0TWw1TDlIRlVwSXJ3OXowb0pfcFdfZjd5QUE0Q2hKNlNwUkZ4dWJ3aXgtMXNpa2dIdG92cjdaY3phQmVVb0pZ?oc=5",
-          "ts": 1784040935000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": [
-        {
-          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
-          "ts": 1784155168000
-        },
-        {
-          "title": "Why This Biotech Stock, With Its First FDA Approval, Just Crashed By Double Digits",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0Q0VUkzM2tLWHZVdHpyeTh0aUItZllVUW1ZRHZkNzExRUd5cDNxOWd3OExaSmJTdDR3RzBHdTFJTjBhaTlOWFpKQjg0ZVFoR3hSek5SaE8xZmNPVVItWG5FOXFjeUYtZGF0RHAyUEhjY1hOZGRuQzJLeVoxNk5MR3ZuQ2k0ZDR5VUpWV0VheFo1bFdST25MQnN3?oc=5",
-          "ts": 1784146560000
-        },
-        {
-          "title": "Korea’s HLB fails to win FDA approval on liver cancer drug for 3rd time; stocks hit 9-month low",
-          "source": "KED Global",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FWXRTYUxIcm0zNmZzdzdSOENMSFFUTWJGQk1vNFRjb01STmVoVE42a3FhRzJQUXhGdWxvWDNtS1Z4RjdmZmp4N1ZBQzEwMUxLZExjY1pFZUZqNVphdURjNzNOLXliTHhKNExRSEZB?oc=5",
-          "ts": 1783710306000
-        },
-        {
-          "title": "FDA Progress Could Send This Biotech Stock Soaring To New Heights",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmZ5SGFxa29MTTFVaVpJTXRPY1dhZ0NKUVBURU50WmV4QUg3Xy1KZnFZZ3I3Zl9jUDM2RWRWSUU2b2tNVUM5czVwUnhVYkVXRGhwN1lnWUQ2ellNRHhNUTRqWG1yUnJBbjBQdTZfb2t2c1FfSXRxRHR0U0hWQWkzd1h0SGNvUk03RUpFZHdBdEdSeS1od0M0?oc=5",
-          "ts": 1783062000000
-        },
-        {
-          "title": "3 Under-the-Radar Biotech Takeover Targets for the Next Pharma Buying Spree",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXzV2dUY2NTRDajQ5eXR0TjYyakRJQmFKdGkwb25ndkU5YWZrMGNmNjFJMmU4cXhXX1NKeXJkTUUyNjBWMFh3YmdOX3Y3TThlRDRObGlMSVBRUGFGSzN0aHBPX2s5QmRYMWI1a0RlYnNXb3FOS0hUQ1lDUlN4Xy13QUQ2WXhYY1Q4SDI0ZllTcDNRcHBNS0UyM2tZVzFSS0EzZkJVdUlkMXQ1TjNadlV4WXduRWhpd25wQThB?oc=5",
-          "ts": 1782370800000
-        },
-        {
-          "title": "FDA Complete Response Letter (CRL) Explained: What It Means For Biotech Stocks",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGVmWHJDQU9jREo3SW9KUkktUXFVM01TazlfU3p4X3ZXSzc4bk9Kd2R1NEQxNV9GZDc4WHlFZWxzZmdRMFJOd3NaZGhWUEhydVhrdm9ZWUtPLUJCeloxdk81RG9xQWl2ZHc4V0hzU2JadFVlYnlPcWpCa3lnc3dQSEZzTlR1NV9wYzkyRzJONS1TUEQweFQtY0VKWEVnSUtWbmtELXdWTFFrNk1nejVRNlNn?oc=5",
-          "ts": 1782284400000
-        }
-      ]
+      "items": []
     }
   ]
 }
