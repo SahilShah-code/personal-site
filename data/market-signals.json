@@ -1,73 +1,51 @@
 {
-  "updated": "2026-07-18T12:44:51.653Z",
+  "updated": "2026-07-18T18:43:16.924Z",
   "withNews": [
-    {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 68,
-      "change24h": -20,
-      "vol24h": 32520,
-      "headlines": [
-        {
-          "title": "Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on July 20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-july-20-2026",
-      "yes": 94,
-      "change24h": 17,
-      "vol24h": 16679,
-      "headlines": [
-        {
-          "title": "Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin reach $65,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-july-2026-from-july-16",
-      "yes": 83,
-      "change24h": 16,
-      "vol24h": 15841,
+      "yes": 91,
+      "change24h": 10,
+      "vol24h": 15157,
       "headlines": [
         {
-          "title": "Stock Market News, July 17, 2026: Nasdaq Drops as Chip Selloff Deepens",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTlGcjJuRTZoRXpSR1dqLXRBV3NtSjZRNmRMR3FKMUw1NjRvSDY0X2Q1eF9hZTRYUVB3V1JncGVONkZJTXdGS1hidHk5S29uRzlMZU50cms2Y3JOT21FeFhWS3lHdzktYkdSU010WEtadzRCR3JyZjZTTWQ0WllRTWx2bENRSW8?oc=5",
-          "cat": "Markets"
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXM3R2hIbzkzVUJwRS1vY05SSk02ZlFwYmFGSjh4MlNOLUZEbWJWb2ZCN1NsRjBfekZ4MEE0b2kwSFdlbW16eVpaWXJLNEtsWEVBa3RGVWNwTW11a3ZldHVlOTVwNXB1OEstT21CZXYzOXF3RjRSY21WMGdZbVpiLWo0S3hzMTYtTjE3LXhuNVNQTHcwUkE?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 36,
-      "change24h": 3,
-      "vol24h": 36131,
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 46,
+      "change24h": 8,
+      "vol24h": 61190,
       "headlines": [
         {
-          "title": "Hammack: Stubborn Inflation May Prompt Fed to Hike Rates Again",
-          "source": "Briefs Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYl8zUl80eU5DWXdVel8tRXZUb0gyNlJlanI3WmVPQW5iOTl5clpkenBvYnIzME5MbGJland5NXQ5ODZIaFB2RjA2TDhLZWpSMHdSUDNFclpoaml5NHNSN2pEX1Y4SUpCaDJ6VkcwZW95RDFxcmtOc0VsM001Tmt0RDVTSkRpLXZIcFB4aUt5SUpKQQ?oc=5",
-          "cat": "Macro"
-        },
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXM3R2hIbzkzVUJwRS1vY05SSk02ZlFwYmFGSjh4MlNOLUZEbWJWb2ZCN1NsRjBfekZ4MEE0b2kwSFdlbW16eVpaWXJLNEtsWEVBa3RGVWNwTW11a3ZldHVlOTVwNXB1OEstT21CZXYzOXF3RjRSY21WMGdZbVpiLWo0S3hzMTYtTjE3LXhuNVNQTHcwUkE?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 62,
+      "change24h": -8,
+      "vol24h": 39082,
+      "headlines": [
         {
-          "title": "Fed is laser-focused on inflation drop, Warsh says",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDk5U3NZLTNsUE5MczVCMkwtRWE0Y0hiWlI5MUZKUy1HX3JubjZiTUZGazBpR3oyX1Ruc2RVMXhaZ3FCSHBTNzZzUVJUT0xnY19GNVdRdi1aV3RvaWlVZnd1M0ZKemJQQ0NHSmgyWHpua3lRcFNKRVgyWWM5b2o1V0J5UW1RVFBvX184UXJ4azV3MURfc3dwdG1xampEd1RXVXdtcw?oc=5",
-          "cat": "Macro"
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXM3R2hIbzkzVUJwRS1vY05SSk02ZlFwYmFGSjh4MlNOLUZEbWJWb2ZCN1NsRjBfekZ4MEE0b2kwSFdlbW16eVpaWXJLNEtsWEVBa3RGVWNwTW11a3ZldHVlOTVwNXB1OEstT21CZXYzOXF3RjRSY21WMGdZbVpiLWo0S3hzMTYtTjE3LXhuNVNQTHcwUkE?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -77,7 +55,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 59,
       "change24h": -3,
-      "vol24h": 31202,
+      "vol24h": 20197,
       "headlines": [
         {
           "title": "Hammack: Stubborn Inflation May Prompt Fed to Hike Rates Again",
@@ -94,12 +72,12 @@
       ]
     },
     {
-      "question": "Fed rate hike in 2026?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 54,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 37,
       "change24h": 2,
-      "vol24h": 34933,
+      "vol24h": 20659,
       "headlines": [
         {
           "title": "Hammack: Stubborn Inflation May Prompt Fed to Hike Rates Again",
@@ -116,34 +94,24 @@
       ]
     },
     {
-      "question": "Will Lionel Messi win the Golden Ball at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-lionel-messi-win-the-golden-ball-at-the-2026-fifa-world-cup-20260603194032283",
-      "yes": 91,
-      "change24h": 1,
-      "vol24h": 298874,
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "yes": 5,
+      "change24h": -1,
+      "vol24h": 99654,
       "headlines": [
         {
-          "title": "Stephen A. Smith predicts Lionel Messi to \"be just like Jordan\" and lead Argentina to FIFA World Cup title",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdF9JZ2JpTU5WMGJsQlZQam1iak9FM1E3YURQVFdXRFZLUEZJeWM3WGtaY2xlVEdrbDMzVXF2MllkcGxqUXJuX0ZaS3Bvb3NvMmlGRlZSRWEyOU54SjdCV3FBaS1FSEFiZjhQSUljbUhXTmlPazBSRUV4eHFvSG1FSXZBT09LUWMzX3JGSg?oc=5",
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXM3R2hIbzkzVUJwRS1vY05SSk02ZlFwYmFGSjh4MlNOLUZEbWJWb2ZCN1NsRjBfekZ4MEE0b2kwSFdlbW16eVpaWXJLNEtsWEVBa3RGVWNwTW11a3ZldHVlOTVwNXB1OEstT21CZXYzOXF3RjRSY21WMGdZbVpiLWo0S3hzMTYtTjE3LXhuNVNQTHcwUkE?oc=5",
           "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Europe (UEFA) win the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-europe-win-the-2026-fifa-world-cup",
-      "yes": 59,
-      "change24h": 0,
-      "vol24h": 29373,
-      "headlines": [
+        },
         {
-          "title": "English FA, UEFA urged to quit Gianni Infantino’s ‘broken’ FIFA by UK party leader",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGhHVGFJanlfSVljSWNyTXZVUTAwRVBNY3Rudnc3RENYZzRvNmlzY2oxclVqckpKQTh4bndwWS1hZm9YQUViXzhqcUUwd1ZVblF5VUdETVRFVXgydkNycXlOaVhQUzRray1KU1ZDal9PZXFlT1Raem9iZDJKVUxNTFlBWUtROXJLMDBpbGh6cWNvUkJGZEUtSjB6ZjZGcFIzN0xqUg?oc=5",
-          "cat": "World Cup"
+          "title": "Hammack: Stubborn Inflation May Prompt Fed to Hike Rates Again",
+          "source": "Briefs Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYl8zUl80eU5DWXdVel8tRXZUb0gyNlJlanI3WmVPQW5iOTl5clpkenBvYnIzME5MbGJland5NXQ5ODZIaFB2RjA2TDhLZWpSMHdSUDNFclpoaml5NHNSN2pEX1Y4SUpCaDJ6VkcwZW95RDFxcmtOc0VsM001Tmt0RDVTSkRpLXZIcFB4aUt5SUpKQQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -153,7 +121,7 @@
       "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 22538,
+      "vol24h": 21646,
       "headlines": [
         {
           "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
@@ -164,5 +132,15 @@
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Michael Olise record the most assists at the 2026 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-michael-olise-record-the-most-assists-at-the-2026-fifa-world-cup",
+      "yes": 94,
+      "change24h": 7,
+      "vol24h": 21937,
+      "headlines": []
+    }
+  ]
 }
