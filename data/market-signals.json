@@ -1,29 +1,67 @@
 {
-  "updated": "2026-07-18T18:43:16.924Z",
+  "updated": "2026-07-19T01:22:25.109Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $65,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-july-2026-from-july-16",
-      "yes": 91,
-      "change24h": 10,
-      "vol24h": 15157,
+      "question": "Will a player representing France be the top goalscorer at the 2026 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-a-player-representing-france-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+      "yes": 92,
+      "change24h": 50,
+      "vol24h": 13942,
       "headlines": [
         {
-          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
-          "source": "Mashable",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXM3R2hIbzkzVUJwRS1vY05SSk02ZlFwYmFGSjh4MlNOLUZEbWJWb2ZCN1NsRjBfekZ4MEE0b2kwSFdlbW16eVpaWXJLNEtsWEVBa3RGVWNwTW11a3ZldHVlOTVwNXB1OEstT21CZXYzOXF3RjRSY21WMGdZbVpiLWo0S3hzMTYtTjE3LXhuNVNQTHcwUkE?oc=5",
+          "title": "Deschamps takes responsibility for unacceptable first half in last game in charge of France",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWtRa05OdGxKdk1KVzZPMVNxQmJRZGtLWG5Cdi0zQlRqZWRObWduQm5valJEZFMyenlVOFR4YkNJRVdlUXgxQjNvR2FiSEp1OFgyWnlDRF90akZ1czh1SzdJQlJibHF2MGtjcEVYak5hUFJlaVU2WnhNMzUyVVA0NVE4SG1JYm80UElmQ3J0Q1k1U0JsUHVhWWdKRFcxWDViSFRuWWNOM2xmV2ZlbXB4eWxqNmh5V1pHYlZ4R2pKdE5TUkV0eVdJ?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "World Cup Daily recap: England defeat France for third place; Messi, Brady in KD's all-star selfie",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHo3TnFHUVdwVlpPRnBmeHdqbFlpdUtTMGJnZkdHUFoxZnotZkZGMnlxYWtrcXQtOHhPX2Q1TmhlcVVDdXFOV0tUajV6QlBhVUVjRkFDYU5nZ2RfS2tDZlo3LTVYUlA3WVhTTGpId2NUeEl6amUyaWwwNThEOExrZnBINlBVbG1ZY2F5eVIwcUtHcmF6amJGRUlYYS1wRnZyWGtwUFYtVTRhb1Q2Z0VFalAxMUJ1RTlJVXhTZ3VMR2ZWQWxub0N1THJqbkpoNVVwaHVYUkJiOHE?oc=5",
           "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $67,500 in July?",
+      "question": "Will a player representing Argentina be the top goalscorer at the 2026 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-a-player-representing-argentina-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
+      "yes": 8,
+      "change24h": -49,
+      "vol24h": 18971,
+      "headlines": [
+        {
+          "title": "Lionel Messi and defending champion Argentina to play Spain for the World Cup soccer crown",
+          "source": "The Boston Globe",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOThwOXhTdU82RWt2dDk1SVdRMEp0eGVYRm1vaDRiNTJ0V0VscUtqMEMtRDJFZGdhcjQyWmlxX3plUy13c24xS1hWSDRWc2pNMGlrbl9zdUVJMDNoTGN0MGtHOU1NeUM0MTZkMjBuMzJDTXNoZWdHOEcwUkFBRkZoZE5WZ1VsamFobzRSRV9KUkRhazRUMEE?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will England score the most goals at the 2026 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-england-score-the-most-goals-at-the-2026-fifa-world-cup",
+      "yes": 27,
+      "change24h": 27,
+      "vol24h": 52175,
+      "headlines": [
+        {
+          "title": "World Cup Daily recap: England defeat France for third place; Messi, Brady in KD's all-star selfie",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHo3TnFHUVdwVlpPRnBmeHdqbFlpdUtTMGJnZkdHUFoxZnotZkZGMnlxYWtrcXQtOHhPX2Q1TmhlcVVDdXFOV0tUajV6QlBhVUVjRkFDYU5nZ2RfS2tDZlo3LTVYUlA3WVhTTGpId2NUeEl6amUyaWwwNThEOExrZnBINlBVbG1ZY2F5eVIwcUtHcmF6amJGRUlYYS1wRnZyWGtwUFYtVTRhb1Q2Z0VFalAxMUJ1RTlJVXhTZ3VMR2ZWQWxub0N1THJqbkpoNVVwaHVYUkJiOHE?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $64,000 on July 20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 46,
-      "change24h": 8,
-      "vol24h": 61190,
+      "url": "https://polymarket.com/event/bitcoin-above-64k-on-july-20-2026",
+      "yes": 76,
+      "change24h": 27,
+      "vol24h": 14478,
       "headlines": [
         {
           "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
@@ -37,9 +75,9 @@
       "question": "Will Bitcoin dip to $62,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 62,
-      "change24h": -8,
-      "vol24h": 39082,
+      "yes": 56,
+      "change24h": -15,
+      "vol24h": 35056,
       "headlines": [
         {
           "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
@@ -50,12 +88,28 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Will Bitcoin reach $65,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-july-2026-from-july-16",
+      "yes": 94,
+      "change24h": 15,
+      "vol24h": 16547,
+      "headlines": [
+        {
+          "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRXM3R2hIbzkzVUJwRS1vY05SSk02ZlFwYmFGSjh4MlNOLUZEbWJWb2ZCN1NsRjBfekZ4MEE0b2kwSFdlbW16eVpaWXJLNEtsWEVBa3RGVWNwTW11a3ZldHVlOTVwNXB1OEstT21CZXYzOXF3RjRSY21WMGdZbVpiLWo0S3hzMTYtTjE3LXhuNVNQTHcwUkE?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will no Fed rate cuts happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 59,
-      "change24h": -3,
-      "vol24h": 20197,
+      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
+      "yes": 85,
+      "change24h": 1,
+      "vol24h": 32774,
       "headlines": [
         {
           "title": "Hammack: Stubborn Inflation May Prompt Fed to Hike Rates Again",
@@ -72,12 +126,12 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 37,
-      "change24h": 2,
-      "vol24h": 20659,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 54,
+      "change24h": 1,
+      "vol24h": 12653,
       "headlines": [
         {
           "title": "Hammack: Stubborn Inflation May Prompt Fed to Hike Rates Again",
@@ -94,12 +148,12 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "question": "Will the Fed decrease interest rates by 50+ bps after the July 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 5,
-      "change24h": -1,
-      "vol24h": 99654,
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-july-2026-meeting",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 561057,
       "headlines": [
         {
           "title": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 18",
@@ -121,7 +175,7 @@
       "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 21646,
+      "vol24h": 26329,
       "headlines": [
         {
           "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
@@ -137,9 +191,9 @@
       "question": "Will Michael Olise record the most assists at the 2026 FIFA World Cup?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/will-michael-olise-record-the-most-assists-at-the-2026-fifa-world-cup",
-      "yes": 94,
-      "change24h": 7,
-      "vol24h": 21937,
+      "yes": 100,
+      "change24h": 6,
+      "vol24h": 14946,
       "headlines": []
     }
   ]
