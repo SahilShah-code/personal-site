@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T08:34:50.797Z",
+  "updated": "2026-07-20T13:43:36.240Z",
   "withNews": [
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
@@ -7,7 +7,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 62,
       "change24h": -4,
-      "vol24h": 12644,
+      "vol24h": 12208,
       "headlines": [
         {
           "title": "The unanswered questions as new Fed chief vows to end US inflation",
@@ -29,7 +29,7 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
       "yes": 6,
       "change24h": 2,
-      "vol24h": 506632,
+      "vol24h": 583297,
       "headlines": [
         {
           "title": "The unanswered questions as new Fed chief vows to end US inflation",
@@ -51,7 +51,7 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 38,
       "change24h": 2,
-      "vol24h": 33567,
+      "vol24h": 34108,
       "headlines": [
         {
           "title": "The unanswered questions as new Fed chief vows to end US inflation",
@@ -68,114 +68,48 @@
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "question": "Will Frances Tiafoe win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-mens-us-open",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 48768,
+      "vol24h": 10574,
       "headlines": [
         {
-          "title": "‘SPECIAL,’ ‘Such a Baller’ — NBA World Reacts As Yaxel Lendeborg Comes Up Clutch, Powers Warriors to Summer League Championship",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjJxdmtRUU0yRHE2T0NkM0lKQmNhc3JkbFQ4dGMwR0I3Zzh0Z28tSExMX2p1bGQwSjBmODc1ZDdpZmlQd1MxVWd2QUNTZ0hDa1JzU0xsQnA2c0VMVXlhZENhdUlxTkZKZUtfd042azlHUm5vUHYtdGtHcVRnMUJ1RC14all4WnM?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 19275,
-      "headlines": [
-        {
-          "title": "Recent Los Angeles Lakers Guard And 11-Year NBA Veteran Still A Free Agent",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlhoYW5mNmVaUExMSk9kRDlNVlozaFhCYnhHcFNtdmhsbklNbXJPdkEwR0Zad3U3dEVId19MMUFiVGUyQU1oVmlQbEFGaFBQMXJkS3RwQ2tsNlJZUVEzSmNGZHFSTHJBWmpfRl9zY0pwQk12b0h2ekRXZVR3UXdSUGZ0VTEzUGc?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 11407,
-      "headlines": [
-        {
-          "title": "Which 3 Giants veterans will contribute more than anticipated in 2026?",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaC1oTENJMS1YdUxSNjFNNWVQRXdKRmFoM0ZTUmhRRFQ2YXAteVA1Ui1GSm53TGR5bmZpY2R6WEJNaWxSZmZTUFhXR01oVXEyZ2I4aTk5OVBVX0ZWZ0VVb094VXljcVAyT0ZRMkxVTHpmVDM4ZXV2cnVwZ0JZR1F5U0dhSmlxdHFKV2c?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 9959,
-      "headlines": [
-        {
-          "title": "Recent Los Angeles Lakers Guard And 11-Year NBA Veteran Still A Free Agent",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlhoYW5mNmVaUExMSk9kRDlNVlozaFhCYnhHcFNtdmhsbklNbXJPdkEwR0Zad3U3dEVId19MMUFiVGUyQU1oVmlQbEFGaFBQMXJkS3RwQ2tsNlJZUVEzSmNGZHFSTHJBWmpfRl9zY0pwQk12b0h2ekRXZVR3UXdSUGZ0VTEzUGc?oc=5",
-          "cat": "NBA"
+          "title": "ATP/WTA: Cerundolo, Tiafoe, Noskova seize the moment",
+          "source": "Roland-Garros 2026",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWE91RV9pazluVnRKandja2VIdkV5aWR4ci1jNTJoZVREOTEwNWotVm1XUWRWLUIyb0RqN2NkS0dwSS1WVE91Qm45WlR4OF9jV05HYzlLaUVKdlRxYlZDUDRSR3JKalNQdEtORDZrQTNUeDFEb2t6UHdHLVp3bzVSRFVsN2FXbzYtV2J6V0E2Mk4tV2ljOE1IWXpWRHpsQWYzN3llNnQtM20tSXNsek5PUmxsUHRiSFJVcGI4S25uYw?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $67,500 in July?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 40,
-      "change24h": -7,
-      "vol24h": 50721,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 16,
-      "change24h": -5,
-      "vol24h": 53617,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 66,
+      "change24h": 13,
+      "vol24h": 44211,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $62,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 63,
-      "change24h": 5,
-      "vol24h": 23394,
+      "yes": 55,
+      "change24h": -7,
+      "vol24h": 50288,
       "headlines": []
     },
     {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 27,
-      "change24h": 5,
-      "vol24h": 13754,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $1,900 in July?",
+      "question": "Will Bitcoin dip to $60,000 in July?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-1900-in-july-2026-from-july-16",
-      "yes": 82,
-      "change24h": -4,
-      "vol24h": 8297,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60000-in-july-20260706151220612-754",
+      "yes": 22,
+      "change24h": -6,
+      "vol24h": 59716,
       "headlines": []
     }
   ]
