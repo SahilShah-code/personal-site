@@ -209,8 +209,11 @@
     .mm-hint { color: var(--muted); font-size: 11px; letter-spacing: .04em; }
 
     /* ---- thinking: synapse network ---- */
-    .synapse-wrap { position: relative; width: 100%; height: min(72vh, 660px); margin: 10px 0 8px; }
-    #synapses { width: 100%; height: 100%; display: block; touch-action: none; }
+    .brain-scroll { position: relative; width: 100%; height: 78vh; overflow-y: auto; overflow-x: hidden; margin: 6px 0 4px; }
+    .brain-sticky { position: sticky; top: 0; height: 78vh; width: 100%; }
+    .brain-spacer { height: 120vh; }
+    #synapses { width: 100%; height: 100%; display: block; touch-action: pan-y; }
+    .brain-hint { position: absolute; left: 0; right: 0; bottom: 14px; text-align: center; color: var(--muted); font-size: 11px; letter-spacing: .16em; pointer-events: none; transition: opacity .2s ease; }
 
     /* ---- thinking: idea repository ---- */
     .idea-card {
@@ -373,8 +376,14 @@
       <div id="thinking-index">
         <a href="#" class="back" id="thinking-back">&larr; back</a>
         <div class="pm-title">02 / thinking</div>
-        <p class="mm-hint" style="margin-bottom:14px">still thinking&hellip;</p>
-        <div class="synapse-wrap"><canvas id="synapses"></canvas></div>
+        <p class="mm-hint" style="margin-bottom:8px">still thinking&hellip;</p>
+        <div class="brain-scroll" id="brain-scroll">
+          <div class="brain-sticky">
+            <canvas id="synapses"></canvas>
+            <div class="brain-hint" id="brain-hint">scroll &darr;</div>
+          </div>
+          <div class="brain-spacer"></div>
+        </div>
       </div>
       <!-- detail: one idea -->
       <div id="thinking-detail" style="display:none">
@@ -811,12 +820,16 @@
         } catch (_) { ideasData = []; }
       }
       if (!syn) synInit(); else synMeasure();
-      synBuildIntro(); // play the white neuron-web intro every time the tab is opened
+      const bs = document.getElementById("brain-scroll");
+      if (bs) bs.scrollTop = 0;                 // reset so the brain is whole on entry
+      syn.sp = 0;
+      const hint = document.getElementById("brain-hint"); if (hint) hint.style.opacity = "1";
       synSetActive(true);
     }
 
-    /* ---- synapse network: idea = clickable glowing node; ambient nodes fire ---- */
-    const SYN_C = "125,211,252"; // cyan glow
+    /* ---- thinking hero: a brain of white lines w/ firing neurons; scroll fizzles
+            it out, leaving the idea-neurons (cyan) as the clickable synapse ---- */
+    const SYN_C = "125,211,252"; // cyan (idea neurons + firing)
     let syn = null;
 
     function synMeasure() {
@@ -830,7 +843,7 @@
 
     function synInit() {
       const canvas = document.getElementById("synapses");
-      syn = { canvas, ctx: canvas.getContext("2d"), W: 0, H: 0, dpr: 1,
+      syn = { canvas, ctx: canvas.getContext("2d"), W: 0, H: 0, dpr: 1, sp: 0,
               nodes: [], edges: [], adj: [], pulses: [], hover: -1, raf: 0, nextFire: 0 };
       synMeasure();
       synBuild();
@@ -839,27 +852,46 @@
 
     function synBuild() {
       const { W, H } = syn, nodes = [], ideas = ideasData || [];
-      // one small dot per idea — no ambient filler nodes
+      const cx = W / 2, cy = H / 2;
+      const hw = Math.min(W * 0.40, H * 0.60), hh = hw * 0.74;   // brain half-extents (wider than tall)
+      const boundary = (th) => {
+        const e = (hw * hh) / Math.sqrt((hh * Math.cos(th)) ** 2 + (hw * Math.sin(th)) ** 2);
+        return e * (1 + 0.06 * Math.sin(7 * th) + 0.04 * Math.sin(11 * th + 1) + 0.03 * Math.sin(4 * th + 2)); // wrinkles
+      };
+      const fissure = W * 0.014;   // central gap -> two hemispheres
+      const inside = (x, y) => {
+        const dx = x - cx, dy = y - cy;
+        if (Math.abs(dx) < fissure) return false;
+        return Math.hypot(dx, dy) <= boundary(Math.atan2(dy, dx));
+      };
+      // idea neurons: spread inside the brain, persist through the fizzle (no dispersion)
+      const M = ideas.length;
       ideas.forEach((idea, i) => {
-        const a = (i / Math.max(1, ideas.length)) * Math.PI * 2 + 0.6;
-        const rad = ideas.length === 1 ? 0 : Math.min(W, H) * 0.28;
-        const jit = ideas.length === 1 ? 0 : 30;
-        nodes.push({
-          isIdea: true, id: idea.id, label: idea.title, link: idea.link || null,
-          x: W * 0.5 + Math.cos(a) * rad + (Math.random() - 0.5) * jit,
-          y: H * 0.5 + Math.sin(a) * rad + (Math.random() - 0.5) * jit,
-          r: 2.2, glow: 0.8, base: 0.4,
-        });
+        const t = M <= 1 ? 0.5 : i / (M - 1);
+        let px = cx + (t - 0.5) * hw * 1.0, py = cy + (i % 2 === 0 ? -1 : 1) * hh * 0.28;
+        const th = Math.atan2(py - cy, px - cx), rr = Math.hypot(px - cx, py - cy), lim = boundary(th) * 0.82;
+        if (rr > lim) { px = cx + Math.cos(th) * lim; py = cy + Math.sin(th) * lim; }
+        nodes.push({ isIdea: true, id: idea.id, label: idea.title, link: idea.link || null,
+          bx: px, by: py, x: px, y: py, dx: 0, dy: 0, r: 2.6, glow: 0.9, base: 0.55 });
       });
-      // ambient nodes: INVISIBLE — they exist only to form the firing mesh (lines)
-      const AMB = Math.max(24, Math.min(Math.round((W * H) / 16000), 48));
-      for (let a = 0; a < AMB; a++) {
-        nodes.push({ isIdea: false, x: 16 + Math.random() * (W - 32), y: 16 + Math.random() * (H - 32), r: 0, glow: 0, base: 0 });
+      // white ambient neurons filling the brain silhouette (rejection sampling)
+      const target = Math.max(110, Math.min(Math.round(hw * hh / 720), 210));
+      let tries = 0;
+      while (nodes.filter(n => !n.isIdea).length < target && tries < target * 50) {
+        tries++;
+        const x = cx + (Math.random() * 2 - 1) * hw * 1.03, y = cy + (Math.random() * 2 - 1) * hh * 1.03;
+        if (!inside(x, y)) continue;
+        const dx = x - cx, dy = y - cy, d = Math.hypot(dx, dy) || 1;
+        nodes.push({ isIdea: false, bx: x, by: y, x, y,
+          dx: (dx / d) * (70 + Math.random() * 200) + (Math.random() - 0.5) * 70,
+          dy: (dy / d) * (70 + Math.random() * 200) + (Math.random() - 0.5) * 70,
+          r: 1.0 + Math.random() * 1.4, glow: 0, base: 0.34 + Math.random() * 0.22 });
       }
-      const edges = [], K = 3;
+      // edges: k-nearest within a max distance (keeps the mesh local -> brain-like)
+      const maxD2 = (Math.min(W, H) * 0.15) ** 2, K = 3, edges = [];
       for (let i = 0; i < nodes.length; i++) {
-        const order = nodes.map((n, j) => [j, (n.x - nodes[i].x) ** 2 + (n.y - nodes[i].y) ** 2])
-          .filter(([j]) => j !== i).sort((a, b) => a[1] - b[1]);
+        const order = nodes.map((n, j) => [j, (n.bx - nodes[i].bx) ** 2 + (n.by - nodes[i].by) ** 2])
+          .filter(([j, d2]) => j !== i && d2 < maxD2).sort((a, b) => a[1] - b[1]);
         for (let k = 0; k < K && k < order.length; k++) {
           const j = order[k][0];
           if (!edges.some(e => (e.a === i && e.b === j) || (e.a === j && e.b === i))) edges.push({ a: i, b: j, glow: 0 });
@@ -876,135 +908,106 @@
       const ideaAt = (x, y) => {
         for (let i = 0; i < syn.nodes.length; i++) {
           const n = syn.nodes[i];
-          if (n.isIdea && (x - n.x) ** 2 + (y - n.y) ** 2 <= (n.r + 10) ** 2) return i;
+          if (n.isIdea && (x - n.x) ** 2 + (y - n.y) ** 2 <= (n.r + 12) ** 2) return i;
         }
         return -1;
       };
       c.addEventListener("pointermove", (e) => { const [x, y] = at(e); syn.hover = ideaAt(x, y); c.style.cursor = syn.hover >= 0 ? "pointer" : "default"; });
-      c.addEventListener("pointerdown", (e) => {
+      c.addEventListener("pointerup", (e) => {
         const [x, y] = at(e); const i = ideaAt(x, y);
         if (i < 0) return;
         synFire(i, 0);
         const n = syn.nodes[i];
         if (n.link) show(n.link); else openIdea(n.id);
       });
+      // scroll drives the fizzle
+      const bs = document.getElementById("brain-scroll");
+      if (bs) bs.addEventListener("scroll", () => {
+        const max = bs.scrollHeight - bs.clientHeight;
+        syn.sp = max > 0 ? Math.min(1, Math.max(0, bs.scrollTop / max)) : 0;
+        const hint = document.getElementById("brain-hint");
+        if (hint) hint.style.opacity = String(Math.max(0, 1 - syn.sp * 4));
+      }, { passive: true });
     }
 
     function synFire(i, depth) {
       const n = syn.nodes[i];
       if (!n) return;
       n.glow = 1;
-      if (depth >= 2 || syn.pulses.length > 14) return; // keep cascades small + sparse
+      if (depth >= 2 || syn.pulses.length > 40) return;
       const nb = (syn.adj[i] || []).slice();
-      const count = depth === 0 ? 2 : 1; // limited fan-out, not every neighbor
+      const count = depth === 0 ? 3 : 1;
       for (let k = 0; k < count && nb.length; k++) {
         const { n: j, e: ei } = nb.splice(Math.floor(Math.random() * nb.length), 1)[0];
-        if (depth === 0 || Math.random() < 0.4) {
-          syn.pulses.push({ from: i, to: j, edge: ei, t0: performance.now(), dur: 520 + Math.random() * 420, depth });
+        if (depth === 0 || Math.random() < 0.45) {
+          syn.pulses.push({ from: i, to: j, edge: ei, t0: performance.now(), dur: 460 + Math.random() * 380, depth });
         }
       }
     }
 
     function synStep(ts) {
       if (!syn) return;
-      const { nodes, edges } = syn;
-      if (ts > syn.nextFire) {
-        syn.nextFire = ts + 700 + Math.random() * 1100;
-        let idx;
-        const ideaIdx = nodes.map((n, i) => n.isIdea ? i : -1).filter(i => i >= 0);
-        if (ideaIdx.length && Math.random() < 0.4) idx = ideaIdx[Math.floor(Math.random() * ideaIdx.length)];
-        else idx = Math.floor(Math.random() * nodes.length);
+      const { nodes, edges } = syn, sp = syn.sp || 0;
+      // fire neurons while the brain is still mostly intact
+      if (sp < 0.85 && ts > syn.nextFire) {
+        syn.nextFire = ts + 260 + Math.random() * 520;
+        const idx = Math.floor(Math.random() * nodes.length);
         synFire(idx, 0);
       }
       for (const p of syn.pulses) {
         if ((ts - p.t0) / p.dur >= 1) { edges[p.edge].glow = 1; synFire(p.to, p.depth + 1); }
       }
       syn.pulses = syn.pulses.filter(p => (ts - p.t0) / p.dur < 1);
-      for (const n of nodes) n.glow *= 0.94;
+      for (const n of nodes) { n.glow *= 0.93; n.x = n.bx + n.dx * sp; n.y = n.by + n.dy * sp; }
       for (const e of edges) e.glow *= 0.9;
-      if (syn.intro) {
-        if (syn.intro.t0 == null) syn.intro.t0 = ts;
-        const e2 = ts - syn.intro.t0;
-        const whiteA = e2 < 600 ? e2 / 600 : e2 < 2000 ? 1 : Math.max(0, 1 - (e2 - 2000) / 1200);
-        const normalA = e2 < 1800 ? 0 : Math.min(1, (e2 - 1800) / 1400);
-        synDraw(ts, normalA);
-        synDrawIntro(whiteA);
-        if (e2 >= syn.intro.dur) syn.intro = null;
-      } else {
-        synDraw(ts, 1);
-      }
+      synDraw(ts, sp);
       syn.raf = requestAnimationFrame(synStep);
     }
 
-    function synDraw(ts, alpha) {
+    function synDraw(ts, sp) {
       const { ctx, W, H, nodes, edges, pulses, hover } = syn;
       ctx.clearRect(0, 0, W, H);
-      ctx.globalAlpha = alpha == null ? 1 : alpha;
+      const f = Math.max(0, 1 - sp);   // brain fades as you scroll
+      // white brain mesh
       for (const e of edges) {
         const a = nodes[e.a], b = nodes[e.b];
-        ctx.strokeStyle = `rgba(${SYN_C},${0.05 + e.glow * 0.5})`;
-        ctx.lineWidth = 0.6 + e.glow * 1.2;
+        const al = (0.15 + e.glow * 0.7) * f;
+        if (al <= 0.003) continue;
+        ctx.strokeStyle = `rgba(233,239,247,${al})`;
+        ctx.lineWidth = 0.55 + e.glow * 1.1;
         ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
       }
+      // firing pulses
       for (const p of pulses) {
+        const al = 0.95 * f; if (al <= 0.02) continue;
         const prog = Math.min(1, (ts - p.t0) / p.dur), a = nodes[p.from], b = nodes[p.to];
-        ctx.beginPath(); ctx.arc(a.x + (b.x - a.x) * prog, a.y + (b.y - a.y) * prog, 1.8, 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(${SYN_C},0.95)`; ctx.shadowBlur = 10; ctx.shadowColor = `rgba(${SYN_C},0.9)`;
+        ctx.beginPath(); ctx.arc(a.x + (b.x - a.x) * prog, a.y + (b.y - a.y) * prog, 1.7, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(${SYN_C},${al})`; ctx.shadowBlur = 9; ctx.shadowColor = `rgba(${SYN_C},0.9)`;
         ctx.fill(); ctx.shadowBlur = 0;
       }
+      // nodes
       ctx.textAlign = "center"; ctx.textBaseline = "top"; ctx.font = '11px "Courier New", monospace';
-      nodes.forEach((n, i) => {
-        if (!n.isIdea) return; // ambient nodes stay invisible (mesh + firing only)
-        const hot = i === hover;
-        const bright = Math.min(1, n.base + n.glow * 0.55 + (hot ? 0.4 : 0));
-        ctx.beginPath(); ctx.arc(n.x, n.y, n.r * (hot ? 1.7 : 1), 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(${SYN_C},${bright})`;
-        ctx.shadowBlur = 4 + n.glow * 14 + (hot ? 10 : 0); ctx.shadowColor = `rgba(${SYN_C},0.9)`;
-        ctx.fill(); ctx.shadowBlur = 0;
-        if (hot) { // title only on hover
-          const lbl = n.label.length > 40 ? n.label.slice(0, 39) + "…" : n.label;
-          ctx.fillStyle = "rgba(230,242,252,1)";
-          ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 9);
-        }
-      });
-      ctx.globalAlpha = 1;
-    }
-
-    // intro: a white neuron+axon web that blooms then dissolves into the live view
-    function synBuildIntro() {
-      const { W, H } = syn;
-      const N = Math.max(42, Math.min(Math.round(W * H / 8500), 72));
-      const nodes = [];
-      for (let i = 0; i < N; i++) nodes.push({ x: Math.random() * W, y: Math.random() * H, r: 1.4 + Math.random() * 2.4 });
-      const edges = [];
-      for (let i = 0; i < N; i++) {
-        const order = nodes.map((n, j) => [j, (n.x - nodes[i].x) ** 2 + (n.y - nodes[i].y) ** 2]).filter(([j]) => j !== i).sort((a, b) => a[1] - b[1]);
-        const k = 2 + (Math.random() < 0.5 ? 1 : 0);
-        for (let m = 0; m < k && m < order.length; m++) {
-          const j = order[m][0];
-          if (!edges.some(e => (e.a === i && e.b === j) || (e.a === j && e.b === i)))
-            edges.push({ a: i, b: j, mx: (Math.random() - 0.5) * 34, my: (Math.random() - 0.5) * 34 });
+      for (let i = 0; i < nodes.length; i++) {
+        const n = nodes[i];
+        if (n.isIdea) {
+          const hot = i === hover;
+          const bright = Math.min(1, n.base + n.glow * 0.5 + (hot ? 0.4 : 0)); // persists through fizzle
+          ctx.beginPath(); ctx.arc(n.x, n.y, n.r * (hot ? 1.8 : 1), 0, Math.PI * 2);
+          ctx.fillStyle = `rgba(${SYN_C},${bright})`;
+          ctx.shadowBlur = 6 + n.glow * 14 + (hot ? 10 : 0); ctx.shadowColor = `rgba(${SYN_C},0.9)`;
+          ctx.fill(); ctx.shadowBlur = 0;
+          if (hot) {
+            const lbl = n.label.length > 40 ? n.label.slice(0, 39) + "…" : n.label;
+            ctx.fillStyle = "rgba(230,242,252,1)"; ctx.fillText(lbl.toLowerCase(), n.x, n.y + n.r + 9);
+          }
+        } else {
+          const al = (n.base + n.glow * 0.7) * f; if (al <= 0.02) continue;
+          ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+          ctx.fillStyle = `rgba(233,239,247,${al})`;
+          if (n.glow > 0.06) { ctx.shadowBlur = 7 * n.glow; ctx.shadowColor = "rgba(255,255,255,0.85)"; }
+          ctx.fill(); ctx.shadowBlur = 0;
         }
       }
-      syn.intro = { t0: null, dur: 3200, nodes, edges };
-    }
-
-    function synDrawIntro(alpha) {
-      if (alpha <= 0 || !syn.intro) return;
-      const { ctx } = syn, { nodes, edges } = syn.intro;
-      ctx.globalAlpha = alpha;
-      ctx.strokeStyle = "rgba(255,255,255,0.65)"; ctx.lineWidth = 1.1;
-      for (const e of edges) {
-        const a = nodes[e.a], b = nodes[e.b];
-        ctx.beginPath(); ctx.moveTo(a.x, a.y);
-        ctx.quadraticCurveTo((a.x + b.x) / 2 + e.mx, (a.y + b.y) / 2 + e.my, b.x, b.y); ctx.stroke();
-      }
-      ctx.fillStyle = "rgba(255,255,255,0.95)"; ctx.shadowColor = "rgba(255,255,255,0.8)";
-      for (const n of nodes) {
-        ctx.beginPath(); ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
-        ctx.shadowBlur = 8; ctx.fill();
-      }
-      ctx.shadowBlur = 0; ctx.globalAlpha = 1;
     }
 
     function synSetActive(on) {
