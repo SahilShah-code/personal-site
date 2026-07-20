@@ -971,10 +971,10 @@
       // white brain mesh
       for (const e of edges) {
         const a = nodes[e.a], b = nodes[e.b];
-        const al = (0.15 + e.glow * 0.7) * f;
+        const al = (0.30 + e.glow * 0.7) * f;
         if (al <= 0.003) continue;
-        ctx.strokeStyle = `rgba(233,239,247,${al})`;
-        ctx.lineWidth = 0.55 + e.glow * 1.1;
+        ctx.strokeStyle = `rgba(236,241,248,${al})`;
+        ctx.lineWidth = 0.8 + e.glow * 1.2;
         ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
       }
       // firing pulses
