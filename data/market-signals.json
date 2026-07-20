@@ -1,135 +1,47 @@
 {
-  "updated": "2026-07-19T18:45:47.870Z",
+  "updated": "2026-07-20T02:20:29.066Z",
   "withNews": [
-    {
-      "question": "Will a player representing Argentina be the top goalscorer at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-a-player-representing-argentina-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
-      "yes": 8,
-      "change24h": -49,
-      "vol24h": 37362,
-      "headlines": [
-        {
-          "title": "Watch Spain vs Argentina World Cup Final Live Today: Stream, TV Channel & Start Time (Jul 19, 2026)",
-          "source": "FOX One",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEw0dlh2OWRLbWNWWm55cVpjb0Z2Xy1PbXVrc1FmTE9mMHM4UWRIUGR3c1REVFdfeUlSNE5rc0xyUTB4TTJjbWJMT3ZWUHpyb1ZwZnJwWVF1UXRFbWFITWRDa2lYOVlRNnZzWDhSNW5iUk1TODJReHdGUXljRk9QVnAxM1BlMWN5SDh0Z2YzTkctSW9qWU9Xc29n?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "(WATCHLIVE!FREE)Spain vs Argentina Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MzaU9PRkppdmlYS2lPNnNHdG1NdUplQ244STkyYjg2dGx4anBPOXY4M28zZUVZN0xCb1cyUEppM2lZWjB6T2t2VGhyYmtlZWxWZkNwSEN1YU9Nb0hDb043Q0JsQk1xMXhDcjhsNkVUZ3JkRGR1czV2RXdoZ0xXbUxNampIZlRZNUFnYlY1RXVzTGxi?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Argentina score the most goals at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-argentina-score-the-most-goals-at-the-2026-fifa-world-cup",
-      "yes": 72,
-      "change24h": -20,
-      "vol24h": 75974,
-      "headlines": [
-        {
-          "title": "Watch Spain vs Argentina World Cup Final Live Today: Stream, TV Channel & Start Time (Jul 19, 2026)",
-          "source": "FOX One",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEw0dlh2OWRLbWNWWm55cVpjb0Z2Xy1PbXVrc1FmTE9mMHM4UWRIUGR3c1REVFdfeUlSNE5rc0xyUTB4TTJjbWJMT3ZWUHpyb1ZwZnJwWVF1UXRFbWFITWRDa2lYOVlRNnZzWDhSNW5iUk1TODJReHdGUXljRk9QVnAxM1BlMWN5SDh0Z2YzTkctSW9qWU9Xc29n?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "(WATCHLIVE!FREE)Spain vs Argentina Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MzaU9PRkppdmlYS2lPNnNHdG1NdUplQ244STkyYjg2dGx4anBPOXY4M28zZUVZN0xCb1cyUEppM2lZWjB6T2t2VGhyYmtlZWxWZkNwSEN1YU9Nb0hDb043Q0JsQk1xMXhDcjhsNkVUZ3JkRGR1czV2RXdoZ0xXbUxNampIZlRZNUFnYlY1RXVzTGxi?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 61,
-      "change24h": -6,
-      "vol24h": 12524,
+      "change24h": -5,
+      "vol24h": 12614,
       "headlines": [
+        {
+          "title": "The unanswered questions as new Fed chief vows to end US inflation",
+          "source": "The Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVJaeHpCQWF5eXltZ3lSZEFocnV1SkVOWDM1NmRjeFpYYnlpbmRYRkVwSVZTazFvOEdydUtlc0VHY19JU0tTWHRTYVBHQlZoSDVBT0ZGc282Q0gwREtmZllGZk9SelZhTm9HUFp5eS1jaUF6UnRYQmJ2bnRrNC1nOWxFTlBGbTc5NEN2Y1ZoME1oem1zVDE4U1pJR2RnTlRPNHZRQnM2dUhfU004eDdXRzMwZkxsZUxjOUE?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed Is Holding Interest Rates Steady: What It Means for Your Wallet",
           "source": "Lower Bucks Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTN4QnZaMFhNa05JWFg3MzBjbW4tTVhuZzNrUHlwUE54RUN0emxMSFlrdTNNRlBUUW5HNFNYWWpqNV82RTBNcTBncE11X2lpMXVMOThjcXdaTlpEdFpKVjRjX2RzcGtvdUhpd1NwYzRLazhGeTJMVGNfTVhTTW5YOHV2TmJUdzNIcUdTY3FzUkQyUHhH?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "yes": 7,
+      "change24h": 2,
+      "vol24h": 396452,
+      "headlines": [
         {
-          "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1ZyX1BVemdJeFNWcndWdlc2TzRqX2hTd3hOMURNeUZLVTZtUjNVUmRESkE2RzlUTHl5WU9lQjBhS3lmQXhQdzhiaUFoNkFwRVZiNk0zdlk1RXRQVFV4RmRhbjhJNlBIQTV3NDBYYlVva3BNYTJBcnNrOXVvS0VyRlNRQ2lnV1BCMV92Q0hEZHhlLXVHY3dpX2FxZGJUQdIBowFBVV95cUxOYUkzSXp3Z29CS2FFbjF6Nm84QUJvZ3hFYUdDUGRnSjVsM0hmUXVuWnBLNlU4T0NwSDZYV2hSSUNLQTZJSG1ac3dGT2R1cWFkTzFPOWV0YTNKV3FCR2dOV1V3Zzd2MmwtdlIweHZGTjdzWEkwck5uM1A2bFMtZmhIRldBVUdwcE5iVzl6YW0xYkhhTjJDQ1h6dG85ajEzZ2pVOFZ3?oc=5",
+          "title": "The unanswered questions as new Fed chief vows to end US inflation",
+          "source": "The Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVJaeHpCQWF5eXltZ3lSZEFocnV1SkVOWDM1NmRjeFpYYnlpbmRYRkVwSVZTazFvOEdydUtlc0VHY19JU0tTWHRTYVBHQlZoSDVBT0ZGc282Q0gwREtmZllGZk9SelZhTm9HUFp5eS1jaUF6UnRYQmJ2bnRrNC1nOWxFTlBGbTc5NEN2Y1ZoME1oem1zVDE4U1pJR2RnTlRPNHZRQnM2dUhfU004eDdXRzMwZkxsZUxjOUE?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 42,
-      "change24h": -4,
-      "vol24h": 51495,
-      "headlines": [
-        {
-          "title": "(WATCHLIVE!FREE)Spain vs Argentina Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MzaU9PRkppdmlYS2lPNnNHdG1NdUplQ244STkyYjg2dGx4anBPOXY4M28zZUVZN0xCb1cyUEppM2lZWjB6T2t2VGhyYmtlZWxWZkNwSEN1YU9Nb0hDb043Q0JsQk1xMXhDcjhsNkVUZ3JkRGR1czV2RXdoZ0xXbUxNampIZlRZNUFnYlY1RXVzTGxi?oc=5",
-          "cat": "World Cup"
         },
         {
-          "title": "(WATCHLIVE!FREE)Argentina vs Spain Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTZXdk9jZ2JZWlM3RHVGa0cxd2ZrekRkS1B1dUU2OWFqRVl6dHAySWpiQ1JTS1pWaEhfUzFKNVV6c3RzNU5BSldQRWhCZUJ2V09mQi10cFRjYkRIMl9ic3hUUGpVY0lKYWdiUVlHVWpsSWhNd2l6dW1RRnFSZHUwb1pkV2pHOUEtX3JnZjlPQVpERVR1?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 17,
-      "change24h": -3,
-      "vol24h": 39366,
-      "headlines": [
-        {
-          "title": "(WATCHLIVE!FREE)Spain vs Argentina Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MzaU9PRkppdmlYS2lPNnNHdG1NdUplQ244STkyYjg2dGx4anBPOXY4M28zZUVZN0xCb1cyUEppM2lZWjB6T2t2VGhyYmtlZWxWZkNwSEN1YU9Nb0hDb043Q0JsQk1xMXhDcjhsNkVUZ3JkRGR1czV2RXdoZ0xXbUxNampIZlRZNUFnYlY1RXVzTGxi?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "(WATCHLIVE!FREE)Argentina vs Spain Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTZXdk9jZ2JZWlM3RHVGa0cxd2ZrekRkS1B1dUU2OWFqRVl6dHAySWpiQ1JTS1pWaEhfUzFKNVV6c3RzNU5BSldQRWhCZUJ2V09mQi10cFRjYkRIMl9ic3hUUGpVY0lKYWdiUVlHVWpsSWhNd2l6dW1RRnFSZHUwb1pkV2pHOUEtX3JnZjlPQVpERVR1?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $72,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-72pt5k-in-july-2026",
-      "yes": 6,
-      "change24h": -2,
-      "vol24h": 32896,
-      "headlines": [
-        {
-          "title": "(WATCHLIVE!FREE)Spain vs Argentina Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MzaU9PRkppdmlYS2lPNnNHdG1NdUplQ244STkyYjg2dGx4anBPOXY4M28zZUVZN0xCb1cyUEppM2lZWjB6T2t2VGhyYmtlZWxWZkNwSEN1YU9Nb0hDb043Q0JsQk1xMXhDcjhsNkVUZ3JkRGR1czV2RXdoZ0xXbUxNampIZlRZNUFnYlY1RXVzTGxi?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "(WATCHLIVE!FREE)Argentina vs Spain Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTZXdk9jZ2JZWlM3RHVGa0cxd2ZrekRkS1B1dUU2OWFqRVl6dHAySWpiQ1JTS1pWaEhfUzFKNVV6c3RzNU5BSldQRWhCZUJ2V09mQi10cFRjYkRIMl9ic3hUUGpVY0lKYWdiUVlHVWpsSWhNd2l6dW1RRnFSZHUwb1pkV2pHOUEtX3JnZjlPQVpERVR1?oc=5",
-          "cat": "World Cup"
+          "title": "The Fed Is Holding Interest Rates Steady: What It Means for Your Wallet",
+          "source": "Lower Bucks Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTN4QnZaMFhNa05JWFg3MzBjbW4tTVhuZzNrUHlwUE54RUN0emxMSFlrdTNNRlBUUW5HNFNYWWpqNV82RTBNcTBncE11X2lpMXVMOThjcXdaTlpEdFpKVjRjX2RzcGtvdUhpd1NwYzRLazhGeTJMVGNfTVhTTW5YOHV2TmJUdzNIcUdTY3FzUkQyUHhH?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -137,65 +49,37 @@
       "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 94,
+      "yes": 93,
       "change24h": -1,
-      "vol24h": 192712,
+      "vol24h": 537302,
       "headlines": [
         {
-          "title": "(WATCHLIVE!FREE)Spain vs Argentina Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MzaU9PRkppdmlYS2lPNnNHdG1NdUplQ244STkyYjg2dGx4anBPOXY4M28zZUVZN0xCb1cyUEppM2lZWjB6T2t2VGhyYmtlZWxWZkNwSEN1YU9Nb0hDb043Q0JsQk1xMXhDcjhsNkVUZ3JkRGR1czV2RXdoZ0xXbUxNampIZlRZNUFnYlY1RXVzTGxi?oc=5",
-          "cat": "World Cup"
+          "title": "The unanswered questions as new Fed chief vows to end US inflation",
+          "source": "The Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVJaeHpCQWF5eXltZ3lSZEFocnV1SkVOWDM1NmRjeFpYYnlpbmRYRkVwSVZTazFvOEdydUtlc0VHY19JU0tTWHRTYVBHQlZoSDVBT0ZGc282Q0gwREtmZllGZk9SelZhTm9HUFp5eS1jaUF6UnRYQmJ2bnRrNC1nOWxFTlBGbTc5NEN2Y1ZoME1oem1zVDE4U1pJR2RnTlRPNHZRQnM2dUhfU004eDdXRzMwZkxsZUxjOUE?oc=5",
+          "cat": "Macro"
         },
-        {
-          "title": "(WATCHLIVE!FREE)Argentina vs Spain Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTZXdk9jZ2JZWlM3RHVGa0cxd2ZrekRkS1B1dUU2OWFqRVl6dHAySWpiQ1JTS1pWaEhfUzFKNVV6c3RzNU5BSldQRWhCZUJ2V09mQi10cFRjYkRIMl9ic3hUUGpVY0lKYWdiUVlHVWpsSWhNd2l6dW1RRnFSZHUwb1pkV2pHOUEtX3JnZjlPQVpERVR1?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will no Fed rate cuts happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
-      "yes": 85,
-      "change24h": 1,
-      "vol24h": 28411,
-      "headlines": [
         {
           "title": "The Fed Is Holding Interest Rates Steady: What It Means for Your Wallet",
           "source": "Lower Bucks Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTN4QnZaMFhNa05JWFg3MzBjbW4tTVhuZzNrUHlwUE54RUN0emxMSFlrdTNNRlBUUW5HNFNYWWpqNV82RTBNcTBncE11X2lpMXVMOThjcXdaTlpEdFpKVjRjX2RzcGtvdUhpd1NwYzRLazhGeTJMVGNfTVhTTW5YOHV2TmJUdzNIcUdTY3FzUkQyUHhH?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1ZyX1BVemdJeFNWcndWdlc2TzRqX2hTd3hOMURNeUZLVTZtUjNVUmRESkE2RzlUTHl5WU9lQjBhS3lmQXhQdzhiaUFoNkFwRVZiNk0zdlk1RXRQVFV4RmRhbjhJNlBIQTV3NDBYYlVva3BNYTJBcnNrOXVvS0VyRlNRQ2lnV1BCMV92Q0hEZHhlLXVHY3dpX2FxZGJUQdIBowFBVV95cUxOYUkzSXp3Z29CS2FFbjF6Nm84QUJvZ3hFYUdDUGRnSjVsM0hmUXVuWnBLNlU4T0NwSDZYV2hSSUNLQTZJSG1ac3dGT2R1cWFkTzFPOWV0YTNKV3FCR2dOV1V3Zzd2MmwtdlIweHZGTjdzWEkwck5uM1A2bFMtZmhIRldBVUdwcE5iVzl6YW0xYkhhTjJDQ1h6dG85ajEzZ2pVOFZ3?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Spain score the most goals at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-spain-score-the-most-goals-at-the-2026-fifa-world-cup",
-      "yes": 0,
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 26,
       "change24h": 0,
-      "vol24h": 48418,
+      "vol24h": 40080,
       "headlines": [
         {
-          "title": "Watch Spain vs Argentina World Cup Final Live Today: Stream, TV Channel & Start Time (Jul 19, 2026)",
-          "source": "FOX One",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEw0dlh2OWRLbWNWWm55cVpjb0Z2Xy1PbXVrc1FmTE9mMHM4UWRIUGR3c1REVFdfeUlSNE5rc0xyUTB4TTJjbWJMT3ZWUHpyb1ZwZnJwWVF1UXRFbWFITWRDa2lYOVlRNnZzWDhSNW5iUk1TODJReHdGUXljRk9QVnAxM1BlMWN5SDh0Z2YzTkctSW9qWU9Xc29n?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "(WATCHLIVE!FREE)Spain vs Argentina Live Free FIFA World Cup Soccer Today July,19,2026",
-          "source": "Grice Connect",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MzaU9PRkppdmlYS2lPNnNHdG1NdUplQ244STkyYjg2dGx4anBPOXY4M28zZUVZN0xCb1cyUEppM2lZWjB6T2t2VGhyYmtlZWxWZkNwSEN1YU9Nb0hDb043Q0JsQk1xMXhDcjhsNkVUZ3JkRGR1czV2RXdoZ0xXbUxNampIZlRZNUFnYlY1RXVzTGxi?oc=5",
-          "cat": "World Cup"
+          "title": "Dort going from Thunder to Hawks, Risacher going to Mavericks in 3-team trade",
+          "source": "Baltimore Sun",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFJsU08yeXAtck1nb28yRkFId1JwU2twNkRxSERvTVV6cmpmaUFucVM1Q1EyUFc1bXpwdklTeWZTRHhieHFKLVhlRC01MnBVVnlrVXpaUGtGd2luaEdSQWNxaEMzYlIzeTFEU0NBZUU2b0ltUE90Tld4SWVNU1FjR1lWWThmWTI2d2dtUUpIOUNrTnhjTGdMbUZ0ZVd6ZS1jQTItcjR1aEhRNWxyQ0FORElqMnZEcS1i?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -205,86 +89,34 @@
       "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 19213,
+      "vol24h": 40000,
       "headlines": [
         {
-          "title": "Mavericks acquire former No. 1 pick Zaccharie Risacher in three-team trade, reports say",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbThmTWhFdHVfRG43azREcm1yd3RhNml1RnlibndPUWhMdHNGaGtRclhyZEJNbnRBWjRrLXBjMXdEUS1qTVpZU0xwWjFhSmJ1LWZQMW5nQU55MDJPMUU4NjFSQkdJVHFLSWdSbHZtMVlHMjhNdC1lNC1qblJ6c21XYnpzYnFCa1U2LVZMSmJEZTF2cGNZSkZNQ2xpOVFUaHNlUVBkWGZZb2R3czZYY2p0aA?oc=5",
+          "title": "Dort going from Thunder to Hawks, Risacher going to Mavericks in 3-team trade",
+          "source": "Baltimore Sun",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFJsU08yeXAtck1nb28yRkFId1JwU2twNkRxSERvTVV6cmpmaUFucVM1Q1EyUFc1bXpwdklTeWZTRHhieHFKLVhlRC01MnBVVnlrVXpaUGtGd2luaEdSQWNxaEMzYlIzeTFEU0NBZUU2b0ltUE90Tld4SWVNU1FjR1lWWThmWTI2d2dtUUpIOUNrTnhjTGdMbUZ0ZVd6ZS1jQTItcjR1aEhRNWxyQ0FORElqMnZEcS1i?oc=5",
           "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 14760,
-      "headlines": [
-        {
-          "title": "Win or lose, World Cup sparks lasting soccer growth across Tampa Bay",
-          "source": "FOX 13 Tampa Bay",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGRJLVJ2djRPeHNSOTg4RkNTamNLckp6ZVZLYWNHNHB3NnJ0Uko2algzWGt6UWsyS1JVRUFzMWVqNHBCc0doRzAwRTc1dG1XV3ZNU3ptd3hfazkxckRuQmlvNEgwU0Y4Q28wNko3YWxyYk5MUUV6Ukhzc29VMFdlcUdHTDg2RU4tT21XdVdCZmUzRTJYOVZ0aGFzZw?oc=5",
-          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will a player representing France be the top goalscorer at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-a-player-representing-france-be-the-top-goalscorer-at-the-2026-fifa-world-cup",
-      "yes": 93,
-      "change24h": 51,
-      "vol24h": 22218,
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "yes": 27,
+      "change24h": 5,
+      "vol24h": 14899,
       "headlines": []
     },
     {
-      "question": "Will England score the most goals at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-england-score-the-most-goals-at-the-2026-fifa-world-cup",
-      "yes": 29,
-      "change24h": 29,
-      "vol24h": 76087,
-      "headlines": []
-    },
-    {
-      "question": "Will France score the most goals at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-france-score-the-most-goals-at-the-2026-fifa-world-cup",
-      "yes": 0,
-      "change24h": -9,
-      "vol24h": 418141,
-      "headlines": []
-    },
-    {
-      "question": "No change in Bank of Mexico’s interest rates after August 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/no-change-in-bank-of-mexicos-interest-rates-after-august-2026-meeting",
-      "yes": 89,
-      "change24h": -8,
-      "vol24h": 12028,
-      "headlines": []
-    },
-    {
-      "question": "Will Michael Olise record the most assists at the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-michael-olise-record-the-most-assists-at-the-2026-fifa-world-cup",
-      "yes": 99,
-      "change24h": 6,
-      "vol24h": 19541,
-      "headlines": []
-    },
-    {
-      "question": "Will Lionel Messi score 9+ goals during the 2026 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-lionel-messi-score-9-goals-during-the-2026-fifa-world-cup",
-      "yes": 42,
-      "change24h": 6,
-      "vol24h": 15141,
+      "question": "Will the price of Bitcoin be above $66,000 on July 21?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-66k-on-july-21-2026",
+      "yes": 19,
+      "change24h": -5,
+      "vol24h": 10944,
       "headlines": []
     }
   ]
