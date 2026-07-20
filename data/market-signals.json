@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-20T02:20:29.066Z",
+  "updated": "2026-07-20T08:34:50.797Z",
   "withNews": [
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 61,
-      "change24h": -5,
-      "vol24h": 12614,
+      "yes": 62,
+      "change24h": -4,
+      "vol24h": 12644,
       "headlines": [
         {
           "title": "The unanswered questions as new Fed chief vows to end US inflation",
@@ -27,9 +27,9 @@
       "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 7,
+      "yes": 6,
       "change24h": 2,
-      "vol24h": 396452,
+      "vol24h": 506632,
       "headlines": [
         {
           "title": "The unanswered questions as new Fed chief vows to end US inflation",
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 93,
-      "change24h": -1,
-      "vol24h": 537302,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 38,
+      "change24h": 2,
+      "vol24h": 33567,
       "headlines": [
         {
           "title": "The unanswered questions as new Fed chief vows to end US inflation",
@@ -68,33 +68,65 @@
       ]
     },
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 26,
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 40080,
+      "vol24h": 48768,
       "headlines": [
         {
-          "title": "Dort going from Thunder to Hawks, Risacher going to Mavericks in 3-team trade",
-          "source": "Baltimore Sun",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFJsU08yeXAtck1nb28yRkFId1JwU2twNkRxSERvTVV6cmpmaUFucVM1Q1EyUFc1bXpwdklTeWZTRHhieHFKLVhlRC01MnBVVnlrVXpaUGtGd2luaEdSQWNxaEMzYlIzeTFEU0NBZUU2b0ltUE90Tld4SWVNU1FjR1lWWThmWTI2d2dtUUpIOUNrTnhjTGdMbUZ0ZVd6ZS1jQTItcjR1aEhRNWxyQ0FORElqMnZEcS1i?oc=5",
+          "title": "‘SPECIAL,’ ‘Such a Baller’ — NBA World Reacts As Yaxel Lendeborg Comes Up Clutch, Powers Warriors to Summer League Championship",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbjJxdmtRUU0yRHE2T0NkM0lKQmNhc3JkbFQ4dGMwR0I3Zzh0Z28tSExMX2p1bGQwSjBmODc1ZDdpZmlQd1MxVWd2QUNTZ0hDa1JzU0xsQnA2c0VMVXlhZENhdUlxTkZKZUtfd042azlHUm5vUHYtdGtHcVRnMUJ1RC14all4WnM?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
-      "yes": 0,
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 40000,
+      "vol24h": 19275,
       "headlines": [
         {
-          "title": "Dort going from Thunder to Hawks, Risacher going to Mavericks in 3-team trade",
-          "source": "Baltimore Sun",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFJsU08yeXAtck1nb28yRkFId1JwU2twNkRxSERvTVV6cmpmaUFucVM1Q1EyUFc1bXpwdklTeWZTRHhieHFKLVhlRC01MnBVVnlrVXpaUGtGd2luaEdSQWNxaEMzYlIzeTFEU0NBZUU2b0ltUE90Tld4SWVNU1FjR1lWWThmWTI2d2dtUUpIOUNrTnhjTGdMbUZ0ZVd6ZS1jQTItcjR1aEhRNWxyQ0FORElqMnZEcS1i?oc=5",
+          "title": "Recent Los Angeles Lakers Guard And 11-Year NBA Veteran Still A Free Agent",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlhoYW5mNmVaUExMSk9kRDlNVlozaFhCYnhHcFNtdmhsbklNbXJPdkEwR0Zad3U3dEVId19MMUFiVGUyQU1oVmlQbEFGaFBQMXJkS3RwQ2tsNlJZUVEzSmNGZHFSTHJBWmpfRl9zY0pwQk12b0h2ekRXZVR3UXdSUGZ0VTEzUGc?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 11407,
+      "headlines": [
+        {
+          "title": "Which 3 Giants veterans will contribute more than anticipated in 2026?",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaC1oTENJMS1YdUxSNjFNNWVQRXdKRmFoM0ZTUmhRRFQ2YXAteVA1Ui1GSm53TGR5bmZpY2R6WEJNaWxSZmZTUFhXR01oVXEyZ2I4aTk5OVBVX0ZWZ0VVb094VXljcVAyT0ZRMkxVTHpmVDM4ZXV2cnVwZ0JZR1F5U0dhSmlxdHFKV2c?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 9959,
+      "headlines": [
+        {
+          "title": "Recent Los Angeles Lakers Guard And 11-Year NBA Veteran Still A Free Agent",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTlhoYW5mNmVaUExMSk9kRDlNVlozaFhCYnhHcFNtdmhsbklNbXJPdkEwR0Zad3U3dEVId19MMUFiVGUyQU1oVmlQbEFGaFBQMXJkS3RwQ2tsNlJZUVEzSmNGZHFSTHJBWmpfRl9zY0pwQk12b0h2ekRXZVR3UXdSUGZ0VTEzUGc?oc=5",
           "cat": "NBA"
         }
       ]
@@ -102,21 +134,48 @@
   ],
   "moversOnly": [
     {
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 40,
+      "change24h": -7,
+      "vol24h": 50721,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $70,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
+      "yes": 16,
+      "change24h": -5,
+      "vol24h": 53617,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 63,
+      "change24h": 5,
+      "vol24h": 23394,
+      "headlines": []
+    },
+    {
       "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
       "yes": 27,
       "change24h": 5,
-      "vol24h": 14899,
+      "vol24h": 13754,
       "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on July 21?",
+      "question": "Will Ethereum reach $1,900 in July?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-july-21-2026",
-      "yes": 19,
-      "change24h": -5,
-      "vol24h": 10944,
+      "url": "https://polymarket.com/event/will-ethereum-reach-1900-in-july-2026-from-july-16",
+      "yes": 82,
+      "change24h": -4,
+      "vol24h": 8297,
       "headlines": []
     }
   ]
