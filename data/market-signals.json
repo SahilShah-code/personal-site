@@ -1,13 +1,93 @@
 {
-  "updated": "2026-07-21T08:04:24.478Z",
+  "updated": "2026-07-21T13:11:11.764Z",
   "withNews": [
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 80,
+      "change24h": 35,
+      "vol24h": 152574,
+      "headlines": [
+        {
+          "title": "Here’s the Smartest S&P 500 ETF to Buy Before July Ends",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFNZMEpaLS1SN0pIOEp1X2t1X1VnSkIzcmNzeHFWZmVJU1BiZWtFV0VuX2ZuejlvQW5RTWlOM29pNThzMGFGN1pnZGVxMkdRSmQ4Y0pQbU90R1IydmlSbVROcmV6Ykp5WnR1YzdwY2IxRDhsZldYV0sxMThZa195M2dMV3B6S0hNa3NjRzRHa1QtVVlrc05iM1RMNWw0QQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $66,000 on July 24?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-66k-on-july-24-2026",
+      "yes": 60,
+      "change24h": 33,
+      "vol24h": 12896,
+      "headlines": [
+        {
+          "title": "Here’s the Smartest S&P 500 ETF to Buy Before July Ends",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFNZMEpaLS1SN0pIOEp1X2t1X1VnSkIzcmNzeHFWZmVJU1BiZWtFV0VuX2ZuejlvQW5RTWlOM29pNThzMGFGN1pnZGVxMkdRSmQ4Y0pQbU90R1IydmlSbVROcmV6Ykp5WnR1YzdwY2IxRDhsZldYV0sxMThZa195M2dMV3B6S0hNa3NjRzRHa1QtVVlrc05iM1RMNWw0QQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 73,
+      "change24h": 32,
+      "vol24h": 34955,
+      "headlines": [
+        {
+          "title": "Here’s the Smartest S&P 500 ETF to Buy Before July Ends",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFNZMEpaLS1SN0pIOEp1X2t1X1VnSkIzcmNzeHFWZmVJU1BiZWtFV0VuX2ZuejlvQW5RTWlOM29pNThzMGFGN1pnZGVxMkdRSmQ4Y0pQbU90R1IydmlSbVROcmV6Ykp5WnR1YzdwY2IxRDhsZldYV0sxMThZa195M2dMV3B6S0hNa3NjRzRHa1QtVVlrc05iM1RMNWw0QQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by July 31, 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-july-31-2026-20260716190353339",
+      "yes": 9,
+      "change24h": -13,
+      "vol24h": 11399,
+      "headlines": [
+        {
+          "title": "Here’s the Smartest S&P 500 ETF to Buy Before July Ends",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFNZMEpaLS1SN0pIOEp1X2t1X1VnSkIzcmNzeHFWZmVJU1BiZWtFV0VuX2ZuejlvQW5RTWlOM29pNThzMGFGN1pnZGVxMkdRSmQ4Y0pQbU90R1IydmlSbVROcmV6Ykp5WnR1YzdwY2IxRDhsZldYV0sxMThZa195M2dMV3B6S0hNa3NjRzRHa1QtVVlrc05iM1RMNWw0QQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will monthly inflation increase by 0.1% or more in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt1-or-more-in-july-20260714151054975",
+      "yes": 71,
+      "change24h": 9,
+      "vol24h": 11424,
+      "headlines": [
+        {
+          "title": "Here’s the Smartest S&P 500 ETF to Buy Before July Ends",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWFNZMEpaLS1SN0pIOEp1X2t1X1VnSkIzcmNzeHFWZmVJU1BiZWtFV0VuX2ZuejlvQW5RTWlOM29pNThzMGFGN1pnZGVxMkdRSmQ4Y0pQbU90R1IydmlSbVROcmV6Ykp5WnR1YzdwY2IxRDhsZldYV0sxMThZa195M2dMV3B6S0hNa3NjRzRHa1QtVVlrc05iM1RMNWw0QQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 44,
-      "change24h": 7,
-      "vol24h": 19950,
+      "change24h": 6,
+      "vol24h": 25466,
       "headlines": [
         {
           "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
@@ -27,9 +107,9 @@
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 59,
+      "yes": 58,
       "change24h": 5,
-      "vol24h": 43603,
+      "vol24h": 45899,
       "headlines": [
         {
           "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
@@ -46,24 +126,34 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 54,
-      "change24h": -5,
-      "vol24h": 12746,
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 8,
+      "change24h": 0,
+      "vol24h": 30669,
       "headlines": [
         {
-          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
-        },
+          "title": "The World Cup in New York and New Jersey, by the Numbers",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oOWRWdi1KUnQ1b3F2S3N0MDI5RFNfMzdncEV5dktFR3pUeDFXUHpCbWdUWHRDczhUUEJKMl9pMGtaSE1ObzBfMEtIeERBWTNrWjhQZUxxa3ZEd0FLOU9veDdtNmxFbFVYa3hCMi1wLVpkbjhtNGdsalJhY3NGZw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 16447,
+      "headlines": [
         {
-          "title": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
-          "cat": "Macro"
+          "title": "Breaking down Mavericks' potential starting lineup, depth chart after offseason moves",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVDVhTHQ3ZzlVRUR5SXh4VjEyc2Q1YjBFU04tYjhkUER3NkhTeVZvXzljNlFmTjctek5LYmd6dmJtN1lhTTBoakhkelRuTGs5WkJ1Q2FPTlVMWWI5YUxVclNLbnVpR2RNbjVnTVB0NUZiUi05UzE1RWloR0NmSGhrQzVodDdFUTNkVVRXdWxYUUkxUzFOWHM3M2hzOFhiNDdDV1U3RmJkdm8xOTA4RUFlOUdR?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -73,18 +163,18 @@
       "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
       "yes": 2,
       "change24h": 0,
-      "vol24h": 15026,
+      "vol24h": 15009,
       "headlines": [
         {
-          "title": "\"You didn't shave when you left the house?\" - Former Lakers equipment manager reveals Michael Cooper's strangest superstition",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYXdaSGpZLVhQMW50WFNuNWxjM0E0bjRVbEJzQURzX0ZLeXBSc0c3N3d3YTBTSWpUZVYzaTFtRk5mZURTbFd2ODFHT2ZZSG9ONUlVNk1SY1NYZFZMaWlSQWV2aGtuY1BBbC1PWHlKSElvdVZPQmt2cmozeF80MWNTUDQ5OWlkSHFkdDhRSFo4cXlJVlNERlNPY2lyZjI4dUphQm0wSGNyeno0VEtka0g0aXB1bXFtRk41OTdsOWo0RVZEQQ?oc=5",
+          "title": "‘LeBron Knew’ — NBA World Reacts As Lakers Owner Mark Walter Faces Federal Investigation for Potential Financial Improprieties",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNDBmMFRXdU5VOF9PcXMxQ2JJNXBZbXQ0ZjM2U3JJLWd4RjdvWDFtR1k4YUhoVjdlQTJpcnBtbzRUWUFteWVnSTg3TEtXcUlPVXl4NFBsQnRoZ2tNaVJieUp4WGVQSkUyZmgwRDAzOGwtcWpEUXFMZHIyTFBPWG1rcXdFUQ?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "Lakers' Latest $3.3M Signing Potentially Puts Bronny James, Dalton Knecht and Others at Risk",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaHlxVkRHTW4xYmN3X09JZVVSeTgwNUlMRl80NXdvdkNmS2hNQm92UFV2aUotT1c1LXp1YzQwMGVGeFpFUWVKNWJzM1FNY2xFd0k4QXFkckVTM2ZQWU1KZXB6VFl0WW5mMlN5Uk85Tkc2VDZhYWgtNWdfVzNkN2dMRUc4UzNPQlNQMUNWcnNFV1EwVVZvSFg3QTVtdXJ0clBDdEFfSTExZTlSUUVtX2lpQ20zX01WUmdVaXlvZ01rVU9lU2RXenNJV3c1d0VOSC1VdUotVktyeTlsdnRkdFhfR1ZvNnFhTm1POTlOaVpBb0QzUQ?oc=5",
+          "title": "‘Best Option Is Probably the Lakers’ — NBA Podcaster Boldly Argues LeBron James Should Return to LA",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2VKbFBXajJUcjVaU2RzS29hOHVrT1o3OUhoRzVNcHF0RC1sc1RlVnU5RFNROHNUQXBhdEx2ZkZTVGV2T0lhOE5GY0NQcjBGNGdSeTczdWZkZU4xdldHUktHQkNFXzlLUFFPVXlnYmtIRkZld0ZFMHl0ZXRCcE5DMDdmXy1TZmM?oc=5",
           "cat": "NBA"
         }
       ]
@@ -92,75 +182,12 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $67,500 in July?",
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 73,
-      "change24h": 33,
-      "vol24h": 95319,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 68,
-      "change24h": 32,
-      "vol24h": 21448,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 33,
-      "change24h": -30,
-      "vol24h": 59025,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 33,
-      "change24h": 17,
-      "vol24h": 91874,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60000-in-july-20260706151220612-754",
-      "yes": 12,
-      "change24h": -16,
-      "vol24h": 30040,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,100 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-july-2026",
-      "yes": 28,
-      "change24h": 16,
-      "vol24h": 10918,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 70,
-      "change24h": 15,
-      "vol24h": 91269,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $72,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-72pt5k-in-july-2026",
-      "yes": 12,
-      "change24h": 7,
-      "vol24h": 110688,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 46,
+      "change24h": -5,
+      "vol24h": 31941,
       "headlines": []
     }
   ]
