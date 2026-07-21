@@ -1,46 +1,112 @@
 {
-  "updated": "2026-07-20T19:21:27.430Z",
+  "updated": "2026-07-21T01:22:19.118Z",
   "withNews": [
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 69,
+      "change24h": 14,
+      "vol24h": 80551,
+      "headlines": [
+        {
+          "title": "Stock Market News, July 20, 2026: Chip Stocks Pare Gains as S&P 500 Finishes Lower",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXl6elpTREJHVW1LdEhRRWFsU0J0ZHNORTYyTVVjMldfWF9pSGRBeEp1eVdRX0JpbGpTMThONnd6bC0tUDRKU0N6YUJWSC1LSzAtdmF4a1dZYS0zWGhVYjZZNnAwUjJUeDBoRi1tekl4MzJpeHdoZndkWWdXOEo2a2diU1p0SHc?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market News for Monday, July 20, 2026: Dow, S&P 500, Nasdaq fall; Oil Pares Gains",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Vd0xPZ1BKOXBZSHZqNGVZODVNY0c2OVNDMVFwZnZCSVBIWnB0cm5YN19QUXVTMzE2V1pMLS04NndZc3NRNFZaV2M4T3IyZUEyNEZhY2tPRHZkbll3dHBIM2xJcjhZRHY2NExWbTZuT2JoWnM4LXc?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 42,
+      "change24h": -14,
+      "vol24h": 62066,
+      "headlines": [
+        {
+          "title": "Stock Market News, July 20, 2026: Chip Stocks Pare Gains as S&P 500 Finishes Lower",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXl6elpTREJHVW1LdEhRRWFsU0J0ZHNORTYyTVVjMldfWF9pSGRBeEp1eVdRX0JpbGpTMThONnd6bC0tUDRKU0N6YUJWSC1LSzAtdmF4a1dZYS0zWGhVYjZZNnAwUjJUeDBoRi1tekl4MzJpeHdoZndkWWdXOEo2a2diU1p0SHc?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market News for Monday, July 20, 2026: Dow, S&P 500, Nasdaq fall; Oil Pares Gains",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Vd0xPZ1BKOXBZSHZqNGVZODVNY0c2OVNDMVFwZnZCSVBIWnB0cm5YN19QUXVTMzE2V1pMLS04NndZc3NRNFZaV2M4T3IyZUEyNEZhY2tPRHZkbll3dHBIM2xJcjhZRHY2NExWbTZuT2JoWnM4LXc?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 56,
+      "change24h": 14,
+      "vol24h": 16462,
+      "headlines": [
+        {
+          "title": "Stock Market News, July 20, 2026: Chip Stocks Pare Gains as S&P 500 Finishes Lower",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXl6elpTREJHVW1LdEhRRWFsU0J0ZHNORTYyTVVjMldfWF9pSGRBeEp1eVdRX0JpbGpTMThONnd6bC0tUDRKU0N6YUJWSC1LSzAtdmF4a1dZYS0zWGhVYjZZNnAwUjJUeDBoRi1tekl4MzJpeHdoZndkWWdXOEo2a2diU1p0SHc?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market News for Monday, July 20, 2026: Dow, S&P 500, Nasdaq fall; Oil Pares Gains",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Vd0xPZ1BKOXBZSHZqNGVZODVNY0c2OVNDMVFwZnZCSVBIWnB0cm5YN19QUXVTMzE2V1pMLS04NndZc3NRNFZaV2M4T3IyZUEyNEZhY2tPRHZkbll3dHBIM2xJcjhZRHY2NExWbTZuT2JoWnM4LXc?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
     {
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 44,
       "change24h": 9,
-      "vol24h": 18060,
+      "vol24h": 18073,
       "headlines": [
+        {
+          "title": "Fed rate decision nears as inflation cools this summer",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWElNMEJ6dVQ5ZlJaLVNOOVJ5ejFDX2xZMU00dlRsVndGbFB4amJTYkc3WjFUY2llbkRYR3c1dEkydi1aQTdrRmJSQk8zTTFFVmFuNG92azJGT0ZzZ0Zla3NpMjFLRS1ISlp0aFJ1VVJaeWs2MjRBT0dLNXg3T0QtalpwWlBoU1lLUDlkOE5rcTJ3UFN0X1dDYnpaMGRKb2FrbmZFdElKTVIwLWkzM0tObzliTF9SNWdjbW5HUUQ5ajF5bHRNWTZYa1dHX0Y?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
           "source": "Investopedia",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 42,
-      "change24h": 6,
-      "vol24h": 36650,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 59,
+      "change24h": 5,
+      "vol24h": 46006,
       "headlines": [
+        {
+          "title": "Fed rate decision nears as inflation cools this summer",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWElNMEJ6dVQ5ZlJaLVNOOVJ5ejFDX2xZMU00dlRsVndGbFB4amJTYkc3WjFUY2llbkRYR3c1dEkydi1aQTdrRmJSQk8zTTFFVmFuNG92azJGT0ZzZ0Zla3NpMjFLRS1ISlp0aFJ1VVJaeWs2MjRBT0dLNXg3T0QtalpwWlBoU1lLUDlkOE5rcTJ3UFN0X1dDYnpaMGRKb2FrbmZFdElKTVIwLWkzM0tObzliTF9SNWdjbW5HUUQ5ajF5bHRNWTZYa1dHX0Y?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
           "source": "Investopedia",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -49,37 +115,53 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 54,
-      "change24h": -6,
-      "vol24h": 15782,
+      "yes": 55,
+      "change24h": -4,
+      "vol24h": 14050,
       "headlines": [
+        {
+          "title": "Fed rate decision nears as inflation cools this summer",
+          "source": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWElNMEJ6dVQ5ZlJaLVNOOVJ5ejFDX2xZMU00dlRsVndGbFB4amJTYkc3WjFUY2llbkRYR3c1dEkydi1aQTdrRmJSQk8zTTFFVmFuNG92azJGT0ZzZ0Zla3NpMjFLRS1ISlp0aFJ1VVJaeWs2MjRBT0dLNXg3T0QtalpwWlBoU1lLUDlkOE5rcTJ3UFN0X1dDYnpaMGRKb2FrbmZFdElKTVIwLWkzM0tObzliTF9SNWdjbW5HUUQ5ajF5bHRNWTZYa1dHX0Y?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
           "source": "Investopedia",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
-      "yes": 7,
-      "change24h": 1,
-      "vol24h": 11282,
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 53971,
       "headlines": [
         {
-          "title": "DeAndre Hopkins offers high praise for Ravens rookie Ja’Kobi Lane",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjAxSmFHeUxROHlDR3lVUFFzV1VnLTVqZnNMMjg3U3ZXcWJnVWwyZ0dWUEFkVm43Rkc0WXRFMlBYQ2FDdDdwYVo3emphNVlzMm9GcEsxaTl5ZWc1OEdubzE1aTRMd3IwTHotblR5ellyVDdlcTZrdHhBbkZLMmNBS1pabHk4MFVFY2NB?oc=5",
-          "cat": "NFL"
+          "title": "How new Mavericks forward Zaccharie Risacher compares to other recent No. 1 overall picks",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFlDRGxMOXpiOGdHZTY5Nm12VDFsSUZsdTltSXowdGpKQS1IRkdTMGF0eFNoQ2VjeUZzTFZlblg3SXM2QjdxX2IwRlJGdjZyUDdRMzhJeFRSSXRRd1NnUmMxNmhiNVFJcWNzSmZ2RkJ0cFl0SUpGdDcxeTg5SHlqVjdMUWt6MzJNUUlXWjBuX0ZfMVg2Mi1rXzJLU1FLZnA4dGx6RlpUbFg1TTJoSkNKVEhuUQ?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 32595,
+      "headlines": [
+        {
+          "title": "Waymo says it gave more than 2,300 rides to Miami FIFA Fan Festival during 2026 World Cup: \"This summer of soccer gave us exactly what we needed\"",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGpKRUk4RzJzWl9DallXemgza0JhTlRuekYxUTFqRkQ1Z2djR1h1NkFya1lUMjRSOXZYb05VVVIyRXhjSkxaX0h2X2ZuR29ydTRXRDg4TWw2TklmaDdhZnBGeGtlUTVzZU9TTEE2Z2taWENoOF9kTFhzaTlaTC1VbmxOcXBfUUl4YlpQbGpyVTBINE55NGpwRW5jaUk2OHZHaUpiZldwLWZJV096dlBXdjMyb2tVZ01hOXpVMmVoenAzZw?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -89,7 +171,7 @@
       "url": "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-mens-us-open",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 14462,
+      "vol24h": 13554,
       "headlines": [
         {
           "title": "ATP/WTA: Cerundolo, Tiafoe, Noskova seize the moment",
@@ -98,80 +180,23 @@
           "cat": "Tennis"
         }
       ]
+    },
+    {
+      "question": "Will Taylor Fritz win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-taylor-fritz-win-the-2026-mens-us-open",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 12708,
+      "headlines": [
+        {
+          "title": "Jonathan Taylor Rises in the Perfect 12-Team Fantasy Football PPR Mock Draft",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkVBZE9yeG96VnhoaHhreV82eDJPVlJkYTlEOXotY1BJc214QWtTbHNXMFlsLUVjemNRcVJKcTktck5ZanE2b2x2enFUeTBlNFp2YVludS1nemQ4VVFsWWRTZWVSbTZ2akIwYWhINHVpcEFCOXg0N1l6NDd4YVVIV3dwbnRFUmZ3bjBuVWVheElKYXdDM1hWSVpmdnB0VG5SNjNjZGFXeFB5cENUQ1oxbjlxcw?oc=5",
+          "cat": "NFL"
+        }
+      ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Palermo: Federica Urgesi vs Elizara Yaneva",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/wta-urgesi-yaneva-2026-07-20",
-      "yes": 10,
-      "change24h": -23,
-      "vol24h": 105834,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 48,
-      "change24h": -14,
-      "vol24h": 63939,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 67,
-      "change24h": 13,
-      "vol24h": 78671,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 54,
-      "change24h": 12,
-      "vol24h": 95022,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 48,
-      "change24h": 11,
-      "vol24h": 13993,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60000-in-july-20260706151220612-754",
-      "yes": 18,
-      "change24h": -10,
-      "vol24h": 67827,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on July 22?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-july-22-2026",
-      "yes": 97,
-      "change24h": 7,
-      "vol24h": 13939,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 23,
-      "change24h": 6,
-      "vol24h": 88783,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
