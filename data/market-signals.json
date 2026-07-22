@@ -1,47 +1,51 @@
 {
-  "updated": "2026-07-21T19:01:15.138Z",
+  "updated": "2026-07-22T01:21:17.349Z",
   "withNews": [
     {
-      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-aprjunjul",
-      "yes": 79,
-      "change24h": -14,
-      "vol24h": 36142,
+      "question": "Will Bitcoin dip to $65,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-july-2026-from-july-20",
+      "yes": 71,
+      "change24h": -25,
+      "vol24h": 22311,
       "headlines": [
         {
-          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market News, July 21, 2026: Dow ends up over 380 points, S&P 500 and Nasdaq snap 3-day losing streaks as chip stocks rebound; global oil prices above $91 a barrel on fresh U.S.-Iran strikes",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXZPQVRxTHg4WFJ6RFAzVE0yMEVXVlhDM19ONnJFU01CTERtOHdUdXFUSzFzTUVuTmlVYWROMkpPZUxMaTdGaTZTMFBIbVI0SWc0UDduTlhLcEUtR2hHdS1YT2UwOFFaelZLcTVmWXlqUjRlZ0tNeF9ZdVdPZnBSM2NfSjl3WkhmTVNnVzFZcWV5UmlxUTRORlRPVjB3LXA1NlQyV1FhcW5pN0JDSkQzb0Q5RmpsQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by October 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 59,
-      "change24h": 13,
-      "vol24h": 15311,
+      "question": "Will Bitcoin reach $68,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
+      "yes": 56,
+      "change24h": 21,
+      "vol24h": 11921,
       "headlines": [
         {
-          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
-        },
+          "title": "Stock Market News, July 21, 2026: Dow ends up over 380 points, S&P 500 and Nasdaq snap 3-day losing streaks as chip stocks rebound; global oil prices above $91 a barrel on fresh U.S.-Iran strikes",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXZPQVRxTHg4WFJ6RFAzVE0yMEVXVlhDM19ONnJFU01CTERtOHdUdXFUSzFzTUVuTmlVYWROMkpPZUxMaTdGaTZTMFBIbVI0SWc0UDduTlhLcEUtR2hHdS1YT2UwOFFaelZLcTVmWXlqUjRlZ0tNeF9ZdVdPZnBSM2NfSjl3WkhmTVNnVzFZcWV5UmlxUTRORlRPVjB3LXA1NlQyV1FhcW5pN0JDSkQzb0Q5RmpsQQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 80,
+      "change24h": 19,
+      "vol24h": 155008,
+      "headlines": [
         {
-          "title": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market News, July 21, 2026: Dow ends up over 380 points, S&P 500 and Nasdaq snap 3-day losing streaks as chip stocks rebound; global oil prices above $91 a barrel on fresh U.S.-Iran strikes",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXZPQVRxTHg4WFJ6RFAzVE0yMEVXVlhDM19ONnJFU01CTERtOHdUdXFUSzFzTUVuTmlVYWROMkpPZUxMaTdGaTZTMFBIbVI0SWc0UDduTlhLcEUtR2hHdS1YT2UwOFFaelZLcTVmWXlqUjRlZ0tNeF9ZdVdPZnBSM2NfSjl3WkhmTVNnVzFZcWV5UmlxUTRORlRPVjB3LXA1NlQyV1FhcW5pN0JDSkQzb0Q5RmpsQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -49,21 +53,81 @@
       "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
-      "yes": 59,
-      "change24h": 12,
-      "vol24h": 13767,
+      "yes": 60,
+      "change24h": 13,
+      "vol24h": 14493,
       "headlines": [
+        {
+          "title": "Bank of America CEO warns inflation will back Fed into a corner",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
           "source": "Investopedia",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 45,
+      "change24h": -10,
+      "vol24h": 36654,
+      "headlines": [
+        {
+          "title": "Bank of America CEO warns inflation will back Fed into a corner",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
+          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "yes": 85,
+      "change24h": -8,
+      "vol24h": 1954437,
+      "headlines": [
+        {
+          "title": "Bank of America CEO warns inflation will back Fed into a corner",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will monthly inflation increase by 0.1% or more in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt1-or-more-in-july-20260714151054975",
+      "yes": 70,
+      "change24h": 4,
+      "vol24h": 11540,
+      "headlines": [
+        {
+          "title": "Stock Market News, July 21, 2026: Dow ends up over 380 points, S&P 500 and Nasdaq snap 3-day losing streaks as chip stocks rebound; global oil prices above $91 a barrel on fresh U.S.-Iran strikes",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXZPQVRxTHg4WFJ6RFAzVE0yMEVXVlhDM19ONnJFU01CTERtOHdUdXFUSzFzTUVuTmlVYWROMkpPZUxMaTdGaTZTMFBIbVI0SWc0UDduTlhLcEUtR2hHdS1YT2UwOFFaelZLcTVmWXlqUjRlZ0tNeF9ZdVdPZnBSM2NfSjl3WkhmTVNnVzFZcWV5UmlxUTRORlRPVjB3LXA1NlQyV1FhcW5pN0JDSkQzb0Q5RmpsQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -73,94 +137,25 @@
       "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
       "yes": 2,
       "change24h": 0,
-      "vol24h": 13487,
+      "vol24h": 14374,
       "headlines": [
         {
-          "title": "Warriors' Yaxel Lendeborg named MVP of 2026 NBA Summer League",
+          "title": "Ex-Warriors NBA champion Jonathan Kuminga gets $45 million Lakers sign-and-trade update",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHlOLTd2MVBVTUtveW5hQ0F6c0tUdEhQTlc5UndicVhPNW00WVJLY2pGLXhUV1p0TlpnZWNCVDR2RDZuSVdwNkRPVFhxeDJTOFpUWFAtYVdNMmFIS1NJeU04V1ZIU0Z4RmpaUDcyY21Nbjh0RkRLUElSYWRrdzJqMVNNc25NTHg2ckZv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSXUxclZJS0lQY1ZOYmt5ZjA5WWkwVFBnbTZWUFhRbDZ3dmJJZWJ0SHh0TlRHSHFUbUoyc3hzRm0yZ3Z0VFBRd0dRN2Q1TnBKYm80N2gtMHh0eXIyekI4UHZOcFVvQU1hSVgzSzZiSGxQNkdwYmdoMldzZnBGb1hqVS1xb1dMOXE2M1E?oc=5",
           "cat": "NBA"
-        },
-        {
-          "title": "Trump Accounts Launch Into State Street Index Fund",
-          "source": "JD Supra",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeW1MRFE0dDkxeS13ZmxiQzdwQmtjZ3AzN2t6bHViZzJpdjdZUkNIMjV3a1pnSlpmNjVqOFg4NE9XdXUyRkZoRVJ3Y2tmT29pSHFHT3IwWWNaZTJ0Um5lMm5DWFktWnMwRldYWG5QN1YxajdUcW9qSkxKdEhhUncwQVF3djlBN0NjLUE?oc=5",
-          "cat": "Markets"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the price of Bitcoin be above $66,000 on July 24?",
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-july-24-2026",
-      "yes": 56,
-      "change24h": 20,
-      "vol24h": 15685,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 74,
-      "change24h": 18,
-      "vol24h": 153831,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-july-2026-from-july-20",
-      "yes": 73,
-      "change24h": -18,
-      "vol24h": 18914,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $64,000 on July 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-july-23-2026",
-      "yes": 92,
-      "change24h": 18,
-      "vol24h": 12927,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 31,
-      "change24h": -15,
-      "vol24h": 66080,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 33,
-      "change24h": 11,
-      "vol24h": 106749,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 60,
-      "change24h": 11,
-      "vol24h": 29357,
-      "headlines": []
-    },
-    {
-      "question": "Will monthly inflation increase by 0.1% or more in July?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt1-or-more-in-july-20260714151054975",
-      "yes": 71,
-      "change24h": 11,
-      "vol24h": 11592,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 41,
+      "change24h": -4,
+      "vol24h": 179516,
       "headlines": []
     }
   ]
