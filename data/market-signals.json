@@ -1,47 +1,51 @@
 {
-  "updated": "2026-07-22T13:17:09.889Z",
+  "updated": "2026-07-22T18:54:04.348Z",
   "withNews": [
     {
-      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-aprjunjul",
-      "yes": 83,
-      "change24h": -10,
-      "vol24h": 37726,
+      "question": "Will Bitcoin reach $68,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
+      "yes": 31,
+      "change24h": -21,
+      "vol24h": 21180,
       "headlines": [
         {
-          "title": "Bank of America CEO warns inflation will back Fed into a corner",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1phTHVwT0Uxek14TW1BTk8xenZnYVBCQ0NOZ1BzODFvdEVNelp5UkJUMDJ2THV0dm12NjdldHJjWFJXUWs1TFV6RFNsVTcxU2NkZkpqanVlbVRSOE1ELUZWcmhUOGVJdlBKMjBmWUM1VExHcXdmR1RpRmMxWDNGTWUzWG1zUkpjdXZLc0R1X0xZVmJCcTI0?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 84,
-      "change24h": -9,
-      "vol24h": 2063783,
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 63,
+      "change24h": -12,
+      "vol24h": 56463,
       "headlines": [
         {
-          "title": "Bank of America CEO warns inflation will back Fed into a corner",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
-          "cat": "Macro"
-        },
+          "title": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1phTHVwT0Uxek14TW1BTk8xenZnYVBCQ0NOZ1BzODFvdEVNelp5UkJUMDJ2THV0dm12NjdldHJjWFJXUWs1TFV6RFNsVTcxU2NkZkpqanVlbVRSOE1ELUZWcmhUOGVJdlBKMjBmWUM1VExHcXdmR1RpRmMxWDNGTWUzWG1zUkpjdXZLc0R1X0xZVmJCcTI0?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 86,
+      "change24h": 11,
+      "vol24h": 88856,
+      "headlines": [
         {
-          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1phTHVwT0Uxek14TW1BTk8xenZnYVBCQ0NOZ1BzODFvdEVNelp5UkJUMDJ2THV0dm12NjdldHJjWFJXUWs1TFV6RFNsVTcxU2NkZkpqanVlbVRSOE1ELUZWcmhUOGVJdlBKMjBmWUM1VExHcXdmR1RpRmMxWDNGTWUzWG1zUkpjdXZLc0R1X0xZVmJCcTI0?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -49,43 +53,65 @@
       "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 16,
-      "change24h": 9,
-      "vol24h": 1165055,
+      "yes": 22,
+      "change24h": 5,
+      "vol24h": 551781,
       "headlines": [
+        {
+          "title": "Fed revamps inflation tracker amid potential rate hikes",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Bank of America CEO warns inflation will back Fed into a corner",
           "source": "thestreet.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by July 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
+      "yes": 23,
+      "change24h": 5,
+      "vol24h": 21353,
+      "headlines": [
+        {
+          "title": "Fed revamps inflation tracker amid potential rate hikes",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
+          "title": "Bank of America CEO warns inflation will back Fed into a corner",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Tesla and SpaceX merger officially announced by September 30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-september-30",
-      "yes": 17,
-      "change24h": 6,
-      "vol24h": 21413,
+      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
+      "yes": 58,
+      "change24h": 5,
+      "vol24h": 16985,
       "headlines": [
         {
-          "title": "SpaceX ends its losing streak, oil prices jump, the Fed's AI red flags and more in Morning Squawk",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU9PeUtvVEdMN2FsY3M5WnBOT19ROUhWR3JqSVJmZW9LTGJJTlgxMDdzWDdZZVRpUGN6TU1MMUpmcXhEOFdpcDlTQXh0bGtCOWpRbXVZSnk5Sno2RTRySnh0TllwRFU4ZVhJSGUyZ1gta29PSkRZUU5DUXFxNHRWU3pBaG9JcmY4TkdN0gGQAUFVX3lxTE1jN01IYWRyQ25Hc0hyX2xCeHhXb05TN1dGN0xrNklWU1psMzJNMFA1OHo1WXpWSDc3VTR0dmhpZU4zUWt4V0N5VHFSdVJiTlllM0ZKczJjTDdkY3VSdXlrMElwS1RYQUs1Zm1GMUJTQVZkSzFFbGVBbUk1STRPb3FZNS1iQmhvX1dsR2xsTDF2VQ?oc=5",
-          "cat": "Markets"
+          "title": "Fed revamps inflation tracker amid potential rate hikes",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Dow Jones Futures Fall As Oil Prices Jump; Two AI Earnings Movers With Google, Tesla Due",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTllWk5peEtlSnVEOG1jd2tQQUxnTXl3ZE9kdW91cXQxdlFXdW42M01qM2V1TFB3MDU4RVVVX2s0VmhRVWowckhpalNnc1RWa3JFdXlzeFVnVS14TklNS3AxRUMyMm9TMklWWkEyTlhRemZ6RWZSMVFXbmVqUTZkeDVacmdrblZBZWlqbEdmd0ZObFB4M3dtVXBXcmdISE5jX3lIdDE2SmRCbGJ6eXdnb25CYndXQWMzOUYxcA?oc=5",
-          "cat": "Markets"
+          "title": "Bank of America CEO warns inflation will back Fed into a corner",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -95,105 +121,16 @@
       "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
       "yes": 7,
       "change24h": 1,
-      "vol24h": 33264,
+      "vol24h": 29743,
       "headlines": [
         {
-          "title": "NBA Rumors: Eastern Conference Contender Joins Heat in Race for Bradley Beal",
+          "title": "Pat Riley addresses the Miami Heat's trajectory since making the 2020 NBA Finals in the Bubble",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGNoei05WW5DTUF0Q0xDN0ZHbUI5N254bWFqX1JPNGlHZjZsRmpTaGp1OGpkb3FBZTlRX2VEWEZDZ3NpT1dOSWVqUUdCREdDSzA1dk4wRVVwR0tma3FEXzJfSkk1NXRnTlhvWUpaS3VKaThfY1Btc2lqY0dMRHZfOUVKcGFQc1c0WGJRTnppZGx6UQ?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 108911,
-      "headlines": [
-        {
-          "title": "‘I Talked to James the Other Night’ — NBA Champion Shares 6-Word Message From James Harden Amid Cavaliers’ LeBron James Pursuit",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUkxjaXJBVm5fRVZPYkp3cU5hZVA3bjYzaUFQekV2TGFrT3VNc2NiVHNaNFRHelJsR0t4ZG9ZNnpIcG5RZUR0cDFqV2pOcmhHVzlCajZvVWlqMGdJMmZEY0lGQWFRakVFekViV1p0enY4dG42TmpZYlVTUlZUWWotckpRZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0pIM2hkcEd1Uk5wQnpBcUhQUW1xWWloX01qczg0amhWenpHVnhVZGVqd3o1M1h6VVRJX1A3WnltWEYxNXFrektoamx0NWVtSmJRMkFQeGpqX1FiWkUzZ1dxbG03M1YwM3ZMclROU05wYVotUzVUZFR5WHJCb3U2d3RUZGswa2M?oc=5",
           "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Bitcoin reach $68,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
-      "yes": 29,
-      "change24h": -31,
-      "vol24h": 21274,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
-      "yes": 35,
-      "change24h": -24,
-      "vol24h": 13973,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 61,
-      "change24h": -19,
-      "vol24h": 88834,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-july-2026-from-july-20",
-      "yes": 86,
-      "change24h": 15,
-      "vol24h": 36028,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 57,
-      "change24h": -15,
-      "vol24h": 17147,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 27,
-      "change24h": -11,
-      "vol24h": 71438,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 39,
-      "change24h": 10,
-      "vol24h": 81506,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $72,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-72pt5k-in-july-2026",
-      "yes": 8,
-      "change24h": -6,
-      "vol24h": 62947,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
