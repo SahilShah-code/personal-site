@@ -1,35 +1,13 @@
 {
-  "updated": "2026-07-22T08:05:10.844Z",
+  "updated": "2026-07-22T13:17:09.889Z",
   "withNews": [
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 44,
+      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-aprjunjul",
+      "yes": 83,
       "change24h": -10,
-      "vol24h": 38329,
-      "headlines": [
-        {
-          "title": "Bank of America CEO warns inflation will back Fed into a corner",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
-      "yes": 59,
-      "change24h": 10,
-      "vol24h": 12880,
+      "vol24h": 37726,
       "headlines": [
         {
           "title": "Bank of America CEO warns inflation will back Fed into a corner",
@@ -49,9 +27,31 @@
       "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 85,
-      "change24h": -8,
-      "vol24h": 1897339,
+      "yes": 84,
+      "change24h": -9,
+      "vol24h": 2063783,
+      "headlines": [
+        {
+          "title": "Bank of America CEO warns inflation will back Fed into a corner",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "yes": 16,
+      "change24h": 9,
+      "vol24h": 1165055,
       "headlines": [
         {
           "title": "Bank of America CEO warns inflation will back Fed into a corner",
@@ -71,12 +71,18 @@
       "question": "Tesla and SpaceX merger officially announced by September 30?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-september-30",
-      "yes": 18,
-      "change24h": 7,
-      "vol24h": 18199,
+      "yes": 17,
+      "change24h": 6,
+      "vol24h": 21413,
       "headlines": [
         {
-          "title": "Futures: AI Server Maker Jumps Late; Google, Tesla Due",
+          "title": "SpaceX ends its losing streak, oil prices jump, the Fed's AI red flags and more in Morning Squawk",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRU9PeUtvVEdMN2FsY3M5WnBOT19ROUhWR3JqSVJmZW9LTGJJTlgxMDdzWDdZZVRpUGN6TU1MMUpmcXhEOFdpcDlTQXh0bGtCOWpRbXVZSnk5Sno2RTRySnh0TllwRFU4ZVhJSGUyZ1gta29PSkRZUU5DUXFxNHRWU3pBaG9JcmY4TkdN0gGQAUFVX3lxTE1jN01IYWRyQ25Hc0hyX2xCeHhXb05TN1dGN0xrNklWU1psMzJNMFA1OHo1WXpWSDc3VTR0dmhpZU4zUWt4V0N5VHFSdVJiTlllM0ZKczJjTDdkY3VSdXlrMElwS1RYQUs1Zm1GMUJTQVZkSzFFbGVBbUk1STRPb3FZNS1iQmhvX1dsR2xsTDF2VQ?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Dow Jones Futures Fall As Oil Prices Jump; Two AI Earnings Movers With Google, Tesla Due",
           "source": "Investor's Business Daily",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTllWk5peEtlSnVEOG1jd2tQQUxnTXl3ZE9kdW91cXQxdlFXdW42M01qM2V1TFB3MDU4RVVVX2s0VmhRVWowckhpalNnc1RWa3JFdXlzeFVnVS14TklNS3AxRUMyMm9TMklWWkEyTlhRemZ6RWZSMVFXbmVqUTZkeDVacmdrblZBZWlqbEdmd0ZObFB4M3dtVXBXcmdISE5jX3lIdDE2SmRCbGJ6eXdnb25CYndXQWMzOUYxcA?oc=5",
           "cat": "Markets"
@@ -87,20 +93,30 @@
       "question": "Will Miami Heat win the 2027 NBA Finals?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
-      "yes": 6,
-      "change24h": 0,
-      "vol24h": 34141,
+      "yes": 7,
+      "change24h": 1,
+      "vol24h": 33264,
       "headlines": [
         {
-          "title": "NBA Rumors: Heat Offer ‘No Assurances’ to 6-Time All-Star As Backup Plan if They Miss Out on LeBron James",
+          "title": "NBA Rumors: Eastern Conference Contender Joins Heat in Race for Bradley Beal",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDdzdiRm1zMUJxWXpsT0lfUGRvdXNTLUdnaG96ZktaSXJpbEFoczZiMGd5eG1raTBkVlQzUFRMUVlZRTJLRFg4d2VPRGR6aUpHT19PUVc4ejBlVmhMU3RteF9IbHlPdUp4dDJSVEVTNUNHUEFNc1NUcVBLaC1Gdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWGNoei05WW5DTUF0Q0xDN0ZHbUI5N254bWFqX1JPNGlHZjZsRmpTaGp1OGpkb3FBZTlRX2VEWEZDZ3NpT1dOSWVqUUdCREdDSzA1dk4wRVVwR0tma3FEXzJfSkk1NXRnTlhvWUpaS3VKaThfY1Btc2lqY0dMRHZfOUVKcGFQc1c0WGJRTnppZGx6UQ?oc=5",
           "cat": "NBA"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 108911,
+      "headlines": [
         {
-          "title": "Heat confirm the LeBron James introductory press conference YouTube video was published accidentally after latest rumors",
+          "title": "‘I Talked to James the Other Night’ — NBA Champion Shares 6-Word Message From James Harden Amid Cavaliers’ LeBron James Pursuit",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZVJwOG15RFJtVUY4Nl9NZnlOOVF0WGxWRzJIZ09MZzl1dWw3N3VIbEZzejFwZlV2UkRVaDNrNnA3S3N5dE4wWDhvYlFuOGFibzhnTzJ4M1dWTkM2T3JoR1Jvdm5GaUp0QmdCRkc5THFhNzB4OTRGZ1JfNnhMcjkwVFhzT201bE5FdlhCTnZ0eTJ3dWlJNFFYSE54RzlIYzVCWlRpdDlkcXJJLUJrbVBCZ1FlSC1vUkxLclB0SDFaWmpDaXh4SERDSXFxbHdyZER5ZHhXam5BSEw0clpNR3IwSmpSaE5RWXJvOW1pQlVLMUp1bG0yaTl2b0EzWElLa0d1dWc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUkxjaXJBVm5fRVZPYkp3cU5hZVA3bjYzaUFQekV2TGFrT3VNc2NiVHNaNFRHelJsR0t4ZG9ZNnpIcG5RZUR0cDFqV2pOcmhHVzlCajZvVWlqMGdJMmZEY0lGQWFRakVFekViV1p0enY4dG42TmpZYlVTUlZUWWotckpRZw?oc=5",
           "cat": "NBA"
         }
       ]
@@ -108,75 +124,75 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum reach $2,000 in July?",
+      "question": "Will Bitcoin reach $68,000 July 20-26?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 56,
-      "change24h": -12,
-      "vol24h": 30099,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
+      "yes": 29,
+      "change24h": -31,
+      "vol24h": 21274,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
+      "yes": 35,
+      "change24h": -24,
+      "vol24h": 13973,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $67,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 67,
-      "change24h": -7,
-      "vol24h": 156929,
+      "yes": 61,
+      "change24h": -19,
+      "vol24h": 88834,
       "headlines": []
     },
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "question": "Will Bitcoin dip to $65,000 in July?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 74,
-      "change24h": 5,
-      "vol24h": 72998,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-july-2026-from-july-20",
+      "yes": 86,
+      "change24h": 15,
+      "vol24h": 36028,
       "headlines": []
     },
     {
-      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by July 31, 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-july-31-2026-20260716190353339",
-      "yes": 11,
-      "change24h": 5,
-      "vol24h": 22228,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,000 in July?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 17,
-      "change24h": 5,
-      "vol24h": 17014,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $66,000 on July 24?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-july-24-2026",
-      "yes": 49,
-      "change24h": -5,
-      "vol24h": 11362,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 41,
-      "change24h": -4,
-      "vol24h": 188517,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 57,
+      "change24h": -15,
+      "vol24h": 17147,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $70,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 28,
-      "change24h": -4,
-      "vol24h": 74558,
+      "yes": 27,
+      "change24h": -11,
+      "vol24h": 71438,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 39,
+      "change24h": 10,
+      "vol24h": 81506,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $72,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-72pt5k-in-july-2026",
+      "yes": 8,
+      "change24h": -6,
+      "vol24h": 62947,
       "headlines": []
     }
   ]
