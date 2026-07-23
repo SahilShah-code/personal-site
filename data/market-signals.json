@@ -1,51 +1,47 @@
 {
-  "updated": "2026-07-22T18:54:04.348Z",
+  "updated": "2026-07-23T01:28:21.272Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $68,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
-      "yes": 31,
-      "change24h": -21,
-      "vol24h": 21180,
+      "question": "Fed Rate Hike by July 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
+      "yes": 24,
+      "change24h": 13,
+      "vol24h": 20231,
       "headlines": [
         {
-          "title": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1phTHVwT0Uxek14TW1BTk8xenZnYVBCQ0NOZ1BzODFvdEVNelp5UkJUMDJ2THV0dm12NjdldHJjWFJXUWs1TFV6RFNsVTcxU2NkZkpqanVlbVRSOE1ELUZWcmhUOGVJdlBKMjBmWUM1VExHcXdmR1RpRmMxWDNGTWUzWG1zUkpjdXZLc0R1X0xZVmJCcTI0?oc=5",
-          "cat": "Markets"
+          "title": "What “anchored inflation expectations” mean for the Fed",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Interest Rate Predictions for the Next 5 Years: 2026-2030",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJ3UzF5bUljX002ZWZXcm5HdVVhUDBZMEpoQkpuT2dQTFRtemQ1Y0kzQ1dxQmNDSTVRSjRrYnVQekR6Wko3emowOE9yc0pGTm1YdDYycTl2M2FpeTNXUExvanpDZExaZXNLckZKRWtHdXJ4VVhZQ21xYS14ZWhSMjRaMjk3b1VyN1djeFY3OUE?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 63,
-      "change24h": -12,
-      "vol24h": 56463,
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "yes": 75,
+      "change24h": -10,
+      "vol24h": 1213847,
       "headlines": [
         {
-          "title": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1phTHVwT0Uxek14TW1BTk8xenZnYVBCQ0NOZ1BzODFvdEVNelp5UkJUMDJ2THV0dm12NjdldHJjWFJXUWs1TFV6RFNsVTcxU2NkZkpqanVlbVRSOE1ELUZWcmhUOGVJdlBKMjBmWUM1VExHcXdmR1RpRmMxWDNGTWUzWG1zUkpjdXZLc0R1X0xZVmJCcTI0?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 86,
-      "change24h": 11,
-      "vol24h": 88856,
-      "headlines": [
+          "title": "What “anchored inflation expectations” mean for the Fed",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "cat": "Macro"
+        },
         {
-          "title": "Stock Market Midday, July 22: Markets Brace for Alphabet Earnings as Hyperscaler's AI Debt Comes Into Focus",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1phTHVwT0Uxek14TW1BTk8xenZnYVBCQ0NOZ1BzODFvdEVNelp5UkJUMDJ2THV0dm12NjdldHJjWFJXUWs1TFV6RFNsVTcxU2NkZkpqanVlbVRSOE1ELUZWcmhUOGVJdlBKMjBmWUM1VExHcXdmR1RpRmMxWDNGTWUzWG1zUkpjdXZLc0R1X0xZVmJCcTI0?oc=5",
-          "cat": "Markets"
+          "title": "Fed revamps inflation tracker amid potential rate hikes",
+          "source": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -53,84 +49,97 @@
       "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 22,
-      "change24h": 5,
-      "vol24h": 551781,
+      "yes": 24,
+      "change24h": 10,
+      "vol24h": 450800,
       "headlines": [
+        {
+          "title": "What “anchored inflation expectations” mean for the Fed",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed revamps inflation tracker amid potential rate hikes",
           "source": "Crypto Briefing",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Bank of America CEO warns inflation will back Fed into a corner",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by July 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
-      "yes": 23,
-      "change24h": 5,
-      "vol24h": 21353,
-      "headlines": [
-        {
-          "title": "Fed revamps inflation tracker amid potential rate hikes",
-          "source": "Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Bank of America CEO warns inflation will back Fed into a corner",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
-      "yes": 58,
-      "change24h": 5,
-      "vol24h": 16985,
-      "headlines": [
-        {
-          "title": "Fed revamps inflation tracker amid potential rate hikes",
-          "source": "Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Bank of America CEO warns inflation will back Fed into a corner",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMTJrZE02ZlNXN3FMTGlwNTJYSTV3YjJOcURxOHkwcmJIXzY5eWx6U1FBU2RqOVBIRXBmS1hzTElZSkRyeW5RRHVZdjFhTmlzU3Myb2R0NnkzdmRKaC1yenI0TlRtcEhPWmhhNXBDNXgyNHoxWDlaY0NiWFFwV25Dc2xjVl9udFdvMHZYNVl0Z1RnMzFBbEV1clQ4QQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Miami Heat win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
-      "yes": 7,
-      "change24h": 1,
-      "vol24h": 29743,
-      "headlines": [
-        {
-          "title": "Pat Riley addresses the Miami Heat's trajectory since making the 2020 NBA Finals in the Bubble",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0pIM2hkcEd1Uk5wQnpBcUhQUW1xWWloX01qczg0amhWenpHVnhVZGVqd3o1M1h6VVRJX1A3WnltWEYxNXFrektoamx0NWVtSmJRMkFQeGpqX1FiWkUzZ1dxbG03M1YwM3ZMclROU05wYVotUzVUZFR5WHJCb3U2d3RUZGswa2M?oc=5",
-          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Bitcoin reach $68,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
+      "yes": 31,
+      "change24h": -25,
+      "vol24h": 32914,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 89,
+      "change24h": 14,
+      "vol24h": 96279,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
+      "yes": 39,
+      "change24h": -13,
+      "vol24h": 15782,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $70,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-july-20-26-2026",
+      "yes": 8,
+      "change24h": -12,
+      "vol24h": 14005,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $68,000 on July 24?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-68k-on-july-24-2026",
+      "yes": 9,
+      "change24h": -11,
+      "vol24h": 13430,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 66,
+      "change24h": -9,
+      "vol24h": 43746,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $65,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-july-2026-from-july-20",
+      "yes": 80,
+      "change24h": 9,
+      "vol24h": 37163,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $70,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
+      "yes": 28,
+      "change24h": -8,
+      "vol24h": 32513,
+      "headlines": []
+    }
+  ]
 }
