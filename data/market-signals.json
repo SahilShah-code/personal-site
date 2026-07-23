@@ -1,35 +1,13 @@
 {
-  "updated": "2026-07-23T13:19:53.582Z",
+  "updated": "2026-07-23T18:56:27.521Z",
   "withNews": [
     {
       "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
       "yes": 71,
-      "change24h": 13,
-      "vol24h": 28300,
-      "headlines": [
-        {
-          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "What “anchored inflation expectations” mean for the Fed",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 71,
-      "change24h": -12,
-      "vol24h": 1449202,
+      "change24h": 7,
+      "vol24h": 23746,
       "headlines": [
         {
           "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
@@ -49,9 +27,9 @@
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 72,
-      "change24h": 12,
-      "vol24h": 147358,
+      "yes": 71,
+      "change24h": 5,
+      "vol24h": 103765,
       "headlines": [
         {
           "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
@@ -68,93 +46,99 @@
       ]
     },
     {
-      "question": "Will New York Knicks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
-      "yes": 8,
-      "change24h": 0,
-      "vol24h": 23823,
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "yes": 74,
+      "change24h": -4,
+      "vol24h": 1255684,
       "headlines": [
         {
-          "title": "Knicks' bet against LeBron James has nothing to do with basketball",
-          "source": "Daily Knicks",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84RUtjZFluSjZ1WTlRSDhNcFpsVE53RnRGTmFSZDNYSmNHX0lCWDlPZFd5dWhPcXRZVzJuYUVNVWpQTkhHbk9wREdGR3l4TzM5WGY0b0I3T3c0R1hZZEhJMjRnbGFOdVlSSWJGQzJpWHlTUVp5cHBv?oc=5",
-          "cat": "NBA"
+          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "What “anchored inflation expectations” mean for the Fed",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "question": "Will Ethereum reach $2,000 in July?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 86,
-      "change24h": 14,
-      "vol24h": 107185,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 38,
+      "change24h": -23,
+      "vol24h": 20982,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $67,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 47,
-      "change24h": -14,
-      "vol24h": 102075,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
-      "yes": 21,
-      "change24h": -14,
-      "vol24h": 10673,
+      "yes": 42,
+      "change24h": -21,
+      "vol24h": 108886,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $68,000 July 20-26?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
-      "yes": 16,
-      "change24h": -12,
-      "vol24h": 32578,
+      "yes": 10,
+      "change24h": -21,
+      "vol24h": 37105,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $70,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 16,
-      "change24h": -11,
-      "vol24h": 131680,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 46,
-      "change24h": -11,
-      "vol24h": 15894,
+      "yes": 14,
+      "change24h": -12,
+      "vol24h": 142106,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $62,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 46,
-      "change24h": 8,
-      "vol24h": 62810,
+      "yes": 48,
+      "change24h": 11,
+      "vol24h": 38149,
       "headlines": []
     },
     {
       "question": "Will the price of Bitcoin be above $68,000 on July 25?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-68k-on-july-25-2026",
-      "yes": 6,
-      "change24h": -7,
-      "vol24h": 18997,
+      "yes": 1,
+      "change24h": -10,
+      "vol24h": 27436,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $72,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-72pt5k-in-july-2026",
+      "yes": 4,
+      "change24h": -5,
+      "vol24h": 122122,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 91,
+      "change24h": 5,
+      "vol24h": 59822,
       "headlines": []
     }
   ]
