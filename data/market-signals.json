@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-23T01:28:21.272Z",
+  "updated": "2026-07-23T08:07:39.558Z",
   "withNews": [
     {
       "question": "Fed Rate Hike by July 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
-      "yes": 24,
-      "change24h": 13,
-      "vol24h": 20231,
+      "yes": 27,
+      "change24h": 14,
+      "vol24h": 21576,
       "headlines": [
         {
           "title": "What “anchored inflation expectations” mean for the Fed",
@@ -24,12 +24,12 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 75,
-      "change24h": -10,
-      "vol24h": 1213847,
+      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
+      "yes": 62,
+      "change24h": 11,
+      "vol24h": 113417,
       "headlines": [
         {
           "title": "What “anchored inflation expectations” mean for the Fed",
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 24,
-      "change24h": 10,
-      "vol24h": 450800,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 62,
+      "change24h": 11,
+      "vol24h": 46223,
       "headlines": [
         {
           "title": "What “anchored inflation expectations” mean for the Fed",
@@ -60,10 +60,58 @@
           "cat": "Macro"
         },
         {
-          "title": "Fed revamps inflation tracker amid potential rate hikes",
-          "source": "Crypto Briefing",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc2doTm9Fb3lLZ1FGSjJpNjFlbEVGanJDWTRXcGNwYk5MUUlCTzVKLVF4NjQ5WjhxUkJncWxxSktQbmZ1al9HSDBidUl2cm5kRUR2cGJ5UWNZQWNMUkRydG9Qd2hpc1g5TEV0U0Q4VW9SU2N2bGJMT3ZyWnY4UHdmdEpSeU8tMUROREVB?oc=5",
+          "title": "Interest Rate Predictions for the Next 5 Years: 2026-2030",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJ3UzF5bUljX002ZWZXcm5HdVVhUDBZMEpoQkpuT2dQTFRtemQ1Y0kzQ1dxQmNDSTVRSjRrYnVQekR6Wko3emowOE9yc0pGTm1YdDYycTl2M2FpeTNXUExvanpDZExaZXNLckZKRWtHdXJ4VVhZQ21xYS14ZWhSMjRaMjk3b1VyN1djeFY3OUE?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will S&P 500 (SPY) hit (LOW) $680 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-spy-dip-to-680-in-july-2026",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 15582,
+      "headlines": [
+        {
+          "title": "The 52-Week-Low List: 6 S&P 500 Names On Wednesday",
+          "source": "Trefis",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnFQdzlvV3ZpOWo2LWN5Y2hNUk5mODFPVFR1ajJmQTVqM3p4Q29GWW9LWHA0Q0dhZXd0WU5RX1hsUVVLWl9pTTlpRVczX3pRbGF0TkZXUHg3M21wYmFkaVY2Y1ZuOTAyXzNTM3BUc3l5SWlJSnVOaEtyQ1Fldm56NnhaMU9MSkRUeFd0bzAwcmlGakg3RnAwYlZoaS1IcjdBMGdWQS1pMEptdGl0?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 10440,
+      "headlines": [
+        {
+          "title": "“That Would Be Crazy”: Bronny James Reacts to LeBron James Potentially Joining Stephen Curry and the Warriors",
+          "source": "basketballnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeE5XdGZ3bW1ycE5QVmxJdjNnV0FVSE5WTmsxNVJWTGF4bEtyLV9GOWpIaE5uWnJnWkpya3ZtMllVbU9ZTm9jMmREWDhDNXdObTRNcGNXN29lSVE1SjNxem11SFVOdDdRTXZXTHE4ZkVaR0hSQk9qMjEtWFhSdW1RQ1M1UnNtRVo0WmhhODVnVy04SFVOOExrY3BQdDExdFM1dzBJcnNJTGxPZ2JtZTRHYTdyd0lrdS1EMXhIUE1TVFRqaE9LbnlIWDdheGgtd1Q3S0NoMjJJS2lDeGE2alEwV0VEbEFIdW55Z1FVcHNfcHdBRVJOZkotajdUWFcwM1BBYmRWdg?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 10440,
+      "headlines": [
+        {
+          "title": "“That Would Be Crazy”: Bronny James Reacts to LeBron James Potentially Joining Stephen Curry and the Warriors",
+          "source": "basketballnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQeE5XdGZ3bW1ycE5QVmxJdjNnV0FVSE5WTmsxNVJWTGF4bEtyLV9GOWpIaE5uWnJnWkpya3ZtMllVbU9ZTm9jMmREWDhDNXdObTRNcGNXN29lSVE1SjNxem11SFVOdDdRTXZXTHE4ZkVaR0hSQk9qMjEtWFhSdW1RQ1M1UnNtRVo0WmhhODVnVy04SFVOOExrY3BQdDExdFM1dzBJcnNJTGxPZ2JtZTRHYTdyd0lrdS1EMXhIUE1TVFRqaE9LbnlIWDdheGgtd1Q3S0NoMjJJS2lDeGE2alEwV0VEbEFIdW55Z1FVcHNfcHdBRVJOZkotajdUWFcwM1BBYmRWdg?oc=5",
+          "cat": "NBA"
         }
       ]
     }
@@ -73,72 +121,72 @@
       "question": "Will Bitcoin reach $68,000 July 20-26?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
-      "yes": 31,
-      "change24h": -25,
-      "vol24h": 32914,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 89,
-      "change24h": 14,
-      "vol24h": 96279,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
-      "yes": 39,
-      "change24h": -13,
-      "vol24h": 15782,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-july-20-26-2026",
-      "yes": 8,
-      "change24h": -12,
-      "vol24h": 14005,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $68,000 on July 24?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-68k-on-july-24-2026",
-      "yes": 9,
-      "change24h": -11,
-      "vol24h": 13430,
+      "yes": 22,
+      "change24h": -19,
+      "vol24h": 34174,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $67,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 66,
-      "change24h": -9,
-      "vol24h": 43746,
+      "yes": 54,
+      "change24h": -13,
+      "vol24h": 52256,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 86,
+      "change24h": 12,
+      "vol24h": 105644,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $65,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-july-2026-from-july-20",
-      "yes": 80,
-      "change24h": 9,
-      "vol24h": 37163,
+      "yes": 91,
+      "change24h": 10,
+      "vol24h": 57335,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $68,000 on July 25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-68k-on-july-25-2026",
+      "yes": 7,
+      "change24h": -10,
+      "vol24h": 18098,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $70,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
-      "yes": 28,
+      "yes": 20,
+      "change24h": -9,
+      "vol24h": 75342,
+      "headlines": []
+    },
+    {
+      "question": "Tesla and SpaceX merger officially announced by September 30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-september-30",
+      "yes": 10,
       "change24h": -8,
-      "vol24h": 32513,
+      "vol24h": 11838,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
+      "yes": 30,
+      "change24h": -7,
+      "vol24h": 18170,
       "headlines": []
     }
   ]
