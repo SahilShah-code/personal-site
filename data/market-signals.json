@@ -1,13 +1,35 @@
 {
-  "updated": "2026-07-23T18:56:27.521Z",
+  "updated": "2026-07-24T01:24:46.763Z",
   "withNews": [
+    {
+      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
+      "yes": 24,
+      "change24h": -12,
+      "vol24h": 18859,
+      "headlines": [
+        {
+          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "What “anchored inflation expectations” mean for the Fed",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
     {
       "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
-      "yes": 71,
-      "change24h": 7,
-      "vol24h": 23746,
+      "yes": 72,
+      "change24h": 12,
+      "vol24h": 15505,
       "headlines": [
         {
           "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
@@ -27,9 +49,9 @@
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 71,
-      "change24h": 5,
-      "vol24h": 103765,
+      "yes": 74,
+      "change24h": 8,
+      "vol24h": 141129,
       "headlines": [
         {
           "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
@@ -46,24 +68,34 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 74,
-      "change24h": -4,
-      "vol24h": 1255684,
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 1,
+      "vol24h": 30108,
       "headlines": [
         {
-          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
-          "cat": "Macro"
-        },
+          "title": "Former Los Angeles Lakers star named most overrated player in NBA",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmt5TC0tSmM1QWJSbWtYYWhQWV94N2lqX0szSDc0MWhKR1M5UmR2V3lOdE51TmJDa01BTTk0b3BHZXUxNHMtVmkzdDJFMnJranFwX0tEbUJib195bTdVcXB1NnNFOXAzaHFKcEtVSFUwcTFuQXp2bXNJbllFbzR5enpSR01WQQ?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 10658,
+      "headlines": [
         {
-          "title": "What “anchored inflation expectations” mean for the Fed",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
-          "cat": "Macro"
+          "title": "Former Los Angeles Lakers star named most overrated player in NBA",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmt5TC0tSmM1QWJSbWtYYWhQWV94N2lqX0szSDc0MWhKR1M5UmR2V3lOdE51TmJDa01BTTk0b3BHZXUxNHMtVmkzdDJFMnJranFwX0tEbUJib195bTdVcXB1NnNFOXAzaHFKcEtVSFUwcTFuQXp2bXNJbllFbzR5enpSR01WQQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
@@ -73,9 +105,18 @@
       "question": "Will Ethereum reach $2,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 38,
-      "change24h": -23,
-      "vol24h": 20982,
+      "yes": 33,
+      "change24h": -30,
+      "vol24h": 21202,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
+      "yes": 9,
+      "change24h": -30,
+      "vol24h": 16034,
       "headlines": []
     },
     {
@@ -83,17 +124,35 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
       "yes": 42,
-      "change24h": -21,
-      "vol24h": 108886,
+      "change24h": -24,
+      "vol24h": 124471,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $68,000 July 20-26?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
-      "yes": 10,
-      "change24h": -21,
-      "vol24h": 37105,
+      "yes": 9,
+      "change24h": -23,
+      "vol24h": 28363,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,800 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-july-2026-from-july-14",
+      "yes": 57,
+      "change24h": 20,
+      "vol24h": 22954,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,100 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-july-2026",
+      "yes": 11,
+      "change24h": -15,
+      "vol24h": 10929,
       "headlines": []
     },
     {
@@ -101,17 +160,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
       "yes": 14,
-      "change24h": -12,
-      "vol24h": 142106,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 48,
-      "change24h": 11,
-      "vol24h": 38149,
+      "change24h": -13,
+      "vol24h": 151193,
       "headlines": []
     },
     {
@@ -119,26 +169,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-68k-on-july-25-2026",
       "yes": 1,
-      "change24h": -10,
-      "vol24h": 27436,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $72,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-72pt5k-in-july-2026",
-      "yes": 4,
-      "change24h": -5,
-      "vol24h": 122122,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 91,
-      "change24h": 5,
-      "vol24h": 59822,
+      "change24h": -12,
+      "vol24h": 26234,
       "headlines": []
     }
   ]
