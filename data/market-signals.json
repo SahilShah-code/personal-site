@@ -1,19 +1,25 @@
 {
-  "updated": "2026-07-24T13:13:39.690Z",
+  "updated": "2026-07-24T19:08:45.319Z",
   "withNews": [
     {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 27,
-      "change24h": -20,
-      "vol24h": 24918,
+      "question": "NBA: LeBron to Sign With Former Team?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/nba-lebron-to-sign-with-former-team-20260701212006851",
+      "yes": 0,
+      "change24h": -77,
+      "vol24h": 16997,
       "headlines": [
         {
-          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
-          "cat": "Macro"
+          "title": "LeBron James' next chapter begins as he joins the Philadelphia 76ers",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJ4YnE5T1lDU0twZmJ5ak81UGtMOEFCZEliQWJUTERKY2F0WE1OdHhOVmFMX3FiYWxuS3BTeHNVNXkza1FQT2UxTEdUSHFFc2tBOW5sVGVuaTdfT0toTXJuWktzcXM3UU5Na1BRdUNmZk1BUnFXRm1nMEFuZ3ZJYTI0cFo5d2E0?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Jaylen Brown & Tyrese Maxey React After LeBron James Joins 76ers",
+          "source": "basketballnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDlJMFBnV1h1dkhhMnN2QWFZWDAyQ0JJOVluV0ZZcFp6UFdKY3dSVVRJblJPMU9JQm9MNWotVzB6WFN4YXd4TzNZVmFnMjYxc3hoTGtvSElmOURoRHFoSkx3SHRKeDNrZFBhdG03cVR3Yy1CSnJJang2OWF6eTZUelRUczEzcnVCTEw4b1Fzai1sbFR4S0EzVFY0VDYxMnJhRzMzVVA0aVA0cUtZZi0tdmQxT2NlQVBZTzE5ZVJrOWw?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -21,12 +27,12 @@
       "question": "Will Bitcoin reach $67,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 30,
-      "change24h": -17,
-      "vol24h": 75661,
+      "yes": 25,
+      "change24h": -16,
+      "vol24h": 147138,
       "headlines": [
         {
-          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
           "source": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
@@ -34,15 +40,15 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 July 20-26?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
-      "yes": 4,
-      "change24h": -17,
-      "vol24h": 18323,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 77,
+      "change24h": -13,
+      "vol24h": 104157,
       "headlines": [
         {
-          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
           "source": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
@@ -50,59 +56,85 @@
       ]
     },
     {
-      "question": "Will the Eurozone's 2026 Annual Inflation be between 2.8% and 3.0%?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-2pt8-and-3pt0",
-      "yes": 32,
-      "change24h": 12,
-      "vol24h": 9070,
+      "question": "Will Ethereum reach $2,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 25,
+      "change24h": -13,
+      "vol24h": 22659,
       "headlines": [
         {
-          "title": "Federal Reserve Holds Rates Steady Amid Inflation Concerns: Commerzbank Weighs In",
-          "source": "Bitcoin World",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlVXTEVUNTF6a1AzNlM5czNCVkR6ZENzT1d1dG9kam1NOURlQkYzNkphRHd0UkllbzdieXJTY1MtSkdDZ2Jtb0VGNE5XbHY5d0xCSlhoX3pJSk8xV0tKV1ZxN2Vwd1oyZC1adjhJdkp4NGpBRW1OTWZnUElMdGhsQVFvRQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
-          "source": "The Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-aprjunjul",
-      "yes": 76,
+      "question": "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/nba-lebron-james-and-bronny-james-jrpt-to-play-together-in-2026-27-20260630182039143",
+      "yes": 11,
+      "change24h": -8,
+      "vol24h": 12180,
+      "headlines": [
+        {
+          "title": "LeBron James' next chapter begins as he joins the Philadelphia 76ers",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJ4YnE5T1lDU0twZmJ5ak81UGtMOEFCZEliQWJUTERKY2F0WE1OdHhOVmFMX3FiYWxuS3BTeHNVNXkza1FQT2UxTEdUSHFFc2tBOW5sVGVuaTdfT0toTXJuWktzcXM3UU5Na1BRdUNmZk1BUnFXRm1nMEFuZ3ZJYTI0cFo5d2E0?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Jaylen Brown & Tyrese Maxey React After LeBron James Joins 76ers",
+          "source": "basketballnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDlJMFBnV1h1dkhhMnN2QWFZWDAyQ0JJOVluV0ZZcFp6UFdKY3dSVVRJblJPMU9JQm9MNWotVzB6WFN4YXd4TzNZVmFnMjYxc3hoTGtvSElmOURoRHFoSkx3SHRKeDNrZFBhdG03cVR3Yy1CSnJJang2OWF6eTZUelRUczEzcnVCTEw4b1Fzai1sbFR4S0EzVFY0VDYxMnJhRzMzVVA0aVA0cUtZZi0tdmQxT2NlQVBZTzE5ZVJrOWw?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
+      "yes": 12,
       "change24h": 4,
-      "vol24h": 14723,
+      "vol24h": 171765,
       "headlines": [
         {
-          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
-          "source": "The Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
-          "cat": "Macro"
-        },
+          "title": "LeBron James' next chapter begins as he joins the Philadelphia 76ers",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJ4YnE5T1lDU0twZmJ5ak81UGtMOEFCZEliQWJUTERKY2F0WE1OdHhOVmFMX3FiYWxuS3BTeHNVNXkza1FQT2UxTEdUSHFFc2tBOW5sVGVuaTdfT0toTXJuWktzcXM3UU5Na1BRdUNmZk1BUnFXRm1nMEFuZ3ZJYTI0cFo5d2E0?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by July 31, 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-july-31-2026-20260716190353339",
+      "yes": 5,
+      "change24h": -4,
+      "vol24h": 13602,
+      "headlines": [
         {
-          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 23,
-      "change24h": -3,
-      "vol24h": 315701,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 71,
+      "change24h": -1,
+      "vol24h": 93418,
       "headlines": [
         {
-          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
           "source": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
@@ -116,23 +148,23 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "question": "Fed Rate Hike by July 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 74,
-      "change24h": 2,
-      "vol24h": 1196260,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
+      "yes": 25,
+      "change24h": 1,
+      "vol24h": 42171,
       "headlines": [
         {
-          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "title": "Interest Rate Predictions for the Next 5 Years: 2026-2030",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJ3UzF5bUljX002ZWZXcm5HdVVhUDBZMEpoQkpuT2dQTFRtemQ1Y0kzQ1dxQmNDSTVRSjRrYnVQekR6Wko3emowOE9yc0pGTm1YdDYycTl2M2FpeTNXUExvanpDZExaZXNLckZKRWtHdXJ4VVhZQ21xYS14ZWhSMjRaMjk3b1VyN1djeFY3OUE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
-          "source": "The Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -143,18 +175,9 @@
       "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 48,
-      "change24h": 5,
-      "vol24h": 50272,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 33,
-      "change24h": 4,
-      "vol24h": 69679,
+      "yes": 49,
+      "change24h": 8,
+      "vol24h": 48354,
       "headlines": []
     }
   ]
