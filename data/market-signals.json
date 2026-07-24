@@ -1,35 +1,29 @@
 {
-  "updated": "2026-07-24T01:24:46.763Z",
+  "updated": "2026-07-24T08:04:06.705Z",
   "withNews": [
     {
-      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
-      "yes": 24,
-      "change24h": -12,
-      "vol24h": 18859,
+      "question": "Will the Eurozone's 2026 Annual Inflation be between 2.8% and 3.0%?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-2pt8-and-3pt0",
+      "yes": 31,
+      "change24h": 11,
+      "vol24h": 9085,
       "headlines": [
         {
-          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
+          "title": "Week Ahead for FX, Bonds: U.S. Inflation Figures in Focus, China Data Due",
           "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "What “anchored inflation expectations” mean for the Fed",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2FzZlA2Nk5qNS1OUTIxZDZPcjdRQkNLRENLR2NvRHBYNDRfTWRsLVRqeU5IZUYzMndYUU1YaGFNalJiNjdpdktSODlnazdPTjVNNjdtTHBueExmNXFuSFdvZHZIMDh1Rm91X081LUxDRl8zT05Pbmtjb2JKdHNkZWNFTzNkdnZrY0N1WnZ0bXpCZ1RYc24zX091VXUwX1Z4VzlJeUZIa1lhQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
+      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
-      "yes": 72,
-      "change24h": 12,
-      "vol24h": 15505,
+      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
+      "yes": 24,
+      "change24h": -6,
+      "vol24h": 16569,
       "headlines": [
         {
           "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
@@ -49,9 +43,9 @@
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 74,
-      "change24h": 8,
-      "vol24h": 141129,
+      "yes": 73,
+      "change24h": 5,
+      "vol24h": 78299,
       "headlines": [
         {
           "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
@@ -68,18 +62,24 @@
       ]
     },
     {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 5,
-      "change24h": 1,
-      "vol24h": 30108,
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 41,
+      "change24h": -4,
+      "vol24h": 22484,
       "headlines": [
         {
-          "title": "Former Los Angeles Lakers star named most overrated player in NBA",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmt5TC0tSmM1QWJSbWtYYWhQWV94N2lqX0szSDc0MWhKR1M5UmR2V3lOdE51TmJDa01BTTk0b3BHZXUxNHMtVmkzdDJFMnJranFwX0tEbUJib195bTdVcXB1NnNFOXAzaHFKcEtVSFUwcTFuQXp2bXNJbllFbzR5enpSR01WQQ?oc=5",
-          "cat": "NBA"
+          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "What “anchored inflation expectations” mean for the Fed",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -89,13 +89,29 @@
       "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
       "yes": 2,
       "change24h": 0,
-      "vol24h": 10658,
+      "vol24h": 10738,
       "headlines": [
         {
-          "title": "Former Los Angeles Lakers star named most overrated player in NBA",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmt5TC0tSmM1QWJSbWtYYWhQWV94N2lqX0szSDc0MWhKR1M5UmR2V3lOdE51TmJDa01BTTk0b3BHZXUxNHMtVmkzdDJFMnJranFwX0tEbUJib195bTdVcXB1NnNFOXAzaHFKcEtVSFUwcTFuQXp2bXNJbllFbzR5enpSR01WQQ?oc=5",
-          "cat": "NBA"
+          "title": "Los Angeles Rams Reveal Two New Throwback-Inspired Alternate Uniforms",
+          "source": "SportsLogos.Net News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2M1QVVkdGpmeVd6N0h6M0xOcXhxcndSQXgwVHJIZ09ZSVRHV3RSUkRPX2dtNU1jMndoTnU2U1FYcC1VWTl4STZPdXB5TXhBbEJiRjdiblhzUlNMekJnS2JBTUF6MDFlWGlYdl9xZzlxbUNRZFFaSkdIM2Q0dUlJZlJNMmU0MGlVOFZGZUJXRFFkMzEyYnJ3R0EteTByYzFoQ3NWNHMwSERTUmJ1TFYzNHE3eGJGa08tZkpn?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 0,
+      "vol24h": 8688,
+      "headlines": [
+        {
+          "title": "Los Angeles Rams Reveal Two New Throwback-Inspired Alternate Uniforms",
+          "source": "SportsLogos.Net News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2M1QVVkdGpmeVd6N0h6M0xOcXhxcndSQXgwVHJIZ09ZSVRHV3RSUkRPX2dtNU1jMndoTnU2U1FYcC1VWTl4STZPdXB5TXhBbEJiRjdiblhzUlNMekJnS2JBTUF6MDFlWGlYdl9xZzlxbUNRZFFaSkdIM2Q0dUlJZlJNMmU0MGlVOFZGZUJXRFFkMzEyYnJ3R0EteTByYzFoQ3NWNHMwSERTUmJ1TFYzNHE3eGJGa08tZkpn?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -105,72 +121,72 @@
       "question": "Will Ethereum reach $2,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 33,
-      "change24h": -30,
-      "vol24h": 21202,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
-      "yes": 9,
-      "change24h": -30,
-      "vol24h": 16034,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 42,
-      "change24h": -24,
-      "vol24h": 124471,
+      "yes": 41,
+      "change24h": -13,
+      "vol24h": 26812,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $68,000 July 20-26?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
-      "yes": 9,
-      "change24h": -23,
-      "vol24h": 28363,
+      "yes": 11,
+      "change24h": -11,
+      "vol24h": 32154,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
+      "yes": 19,
+      "change24h": -11,
+      "vol24h": 12793,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $1,800 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-july-2026-from-july-14",
-      "yes": 57,
-      "change24h": 20,
-      "vol24h": 22954,
+      "yes": 47,
+      "change24h": 7,
+      "vol24h": 24155,
       "headlines": []
     },
     {
       "question": "Will Ethereum reach $2,100 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-july-2026",
-      "yes": 11,
-      "change24h": -15,
-      "vol24h": 10929,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $70,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-july-2026",
       "yes": 14,
-      "change24h": -13,
-      "vol24h": 151193,
+      "change24h": -6,
+      "vol24h": 14325,
       "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $68,000 on July 25?",
+      "question": "Will Bitcoin dip to $62,000 July 20-26?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-68k-on-july-25-2026",
-      "yes": 1,
-      "change24h": -12,
-      "vol24h": 26234,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-20-26-2026",
+      "yes": 7,
+      "change24h": -5,
+      "vol24h": 17810,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 50,
+      "change24h": -4,
+      "vol24h": 117544,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 47,
+      "change24h": 4,
+      "vol24h": 31106,
       "headlines": []
     }
   ]
