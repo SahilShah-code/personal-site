@@ -1,192 +1,160 @@
 {
-  "updated": "2026-07-24T08:04:06.705Z",
+  "updated": "2026-07-24T13:13:39.690Z",
   "withNews": [
+    {
+      "question": "Will Ethereum reach $2,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 27,
+      "change24h": -20,
+      "vol24h": 24918,
+      "headlines": [
+        {
+          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 30,
+      "change24h": -17,
+      "vol24h": 75661,
+      "headlines": [
+        {
+          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,000 July 20-26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
+      "yes": 4,
+      "change24h": -17,
+      "vol24h": 18323,
+      "headlines": [
+        {
+          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
     {
       "question": "Will the Eurozone's 2026 Annual Inflation be between 2.8% and 3.0%?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-2pt8-and-3pt0",
-      "yes": 31,
-      "change24h": 11,
-      "vol24h": 9085,
+      "yes": 32,
+      "change24h": 12,
+      "vol24h": 9070,
       "headlines": [
         {
-          "title": "Week Ahead for FX, Bonds: U.S. Inflation Figures in Focus, China Data Due",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2FzZlA2Nk5qNS1OUTIxZDZPcjdRQkNLRENLR2NvRHBYNDRfTWRsLVRqeU5IZUYzMndYUU1YaGFNalJiNjdpdktSODlnazdPTjVNNjdtTHBueExmNXFuSFdvZHZIMDh1Rm91X081LUxDRl8zT05Pbmtjb2JKdHNkZWNFTzNkdnZrY0N1WnZ0bXpCZ1RYc24zX091VXUwX1Z4VzlJeUZIa1lhQQ?oc=5",
+          "title": "Federal Reserve Holds Rates Steady Amid Inflation Concerns: Commerzbank Weighs In",
+          "source": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlVXTEVUNTF6a1AzNlM5czNCVkR6ZENzT1d1dG9kam1NOURlQkYzNkphRHd0UkllbzdieXJTY1MtSkdDZ2Jtb0VGNE5XbHY5d0xCSlhoX3pJSk8xV0tKV1ZxN2Vwd1oyZC1adjhJdkp4NGpBRW1OTWZnUElMdGhsQVFvRQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
+          "source": "The Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
+      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
-      "yes": 24,
-      "change24h": -6,
-      "vol24h": 16569,
+      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-aprjunjul",
+      "yes": 76,
+      "change24h": 4,
+      "vol24h": 14723,
       "headlines": [
+        {
+          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
+          "source": "The Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
           "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "What “anchored inflation expectations” mean for the Fed",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed rate hike in 2026?",
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 73,
-      "change24h": 5,
-      "vol24h": 78299,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "yes": 23,
+      "change24h": -3,
+      "vol24h": 315701,
       "headlines": [
         {
-          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
+          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "What “anchored inflation expectations” mean for the Fed",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
+          "source": "The Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 41,
-      "change24h": -4,
-      "vol24h": 22484,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
+      "yes": 74,
+      "change24h": 2,
+      "vol24h": 1196260,
       "headlines": [
         {
-          "title": "The Fed Is Heading Into One of Its Most Unpredictable Meetings in Years",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGNvM0dQRTJ5MVh3MVN0RHV0R2k5bTVvSUZNeVFDa192eW9WUUZqekhHMzFVQlZ0eXB4ZGdiNU5vRFQ4QmJsZXpBa25ja18xVUxib0Ryb0Nwc29PMnh5V2l6ekluU2xSYmJia1h5NVpIMHZ6WXltTlVXb2ZTWGl3MjR3d2FxUnh5WVRvZk02WUlRZWcxOW1WVWMwd0lpYkcyMmYxYjF6aTFTRXRQaTN3WEI4Rk5UV0I3V1V2c29WZ0ZNZw?oc=5",
+          "title": "Hike or hold? Why the Fed's July interest rate decision is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "What “anchored inflation expectations” mean for the Fed",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHhWSTNZTFpOeURNTWM0T1M3WlhCVk9yRGxzMklvZ0ZGMFB6TkZUbTJ3WUJpdHpHWXVfNHRWeWdsVkN3VVphZFhZLXBJYkxJdmg3dHpWMWxJRThJTmxFX2xYZHk3WmkwbDFSVFRxQTdZa2VGQk92eWY5TEo0YXo0emVHX3R2QUNWamJ0Njh0clh3X3YwUEtvYjRrV0tGRmtn?oc=5",
+          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
+          "source": "The Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 10738,
-      "headlines": [
-        {
-          "title": "Los Angeles Rams Reveal Two New Throwback-Inspired Alternate Uniforms",
-          "source": "SportsLogos.Net News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2M1QVVkdGpmeVd6N0h6M0xOcXhxcndSQXgwVHJIZ09ZSVRHV3RSUkRPX2dtNU1jMndoTnU2U1FYcC1VWTl4STZPdXB5TXhBbEJiRjdiblhzUlNMekJnS2JBTUF6MDFlWGlYdl9xZzlxbUNRZFFaSkdIM2Q0dUlJZlJNMmU0MGlVOFZGZUJXRFFkMzEyYnJ3R0EteTByYzFoQ3NWNHMwSERTUmJ1TFYzNHE3eGJGa08tZkpn?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 5,
-      "change24h": 0,
-      "vol24h": 8688,
-      "headlines": [
-        {
-          "title": "Los Angeles Rams Reveal Two New Throwback-Inspired Alternate Uniforms",
-          "source": "SportsLogos.Net News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2M1QVVkdGpmeVd6N0h6M0xOcXhxcndSQXgwVHJIZ09ZSVRHV3RSUkRPX2dtNU1jMndoTnU2U1FYcC1VWTl4STZPdXB5TXhBbEJiRjdiblhzUlNMekJnS2JBTUF6MDFlWGlYdl9xZzlxbUNRZFFaSkdIM2Q0dUlJZlJNMmU0MGlVOFZGZUJXRFFkMzEyYnJ3R0EteTByYzFoQ3NWNHMwSERTUmJ1TFYzNHE3eGJGa08tZkpn?oc=5",
-          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum reach $2,000 in July?",
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 41,
-      "change24h": -13,
-      "vol24h": 26812,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 48,
+      "change24h": 5,
+      "vol24h": 50272,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $68,000 July 20-26?",
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-20-26-2026",
-      "yes": 11,
-      "change24h": -11,
-      "vol24h": 32154,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-july-20-26-2026",
-      "yes": 19,
-      "change24h": -11,
-      "vol24h": 12793,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $1,800 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-july-2026-from-july-14",
-      "yes": 47,
-      "change24h": 7,
-      "vol24h": 24155,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,100 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-july-2026",
-      "yes": 14,
-      "change24h": -6,
-      "vol24h": 14325,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,000 July 20-26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-20-26-2026",
-      "yes": 7,
-      "change24h": -5,
-      "vol24h": 17810,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 50,
-      "change24h": -4,
-      "vol24h": 117544,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 47,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 33,
       "change24h": 4,
-      "vol24h": 31106,
+      "vol24h": 69679,
       "headlines": []
     }
   ]
