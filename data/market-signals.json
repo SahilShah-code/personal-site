@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:08:45.319Z",
+  "updated": "2026-07-25T01:25:01.345Z",
   "withNews": [
     {
       "question": "NBA: LeBron to Sign With Former Team?",
@@ -7,19 +7,41 @@
       "url": "https://polymarket.com/event/nba-lebron-to-sign-with-former-team-20260701212006851",
       "yes": 0,
       "change24h": -77,
-      "vol24h": 16997,
+      "vol24h": 17037,
       "headlines": [
         {
-          "title": "LeBron James' next chapter begins as he joins the Philadelphia 76ers",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJ4YnE5T1lDU0twZmJ5ak81UGtMOEFCZEliQWJUTERKY2F0WE1OdHhOVmFMX3FiYWxuS3BTeHNVNXkza1FQT2UxTEdUSHFFc2tBOW5sVGVuaTdfT0toTXJuWktzcXM3UU5Na1BRdUNmZk1BUnFXRm1nMEFuZ3ZJYTI0cFo5d2E0?oc=5",
+          "title": "Former Oregon Teammates That Have Outperformed NBA Draft Selection",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnVSak9lMVNJSENpQjVGWXBuN2lNTndBTGpCT3VkLXZ0dWpsTjJqc1p2aDlUZmFGNk5Ddlp4Z21DVlEtV2dkYTB0MVM0ZVI4a3B2Tlg0djl3ZkNLYmg2SUFtVGtvZUJoV3ItSkZhRk53d1JKTUFmQzNsM0lCRFJ2M0FsYzc4UC1HbU15Zi1IbHhLQU1nT29VZFkzRnhWR05QLWh6M3gwRUFTV1Q4cGpwdmc4SmJkSlJnOHc?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "Jaylen Brown & Tyrese Maxey React After LeBron James Joins 76ers",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDlJMFBnV1h1dkhhMnN2QWFZWDAyQ0JJOVluV0ZZcFp6UFdKY3dSVVRJblJPMU9JQm9MNWotVzB6WFN4YXd4TzNZVmFnMjYxc3hoTGtvSElmOURoRHFoSkx3SHRKeDNrZFBhdG03cVR3Yy1CSnJJang2OWF6eTZUelRUczEzcnVCTEw4b1Fzai1sbFR4S0EzVFY0VDYxMnJhRzMzVVA0aVA0cUtZZi0tdmQxT2NlQVBZTzE5ZVJrOWw?oc=5",
+          "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his 'last decision'",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkhBeFFaczkzc1h0YlcyZm9jbmM1bVpybVZJY2VzUFFNT0Nici1YY3BQTmZHaWF1VDlTeGdpTUZOQzJhUzZUQlZwbFdWV1VUTHZnMnRDV1VLNDV5ZmUyNlBVS092UGEwN0VMNENoVmx0RllWYk8wVWpvckVxeEROTXlTUW90bF9GaDVhVS1fS04xY3h3anFtRzY0Yk9wYTd3T1l5UHo1SXJ3LTdDbEpqN2dWUUozck9kUVNV?oc=5",
           "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
+      "yes": 29,
+      "change24h": 21,
+      "vol24h": 15086,
+      "headlines": [
+        {
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Stock Market News From July 24, 2026: Dow Rises as Oil Prices Fall",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMlBDQmJIcHkyd0c5b2xBeV9Rd0pvZ25aYWRQX3BUY0QxeFhSel8xcXo3Yk5VWWFISXFDMFFHOWRRVUZKeHEwaUxYZmJEejY2RUJ5UEhLeU5tem9mNUFqMEJ2Skd4WTZsZHhCT3UwbmhQbDFkenc?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -27,15 +49,21 @@
       "question": "Will Bitcoin reach $67,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 25,
-      "change24h": -16,
-      "vol24h": 147138,
+      "yes": 23,
+      "change24h": -19,
+      "vol24h": 143999,
       "headlines": [
         {
           "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
           "source": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Stock Market News From July 24, 2026: Dow Rises as Oil Prices Fall",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMlBDQmJIcHkyd0c5b2xBeV9Rd0pvZ25aYWRQX3BUY0QxeFhSel8xcXo3Yk5VWWFISXFDMFFHOWRRVUZKeHEwaUxYZmJEejY2RUJ5UEhLeU5tem9mNUFqMEJ2Skd4WTZsZHhCT3UwbmhQbDFkenc?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -43,52 +71,42 @@
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 77,
-      "change24h": -13,
-      "vol24h": 104157,
+      "yes": 69,
+      "change24h": -19,
+      "vol24h": 140836,
       "headlines": [
         {
           "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
           "source": "USA Today",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 25,
-      "change24h": -13,
-      "vol24h": 22659,
-      "headlines": [
+        },
         {
-          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market News From July 24, 2026: Dow Rises as Oil Prices Fall",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMlBDQmJIcHkyd0c5b2xBeV9Rd0pvZ25aYWRQX3BUY0QxeFhSel8xcXo3Yk5VWWFISXFDMFFHOWRRVUZKeHEwaUxYZmJEejY2RUJ5UEhLeU5tem9mNUFqMEJ2Skd4WTZsZHhCT3UwbmhQbDFkenc?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?",
+      "question": "Will the Philadelphia 76ers be the 2027 NBA Eastern Conference Champion?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-lebron-james-and-bronny-james-jrpt-to-play-together-in-2026-27-20260630182039143",
-      "yes": 11,
-      "change24h": -8,
-      "vol24h": 12180,
+      "url": "https://polymarket.com/event/will-the-philadelphia-76ers-be-the-2027-nba-eastern-conference-champion-20260624155839407",
+      "yes": 21,
+      "change24h": 7,
+      "vol24h": 9604,
       "headlines": [
         {
-          "title": "LeBron James' next chapter begins as he joins the Philadelphia 76ers",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJ4YnE5T1lDU0twZmJ5ak81UGtMOEFCZEliQWJUTERKY2F0WE1OdHhOVmFMX3FiYWxuS3BTeHNVNXkza1FQT2UxTEdUSHFFc2tBOW5sVGVuaTdfT0toTXJuWktzcXM3UU5Na1BRdUNmZk1BUnFXRm1nMEFuZ3ZJYTI0cFo5d2E0?oc=5",
+          "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his 'last decision'",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkhBeFFaczkzc1h0YlcyZm9jbmM1bVpybVZJY2VzUFFNT0Nici1YY3BQTmZHaWF1VDlTeGdpTUZOQzJhUzZUQlZwbFdWV1VUTHZnMnRDV1VLNDV5ZmUyNlBVS092UGEwN0VMNENoVmx0RllWYk8wVWpvckVxeEROTXlTUW90bF9GaDVhVS1fS04xY3h3anFtRzY0Yk9wYTd3T1l5UHo1SXJ3LTdDbEpqN2dWUUozck9kUVNV?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "Jaylen Brown & Tyrese Maxey React After LeBron James Joins 76ers",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRDlJMFBnV1h1dkhhMnN2QWFZWDAyQ0JJOVluV0ZZcFp6UFdKY3dSVVRJblJPMU9JQm9MNWotVzB6WFN4YXd4TzNZVmFnMjYxc3hoTGtvSElmOURoRHFoSkx3SHRKeDNrZFBhdG03cVR3Yy1CSnJJang2OWF6eTZUelRUczEzcnVCTEw4b1Fzai1sbFR4S0EzVFY0VDYxMnJhRzMzVVA0aVA0cUtZZi0tdmQxT2NlQVBZTzE5ZVJrOWw?oc=5",
+          "title": "LeBron James picks his final NBA challenge, and Philadelphia was his ultimate answer",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVVOWE1wQTF2QURLbm9tbklvQkZDc05RXzMzS0ZiaTZaVXp4Q2h6X0tZNVhwblBXMHd0UV9rSFNZenJ4OWhoemJJdVpFb0pyUXBMNFMxUFY1RDd2b2pZSXM0d0FwZE9iUXZkeGxlQ190Q29zNmRTZktkRk52NWZKcGxrVVdqZFBfdFZDWndKdWcxTl9KMFpqOHBHYUNDT0UzYWJOVU9zM01IeHV3ZHdrYVVZNTFORFk1dktPLWZ4VEFpbE5ZSnZVMHJoSEpVV0lWMGtDUnNWcUs?oc=5",
           "cat": "NBA"
         }
       ]
@@ -97,14 +115,20 @@
       "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
-      "yes": 12,
-      "change24h": 4,
-      "vol24h": 171765,
+      "yes": 14,
+      "change24h": 6,
+      "vol24h": 187102,
       "headlines": [
         {
-          "title": "LeBron James' next chapter begins as he joins the Philadelphia 76ers",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJ4YnE5T1lDU0twZmJ5ak81UGtMOEFCZEliQWJUTERKY2F0WE1OdHhOVmFMX3FiYWxuS3BTeHNVNXkza1FQT2UxTEdUSHFFc2tBOW5sVGVuaTdfT0toTXJuWktzcXM3UU5Na1BRdUNmZk1BUnFXRm1nMEFuZ3ZJYTI0cFo5d2E0?oc=5",
+          "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his 'last decision'",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkhBeFFaczkzc1h0YlcyZm9jbmM1bVpybVZJY2VzUFFNT0Nici1YY3BQTmZHaWF1VDlTeGdpTUZOQzJhUzZUQlZwbFdWV1VUTHZnMnRDV1VLNDV5ZmUyNlBVS092UGEwN0VMNENoVmx0RllWYk8wVWpvckVxeEROTXlTUW90bF9GaDVhVS1fS04xY3h3anFtRzY0Yk9wYTd3T1l5UHo1SXJ3LTdDbEpqN2dWUUozck9kUVNV?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "LeBron James picks his final NBA challenge, and Philadelphia was his ultimate answer",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdVVOWE1wQTF2QURLbm9tbklvQkZDc05RXzMzS0ZiaTZaVXp4Q2h6X0tZNVhwblBXMHd0UV9rSFNZenJ4OWhoemJJdVpFb0pyUXBMNFMxUFY1RDd2b2pZSXM0d0FwZE9iUXZkeGxlQ190Q29zNmRTZktkRk52NWZKcGxrVVdqZFBfdFZDWndKdWcxTl9KMFpqOHBHYUNDT0UzYWJOVU9zM01IeHV3ZHdrYVVZNTFORFk1dktPLWZ4VEFpbE5ZSnZVMHJoSEpVV0lWMGtDUnNWcUs?oc=5",
           "cat": "NBA"
         }
       ]
@@ -115,23 +139,7 @@
       "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-july-31-2026-20260716190353339",
       "yes": 5,
       "change24h": -4,
-      "vol24h": 13602,
-      "headlines": [
-        {
-          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 71,
-      "change24h": -1,
-      "vol24h": 93418,
+      "vol24h": 13860,
       "headlines": [
         {
           "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
@@ -140,25 +148,47 @@
           "cat": "Macro"
         },
         {
-          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
-          "source": "The Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
+          "title": "Stock Market News From July 24, 2026: Dow Rises as Oil Prices Fall",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pMlBDQmJIcHkyd0c5b2xBeV9Rd0pvZ25aYWRQX3BUY0QxeFhSel8xcXo3Yk5VWWFISXFDMFFHOWRRVUZKeHEwaUxYZmJEejY2RUJ5UEhLeU5tem9mNUFqMEJ2Skd4WTZsZHhCT3UwbmhQbDFkenc?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 72,
+      "change24h": -2,
+      "vol24h": 62109,
+      "headlines": [
+        {
+          "title": "Fed Deep in 'AI Inflation' Fog: Internal Debate Heats Up on Rate Hikes as Warsh Era Policy Path Remains a Puzzle",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JZXZNTjc1ZjhDY1drSjFuc18tSnNKMFJ4RGZjWVdRalI2TXQ4Z2M4YjdUNUhNRUtrb3BGdV9jeUlTLUdNS212RWtGT2pDck5aUDR0bUU2UDFGcWZEc0NWXzQwUlpDdmVnWEJLRnIwYTVyTEc0TGc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by July 2026 Meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
-      "yes": 25,
-      "change24h": 1,
-      "vol24h": 42171,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 54,
+      "change24h": 2,
+      "vol24h": 12821,
       "headlines": [
         {
-          "title": "Interest Rate Predictions for the Next 5 Years: 2026-2030",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGJ3UzF5bUljX002ZWZXcm5HdVVhUDBZMEpoQkpuT2dQTFRtemQ1Y0kzQ1dxQmNDSTVRSjRrYnVQekR6Wko3emowOE9yc0pGTm1YdDYycTl2M2FpeTNXUExvanpDZExaZXNLckZKRWtHdXJ4VVhZQ21xYS14ZWhSMjRaMjk3b1VyN1djeFY3OUE?oc=5",
+          "title": "Fed Deep in 'AI Inflation' Fog: Internal Debate Heats Up on Rate Hikes as Warsh Era Policy Path Remains a Puzzle",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JZXZNTjc1ZjhDY1drSjFuc18tSnNKMFJ4RGZjWVdRalI2TXQ4Z2M4YjdUNUhNRUtrb3BGdV9jeUlTLUdNS212RWtGT2pDck5aUDR0bUU2UDFGcWZEc0NWXzQwUlpDdmVnWEJLRnIwYTVyTEc0TGc?oc=5",
           "cat": "Macro"
         },
         {
@@ -176,8 +206,17 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
       "yes": 49,
-      "change24h": 8,
-      "vol24h": 48354,
+      "change24h": 7,
+      "vol24h": 32417,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 35,
+      "change24h": 4,
+      "vol24h": 16687,
       "headlines": []
     }
   ]
