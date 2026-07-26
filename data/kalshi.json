@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-26 21:01 UTC",
-  "net_return_pct": -6.6,
-  "realized_return_pct": -6.6,
+  "updated": "2026-07-26 22:12 UTC",
+  "net_return_pct": -8.2,
+  "realized_return_pct": -8.2,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 50.9,
-  "settled_total": 57,
+  "win_rate_pct": 50,
+  "settled_total": 58,
   "curve": [
     0,
     2.5,
@@ -63,10 +63,18 @@
     -5.7,
     -5.9,
     -5.1,
-    -6.6
+    -6.6,
+    -8.2
   ],
   "active": [],
   "settled": [
+    {
+      "title": "What will be LeBron James's next team?",
+      "ticker": "KXNEXTTEAMNBA-26LJAM-MIA",
+      "result": "no",
+      "date": "2026-07-26",
+      "return_pct": -100
+    },
     {
       "title": "yes Reg Time: Tie,yes Ousmane Dembele: 1+",
       "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202655ED38E309E-E3005B7C3B8",
@@ -199,13 +207,6 @@
       "result": "no",
       "date": "2026-06-17",
       "return_pct": 122
-    },
-    {
-      "title": "France vs Senegal Winner?",
-      "ticker": "KXWCGAME-26JUN16FRASEN-SEN",
-      "result": "no",
-      "date": "2026-06-16",
-      "return_pct": -100
     }
   ]
 }
