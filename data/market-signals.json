@@ -1,183 +1,50 @@
 {
-  "updated": "2026-07-26T12:52:58.935Z",
-  "withNews": [
-    {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 43,
-      "change24h": -13,
-      "vol24h": 38049,
-      "headlines": [
-        {
-          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
-          "source": "Kiplinger",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
+  "updated": "2026-07-26T18:53:25.381Z",
+  "withNews": [],
+  "moversOnly": [
     {
       "question": "Will Ethereum reach $2,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 31,
-      "change24h": 10,
-      "vol24h": 21170,
-      "headlines": [
-        {
-          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
-          "source": "Kiplinger",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
+      "yes": 44,
+      "change24h": 17,
+      "vol24h": 22045,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 39,
+      "change24h": -8,
+      "vol24h": 43025,
+      "headlines": []
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "yes": 17,
+      "change24h": -7,
+      "vol24h": 420418,
+      "headlines": []
     },
     {
       "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
       "yes": 82,
-      "change24h": 7,
-      "vol24h": 440218,
-      "headlines": [
-        {
-          "title": "The Week Ahead: Fed Rate Decision in Focus, Apple, Microsoft, Meta and Amazon Earnings Arrive",
-          "source": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o0UnhxRW44V1NjOU0xWkVGU0FmWW0wUXJLRk9QRVM0ZzhaRkl3OVNid3d0bldKdjZ4eTBMZlh1dUJxUm9KOWZVYUdVSzhJajZETEdTOFhoR01MblpJRUkzVGstUXNLN1RxdnQ1cGV0VnFOYmhLdWdrVWd4Y00zXzNyeFVWMDJJcTMwOWNFNlhpd2lnYjdrZXluTVE0UUVEZDVtazdwWkJqaTdpWmJ3Y1c5N211RmxyRTMwR1FGeGdwaENmeGNpNTJGdUx2V3I1NjFV?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The new Fed chair won’t tell you what he thinks",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzh6MzZqVFhjaDgtUC1KWjJzTWh4TEtFSTY1M0FhbHA0TGo3VWpDanlUSTZqczl3cElyS3FLWUxfaWhGNkJvSTZPanlFSkdMQlpFTm1va0lsMmhzS1V4UDdiSjNoZFRuWmZSUmRFdXpMY1o1OHVCWmREWFlIUHQwbFJORWF4NUs0cjFRVV9TWlpWSExxR2RoRndn?oc=5",
-          "cat": "Macro"
-        }
-      ]
+      "change24h": 6,
+      "vol24h": 755449,
+      "headlines": []
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 18,
-      "change24h": -7,
-      "vol24h": 230310,
-      "headlines": [
-        {
-          "title": "The Week Ahead: Fed Rate Decision in Focus, Apple, Microsoft, Meta and Amazon Earnings Arrive",
-          "source": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o0UnhxRW44V1NjOU0xWkVGU0FmWW0wUXJLRk9QRVM0ZzhaRkl3OVNid3d0bldKdjZ4eTBMZlh1dUJxUm9KOWZVYUdVSzhJajZETEdTOFhoR01MblpJRUkzVGstUXNLN1RxdnQ1cGV0VnFOYmhLdWdrVWd4Y00zXzNyeFVWMDJJcTMwOWNFNlhpd2lnYjdrZXluTVE0UUVEZDVtazdwWkJqaTdpWmJ3Y1c5N211RmxyRTMwR1FGeGdwaENmeGNpNTJGdUx2V3I1NjFV?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The new Fed chair won’t tell you what he thinks",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzh6MzZqVFhjaDgtUC1KWjJzTWh4TEtFSTY1M0FhbHA0TGo3VWpDanlUSTZqczl3cElyS3FLWUxfaWhGNkJvSTZPanlFSkdMQlpFTm1va0lsMmhzS1V4UDdiSjNoZFRuWmZSUmRFdXpMY1o1OHVCWmREWFlIUHQwbFJORWF4NUs0cjFRVV9TWlpWSExxR2RoRndn?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by July 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
-      "yes": 18,
-      "change24h": -7,
-      "vol24h": 8591,
-      "headlines": [
-        {
-          "title": "The Week Ahead: Fed Rate Decision in Focus, Apple, Microsoft, Meta and Amazon Earnings Arrive",
-          "source": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o0UnhxRW44V1NjOU0xWkVGU0FmWW0wUXJLRk9QRVM0ZzhaRkl3OVNid3d0bldKdjZ4eTBMZlh1dUJxUm9KOWZVYUdVSzhJajZETEdTOFhoR01MblpJRUkzVGstUXNLN1RxdnQ1cGV0VnFOYmhLdWdrVWd4Y00zXzNyeFVWMDJJcTMwOWNFNlhpd2lnYjdrZXluTVE0UUVEZDVtazdwWkJqaTdpWmJ3Y1c5N211RmxyRTMwR1FGeGdwaENmeGNpNTJGdUx2V3I1NjFV?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The new Fed chair won’t tell you what he thinks",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzh6MzZqVFhjaDgtUC1KWjJzTWh4TEtFSTY1M0FhbHA0TGo3VWpDanlUSTZqczl3cElyS3FLWUxfaWhGNkJvSTZPanlFSkdMQlpFTm1va0lsMmhzS1V4UDdiSjNoZFRuWmZSUmRFdXpMY1o1OHVCWmREWFlIUHQwbFJORWF4NUs0cjFRVV9TWlpWSExxR2RoRndn?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 26,
-      "change24h": 5,
-      "vol24h": 40456,
-      "headlines": [
-        {
-          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
-          "source": "Kiplinger",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 100340,
-      "headlines": [
-        {
-          "title": "‘Truly a Joke’ — NBA World Rips Warriors Owner Joe Lacob’s Controversial Decision to Focus on ‘Post-Steph Curry Era’",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NQVRfaDgycnJLZzY5Q0RjSWRqOEY5ZVhZUnFFZWxwMXJ0Rm4yamM1Y0F2cFNkc0YzREs3UnNnY2lNVFdWdnMza2ZYcGdTd3pEZGt3Y0Jxb1czbkE4c0FfZXRSYXRGb3VDNUloU2JtVjBNdlZJYTN2NTA1bU1Xa0k?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb1BHYTN5T2xTbV92STFMX0czUWNlVXhRODNhSDNQTmFuZXIzVW5ZMjVnekxPQXVseEpPZ082ek9JM3ZVNkRmT1VtX1R2dHBJZVB1a1RvTEVTQWhaV3A5elMyejhteVA1TmdQdzhDUVpTdHZhVnIwc3Vfa0dvUFZyYmlNMElWRHJraFFJS01HVGZCaEVINUdBb3FlTGljRDAyM3BRNi00OElDRnNFRTAxV2RxVmQzVXNhRmFweS1SLTU2cE00dHZpeFZrRzZEdzZZbXVaTURR?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
-      "yes": 13,
-      "change24h": 0,
-      "vol24h": 57623,
-      "headlines": [
-        {
-          "title": "LeBron James, for his final act, will try to find fulfillment in Philadelphia",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2tSLWczN3pVTDRsb2p1aU15SHg2TjNMbHNySVFlTVI4SzhKY0FfSERTNzBoekNtaFF5dlZUVHpmQ1ZjZ1JadzlWVW1xMks4SUVDbHhndlhmMTVYOVNVekktRFVoUzVGbHhUVzJjWjU4dmRFOEZrMnd4Q1VXMm9FT2doOGY5d3JTSEw2clk2dU5ueEUtNzlmaQ?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 13851,
-      "headlines": [
-        {
-          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    }
-  ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 45,
-      "change24h": -5,
-      "vol24h": 8981,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 65,
+      "change24h": -6,
+      "vol24h": 72440,
       "headlines": []
     }
   ]
