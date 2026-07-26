@@ -1,89 +1,13 @@
 {
-  "updated": "2026-07-26T01:28:05.000Z",
+  "updated": "2026-07-26T08:03:39.744Z",
   "withNews": [
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 77,
-      "change24h": 9,
-      "vol24h": 41786,
-      "headlines": [
-        {
-          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin dip to $62,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 45,
-      "change24h": -9,
-      "vol24h": 30784,
-      "headlines": [
-        {
-          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 20,
-      "change24h": -7,
-      "vol24h": 170257,
-      "headlines": [
-        {
-          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
-          "source": "The Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 79,
-      "change24h": 5,
-      "vol24h": 432419,
-      "headlines": [
-        {
-          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
-          "source": "The Dispatch",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
-      "yes": 28,
-      "change24h": 5,
-      "vol24h": 56905,
+      "yes": 46,
+      "change24h": -11,
+      "vol24h": 37204,
       "headlines": [
         {
           "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
@@ -97,9 +21,9 @@
       "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Apr–Jun–Jul)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-aprjunjul",
-      "yes": 78,
-      "change24h": 5,
-      "vol24h": 14354,
+      "yes": 81,
+      "change24h": 8,
+      "vol24h": 8220,
       "headlines": [
         {
           "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
@@ -116,33 +40,99 @@
       ]
     },
     {
-      "question": "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-lebron-james-and-bronny-james-jrpt-to-play-together-in-2026-27-20260630182039143",
-      "yes": 16,
-      "change24h": 3,
-      "vol24h": 18218,
+      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
+      "yes": 20,
+      "change24h": -6,
+      "vol24h": 175877,
       "headlines": [
         {
-          "title": "Will Lionel Messi Play In MLS All-Star Game? Latest On Inter Miami Star's Status",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXdTVVo3VWcxY2xHcFhDRUVTbjk3WVJ6Zlo0Y3Z4QktmZ3FGTzE2S3kxY01hd1M2em9ob2ZLZzk2VnhCQ0oyTEFLendHUHhaeWFRUjhWdEY5Qk1UZlczVVBlb1djRHRvdV92MlN4V0RVQnk1UnBvRmwtRnJxUEJxSFpzU0VsWHVURi1MZFFJTFh5dW16c2prYlF2ekFFRkxWeUVYaVJlVGxjWDVzR2c1LWdkSdIBswFBVV95cUxPVmhrMUh2LVpLTHpiUkVudlA4VlhsQnNCdkZnMEhNa0x0YkZVbERDbkJFZ2RvaWdHZ1NkSmNKN2FVMzZQajBCZENTYW9wR2c0MzY0OTRpMENhdVpnSGszcDAxU2xhOUtULUc2M0EwdWJsdWZXR1FITTdFSldTem5BZ0t5b0FWbWhjYTZyeVJweVZ2c1k4Rl85ZFNyWjRKQjROTVd3bERSTXZaZ2tGemQzeU1Scw?oc=5",
-          "cat": "World Cup"
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Why the Fed Picked 2 Percent as an Inflation Target",
+          "source": "The Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWs3Q3FkWF9wZFZUX0FWLTM4ZWo5UTRoNzQzX0E2VVRZbXZIYkdoU2FYa2czZUcybVpsV0NkNTRaOFktc3hlZEhyalZ2WUZvNnR0U1JST2lhSWttYVhBNjhNVk9XdG1IZkV6NzhlOGJnQ1djbUtYWkVUM2NHQTJIZENUdjcxZU5rRGQ4VQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Indiana Pacers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-indiana-pacers-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 75427,
+      "question": "Fed Rate Hike by July 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
+      "yes": 20,
+      "change24h": -6,
+      "vol24h": 7078,
       "headlines": [
         {
-          "title": "Pacers Get Boost With Tyrese Haliburton's Return Stream of National Basketball Association",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZDJrYjBhb2ZVWVpwUXctU0N5Y2NCbVlwbThadUkzOV9wOFRLTjZJcU5leVVBNHYtMW9FVjUzeUx3bW5hWDZNMFlTdWFHMlZ3REpCcU1SNTNIUzN1LVhuUkNQdDhVY2ZMMENmRXJwZ3hmMFAtbHB1c1YtSXRUT2ZHMXN1dHNqVG50Y0x4QjZ3MmJld28?oc=5",
+          "title": "Analyzing Federal Reserve Interest Rate Policy Through The Data",
+          "source": "Eurasia Review",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPazVsNXYyYUJiMGFJNnZVbFdHdTFJY2hMbTl4aFZPR3NQcDFucm1sazRqZVFDUGJGS2hnSWFmZFBIMmZXUjhKTU1JUWFVLXlBaTg1Vk1LWFREaHpFMklHM2NzdkJ1MDViZDhVUU5aakNTQmpNNFdFVXBlWXJrQW5jU0pIWm5uWThzN3Zwcko0WHFyT2RRNWZRV1FOTlFnZ3ItcFpCZzZR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 77,
+      "change24h": 5,
+      "vol24h": 40802,
+      "headlines": [
+        {
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 28,
+      "change24h": 5,
+      "vol24h": 21972,
+      "headlines": [
+        {
+          "title": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 151733,
+      "headlines": [
+        {
+          "title": "Grizzlies Caldwell Pope Basketball",
+          "source": "Yakima Herald-Republic",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM1VRX3E5dW5tak9VSGlUSTBJSldkNVNCQ1U5aVNhdGJXY18wT3JXVklVY3ozbGNtdkdNUEZiczRkRzFjVS1Wc3ZIck1qbzhWN0xTTzVfLVlreFd2YjF3RmRXMmp2U3FCMTJRdFRPc0RMQnJYR1BPV3Iyc3QycEFsUTBSbTNJcVZRZ0JVY2d4dE1pV1E5TXVWcm1IS0dFeWxKNFFrelhBZmhTbER4dnhlVHVTQTAtT0VwbVY4dWlR?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Caldwell-Pope reaches buyout agreement with Grizzlies",
+          "source": "Times Union",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb1dBaFl4ODZ6VHNmWVZ5X2lCdnNXcGhsaFE4R2s3NTItUkNvU0YwRWpsTk9HSjdTZ283Z3djWXBiZHpCd0hobTFKRDlFdVkyWVlHSTF2V3RncUVlVWhmWEJyZURQNGZyUHRuNUhlTS16STBJczJPbmR5REZ3RW1RSHdNS3FJclRIWVkwS3F6UmhRaUJDaDMxWFZFRjN3alE?oc=5",
           "cat": "NBA"
         }
       ]
@@ -153,7 +143,7 @@
       "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 32677,
+      "vol24h": 32084,
       "headlines": [
         {
           "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
@@ -166,21 +156,21 @@
   ],
   "moversOnly": [
     {
-      "question": "La Velada del Año 6: Plex vs. Fernanfloo",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/la-velada-del-ano-6-plex-vspt-fernanfloo-20260708192832151",
-      "yes": 100,
-      "change24h": 10,
-      "vol24h": 63863,
-      "headlines": []
-    },
-    {
       "question": "Will Dallas Wings win the 2026 WNBA Finals?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-dallas-wings-win-the-2026-wnba-finals-561",
       "yes": 10,
       "change24h": 4,
-      "vol24h": 13832,
+      "vol24h": 13999,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 45,
+      "change24h": -4,
+      "vol24h": 9260,
       "headlines": []
     }
   ]
