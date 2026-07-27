@@ -1,50 +1,199 @@
 {
-  "updated": "2026-07-26T18:53:25.381Z",
-  "withNews": [],
-  "moversOnly": [
+  "updated": "2026-07-27T01:46:02.653Z",
+  "withNews": [
     {
       "question": "Will Ethereum reach $2,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 44,
-      "change24h": 17,
-      "vol24h": 22045,
-      "headlines": []
+      "yes": 61,
+      "change24h": 32,
+      "vol24h": 37884,
+      "headlines": [
+        {
+          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
+          "source": "Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,100 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-july-2026",
+      "yes": 19,
+      "change24h": 13,
+      "vol24h": 22355,
+      "headlines": [
+        {
+          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
+          "source": "Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
       "question": "Will Bitcoin dip to $62,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 39,
-      "change24h": -8,
-      "vol24h": 43025,
-      "headlines": []
+      "yes": 30,
+      "change24h": -12,
+      "vol24h": 44819,
+      "headlines": [
+        {
+          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
+          "source": "Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-july-2026-meeting",
-      "yes": 17,
-      "change24h": -7,
-      "vol24h": 420418,
-      "headlines": []
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-july-2026-meeting",
-      "yes": 82,
-      "change24h": 6,
-      "vol24h": 755449,
-      "headlines": []
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 65,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
+      "yes": 63,
       "change24h": -6,
-      "vol24h": 72440,
+      "vol24h": 9254,
+      "headlines": [
+        {
+          "title": "The new Fed chair won’t tell you what he thinks",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzh6MzZqVFhjaDgtUC1KWjJzTWh4TEtFSTY1M0FhbHA0TGo3VWpDanlUSTZqczl3cElyS3FLWUxfaWhGNkJvSTZPanlFSkdMQlpFTm1va0lsMmhzS1V4UDdiSjNoZFRuWmZSUmRFdXpMY1o1OHVCWmREWFlIUHQwbFJORWF4NUs0cjFRVV9TWlpWSExxR2RoRndn?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Week Ahead: Fed Rate Decision in Focus, Apple, Microsoft, Meta and Amazon Earnings Arrive",
+          "source": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o0UnhxRW44V1NjOU0xWkVGU0FmWW0wUXJLRk9QRVM0ZzhaRkl3OVNid3d0bldKdjZ4eTBMZlh1dUJxUm9KOWZVYUdVSzhJajZETEdTOFhoR01MblpJRUkzVGstUXNLN1RxdnQ1cGV0VnFOYmhLdWdrVWd4Y00zXzNyeFVWMDJJcTMwOWNFNlhpd2lnYjdrZXluTVE0UUVEZDVtazdwWkJqaTdpWmJ3Y1c5N211RmxyRTMwR1FGeGdwaENmeGNpNTJGdUx2V3I1NjFV?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 56,
+      "change24h": -5,
+      "vol24h": 14850,
+      "headlines": [
+        {
+          "title": "The new Fed chair won’t tell you what he thinks",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzh6MzZqVFhjaDgtUC1KWjJzTWh4TEtFSTY1M0FhbHA0TGo3VWpDanlUSTZqczl3cElyS3FLWUxfaWhGNkJvSTZPanlFSkdMQlpFTm1va0lsMmhzS1V4UDdiSjNoZFRuWmZSUmRFdXpMY1o1OHVCWmREWFlIUHQwbFJORWF4NUs0cjFRVV9TWlpWSExxR2RoRndn?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Week Ahead: Fed Rate Decision in Focus, Apple, Microsoft, Meta and Amazon Earnings Arrive",
+          "source": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o0UnhxRW44V1NjOU0xWkVGU0FmWW0wUXJLRk9QRVM0ZzhaRkl3OVNid3d0bldKdjZ4eTBMZlh1dUJxUm9KOWZVYUdVSzhJajZETEdTOFhoR01MblpJRUkzVGstUXNLN1RxdnQ1cGV0VnFOYmhLdWdrVWd4Y00zXzNyeFVWMDJJcTMwOWNFNlhpd2lnYjdrZXluTVE0UUVEZDVtazdwWkJqaTdpWmJ3Y1c5N211RmxyRTMwR1FGeGdwaENmeGNpNTJGdUx2V3I1NjFV?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 60,
+      "change24h": 5,
+      "vol24h": 8535,
+      "headlines": [
+        {
+          "title": "The new Fed chair won’t tell you what he thinks",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzh6MzZqVFhjaDgtUC1KWjJzTWh4TEtFSTY1M0FhbHA0TGo3VWpDanlUSTZqczl3cElyS3FLWUxfaWhGNkJvSTZPanlFSkdMQlpFTm1va0lsMmhzS1V4UDdiSjNoZFRuWmZSUmRFdXpMY1o1OHVCWmREWFlIUHQwbFJORWF4NUs0cjFRVV9TWlpWSExxR2RoRndn?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Week Ahead: Fed Rate Decision in Focus, Apple, Microsoft, Meta and Amazon Earnings Arrive",
+          "source": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2o0UnhxRW44V1NjOU0xWkVGU0FmWW0wUXJLRk9QRVM0ZzhaRkl3OVNid3d0bldKdjZ4eTBMZlh1dUJxUm9KOWZVYUdVSzhJajZETEdTOFhoR01MblpJRUkzVGstUXNLN1RxdnQ1cGV0VnFOYmhLdWdrVWd4Y00zXzNyeFVWMDJJcTMwOWNFNlhpd2lnYjdrZXluTVE0UUVEZDVtazdwWkJqaTdpWmJ3Y1c5N211RmxyRTMwR1FGeGdwaENmeGNpNTJGdUx2V3I1NjFV?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Aryna Sabalenka win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-aryna-sabalenka-win-the-2026-womens-us-open",
+      "yes": 26,
+      "change24h": 2,
+      "vol24h": 8592,
+      "headlines": [
+        {
+          "title": "Women’s Africa Cup of Nations preview: Doubling up as World Cup qualifying, how to watch and more",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXJPVXhPd1BGMG1UNjZweldwWUZGYVJ3dVVwa25vY3l1aDAxVFpSaGE1TEN3c3FhYmZ6NE9vd2lkRmJsZU1INjVqVFBheWtLRHl3NHUxTi10bHFsNUZYYTRPdlVVZ0NNSmNJZG5fMlpicURXUnd3aHJYLWtNeHRPWFh4bWFwY2JGb2FxNlpMZw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Naomi Osaka win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-naomi-osaka-win-the-2026-womens-us-open",
+      "yes": 6,
+      "change24h": 1,
+      "vol24h": 8801,
+      "headlines": [
+        {
+          "title": "Women’s Africa Cup of Nations preview: Doubling up as World Cup qualifying, how to watch and more",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXJPVXhPd1BGMG1UNjZweldwWUZGYVJ3dVVwa25vY3l1aDAxVFpSaGE1TEN3c3FhYmZ6NE9vd2lkRmJsZU1INjVqVFBheWtLRHl3NHUxTi10bHFsNUZYYTRPdlVVZ0NNSmNJZG5fMlpicURXUnd3aHJYLWtNeHRPWFh4bWFwY2JGb2FxNlpMZw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 76133,
+      "headlines": [
+        {
+          "title": "Stephen Curry lets LeBron James know how he feels after turning down the Warriors",
+          "source": "MARCA",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdURFWmZJcXY4aHZGWFBWZ0FyemZ5a2dJakp3MFpiUVpULURaSzh5VXZTUFQ5WFl6aWRHek1vdkxFMF9qUjJOYXJwQ1gtekk1WlRYT1hKT0o3SHNWTnFWZWFhT2pvYTh6dDZPTkRoY3dVTFlPS3dsREFJalNhbHpyVW5NY2toeVZmbVA5N29aYXo3c3pQbW9xS1FfdHl5NlVnRDBMcUZhUDZhd3U5bTdXQUVJVW1OckM2eXhrb2k5RmZIRmtDb3VsSURRekJkdmMzd0RZVlU2UzgyR0d6amNHQzFlRUVQMkZzZGNXUUcxNGLSAfABQVVfeXFMTWk3dER3WjhhcVlnbEIyVXYtd0VhRkNxY1NxUXlISkxDRGYwN0Nkbm41akdlRk5KUTBQV0ttOVd1OFRPelpUbW0yLWFiUnFBT214dFpmY2NrY3Z6ZkZZaGtGQW1lcGR2MW55bHZNLU1qOFRDdXYzMDk2dmVfeXhMQXpiQTg2c1pzbzR6cXljbkNiTG45UFV3TTF3bEFpZGdjUjM2QUpPTnRDYWFkcG5OUVFXZDMtSWZEbGUzM1JSdFhNWnA2dmFFMjhWS2RvU1FCWGRwSUJIcTR0Z3NmbndNNFRwNXNYZTdpVTBWcGJrd1pU?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "NBA Mock Trade Sends Steph Curry to Raptors Amid Warriors Uncertainty",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORThLNl9wMVpMN3JmQVc1MC1DWTJYVUpxZGpPT0tmNjcyVThzQW5DaTlBdnYtSEEwa05yZjNoalhQWENHTmY3YTFSWlA2WEYzRXFNenVpSW5ia3UxbTl6UW9LbDNFS1RrSmx0T0Rrb1B0U3hBX0JSQ2RmakV5Rjd5Zw?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 65298,
+      "headlines": [
+        {
+          "title": "Former Timberwolves forward nears EuroLeague contract amid NBA free agency",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTY3LTFHcDl1TXM2bllieERQcFNJcHdzQ1JZcy1ndXpCMmtFLXNicWozWFp4ZVhTVjctMnJ5WmRvNE5JRTdZQjcyX2M2ODlpMFFZaGk3anVVbGptMTRjR0ZDX25ndGp3YTVTeDVjOUp6OXBlZjlqT1BublJJZnE1c3lwX2pTcXlEYzg5YWxXeWhodlhRQzRSWg?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "Will South Korea GDP growth in Q3 2026 be between 3.0% and 3.4%?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-south-korea-gdp-growth-in-q3-2026-be-between-3pt0-and-3pt4-20260723231127768",
+      "yes": 28,
+      "change24h": -7,
+      "vol24h": 9613,
       "headlines": []
     }
   ]
