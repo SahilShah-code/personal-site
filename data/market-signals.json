@@ -1,50 +1,112 @@
 {
-  "updated": "2026-07-27T14:06:34.772Z",
+  "updated": "2026-07-27T19:08:17.389Z",
   "withNews": [
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 71,
-      "change24h": 41,
-      "vol24h": 41420,
-      "headlines": [
-        {
-          "title": "Rising inflation turns July Fed meeting into rate-hike showdown",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmNKaGZiY0hGMWhPVW4xWjV4c3RvaFZubmtUQlVFS1FBcEh4cC1ieXZxUTNyVXhqOGxqa1E1M3JjRkFFTDhRZ2ZsaHdhbXozSUNHZGJwYlk2bjlxR09HaUcxbVhWWFJnZjVTcnBUTFdWSmRvMzVMMnZ6blJtc044bVFGX3VVbDZCc0x2eXg1THc2VWlubk14dDdHTldEbk5VQmFoREo0VV9vQQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 52,
-      "change24h": -25,
-      "vol24h": 65228,
+      "yes": 28,
+      "change24h": -51,
+      "vol24h": 116675,
       "headlines": [
         {
-          "title": "Rising inflation turns July Fed meeting into rate-hike showdown",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmNKaGZiY0hGMWhPVW4xWjV4c3RvaFZubmtUQlVFS1FBcEh4cC1ieXZxUTNyVXhqOGxqa1E1M3JjRkFFTDhRZ2ZsaHdhbXozSUNHZGJwYlk2bjlxR09HaUcxbVhWWFJnZjVTcnBUTFdWSmRvMzVMMnZ6blJtc044bVFGX3VVbDZCc0x2eXg1THc2VWlubk14dDdHTldEbk5VQmFoREo0VV9vQQ?oc=5",
+          "title": "Stock Market Today: Nvidia, Micron, Intel Stocks Drop; Oil Tumbles on Trump-Iran Pause — Live Updates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPclQyWlJCa3dHSl9QUjFadm9xRS1ZS09BRzdhSXBGUk9WaWtVeElOeVo0MUNqUEJKZ1Q1MkdIcFJCcU9ZNlVzUDJqbXlsTE1FTFJuYTN0QXctblJOYk8yb2ZWRmZVVmVzaHk0NDRKZTV5UV9YTlptRTNlWnZDbWxBUUJQQmRuY2s?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market Today: Dow Rises, S&P 500, Nasdaq Slip; Micron, Sandisk, Marvell, Nvidia, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNW11WXNvSXpzX1pfTlAtXzNpWERfbWR6VEplazhla1NrdlIzSmdZY0Fjb2NEbTBvUVo5eTJMcnMyUzlpSkRQUnRBX212OXp2WGRDc3poMmJuMU5VUFdxRnR4MWxfRUpzTWl1RDRuTDVoSUNhd0E?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
+      "yes": 70,
+      "change24h": 48,
+      "vol24h": 9960,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Nvidia, Micron, Intel Stocks Drop; Oil Tumbles on Trump-Iran Pause — Live Updates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPclQyWlJCa3dHSl9QUjFadm9xRS1ZS09BRzdhSXBGUk9WaWtVeElOeVo0MUNqUEJKZ1Q1MkdIcFJCcU9ZNlVzUDJqbXlsTE1FTFJuYTN0QXctblJOYk8yb2ZWRmZVVmVzaHk0NDRKZTV5UV9YTlptRTNlWnZDbWxBUUJQQmRuY2s?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market Today: Dow Rises, S&P 500, Nasdaq Slip; Micron, Sandisk, Marvell, Nvidia, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNW11WXNvSXpzX1pfTlAtXzNpWERfbWR6VEplazhla1NrdlIzSmdZY0Fjb2NEbTBvUVo5eTJMcnMyUzlpSkRQUnRBX212OXp2WGRDc3poMmJuMU5VUFdxRnR4MWxfRUpzTWl1RDRuTDVoSUNhd0E?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 48,
+      "change24h": -26,
+      "vol24h": 18122,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Nvidia, Micron, Intel Stocks Drop; Oil Tumbles on Trump-Iran Pause — Live Updates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPclQyWlJCa3dHSl9QUjFadm9xRS1ZS09BRzdhSXBGUk9WaWtVeElOeVo0MUNqUEJKZ1Q1MkdIcFJCcU9ZNlVzUDJqbXlsTE1FTFJuYTN0QXctblJOYk8yb2ZWRmZVVmVzaHk0NDRKZTV5UV9YTlptRTNlWnZDbWxBUUJQQmRuY2s?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market Today: Dow Rises, S&P 500, Nasdaq Slip; Micron, Sandisk, Marvell, Nvidia, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNW11WXNvSXpzX1pfTlAtXzNpWERfbWR6VEplazhla1NrdlIzSmdZY0Fjb2NEbTBvUVo5eTJMcnMyUzlpSkRQUnRBX212OXp2WGRDc3poMmJuMU5VUFdxRnR4MWxfRUpzTWl1RDRuTDVoSUNhd0E?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by July 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
+      "yes": 25,
+      "change24h": 8,
+      "vol24h": 47560,
+      "headlines": [
+        {
+          "title": "Forget rate cuts: Wall Street is obsessing over the wrong Fed decision",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWV9lNUdMMC12ZHhYTEYtT2RRNTBQV0VXTTh5cjVSbG9pOHJNTjFWSzdtSFlKSGZhUl9OcFRuaXBDS0VhX3YtYkJwblZOS2hWX050RDVlWUlUcUtlTVpfUGpQaDhPVFFjRlhuZmlsS2pybVRoNDRhWFVyT01hWDloME80dFk1aDgxU2pGOVN1NlpDNHRpZXFiVHZR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed expected to hold rates steady — but an interest rate hike isn't off the table",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGVzbnB6d2w5TWxXelk4TkU0WXdYWGxFaGRSM3lGZy1KRFFKcDlSX0JldHBrWTA0c2xJQnVNX3Bpa0x1N0RpOUxNX3JpZWY5Z0w0Q0kzQWVlTlRqeXU4Um1BZ0NoUExWTFU4djF0OXhCNjNUOWRCRlNSRHg4SktzUGN5TU1BNUoycHVvY2NfanhoM3llSVVIUEUxaFRxOTRMcDFRT0N2VHR2dXotTkY1SDJ3WWpOcmg5NDBGSHRtVUt4cHJzYk5WSXhvZjFMMTBCWlE?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 28,
-      "change24h": -13,
-      "vol24h": 88568,
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 72,
+      "change24h": 7,
+      "vol24h": 77158,
       "headlines": [
         {
-          "title": "Rising inflation turns July Fed meeting into rate-hike showdown",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmNKaGZiY0hGMWhPVW4xWjV4c3RvaFZubmtUQlVFS1FBcEh4cC1ieXZxUTNyVXhqOGxqa1E1M3JjRkFFTDhRZ2ZsaHdhbXozSUNHZGJwYlk2bjlxR09HaUcxbVhWWFJnZjVTcnBUTFdWSmRvMzVMMnZ6blJtc044bVFGX3VVbDZCc0x2eXg1THc2VWlubk14dDdHTldEbk5VQmFoREo0VV9vQQ?oc=5",
+          "title": "Forget rate cuts: Wall Street is obsessing over the wrong Fed decision",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWV9lNUdMMC12ZHhYTEYtT2RRNTBQV0VXTTh5cjVSbG9pOHJNTjFWSzdtSFlKSGZhUl9OcFRuaXBDS0VhX3YtYkJwblZOS2hWX050RDVlWUlUcUtlTVpfUGpQaDhPVFFjRlhuZmlsS2pybVRoNDRhWFVyT01hWDloME80dFk1aDgxU2pGOVN1NlpDNHRpZXFiVHZR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed expected to hold rates steady — but an interest rate hike isn't off the table",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGVzbnB6d2w5TWxXelk4TkU0WXdYWGxFaGRSM3lGZy1KRFFKcDlSX0JldHBrWTA0c2xJQnVNX3Bpa0x1N0RpOUxNX3JpZWY5Z0w0Q0kzQWVlTlRqeXU4Um1BZ0NoUExWTFU4djF0OXhCNjNUOWRCRlNSRHg4SktzUGN5TU1BNUoycHVvY2NfanhoM3llSVVIUEUxaFRxOTRMcDFRT0N2VHR2dXotTkY1SDJ3WWpOcmg5NDBGSHRtVUt4cHJzYk5WSXhvZjFMMTBCWlE?oc=5",
           "cat": "Macro"
         }
       ]
@@ -53,53 +115,9 @@
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 55,
-      "change24h": -6,
-      "vol24h": 15587,
-      "headlines": [
-        {
-          "title": "Forget rate cuts: Wall Street is obsessing over the wrong Fed decision",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWV9lNUdMMC12ZHhYTEYtT2RRNTBQV0VXTTh5cjVSbG9pOHJNTjFWSzdtSFlKSGZhUl9OcFRuaXBDS0VhX3YtYkJwblZOS2hWX050RDVlWUlUcUtlTVpfUGpQaDhPVFFjRlhuZmlsS2pybVRoNDRhWFVyT01hWDloME80dFk1aDgxU2pGOVN1NlpDNHRpZXFiVHZR?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed expected to hold rates steady — but an interest rate hike isn't off the table",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGVzbnB6d2w5TWxXelk4TkU0WXdYWGxFaGRSM3lGZy1KRFFKcDlSX0JldHBrWTA0c2xJQnVNX3Bpa0x1N0RpOUxNX3JpZWY5Z0w0Q0kzQWVlTlRqeXU4Um1BZ0NoUExWTFU4djF0OXhCNjNUOWRCRlNSRHg4SktzUGN5TU1BNUoycHVvY2NfanhoM3llSVVIUEUxaFRxOTRMcDFRT0N2VHR2dXotTkY1SDJ3WWpOcmg5NDBGSHRtVUt4cHJzYk5WSXhvZjFMMTBCWlE?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by July 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
-      "yes": 21,
-      "change24h": 4,
-      "vol24h": 41410,
-      "headlines": [
-        {
-          "title": "Forget rate cuts: Wall Street is obsessing over the wrong Fed decision",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWV9lNUdMMC12ZHhYTEYtT2RRNTBQV0VXTTh5cjVSbG9pOHJNTjFWSzdtSFlKSGZhUl9OcFRuaXBDS0VhX3YtYkJwblZOS2hWX050RDVlWUlUcUtlTVpfUGpQaDhPVFFjRlhuZmlsS2pybVRoNDRhWFVyT01hWDloME80dFk1aDgxU2pGOVN1NlpDNHRpZXFiVHZR?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed expected to hold rates steady — but an interest rate hike isn't off the table",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGVzbnB6d2w5TWxXelk4TkU0WXdYWGxFaGRSM3lGZy1KRFFKcDlSX0JldHBrWTA0c2xJQnVNX3Bpa0x1N0RpOUxNX3JpZWY5Z0w0Q0kzQWVlTlRqeXU4Um1BZ0NoUExWTFU4djF0OXhCNjNUOWRCRlNSRHg4SktzUGN5TU1BNUoycHVvY2NfanhoM3llSVVIUEUxaFRxOTRMcDFRT0N2VHR2dXotTkY1SDJ3WWpOcmg5NDBGSHRtVUt4cHJzYk5WSXhvZjFMMTBCWlE?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 60,
-      "change24h": 4,
-      "vol24h": 8867,
+      "yes": 61,
+      "change24h": 5,
+      "vol24h": 23689,
       "headlines": [
         {
           "title": "Forget rate cuts: Wall Street is obsessing over the wrong Fed decision",
@@ -121,45 +139,29 @@
       "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
       "yes": 14,
       "change24h": 1,
-      "vol24h": 36948,
+      "vol24h": 38403,
       "headlines": [
         {
-          "title": "\"That's why you don't envision anything until it happens\" - Stephen Curry's reaction to LeBron James signing with the Philadelphia 76ers",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDFmcVd1TXluU0M1REQ0dkkwaUEwckEwU2tkdmppdG9aVGtFd3lTMWxRcEFWeEhva1B1LXpCM0o1QWwwMXdPRnNaWFVOZWtOR0FvNlJ0UWJsdjdiUTRKXy1HdUg4QjRVN2ZFdWIwNkItY2dkS1hVQlRmZ0NiOVZkN2E1UHpPZFJJ?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 13874,
-      "headlines": [
-        {
-          "title": "\"That's why you don't envision anything until it happens\" - Stephen Curry's reaction to LeBron James signing with the Philadelphia 76ers",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDFmcVd1TXluU0M1REQ0dkkwaUEwckEwU2tkdmppdG9aVGtFd3lTMWxRcEFWeEhva1B1LXpCM0o1QWwwMXdPRnNaWFVOZWtOR0FvNlJ0UWJsdjdiUTRKXy1HdUg4QjRVN2ZFdWIwNkItY2dkS1hVQlRmZ0NiOVZkN2E1UHpPZFJJ?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will New York Knicks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
-      "yes": 9,
-      "change24h": 0,
-      "vol24h": 10248,
-      "headlines": [
-        {
-          "title": "Offseason Power Rankings: Knicks lead the way in the East",
+          "title": "How LeBron James' 4th free agency move led him to Philadelphia",
           "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ERFRHOTJ0elU3U1V6OURXR1NRSkdKU0FCTGxtS1dlT244bndqSW9SZEs2WENveUZkQkYtVjQwZmd6QjJqTm9Gb1IwTWFiR19xeC1yX3M5NzFIdFRPbHpxV29UWkRDRlNFWEpZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR25BdThyWURvYXVDU1A2MFBWY2tKV1IxVjFuTzczNGlISWROYVROWDdvRUhOdUl6dUhZWEotWndRUlFRaUhIZFp1SXdNTEtKRk5PTy15UjEyWmVHTW5lQXo0ekU5SlN6aTAyWXZhZXNIbmdrR2VJUmg1dlp6RndRSGpzYkdBV2FtVDlSdWhB?oc=5",
           "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 7,
+      "change24h": 1,
+      "vol24h": 20390,
+      "headlines": [
+        {
+          "title": "Joe Bleymaier To Serve As Chiefs’ Interim OC",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZEhTZEQxOHdTY3RZbjZyS05NZzItRUo0YmYzekt4THdMR2YzSHpzcjd3YWVYREJ0cnZCWk5IOWhINnlldWc2LTR0dktKalI3MktmekowXzVlRGN3QTNGZEtkdmZvX1ZhUXo4UGlpT2JZa0hsbU10SmEyTWg2Ynk3VVJEakdublVoSC1oQ1pR?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -169,9 +171,54 @@
       "question": "ICC Cricket World Cup League Two: Namibia vs Nepal",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/crint-nam3-npl2-2026-07-27",
-      "yes": 23,
-      "change24h": -28,
-      "vol24h": 15371,
+      "yes": 100,
+      "change24h": 48,
+      "vol24h": 45859,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
+      "yes": 56,
+      "change24h": 11,
+      "vol24h": 55913,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,800 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-july-2026-from-july-14",
+      "yes": 19,
+      "change24h": -10,
+      "vol24h": 27968,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 33,
+      "change24h": -6,
+      "vol24h": 96244,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $67,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-july-2026",
+      "yes": 26,
+      "change24h": -5,
+      "vol24h": 169693,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60000-in-july-20260706151220612-754",
+      "yes": 7,
+      "change24h": -5,
+      "vol24h": 84804,
       "headlines": []
     }
   ]
