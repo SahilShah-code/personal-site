@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-28T08:11:12.227Z",
+  "updated": "2026-07-28T13:26:03.679Z",
   "withNews": [
     {
       "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 20,
-      "change24h": -58,
-      "vol24h": 143515,
+      "yes": 21,
+      "change24h": -57,
+      "vol24h": 153523,
       "headlines": [
         {
           "title": "What to Expect from the July Fed Meeting",
@@ -21,9 +21,9 @@
       "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
-      "yes": 77,
-      "change24h": 55,
-      "vol24h": 11213,
+      "yes": 79,
+      "change24h": 56,
+      "vol24h": 12078,
       "headlines": [
         {
           "title": "What to Expect from the July Fed Meeting",
@@ -37,9 +37,9 @@
       "question": "Will Ethereum reach $2,000 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 25,
-      "change24h": -49,
-      "vol24h": 44052,
+      "yes": 26,
+      "change24h": -41,
+      "vol24h": 43718,
       "headlines": [
         {
           "title": "What to Expect from the July Fed Meeting",
@@ -55,12 +55,12 @@
       "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
       "yes": 70,
       "change24h": 15,
-      "vol24h": 15978,
+      "vol24h": 15984,
       "headlines": [
         {
           "title": "Trump Urges Fed To Cut Interest Rates Amid Inflation Concerns",
-          "source": "KOA 850 AM & 94.1 FM",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUhFX2Vxc182QzY4cHJjU0l1SzQtdjFBbHlVNUJpYkVvYlVyazczR1BJMzJaeFhuQ0hBUVo3cFFsVzZrRkU5TTFzNHdRN1JJdXNSLWF2NFN4VmJFakNmTWZHMjdNNWF3Z3ZQai1HVFhZVURDczQxVzRDV0JKLVA0WjlGaDdTcXI3T2FFMDdaeWhjV2lmcl90SVFvcENXX2NfOU5GLTVHQW9uVEVaNlNxSlB3?oc=5",
+          "source": "KFBK",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2xjTFp6ZEp1bno5bDlWZ1pRWkJBdmFTWVh5d0FzOUgtdHUzbV9aemgxVVZXNGVhYTVqMktJNlpSUk5NaERabi1EX2p6bXloN1A1cEJidjU3dFlOOExMU1kzSENWS0w0ZlVKVENnMFZhY01CSlE0NDNGTGJnaVpTU1ljbHpPcFF3aC1QLWxMV3FHUjZJSWJOOTBQOXhrYlppd0N0eTRqLUo?oc=5",
           "cat": "Macro"
         },
         {
@@ -77,12 +77,12 @@
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 70,
       "change24h": 14,
-      "vol24h": 27671,
+      "vol24h": 27156,
       "headlines": [
         {
           "title": "Trump Urges Fed To Cut Interest Rates Amid Inflation Concerns",
-          "source": "KOA 850 AM & 94.1 FM",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUhFX2Vxc182QzY4cHJjU0l1SzQtdjFBbHlVNUJpYkVvYlVyazczR1BJMzJaeFhuQ0hBUVo3cFFsVzZrRkU5TTFzNHdRN1JJdXNSLWF2NFN4VmJFakNmTWZHMjdNNWF3Z3ZQai1HVFhZVURDczQxVzRDV0JKLVA0WjlGaDdTcXI3T2FFMDdaeWhjV2lmcl90SVFvcENXX2NfOU5GLTVHQW9uVEVaNlNxSlB3?oc=5",
+          "source": "KFBK",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2xjTFp6ZEp1bno5bDlWZ1pRWkJBdmFTWVh5d0FzOUgtdHUzbV9aemgxVVZXNGVhYTVqMktJNlpSUk5NaERabi1EX2p6bXloN1A1cEJidjU3dFlOOExMU1kzSENWS0w0ZlVKVENnMFZhY01CSlE0NDNGTGJnaVpTU1ljbHpPcFF3aC1QLWxMV3FHUjZJSWJOOTBQOXhrYlppd0N0eTRqLUo?oc=5",
           "cat": "Macro"
         },
         {
@@ -97,14 +97,14 @@
       "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jun–Jul–Sep)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep",
-      "yes": 31,
+      "yes": 30,
       "change24h": -14,
-      "vol24h": 11139,
+      "vol24h": 11237,
       "headlines": [
         {
           "title": "Trump Urges Fed To Cut Interest Rates Amid Inflation Concerns",
-          "source": "KOA 850 AM & 94.1 FM",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUhFX2Vxc182QzY4cHJjU0l1SzQtdjFBbHlVNUJpYkVvYlVyazczR1BJMzJaeFhuQ0hBUVo3cFFsVzZrRkU5TTFzNHdRN1JJdXNSLWF2NFN4VmJFakNmTWZHMjdNNWF3Z3ZQai1HVFhZVURDczQxVzRDV0JKLVA0WjlGaDdTcXI3T2FFMDdaeWhjV2lmcl90SVFvcENXX2NfOU5GLTVHQW9uVEVaNlNxSlB3?oc=5",
+          "source": "KFBK",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2xjTFp6ZEp1bno5bDlWZ1pRWkJBdmFTWVh5d0FzOUgtdHUzbV9aemgxVVZXNGVhYTVqMktJNlpSUk5NaERabi1EX2p6bXloN1A1cEJidjU3dFlOOExMU1kzSENWS0w0ZlVKVENnMFZhY01CSlE0NDNGTGJnaVpTU1ljbHpPcFF3aC1QLWxMV3FHUjZJSWJOOTBQOXhrYlppd0N0eTRqLUo?oc=5",
           "cat": "Macro"
         },
         {
@@ -116,23 +116,17 @@
       ]
     },
     {
-      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
-      "yes": 14,
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 26481,
+      "vol24h": 18935,
       "headlines": [
         {
-          "title": "\"It was chasing happiness\" - Brian Windhorst reveals what ultimately sold LeBron James on Philadelphia",
+          "title": "\"You are going back into a boot camp\" - Richard Jefferson reveals why LeBron James never really wanted to return to the Miami Heat",
           "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXJ1SDJncTNyZG5Ja3hydjlDQzhFMExud2RCU0V1Ql81N0ZPNWs3ZDhveEZSdG5EVXF2cWZUU1JFNE15bUdDLU84LWo1WHNDNkpucjdUZUg2aWw5MV9IRXpKRjI3QV9KZ2gyZnJqNDlYY0QtY2lRQktuNUxVa0ZUT1Vid0RBV0hsTFpmRzhCVE5FbzJ3WndZc2NOdkpLVGVEdkU0NGYxV3pIRVVkZXM2aThiRV8wTDA4Yklj?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "How LeBron James' 4th free agency move led him to Philadelphia",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR25BdThyWURvYXVDU1A2MFBWY2tKV1IxVjFuTzczNGlISWROYVROWDdvRUhOdUl6dUhZWEotWndRUlFRaUhIZFp1SXdNTEtKRk5PTy15UjEyWmVHTW5lQXo0ekU5SlN6aTAyWXZhZXNIbmdrR2VJUmg1dlp6RndRSGpzYkdBV2FtVDlSdWhB?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEZHTHQxU2VRSXg2bWVnMzE4Ynlqc1VfZjdnV3czOFJxU0pITzJ1TTduazZnZ1dZRnJ6M3BFZXowNXJtc1VFNXpIOE5XMG80dF8wajl4RENTbWtGdXpMY0s4eElPd09qNTV6b0FoTF8zZWtQajIyeTkySl92ODNfVi1weld6R0YwQUk1Z3UtUHVuX0ZISVN1cS0yelFrSFg5a2xQUk8tMzEtMkRzMk1TbnZTUE82UlJJRVByYWJHX1FfYWF4VVUta0pUOGc?oc=5",
           "cat": "NBA"
         }
       ]
@@ -143,18 +137,18 @@
       "url": "https://polymarket.com/event/will-lebron-james-retire-before-next-nba-season",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 11197,
+      "vol24h": 12427,
       "headlines": [
         {
-          "title": "LeBron James heads back East, signs deal with 76ers",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZSlBpQ0V5VVR4UE5JOEhrbjZLQTFTUkx6OE42WHJxUklNNEVheG5fV194cDRBdFg5NnkxMEFaaFYwY2tzd3BhaTduTXBsX1poUmZNR0J3SnhhN0pfdnFFZ3hqaGZTaC16VWVQY0l3?oc=5",
+          "title": "LeBron set to don his trademark No. 23 with 76ers | Daily Sabah",
+          "source": "Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWdSSVZKNU1fRVRWbjNlY2pWS0NWZ3BMQU9Fd0hCalc0MVNqNHdva2t6LWVwOGl0TjBBNHIzcjg0U0tKSmVuSHNyRHdNZ2dZODBTdFlKWGFaU0NyZEh0OHhvbzV6TjBtTndMcjVibnVTTm9uSjJnaEw3ZzhMSGhaOExnTERLcmhNeXI5amRzZ0M3VmpBMzFGeNIBngFBVV95cUxPYVBrVUFrdnFyUTU0RUJLWVZuZG9SVGVvM2E0bmNiejU0XzBUaldmQTZBODhFa1pDdmd0OVNEUk5kd2hhWENzU1k5MEhKcFlGa0JMUmRuRkdxTW5VWWZTc3BmUU5McHU2elA5MUZHcVpXYTN6R201QXBrUlA4U3dGSzZWdDRxcU51a2V4YXYtUVloTEw3eFJUcjZrQ00zdw?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "\"It was chasing happiness\" - Brian Windhorst reveals what ultimately sold LeBron James on Philadelphia",
+          "title": "\"You are going back into a boot camp\" - Richard Jefferson reveals why LeBron James never really wanted to return to the Miami Heat",
           "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYXJ1SDJncTNyZG5Ja3hydjlDQzhFMExud2RCU0V1Ql81N0ZPNWs3ZDhveEZSdG5EVXF2cWZUU1JFNE15bUdDLU84LWo1WHNDNkpucjdUZUg2aWw5MV9IRXpKRjI3QV9KZ2gyZnJqNDlYY0QtY2lRQktuNUxVa0ZUT1Vid0RBV0hsTFpmRzhCVE5FbzJ3WndZc2NOdkpLVGVEdkU0NGYxV3pIRVVkZXM2aThiRV8wTDA4Yklj?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEZHTHQxU2VRSXg2bWVnMzE4Ynlqc1VfZjdnV3czOFJxU0pITzJ1TTduazZnZ1dZRnJ6M3BFZXowNXJtc1VFNXpIOE5XMG80dF8wajl4RENTbWtGdXpMY0s4eElPd09qNTV6b0FoTF8zZWtQajIyeTkySl92ODNfVi1weld6R0YwQUk1Z3UtUHVuX0ZISVN1cS0yelFrSFg5a2xQUk8tMzEtMkRzMk1TbnZTUE82UlJJRVByYWJHX1FfYWF4VVUta0pUOGc?oc=5",
           "cat": "NBA"
         }
       ]
@@ -162,75 +156,66 @@
   ],
   "moversOnly": [
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 48,
-      "change24h": -24,
-      "vol24h": 20588,
+      "question": "Bonn: Max Schoenhaus vs Federico Agustin Gomez",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/atp-schoenh-gomez-2026-07-27",
+      "yes": 31,
+      "change24h": -25,
+      "vol24h": 18150,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $75,000 by December 31, 2026?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-75000-by-december-31-2026-from-june-8",
-      "yes": 43,
-      "change24h": -11,
-      "vol24h": 9756,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 49,
+      "change24h": -23,
+      "vol24h": 21521,
       "headlines": []
     },
     {
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 50,
-      "change24h": -8,
-      "vol24h": 20566,
-      "headlines": []
-    },
-    {
-      "question": "No change in Reserve Bank of Australia's interest rates at the August 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/no-change-in-reserve-bank-of-australias-interest-rates-at-the-august-2026-meeting",
-      "yes": 89,
-      "change24h": 8,
-      "vol24h": 7565,
+      "yes": 49,
+      "change24h": -9,
+      "vol24h": 21678,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 55,
+      "yes": 56,
       "change24h": 7,
-      "vol24h": 16232,
-      "headlines": []
-    },
-    {
-      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by August 31, 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-august-31-2026-20260722051644333",
-      "yes": 5,
-      "change24h": -6,
-      "vol24h": 8114,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 43,
-      "change24h": 4,
-      "vol24h": 53368,
+      "vol24h": 16041,
       "headlines": []
     },
     {
       "question": "Will NVIDIA be the third-largest company in the world by market cap on August 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029876",
-      "yes": 11,
-      "change24h": 4,
-      "vol24h": 14522,
+      "yes": 12,
+      "change24h": 6,
+      "vol24h": 14303,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-by-december-31-2026-from-june-8",
+      "yes": 87,
+      "change24h": -6,
+      "vol24h": 11296,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 44,
+      "change24h": 5,
+      "vol24h": 53468,
       "headlines": []
     }
   ]
