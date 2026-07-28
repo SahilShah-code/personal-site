@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-28T13:26:03.679Z",
+  "updated": "2026-07-28T19:02:40.411Z",
   "withNews": [
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "question": "Will Bitcoin reach $66,000 July 27-August 2?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 21,
-      "change24h": -57,
-      "vol24h": 153523,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
+      "yes": 36,
+      "change24h": -33,
+      "vol24h": 12634,
       "headlines": [
         {
           "title": "What to Expect from the July Fed Meeting",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
+      "question": "Will the price of Bitcoin be above $64,000 on July 30?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
-      "yes": 79,
-      "change24h": 56,
-      "vol24h": 12078,
+      "url": "https://polymarket.com/event/bitcoin-above-64k-on-july-30-2026",
+      "yes": 44,
+      "change24h": -23,
+      "vol24h": 12750,
       "headlines": [
         {
           "title": "What to Expect from the July Fed Meeting",
@@ -34,12 +34,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 in July?",
+      "question": "Will Bitcoin dip to $62,500 in July?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 26,
-      "change24h": -41,
-      "vol24h": 43718,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 54,
+      "change24h": 21,
+      "vol24h": 175049,
       "headlines": [
         {
           "title": "What to Expect from the July Fed Meeting",
@@ -50,23 +50,61 @@
       ]
     },
     {
-      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
+      "question": "NBA: Stephen Curry to leave Warriors?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
+      "yes": 8,
+      "change24h": -15,
+      "vol24h": 14532,
+      "headlines": [
+        {
+          "title": "Draymond Green returns to Warriors on 1-year, $27.7M deal",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjZKbHVPbUkzTkZ4cUxUcUNfWlo1M0s2ZUFOTi1yeWRFM3I5Q3N2YVJnSVZnSVhBZ3M4cFhrRFQ2LUZJN2ZGWjdfOWl6bTBsaFRsWkpJV1dxMFZIV3dZTVVfeUdqZUZrQUkwajROR1pzdkd4S3k5YlpObjNHWXNIbjZiUWY3X3F4NjZfbGYwcGRuNGg1a1hqTg?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
-      "yes": 70,
-      "change24h": 15,
-      "vol24h": 15984,
+      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
+      "yes": 23,
+      "change24h": -9,
+      "vol24h": 17628,
       "headlines": [
         {
-          "title": "Trump Urges Fed To Cut Interest Rates Amid Inflation Concerns",
-          "source": "KFBK",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2xjTFp6ZEp1bno5bDlWZ1pRWkJBdmFTWVh5d0FzOUgtdHUzbV9aemgxVVZXNGVhYTVqMktJNlpSUk5NaERabi1EX2p6bXloN1A1cEJidjU3dFlOOExMU1kzSENWS0w0ZlVKVENnMFZhY01CSlE0NDNGTGJnaVpTU1ljbHpPcFF3aC1QLWxMV3FHUjZJSWJOOTBQOXhrYlppd0N0eTRqLUo?oc=5",
+          "title": "Fed to keep interest rates unchanged as easing Middle East tensions support cooling inflation",
+          "source": "Economy Middle East",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHNMR0hwOTZ1czRBNThwclpIa01MdjFSM1Y1SlljMU02bTYtazdJMVRQUWxwWTB2SkJFZXlub1VwUDVleGkxUUZVUTByWXMyNjBYbnREdnNKdE0yM041LVZxdWxGTTJta19TNmtad2g3NWNLemZnSWl1Zk1uVFFGZE4zQ2tkQlY5c3lMNWkzRTA3dTJxR0h0bG1oVXFaa202T3Vid1U4SjdvcHh5amd1emJ1RjJCak55NEJmbS1ENjRYSjhXY0dpRQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Trump urges Fed to cut rates, says US should have world’s lowest borrowing costs",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnBicFlURUkybG5WQWx6bS0zc19BWW1VS1M3N3lZUTdlbFRaS1B2ZUpyN3ZRNUtUc2pBaW4tNk81M3dWWGRBdFhTZXFSY1ZMbHRPLXJ1VUUyUUJRUHJ3eW9HMkZGdmlHbWNYbUJWWEJxRWpMbFd1emNIamE1eEVmZFFvN0JOYjAxS05aQVo3VmZta3B1WUNaSTVObVFNMUNQWGRXZDlpamJwNUx3WmF1ZFBZSEl6NnFTeUV5Rw?oc=5",
+          "title": "The Fed Is Expected to Hold Rates. The Rules Say It Shouldn’t",
+          "source": "The Daily Economy",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3podUNvd1Bnekh4NUFWVHYtMGN2a2x3b3Nsc1F0alJBNnVwWlNrbEZJRWpwSVVYNFpSUTNNa1hfX3FRY2ZocTBaMUE2NDBZSHdKX1hOY0haNFpUSWQ3SnQ4dlNxZGpKSDlzTmJEMEFweXY3czd3SFFncEN6RGwtUVluNTZLeE5zNk1YVFJPdmtrTDVIdU1BSHN0SEE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
+      "yes": 73,
+      "change24h": 9,
+      "vol24h": 15494,
+      "headlines": [
+        {
+          "title": "Fed to keep interest rates unchanged as easing Middle East tensions support cooling inflation",
+          "source": "Economy Middle East",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHNMR0hwOTZ1czRBNThwclpIa01MdjFSM1Y1SlljMU02bTYtazdJMVRQUWxwWTB2SkJFZXlub1VwUDVleGkxUUZVUTByWXMyNjBYbnREdnNKdE0yM041LVZxdWxGTTJta19TNmtad2g3NWNLemZnSWl1Zk1uVFFGZE4zQ2tkQlY5c3lMNWkzRTA3dTJxR0h0bG1oVXFaa202T3Vid1U4SjdvcHh5amd1emJ1RjJCak55NEJmbS1ENjRYSjhXY0dpRQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed Is Expected to Hold Rates. The Rules Say It Shouldn’t",
+          "source": "The Daily Economy",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3podUNvd1Bnekh4NUFWVHYtMGN2a2x3b3Nsc1F0alJBNnVwWlNrbEZJRWpwSVVYNFpSUTNNa1hfX3FRY2ZocTBaMUE2NDBZSHdKX1hOY0haNFpUSWQ3SnQ4dlNxZGpKSDlzTmJEMEFweXY3czd3SFFncEN6RGwtUVluNTZLeE5zNk1YVFJPdmtrTDVIdU1BSHN0SEE?oc=5",
           "cat": "Macro"
         }
       ]
@@ -75,42 +113,20 @@
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 70,
-      "change24h": 14,
-      "vol24h": 27156,
+      "yes": 68,
+      "change24h": 8,
+      "vol24h": 14869,
       "headlines": [
         {
-          "title": "Trump Urges Fed To Cut Interest Rates Amid Inflation Concerns",
-          "source": "KFBK",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2xjTFp6ZEp1bno5bDlWZ1pRWkJBdmFTWVh5d0FzOUgtdHUzbV9aemgxVVZXNGVhYTVqMktJNlpSUk5NaERabi1EX2p6bXloN1A1cEJidjU3dFlOOExMU1kzSENWS0w0ZlVKVENnMFZhY01CSlE0NDNGTGJnaVpTU1ljbHpPcFF3aC1QLWxMV3FHUjZJSWJOOTBQOXhrYlppd0N0eTRqLUo?oc=5",
+          "title": "Fed to keep interest rates unchanged as easing Middle East tensions support cooling inflation",
+          "source": "Economy Middle East",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHNMR0hwOTZ1czRBNThwclpIa01MdjFSM1Y1SlljMU02bTYtazdJMVRQUWxwWTB2SkJFZXlub1VwUDVleGkxUUZVUTByWXMyNjBYbnREdnNKdE0yM041LVZxdWxGTTJta19TNmtad2g3NWNLemZnSWl1Zk1uVFFGZE4zQ2tkQlY5c3lMNWkzRTA3dTJxR0h0bG1oVXFaa202T3Vid1U4SjdvcHh5amd1emJ1RjJCak55NEJmbS1ENjRYSjhXY0dpRQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Trump urges Fed to cut rates, says US should have world’s lowest borrowing costs",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnBicFlURUkybG5WQWx6bS0zc19BWW1VS1M3N3lZUTdlbFRaS1B2ZUpyN3ZRNUtUc2pBaW4tNk81M3dWWGRBdFhTZXFSY1ZMbHRPLXJ1VUUyUUJRUHJ3eW9HMkZGdmlHbWNYbUJWWEJxRWpMbFd1emNIamE1eEVmZFFvN0JOYjAxS05aQVo3VmZta3B1WUNaSTVObVFNMUNQWGRXZDlpamJwNUx3WmF1ZFBZSEl6NnFTeUV5Rw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jun–Jul–Sep)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-junjulsep",
-      "yes": 30,
-      "change24h": -14,
-      "vol24h": 11237,
-      "headlines": [
-        {
-          "title": "Trump Urges Fed To Cut Interest Rates Amid Inflation Concerns",
-          "source": "KFBK",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2xjTFp6ZEp1bno5bDlWZ1pRWkJBdmFTWVh5d0FzOUgtdHUzbV9aemgxVVZXNGVhYTVqMktJNlpSUk5NaERabi1EX2p6bXloN1A1cEJidjU3dFlOOExMU1kzSENWS0w0ZlVKVENnMFZhY01CSlE0NDNGTGJnaVpTU1ljbHpPcFF3aC1QLWxMV3FHUjZJSWJOOTBQOXhrYlppd0N0eTRqLUo?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump urges Fed to cut rates, says US should have world’s lowest borrowing costs",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnBicFlURUkybG5WQWx6bS0zc19BWW1VS1M3N3lZUTdlbFRaS1B2ZUpyN3ZRNUtUc2pBaW4tNk81M3dWWGRBdFhTZXFSY1ZMbHRPLXJ1VUUyUUJRUHJ3eW9HMkZGdmlHbWNYbUJWWEJxRWpMbFd1emNIamE1eEVmZFFvN0JOYjAxS05aQVo3VmZta3B1WUNaSTVObVFNMUNQWGRXZDlpamJwNUx3WmF1ZFBZSEl6NnFTeUV5Rw?oc=5",
+          "title": "The Fed Is Expected to Hold Rates. The Rules Say It Shouldn’t",
+          "source": "The Daily Economy",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3podUNvd1Bnekh4NUFWVHYtMGN2a2x3b3Nsc1F0alJBNnVwWlNrbEZJRWpwSVVYNFpSUTNNa1hfX3FRY2ZocTBaMUE2NDBZSHdKX1hOY0haNFpUSWQ3SnQ4dlNxZGpKSDlzTmJEMEFweXY3czd3SFFncEN6RGwtUVluNTZLeE5zNk1YVFJPdmtrTDVIdU1BSHN0SEE?oc=5",
           "cat": "Macro"
         }
       ]
@@ -121,12 +137,12 @@
       "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 18935,
+      "vol24h": 18557,
       "headlines": [
         {
-          "title": "\"You are going back into a boot camp\" - Richard Jefferson reveals why LeBron James never really wanted to return to the Miami Heat",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEZHTHQxU2VRSXg2bWVnMzE4Ynlqc1VfZjdnV3czOFJxU0pITzJ1TTduazZnZ1dZRnJ6M3BFZXowNXJtc1VFNXpIOE5XMG80dF8wajl4RENTbWtGdXpMY0s4eElPd09qNTV6b0FoTF8zZWtQajIyeTkySl92ODNfVi1weld6R0YwQUk1Z3UtUHVuX0ZISVN1cS0yelFrSFg5a2xQUk8tMzEtMkRzMk1TbnZTUE82UlJJRVByYWJHX1FfYWF4VVUta0pUOGc?oc=5",
+          "title": "Top DeMar DeRozan Fantasy Basketball Landing Spots: The Heat Are In The Mix After Missing Out On LeBron James",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm84WjdYZFIyNTVyMVBzbG80dDhkcEVrSjg2SExYZVB2dm1idFA5bU5HbjdQN1pmanJ5NDJsbzJoNklsQ0ZUa1dCTW9qUkVuRk1SMU1QNmNEOFdFQXZNWXVYR3hhTVhFc1h0MFktdW5KbmVjaWJDanpGbWlaU1lKNEN0ZGFHMWVaVTdfMklsTDBnaGdPYUNmb01OeVFsUWhoUXlpUnFWemZxbTAxSjFUMGNkLTFQOGdobElBWnV4Vk9YanB2eHhoRlNFYUVJVjJyUzFLZXAxWnZEOGtR?oc=5",
           "cat": "NBA"
         }
       ]
@@ -137,18 +153,18 @@
       "url": "https://polymarket.com/event/will-lebron-james-retire-before-next-nba-season",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 12427,
+      "vol24h": 13052,
       "headlines": [
         {
-          "title": "LeBron set to don his trademark No. 23 with 76ers | Daily Sabah",
-          "source": "Daily Sabah",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWdSSVZKNU1fRVRWbjNlY2pWS0NWZ3BMQU9Fd0hCalc0MVNqNHdva2t6LWVwOGl0TjBBNHIzcjg0U0tKSmVuSHNyRHdNZ2dZODBTdFlKWGFaU0NyZEh0OHhvbzV6TjBtTndMcjVibnVTTm9uSjJnaEw3ZzhMSGhaOExnTERLcmhNeXI5amRzZ0M3VmpBMzFGeNIBngFBVV95cUxPYVBrVUFrdnFyUTU0RUJLWVZuZG9SVGVvM2E0bmNiejU0XzBUaldmQTZBODhFa1pDdmd0OVNEUk5kd2hhWENzU1k5MEhKcFlGa0JMUmRuRkdxTW5VWWZTc3BmUU5McHU2elA5MUZHcVpXYTN6R201QXBrUlA4U3dGSzZWdDRxcU51a2V4YXYtUVloTEw3eFJUcjZrQ00zdw?oc=5",
+          "title": "Top DeMar DeRozan Fantasy Basketball Landing Spots: The Heat Are In The Mix After Missing Out On LeBron James",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm84WjdYZFIyNTVyMVBzbG80dDhkcEVrSjg2SExYZVB2dm1idFA5bU5HbjdQN1pmanJ5NDJsbzJoNklsQ0ZUa1dCTW9qUkVuRk1SMU1QNmNEOFdFQXZNWXVYR3hhTVhFc1h0MFktdW5KbmVjaWJDanpGbWlaU1lKNEN0ZGFHMWVaVTdfMklsTDBnaGdPYUNmb01OeVFsUWhoUXlpUnFWemZxbTAxSjFUMGNkLTFQOGdobElBWnV4Vk9YanB2eHhoRlNFYUVJVjJyUzFLZXAxWnZEOGtR?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "\"You are going back into a boot camp\" - Richard Jefferson reveals why LeBron James never really wanted to return to the Miami Heat",
+          "title": "LeBron James will earn less than 18 NIL players next season and five of them really stand out",
           "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEZHTHQxU2VRSXg2bWVnMzE4Ynlqc1VfZjdnV3czOFJxU0pITzJ1TTduazZnZ1dZRnJ6M3BFZXowNXJtc1VFNXpIOE5XMG80dF8wajl4RENTbWtGdXpMY0s4eElPd09qNTV6b0FoTF8zZWtQajIyeTkySl92ODNfVi1weld6R0YwQUk1Z3UtUHVuX0ZISVN1cS0yelFrSFg5a2xQUk8tMzEtMkRzMk1TbnZTUE82UlJJRVByYWJHX1FfYWF4VVUta0pUOGc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWlqekEwTkpDUkRuRThjdHVfQWpaekpmWXJVOGZ0Ti1Pc2kxbjJtOG1TSWVmT3A3ai1jS1VPcGlCWXR1WmVjVnVXNmNDdUFPUVZlNF9lb2JPUTFhYm1sWl9oQVllWnBtTVUyaU1uMDBOYXNXdnMtbEVvaHFDbDMtci1lNUY4cW91ams2a0FkZG1TNl9sNERhZ1l4NElEb0ZKTXdPOUpSMlJlNElId3dKSTN3YUJYNExFMjRJUXJTSWVCc2gzVXF6blZIMkhTT0xPTV9aLTVR?oc=5",
           "cat": "NBA"
         }
       ]
@@ -156,57 +172,21 @@
   ],
   "moversOnly": [
     {
-      "question": "Bonn: Max Schoenhaus vs Federico Agustin Gomez",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-schoenh-gomez-2026-07-27",
-      "yes": 31,
-      "change24h": -25,
-      "vol24h": 18150,
-      "headlines": []
-    },
-    {
       "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 49,
-      "change24h": -23,
-      "vol24h": 21521,
+      "yes": 57,
+      "change24h": 10,
+      "vol24h": 11346,
       "headlines": []
     },
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "question": "Will the price of Bitcoin be above $62,000 on August 1?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 49,
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-1-2026",
+      "yes": 77,
       "change24h": -9,
-      "vol24h": 21678,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 56,
-      "change24h": 7,
-      "vol24h": 16041,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the third-largest company in the world by market cap on August 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-third-largest-company-in-the-world-by-market-cap-on-august-31-20260715203029876",
-      "yes": 12,
-      "change24h": 6,
-      "vol24h": 14303,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-by-december-31-2026-from-june-8",
-      "yes": 87,
-      "change24h": -6,
-      "vol24h": 11296,
+      "vol24h": 14765,
       "headlines": []
     },
     {
@@ -215,7 +195,43 @@
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
       "yes": 44,
       "change24h": 5,
-      "vol24h": 53468,
+      "vol24h": 52922,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-by-december-31-2026-from-june-8",
+      "yes": 87,
+      "change24h": -5,
+      "vol24h": 11455,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 54,
+      "change24h": 4,
+      "vol24h": 31155,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 38,
+      "change24h": 4,
+      "vol24h": 16041,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 38,
+      "change24h": 4,
+      "vol24h": 16041,
       "headlines": []
     }
   ]
