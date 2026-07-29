@@ -1,35 +1,35 @@
 {
-  "updated": "2026-07-28T19:02:40.411Z",
+  "updated": "2026-07-29T01:21:43.693Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $66,000 July 27-August 2?",
+      "question": "Will Ethereum dip to $1,800 in July?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
-      "yes": 36,
-      "change24h": -33,
-      "vol24h": 12634,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-july-2026-from-july-14",
+      "yes": 21,
+      "change24h": -26,
+      "vol24h": 17828,
       "headlines": [
         {
-          "title": "What to Expect from the July Fed Meeting",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lN3NWVEpqZHFvOHB2LUVGOS0ydnFIdVdXSEJhQU1kdEs1TThvM08zLU5JZUJMMnhSOXJfTFZVNEhDdktjR3l0OXFSTWR2b2Nxb1pUZ3A5N0h2ZUhSWGNsVGFvQmRJZXJ0XzhpYzhqRkVWNXB5SGxrUkZRYkFVdw?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market News From July 28, 2026: Dow, S&P 500 Rise; Nasdaq Falls; Micron, Marvell, Nvidia, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52S1dvd1pRbkVHQUl5YUducER4Wm1UUF9FcmY3WF9ESVBCeFd4TmpPR3RWNEdXQ3dpbHBITEJzb3dVVVNPUXFobkhQaE9feDUtZHV6Y2RGdFN0Vm9sZHBReDBFdVk3NG9USkxuLXdXR1RwclA3UWc?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $64,000 on July 30?",
+      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-july-30-2026",
-      "yes": 44,
-      "change24h": -23,
-      "vol24h": 12750,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
+      "yes": 43,
+      "change24h": -24,
+      "vol24h": 14043,
       "headlines": [
         {
-          "title": "What to Expect from the July Fed Meeting",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lN3NWVEpqZHFvOHB2LUVGOS0ydnFIdVdXSEJhQU1kdEs1TThvM08zLU5JZUJMMnhSOXJfTFZVNEhDdktjR3l0OXFSTWR2b2Nxb1pUZ3A5N0h2ZUhSWGNsVGFvQmRJZXJ0XzhpYzhqRkVWNXB5SGxrUkZRYkFVdw?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market News From July 28, 2026: Dow, S&P 500 Rise; Nasdaq Falls; Micron, Marvell, Nvidia, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52S1dvd1pRbkVHQUl5YUducER4Wm1UUF9FcmY3WF9ESVBCeFd4TmpPR3RWNEdXQ3dpbHBITEJzb3dVVVNPUXFobkhQaE9feDUtZHV6Y2RGdFN0Vm9sZHBReDBFdVk3NG9USkxuLXdXR1RwclA3UWc?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -37,31 +37,15 @@
       "question": "Will Bitcoin dip to $62,500 in July?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 54,
-      "change24h": 21,
-      "vol24h": 175049,
+      "yes": 52,
+      "change24h": -23,
+      "vol24h": 144079,
       "headlines": [
         {
-          "title": "What to Expect from the July Fed Meeting",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lN3NWVEpqZHFvOHB2LUVGOS0ydnFIdVdXSEJhQU1kdEs1TThvM08zLU5JZUJMMnhSOXJfTFZVNEhDdktjR3l0OXFSTWR2b2Nxb1pUZ3A5N0h2ZUhSWGNsVGFvQmRJZXJ0XzhpYzhqRkVWNXB5SGxrUkZRYkFVdw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "NBA: Stephen Curry to leave Warriors?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 8,
-      "change24h": -15,
-      "vol24h": 14532,
-      "headlines": [
-        {
-          "title": "Draymond Green returns to Warriors on 1-year, $27.7M deal",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjZKbHVPbUkzTkZ4cUxUcUNfWlo1M0s2ZUFOTi1yeWRFM3I5Q3N2YVJnSVZnSVhBZ3M4cFhrRFQ2LUZJN2ZGWjdfOWl6bTBsaFRsWkpJV1dxMFZIV3dZTVVfeUdqZUZrQUkwajROR1pzdkd4S3k5YlpObjNHWXNIbjZiUWY3X3F4NjZfbGYwcGRuNGg1a1hqTg?oc=5",
-          "cat": "NBA"
+          "title": "Stock Market News From July 28, 2026: Dow, S&P 500 Rise; Nasdaq Falls; Micron, Marvell, Nvidia, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52S1dvd1pRbkVHQUl5YUducER4Wm1UUF9FcmY3WF9ESVBCeFd4TmpPR3RWNEdXQ3dpbHBITEJzb3dVVVNPUXFobkhQaE9feDUtZHV6Y2RGdFN0Vm9sZHBReDBFdVk3NG9USkxuLXdXR1RwclA3UWc?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -69,20 +53,20 @@
       "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
-      "yes": 23,
-      "change24h": -9,
-      "vol24h": 17628,
+      "yes": 22,
+      "change24h": -8,
+      "vol24h": 18073,
       "headlines": [
+        {
+          "title": "US Fed begins meeting with markets expecting steady interest rates",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczRrYVpRbzlySHYxTWtsUkMzaDBWRkxjUzlQeEpwREVadUxZQ2FqVHYzNURrWEJRQ2wwcXFoa0lIeVFlb3dZMzBLR1NnRjBQeWpTSFRLQ2hWR3pCTU1IbzhpVkV0V1ZEZW1rT09CR2lKX0h0RGFyZGVNNWxZSFFBSHVpM2JKM2ROWjlvMUc2UTRFbnU4ZGRyVzhCY2tXWk8ycTY4d09CX0tURjRZZTVpMGJPaw?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed to keep interest rates unchanged as easing Middle East tensions support cooling inflation",
           "source": "Economy Middle East",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHNMR0hwOTZ1czRBNThwclpIa01MdjFSM1Y1SlljMU02bTYtazdJMVRQUWxwWTB2SkJFZXlub1VwUDVleGkxUUZVUTByWXMyNjBYbnREdnNKdE0yM041LVZxdWxGTTJta19TNmtad2g3NWNLemZnSWl1Zk1uVFFGZE4zQ2tkQlY5c3lMNWkzRTA3dTJxR0h0bG1oVXFaa202T3Vid1U4SjdvcHh5amd1emJ1RjJCak55NEJmbS1ENjRYSjhXY0dpRQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed Is Expected to Hold Rates. The Rules Say It Shouldn’t",
-          "source": "The Daily Economy",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3podUNvd1Bnekh4NUFWVHYtMGN2a2x3b3Nsc1F0alJBNnVwWlNrbEZJRWpwSVVYNFpSUTNNa1hfX3FRY2ZocTBaMUE2NDBZSHdKX1hOY0haNFpUSWQ3SnQ4dlNxZGpKSDlzTmJEMEFweXY3czd3SFFncEN6RGwtUVluNTZLeE5zNk1YVFJPdmtrTDVIdU1BSHN0SEE?oc=5",
           "cat": "Macro"
         }
       ]
@@ -92,146 +76,113 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
       "yes": 73,
-      "change24h": 9,
-      "vol24h": 15494,
+      "change24h": 6,
+      "vol24h": 14312,
       "headlines": [
+        {
+          "title": "US Fed begins meeting with markets expecting steady interest rates",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczRrYVpRbzlySHYxTWtsUkMzaDBWRkxjUzlQeEpwREVadUxZQ2FqVHYzNURrWEJRQ2wwcXFoa0lIeVFlb3dZMzBLR1NnRjBQeWpTSFRLQ2hWR3pCTU1IbzhpVkV0V1ZEZW1rT09CR2lKX0h0RGFyZGVNNWxZSFFBSHVpM2JKM2ROWjlvMUc2UTRFbnU4ZGRyVzhCY2tXWk8ycTY4d09CX0tURjRZZTVpMGJPaw?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed to keep interest rates unchanged as easing Middle East tensions support cooling inflation",
           "source": "Economy Middle East",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHNMR0hwOTZ1czRBNThwclpIa01MdjFSM1Y1SlljMU02bTYtazdJMVRQUWxwWTB2SkJFZXlub1VwUDVleGkxUUZVUTByWXMyNjBYbnREdnNKdE0yM041LVZxdWxGTTJta19TNmtad2g3NWNLemZnSWl1Zk1uVFFGZE4zQ2tkQlY5c3lMNWkzRTA3dTJxR0h0bG1oVXFaa202T3Vid1U4SjdvcHh5amd1emJ1RjJCak55NEJmbS1ENjRYSjhXY0dpRQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "The Fed Is Expected to Hold Rates. The Rules Say It Shouldn’t",
-          "source": "The Daily Economy",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3podUNvd1Bnekh4NUFWVHYtMGN2a2x3b3Nsc1F0alJBNnVwWlNrbEZJRWpwSVVYNFpSUTNNa1hfX3FRY2ZocTBaMUE2NDBZSHdKX1hOY0haNFpUSWQ3SnQ4dlNxZGpKSDlzTmJEMEFweXY3czd3SFFncEN6RGwtUVluNTZLeE5zNk1YVFJPdmtrTDVIdU1BSHN0SEE?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 68,
-      "change24h": 8,
-      "vol24h": 14869,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 76,
+      "change24h": -4,
+      "vol24h": 219575,
       "headlines": [
+        {
+          "title": "US Fed begins meeting with markets expecting steady interest rates",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczRrYVpRbzlySHYxTWtsUkMzaDBWRkxjUzlQeEpwREVadUxZQ2FqVHYzNURrWEJRQ2wwcXFoa0lIeVFlb3dZMzBLR1NnRjBQeWpTSFRLQ2hWR3pCTU1IbzhpVkV0V1ZEZW1rT09CR2lKX0h0RGFyZGVNNWxZSFFBSHVpM2JKM2ROWjlvMUc2UTRFbnU4ZGRyVzhCY2tXWk8ycTY4d09CX0tURjRZZTVpMGJPaw?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed to keep interest rates unchanged as easing Middle East tensions support cooling inflation",
           "source": "Economy Middle East",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHNMR0hwOTZ1czRBNThwclpIa01MdjFSM1Y1SlljMU02bTYtazdJMVRQUWxwWTB2SkJFZXlub1VwUDVleGkxUUZVUTByWXMyNjBYbnREdnNKdE0yM041LVZxdWxGTTJta19TNmtad2g3NWNLemZnSWl1Zk1uVFFGZE4zQ2tkQlY5c3lMNWkzRTA3dTJxR0h0bG1oVXFaa202T3Vid1U4SjdvcHh5amd1emJ1RjJCak55NEJmbS1ENjRYSjhXY0dpRQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "The Fed Is Expected to Hold Rates. The Rules Say It Shouldn’t",
-          "source": "The Daily Economy",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ3podUNvd1Bnekh4NUFWVHYtMGN2a2x3b3Nsc1F0alJBNnVwWlNrbEZJRWpwSVVYNFpSUTNNa1hfX3FRY2ZocTBaMUE2NDBZSHdKX1hOY0haNFpUSWQ3SnQ4dlNxZGpKSDlzTmJEMEFweXY3czd3SFFncEN6RGwtUVluNTZLeE5zNk1YVFJPdmtrTDVIdU1BSHN0SEE?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Miami Heat win the 2027 NBA Finals?",
+      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
-      "yes": 4,
+      "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
+      "yes": 14,
       "change24h": 0,
-      "vol24h": 18557,
+      "vol24h": 26629,
       "headlines": [
         {
-          "title": "Top DeMar DeRozan Fantasy Basketball Landing Spots: The Heat Are In The Mix After Missing Out On LeBron James",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm84WjdYZFIyNTVyMVBzbG80dDhkcEVrSjg2SExYZVB2dm1idFA5bU5HbjdQN1pmanJ5NDJsbzJoNklsQ0ZUa1dCTW9qUkVuRk1SMU1QNmNEOFdFQXZNWXVYR3hhTVhFc1h0MFktdW5KbmVjaWJDanpGbWlaU1lKNEN0ZGFHMWVaVTdfMklsTDBnaGdPYUNmb01OeVFsUWhoUXlpUnFWemZxbTAxSjFUMGNkLTFQOGdobElBWnV4Vk9YanB2eHhoRlNFYUVJVjJyUzFLZXAxWnZEOGtR?oc=5",
-          "cat": "NBA"
+          "title": "2026 Philadelphia Eagles training camp: Latest intel, updates",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1gxU09jcFVaZnEzQ01EX1BUVkstZ3g4Q3BkX3loQ3poZDFNandkUHNNaGIyQUo3TE5pdXpyVmYxNlI5dGtEYzVuMXI5VEFzdEd1bmp1cU5jNE95bHE0S1AwTkJxNVZIbmdXSl85TlNnMlJnUHpWME1WcnRVaExWbkRKN1JiS0E5Z0duOVRHTmt6dHUzZi1yVC1zX1h0UQ?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will LeBron James retire before next NBA season?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-lebron-james-retire-before-next-nba-season",
-      "yes": 0,
+      "question": "Will Qinwen Zheng win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-qinwen-zheng-win-the-2026-womens-us-open",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 13052,
+      "vol24h": 18204,
       "headlines": [
         {
-          "title": "Top DeMar DeRozan Fantasy Basketball Landing Spots: The Heat Are In The Mix After Missing Out On LeBron James",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm84WjdYZFIyNTVyMVBzbG80dDhkcEVrSjg2SExYZVB2dm1idFA5bU5HbjdQN1pmanJ5NDJsbzJoNklsQ0ZUa1dCTW9qUkVuRk1SMU1QNmNEOFdFQXZNWXVYR3hhTVhFc1h0MFktdW5KbmVjaWJDanpGbWlaU1lKNEN0ZGFHMWVaVTdfMklsTDBnaGdPYUNmb01OeVFsUWhoUXlpUnFWemZxbTAxSjFUMGNkLTFQOGdobElBWnV4Vk9YanB2eHhoRlNFYUVJVjJyUzFLZXAxWnZEOGtR?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "LeBron James will earn less than 18 NIL players next season and five of them really stand out",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWlqekEwTkpDUkRuRThjdHVfQWpaekpmWXJVOGZ0Ti1Pc2kxbjJtOG1TSWVmT3A3ai1jS1VPcGlCWXR1WmVjVnVXNmNDdUFPUVZlNF9lb2JPUTFhYm1sWl9oQVllWnBtTVUyaU1uMDBOYXNXdnMtbEVvaHFDbDMtci1lNUY4cW91ams2a0FkZG1TNl9sNERhZ1l4NElEb0ZKTXdPOUpSMlJlNElId3dKSTN3YUJYNExFMjRJUXJTSWVCc2gzVXF6blZIMkhTT0xPTV9aLTVR?oc=5",
-          "cat": "NBA"
+          "title": "Alexandra Eala vs Qinwen Zheng · Round 1 · ATP/WTA Washington D.C.",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUFXeEhodDNhSWlacm9jU2txcUJsV1gzT29uaDYwQVNsRFNsVVpFQ0x0cTFPMEdqU0FBQkx6eV9NZmNNeGVpckQ0Q2JZcjB3ZTdvQ3ZQREtxUTVtVUJBYng4cEp1T0JjamEzRkpjZXl2TlRkdEJva2JXNERmbzBSa0JPSWVFcWxyb3l6RVFDRk9HZw?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 57,
-      "change24h": 10,
-      "vol24h": 11346,
-      "headlines": []
-    },
-    {
       "question": "Will the price of Bitcoin be above $62,000 on August 1?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-1-2026",
-      "yes": 77,
-      "change24h": -9,
-      "vol24h": 14765,
+      "yes": 79,
+      "change24h": 12,
+      "vol24h": 14858,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 44,
-      "change24h": 5,
-      "vol24h": 52922,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-by-december-31-2026-from-june-8",
-      "yes": 87,
-      "change24h": -5,
-      "vol24h": 11455,
+      "question": "NBA: Stephen Curry to leave Warriors?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
+      "yes": 6,
+      "change24h": -8,
+      "vol24h": 9300,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 54,
-      "change24h": 4,
-      "vol24h": 31155,
+      "yes": 52,
+      "change24h": -5,
+      "vol24h": 26058,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 38,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+      "yes": 28,
       "change24h": 4,
-      "vol24h": 16041,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 38,
-      "change24h": 4,
-      "vol24h": 16041,
+      "vol24h": 9117,
       "headlines": []
     }
   ]
