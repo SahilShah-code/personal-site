@@ -1,18 +1,72 @@
 {
-  "updated": "2026-07-29T08:15:26.110Z",
+  "updated": "2026-07-29T13:40:58.698Z",
   "withNews": [
+    {
+      "question": "Will Bitcoin dip to $62,500 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
+      "yes": 41,
+      "change24h": -32,
+      "vol24h": 125941,
+      "headlines": [
+        {
+          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
+          "source": "Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
+      "yes": 35,
+      "change24h": -29,
+      "vol24h": 19832,
+      "headlines": [
+        {
+          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
+          "source": "Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $1,800 in July?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-july-2026-from-july-14",
+      "yes": 23,
+      "change24h": -17,
+      "vol24h": 9679,
+      "headlines": [
+        {
+          "title": "What to Look Out for in Economic Data This Week (July 27-31)",
+          "source": "Kiplinger",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
     {
       "question": "No change in Reserve Bank of Australia's interest rates at the August 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/no-change-in-reserve-bank-of-australias-interest-rates-at-the-august-2026-meeting",
-      "yes": 98,
-      "change24h": 9,
-      "vol24h": 20764,
+      "yes": 97,
+      "change24h": 14,
+      "vol24h": 15495,
       "headlines": [
         {
-          "title": "Will the Federal Reserve maintain interest rates The expected scenarios and their impact on the dollar",
-          "source": "المتداول العربي",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRDgtcDFySXl2WTRHMDVCa2hLWFUwalpsdU5DMlA2R1ZzamhKY1dGdGFldk5tb1M1bGtNNzkzeWlrRUZkZWlfNTdiT0RBNzcwUkdvcmpkanNxNUFGZHF1cERVdTBHNlFCdmJnckJKMVdZek5NbElMOVRzZlZNY0FUUmE0S3d6UWVuQllhSHJnbkFqV1ZUdE55SG4yN0FwdGJZQ1VOMHdDakZMdTlsWUZHckExOGNqSFAzelp2TjRvWGw0YU02dms1X1kxN2ltM0pyN3M4ZG85UkwyYmVEWjBzT3hiM2xIU3RYZ2c?oc=5",
+          "title": "The Federal Reserve is expected to keep rates unchanged for now despite high prices",
+          "source": "ABC7 Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnEyZnQ5dWh6NGJkdk0wNGlXY3NfSWswOWhlZmp0Y1lUSnhqdjl6VGVoWkR3OHNOdWs1YVZJaWVIS2xxd1dlMWtkU2kwRFplX25PU3pldS14c1BYeS1WSkU2cVBxUXpDNFV2eFk2YXZoTDh5ajRsT216Sk91cXMzaGFvTkF1TnI3ajFLdnNETk5HRF9IY1BUTmwyRFZkVi0tbWp0d2Nvd9IBrAFBVV95cUxOeUItMlRiT0NXQjFoZS0xMndmWUpHOTNsM0ZabWJkZ0JRMEZxb0ZvLXVkTWEydk1KRlRGSXhYUWNvc3dHSjNsRmp1OEtrLXpDdERCVnBuUXlLNXdXWnFJeXhOOV9Hdk5OTjByeVBMZkRGWTc3TmFNb0pkZmU4Zkd4ZHZYRndvQXdIby1uUHJsQUpvcEw2OC01UFRrWEszNVhxdDJxbXEtZzV0c3pZ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Federal Reserve faces a critical decision on interest rates",
+          "source": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5",
           "cat": "Macro"
         }
       ]
@@ -21,172 +75,71 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 41,
-      "change24h": 6,
-      "vol24h": 33207,
+      "yes": 40,
+      "change24h": 5,
+      "vol24h": 32512,
       "headlines": [
         {
-          "title": "US Fed expected to hold rates steady as inflation hawks circle",
-          "source": "NST Online",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZWYmF6MExLVjBNWEZGcHJ3VHhMenpvaDYxdU5hOEdFNFZEcXFCUFVMWi1GcERGbW5yYUlLWmt1Uk5LazVFcFdJcVItd0QyVEhMbmRiYWxtTjNWeHdhZEZuMzJCVVMwVk9VWXQ2Snl2YTBnRHFhZnp6MmFHUnItb0VEWkhkU0NjSmxSSGdFSy1hS3BMZWNLWk1PS1VnV1lmVXlmeFhBRlZXMUx3SktOY1hB0gG3AUFVX3lxTE93LWpGMnBvNHVUM0taZWVQR3JGZEdGcllKWWFydWo0ZnRrLVVBajRmbzNuQjc4VjdNYXNFejZtbjRaX3dicldKNk9pRS1aQmYzMGdJYVpmZ01uNXVjdlplMkIwdmIxZVRyQk4wZGdpdG5wOVBLbEdMc2pFcXBtWmxrQ29ad2JjUGlOajFZXzhEZ21LVXlNUTNLMDNobmE0UVBpTjBLVkdoR3BhV3U3R2NRZDFwYUZiMA?oc=5",
+          "title": "Fed chair Kevin Warsh faces a key test as inflation compounds the affordability crisis",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVA1MzJGNXllN1RjSG43b0xUam1seWRjUmI2bHdXdlZndHhEQ1pRZDI5WVE3MGg1NnBCMk9Gcm42MUZab29ZRFY3OTd3OTZERlZmLUtFbGhUOG5jQXlDREFuMGVkSmtyTlJvVzJhS1A0OG5zaGhWZkZ1VHlQRXNGcGcxczNOMW82ckdRdVJmRUZzRDI4OEV4SHRfSjh6Wms?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Hike or Hold? Fed Meeting Will Surprise Either Way",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0Y2Vl9qcy0tYk1UUlV2OGdJRG5vRUdZVC1LTXRWWjdaN2swSmdoVkVrSk9LMUYxOU1EVGNOQWpkSFdscG1YU256MWxmQndhejZRZ3hmeldrb1JNUThuS3hqUlJtNS1ZdGo4ZUxmc21ZNmVQNF9fX19pdVJQQUJfM3Q4R2ZQdzVRWTkxUnotY2Q?oc=5",
+          "title": "The Fed confronts an unusually confusing economic moment",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3FwbFZpVV9DYWpqMWpwWHJWOEEwRXJJb25kN2QyNkV1SVNZX3RDQWh5QkNGbUY3MFREMXFqdmtCQU1VYTJvcHQ1QmV0aXpGVnhXUGVyb2RiQV90TlB3Uk5PdW40MUJOMmxOS090Vm1xZ3VBZFhOd2RFcWJ6d2tET0hPQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by July 2026 Meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
-      "yes": 21,
-      "change24h": -5,
-      "vol24h": 31054,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 76,
+      "change24h": -2,
+      "vol24h": 219686,
       "headlines": [
         {
-          "title": "US Fed expected to hold rates steady as inflation hawks circle",
-          "source": "NST Online",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXZWYmF6MExLVjBNWEZGcHJ3VHhMenpvaDYxdU5hOEdFNFZEcXFCUFVMWi1GcERGbW5yYUlLWmt1Uk5LazVFcFdJcVItd0QyVEhMbmRiYWxtTjNWeHdhZEZuMzJCVVMwVk9VWXQ2Snl2YTBnRHFhZnp6MmFHUnItb0VEWkhkU0NjSmxSSGdFSy1hS3BMZWNLWk1PS1VnV1lmVXlmeFhBRlZXMUx3SktOY1hB0gG3AUFVX3lxTE93LWpGMnBvNHVUM0taZWVQR3JGZEdGcllKWWFydWo0ZnRrLVVBajRmbzNuQjc4VjdNYXNFejZtbjRaX3dicldKNk9pRS1aQmYzMGdJYVpmZ01uNXVjdlplMkIwdmIxZVRyQk4wZGdpdG5wOVBLbEdMc2pFcXBtWmxrQ29ad2JjUGlOajFZXzhEZ21LVXlNUTNLMDNobmE0UVBpTjBLVkdoR3BhV3U3R2NRZDFwYUZiMA?oc=5",
+          "title": "Fed chair Kevin Warsh faces a key test as inflation compounds the affordability crisis",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVA1MzJGNXllN1RjSG43b0xUam1seWRjUmI2bHdXdlZndHhEQ1pRZDI5WVE3MGg1NnBCMk9Gcm42MUZab29ZRFY3OTd3OTZERlZmLUtFbGhUOG5jQXlDREFuMGVkSmtyTlJvVzJhS1A0OG5zaGhWZkZ1VHlQRXNGcGcxczNOMW82ckdRdVJmRUZzRDI4OEV4SHRfSjh6Wms?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Hike or Hold? Fed Meeting Will Surprise Either Way",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0Y2Vl9qcy0tYk1UUlV2OGdJRG5vRUdZVC1LTXRWWjdaN2swSmdoVkVrSk9LMUYxOU1EVGNOQWpkSFdscG1YU256MWxmQndhejZRZ3hmeldrb1JNUThuS3hqUlJtNS1ZdGo4ZUxmc21ZNmVQNF9fX19pdVJQQUJfM3Q4R2ZQdzVRWTkxUnotY2Q?oc=5",
+          "title": "The Fed confronts an unusually confusing economic moment",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT3FwbFZpVV9DYWpqMWpwWHJWOEEwRXJJb25kN2QyNkV1SVNZX3RDQWh5QkNGbUY3MFREMXFqdmtCQU1VYTJvcHQ1QmV0aXpGVnhXUGVyb2RiQV90TlB3Uk5PdW40MUJOMmxOS090Vm1xZ3VBZFhOd2RFcWJ6d2tET0hPQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
-      "yes": 14,
-      "change24h": 0,
-      "vol24h": 23018,
-      "headlines": [
-        {
-          "title": "Allen Iverson says Jordan remains his GOAT despite rooting for LeBron in Philadelphia: \"I'm definitely not going to wish they don't win two more",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQW5MX0RQVVlNbTZicW8tMzFqN2luWEE0VEFYRTNfamtNQkhwbWVtakZlWE9MaGNXRkFsUm50ZkNjcDdvSGtSOXg4elUyS3JoeWVPLXZIekpfRlpsUWtZQ3o1N2psWUNTTy1LdzhFdVV1ZTlKMDJ6NTN2VHVTM0FSZ1hTRml2T2h1b2ZHbHRiZUloYjNkU2NjQUdReU1jTHFyZ3BqblpnUVZjTnJxdHVWOXAxU1A3eGlndmhUOGEtN2tOTTYxRnk4bTRLNA?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Why fans think the Philadelphia 76ers are building the NBA's Avengers after landing LeBron James",
-          "source": "MARCA",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWkhMWmJ3Wl8yYWVaV0puQ2lRbFlUT09JWndJN1I5aW1tQktOcWpZQTlPSmQxc09sUTJ5RDg2eHhkaEFCUV9BZTRIZzJtd0hqbDRLS2VRaTRQMmhjMDlCdDltQnpUcXUxNFNubnh3MlZra3FjUnFlUHJfeXdyN3NaaVNZRWduTHVHWDUyVnQ5MzNyd2RDY21XdF96MFBJRldwc3c4bGVxc2Fkbk9xOHZ5VXRpUkVXT2Vvb3dfaXY4VTR2Yy15VDE3aWxMcmlneDhBMmFYUDNfeG52S0hlR29PWHNoci1nYVM0bGhfNlJDWTJZX3dyVDFyN1Nrc20tbENy0gGAAkFVX3lxTFA3NjQyTFphWlFkQU5Wc000V1lwU29Qd0V4VnBSV0kya1BhNVF5MWdzTldJM2xLTmdLTE4yc1NTblRHRVF4RDQwYmUtdU8wajdqSnkxdEVRSUh2MlZYNTZEODVBSUdValNWZGI2R1U0UEhua3FpWFFva3ZQYmNDc0ZfYnhSUkJRc0cxdzNVeVljMzVhUzFERGlvalFiUzB2NVhqZ2FaNWZ1bzBGVGRuODJNRG5jMlRsTzRIeXJCWFAybXpjbWlSMTYzQ2gtMkpzMGRXTXVCMlVaWEN4cTFKM3phM0dMVzVoS1M2TEZXUlJ1emJIX3dwaTJVc0hUVS1OcG0?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "question": "Will the Houston Texans win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 20879,
+      "vol24h": 17959,
       "headlines": [
         {
-          "title": "Dallas Cowboys, Jerry Jones Highlight Positive Outlook Ahead Of Training Camp",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX3FDcFJmSWZLd01ieDF1Ukw3XzIzcE9FaW15eVNESHN4LXBRdWJyTUgxMk9WRmVTMmVqWnhiM1BpQ2FFQi1YZi1oYVdNa3NDYUhyNVVoeWliZW9Va0pTRVRVVFk2bGVZOGdBTE5Hc3pfU0RoeGhvdC1oZUN6Q3VBQWxiUGxhZUZLalZUSXk5ano2UXYtXzg5aEpiSDNaeDl2YkYwenZjTHlxR1hOeEpCN9IBsAFBVV95cUxOUWNzWmx1X2htanFaSmFnRGNzbFp3WHBzT2hXRXpvdkcyZUtla3dWaEcyMVlnMGNPX1A5dzJRWjhFdTVlaEphczhlMG5aZS1MQ0ZaQmUyaEljbm9yQldGb1BOUXVxUV9LT1NDbFIxZEZ4ODlpS0N0MHowbmJzWlRlWlpaak12NEZQOTJaZlo5clRFcHlXU2xHNDMxMWlaMXl6SG9ybnZlT2M0cGN5c0VJcw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 14804,
-      "headlines": [
-        {
-          "title": "Los Angeles Rams Star Matthew Stafford Gets Rare Madden Honor",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2F3WGYwb3c5OVR2QXktNGV4UUQ3cFVZWjlNdE9Zbk9xY3NlYUhXSTludzhwbnl1QjNLLUFqNXRKcmZXUTNqckVhVUwyMVI2bXZFRkdQTlFwWHl1N05IbzRIelM3UTZYQjBFZjVhY2lHZGl2MVRKNlRxVUh4TXhrSVNOVTY?oc=5",
-          "cat": "NFL"
+          "title": "NBA: Oscar Tshiebwe (Mountain Mission) signs with Houston Rockets",
+          "source": "The Bristol Herald Courier",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmUtN2lQNUpOWHlmd1I2cjNRZDNRRW8tTFFiRUhKV2oyN3ZSMlBmaThQWHY3SXlEeWNvVmRWeFBjcmJkelppWUVPUzlZdHdHZUswb1FfLTg0ZGRrVjBFQXEtWGk5aWI1S05uRjRQZ0hDSEZuRXoxdkd0NEVSSnVYWHRoWFo2NDZqUmtyZkNlMXRLY3VsMW12MWRjQmYtMkNvTExFS19yNXUwd1Q0RWFR?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $62,500 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 34,
-      "change24h": -33,
-      "vol24h": 118027,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
+      "question": "ITF Dublin: Sonja Zhiyenbayeva vs Alicia Dudeney",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/itf-zhiyenb-dudeney-2026-07-28",
       "yes": 33,
-      "change24h": -26,
-      "vol24h": 16280,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $1,800 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-july-2026-from-july-14",
-      "yes": 21,
-      "change24h": -20,
-      "vol24h": 11830,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $66,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
-      "yes": 54,
-      "change24h": 17,
-      "vol24h": 15833,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-july-2026",
-      "yes": 36,
-      "change24h": 12,
-      "vol24h": 35795,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA (NVDA) hit (LOW) $176 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvda-dip-to-176-in-july-2026",
-      "yes": 1,
-      "change24h": -12,
-      "vol24h": 7421,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-1-2026",
-      "yes": 87,
-      "change24h": 11,
-      "vol24h": 8895,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60000-in-july-20260706151220612-754",
-      "yes": 7,
-      "change24h": -10,
-      "vol24h": 201705,
+      "change24h": 7,
+      "vol24h": 10567,
       "headlines": []
     }
   ]
