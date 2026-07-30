@@ -1,46 +1,56 @@
 {
-  "updated": "2026-07-29T18:51:39.704Z",
+  "updated": "2026-07-30T01:15:01.904Z",
   "withNews": [
-    {
-      "question": "Fed Rate Hike by July 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-july-2026-meeting",
-      "yes": 0,
-      "change24h": -21,
-      "vol24h": 59502,
-      "headlines": [
-        {
-          "title": "Why the Fed picked 2% as an inflation target",
-          "source": "Modesto Bee",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Vcm9ZblNiU2Y0SnpCWlBVQ1VBWjN0OHd6QTlfckNMSjBNV1FtajRoVkw5bDA2NzZiOWl5SGtjeG9JQlltRkppWDlnb1hlQlZaVFMyeUM5RVA0Z1RhdDU1LVBNcW11N096SFE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as pressure builds for a hike",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGc4clFvdXhTQk1TMW1fdzBfc2hSYU5GWlNRTXg2N3ZjdC1BdDM5azhUTV92elNvdU9xLUptemxYbVpEMjJONTFZdFJ4eUJxcVpqd3cxR0poeFo5YWhOUzNEeHNQU1pQVEtOVGhvblJlLVlhTHJuUlZGMkdRNlREXzVQWTZQX0FGNEl1cy1WNE02a2FOUGRjVDV4Q3RFVUwzSnFxLVNPTQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "No change in Reserve Bank of Australia's interest rates at the August 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/no-change-in-reserve-bank-of-australias-interest-rates-at-the-august-2026-meeting",
       "yes": 97,
-      "change24h": 13,
-      "vol24h": 14818,
+      "change24h": 15,
+      "vol24h": 15131,
       "headlines": [
         {
-          "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike",
-          "source": "WDEF",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzRxY25TTzMyb0NTeWV1YVlnbmM4ZFVtNHdlQk1MTXY5NmI2WWwzdE1salhmX3RUU3R3eDVlM1RWLUQzY29WUEpaZGk2UzFyMnJXbUw1R05hYWdpTElMQjRwWklRVGlWWUpET01zOHhTZlpDOHJOS1M3R1ZDWHdtaWNmMzVkUEkzd0xPT2dfdU5ZMWNQMHFsaFBRMA?oc=5",
+          "title": "US Federal Reserve holds rates unchanged as inflation persists",
+          "source": "TRT World",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zcmFhWEVHbnlHQjRDQ1g1U1k3TnZmQm1DdllPOUV2VTAzZnJLa1E5T3NOanBiLUVadXRKd096WUVfR29pNUF5R2IyNW4zc0dkUENrZVQwNFI?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 62,
+      "change24h": -14,
+      "vol24h": 624340,
+      "headlines": [
+        {
+          "title": "A divided Fed holds interest rates steady despite stubborn inflation",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGc4clFvdXhTQk1TMW1fdzBfc2hSYU5GWlNRTXg2N3ZjdC1BdDM5azhUTV92elNvdU9xLUptemxYbVpEMjJONTFZdFJ4eUJxcVpqd3cxR0poeFo5YWhOUzNEeHNQU1pQVEtOVGhvblJlLVlhTHJuUlZGMkdRNlREXzVQWTZQX0FGNEl1cy1WNE02a2FOUGRjVDV4Q3RFVUwzSnFxLVNPTQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Federal Reserve holds rates steady; three members dissent",
-          "source": "Lee News Central",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb0RrWlAyRU1QZUdoVzltNzl3ZnFxQ3pCby1zSjNSeW9wM192NEhnMEx2azExY0trcGcyYlNXOGVHZXZmaGRvLWNqaGNITWhGR2VYazhleDMtTzVGRER6amtnTTExZVFfaVc4SEpTeEJUWjIxVEsxVGUyVE5sUFhjYzlpUmZtWmowMzdpTFY4WjBxbzRUUDU0bGxPYmpTMTFzbkxiajNFVE95VU12RDh3dFVRUFk0Y09TeDdFUktSaXJUUlNkVkVEd1JnN2NBaDFxcG16ZkxVenR0WFVPYWlFT3FXQzdaelVtLXdsdF85NjRDMGxp?oc=5",
+          "title": "Fed keeps rates steady despite high inflation",
+          "source": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXFzTUhnZFpPU01KX0dfbWhtYXJBb1pua3RYZGVSR3ViYkF4aVJOS1A0Sk1PQkFGUk5hb3dqNGl4Sk5sSHF3UlFVMWdoMC1LODJzUjZUamNFNnFMQ0FaSm8xejFtTmx4RXhSUnkxOTZMZ0ExV0VVLTVSdjJLQ1ZsOHZxV21OMmxST1RyeG1QdzhoTWNqdmZMWWxtc2NLWFFFZEhQSldDOXJlLW1rYU8wWE4yelc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
+      "yes": 9,
+      "change24h": -14,
+      "vol24h": 211315,
+      "headlines": [
+        {
+          "title": "Market moves and 'a good family fight:' top takeaways from the July Fed meeting",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1A5R1JuQ1NwUDcxdTZ0dWNOd005QmdFZDczUEtXUUVsbml0OHNrZi1fZ3ZDYjAzQmtxQWtvMFRSOXY1V2I1bU1BbUl5Y2NWSUMyWWdPUUFnZVpVaW5Sa0kyRktnNGRVYzhMajg0SFV5Q3VORWU4WnlmaF9VdGF2aUtwZlhtbzA2dkFKMlVUaUhEOFZ2VWhKU2JzUGNWekNxbVU4UXpKeUc?oc=5",
           "cat": "Macro"
         }
       ]
@@ -49,36 +59,132 @@
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 60,
-      "change24h": -8,
-      "vol24h": 33033,
+      "yes": 54,
+      "change24h": -14,
+      "vol24h": 36922,
       "headlines": [
         {
-          "title": "Why the Fed picked 2% as an inflation target",
-          "source": "Modesto Bee",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Vcm9ZblNiU2Y0SnpCWlBVQ1VBWjN0OHd6QTlfckNMSjBNV1FtajRoVkw5bDA2NzZiOWl5SGtjeG9JQlltRkppWDlnb1hlQlZaVFMyeUM5RVA0Z1RhdDU1LVBNcW11N096SFE?oc=5",
+          "title": "A divided Fed holds interest rates steady despite stubborn inflation",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGc4clFvdXhTQk1TMW1fdzBfc2hSYU5GWlNRTXg2N3ZjdC1BdDM5azhUTV92elNvdU9xLUptemxYbVpEMjJONTFZdFJ4eUJxcVpqd3cxR0poeFo5YWhOUzNEeHNQU1pQVEtOVGhvblJlLVlhTHJuUlZGMkdRNlREXzVQWTZQX0FGNEl1cy1WNE02a2FOUGRjVDV4Q3RFVUwzSnFxLVNPTQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed holds interest rates steady as pressure builds for a hike",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGc4clFvdXhTQk1TMW1fdzBfc2hSYU5GWlNRTXg2N3ZjdC1BdDM5azhUTV92elNvdU9xLUptemxYbVpEMjJONTFZdFJ4eUJxcVpqd3cxR0poeFo5YWhOUzNEeHNQU1pQVEtOVGhvblJlLVlhTHJuUlZGMkdRNlREXzVQWTZQX0FGNEl1cy1WNE02a2FOUGRjVDV4Q3RFVUwzSnFxLVNPTQ?oc=5",
+          "title": "Fed keeps rates steady despite high inflation",
+          "source": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXFzTUhnZFpPU01KX0dfbWhtYXJBb1pua3RYZGVSR3ViYkF4aVJOS1A0Sk1PQkFGUk5hb3dqNGl4Sk5sSHF3UlFVMWdoMC1LODJzUjZUamNFNnFMQ0FaSm8xejFtTmx4RXhSUnkxOTZMZ0ExV0VVLTVSdjJLQ1ZsOHZxV21OMmxST1RyeG1QdzhoTWNqdmZMWWxtc2NLWFFFZEhQSldDOXJlLW1rYU8wWE4yelc?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 27423,
+      "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
+      "yes": 91,
+      "change24h": 14,
+      "vol24h": 18454,
       "headlines": [
         {
-          "title": "Jaguars open training camp with a healthy Travis Hunter and hopes of back-to-back playoff berths",
-          "source": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOck1uU09ITkd0WHNtMkp3elJNQmFjRDBKeW94WU42M0xPaHFVX1c2bTFiYzdlQldWVVpBMnRXQWNHck5NV21idm5CcnAtNjhUeDlGWTZ2UTBTN1VtZzF4QU53NzhDTGhFSlVkcXJ3RWFicU5QVjlQd0JuZGhTcWg3WGk5U09BQVdCQUIwRVBqUzRUeEpmMkFxUkZyMW5pdw?oc=5",
+          "title": "Market moves and 'a good family fight:' top takeaways from the July Fed meeting",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1A5R1JuQ1NwUDcxdTZ0dWNOd005QmdFZDczUEtXUUVsbml0OHNrZi1fZ3ZDYjAzQmtxQWtvMFRSOXY1V2I1bU1BbUl5Y2NWSUMyWWdPUUFnZVpVaW5Sa0kyRktnNGRVYzhMajg0SFV5Q3VORWU4WnlmaF9VdGF2aUtwZlhtbzA2dkFKMlVUaUhEOFZ2VWhKU2JzUGNWekNxbVU4UXpKeUc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $66,000 July 27-August 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
+      "yes": 25,
+      "change24h": -14,
+      "vol24h": 9732,
+      "headlines": [
+        {
+          "title": "Market moves and 'a good family fight:' top takeaways from the July Fed meeting",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1A5R1JuQ1NwUDcxdTZ0dWNOd005QmdFZDczUEtXUUVsbml0OHNrZi1fZ3ZDYjAzQmtxQWtvMFRSOXY1V2I1bU1BbUl5Y2NWSUMyWWdPUUFnZVpVaW5Sa0kyRktnNGRVYzhMajg0SFV5Q3VORWU4WnlmaF9VdGF2aUtwZlhtbzA2dkFKMlVUaUhEOFZ2VWhKU2JzUGNWekNxbVU4UXpKeUc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will annual inflation be 3.4% in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt4-in-july-20260714150613271",
+      "yes": 36,
+      "change24h": 3,
+      "vol24h": 12359,
+      "headlines": [
+        {
+          "title": "Market moves and 'a good family fight:' top takeaways from the July Fed meeting",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1A5R1JuQ1NwUDcxdTZ0dWNOd005QmdFZDczUEtXUUVsbml0OHNrZi1fZ3ZDYjAzQmtxQWtvMFRSOXY1V2I1bU1BbUl5Y2NWSUMyWWdPUUFnZVpVaW5Sa0kyRktnNGRVYzhMajg0SFV5Q3VORWU4WnlmaF9VdGF2aUtwZlhtbzA2dkFKMlVUaUhEOFZ2VWhKU2JzUGNWekNxbVU4UXpKeUc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
+      "yes": 20,
+      "change24h": 0,
+      "vol24h": 21591,
+      "headlines": [
+        {
+          "title": "Billy Ray Smith, former Chargers linebacker and San Diego media personality, dies at 64",
+          "source": "sandiegouniontribune.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmFLeFVYTlZJOVlvWjVkd011NTFFellEM1RJUWJCMFBqUnhTRVJOLW9iNlZGWXB4MGxGakFqWWFIQVAyT01rRTQ5V2d2dk01RjF2c0FsWUxPVG9MYWwxblhXV3FpNUJqNzhZZkVHVS14M0FIQ1dBZ2dvT3Q0TnR5ei11aVpwbkdWX21fQ1JvTmx5QzdhbVBvMGQtQTJRaTFOVGY0bzQxVlpmWkJvNUc3d2hCNmZXSThxQ1RJdGJhampsTHZHOXpsaTlwelFFS0k?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 13462,
+      "headlines": [
+        {
+          "title": "Billy Ray Smith, former Chargers linebacker and San Diego media personality, dies at 64",
+          "source": "sandiegouniontribune.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmFLeFVYTlZJOVlvWjVkd011NTFFellEM1RJUWJCMFBqUnhTRVJOLW9iNlZGWXB4MGxGakFqWWFIQVAyT01rRTQ5V2d2dk01RjF2c0FsWUxPVG9MYWwxblhXV3FpNUJqNzhZZkVHVS14M0FIQ1dBZ2dvT3Q0TnR5ei11aVpwbkdWX21fQ1JvTmx5QzdhbVBvMGQtQTJRaTFOVGY0bzQxVlpmWkJvNUc3d2hCNmZXSThxQ1RJdGJhampsTHZHOXpsaTlwelFFS0k?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will New Orleans Pelicans win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-orleans-pelicans-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 11960,
+      "headlines": [
+        {
+          "title": "Is Taysom Hill retiring? Read fan favorite's emotional goodbye to Saints, New Orleans",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQazdzcS1SWVNncFJWbG52b2hVeVNhZlpwTTFQM3dEOXJPamw4aDE1cEhrbmFTRzNCanhhS2VzTk83MldMdV9YaWlQMzhQVVlrc3FvakRiVnZNUkxDM2MwbW9OQU5WeDFCYzhlOURhek40ZjJjWi1xakZwSldBVnVHek5sLWg?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 11884,
+      "headlines": [
+        {
+          "title": "Billy Ray Smith, former Chargers linebacker and San Diego media personality, dies at 64",
+          "source": "sandiegouniontribune.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmFLeFVYTlZJOVlvWjVkd011NTFFellEM1RJUWJCMFBqUnhTRVJOLW9iNlZGWXB4MGxGakFqWWFIQVAyT01rRTQ5V2d2dk01RjF2c0FsWUxPVG9MYWwxblhXV3FpNUJqNzhZZkVHVS14M0FIQ1dBZ2dvT3Q0TnR5ei11aVpwbkdWX21fQ1JvTmx5QzdhbVBvMGQtQTJRaTFOVGY0bzQxVlpmWkJvNUc3d2hCNmZXSThxQ1RJdGJhampsTHZHOXpsaTlwelFFS0k?oc=5",
           "cat": "NFL"
         }
       ]
@@ -86,66 +192,30 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $65,000 in July?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-july-2026-from-july-28",
-      "yes": 77,
-      "change24h": 28,
-      "vol24h": 40197,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 37,
+      "change24h": -14,
+      "vol24h": 14971,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in July?",
+      "question": "Tesla and SpaceX merger officially announced by September 30?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-july-2026-from-july-14",
-      "yes": 30,
-      "change24h": -22,
-      "vol24h": 121005,
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-september-30",
+      "yes": 4,
+      "change24h": -5,
+      "vol24h": 31470,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
+      "question": "Will the price of Bitcoin be above $68,000 on August 1?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
-      "yes": 32,
-      "change24h": -18,
-      "vol24h": 20661,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the second-largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-july-31-20260624192749110",
-      "yes": 90,
-      "change24h": 13,
-      "vol24h": 24140,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on July 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-july-31-20260624192329841",
-      "yes": 12,
-      "change24h": -12,
-      "vol24h": 212671,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $66,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
-      "yes": 48,
-      "change24h": 11,
-      "vol24h": 14129,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in July?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60000-in-july-20260706151220612-754",
-      "yes": 6,
-      "change24h": -7,
-      "vol24h": 203336,
+      "url": "https://polymarket.com/event/bitcoin-above-68k-on-august-1-2026",
+      "yes": 1,
+      "change24h": -4,
+      "vol24h": 24376,
       "headlines": []
     }
   ]
