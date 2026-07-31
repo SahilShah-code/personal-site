@@ -1,13 +1,35 @@
 {
-  "updated": "2026-07-31T01:28:34.095Z",
+  "updated": "2026-07-31T08:29:22.238Z",
   "withNews": [
     {
-      "question": "Fed rate hike in 2026?",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 67,
-      "change24h": 5,
-      "vol24h": 394096,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 45,
+      "change24h": 6,
+      "vol24h": 570641,
+      "headlines": [
+        {
+          "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Markets whipsaw as Trump, Fed face new inflation risks",
+          "source": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MRFdNeFlBUW1yV29ROHF0dzBGUGhlZGI5VVBzRklVOHJkXzZxNFNqVmJId0JndDNVS2s3ckhFS3BZaHNGOFlLZWhtdHpBMDZDTGRBSGV2MkdMVGdfUzMtWTZpVzVINnpOcG5pZ0NhUQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 53,
+      "change24h": -4,
+      "vol24h": 456196,
       "headlines": [
         {
           "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
@@ -29,7 +51,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 69,
       "change24h": 4,
-      "vol24h": 15808,
+      "vol24h": 15020,
       "headlines": [
         {
           "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
@@ -49,135 +71,42 @@
       "question": "NBA: Stephen Curry to leave Warriors?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 5,
-      "change24h": -1,
-      "vol24h": 54073,
+      "yes": 4,
+      "change24h": -2,
+      "vol24h": 55483,
       "headlines": [
         {
-          "title": "“Little guy, thinking he’s doing pretty good and dad come in” – Dell Curry revealed how he rebuilt the shot that changed NBA history",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXBDTWttVDFvdm0xbXoybF9KUEdrdnlaWDdtQkFLdTFkQXJuWUZKRUpVSlk4Y0JlQ3ZhNkM2NFViRTZDSnJQTkpRcWljdkUyZGs3MVN4SFB5LTV1dVF5Rk9fNF9JVWF3cndrMnBlcXBaRExHd1hmakFXMXdzMzBYLXdsVDRaWHZ5VWxfMWJQM3Z0aHFTX3VXdUs3Z0Q5Vi00ZFhiWEZnbGk1Zy1jVDgtX01PeEU1cG8?oc=5",
+          "title": "\"He's gonna get crushed\" - Draymond Green thinks LeBron James didn't join the Warriors because of their previous rivalry",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1hBeGM0aE1Ydm82dnJtWDFyTmFGTUtYMW9sQnB6Um9WY2JSemJwLXVXMkdHVDlZR1liNGcwcGRaWjUybmVKNWlFRmJhVTh5OFNmTHVpaHJTcnZsMG03dGMzLUJUdnpJQjlBdlFJWEdhdzhrNFpiblVCSGFiR1lmTUU5RHZrNnFk?oc=5",
           "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 53,
-      "change24h": -1,
-      "vol24h": 22367,
-      "headlines": [
-        {
-          "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-          "cat": "Macro"
         },
         {
-          "title": "Bond Market is Testing Warsh’s ‘Noncommittal’ Rate Outlook",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUXhmTWViLUVLNnVQZVczSWpWdkdoRzVlX0lqbWpySUZTMnhDODNSSlllUVh2TWhWSmZEVUROeFc5T1RXenFmc0o2ai1pMnNMUVBzMEpHenk3YUR1bXR3SXAwZGtNSUJWb0FQZms0SFhoRWNzRnU3bThoTVc3emEtTGZRRDFsTXZVendjYnhfNVRILVZFR0Q1cnB3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Detroit Pistons win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 153555,
-      "headlines": [
-        {
-          "title": "Detroit Lions Over/Under Win Total: Can They Return to NFC Contention?",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xbkFmUEdQcmdvQzluVzFaRzFpbHhKbWVNUlYybS1WTmZLTzdGYTMyQ3B4czVlaDBJY01ZRzlVTXdibTJqM3Nxdk5sSXRjU3hfUkVCTjBvSVMtYVdZdElIZDFOTTYwNm9QQlg4ZjZEWDItekh2RVhicHBOQlDSAXxBVV95cUxNUGotbk1fQTJXS1ZudXVTeXE2MVlSVm9fTGdIY0FJR09ENGJjdDJNcjlJSHBmM0pXN2hFeDg3Qjd2M3E3N2stYnpwdmpKMVpveVJVdWltZHlVWWdWQjRKZUp4dnFDb1paWEZJS1cyQU9Bemk1dUpQdWg1ZDJl?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 40337,
-      "headlines": [
-        {
-          "title": "Detroit Lions Over/Under Win Total: Can They Return to NFC Contention?",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xbkFmUEdQcmdvQzluVzFaRzFpbHhKbWVNUlYybS1WTmZLTzdGYTMyQ3B4czVlaDBJY01ZRzlVTXdibTJqM3Nxdk5sSXRjU3hfUkVCTjBvSVMtYVdZdElIZDFOTTYwNm9QQlg4ZjZEWDItekh2RVhicHBOQlDSAXxBVV95cUxNUGotbk1fQTJXS1ZudXVTeXE2MVlSVm9fTGdIY0FJR09ENGJjdDJNcjlJSHBmM0pXN2hFeDg3Qjd2M3E3N2stYnpwdmpKMVpveVJVdWltZHlVWWdWQjRKZUp4dnFDb1paWEZJS1cyQU9Bemk1dUpQdWg1ZDJl?oc=5",
-          "cat": "NFL"
+          "title": "\"He is scared of pulling the trigger\" - Tim Hardaway thinks Mike Dunleavy Jr.'s inability to make moves is holding back Steph Curry and the Warriors",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbE1MMFk2MXdaYzlzNDBNSVJoQ0Zsd0lfZkFxekRtd3A1WFF3NHNCeWJHcTVJWV9hWEl6MVcwbHdObUt5MF9FbV93T0kzSWFZUi00b0MxRUdUWDROdVRobUh6dXFKaURGMXNkZDk5X1pRalFkVmRwVm82MjVXOVBLUWgyYWI3ZDMxREhfZW0yaG5tNFpTVUFFQ1pPNXlfc0JqbUpDZy1hUV96TEx5RE5XdWg5Mjl0NG1kR19YMFBiR09KaWtLQ0hCSzBlMV9GeFUyS25HTm44V3diMWM?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the price of Bitcoin be above $64,000 on August 1?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-1-2026",
-      "yes": 83,
-      "change24h": 36,
-      "vol24h": 9353,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 62,
+      "change24h": 24,
+      "vol24h": 27203,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $66,000 July 27-August 2?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
-      "yes": 54,
-      "change24h": 27,
-      "vol24h": 29229,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
-      "yes": 9,
-      "change24h": -26,
-      "vol24h": 24225,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 62,
-      "change24h": 25,
-      "vol24h": 28274,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $1,800 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-july-27-august-2-2026",
-      "yes": 9,
-      "change24h": -17,
-      "vol24h": 11783,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
-      "yes": 92,
-      "change24h": 17,
-      "vol24h": 10772,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-1-2026",
-      "yes": 98,
-      "change24h": 15,
-      "vol24h": 13886,
+      "yes": 10,
+      "change24h": -21,
+      "vol24h": 33885,
       "headlines": []
     },
     {
@@ -186,7 +115,52 @@
       "url": "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-september-2026-meeting-20260623013424711",
       "yes": 86,
       "change24h": 12,
-      "vol24h": 9930,
+      "vol24h": 9797,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 57,
+      "change24h": 9,
+      "vol24h": 13654,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $66,000 on August 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-4-2026",
+      "yes": 14,
+      "change24h": -8,
+      "vol24h": 9183,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,800 July 27-August 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-july-27-august-2-2026",
+      "yes": 15,
+      "change24h": -5,
+      "vol24h": 13556,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
+      "yes": 20,
+      "change24h": -4,
+      "vol24h": 27401,
+      "headlines": []
+    },
+    {
+      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
+      "yes": 21,
+      "change24h": 4,
+      "vol24h": 22637,
       "headlines": []
     }
   ]
