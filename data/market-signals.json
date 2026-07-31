@@ -1,24 +1,24 @@
 {
-  "updated": "2026-07-31T08:29:22.238Z",
+  "updated": "2026-07-31T13:26:21.266Z",
   "withNews": [
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 45,
-      "change24h": 6,
-      "vol24h": 570641,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 53,
+      "change24h": -3,
+      "vol24h": 12406,
       "headlines": [
         {
-          "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+          "title": "Fed officials backing rate hikes urge immediate action against inflation",
+          "source": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNiX1dJcExnUTU1NGlac2c0cEFsajhrY1otMXFYZVFvRHc2aGlKYWNpSjJjaXgzQUl4WDI2alpjVWlMS0xPUlNQYldzUXkyVmJJMXpmQmxqMUpOZUw4c3Y4ZXpDQ3ROTzVXVS04NmtXQzRCUF9KYkVfZUZqZHVLV0hlSXNCTFNlY1FYaGJhVVJBQ3BZd244eWFBV2JkN0Q4UTZnazJNdkx5TXJYWnVQT2w0RQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Markets whipsaw as Trump, Fed face new inflation risks",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MRFdNeFlBUW1yV29ROHF0dzBGUGhlZGI5VVBzRklVOHJkXzZxNFNqVmJId0JndDNVS2s3ckhFS3BZaHNGOFlLZWhtdHpBMDZDTGRBSGV2MkdMVGdfUzMtWTZpVzVINnpOcG5pZ0NhUQ?oc=5",
+          "title": "Two Fed Officials Say Inflation Should Have Prompted Higher Rates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnlWMW4zNEdrSjBES053NDFtQ01rR09vb1lTWlNYV3h3RkhfUnNDUTBaVVZyaEg4TklUbG9UdlhsYWZCTV9MQzlSREZfVTZTWHpsX0NKMGpJNG85ekhOeXRXUG1lVVd4aGJWLXRiS1V1LXpuS1FHOGFodjRvVFBWcXRqMk80RjlUaWZ5ei14ZUVXdTJWc0tIcjNGN1hWaFFkbVd3dVB2Ykc5YTBjOTRjMmpxY0syYk9XOXc?oc=5",
           "cat": "Macro"
         }
       ]
@@ -27,42 +27,20 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 53,
-      "change24h": -4,
-      "vol24h": 456196,
+      "yes": 54,
+      "change24h": -2,
+      "vol24h": 452286,
       "headlines": [
         {
-          "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+          "title": "Fed officials backing rate hikes urge immediate action against inflation",
+          "source": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNiX1dJcExnUTU1NGlac2c0cEFsajhrY1otMXFYZVFvRHc2aGlKYWNpSjJjaXgzQUl4WDI2alpjVWlMS0xPUlNQYldzUXkyVmJJMXpmQmxqMUpOZUw4c3Y4ZXpDQ3ROTzVXVS04NmtXQzRCUF9KYkVfZUZqZHVLV0hlSXNCTFNlY1FYaGJhVVJBQ3BZd244eWFBV2JkN0Q4UTZnazJNdkx5TXJYWnVQT2w0RQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Markets whipsaw as Trump, Fed face new inflation risks",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MRFdNeFlBUW1yV29ROHF0dzBGUGhlZGI5VVBzRklVOHJkXzZxNFNqVmJId0JndDNVS2s3ckhFS3BZaHNGOFlLZWhtdHpBMDZDTGRBSGV2MkdMVGdfUzMtWTZpVzVINnpOcG5pZ0NhUQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 69,
-      "change24h": 4,
-      "vol24h": 15020,
-      "headlines": [
-        {
-          "title": "Will the Fed raise interest rates this year? Divided economists weigh in",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Markets whipsaw as Trump, Fed face new inflation risks",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MRFdNeFlBUW1yV29ROHF0dzBGUGhlZGI5VVBzRklVOHJkXzZxNFNqVmJId0JndDNVS2s3ckhFS3BZaHNGOFlLZWhtdHpBMDZDTGRBSGV2MkdMVGdfUzMtWTZpVzVINnpOcG5pZ0NhUQ?oc=5",
+          "title": "Two Fed Officials Say Inflation Should Have Prompted Higher Rates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnlWMW4zNEdrSjBES053NDFtQ01rR09vb1lTWlNYV3h3RkhfUnNDUTBaVVZyaEg4TklUbG9UdlhsYWZCTV9MQzlSREZfVTZTWHpsX0NKMGpJNG85ekhOeXRXUG1lVVd4aGJWLXRiS1V1LXpuS1FHOGFodjRvVFBWcXRqMk80RjlUaWZ5ei14ZUVXdTJWc0tIcjNGN1hWaFFkbVd3dVB2Ykc5YTBjOTRjMmpxY0syYk9XOXc?oc=5",
           "cat": "Macro"
         }
       ]
@@ -71,51 +49,76 @@
       "question": "NBA: Stephen Curry to leave Warriors?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 4,
+      "yes": 5,
       "change24h": -2,
-      "vol24h": 55483,
+      "vol24h": 40358,
       "headlines": [
         {
-          "title": "\"He's gonna get crushed\" - Draymond Green thinks LeBron James didn't join the Warriors because of their previous rivalry",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1hBeGM0aE1Ydm82dnJtWDFyTmFGTUtYMW9sQnB6Um9WY2JSemJwLXVXMkdHVDlZR1liNGcwcGRaWjUybmVKNWlFRmJhVTh5OFNmTHVpaHJTcnZsMG03dGMzLUJUdnpJQjlBdlFJWEdhdzhrNFpiblVCSGFiR1lmTUU5RHZrNnFk?oc=5",
+          "title": "“Probably the time I was the most angry” – Steve Kerr on the Draymond Green blowup that fractured the Warriors’ locker room",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLU45WnZrclpLRVU5ck1IWF9ncURLak42ZmYxaUl1N3hMSHlzS1ljdExMQmdIbzVndEdNRmVUZXI3TzlQSDJvY2w0N0FBU0k3enR1RS1KelhOUm9rak1YT2FSckdrUXVibkdUU3E0N3B2eldkWllZWWRHUlJ6MTlkRWkxaXdHYkNKWnYycllOVlRXWVc4OUlrNldUODBOZWxmSmk3dXEtZEluTVB5STJWOFVoaVUxTzdmRlJfN1dqZ0djRVJTQ3c?oc=5",
           "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 44,
+      "change24h": 1,
+      "vol24h": 504855,
+      "headlines": [
+        {
+          "title": "Fed officials backing rate hikes urge immediate action against inflation",
+          "source": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNiX1dJcExnUTU1NGlac2c0cEFsajhrY1otMXFYZVFvRHc2aGlKYWNpSjJjaXgzQUl4WDI2alpjVWlMS0xPUlNQYldzUXkyVmJJMXpmQmxqMUpOZUw4c3Y4ZXpDQ3ROTzVXVS04NmtXQzRCUF9KYkVfZUZqZHVLV0hlSXNCTFNlY1FYaGJhVVJBQ3BZd244eWFBV2JkN0Q4UTZnazJNdkx5TXJYWnVQT2w0RQ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "\"He is scared of pulling the trigger\" - Tim Hardaway thinks Mike Dunleavy Jr.'s inability to make moves is holding back Steph Curry and the Warriors",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbE1MMFk2MXdaYzlzNDBNSVJoQ0Zsd0lfZkFxekRtd3A1WFF3NHNCeWJHcTVJWV9hWEl6MVcwbHdObUt5MF9FbV93T0kzSWFZUi00b0MxRUdUWDROdVRobUh6dXFKaURGMXNkZDk5X1pRalFkVmRwVm82MjVXOVBLUWgyYWI3ZDMxREhfZW0yaG5tNFpTVUFFQ1pPNXlfc0JqbUpDZy1hUV96TEx5RE5XdWg5Mjl0NG1kR19YMFBiR09KaWtLQ0hCSzBlMV9GeFUyS25HTm44V3diMWM?oc=5",
-          "cat": "NBA"
+          "title": "Two Fed Officials Say Inflation Should Have Prompted Higher Rates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnlWMW4zNEdrSjBES053NDFtQ01rR09vb1lTWlNYV3h3RkhfUnNDUTBaVVZyaEg4TklUbG9UdlhsYWZCTV9MQzlSREZfVTZTWHpsX0NKMGpJNG85ekhOeXRXUG1lVVd4aGJWLXRiS1V1LXpuS1FHOGFodjRvVFBWcXRqMk80RjlUaWZ5ei14ZUVXdTJWc0tIcjNGN1hWaFFkbVd3dVB2Ykc5YTBjOTRjMmpxY0syYk9XOXc?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 62,
-      "change24h": 24,
-      "vol24h": 27203,
-      "headlines": []
-    },
-    {
       "question": "Will Bitcoin reach $66,000 July 27-August 2?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
-      "yes": 10,
-      "change24h": -21,
-      "vol24h": 33885,
+      "yes": 11,
+      "change24h": -37,
+      "vol24h": 24958,
       "headlines": []
     },
     {
-      "question": "No change in Bank of England’s interest rates after September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-september-2026-meeting-20260623013424711",
-      "yes": 86,
-      "change24h": 12,
-      "vol24h": 9797,
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 63,
+      "change24h": 27,
+      "vol24h": 29313,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
+      "yes": 23,
+      "change24h": 10,
+      "vol24h": 33438,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
+      "yes": 82,
+      "change24h": -9,
+      "vol24h": 17825,
       "headlines": []
     },
     {
@@ -124,43 +127,25 @@
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "yes": 57,
       "change24h": 9,
-      "vol24h": 13654,
+      "vol24h": 13027,
       "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on August 4?",
+      "question": "Will Bitcoin reach $68,000 July 27-August 2?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-4-2026",
-      "yes": 14,
-      "change24h": -8,
-      "vol24h": 9183,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-27-august-2-2026",
+      "yes": 1,
+      "change24h": -6,
+      "vol24h": 30670,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $1,800 July 27-August 2?",
+      "question": "Will Ethereum reach $2,100 July 27-August 2?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-july-27-august-2-2026",
-      "yes": 15,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2100-july-27-august-2-2026",
+      "yes": 1,
       "change24h": -5,
-      "vol24h": 13556,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
-      "yes": 20,
-      "change24h": -4,
-      "vol24h": 27401,
-      "headlines": []
-    },
-    {
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 21,
-      "change24h": 4,
-      "vol24h": 22637,
+      "vol24h": 8846,
       "headlines": []
     }
   ]
