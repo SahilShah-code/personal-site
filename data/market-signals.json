@@ -1,25 +1,63 @@
 {
-  "updated": "2026-07-31T13:26:21.266Z",
+  "updated": "2026-07-31T19:03:39.316Z",
   "withNews": [
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 53,
-      "change24h": -3,
-      "vol24h": 12406,
+      "question": "Will Bitcoin reach $66,000 July 27-August 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
+      "yes": 3,
+      "change24h": -35,
+      "vol24h": 26935,
       "headlines": [
         {
-          "title": "Fed officials backing rate hikes urge immediate action against inflation",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNiX1dJcExnUTU1NGlac2c0cEFsajhrY1otMXFYZVFvRHc2aGlKYWNpSjJjaXgzQUl4WDI2alpjVWlMS0xPUlNQYldzUXkyVmJJMXpmQmxqMUpOZUw4c3Y4ZXpDQ3ROTzVXVS04NmtXQzRCUF9KYkVfZUZqZHVLV0hlSXNCTFNlY1FYaGJhVVJBQ3BZd244eWFBV2JkN0Q4UTZnazJNdkx5TXJYWnVQT2w0RQ?oc=5",
-          "cat": "Macro"
+          "title": "Cognizant Was the Best S&P 500 Stock in July. Corning and Sandisk Were the Worst.",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVGhEUlotX2ZMMUdGWE9JNThQMWVKWXV6TjlmWklKQnhzQkdjdzF3QjZhLV8xYk5OMnh3RWtJZ296OHRRVy1yZE1NdFE5ZjA4aVhZbDhwcEF3NzBRbEZaaTUyMEk5RkNwYjVURkIxWTVleENhX2JDelZnWQ?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "Two Fed Officials Say Inflation Should Have Prompted Higher Rates",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnlWMW4zNEdrSjBES053NDFtQ01rR09vb1lTWlNYV3h3RkhfUnNDUTBaVVZyaEg4TklUbG9UdlhsYWZCTV9MQzlSREZfVTZTWHpsX0NKMGpJNG85ekhOeXRXUG1lVVd4aGJWLXRiS1V1LXpuS1FHOGFodjRvVFBWcXRqMk80RjlUaWZ5ei14ZUVXdTJWc0tIcjNGN1hWaFFkbVd3dVB2Ykc5YTBjOTRjMmpxY0syYk9XOXc?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 77,
+      "change24h": 29,
+      "vol24h": 37877,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
+      "yes": 32,
+      "change24h": 21,
+      "vol24h": 51015,
+      "headlines": [
+        {
+          "title": "Cognizant Was the Best S&P 500 Stock in July. Corning and Sandisk Were the Worst.",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kVGhEUlotX2ZMMUdGWE9JNThQMWVKWXV6TjlmWklKQnhzQkdjdzF3QjZhLV8xYk5OMnh3RWtJZ296OHRRVy1yZE1NdFE5ZjA4aVhZbDhwcEF3NzBRbEZaaTUyMEk5RkNwYjVURkIxWTVleENhX2JDelZnWQ?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -27,37 +65,21 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 54,
-      "change24h": -2,
-      "vol24h": 452286,
+      "yes": 56,
+      "change24h": 4,
+      "vol24h": 227592,
       "headlines": [
         {
-          "title": "Fed officials backing rate hikes urge immediate action against inflation",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNiX1dJcExnUTU1NGlac2c0cEFsajhrY1otMXFYZVFvRHc2aGlKYWNpSjJjaXgzQUl4WDI2alpjVWlMS0xPUlNQYldzUXkyVmJJMXpmQmxqMUpOZUw4c3Y4ZXpDQ3ROTzVXVS04NmtXQzRCUF9KYkVfZUZqZHVLV0hlSXNCTFNlY1FYaGJhVVJBQ3BZd244eWFBV2JkN0Q4UTZnazJNdkx5TXJYWnVQT2w0RQ?oc=5",
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Two Fed Officials Say Inflation Should Have Prompted Higher Rates",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnlWMW4zNEdrSjBES053NDFtQ01rR09vb1lTWlNYV3h3RkhfUnNDUTBaVVZyaEg4TklUbG9UdlhsYWZCTV9MQzlSREZfVTZTWHpsX0NKMGpJNG85ekhOeXRXUG1lVVd4aGJWLXRiS1V1LXpuS1FHOGFodjRvVFBWcXRqMk80RjlUaWZ5ei14ZUVXdTJWc0tIcjNGN1hWaFFkbVd3dVB2Ykc5YTBjOTRjMmpxY0syYk9XOXc?oc=5",
+          "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEZKWm9naG50NzZVZVZJYmFwZ3RKU3Z3VFBiUFM3SUNyUkFwZnBubVpZNHRvdlRHUWlGMGRxUG9nM2ZMV3lhcWZIbTFGVkp1WjJoVzlaQlZGV0ktU09udTFjOUFtazE2eWVzbUNFWmdWMG1NbTFnVWVrdlcxdjFxeUdZNGg4QkdRLXRiN0FoeDZtaGxjT0ZpcA?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "NBA: Stephen Curry to leave Warriors?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 5,
-      "change24h": -2,
-      "vol24h": 40358,
-      "headlines": [
-        {
-          "title": "“Probably the time I was the most angry” – Steve Kerr on the Draymond Green blowup that fractured the Warriors’ locker room",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLU45WnZrclpLRVU5ck1IWF9ncURLak42ZmYxaUl1N3hMSHlzS1ljdExMQmdIbzVndEdNRmVUZXI3TzlQSDJvY2w0N0FBU0k3enR1RS1KelhOUm9rak1YT2FSckdrUXVibkdUU3E0N3B2eldkWllZWWRHUlJ6MTlkRWkxaXdHYkNKWnYycllOVlRXWVc4OUlrNldUODBOZWxmSmk3dXEtZEluTVB5STJWOFVoaVUxTzdmRlJfN1dqZ0djRVJTQ3c?oc=5",
-          "cat": "NBA"
         }
       ]
     },
@@ -65,20 +87,42 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 44,
-      "change24h": 1,
-      "vol24h": 504855,
+      "yes": 41,
+      "change24h": -4,
+      "vol24h": 178857,
       "headlines": [
         {
-          "title": "Fed officials backing rate hikes urge immediate action against inflation",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTNiX1dJcExnUTU1NGlac2c0cEFsajhrY1otMXFYZVFvRHc2aGlKYWNpSjJjaXgzQUl4WDI2alpjVWlMS0xPUlNQYldzUXkyVmJJMXpmQmxqMUpOZUw4c3Y4ZXpDQ3ROTzVXVS04NmtXQzRCUF9KYkVfZUZqZHVLV0hlSXNCTFNlY1FYaGJhVVJBQ3BZd244eWFBV2JkN0Q4UTZnazJNdkx5TXJYWnVQT2w0RQ?oc=5",
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Two Fed Officials Say Inflation Should Have Prompted Higher Rates",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnlWMW4zNEdrSjBES053NDFtQ01rR09vb1lTWlNYV3h3RkhfUnNDUTBaVVZyaEg4TklUbG9UdlhsYWZCTV9MQzlSREZfVTZTWHpsX0NKMGpJNG85ekhOeXRXUG1lVVd4aGJWLXRiS1V1LXpuS1FHOGFodjRvVFBWcXRqMk80RjlUaWZ5ei14ZUVXdTJWc0tIcjNGN1hWaFFkbVd3dVB2Ykc5YTBjOTRjMmpxY0syYk9XOXc?oc=5",
+          "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEZKWm9naG50NzZVZVZJYmFwZ3RKU3Z3VFBiUFM3SUNyUkFwZnBubVpZNHRvdlRHUWlGMGRxUG9nM2ZMV3lhcWZIbTFGVkp1WjJoVzlaQlZGV0ktU09udTFjOUFtazE2eWVzbUNFWmdWMG1NbTFnVWVrdlcxdjFxeUdZNGg4QkdRLXRiN0FoeDZtaGxjT0ZpcA?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 56,
+      "change24h": 4,
+      "vol24h": 12068,
+      "headlines": [
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEZKWm9naG50NzZVZVZJYmFwZ3RKU3Z3VFBiUFM3SUNyUkFwZnBubVpZNHRvdlRHUWlGMGRxUG9nM2ZMV3lhcWZIbTFGVkp1WjJoVzlaQlZGV0ktU09udTFjOUFtazE2eWVzbUNFWmdWMG1NbTFnVWVrdlcxdjFxeUdZNGg4QkdRLXRiN0FoeDZtaGxjT0ZpcA?oc=5",
           "cat": "Macro"
         }
       ]
@@ -86,66 +130,21 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $66,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
-      "yes": 11,
-      "change24h": -37,
-      "vol24h": 24958,
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 27,
+      "change24h": 14,
+      "vol24h": 20831,
       "headlines": []
     },
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 63,
-      "change24h": 27,
-      "vol24h": 29313,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
-      "yes": 23,
-      "change24h": 10,
-      "vol24h": 33438,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
-      "yes": 82,
-      "change24h": -9,
-      "vol24h": 17825,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
       "yes": 57,
-      "change24h": 9,
-      "vol24h": 13027,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $68,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-27-august-2-2026",
-      "yes": 1,
-      "change24h": -6,
-      "vol24h": 30670,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,100 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2100-july-27-august-2-2026",
-      "yes": 1,
-      "change24h": -5,
-      "vol24h": 8846,
+      "change24h": 6,
+      "vol24h": 27901,
       "headlines": []
     }
   ]
