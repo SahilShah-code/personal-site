@@ -1,69 +1,125 @@
 {
-  "updated": "2026-08-01T01:30:42.077Z",
-  "withNews": [],
-  "moversOnly": [
+  "updated": "2026-08-01T07:59:00.675Z",
+  "withNews": [
+    {
+      "question": "Will the price of Bitcoin be above $64,000 on August 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-4-2026",
+      "yes": 29,
+      "change24h": -20,
+      "vol24h": 18962,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 17,
+      "change24h": -12,
+      "vol24h": 54104,
+      "headlines": [
+        {
+          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Could Infantino lose FIFA presidency after World Cup plans were rejected?",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRF9wWmJRMmlXTXhQblNNMGZWai1SdVpxTTItR1U3ZHlRVnpDN3QycklNMlJ5TXgtSEUtRVpwNDJ4ZUtHZEVkZlRBaUo3ZGd3aEF0blpDaGFXYm5SUGpHRWlSWjNwNmFna3ZielJqdEtQOGFSR3JWSkdlVFQyY2M3VkNnOERXNV9FX3ZTbTc1WWNQYW5uQlZNR2ljYUtBZExuLU01dUFqWWlIbmo1UnR1R1JRSmJHMEdGZGhIOUVsY0RIczZXcUxWcUdvWTM?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin reach $66,000 July 27-August 2?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-july-27-august-2-2026",
       "yes": 2,
-      "change24h": -53,
-      "vol24h": 26912,
-      "headlines": []
+      "change24h": -11,
+      "vol24h": 26103,
+      "headlines": [
+        {
+          "title": "Jeff Bezos Stepped Down as Amazon CEO 5 Years Ago, and the Stock Has Lagged the S&P 500 Since. Could Amazon's 15.3% Gain on July 31 Mark a Turning Point?",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlk4eWtJX2Z2LWVWc3NLYU5kdzdrWmVxQTV6Q1AyV0tIelEzNkhFdHFqdE1ITFRjcHAzcFl1Wm1zRXBYSXY3OXliWjRleXh3N09Db2lISzluSlhnRFBnU1BQRjZfMDA3Snk0NWJBRWRHaFVQdFV2c0l1NnVfR29ISmN2VnBCcXFpYkxoQUNLOFJzck9Fd0hQMQ?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq rise to cap volatile July as Big Tech AI spending ramps up",
+          "source": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5",
+          "cat": "Markets"
+        }
+      ]
     },
     {
       "question": "Will the price of Bitcoin be above $66,000 on August 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-4-2026",
       "yes": 5,
-      "change24h": -29,
-      "vol24h": 8980,
-      "headlines": []
+      "change24h": -11,
+      "vol24h": 10275,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
-      "question": "Will Bitcoin dip to $62,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-july-27-august-2-2026",
-      "yes": 34,
-      "change24h": 26,
-      "vol24h": 54421,
-      "headlines": []
+      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
+      "yes": 22,
+      "change24h": -10,
+      "vol24h": 9492,
+      "headlines": [
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed dissenters sketch the case for a rate hike",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25VV3BZYTRTR0tleWcwS2xYd09XMTFncG5tdWF4T1lWRHg3dWxISXByaHJtWlpFeVlrdFBNNk16TTJzT2IxOEkxRFBrYlI2a1lSZ2h3R29VY1RwRnJtODJFWWsybjVmMnFGSFFVMElaZVVlOHk0cTBLYnhtZWljNThiWmotS0JIYVVIc0YzTXRsWDd5NjY4SzJveFY0M3JyRDFnRzU3ZGhjZ3Fq?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
-      "yes": 72,
-      "change24h": -20,
-      "vol24h": 15379,
-      "headlines": []
-    },
-    {
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 20,
-      "change24h": -12,
-      "vol24h": 22905,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 72,
-      "change24h": 10,
-      "vol24h": 27775,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $68,000 July 27-August 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-68k-july-27-august-2-2026",
-      "yes": 1,
-      "change24h": -8,
-      "vol24h": 32597,
-      "headlines": []
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 61,
+      "change24h": 8,
+      "vol24h": 30884,
+      "headlines": [
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed dissenters sketch the case for a rate hike",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25VV3BZYTRTR0tleWcwS2xYd09XMTFncG5tdWF4T1lWRHg3dWxISXByaHJtWlpFeVlrdFBNNk16TTJzT2IxOEkxRFBrYlI2a1lSZ2h3R29VY1RwRnJtODJFWWsybjVmMnFGSFFVMElaZVVlOHk0cTBLYnhtZWljNThiWmotS0JIYVVIc0YzTXRsWDd5NjY4SzJveFY0M3JyRDFnRzU3ZGhjZ3Fq?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
@@ -71,7 +127,72 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 60,
       "change24h": 7,
-      "vol24h": 333386,
+      "vol24h": 279451,
+      "headlines": [
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed dissenters sketch the case for a rate hike",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25VV3BZYTRTR0tleWcwS2xYd09XMTFncG5tdWF4T1lWRHg3dWxISXByaHJtWlpFeVlrdFBNNk16TTJzT2IxOEkxRFBrYlI2a1lSZ2h3R29VY1RwRnJtODJFWWsybjVmMnFGSFFVMElaZVVlOHk0cTBLYnhtZWljNThiWmotS0JIYVVIc0YzTXRsWDd5NjY4SzJveFY0M3JyRDFnRzU3ZGhjZ3Fq?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 6,
+      "change24h": 1,
+      "vol24h": 19783,
+      "headlines": [
+        {
+          "title": "NFL Mailbag: Cowboys, Taylor, Colts, Carter, Eagles, Browns, Clowney",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2tFY2loRlNycDRkMzAxNTBFNlhXQ0hYaFJ2NjFqanFRSnMzdjJKWFdLZkZuWmlPSmU3UUU0N2JUeGNwaC1YY1dfbnlvdi1nSGVhNU1Od2xTSHI5Y2hnRnZoUURxVkVRWmpMWlV2SldsTTQ4b0pSUHRJMG5MR016X2JaOC1WSjlLcURPVXY3VjBScVJvTkJXMktJOE5wTFc5WmYxMURn?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 7,
+      "change24h": 0,
+      "vol24h": 12028,
+      "headlines": [
+        {
+          "title": "Chiefs Fans Concerned After Rashee Rice's Slow Practice Video Amid Rehab",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOU9YQnpwYmt2eFhFVnVZbWdJMFNqWkdzelRJU2Y1aGtGVnlBSDQ5czlOT2FfYnR5NmxFWElKRFdkOGc2cERyTlpxYkN6dU9WMHpIY3UtcmJHa0N2WjMwQkVkMWNFbUd2RHVqaFZEeTA5aFBpLWlrWl9RSmFtcEpLVTNTY2lsU01pbVk0?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "Will South Korea GDP growth in Q3 2026 be between 2.0% and 2.4%?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-south-korea-gdp-growth-in-q3-2026-be-between-2pt0-and-2pt4-20260723231127766",
+      "yes": 7,
+      "change24h": -20,
+      "vol24h": 7797,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-70000-by-december-31-2026-from-june-8",
+      "yes": 69,
+      "change24h": -5,
+      "vol24h": 10586,
       "headlines": []
     }
   ]

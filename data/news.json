@@ -1,45 +1,341 @@
 {
-  "updated": "2026-08-01T01:30:41.643Z",
+  "updated": "2026-08-01T07:59:00.160Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": []
+      "items": [
+        {
+          "title": "Larry Bird shut down the comparisons before his rookie season: \"I don't care who they are comparing me with\"",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaTM0Zk9qZkZua193VVJwVzZ2SGloaFVmOVdydkNvY0ZQbXRJM292NWQyU3IyemZWaDYxVExKT0FSemFvcWZLQ0VBc0RUa2J2T3otNVpXS2ZveEQ4RHcwdUVwZUZBeFhaMHpxbzFfT1FTVXBNRnpZeUpxR3NiYkQ4dmtlS0pUdDk3?oc=5",
+          "ts": 1785561045000
+        },
+        {
+          "title": "\"He had a black eye, but we were back frying shrimps and cooking salads\" - Jerry Stackhouse details his craziest NBA fights",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnh5b09reGFQVTBrQkNLc3llNjROTmNibTNFa200R053a0o5ckc5ZUc1aFhxQzNkOWtlQUZxelZPQUZIWHdrZUZhcnQzN21VYXRPYmVPbHM1a0JNcTZDb3BDV2l4a212UWVrOHFGZzZ3SC0yQk5mNnRjZkc3NFAxdl9uU3NIaDVxdDdpZWFHWW9xOUFjTWFfaA?oc=5",
+          "ts": 1785550980000
+        },
+        {
+          "title": "Bennedict Mathurin to Bulls? What I’m hearing about Chicago’s interest",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcENpVFFnc0IzQnVVTTVmX3pSeVZlWTBwbDlNUnRGQ003V1JsblZZMTFXQ3ZVaU1fYWJOVlc0cmFTQkNueHVZS0EzN3p2eU1TN2ZybGktNHRYbmNsZkRxR3VvdFJzSC1NMDd4OVo4YVdNeHhBVFVqcXViVllNQ0N0NkZYTXl6NjNPVDJ1T0tHb3d5Unh4MUdv?oc=5",
+          "ts": 1785548369000
+        },
+        {
+          "title": "Larry Bird shut down the comparisons before his rookie season: \"I don't care who they are comparing me with\":",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHk3QURTcDBYWVhkazhVNFk2Z3hCdm1LdF9fZ0VTUzFVbUd5Wjl0cFVNSy1TYUtsY05DNjJTTC1pZG5Eb0RxZ0o1cnhvd1k0Nmd5NU9xaFpQRDkyT2xIZVdEazNkTE90SWRoT3lCNWE0ZFNBRXFrNkpDOVFzZ1g1ZE95VHFjVVJWUVo2LTQtRXg2SlFKU2xwM3Rxdk9tdlJfN2luNGNFaFR0dw?oc=5",
+          "ts": 1785548100000
+        },
+        {
+          "title": "Dennis Rodman Reflects on Being Homeless Before Basketball Career: ‘I Made It Out’",
+          "source": "Complex",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQTRLbm43U19SRkFmaU1LcGUzVmVxdy0xYm9zdjhEaEhYNHpCZTFCanFfWDJjOVFHN0ZUd1NiVV9fR09ncGN1V1pJMzZnOWQ2c1BrNXNiUlE2aEpKQzAzQ09LRHBvMUhZcm9Edk1SNDRqSVVHcVE2ZVdkRElyMWJKQWpxMldKR2daY2pCeG9VTEpfS1lRNy1MaXpB?oc=5",
+          "ts": 1785547851000
+        },
+        {
+          "title": "Michigan basketball set to add NBA G League coach to staff",
+          "source": "Detroit Free Press",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNem1rQ1hsd09CcUljX0JEM1JnV20zVUtMRDF6VVMzalpUUG5BV2UtQ0xhUVA2WTdtck1mRDFKZ1dXS0Z1M2RZYW52c2dVZGt0YlJLWk4yWkg5ZENVY0dqajJNUF9UdDI1emk5U3RNT1pjdTVJRExmVzZQOGJCRHdTeVMwYmpwdlV4bjBIYzRGUUVYdzk0UnhSWi05RzNmVmRzaW5Wb2hjNGViTjlnS2FPQTBnclFtMlN2RUFtNzFHcHVHSDZGRFpFU1pNcUg1cGZPbHprUUh5NHdzdm9qdXpMZWRrZVpMbGp5cTNHc1YxeXJlZw?oc=5",
+          "ts": 1785544800000
+        }
+      ]
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": []
+      "items": [
+        {
+          "title": "NFL Mailbag: Cowboys, Taylor, Colts, Carter, Eagles, Browns, Clowney",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU2tFY2loRlNycDRkMzAxNTBFNlhXQ0hYaFJ2NjFqanFRSnMzdjJKWFdLZkZuWmlPSmU3UUU0N2JUeGNwaC1YY1dfbnlvdi1nSGVhNU1Od2xTSHI5Y2hnRnZoUURxVkVRWmpMWlV2SldsTTQ4b0pSUHRJMG5MR016X2JaOC1WSjlLcURPVXY3VjBScVJvTkJXMktJOE5wTFc5WmYxMURn?oc=5",
+          "ts": 1785568115000
+        },
+        {
+          "title": "Chiefs Fans Concerned After Rashee Rice's Slow Practice Video Amid Rehab",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOU9YQnpwYmt2eFhFVnVZbWdJMFNqWkdzelRJU2Y1aGtGVnlBSDQ5czlOT2FfYnR5NmxFWElKRFdkOGc2cERyTlpxYkN6dU9WMHpIY3UtcmJHa0N2WjMwQkVkMWNFbUd2RHVqaFZEeTA5aFBpLWlrWl9RSmFtcEpLVTNTY2lsU01pbVk0?oc=5",
+          "ts": 1785563131000
+        },
+        {
+          "title": "Justin Jefferson Gives Blunt Update on Vikings’ QB Competition",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRThUZUlja1Q0d2tfZnkxVS1tRFJJSHIyZEN5UmVIY1JXN0Jvb0w3RG1uaTlKSFpPT1pSZjgtQ1VhaVllczB2VEd2cy11RjMtU1lDc21SeXdKTzA0dkF2WHhkLXpwMWpXM0JqYVhnbnVHZDhIWERSU3IwUURvbEdaQjZPbFdTNF9ULTg2V3dB?oc=5",
+          "ts": 1785560100000
+        },
+        {
+          "title": "“He’s Throwing Hospital Balls”: NFL World Reacts As Carson Beck Training Footage Comes To Light",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnp2T1JGVFNaeGRibmRNdmtIMFlicG5Ca09Bak1wZTBsaUg2d0NMcTM1UXFsR2pSdEtJcTZlTVR3UjZmcVpac19FMTExZUpOWnZpY1NXSnlqZzNXX2pocnZtOHNKNW5XS3VCeVJpemxxd2xfQmRWZWxuRUJDTktmS0NPXzh6bnJMQ2c?oc=5",
+          "ts": 1785559860000
+        },
+        {
+          "title": "‘My Biggest Stressor’ — Buccaneers GM Jason Licht Breaks Silence on Baker Mayfield, Vita Vea Contract Drama",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTm9yRU9lSnhMM05wQ0wybVdaM3lZVTZ6aUZlZGlqNVB4YVZYVHpiNXczX1ZYQTBOZDE1V2ZGNHZmMmliYXZyS0JOdWNGN1AzeVUtdEl4TFpRTFg3Y2tiaTVzQXhqWHRVbWtOY3Z3RWxEY1N5TE82T2dsalVnWEE3Q1BtbXcyWXd4MXVMbnlB?oc=5",
+          "ts": 1785559320000
+        },
+        {
+          "title": "Juwan Johnson shares Saints mindset during training camp on 'The Insiders'",
+          "source": "New Orleans Saints | NewOrleansSaints.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXJRMWVBMlltM0tGSlpfWjZ2ZFpVVHVraWF2MEh1azI2QnhudUQ5MVgta2cxUzc0OFpYTU05M2J0cUZfbkhudHRoWEpCdUx1ZjR0Q05sRHBsRUtDeGpHRmhNdXBuZTg5OUM2cG9hRWJPNWN4WGdSOU8zR1NZZnM0ZHJGQlBwNlgtMkFhQUZ6WEg1NEo4WXVIc1oweVlFZw?oc=5",
+          "ts": 1785558116000
+        }
+      ]
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": []
+      "items": [
+        {
+          "title": "Alejandro Tabilo vs Ben Shelton · Quarterfinal · ATP/WTA Washington D.C.",
+          "source": "tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkp5dFBPY2NxalMzTkRaWGdETUFnT21PdU5LNDhLV0p4UEl3N0FXd2x1R1hMbG1laHg2Y0d1THlQTUpfcVVJZzVKcFM5M0RCQkE4VlBoa2ZZXzFUdDJRY2t4U2ZRQURDbnFfNFBnNXppbHdJOFlBVElWN01PamtvZkdUcEhaU2x1NkdZWWp6Y3BxMGFkM04w?oc=5",
+          "ts": 1785565852000
+        },
+        {
+          "title": "This will be the ATP Montreal and the WTA Toronto 2026: schedule, times, favorites, prize money, and where to watch",
+          "source": "Punto de Break",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaE9CQThsMnBuaTVqbV9TMzhWdDM3WUNEa1FtQnlubEZrbUlxbjZUWkNtNi1BWHR3aDlKM1B0b0l4YU45MDZyRGoyaHZRY3U4TGdaaFJvVGNXcWVKMTI4R3NZdkZSRWNmT3dXTUQ3OFRjdHBRTXN3MWRCLVVxVm90MndPQlNsU3MyMUxsM3pKRzMtM24yOGtQeElRcXMwcEthSHE4OTR6dDZoOXQ0VFRXbUhpblh6dFlOYWVsc2J4UTgyNTloYkZUZy03UUdJa3pnRU40OA?oc=5",
+          "ts": 1785326277000
+        },
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "ts": 1785308400000
+        },
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
+          "ts": 1785049200000
+        },
+        {
+          "title": "How the kingmaker of men’s tennis sent the sport into turmoil by trying to save it - The Athletic",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFdCVnh5RTVob2Z1SVJ4ZWNJeEpoSi1wb0o4eXVCSmVEdHNSbHlBNERpQTBxLUlIUlB0Sk5ubGhNeW45UUx0V1VtR3R1UFpyTGdWQ2ExOVh6MGozSnNQcWI4bllLVk55YXpnNEMxTzA2OERJamJwNGxEQ2lIbE81Z19hRnNxZDI0WkoyQU1hYjFuQUdnYTVDR2lLYzFGMWFCM2x4QWNEZFg?oc=5",
+          "ts": 1784990171000
+        },
+        {
+          "title": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
+          "source": "sportico.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3lDUndqM0kyMkhKZEprbDEwaDJMMjY0WmRYUGphSjJEYWlOWVhMYVJjYmVrbXVOSUs3NjZNZXJzTFhGUlBjQWlKN3lTQWNzMUNEdHJKU2FNZ0xBRVkwV2JMdlN6Ri1UZHNqS1dnMC1JUHJPcVVIc2JHSDJpMzdZQW1pTVdUN1V0U3c?oc=5",
+          "ts": 1784530800000
+        }
+      ]
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": []
+      "items": [
+        {
+          "title": "Soccer-FIFA Faces Fresh Transparency Calls After Retreat on World Cup Sell-Off Plan",
+          "source": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakszWVEyalZ6LXg0VG9Sb1pQNGhLdFNEaGpLRmJ4aXRXcWNKSUMtNFZLdGJLYWdTX1gzVzl4LVBjeEh3SWdJZEZOXzJ0UzA0T1h6cXNRU2luSG1rNzVpcV94dlpQYzhIRTgzLXBHczRBN3lFR3FCb0tWUmpxZmtsaVY0YXVIbHQ4REhaMjgtbk1va3Y1U05hMTZGVWdiMUhwekZneDlhbGRtWDYxNUR4d1lSSW9GY205aF83Uk55dkY1OTJMUnhJSXlWMGhyRU1COG53?oc=5",
+          "ts": 1785571018000
+        },
+        {
+          "title": "Infantino abandons plans to sell World Cup profits to private equity following massive pushback",
+          "source": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWEpDcHVOTlpQTHlKczVBamNkUWFHcUtOT2VlS1pSVlZ2VWg1QTZfLXFJZDA4VEl1eDB6c3FGbU5USlNZbjFDMXlaX0xRZHlSbmpmckh4WjF5RTZrWEFEOHh6SDVmSC0zWW9RQ2Zxd2hLajhkV1lVaTgwb3F1aC1tNWhxdUgxYlU1bVRyQnphemhPck95Mkh1bjR3?oc=5",
+          "ts": 1785569820000
+        },
+        {
+          "title": "Could Infantino lose FIFA presidency after World Cup plans were rejected?",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRF9wWmJRMmlXTXhQblNNMGZWai1SdVpxTTItR1U3ZHlRVnpDN3QycklNMlJ5TXgtSEUtRVpwNDJ4ZUtHZEVkZlRBaUo3ZGd3aEF0blpDaGFXYm5SUGpHRWlSWjNwNmFna3ZielJqdEtQOGFSR3JWSkdlVFQyY2M3VkNnOERXNV9FX3ZTbTc1WWNQYW5uQlZNR2ljYUtBZExuLU01dUFqWWlIbmo1UnR1R1JRSmJHMEdGZGhIOUVsY0RIczZXcUxWcUdvWTM?oc=5",
+          "ts": 1785569520000
+        },
+        {
+          "title": "Why Infantino's World Cup plans never considered impact on women's soccer",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTNUb1ZjRVpHZkRrTXc1QV9jcURheWV1SW14RU5HejJBYjU5cjlnNHAxeVlsMVdZZWp4YmNQTlZ1ekh6THRhYTh0UlR6VlV3emNZdEdpdnFIN1VKS0FQaWRfdlJsbC0xSWtmTzU3ZTBNbllhN1Q5UmNvc2MxbFZaMkdIMU9HLW5VWkc0Z3E2cWtudmhMX0FoTmRfUXBIMEF1OEQ1V2d3MTBvdU10MGhrN19PTXNlTW1YTXg4LXh0R1lVRlRrZ2Y0?oc=5",
+          "ts": 1785568200000
+        },
+        {
+          "title": "WCup FIFA Investors Soccer",
+          "source": "The Herald Journal",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaXFHamh0RkxVQUg0OGI3YzA0YnFtbWRiZzliRmVPaGdldmVvWDBtSHNEc3BBRXkxQTFLYkt1TjJNQ25GWkxzaERRQUpUbjNvVUlfTm5jSWtUWnUyRVVvSGgxTl9pTzV4SVpPRVVlbkVzNU9HQWdHbFk2N3NVeWlhUnJxeHBlNjdfRkZaZmdCcWlwOElHeHd3ZEQ5ckZlMUVVX1ZidFpUQlhpVzZkRHhwYQ?oc=5",
+          "ts": 1785567877000
+        },
+        {
+          "title": "Fifa scraps proposal to sell off stakes in World Cup after widespread backlash",
+          "source": "theguardian.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWJwTU5fSnh2MHpsb21ud3BvSFY1Tk95U0o5Y01tNlEyTkpyWG1temZkV2w5aVRvYUpaa3NBVnVqQUVJTmFlUnNDRnpPMkw5TDRiS2xLZGFpMWtXY2hvUi1vRWQ4S1lVcUV0elBRbUh6bVdreW5mTkRHM09GTkRsSUdCRUxsclUyZEYtaWJUUEw3UGNldUhiQlVhQkZyMU4tc21wSFVUQUtpd3BGOWhEd185LURTc280R3QwVlpqR0M?oc=5",
+          "ts": 1785567840000
+        }
+      ]
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": []
+      "items": [
+        {
+          "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
+          "source": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVkTm1TbUFoLTdFOC0ySHQtbExkcnRWZmRQQ25yWWU2WGJBRXdYeVB3MUY0OGRhbENpdmJ6VkRpT0dXZW5mLXVBRlNnVlRPaG1LVnl0cDdJT01McDF3YjBvU0pCNmZNdGI5THdFbGsyZVY5SUVOTFdEd1Y4NlFjR0hsNEhVcnRwTkpKbGoyeHB0UXQ5WWxqSFN30gGfAUFVX3lxTE5pQ0Q0Q3czMzhtWHk0S28tVFEtWVc4dVFXZTZzM3lpdk1iV3ZPbjBWV0NPR1RFLWlDUmota0FNS2lKeXR3ejNuNmNLRDlSSU1FNVBZU3RzX2RkTll4OG4zR3FfaEV6ZndXcmRYM0JYRFR1V1JZTEtIcVh5cndCMmRNUFRsd0x6V2N6UG5KSmNiVnlPZWd1M3NndkZ2bnRVVQ?oc=5",
+          "ts": 1785565273000
+        },
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "ts": 1785532868000
+        },
+        {
+          "title": "Fed dissenters sketch the case for a rate hike",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY25VV3BZYTRTR0tleWcwS2xYd09XMTFncG5tdWF4T1lWRHg3dWxISXByaHJtWlpFeVlrdFBNNk16TTJzT2IxOEkxRFBrYlI2a1lSZ2h3R29VY1RwRnJtODJFWWsybjVmMnFGSFFVMElaZVVlOHk0cTBLYnhtZWljNThiWmotS0JIYVVIc0YzTXRsWDd5NjY4SzJveFY0M3JyRDFnRzU3ZGhjZ3Fq?oc=5",
+          "ts": 1785525140000
+        },
+        {
+          "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUVkbExMY09jQWljRjRDdFVDS1lSLXJ1aWJHYVJZSC1Oa3pjanE2MnVhYmlaaVBNZGotVTVMRzJBUTAzOGp1ZElDTXpkcHRYaHQtNFhWWWVtQzJ1LXJSWTcyaHctbmYxUFJyN09Pc3NLTnpveTBoWFYwTjRmZWpWNGdpYmh3allqWnRWUHBjLU5VMHItZ0Ztb3ppZWJaNTFZdzRLdkE5NmEyUdIBrwFBVV95cUxQeHVvNi1ZVW9SY3BxN2lIYnlZaWFENVJpTmRaSlRkZUtNYTR4cVIxWXpkTl9RNjNqT2RWV1JvYm5wQmFWQ3VuUVludTlweWZfZ2p4c1BhTnlZajY3ZllZeGRzaXk5N25DWkR6QXptbzdZUXUxOWh3OVFyYzlxYWtrZ2twT2J6TzN6NzlJQ3owS3ZjQWtabDF0bVk5RVJnVGJna0o5dE1oNWhFY0FZQXJZ?oc=5",
+          "ts": 1785516690000
+        },
+        {
+          "title": "Fed rates dissenters make their case for higher rates",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ib0g2amxUcm01OGJQazMzS0pxZ3ZiVFg0X2JocVAtdzg5ZGR5ekZzNFdpYnhkVFhqenpYLXRVdGxWT3l2NlFDdnMxNXB3eUs2ZHVaVHB6a0FGV2M3VDZ6bDREdVFBbUsteU12RQ?oc=5",
+          "ts": 1785516547000
+        },
+        {
+          "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEZKWm9naG50NzZVZVZJYmFwZ3RKU3Z3VFBiUFM3SUNyUkFwZnBubVpZNHRvdlRHUWlGMGRxUG9nM2ZMV3lhcWZIbTFGVkp1WjJoVzlaQlZGV0ktU09udTFjOUFtazE2eWVzbUNFWmdWMG1NbTFnVWVrdlcxdjFxeUdZNGg4QkdRLXRiN0FoeDZtaGxjT0ZpcA?oc=5",
+          "ts": 1785514615000
+        }
+      ]
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": []
+      "items": [
+        {
+          "title": "Fear Is Driving the Stock Market. Warren Buffett Has 6 Words for Moments Exactly Like This.",
+          "source": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXk5VURTcE9pTW9pVWxEZXk1aEs3NlNTUlB5UmVsZEJmQmllM0Z5eEwyVmdSZFFlcUlfNHViaHdTOWFTUkctR05sVnBPX3VuRW1uaWlxczZIbmxrR0xoeUhTOGE3cDh3TUo0Ym5Za3lCUDNFa1RrZmlWX2RHY051OHVMOFpEbm5CZWhyNDZNZFZGVnNRMVVvZkxLVnZrdw?oc=5",
+          "ts": 1785567000000
+        },
+        {
+          "title": "Jeff Bezos Stepped Down as Amazon CEO 5 Years Ago, and the Stock Has Lagged the S&P 500 Since. Could Amazon's 15.3% Gain on July 31 Mark a Turning Point?",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlk4eWtJX2Z2LWVWc3NLYU5kdzdrWmVxQTV6Q1AyV0tIelEzNkhFdHFqdE1ITFRjcHAzcFl1Wm1zRXBYSXY3OXliWjRleXh3N09Db2lISzluSlhnRFBnU1BQRjZfMDA3Snk0NWJBRWRHaFVQdFV2c0l1NnVfR29ISmN2VnBCcXFpYkxoQUNLOFJzck9Fd0hQMQ?oc=5",
+          "ts": 1785558780000
+        },
+        {
+          "title": "Dow Jones, S&P 500, Nasdaq: Stocks rise on tech earnings; bond yields hit multi-year highs",
+          "source": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdUo1QWZFaDBOREZ5YjlSaThadzN3NjB6QnhIekQxR3ZUWkpiMl9oZEVuMjJwRWtWR0NGVWQ1N0V5ZE82Wjh1R3lSS0M4UnphanIxQWs0bDdlZVhYWWJ4ZlBNYW9CTVY0bzVfWEo3ZmlEcmVCTHFzNlJsVS0xVlpaaTc0Sy1aQ29Kc3hyM0FFNmE1VXV5WE9JbEtTdWlkdHNUSVh2N1FFbGNZeTFmay1tMEpwNlBfV2R6eTRVdVZ5eFFhSDNfMGZwV2xhaHUtb0hneGswMnA4djRyOTFvTlJGbHVrbEvSAesBQVVfeXFMTkF1TnA5eUFqTDkwSVBWNVY2LVJLLWRVQWFEcjBlQVIxZWxSdy12YjdTQTlXc0JEWnhCaF9jaGxFN1JlXzVPb3ZhTnVVYWFjSGZ1bXRpcDljb0x4bE5DUlc5UUNYSXdxSk9jMklCYWJuTXRMOERrR2tGcUplR2lTeXUtbFhHa0FOaklIelVpMmhsZnNvYjBScnRmRjVLMnhuX3FrWG9OblVnVjBLTDRmR09oc3NqNW9Gc2YyQUxlaGE4VWV3RkhtREJhS3lGSllsYWgtVk1taXJGY21aakw5cnh6eDZxU3M0TzRMNA?oc=5",
+          "ts": 1785558053000
+        },
+        {
+          "title": "Why The Bancorp Stock Beat the Market on Friday",
+          "source": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlYTzY1R0x1UDlCVlhQM0tlQ3RjeGt6VW9nVmhrWEV1MmhNN2o4eTY5YUxrRmlYWnJteDUzYjlUREVXcVFGX2RTSXJCSEd1WGdmOE5rZmVkaUd1MDZkU3UycnBLSi1iX1dmWlNaRTJOalk1ZTJfMDFOaHpIZzVvVk9sR3ZtQ0tJSkFWdG1wd2ZMbzZQUTEtOXp3?oc=5",
+          "ts": 1785539290000
+        },
+        {
+          "title": "S&P 500 Flatlines as Options Market Flashes Nervous Signals",
+          "source": "briefs.co",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM2RnSGlWZUJYbUxnaFgzQ2xkcDJBZlYyMkpGRzU5SzlpclJuRHNFZUF1QV8zaVdTdXhMaTh2VUpzZm1sYVdtR21DZjVfZjNadHBLQ1REaU4zVjBEZHZ1eVAzeEMyeFV4amEzUkRSQVpzMkxCNWY4Y210TDV2aTd4UTdQMXU4akJJRjQyTksySnA?oc=5",
+          "ts": 1785539093000
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq rise to cap volatile July as Big Tech AI spending ramps up",
+          "source": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5",
+          "ts": 1785538248000
+        }
+      ]
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": []
+      "items": [
+        {
+          "title": "Mapping AI Drug Discovery: The Companies Behind Biotech’s Most-Searched Technology",
+          "source": "geneonline.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUladk5fcG5KZ2l5d1BCRDBYZG1ZUkdKS1ZhdGJsYzFGZWxaQ2VEc1E4NUxYU3NCZ1RZRFR1M01RalhOeTdxWHM3dDJ1LUJPY1czcVlseWVXVUY3X2hGRWw5TzVTakpHcno1QndvZ2JjRmVlUU1kMVlrQ29VaXpzZjZRLUxIRkN6N0ZvbkJzd2MzOUQyOFdQNWRtMExRYWZNUURyS1JIS21iTFpn?oc=5",
+          "ts": 1785484778000
+        },
+        {
+          "title": "Celebrating Philly’s Life Sciences Leaders Among the 2026 Best Places to Work",
+          "source": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVVyQ2lkeG11WUhUNGZGVE9uTjBuemQ3Vm9nUjRITmpkT1RBajVLN0NvX045QjdlZ0cwSnU3U3M1MHplYjlaeXhGYmZ6a3Q0bmNtQXRqQ3RBZlVMcWt4YmhUR2J4dFdJWjlBRElwN1J1aTBBc19EaW9zME1iNEd5YXpnUkNvb0JmYU1kcVFfVmNOQWtBOXNMNXdsYmVkZ0xnLXQ4?oc=5",
+          "ts": 1785350183000
+        },
+        {
+          "title": "Kelun-Biotech Receives a Clinical Trial Notice for Its First Dual-payload ADC SKB565",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTRwTFNycVp1RFJNQ1NRbXBkbmZkdzE1c1dOUTB3Yl9RalBLY1llSEVvbzFwRjN6MkV3dDZMUV9jNTM5OWJvZHk2dGp4V3diMjZlS3FMODI0dFNTMVZmVzJKMFJFNXBHRDNwR181S0J1SEVVVlYxLUc3anBUNHZheElxMk9kMTB1eHZCZ3dPWGM4bEFrY0JxdWx6elVRMDlMNWNqRFRObkMtdVJWSldPc2U2eHhudlZncU14UDR1MmVBOFZuV2pHNVYtcEFhVHg5SGtwOVZldw?oc=5",
+          "ts": 1785151800000
+        },
+        {
+          "title": "MEDDDICAL Announces RWE Strategy Advisory for Biotech Clinical Development",
+          "source": "markets.businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXU3UnJSYlFzaVZ6bFd2TXBQWGpVajl3ZWxya1pYcHBNaWFCZEdQOG44bzdlcUt0aEpKZXB6aXZqbWhzZ2VaclBBa00xVkJEelZrRmhVWVNKR29kWjVSdHI1M3A3Nm5LdGNzMVNUUmpMaVhuNnJUMXk0ajJlMG1WU1ZFRVJnLTVwQlA5VWlENklOTHJSUUtPM2VWZVpmMDR2Q0V6S2VHdHdjRlpLa05NdURRMmpnMTJ6MWVoQVBLN3BWVzhPSS1zTm1HUVFhZw?oc=5",
+          "ts": 1784564874000
+        },
+        {
+          "title": "Kalshi to allow bets on clinical trials, FDA decisions",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVRoRHYyMk9HNTJuZ2VIZ085LWZTaVhFWWZUS1JfOFhkTXFHMEtROGlienlyaWg1LWVVTk9iT3lLYktoYS1YLXVTRjdzS2oyS2RKZ1VSUS1sUldDWVNLa2NOV1ZybDYxU1EyTzJYZFZaLTVTZUtmVmRhNE1ybmFXMTJfSnZRMnFXYm85Mzk2OGlVakpTNFZRMlhtTl9VWkRwbHc?oc=5",
+          "ts": 1784185200000
+        },
+        {
+          "title": "Kalshi launches biotech prediction markets pilot program",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWY0SnBXY24zZl9HNmNRMlNKRWhpRXgtZGFPSE5UZDBDQzh4R0FVajJFMENMdTVxSjVObVlWUUtSM1dGWFNLUlRLeF90NmtXSmVpdGFnZjBOWDFrWXRncGY3OHRMbVItRDVn?oc=5",
+          "ts": 1784185200000
+        }
+      ]
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": []
+      "items": [
+        {
+          "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZnUkhSRDk0OHRSc0g5WlhaMGFLYTNYWEh3Z0xSTnRrZEFlQjNSTFNxb3FTR0RoYXJFU2dVVG13MFo2c1MzeFhfU01LSnZ0UXgwYXd1YTltMzBuU0xaS2gzU0pPQkhGalBGck16QmlCWjRCVWNNV2twT080TWo5V2o3eU1pdw?oc=5",
+          "ts": 1785529320000
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "ts": 1785503580000
+        },
+        {
+          "title": "FDA Advisory Committee Meetings: How They Work And Why Biotech Stocks Move",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE5WRDlZRjcxVDQzYVJDQVBqcjVMdk5GSGVvaWlfNVNiQldLMlFSTnN4QTV6OXByRjZLX3ZwWWtKdUltZEZBSGt6MVVWZndCU3QzNEJiWDNSQ3pNRW1PTC1FM25PZDdPRnRQWW9SQTF6VU8wSnVHU1praGVZM0lwRVd1al80akVRbm9hUmpXNHczQWpha1FTN3pfZmdqOXhKMjB3OXJDcl9NNUZhaktF?oc=5",
+          "ts": 1784905980000
+        },
+        {
+          "title": "Why CELC Stock Declined 15% in a Week Despite a Major FDA Win",
+          "source": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1R3al84c0lSaGF4dmlTQ241WFIxR3FnVzBWNkxjMGgxTWZvb2JfRzBsZS1XZi01VFBKa0preEZJZExXQk00RjRLbWVTd3hrNXpXU2JISEVBbmF3QWVDd08tZW93OC1qdGFqZkE3TWZQT01zX2hWN0JPRGFMZno5SEhGeTVDUU5VSjdFVXpYejQ?oc=5",
+          "ts": 1784617200000
+        },
+        {
+          "title": "Why This Biotech Stock, With Its First FDA Approval, Just Crashed By Double Digits",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0Q0VUkzM2tLWHZVdHpyeTh0aUItZllVUW1ZRHZkNzExRUd5cDNxOWd3OExaSmJTdDR3RzBHdTFJTjBhaTlOWFpKQjg0ZVFoR3hSek5SaE8xZmNPVVItWG5FOXFjeUYtZGF0RHAyUEhjY1hOZGRuQzJLeVoxNk5MR3ZuQ2k0ZDR5VUpWV0VheFo1bFdST25MQnN3?oc=5",
+          "ts": 1784098800000
+        },
+        {
+          "title": "FDA Progress Could Send This Biotech Stock Soaring To New Heights",
+          "source": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmZ5SGFxa29MTTFVaVpJTXRPY1dhZ0NKUVBURU50WmV4QUg3Xy1KZnFZZ3I3Zl9jUDM2RWRWSUU2b2tNVUM5czVwUnhVYkVXRGhwN1lnWUQ2ellNRHhNUTRqWG1yUnJBbjBQdTZfb2t2c1FfSXRxRHR0U0hWQWkzd1h0SGNvUk03RUpFZHdBdEdSeS1od0M0?oc=5",
+          "ts": 1783062000000
+        }
+      ]
     }
   ]
 }
