@@ -1,50 +1,18 @@
 {
-  "updated": "2026-08-01T18:49:54.785Z",
+  "updated": "2026-08-02T01:27:26.308Z",
   "withNews": [
-    {
-      "question": "Will the price of Bitcoin be above $64,000 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-4-2026",
-      "yes": 15,
-      "change24h": -15,
-      "vol24h": 22094,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXd3andhUlhPQmR4cDk5VGZNUm5QM2dKYkZuX2dLYkVVR1RUaXVRVVJ6WXFGS3dQNVZQN1VnNUN3cVlnaE9xNkxhek4wTGlnWUlNQnQ0Z0VMNFJuajRRRjRJNlVsU1BPMFQ5X0NfejRRNjR4ckxRZzBBWThYQTRHS2dqZDZvM25VanJ6aTcyTUhJOFQz?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
-      "yes": 61,
-      "change24h": -13,
-      "vol24h": 13027,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXd3andhUlhPQmR4cDk5VGZNUm5QM2dKYkZuX2dLYkVVR1RUaXVRVVJ6WXFGS3dQNVZQN1VnNUN3cVlnaE9xNkxhek4wTGlnWUlNQnQ0Z0VMNFJuajRRRjRJNlVsU1BPMFQ5X0NfejRRNjR4ckxRZzBBWThYQTRHS2dqZDZvM25VanJ6aTcyTUhJOFQz?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Gianni Infantino out as FIFA President by December 31?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 38,
-      "change24h": 12,
-      "vol24h": 74554,
+      "yes": 34,
+      "change24h": 9,
+      "vol24h": 63054,
       "headlines": [
         {
-          "title": "President Trump Gives One-Word Response to Infantino’s Failed World Cup Plan",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3NMdThMdXNEOEJUVWxoOHB4eFpaUktBbmVrcUlnTU12Wi1iUGF5MzZOdWwtUklIdmllNG9KRjNZZ3lQSWNvZWFWUlVrb3BZQnk3TVJqRHMzQi1QTmJBamNpejBLWThSakpoR1lEbFhjaklSWXlSSngxVUxUV2lyOFR6Tmt4cUxINEtScWhLRG9QV080NVE?oc=5",
+          "title": "What's next for FIFA president Gianni Infantino after World Cup scandal?",
+          "source": "Yardbarker",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQktEZ3ZFUDk3b0pPVzhTdTVxanRKcXN6MklQc1BWQTJ2ekdFTmI1RUtuM2hHU2dyQ083X3Z3cFoydmgwOTR0d2pSbE5DWlVQLVo1SVd2bUFtdGhaZDJJTlBKYTRwd3poSFpWY3RDbXY5Z3M5TW5NUUFKSXNGQjdxUEhkd0pZUmtPWm44M181YzYxZm9LYXQzM3V3Y2E3dnlpQlJTZHJaZTRRT05VTVZpUDhTTzlLdFdaV2ZHUllIdzRZNnRNcnZBWUVnYw?oc=5",
           "cat": "World Cup"
         },
         {
@@ -56,100 +24,78 @@
       ]
     },
     {
-      "question": "Will the Fed Pause–Pause–Pause in the next three decisions (Jul–Sep–Oct)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausepausepause-in-the-next-three-decisions-julsepoct-20260617191211941",
-      "yes": 24,
-      "change24h": -8,
-      "vol24h": 11238,
-      "headlines": [
-        {
-          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed dissenters warn against delaying higher interest rates",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
-      "yes": 69,
-      "change24h": 6,
-      "vol24h": 11415,
-      "headlines": [
-        {
-          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed dissenters warn against delaying higher interest rates",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 61,
-      "change24h": 5,
-      "vol24h": 21918,
-      "headlines": [
-        {
-          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed dissenters warn against delaying higher interest rates",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $66,000 on August 4?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-4-2026",
-      "yes": 1,
-      "change24h": -5,
-      "vol24h": 20830,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 78,
+      "change24h": 6,
+      "vol24h": 27199,
       "headlines": [
+        {
+          "title": "S&P 500 Earnings Growth Hits 47.4%, Best Since 2021 - ExxonMobil Holdings (NYSE:XOM), NVIDIA (NASDAQ:NVDA",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGRrRmFHTlFXcUlkRzdqRE8wc2YtNFNDMGk3ODVtb0ZVZGktWnRKTUFzN0RBWHdhVjZrWmxMSG1FeVZBYTZteUNQNElpVkVrc0IzYzZtMUUwb3hkemFjdnhFR2NEN3RXRkpuZUxTWk8zazdkTVEyNmZwT2tCaC1ySXRjOThYLTBZN0lXMG1VOEtENU45Z2oxZ1ZHMGVLY2JodTdkOFZ5cnc5eWFHLWZvVmhidXp6cTNkMmt5cnRLLXRBbTF1?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXd3andhUlhPQmR4cDk5VGZNUm5QM2dKYkZuX2dLYkVVR1RUaXVRVVJ6WXFGS3dQNVZQN1VnNUN3cVlnaE9xNkxhek4wTGlnWUlNQnQ0Z0VMNFJuajRRRjRJNlVsU1BPMFQ5X0NfejRRNjR4ckxRZzBBWThYQTRHS2dqZDZvM25VanJ6aTcyTUhJOFQz?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 5,
-      "change24h": 1,
-      "vol24h": 18019,
+      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
+      "yes": 75,
+      "change24h": 4,
+      "vol24h": 21261,
       "headlines": [
         {
-          "title": "Young Charles Barkley believed he could win a title in Philadelphia before his relationship with the team fell apart",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZEg2d0UzbjFGUXdHN2pKWFZVR2xZdzFiWnBUcTRSUkp0eDlWS3dmV25WREx0dGpnRkh4cDlWREV2WWVWdV9sZk1ISXlibnJGYmFfbVJVV1dCUzJMZjIxYzVQY1hLWFU2YkVqaHhhOVlIWm5VSGxYSmtwWEk2SFVEX0NPTW9NcnJ2SUxVT1ZtcDF0Si1qNDQ3RFh1WVJqaFZ6bE44eXBrUHE4YmdWT25oVTBsNmRyYWEwNjltcHV5SXlQWHZXVS1MUjdqVWswWjlHSmJ3UkxPQXZHLWRLRzhUc0o5V3VMOWxNSE53Q3o5cmp5ZFk?oc=5",
-          "cat": "NBA"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $64,000 on August 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-4-2026",
+      "yes": 24,
+      "change24h": -4,
+      "vol24h": 19203,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 68,
+      "change24h": 1,
+      "vol24h": 24605,
+      "headlines": [
+        {
+          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -159,58 +105,76 @@
       "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
       "yes": 4,
       "change24h": -1,
-      "vol24h": 12564,
+      "vol24h": 16338,
       "headlines": [
         {
-          "title": "Stephen Curry’s deal with a Chinese company puts profit over conscience",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0EzSVcxQkN3Mm5pS3R0NDVjS0c1YTFISno3TnBfMERERHZsOV9Talc3YnVmUmIwbjE3LURENTktR0tvV0FHRXlCUE83VTlsRC1aeGVOVmRLV3RkSElZWm82LS1WSnU5LTRrOURWWDBGOVkxaHN5d2VYamtBdVZFUWlwMHN5QzY1RUZCQ2lB0gGTAUFVX3lxTE9Ja3p1QlMzTU1EcFFaT2NBaXdjelhUVE9wRzlBWmh3eXZmY1ZuMWQyRWhlWnVuWlYybXAzT2RPZHhHTmxpVUxTLXo5a0tWQk5pMjdISHJZM0dyc0diUjRpeG5xSy1HR1NZWFhLeng3MFpsVGxPb01uckdFNmp1eGxoZHVVamlUT2NGaWRrUkxxaU1LNA?oc=5",
+          "title": "Warriors re-sign guards De'Anthony Melton, Gary Payton II",
+          "source": "Sportsnet.ca",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVElKbDRKTG9qOW84RGZqRVhlZUZsWnd1alVyLXFFMUloN1hkMWNUaWlReDZaNXdYR0RHLUdQX1c0WTZKWlBUTkJRWnlZYnlGU3R5NGtaX3A2b0xBaGFkX2NYVzFiRm1RR2VLLWEzdXp2eUN0MWVveGJabUFHUWVwcFhxVTYwYnFxMXRyUlpoX1FWemZkNUhQcg?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
-      "yes": 8,
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 30466,
+      "vol24h": 83284,
       "headlines": [
         {
-          "title": "NFL news, live updates: Ricky Pearsall to miss season for 49ers; Bills' C.J. Gardner-Johnson, Chiefs rookie Cyrus Allen carted off with injuries",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNEtldVQxTWdjRzlpRGJraG1wRnJxbnBhdjU4T2dZeXBpUFhuM09oUHc5SWlBTDhUOE1KNWt3RlF3UVhGT0RwQXZ5OGJrTGV3b3FoMFZ0dHJkSEdFelBwUTRQeHpVN2VKTmNHTFMyMmlYeEFqSUVyTm9zaXhZVWRBMTJ6MUc4bXRoemVPTEdOdmNYc1hqMHBEUVZaOEZTLU5OZDk3TldweU5Sai0zaUY3RFVqUC1lX0RJR0dOS1AxN282WnZvRW5SalpfWlpMNXFHeDZhd3VIY2NXUlowTlBEVDFiRVRaSEV1SzVDR3FXcTczVmF4SVRZR283c0ZDSld0Q0UwZWVFUVVUTXZiY1NSbklzN04?oc=5",
-          "cat": "NFL"
+          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 7,
+      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 13022,
+      "vol24h": 67684,
       "headlines": [
         {
-          "title": "NFL news, live updates: Ricky Pearsall to miss season for 49ers; Bills' C.J. Gardner-Johnson, Chiefs rookie Cyrus Allen carted off with injuries",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNEtldVQxTWdjRzlpRGJraG1wRnJxbnBhdjU4T2dZeXBpUFhuM09oUHc5SWlBTDhUOE1KNWt3RlF3UVhGT0RwQXZ5OGJrTGV3b3FoMFZ0dHJkSEdFelBwUTRQeHpVN2VKTmNHTFMyMmlYeEFqSUVyTm9zaXhZVWRBMTJ6MUc4bXRoemVPTEdOdmNYc1hqMHBEUVZaOEZTLU5OZDk3TldweU5Sai0zaUY3RFVqUC1lX0RJR0dOS1AxN282WnZvRW5SalpfWlpMNXFHeDZhd3VIY2NXUlowTlBEVDFiRVRaSEV1SzVDR3FXcTczVmF4SVRZR283c0ZDSld0Q0UwZWVFUVVUTXZiY1NSbklzN04?oc=5",
-          "cat": "NFL"
+          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 14021,
+      "headlines": [
+        {
+          "title": "Warriors re-sign guards De'Anthony Melton, Gary Payton II",
+          "source": "Sportsnet.ca",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVElKbDRKTG9qOW84RGZqRVhlZUZsWnd1alVyLXFFMUloN1hkMWNUaWlReDZaNXdYR0RHLUdQX1c0WTZKWlBUTkJRWnlZYnlGU3R5NGtaX3A2b0xBaGFkX2NYVzFiRm1RR2VLLWEzdXp2eUN0MWVveGJabUFHUWVwcFhxVTYwYnFxMXRyUlpoX1FWemZkNUhQcg?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 56,
-      "change24h": 10,
-      "vol24h": 17450,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
