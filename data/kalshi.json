@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-02 19:45 UTC",
-  "net_return_pct": -9.5,
-  "realized_return_pct": -9.5,
+  "updated": "2026-08-02 20:54 UTC",
+  "net_return_pct": -10.6,
+  "realized_return_pct": -10.6,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 47.2,
-  "settled_total": 53,
+  "win_rate_pct": 46.3,
+  "settled_total": 54,
   "curve": [
     0,
     -100,
@@ -59,10 +59,18 @@
     -7.1,
     -6.2,
     -7.9,
-    -9.5
+    -9.5,
+    -10.6
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Will Rinky Hijikata win the Munar vs Hijikata: Round Of 128 match?",
+      "ticker": "KXATPMATCH-26AUG01MUNHIJ-HIJ",
+      "result": "no",
+      "date": "2026-08-02",
+      "return_pct": -100
+    },
     {
       "title": "What will be LeBron James's next team?",
       "ticker": "KXNEXTTEAMNBA-26LJAM-MIA",
@@ -195,13 +203,6 @@
       "result": "no",
       "date": "2026-06-17",
       "return_pct": 80.5
-    },
-    {
-      "title": "Austria vs Jordan Winner?",
-      "ticker": "KXWCGAME-26JUN17AUTJOR-JOR",
-      "result": "no",
-      "date": "2026-06-17",
-      "return_pct": 122
     }
   ]
 }
