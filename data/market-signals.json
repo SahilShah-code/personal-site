@@ -1,77 +1,169 @@
 {
-  "updated": "2026-08-03T01:28:44.684Z",
-  "withNews": [],
+  "updated": "2026-08-03T08:57:30.913Z",
+  "withNews": [
+    {
+      "question": "Will Ethereum reach $2,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
+      "yes": 52,
+      "change24h": -11,
+      "vol24h": 21297,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $65,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026",
+      "yes": 67,
+      "change24h": -10,
+      "vol24h": 12078,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $1,800 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-august-2026",
+      "yes": 87,
+      "change24h": 10,
+      "vol24h": 8677,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 56,
+      "change24h": -2,
+      "vol24h": 301708,
+      "headlines": [
+        {
+          "title": "US Fed Reserve’s inflation challenge",
+          "source": "Gulf Today",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXhDZjRaa0h1Y0c5X1FEUFBuMkhNWFExVDFGWkwxSy0zcS1zX1lRUkRSSGVDdVg5TkNZOGFGY2d1VERiQ09DejJUNk1xcG5Lc0pvX3RTUHBYQzI2RklNeXdSVUNfb1RqSy1xdFJxYVVkb3Z6RkdDQ2RtaGNZaHhJcERyZTRtQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 42,
+      "change24h": 2,
+      "vol24h": 232198,
+      "headlines": [
+        {
+          "title": "US Fed Reserve’s inflation challenge",
+          "source": "Gulf Today",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXhDZjRaa0h1Y0c5X1FEUFBuMkhNWFExVDFGWkwxSy0zcS1zX1lRUkRSSGVDdVg5TkNZOGFGY2d1VERiQ09DejJUNk1xcG5Lc0pvX3RTUHBYQzI2RklNeXdSVUNfb1RqSy1xdFJxYVVkb3Z6RkdDQ2RtaGNZaHhJcERyZTRtQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 37,
+      "change24h": 2,
+      "vol24h": 29378,
+      "headlines": [
+        {
+          "title": "Wales withdraws support for Infantino re-election after FIFA stake plan collapses",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHoyYXVud3NrcC03c0FNa1BBbEZFT0dsaHphTDBmQ3ZBRDRsNm00UjJja3NKTWdRS1hwLUYtOEc5QS03Z281Z01JQTNMU1RmanNQSE9iaXNLa3lVSFdpenhkLTR3ZkhFZlQ3Z2RtZU12ZU9jSFFweW1lclZuMi1SN2k5T001RWI5V3Q1QWxQTWdRdkFwYy16bm5xc2RkLVZzc2cwdF92UFNZeVR5eWlHcXlzNTlMdTBheDIxUVVjN1E0Z0tQ?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Football Association of Wales withdraws support for Gianni Infantino re-election",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2hIVzBtQnJXR2JIZmszOVFkV0R0REdHcWZWN0p6WGZwRHhta3ZIeGE4eG4wZFpwSjhDTW1CUWNVeU1ScklpcnZjTk9QQXMzaE5qd1RkdkpnNGZoa0tha3haS0g2UDJ1VmozRjVNc0pJak54RXNkaHVPcTFULWdqVXJFcXJjNXVDcnRBTHBxTGVTaVZjbkMybnVjaENabFVYMlFxSEp0dW9yS1VRakE1WnE5RE5CV3pmWUFsZ2RHQ3pDQ19UWkRSUDBaQ1JoYVJW?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 57,
+      "change24h": -2,
+      "vol24h": 15520,
+      "headlines": [
+        {
+          "title": "US Fed Reserve’s inflation challenge",
+          "source": "Gulf Today",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXhDZjRaa0h1Y0c5X1FEUFBuMkhNWFExVDFGWkwxSy0zcS1zX1lRUkRSSGVDdVg5TkNZOGFGY2d1VERiQ09DejJUNk1xcG5Lc0pvX3RTUHBYQzI2RklNeXdSVUNfb1RqSy1xdFJxYVVkb3Z6RkdDQ2RtaGNZaHhJcERyZTRtQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    }
+  ],
   "moversOnly": [
-    {
-      "question": "Will The Super Bowl LX Halftime Show starring Bad Bunny win Emmys 2026: Outstanding variety special (live)?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-super-bowl-lx-halftime-show-starring-bad-bunny-win-emmys-2026-outstanding-variety-special-live-20260709174233247",
-      "yes": 74,
-      "change24h": -22,
-      "vol24h": 18489,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $1,800 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-1800-on-august-4-2026",
-      "yes": 89,
-      "change24h": 11,
-      "vol24h": 8991,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
-      "yes": 84,
-      "change24h": 9,
-      "vol24h": 30702,
-      "headlines": []
-    },
     {
       "question": "Will the UK’s 2026 inflation be between 2.5% and 2.9%?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-uks-2026-inflation-be-between-2pt5-and-2pt9",
       "yes": 22,
       "change24h": -7,
-      "vol24h": 11281,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $67,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
-      "yes": 46,
-      "change24h": 6,
-      "vol24h": 26356,
+      "vol24h": 11321,
       "headlines": []
     },
     {
       "question": "Will Core CPI YoY be 2.4% in July?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-core-cpi-yoy-be-2pt4-in-july-20260714151811923",
-      "yes": 26,
-      "change24h": -6,
-      "vol24h": 16411,
+      "yes": 27,
+      "change24h": -5,
+      "vol24h": 17463,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $65,000 in August?",
+      "question": "Will Bitcoin reach $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026",
-      "yes": 75,
-      "change24h": 6,
-      "vol24h": 15386,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $1,900 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-1900-in-august-2026",
-      "yes": 90,
-      "change24h": 6,
-      "vol24h": 8543,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-70000-by-december-31-2026-from-june-8",
+      "yes": 65,
+      "change24h": -4,
+      "vol24h": 15342,
       "headlines": []
     }
   ]

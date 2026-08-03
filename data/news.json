@@ -1,45 +1,341 @@
 {
-  "updated": "2026-08-03T01:28:44.235Z",
+  "updated": "2026-08-03T08:57:30.474Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": []
+      "items": [
+        {
+          "title": "“I had to do a lot of pill-taking” – Dwyane Wade on the extreme measures he took to play without a meniscus in his knee",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYWlQbTEwVTlBYTUteFJraHJMVWY0UDZzY21WVmtTclpoNlhKVlpURUV1Nk56VU1RWXJ3YXU4emFsU2dWVV9XbS12U0dYTlpnZXpoYkxlYm1SVDhMRFlGVHdIMENya0ZLUE9ieHBMOG1yclhLOVh0S0dxR3VxRmhKa2FyR2szUnhSek9hSXJJQU9KLVQycWxGdHJ3azZRT1JGZFd3NGZ2RXFjX0xfQ05PQlpVODNKX05wSmE1MHlMemVsbHl1NF9nYWJuNFBFTzZsbzZn?oc=5",
+          "ts": 1785747000000
+        },
+        {
+          "title": "LaVar Ball explains why Michael Jordan is drastically underpaid by Nike",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZlBGUHFndkRwWExUZ0s1elJvVUlLSkNzLTkyWnVPdmQzV2VoUDltcmxodzlEMUF5VnhxNDBGSDc3Mkp1ZmJaTXNRc2xRRnVCWnVwSkVhTktaTmo5V0FsZmxOSkZhRGtpQVoxcFNOM1RJQWk4Q3p0QXBLUTJWTHc0TWdkclNaMVBPckQweTNwZEh4OGZ6N0pyRTQ5NXlCMlUta2hsRG9qUVBoUy1yV0NEYmJ4X0NqdnRoTmtz?oc=5",
+          "ts": 1785744420000
+        },
+        {
+          "title": "Walter Clayton giving back to community ahead of 2nd NBA season",
+          "source": "Lakeland Ledger",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZDBTa2lhVzRmNmV6eTcyWURHZlZPWUtsZVcxcS1aa1RtcDFCcXZOZGtGc3AzVE16LUs2dDd5V3VZU1hSenpjRURBOWZreHVnSE5tVnJCSTFYRm5DR3JDUUVrQ00wU3N3VUdQZ3YyTUhqemlJQkl6LV9JNlVhMVE5VDhTVDBpbTZlMk5tM1pnVjhoVVpLTUI5ZFVXMWRpQnJua2d1ZFp5eWVYaXFwT2V6Vk1oMC1rRzdqSkF2M2RIQnp6Ulc0dW9XM254WEJ0MHExZ0Uw?oc=5",
+          "ts": 1785744120000
+        },
+        {
+          "title": "Gilbert Arenas on how $60 million deal turned him into a locker room nightmare in Washington: \"I am a superstar now\"",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWW9XRzZSLUJfRnpVVGsweGlWbEUyajR5c3paQllFWnRrUk9iTk1STlhIbVVtaVFrbnk3YjdtQndjd0EzaEZ5QV91Sk1BYVl3dGd4d3RkM1FVb0luMy03bVlrMHgxOXpWdUVKYV9iMHkyYkxOSVdiblJsMEcySG4yUndGVXQza2QtbXUwcEc4b1VoaFp6aGMxMTE4WnZnQmFrYU5MXzhKY2pWNm5XSXc3cmlmdzBodUNXcDRwaUJwb0FjWTF0TTl3SVdrZUJGNEZteGc?oc=5",
+          "ts": 1785743160000
+        },
+        {
+          "title": "\"Preppy light-skinned kid from Cali\" - Dillon Brooks claims LaMelo Ball played overseas because he couldn't handle college basketball",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPakZUX2w3TzJWUnNkZDktU19MWWFKT255MXFWemxKRnhBQ0E1a3p5Y1FiYktzVHZXcjdjLXk5cnBjekl3Z0F2QU5NbDNBSnVDeWtkZV9TSFN4ZFM4TGlOdVY1MGQ3UG1aY0hlSHFOa2lTaTFWMjgyRllhbFR0MnR6bGhvTlBsV19Cak00U1dKbExQN3gyVWg2Q0xyRjI3bl9RdmRJNm9kVnJtZ0FaV2lDYnowZkRlbXBzTk1wOFpiZVk4dW5oUmQ5WEJqcW4wRlRZNVVTM3dPdXY?oc=5",
+          "ts": 1785741000000
+        },
+        {
+          "title": "“I want him as close as possible\" - Shaquille O'Neal outlines how Victor Wembanyama can evolve into an unstoppable force",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVNWYlMzQ3VETnlJTTB6a0hQYVhNY2ZVNkIxOXpVODlZYWF6SVpOemxXNG1IVE1wWEtPTnQ4QTNraW45WVRHeW5Pa2kzYlV6UEgwSU55aVk1Q3VadDZXOUxSYlcxYUU0N1ZzZU80b2lrRFJjRHNlZ2FxdldBMGxYalZOQmZsVUpXOTRnb1ZucUs3RHBKbGtGNFpTUkV1NTJnWWc0WVhzZE9RT0ZrZXo2RThhTW9OZlc2bmZZLWRsTjVNVWhQem9DMnhhUQ?oc=5",
+          "ts": 1785736860000
+        }
+      ]
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": []
+      "items": [
+        {
+          "title": "Fantasy football rankings 2026: Breakouts per the model that called Tetairoa McMillan's big year",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMndROXUzUm1Damg0UTl5RDcxQV9uNF9sc2c1Nk84V0RhSzlqaDdvZmFuXzhvckxoeGlQTENNTFpPMnFTeDlXSEI2STZOTW5wOFNmZnVWZC12eUg2NUwtRFZ5cnYzQno5ZzI5aXhZZG9JTkdWZzc2ZThlcDFfdnZnbzJRYlFQMWV5T2YtVWlKSkhHcUZkaVRCb2UyQS1aTEFEdUxMc01EdmROaGl2MnI3R0JEMGtvN0R5dVEwbVZDM21oeTVnZWpGQXNDY1FRN3BMS1UxMWhkYjQ1UWs?oc=5",
+          "ts": 1785745092000
+        },
+        {
+          "title": "Fantasy football rankings 2026: Busts from model that nailed Terry McLaurin's down season",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmZTeFB3ZFl6TW90QWxJUW13ZmhlelZ4VUlhLXhVdVBXYjU2Qi04cTFOX2pQNGhlaWdQWGpZRHMyclFBMjhkWWlEN0lKX0RKaHBfUWdibVI2SmpMejVrd3U5b1ptMHVLRGd2cF9UNy1TcnhXYWZhbXhJVzBGYy1TUl81WFFmOWJqS3VLM2lZTzMtcWJ0bXJCNlIxeE93c0ZrUEtNMWE4c1Y1VHQzY1oyeFBLREgxMzlfX0lFeHg4Z3VRdzlRei03N0xrczFzdE5pSlE?oc=5",
+          "ts": 1785742630000
+        },
+        {
+          "title": "Fantasy football 2026 rankings, draft prep: Model reveals QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaGFCMmRBR0QyOVBvTDhNMVhiUGVHRzBENGUtbTQzbDBjcm9fZjBUa1JJZkVxeDJ2T2tkOU11QkVfckE2bmNrVkVWN0FqZ21DcTljVGw1TzJuVFk2eTR4V0RfRmF2VEhwc0VlM2sxVWpZck4zdEFqMzQzUEdLdllORm1xRmR5azZtckwxTHFkVXc4bEU4NlZwaXI5aTZnRU9fYkl3SkFFdENSSWdRM2NLd3J4U0tSZExyMXJ1d3dZcVF3aWV2UUFBYnBrMHlQenRDMXFuVEJxS2MwNy1aTGc?oc=5",
+          "ts": 1785742597000
+        },
+        {
+          "title": "Broncos Camp Football",
+          "source": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObmJ5TDY2SnlKbTBrQWdudnZuZDktclRWNHNCU2VaUGcxUWpmb1RVdHR6eldXTXMxWGpfNFgya3d5WGFtZEtNTS1MMFVxY0pTUHBiX285M3ZhY2YxT3lCMXFWU1haaEN3SU85SEpfeFNWbE1odUQ1LTEtaExBN0J5d0ZBakhLTjJ2Q29lbmdwZ1lBMXhDVEFNak1reDRiSS0xY0E0MzdR?oc=5",
+          "ts": 1785736763000
+        },
+        {
+          "title": "Texans, Jadeveon Clowney Agree To Deal",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFlETDJMUFB3VERXYlNpUmU5Y1FDeHJKYm5NZGNvM1V2WFVlNHJtbkJYQi1uUzhJRjl3YWJGQ204bzZPa1lSV2o4VHJBdXFoanpNeVhCWmhLVmxMekFFX3pVd3NyVy1HNXhlMFVxdDZrcDJRNTNqclNZS1dyZFpTQ2VKeW9NQQ?oc=5",
+          "ts": 1785733260000
+        },
+        {
+          "title": "‘Where Have They Gone?’ — Deion Sanders Takes Dig at Shedeur Sanders’ Critics for Going Silent About Browns QB",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVZTR2lWQmJZdHlQUEVUemdiZDJQN0ZsS2hIZnJHTUt5TWNPNDlaSWsySFlCZ3FURWVYYnRqampIdFFEbGRHcW5Pc0dsVWR0djJCZS1IVjlOVlhKZDhKeGpWOWNhUmI3cFJkdjl2aWdza1dNRE1xdzZBZFlHX1VlWVItWEJMdw?oc=5",
+          "ts": 1785730214000
+        }
+      ]
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": []
+      "items": [
+        {
+          "title": "Jessica Pegula vs Alexandra Eala · Final · ATP/WTA Washington D.C.",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3J2ZWZ4RXYwVmdheUxYMUUwS2plVzdRTGhGMEVZcERVMTJRSC1VY2I1bmN2U1RCRWppai1HMVo5dFVCRnM3WTZXd0lNaUx5NnNiS2c0Z2NuTjMwOWJjdzMtT2JvV0ttNUllMUEwZ0lQdlM5RFI3TFJZM3ZBSER5TDJ4RFVueGw1MXRyZHV0NUdsOVk?oc=5",
+          "ts": 1785740084000
+        },
+        {
+          "title": "Washington final delayed until Monday due to rain",
+          "source": "atptour.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRVFnbzB5V2FMUENIV3RDSEtTR0V3MmhPZjZDVkFLWG9GYnhPdUx3bDU0TjJEQ2MtQjVTTVBXaVZBaFUzOXNyME83UUxmSkxTdjRGXzF3R1ZrNVNJcUJyb2tRRF96Z3lsbEE4WFJjb0JsUQ?oc=5",
+          "ts": 1785727688000
+        },
+        {
+          "title": "Taylor Fritz vs Rafael Jódar · Final · ATP/WTA Washington D.C.",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGVoUWlzM0Ytd193MnI2ZXdHYXlsZzNQQ2NIdlRlNzlobXAyd2hxZzM4bWRCMGNXOVpqLW1EeEduNWdXb1VIeG1QSE1PNDVnMXppYlBkZ2ZBc3pEbHFsaFhDaFhTZUlsOXNwcjFhaFpqSXV3YlRUMDBUU1F0RGlzb28xWmRpNzZ3SlZmdXRPaFIxYms?oc=5",
+          "ts": 1785714237000
+        },
+        {
+          "title": "And it’s raining in Washington, D.C again, halting once more the finals of the 2026 WTA500 Mubadala Citi DC Open that was delayed for three hours already. World No. 3 Jessica Pegula of USA leads the match after a 6-4 win in the first set, while Alex Eala has",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObFRSUDhIaWFsN1pBaTlRT3p5MkhCd3BmbHBHUEg4N2l4VUNMMzZIM3RzcHlickM1Y3JkRzdYdkg5dWVyVTdweThhVE9ZNWRRWDhzc01FSFBmNXRWYnJOeHg0QjZHcDFEWUx4RWc1VXhSYjFPWTYyWkhKRVFKTmwtRTNRWEUtUzRLSTVoQVd0bU1QYWt4VHNlZHJiMkhZNy1TQ0hCZGg2S2swYndjeWZxRjdPU3RNbWY1ZUh2dGpuZl9zMjBOQzVjTzZzSVFjdWFIZW5jQS1WTUNjUWJQ?oc=5",
+          "ts": 1785703735000
+        },
+        {
+          "title": "Jessica Pegula vs Diana Shnaider · Semifinal · ATP/WTA Washington D.C.",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlFOb1RTOHNqNWRfX19kX1h6ZDJNMzNBbE84amtwQzh2UlZGeElXM3NjM2lzMUsxWEM1clpmQmN5OVJ0UGMxa1dudGtGNUp6bUgtRHZTVUtuVnNSd0lFblNXWGt4NUQtVEt2TDF1NExwa1FHYVdCNE9mWm85eEc4bXdnQjh6MFNyalBMZUp2aEpscEpfTEVIdg?oc=5",
+          "ts": 1785546214000
+        },
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "ts": 1785308400000
+        }
+      ]
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": []
+      "items": [
+        {
+          "title": "Wales withdraws support for Infantino re-election after FIFA stake plan collapses",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHoyYXVud3NrcC03c0FNa1BBbEZFT0dsaHphTDBmQ3ZBRDRsNm00UjJja3NKTWdRS1hwLUYtOEc5QS03Z281Z01JQTNMU1RmanNQSE9iaXNLa3lVSFdpenhkLTR3ZkhFZlQ3Z2RtZU12ZU9jSFFweW1lclZuMi1SN2k5T001RWI5V3Q1QWxQTWdRdkFwYy16bm5xc2RkLVZzc2cwdF92UFNZeVR5eWlHcXlzNTlMdTBheDIxUVVjN1E0Z0tQ?oc=5",
+          "ts": 1785746525000
+        },
+        {
+          "title": "Football Association of Wales withdraws support for Gianni Infantino re-election",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa2hIVzBtQnJXR2JIZmszOVFkV0R0REdHcWZWN0p6WGZwRHhta3ZIeGE4eG4wZFpwSjhDTW1CUWNVeU1ScklpcnZjTk9QQXMzaE5qd1RkdkpnNGZoa0tha3haS0g2UDJ1VmozRjVNc0pJak54RXNkaHVPcTFULWdqVXJFcXJjNXVDcnRBTHBxTGVTaVZjbkMybnVjaENabFVYMlFxSEp0dW9yS1VRakE1WnE5RE5CV3pmWUFsZ2RHQ3pDQ19UWkRSUDBaQ1JoYVJW?oc=5",
+          "ts": 1785742680000
+        },
+        {
+          "title": "FIFA president abandons plans to sell World Cup profits to private equity following massive pushback",
+          "source": "AFRO American Newspapers",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWNoeFpKOWZzSzRXdy1pLWdpTEVTaFozeFVjVndRX0lGZUd0dDExcVFaYjIyV0x0Z0NEakdQeGp6b3hmbnl0VEN3NC1NaFRPU3VPakEtY1VaSy15UjNaV0tNTGd0bG5PdWhDOEFSRkZyYms5QjVMTm1ZaFdPSUJRYkoxNVdXS0o5VWdPRVk5Q0s5V2lYRXFLQXdxNm5jM21OMlJqUGY0bWUySjRxY2E4c1RWQ0VXdDZYR3FNcWlHeFlQVlluNWczZUJyWEsydzlwZFRn?oc=5",
+          "ts": 1785730805000
+        },
+        {
+          "title": "World Cup star Vozinha finally lands in Chile to join Colo Colo",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWnB0TWl2Z0ZzMGdjMGRvdUtEaEZiU2Z5YzBzUFpndzM4a0ZSQVVrejdXRTBvME9qNkoxNGZrRUdpQzhTVXJIT2t6akdsRzVqYXhCY2g1cnBZR0x2b1Jjc3M4UWR5N294VGwtNUlSclY5M3JCdVlYYjlfYnhITUgzd3J3YlhROFFVaEtZVWg1ZXNEWG9P?oc=5",
+          "ts": 1785729933000
+        },
+        {
+          "title": "Slavko Vinčić Retires After Officiating World Cup Final",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2c0ME15dDBCSUJXMHRBVVVCU0JyZFd0cWUtWHFycncyMnZjWlB4REJTU2ZrWVFIMjhqWUp5NEMxUk1LRV83MUZqd1Ntc0E5N19tRUtKZV9PSFNtNGt0TnFHWUs1VDR3UUdXZkxvN2JvN3V4R2NEaWxKeFdGMFQyRmhxNjZMWjRtUUhMc2VR?oc=5",
+          "ts": 1785722880000
+        },
+        {
+          "title": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained",
+          "source": "Encyclopedia Britannica",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+          "ts": 1785716292000
+        }
+      ]
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": []
+      "items": [
+        {
+          "title": "US Fed Reserve’s inflation challenge",
+          "source": "Gulf Today",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXhDZjRaa0h1Y0c5X1FEUFBuMkhNWFExVDFGWkwxSy0zcS1zX1lRUkRSSGVDdVg5TkNZOGFGY2d1VERiQ09DejJUNk1xcG5Lc0pvX3RTUHBYQzI2RklNeXdSVUNfb1RqSy1xdFJxYVVkb3Z6RkdDQ2RtaGNZaHhJcERyZTRtQQ?oc=5",
+          "ts": 1785746655000
+        },
+        {
+          "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
+          "ts": 1785722520000
+        },
+        {
+          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
+          "ts": 1785575160000
+        },
+        {
+          "title": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnVkTm1TbUFoLTdFOC0ySHQtbExkcnRWZmRQQ25yWWU2WGJBRXdYeVB3MUY0OGRhbENpdmJ6VkRpT0dXZW5mLXVBRlNnVlRPaG1LVnl0cDdJT01McDF3YjBvU0pCNmZNdGI5THdFbGsyZVY5SUVOTFdEd1Y4NlFjR0hsNEhVcnRwTkpKbGoyeHB0UXQ5WWxqSFN30gGfAUFVX3lxTE5pQ0Q0Q3czMzhtWHk0S28tVFEtWVc4dVFXZTZzM3lpdk1iV3ZPbjBWV0NPR1RFLWlDUmota0FNS2lKeXR3ejNuNmNLRDlSSU1FNVBZU3RzX2RkTll4OG4zR3FfaEV6ZndXcmRYM0JYRFR1V1JZTEtIcVh5cndCMmRNUFRsd0x6V2N6UG5KSmNiVnlPZWd1M3NndkZ2bnRVVQ?oc=5",
+          "ts": 1785568076000
+        },
+        {
+          "title": "Fed dissenters warn against delaying higher interest rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
+          "ts": 1785532868000
+        },
+        {
+          "title": "Fed dissenters warn inflation could become entrenched without monetary policy tightening now",
+          "source": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdXpfdXdEamJQd0tnanBTNjBmS0IzNWVEZVM5QVAtdWpiQ1FIN19Lb2tzdWI4dEREV1IzajlhU1NlY0FrWVpWU2lPNUFVUUQ0TklnY1ZfUTlibTlTakxtUWlfeElGWWpZVWJOZVBkc1VQV0phcFQtSVVIZldvVlJHeHZFUDd4b0pEQTVWcFNqc0FTNmJBb0c3OW5IV1RJSlpzU1g2ZGdGVnZmZHB0dU9MTnUwSUFPV2tJakJNcVhFUGlKWHRyVGpv0gHMAUFVX3lxTE9GeTEtUEk0M2Y4RkFSdnlZdHJ6WG1NaUtsT3p2N1lSbGp1NS1ZTndGNmtyT1FZY3RVNlE0TzRPQXJrQVVLNHNxT0tCdTJFVVVzQUc3NGZ4NTE0Wl9ULU5qZTl2Z21reUowSXlIMVNKbWNkNFhiWnlzWElTQmlFNlQ4TzFWMEhaQVJZN2NsV0FucnM0eFNrYmY0YVNJX19CMzdRbkZ1Mzc0anAxbC1IQU13NWVINVppYlN6UXhHZGxla1Y5MXpIdWxGZHNYSA?oc=5",
+          "ts": 1785529380000
+        }
+      ]
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": []
+      "items": [
+        {
+          "title": "US Stock Market Today: S&P 500 Futures Rise As Earnings Optimism Outweighs Rate Jitters",
+          "source": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSWpTSlhBeG1USGlqQXhjR2gtTnh6OXBneFowR1FqQzZXQllTRXA0WUQ2ZEZQVEctLXBlMVIxQmkwSmhOaE1LWUtoSFowc0xELUFnR3pIUXpzcUtjTFVJalFqSzM2dmNzVm5GeUZvYktRUjBfSGZEdXRHOEd5TXFWdzBUcTBwUTF0THYxTHE4SG9ydTZueTV4S3o0dTJXc3pSSUpGVm5mYTFDdW40VUpxM0dQMkVuc3pWRGd1QdIBwgFBVV95cUxQQkF3c0lGMnRKUlhlX1NBZFhKWjZuR0VVdUJjRm82T21fOWFPMk5uUW83aEJfVkJQaWxiU3R1OFhoUzl4bzJMUEVWX0o0Y3MwRDJUelJ5djFpci01ZWo4NnRlMjJqM09pd2E5UmVZS1lXcmVIcXlrUHBBNnFuZFduSXIzOUdpc0xITm10SDlPVnlucmtIUHB2NmU4TGpyZ0FNWDUxbWxTcTRacXU4UjRqTzFfaUZnWjhlMk5JdG0xY3l0UQ?oc=5",
+          "ts": 1785746777000
+        },
+        {
+          "title": "Potential ’Bear Trap’ in Nasdaq as Equal Weighted S&P 500 Tests Breakout Support",
+          "source": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTZNb1A2VGdCMGlxa1BjVGNObFJ4T1BmV3ZqeGVXbG9nVE9CNFVFNFVpN09fa3J0TlgtNTJQQXdpTmpRd0p4TTd0VXNleV9WUGEzZ1FQdndPVDhhdGVPNndoTFVZZ2dkdlR2RlF2Nk52QjlTa0xtdWpONDhtZTlpUlpjMTBtTzhoOGJKdE1lUTg4aG1NQ3IxT1VoOV9wUkRwZk5va01RM1ZBaDFpUUg5RURLMV8tSWg0V3c?oc=5",
+          "ts": 1785745477000
+        },
+        {
+          "title": "Stock Market Today: Return to Diplomacy Brings Reprieve for Oil Prices — Live Updates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTI2NlhSeXdua2NNNnlSQVhjaXRJdEs3QnExblJQWHBLdndrREVxb3JpV0JtaXE1M1l0ekxqa1B3a0d2MGJUdE5oaWc2S2JvREhtRUhZdldCeml1NFVQWWlzM3lZZmZ1NGJ2aGJwdElTMWZiUHZMWTh1MWxKZmlwc1BIZ3RKRHM?oc=5",
+          "ts": 1785744960000
+        },
+        {
+          "title": "S&P 500 Held Flat Last Month Despite Surging 10Y Treasury Yields — Wall Street's 'Dean Of Valuation' Says Risk Math Hasn't Changed",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxON0M5aXhTSlF1RTgxWTFmZVloNG9XWXRPN2tRTDJ4cVAyZzQ2Nl9vN19QZUNjd3hMQjhDeWtaQWh6d202clJ1eXY4ZF9BY0dIT0ZXb29JaHF1LXJfekUxOG9mLUlYNVd4QXp1QUxfMmpvNGxvUG14NllQOXJ0Y0IweldhT2gtOVN3YjZvZ2szSVJCV1pYaVVkZmtJVDZVakloUDdZTEdUU0FvTXhpblM2RjZPTlpUVUpQXzZ4MHVfWktET0Y5Sm51cHZNUzNRSHE4bUJLVHFsclRtS1YwSVJHYlZrR2JZcGhJZ3ZwVzV3b1dkNVo4cE5PU2ZfY3VXc1kwaGt5WE5nV3NBRURJdWxyb3ExYWFQa3E0eUtOWjZhaU4?oc=5",
+          "ts": 1785744625000
+        },
+        {
+          "title": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZFNvd0x3VERmUnRLNWx3RG9EdzJaMzdsUnJRQnhSbk16ZmJWS2E4RnNUb0dCakMxYjdZWGRaT1I0OXhGaU5JamJsVWE3Rll6VktlSkU2NERNM3dyQWdqX1dOUEgxNzN2WHNHTS1hY09hRmw4cjY1bWZvTDhUQVpEc255bE9Ba1VWSGRkUEpHdzQ3QzlkS2RJNGg2dklBOGl0ckxKbzdZU0VXZTRINm1wNXZyTXFDOGZCUnAwNm1EWnp3Q0xuRWY1LTljYktQbmZGN3JHaHh0Q3NVTnM3MTBjcmdIZ2dUZ1o1S1ZvMTQtZm1ldDdUdDZBNXFQbGgtd3dUQjUzcWtlZkxkRXpCbjBHMVVR?oc=5",
+          "ts": 1785740090000
+        },
+        {
+          "title": "Can robust S&P 500 earnings outweigh AI market turbulence? By Investing.com",
+          "source": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUI5b1huUHQzSFNHZXlRY09SRnRYaERhR0RTbEkxdHlMUER4V1QzczdXcE5yME9QWXdsM0c0aGFOQTh4bkFlbnpqaTRwTGNrOTVYMGdTR3B1aURCeldCXzR3QW1vRVZWQ3F3b1ozYWI0ajBpaHVjNE1TYWhQdTliRVBLRFFDaDZuNFJHd0kxZUV0R044djhsQXVtYTBBakJ5bV9Zd2g1LUFiQ2NFN3dabG5B?oc=5",
+          "ts": 1785739560000
+        }
+      ]
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": []
+      "items": [
+        {
+          "title": "Biotech leaders call for streamlining of INDs as FDA’s Trialblazer rolls out",
+          "source": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzY2d1dvaTduLVhzZ0JTUldoX09wd0xPSnkwb2x1QjhWTHdpb2ZiRXJ3U3FhUm1weUJUSlZxcERMNVQ1TTVTYkxvRDVxRDUtWGcyWGthOFR3a2ZOc2ZPclNrZkR6amRmLVRqeHlqMHptclBvd1Q2RFFLWVdsRE5CUFd2YTlmUVM2THJ1UmtqX1VRSl9YRjFhc1BJWnE5YldEQlpRdUJ6OA?oc=5",
+          "ts": 1785730257000
+        },
+        {
+          "title": "Mapping AI Drug Discovery: The Companies Behind Biotech’s Most-Searched Technology",
+          "source": "geneonline.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUladk5fcG5KZ2l5d1BCRDBYZG1ZUkdKS1ZhdGJsYzFGZWxaQ2VEc1E4NUxYU3NCZ1RZRFR1M01RalhOeTdxWHM3dDJ1LUJPY1czcVlseWVXVUY3X2hGRWw5TzVTakpHcno1QndvZ2JjRmVlUU1kMVlrQ29VaXpzZjZRLUxIRkN6N0ZvbkJzd2MzOUQyOFdQNWRtMExRYWZNUURyS1JIS21iTFpn?oc=5",
+          "ts": 1785484778000
+        },
+        {
+          "title": "Should You Be Able to Bet on Drug Trials?",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1BN29US25YMS1ocUV2SWtEeEFodm9pbDBuUUhRN1VfSVNYZXYzS2FnYlRGOVNvMGRrQVhFSm52T3kya0tXeFRYOUFtZGV4aldCTDVrN185YW8xbUZEZFR5N1U1V21Gb0FnMFdjdEFteW95aDI1T1A3UE5Pa284UjhQdzRRbUhvU0tDemw3bjZZSUd2?oc=5",
+          "ts": 1785481200000
+        },
+        {
+          "title": "Kelun-Biotech Receives a Clinical Trial Notice for Its First Dual-payload ADC SKB565",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTRwTFNycVp1RFJNQ1NRbXBkbmZkdzE1c1dOUTB3Yl9RalBLY1llSEVvbzFwRjN6MkV3dDZMUV9jNTM5OWJvZHk2dGp4V3diMjZlS3FMODI0dFNTMVZmVzJKMFJFNXBHRDNwR181S0J1SEVVVlYxLUc3anBUNHZheElxMk9kMTB1eHZCZ3dPWGM4bEFrY0JxdWx6elVRMDlMNWNqRFRObkMtdVJWSldPc2U2eHhudlZncU14UDR1MmVBOFZuV2pHNVYtcEFhVHg5SGtwOVZldw?oc=5",
+          "ts": 1785151800000
+        },
+        {
+          "title": "MEDDDICAL Announces RWE Strategy Advisory for Biotech Clinical Development",
+          "source": "markets.businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLXU3UnJSYlFzaVZ6bFd2TXBQWGpVajl3ZWxya1pYcHBNaWFCZEdQOG44bzdlcUt0aEpKZXB6aXZqbWhzZ2VaclBBa00xVkJEelZrRmhVWVNKR29kWjVSdHI1M3A3Nm5LdGNzMVNUUmpMaVhuNnJUMXk0ajJlMG1WU1ZFRVJnLTVwQlA5VWlENklOTHJSUUtPM2VWZVpmMDR2Q0V6S2VHdHdjRlpLa05NdURRMmpnMTJ6MWVoQVBLN3BWVzhPSS1zTm1HUVFhZw?oc=5",
+          "ts": 1784564874000
+        },
+        {
+          "title": "Kalshi to allow bets on clinical trials, FDA decisions",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVRoRHYyMk9HNTJuZ2VIZ085LWZTaVhFWWZUS1JfOFhkTXFHMEtROGlienlyaWg1LWVVTk9iT3lLYktoYS1YLXVTRjdzS2oyS2RKZ1VSUS1sUldDWVNLa2NOV1ZybDYxU1EyTzJYZFZaLTVTZUtmVmRhNE1ybmFXMTJfSnZRMnFXYm85Mzk2OGlVakpTNFZRMlhtTl9VWkRwbHc?oc=5",
+          "ts": 1784185200000
+        }
+      ]
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": []
+      "items": [
+        {
+          "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZnUkhSRDk0OHRSc0g5WlhaMGFLYTNYWEh3Z0xSTnRrZEFlQjNSTFNxb3FTR0RoYXJFU2dVVG13MFo2c1MzeFhfU01LSnZ0UXgwYXd1YTltMzBuU0xaS2gzU0pPQkhGalBGck16QmlCWjRCVWNNV2twT080TWo5V2o3eU1pdw?oc=5",
+          "ts": 1785529320000
+        },
+        {
+          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
+          "ts": 1785508894000
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "ts": 1785503580000
+        },
+        {
+          "title": "Outlook Therapeutics (OTLK) Stock Soars 12% Following Lytenava FDA Approval",
+          "source": "Blockonomi",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZlVWWnFaa3B0OXVRWUxuRWtCbWNyMzFLNEFYenlsYjExU0pvX3FxdzNwR1RsYUZRd3l5WWRwbnNoVjBYWXJPdXpNWEdEalcycXZpNE5nTTg4NTl3eHZlb1FwM0NOVV92eGx4T0V1dVNVUXhiS2dtOV9OVXE2M1VfcG9mVHBZZmNpQUZjTzhXWERtZHJqXzBmN194MUk?oc=5",
+          "ts": 1785160917000
+        },
+        {
+          "title": "FDA Advisory Committee Meetings: How They Work And Why Biotech Stocks Move",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE5WRDlZRjcxVDQzYVJDQVBqcjVMdk5GSGVvaWlfNVNiQldLMlFSTnN4QTV6OXByRjZLX3ZwWWtKdUltZEZBSGt6MVVWZndCU3QzNEJiWDNSQ3pNRW1PTC1FM25PZDdPRnRQWW9SQTF6VU8wSnVHU1praGVZM0lwRVd1al80akVRbm9hUmpXNHczQWpha1FTN3pfZmdqOXhKMjB3OXJDcl9NNUZhaktF?oc=5",
+          "ts": 1784905980000
+        },
+        {
+          "title": "Why This Biotech Stock, With Its First FDA Approval, Just Crashed By Double Digits",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0Q0VUkzM2tLWHZVdHpyeTh0aUItZllVUW1ZRHZkNzExRUd5cDNxOWd3OExaSmJTdDR3RzBHdTFJTjBhaTlOWFpKQjg0ZVFoR3hSek5SaE8xZmNPVVItWG5FOXFjeUYtZGF0RHAyUEhjY1hOZGRuQzJLeVoxNk5MR3ZuQ2k0ZDR5VUpWV0VheFo1bFdST25MQnN3?oc=5",
+          "ts": 1784098800000
+        }
+      ]
     }
   ]
 }
