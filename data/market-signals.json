@@ -1,173 +1,32 @@
 {
-  "updated": "2026-08-02T18:50:57.871Z",
-  "withNews": [
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
-      "yes": 85,
-      "change24h": 26,
-      "vol24h": 16105,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
+  "updated": "2026-08-03T01:28:44.684Z",
+  "withNews": [],
+  "moversOnly": [
     {
       "question": "Will The Super Bowl LX Halftime Show starring Bad Bunny win Emmys 2026: Outstanding variety special (live)?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-super-bowl-lx-halftime-show-starring-bad-bunny-win-emmys-2026-outstanding-variety-special-live-20260709174233247",
       "yes": 74,
-      "change24h": -21,
-      "vol24h": 18109,
-      "headlines": [
-        {
-          "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 2036? History Has Good and Bad News for Investors.",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1RzS0xXZmhYdDV0QS1PNy1kRjJYcFRSdjd2cTctQVlTVlc1VTRIdlhtRVJqV3VzNVRnV3FjVnBkclpLU2g5VXVJVXhSd3R1UkxuQl9DbHpfbU9HRjZKWVZ2MlFieFpnWFBybHJyT2taN1doMmVkREt2cEZ1bTVDOVJRd1NwRk1rTDdkaHVmVXdGcjlGb0hR?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 2036? History Has Good and Bad News for Investors.",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0takpIQTdJeW16ZS1CcUYtWVBGUzZ0V0x1WWJzaFZxT21GdlduT0Jqbzg3LVZVYzZOWndGdjVXS0lHZW44UVhhNk02QkhhQU5kM3lyek1qNTJnY00xTzV5OEx1VWstcGlvSDRsZmpWUE1Zd09ZaFE4?oc=5",
-          "cat": "Markets"
-        }
-      ]
+      "change24h": -22,
+      "vol24h": 18489,
+      "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $64,000 on August 4?",
+      "question": "Will the price of Ethereum be above $1,800 on August 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-4-2026",
-      "yes": 35,
-      "change24h": 21,
-      "vol24h": 10849,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
+      "url": "https://polymarket.com/event/ethereum-above-1800-on-august-4-2026",
+      "yes": 89,
+      "change24h": 11,
+      "vol24h": 8991,
+      "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $65,000 in August?",
+      "question": "Will the price of Bitcoin be above $62,000 on August 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026",
-      "yes": 79,
-      "change24h": 14,
-      "vol24h": 15520,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 33,
-      "change24h": -5,
-      "vol24h": 43533,
-      "headlines": [
-        {
-          "title": "British prime minister says Infantino is not the right man to lead FIFA",
-          "source": "newsday.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0JVWkxZQ2pHYXQ1c1VYNzRqZHZYazY2di1TemhnT1NJNmZhbVNzUVEwOEg5YVlaaU82cVh6ZlBkNUE4MjdPUmEzY0s3QU5QSVVXS0I3UjdTU2JKNjU0QWFGMDBxcnZLS3JjSWJFMDhOdURLX0pwM0hQVUNHejZaeDdINWYtVFVMV001NGxJMzdUeUU?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "UEFA Says Gianni Infantino Has 'Lost Confidence' Of Soccer World",
-          "source": "RealGM",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajJGMEthUDVpNm9aVlBUcklHY084SUo4RFd1cEtTd0tWSHlSQWZQN3Y2Z2dzdVJ6anNTRnNGbG1WcTV6WmNGcXdzTWVTekIzNmd0QzNDbjF6SWhxNEJ5Umt2NF9DRVgweFFDamNidVVzOHJLOG16aE95WG9NbXE5QVhMRlN3RHFGNE9iWk5BZmlHU2t3WUZqNDQxVEEwMmJxYTU5aQ?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 42,
-      "change24h": 3,
-      "vol24h": 223376,
-      "headlines": [
-        {
-          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed dissenters warn against delaying higher interest rates",
-          "source": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 56,
-      "change24h": -3,
-      "vol24h": 218926,
-      "headlines": [
-        {
-          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed dissenters warn against delaying higher interest rates",
-          "source": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 57,
-      "change24h": -3,
-      "vol24h": 15721,
-      "headlines": [
-        {
-          "title": "New Fed chair doesn’t want you to know what he’s thinking. Here’s why.",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeV90OXJUWWpKVFdvWlFuR1F4Y1ZVWFlaWXBJM19xVGcyRzNvbDl1amxQaFFPOEI3b3lOaThJMkdkN0NPWUh6eHFXS2g2M3J6T21Ja1E3VVVuWjBTMmpQTzJub3BPMDM5aEw5X1NNWlpVZVoxdEhlSHJqLV9SWnNGVUxtb09pa0N2RHV5bDhLdVYxekV2TUFJNTVxLVhhT3FjbkN0N1EzZ2hIVlhPamY5SU9UMHpwVDlhQWdhcFBjUU9BQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed dissenters warn against delaying higher interest rates",
-          "source": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1JOVldSVldMRUU0SFFPSDNJNzlPR05nNTBZN1lqVk5CSEdkOGl6eUxUS3pzdVBURTQ3OHUxM2RSUHVQWGdHVkFYRDNveFpxX3QweWJpUWpVT0xpLUVVbGlpU2dBWVBKT291OTVOTUdWZ1R0ZzJzSkFwRkVfLTdISTFTbUNpVEhPamEtQTByWjgwd2xIaWFwZnItUzBMZTkyTDZ4YkxLX1p3ZDN5SWJ3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    }
-  ],
-  "moversOnly": [
-    {
-      "question": "Will Core CPI YoY be 2.4% in July?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-core-cpi-yoy-be-2pt4-in-july-20260714151811923",
-      "yes": 22,
-      "change24h": -10,
-      "vol24h": 11145,
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-4-2026",
+      "yes": 84,
+      "change24h": 9,
+      "vol24h": 30702,
       "headlines": []
     },
     {
@@ -176,16 +35,43 @@
       "url": "https://polymarket.com/event/will-the-uks-2026-inflation-be-between-2pt5-and-2pt9",
       "yes": 22,
       "change24h": -7,
-      "vol24h": 11081,
+      "vol24h": 11281,
       "headlines": []
     },
     {
-      "question": "NBA: Stephen Curry to leave Warriors?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 8,
-      "change24h": 4,
-      "vol24h": 36379,
+      "question": "Will Bitcoin reach $67,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
+      "yes": 46,
+      "change24h": 6,
+      "vol24h": 26356,
+      "headlines": []
+    },
+    {
+      "question": "Will Core CPI YoY be 2.4% in July?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-core-cpi-yoy-be-2pt4-in-july-20260714151811923",
+      "yes": 26,
+      "change24h": -6,
+      "vol24h": 16411,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $65,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026",
+      "yes": 75,
+      "change24h": 6,
+      "vol24h": 15386,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $1,900 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-1900-in-august-2026",
+      "yes": 90,
+      "change24h": 6,
+      "vol24h": 8543,
       "headlines": []
     }
   ]
