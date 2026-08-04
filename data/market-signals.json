@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-04T01:17:40.586Z",
+  "updated": "2026-08-04T08:14:08.156Z",
   "withNews": [
     {
-      "question": "Will Ethereum reach $2,100 in August?",
+      "question": "Will Ethereum dip to $1,800 August 3-9?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-august-2026",
-      "yes": 28,
-      "change24h": -9,
-      "vol24h": 16329,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-3-9-2026",
+      "yes": 52,
+      "change24h": -19,
+      "vol24h": 8818,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $62,000 on August 5?",
+      "question": "Will the price of Bitcoin be above $62,000 on August 7?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-5-2026",
-      "yes": 89,
-      "change24h": 9,
-      "vol24h": 7959,
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-7-2026",
+      "yes": 81,
+      "change24h": 18,
+      "vol24h": 8916,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -34,34 +34,18 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $60,000 in August?",
+      "question": "Will Bitcoin dip to $60,000 August 3-9?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
-      "yes": 55,
-      "change24h": -5,
-      "vol24h": 24573,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-august-3-9-2026",
+      "yes": 14,
+      "change24h": -17,
+      "vol24h": 9827,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will annual inflation be 3.5% in July?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt5-in-july-20260714150613272",
-      "yes": 18,
-      "change24h": -4,
-      "vol24h": 7940,
-      "headlines": [
-        {
-          "title": "S&P 500 Erases July Losses as Mega-Cap Technology Leads Market Rally",
-          "source": "Mott Capital Management",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTmhYaUxuSjFFek55WWN1UHVyTzhNdXotcW1HWnplQ1ZYVkFBSFJqMldQSjZiTzExVXVSd0FLanNwUWZ3QWpHb29vSExhMU5Qd2NoeHVYY1hSZ29oVDF0SEUtQ2VRRTBTXzA5QlB0TkRycHMxQ2VaM1JHWUpJdHIxVFBNLUlMWlE?oc=5",
-          "cat": "Markets"
         }
       ]
     },
@@ -70,18 +54,40 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 55,
-      "change24h": -3,
-      "vol24h": 177370,
+      "change24h": -2,
+      "vol24h": 118466,
       "headlines": [
         {
           "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-          "source": "CNBC",
+          "source": "cnbc.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2paWmtfQzdybzhVRDc4TklkSDQ0UXdqOTV5WTZPX0xsenN3M2JUa0FOZjFKSnlXNTQxcnNldkd3MUZIcXd0elFJd3VMNUliRTZfcWF5TEt1QWxQalQzU3BTR2NzU2JHNEFJRXR6Nk9vVjhVdjhOaUVNelI5eHM3eDVYdFBJcEo1Nm1zMlJCa2ZmalA4dkFzbWg5SURpaWZjcmE3VWpBRm9rY1HSAbABQVVfeXFMTzlPRnVRcHlyYXp6cnU2VE9KUzEtbDBZcktpclA1b2g3SXYxM1VvalNCdFo1c190YUtYR2MzSnVGMC1Kb1l3ck5uVWJ1MDYtZ21GMXhnRU5HSFFlVmoyNnhRTEJheWdYRGV3d1pJUjNxX2QtdlpjdXdPclVkX3FjZkxfclFjb3l6Y2JQUDM4NHVRMWRYbzNJWFpuRTlTRE9XX1RqT1F5bWZlLXQ3UGRpeEU?oc=5",
           "cat": "Macro"
         },
         {
           "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
-          "source": "afr.com",
+          "source": "AFR",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 56,
+      "change24h": -2,
+      "vol24h": 10306,
+      "headlines": [
+        {
+          "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+          "source": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2paWmtfQzdybzhVRDc4TklkSDQ0UXdqOTV5WTZPX0xsenN3M2JUa0FOZjFKSnlXNTQxcnNldkd3MUZIcXd0elFJd3VMNUliRTZfcWF5TEt1QWxQalQzU3BTR2NzU2JHNEFJRXR6Nk9vVjhVdjhOaUVNelI5eHM3eDVYdFBJcEo1Nm1zMlJCa2ZmalA4dkFzbWg5SURpaWZjcmE3VWpBRm9rY1HSAbABQVVfeXFMTzlPRnVRcHlyYXp6cnU2VE9KUzEtbDBZcktpclA1b2g3SXYxM1VvalNCdFo1c190YUtYR2MzSnVGMC1Kb1l3ck5uVWJ1MDYtZ21GMXhnRU5HSFFlVmoyNnhRTEJheWdYRGV3d1pJUjNxX2QtdlpjdXdPclVkX3FjZkxfclFjb3l6Y2JQUDM4NHVRMWRYbzNJWFpuRTlTRE9XX1RqT1F5bWZlLXQ3UGRpeEU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
+          "source": "AFR",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
           "cat": "Macro"
         }
@@ -92,74 +98,20 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 43,
-      "change24h": 2,
-      "vol24h": 95988,
+      "change24h": 1,
+      "vol24h": 74193,
       "headlines": [
         {
           "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-          "source": "CNBC",
+          "source": "cnbc.com",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2paWmtfQzdybzhVRDc4TklkSDQ0UXdqOTV5WTZPX0xsenN3M2JUa0FOZjFKSnlXNTQxcnNldkd3MUZIcXd0elFJd3VMNUliRTZfcWF5TEt1QWxQalQzU3BTR2NzU2JHNEFJRXR6Nk9vVjhVdjhOaUVNelI5eHM3eDVYdFBJcEo1Nm1zMlJCa2ZmalA4dkFzbWg5SURpaWZjcmE3VWpBRm9rY1HSAbABQVVfeXFMTzlPRnVRcHlyYXp6cnU2VE9KUzEtbDBZcktpclA1b2g3SXYxM1VvalNCdFo1c190YUtYR2MzSnVGMC1Kb1l3ck5uVWJ1MDYtZ21GMXhnRU5HSFFlVmoyNnhRTEJheWdYRGV3d1pJUjNxX2QtdlpjdXdPclVkX3FjZkxfclFjb3l6Y2JQUDM4NHVRMWRYbzNJWFpuRTlTRE9XX1RqT1F5bWZlLXQ3UGRpeEU?oc=5",
           "cat": "Macro"
         },
         {
           "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
-          "source": "afr.com",
+          "source": "AFR",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 35,
-      "change24h": -1,
-      "vol24h": 16969,
-      "headlines": [
-        {
-          "title": "Gianni Infantino reportedly misses out on $35M salary after World Cup sell-off plan fails",
-          "source": "worldsoccertalk.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVd6VzAzY0ZqdUpGS01VaWljOHRSam1zdXJOSjU4X2w4TzFBV01pb1BtdWpvb25zamlZT3VjMjFKUndRLWl4WTdEeUtDejR6MHBWbTNtTVp2TGFsTzZLWUo5b0dPUmJYMWZPUTc5amRvY0FPVm9FZWdQRkdqQVJONTYyNGR3Y0hHSUZTVHgtX2I5RkxUdzV2MERKcUNwamtzRVNHTU9qblFxdmNaLU5fRmNJRE95YUNMdWY4RlQ5VEZScmxI0gHEAUFVX3lxTE1BV3pXMDNjRmp1SkZLTVVpaWM4dFJqbXN1ck5KNThfbDhPMUFXTWlvUG11am9vbnNqaVlPdWMyMUpSd1EtaXhZN0R5S0N6NHowcFZtM21NWnZMYWxPNktZSjlvR09SYlgxZk9RNzlqZG9jQU9Wb0VlZ1BGR2pBUk41NjI0ZHdjSEdJRlNUeC1fYjlGTFR3NXYwREpxQ3Bqa3NFU0dNT2puUXF2Y1otTl9GY0lET3lhQ0x1ZjhGVDlURlJybEg?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 56,
-      "change24h": -1,
-      "vol24h": 14167,
-      "headlines": [
-        {
-          "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2paWmtfQzdybzhVRDc4TklkSDQ0UXdqOTV5WTZPX0xsenN3M2JUa0FOZjFKSnlXNTQxcnNldkd3MUZIcXd0elFJd3VMNUliRTZfcWF5TEt1QWxQalQzU3BTR2NzU2JHNEFJRXR6Nk9vVjhVdjhOaUVNelI5eHM3eDVYdFBJcEo1Nm1zMlJCa2ZmalA4dkFzbWg5SURpaWZjcmE3VWpBRm9rY1HSAbABQVVfeXFMTzlPRnVRcHlyYXp6cnU2VE9KUzEtbDBZcktpclA1b2g3SXYxM1VvalNCdFo1c190YUtYR2MzSnVGMC1Kb1l3ck5uVWJ1MDYtZ21GMXhnRU5HSFFlVmoyNnhRTEJheWdYRGV3d1pJUjNxX2QtdlpjdXdPclVkX3FjZkxfclFjb3l6Y2JQUDM4NHVRMWRYbzNJWFpuRTlTRE9XX1RqT1F5bWZlLXQ3UGRpeEU?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The ‘Mar-a-Lago effect’ has reached the Fed",
-          "source": "afr.com",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1lwTklzWTZ4VDdYeVdlb2ZqMFpzMmFXaklkTFJhTXhKdFFoYkgxLTRKZ1ljdVY2VE5GS20zejVzMjBNUFZKc1dRbG1QZ09oLTlHNEpVQVNPaVZfVS0zaUI1SjVKWVpMQWNzQ2xtSmxuYlBCWjlIZGtOZUhQS1NZOEQzSUJvdmY3dkg5d05WejFCS21ZX2pN?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 7,
-      "change24h": 0,
-      "vol24h": 14591,
-      "headlines": [
-        {
-          "title": "Seahawks injury news: Robbie Ouzts misses practice again",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemRQYWlyTmJJa25ZZzdvdDVGT3E1UkVJbm04MEdiVVk4UVFUM2ZnQnhqcjVGS2ZxQ2NMd2tHS0JhTVA0V28wSW5EYmdxc1V2eDJDUWlKWTE3Uk91V0lfSkM5dzFrOFpoTEJvMDVzc0MwcHluYmZ6SWxlT3BRcjZaTEZYdlBtNlZvVFE?oc=5",
-          "cat": "NFL"
         }
       ]
     },
@@ -169,7 +121,7 @@
       "url": "https://polymarket.com/event/will-taylor-fritz-win-the-2026-mens-us-open",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 10121,
+      "vol24h": 10130,
       "headlines": [
         {
           "title": "Taylor Fritz vs Rafael Jódar · Final · ATP/WTA Washington D.C.",
@@ -178,25 +130,68 @@
           "cat": "Tennis"
         }
       ]
+    },
+    {
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 7577,
+      "headlines": [
+        {
+          "title": "\"This is a business\" - Spencer Jones defends signing offer sheet with rival OKC Thunder before Denver Nuggets matched",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWZKcVZMckdfSWRGLVJkWHJpUUJZSWJXRTZzOTExb2VjbU1vMWpfR2Fad1VoR1FDcFFISTdQc0lMeE9DWXNNOXJBUDJ5VFVwZ1piQzNtMEVxNmtaVjc3TXlIU0tLdW5PSlVZMmI4U0RDSk9YcEc2TEpnbm1ORDUxZE9VU2NOeDhiY0JYOXhneTNXSGlxb0pJT1NJamZjYXkxdTJYZGN6Q1RuWFNTekt5XzFzdHJmMnJZWjlvcTF3VEFhS1hCUGVlYm9kWndvYlM0RzhvQjdVUQ?oc=5",
+          "cat": "NBA"
+        }
+      ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 38,
-      "change24h": 4,
-      "vol24h": 30804,
+      "question": "Will annual inflation be 3.3% in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt3-in-july-20260714150613270",
+      "yes": 37,
+      "change24h": 6,
+      "vol24h": 9382,
       "headlines": []
     },
     {
       "question": "Will the Bank of Canada make no change to the target for the overnight rate at the September interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-september-interest-rate-announcement-20260701223915216",
-      "yes": 96,
-      "change24h": 4,
-      "vol24h": 11785,
+      "yes": 97,
+      "change24h": 5,
+      "vol24h": 10208,
+      "headlines": []
+    },
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 33,
+      "change24h": -4,
+      "vol24h": 17187,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "yes": 64,
+      "change24h": -4,
+      "vol24h": 7555,
+      "headlines": []
+    },
+    {
+      "question": "Will annual inflation be 3.5% in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt5-in-july-20260714150613272",
+      "yes": 18,
+      "change24h": -4,
+      "vol24h": 7407,
       "headlines": []
     }
   ]
