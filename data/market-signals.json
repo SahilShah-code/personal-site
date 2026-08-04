@@ -1,45 +1,13 @@
 {
-  "updated": "2026-08-04T13:40:53.765Z",
+  "updated": "2026-08-04T19:16:06.247Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $1,800 August 3-9?",
+      "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-3-9-2026",
-      "yes": 44,
-      "change24h": -22,
-      "vol24h": 9184,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 August 3-9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-august-3-9-2026",
-      "yes": 9,
-      "change24h": -19,
-      "vol24h": 10853,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
-      "yes": 47,
-      "change24h": -16,
-      "vol24h": 23978,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 77,
+      "change24h": -13,
+      "vol24h": 22596,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -53,20 +21,20 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 51,
-      "change24h": -6,
-      "vol24h": 144976,
+      "yes": 48,
+      "change24h": -8,
+      "vol24h": 272073,
       "headlines": [
         {
-          "title": "Higher Interest Rates Could Hit Farmers Hard as Fed Faces Mounting Inflation Pressure",
-          "source": "Agrolatam",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDZ2QnJ4OTZSS3lHQjJmSTRWN1FSeXdDY01PV3FxdU55Z2pDWno5MXFfdS03eUN2VC02aHA5TGlkRklrbEo5djhUVU5RdW1uOFJLZTR1M2JEWHRkZ2t2TEh3RThiVmwwSnVwLUNBZ3RSSUVXT2JfbU9keVdndWM5c0FQV0pCd0J6RmE5aUtRd1BDRjg?oc=5",
+          "title": "The stock market may be walking into a Fed disaster",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2paWmtfQzdybzhVRDc4TklkSDQ0UXdqOTV5WTZPX0xsenN3M2JUa0FOZjFKSnlXNTQxcnNldkd3MUZIcXd0elFJd3VMNUliRTZfcWF5TEt1QWxQalQzU3BTR2NzU2JHNEFJRXR6Nk9vVjhVdjhOaUVNelI5eHM3eDVYdFBJcEo1Nm1zMlJCa2ZmalA4dkFzbWg5SURpaWZjcmE3VWpBRm9rY1HSAbABQVVfeXFMTzlPRnVRcHlyYXp6cnU2VE9KUzEtbDBZcktpclA1b2g3SXYxM1VvalNCdFo1c190YUtYR2MzSnVGMC1Kb1l3ck5uVWJ1MDYtZ21GMXhnRU5HSFFlVmoyNnhRTEJheWdYRGV3d1pJUjNxX2QtdlpjdXdPclVkX3FjZkxfclFjb3l6Y2JQUDM4NHVRMWRYbzNJWFpuRTlTRE9XX1RqT1F5bWZlLXQ3UGRpeEU?oc=5",
+          "title": "Trump Fed chair’s inflation strategy: leave it to the market",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
           "cat": "Macro"
         }
       ]
@@ -75,20 +43,20 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 48,
-      "change24h": 5,
-      "vol24h": 105915,
+      "yes": 51,
+      "change24h": 8,
+      "vol24h": 190960,
       "headlines": [
         {
-          "title": "Higher Interest Rates Could Hit Farmers Hard as Fed Faces Mounting Inflation Pressure",
-          "source": "Agrolatam",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDZ2QnJ4OTZSS3lHQjJmSTRWN1FSeXdDY01PV3FxdU55Z2pDWno5MXFfdS03eUN2VC02aHA5TGlkRklrbEo5djhUVU5RdW1uOFJLZTR1M2JEWHRkZ2t2TEh3RThiVmwwSnVwLUNBZ3RSSUVXT2JfbU9keVdndWM5c0FQV0pCd0J6RmE5aUtRd1BDRjg?oc=5",
+          "title": "The stock market may be walking into a Fed disaster",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2paWmtfQzdybzhVRDc4TklkSDQ0UXdqOTV5WTZPX0xsenN3M2JUa0FOZjFKSnlXNTQxcnNldkd3MUZIcXd0elFJd3VMNUliRTZfcWF5TEt1QWxQalQzU3BTR2NzU2JHNEFJRXR6Nk9vVjhVdjhOaUVNelI5eHM3eDVYdFBJcEo1Nm1zMlJCa2ZmalA4dkFzbWg5SURpaWZjcmE3VWpBRm9rY1HSAbABQVVfeXFMTzlPRnVRcHlyYXp6cnU2VE9KUzEtbDBZcktpclA1b2g3SXYxM1VvalNCdFo1c190YUtYR2MzSnVGMC1Kb1l3ck5uVWJ1MDYtZ21GMXhnRU5HSFFlVmoyNnhRTEJheWdYRGV3d1pJUjNxX2QtdlpjdXdPclVkX3FjZkxfclFjb3l6Y2JQUDM4NHVRMWRYbzNJWFpuRTlTRE9XX1RqT1F5bWZlLXQ3UGRpeEU?oc=5",
+          "title": "Trump Fed chair’s inflation strategy: leave it to the market",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
           "cat": "Macro"
         }
       ]
@@ -97,21 +65,53 @@
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 53,
-      "change24h": -4,
-      "vol24h": 21509,
+      "yes": 48,
+      "change24h": -8,
+      "vol24h": 36776,
       "headlines": [
         {
-          "title": "Higher Interest Rates Could Hit Farmers Hard as Fed Faces Mounting Inflation Pressure",
-          "source": "Agrolatam",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTDZ2QnJ4OTZSS3lHQjJmSTRWN1FSeXdDY01PV3FxdU55Z2pDWno5MXFfdS03eUN2VC02aHA5TGlkRklrbEo5djhUVU5RdW1uOFJLZTR1M2JEWHRkZ2t2TEh3RThiVmwwSnVwLUNBZ3RSSUVXT2JfbU9keVdndWM5c0FQV0pCd0J6RmE5aUtRd1BDRjg?oc=5",
+          "title": "The stock market may be walking into a Fed disaster",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2paWmtfQzdybzhVRDc4TklkSDQ0UXdqOTV5WTZPX0xsenN3M2JUa0FOZjFKSnlXNTQxcnNldkd3MUZIcXd0elFJd3VMNUliRTZfcWF5TEt1QWxQalQzU3BTR2NzU2JHNEFJRXR6Nk9vVjhVdjhOaUVNelI5eHM3eDVYdFBJcEo1Nm1zMlJCa2ZmalA4dkFzbWg5SURpaWZjcmE3VWpBRm9rY1HSAbABQVVfeXFMTzlPRnVRcHlyYXp6cnU2VE9KUzEtbDBZcktpclA1b2g3SXYxM1VvalNCdFo1c190YUtYR2MzSnVGMC1Kb1l3ck5uVWJ1MDYtZ21GMXhnRU5HSFFlVmoyNnhRTEJheWdYRGV3d1pJUjNxX2QtdlpjdXdPclVkX3FjZkxfclFjb3l6Y2JQUDM4NHVRMWRYbzNJWFpuRTlTRE9XX1RqT1F5bWZlLXQ3UGRpeEU?oc=5",
+          "title": "Trump Fed chair’s inflation strategy: leave it to the market",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 August 3-9?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-august-3-9-2026",
+      "yes": 6,
+      "change24h": -8,
+      "vol24h": 9018,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $62,000 on August 7?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-7-2026",
+      "yes": 91,
+      "change24h": 7,
+      "vol24h": 10914,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -119,20 +119,20 @@
       "question": "Gianni Infantino out as FIFA President by December 31?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 32,
-      "change24h": -1,
-      "vol24h": 17802,
+      "yes": 33,
+      "change24h": -3,
+      "vol24h": 13048,
       "headlines": [
         {
-          "title": "Battle lines drawn within FIFA as key figures break ranks with Infantino",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak9GVU5MVGJmUGp6bG1OLW1ELV9TN05IWkRwQ2hZcUpWczJUS0NHMkwycy02X3FSeThFX053blppMDRMR2xmQ0pGNF9QeHY2YjlqOFlFQ1VIZk5oUjRFQ0V5YkxMLW9TQlJXNlVrQzhDWl9mUTZuN3RjNFcxZnU3SU9BM3dLZ2JSSDJ1eEs4bTJlYkpNOUF5WmxNM2ZkNUUzLTl2WUZOQ1hIWlM1WS13N0xZSXhYb2xYRG01NEZHUlpPcHU5REpOM1ln?oc=5",
+          "title": "Gay exec touted as best choice to replace Gianni Infantino at FIFA",
+          "source": "OutSports",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEVqdHhjdDRhdGVoNFJiWWRwZzJZLUYwdXBFOGd2eUNicWtJQS0xaFN2a2U0d2VScVZ5SkhKWHBHNFpRcW5pSWc5VTQyczdUUnFiRENnR3lzZFVfN0N0eGdyVG9LRi1xN3lHX3pqalVweEVLdEhLSmk2dERPQ1ZibWpYYXVsYWxDemJPYWFhRzlvRVphQmJISVctM1l6UDZDaU5BOHBmbWw3WWVsV3I1MWFFbXhTdDhES051QmlaZw?oc=5",
           "cat": "World Cup"
         },
         {
-          "title": "Infantino gets backing from leading African football administrators",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ1hDUHFHNEZLYkhGT2lzdWJ4VGZUbUVDWENGV0NRUlhqbm82MmQ1dHNpNm4xcVBYV2lsRFNXSXVZRUNJczU5WWNLSnZCNGJyeE9tNUtlQWtiaWNBVDdfRXJ4YUVHb25ZNU1PbzhyUVZIcmVzVENneUs0LXktRS1vY3J1cm93ckdCbWhzaVV2QzFla1ZXVFVTMGdORVF5blVPWlF3bUFJZ3Z2emQ4aGM0MmJn?oc=5",
+          "title": "Gianni Infantino faces another tournament headache as FIFA’s 2029 Club World Cup plan hits two major obstacles",
+          "source": "World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ1h4NTJka2U3QS02TnlWRkl0cTFFT1h4SnBpNTBxTjIxejQtdHRhZkNoMnRLcVN6U3UtQ2loVm11c3JZUXVlbXlNVmc5VmRrZzlPMV85dmIwOHVpOGZaWkZhNnFuZDlkTTV3RkREZ2NlVzNCU1Q4Z002Nnp3S0lOSGk5UThXRW5INGN0S2o1cFNGX2dWMmk0dlFxdUJGUU01ZjVaNzZmRWMwWjJPaGJFeVpNZWtLME1sZmFpT0JtanJxTTdQel84dkhCQ054VkdxMHFvWDNFeTJ1eFd2cW8tOdIB4AFBVV95cUxOZ1h4NTJka2U3QS02TnlWRkl0cTFFT1h4SnBpNTBxTjIxejQtdHRhZkNoMnRLcVN6U3UtQ2loVm11c3JZUXVlbXlNVmc5VmRrZzlPMV85dmIwOHVpOGZaWkZhNnFuZDlkTTV3RkREZ2NlVzNCU1Q4Z002Nnp3S0lOSGk5UThXRW5INGN0S2o1cFNGX2dWMmk0dlFxdUJGUU01ZjVaNzZmRWMwWjJPaGJFeVpNZWtLME1sZmFpT0JtanJxTTdQel84dkhCQ054VkdxMHFvWDNFeTJ1eFd2cW8tOQ?oc=5",
           "cat": "World Cup"
         }
       ]
@@ -141,31 +141,15 @@
       "question": "Will Taylor Fritz win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-taylor-fritz-win-the-2026-mens-us-open",
-      "yes": 3,
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 10134,
+      "vol24h": 16705,
       "headlines": [
         {
           "title": "Taylor Fritz vs Rafael Jódar · Final · ATP/WTA Washington D.C.",
           "source": "Tennis.com",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGVoUWlzM0Ytd193MnI2ZXdHYXlsZzNQQ2NIdlRlNzlobXAyd2hxZzM4bWRCMGNXOVpqLW1EeEduNWdXb1VIeG1QSE1PNDVnMXppYlBkZ2ZBc3pEbHFsaFhDaFhTZUlsOXNwcjFhaFpqSXV3YlRUMDBUU1F0RGlzb28xWmRpNzZ3SlZmdXRPaFIxYms?oc=5",
           "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 8599,
-      "headlines": [
-        {
-          "title": "NFL power rankings: Broncos ranked No. 2 before preseason",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM2RBdGIxT1dfeXVUUU04TmhpTXpmNjNNZU5vajVFdjIxRm5FQXFyckRxRlZnRDVFb1NxZEk4Tzk4TFhQWlFLQVpQRmN3TjRhUHJrOTlwd2FTM0d0dlFlaE11bEs3QWZhWjZmS2xUR0NoS2Zqc0xHUFZmQVhMT2dEOHBLU05uLXFNSVE?oc=5",
-          "cat": "NFL"
         }
       ]
     }
@@ -175,18 +159,9 @@
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 59,
-      "change24h": 10,
-      "vol24h": 19400,
-      "headlines": []
-    },
-    {
-      "question": "Will annual inflation be 3.3% in July?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt3-in-july-20260714150613270",
-      "yes": 32,
-      "change24h": 7,
-      "vol24h": 9290,
+      "yes": 60,
+      "change24h": 5,
+      "vol24h": 17157,
       "headlines": []
     },
     {
@@ -195,7 +170,16 @@
       "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-september-interest-rate-announcement-20260701223915216",
       "yes": 97,
       "change24h": 5,
-      "vol24h": 10208,
+      "vol24h": 10101,
+      "headlines": []
+    },
+    {
+      "question": "Will annual inflation be 3.3% in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt3-in-july-20260714150613270",
+      "yes": 31,
+      "change24h": 5,
+      "vol24h": 9168,
       "headlines": []
     }
   ]
