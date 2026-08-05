@@ -1,341 +1,45 @@
 {
-  "updated": "2026-08-05T08:12:42.824Z",
+  "updated": "2026-08-05T13:31:29.358Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": [
-        {
-          "title": "\"All 10 guys could start elsewhere\" - Tim Hardaway explains why the 2004 Detroit Pistons remain as one of the best teams in NBA history",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbXF0YVFyUWpRRWtqWGhFaDhBem85TEZ6cXh2aElTOUdBRXNZeGdRM0hGd1BxaHZ1N2JoNURHd3Z1SkhKWlFmZjlyaXN4d25SanpiNV8ybE54MTMzaXJSeHc4MjJPRkQteXVubDd1bzA2Sjd2LU1tZkJ0MHp2M1RIeFh1cDVBYnRSSkxUY2FJN0JTZEZZMjRnX0xaQzhNT2h4ZjZOUTJSMWNyV01NeTdHU2xEenlFWHQ2YU9IMC1rY0k?oc=5",
-          "ts": 1785915840000
-        },
-        {
-          "title": "Rochester native and NBA player Thomas Bryant teams up with YMCA for free youth basketball camp",
-          "source": "WHEC.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOczZxZFg0QUlPQzlqQ3hzR2ZXcTJyRnFVSHVwYnZ4Tjd3dkQ1MUtYLXppakVIWWVlbmZHckk4NHRsaTJWY2FPT2Z0MXpoR1BRWUtMMVdtU0tKUXdvTHNVdWNHU2h2NTU0N3RPa3dYUFRjM0hFWkZVUE9peThndmdNRzZuWmNVbDJiQV9uU1oyUHJELUNvRmktVERIY28xeWJ6SXF5OXAtVjlxYzB6QV9hWDloYV9IaXUzSlRKbXBxN2trSGtU?oc=5",
-          "ts": 1785913748000
-        },
-        {
-          "title": "\"The way KD view basketball is very Uncle Drewish\" - Draymond Green responds to Kevin Durant's claim about the 76ers being better than the 2017 Warriors",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY0RHNXl1TThhNFo0MVNqNWtzSV9HS3JlLW9HcFJWOGNaUGJLaHM0bXpRdHlnbEIxXzVSa2MxOEQ2cWRRamMzNGdyeDZWTTRzaDNQdmdTMGE4QWEydlBoRFAxQ0Z2V2NyNHRpTUVoQ1BYREh6LW50cW5tWXk5SVNsVDB3ZmFwX2EzbEZ4Q1QxTTQ2bEhuNmlhTGhRalVUVGVuVzdyTVdGdkVmOGxWajRGRURrZnRJdHBpVEs3WFN4VHZLLTBxeEo4d2JtUGdDdGtYaHc?oc=5",
-          "ts": 1785913669000
-        },
-        {
-          "title": "‘Y’all Think Philly Will Accept Him Back?’ — NBA Champion Advocates for Ben Simmons’ Return to 76ers",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TTzBFQy1pZHZYOGRndHgxNHBuaktQU3hhSjdtTlExdUdsMUtGYUFiRlZVOWF4ckZrWVc0Wjh4VGxQM041TVBob1d4YmFmRGRraEhLd0UtSFlmX09vWHdaNE9FNGZBWl9KQ3U4c01ieU91VTRMTDIxc2tDcTVCM00?oc=5",
-          "ts": 1785913080000
-        },
-        {
-          "title": "\"He changed the game\" - Trevor Ariza debunks the negative narrative people have about James Harden",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDJjbzFZdl85ZGNfQlhSaXNFMkNRb25vWFlMSzJGeWJBOF9ndTl2TGlmNXMtV0pwb1RGU0FjZXZoU1BmdjM5dVowTllweXVPSXExYVlROHBCZU13TG5zemdQUDR1T1J1OTNRblNnY0lMUFhiRFJGTFBtQ3JDQl9BbDVld1RWYVVXRjR1OEhqQjl4MHh4ckJtU0ttME9hbFhfNWwxQVdiNnhqeXNEcVZ5cmpuYkFQMUlqVWxMWg?oc=5",
-          "ts": 1785910740000
-        },
-        {
-          "title": "Stephen Curry Links Up With Jayson Tatum at Massachusetts Days After Warriors-Celtics Trade Rumors",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWWtNVzR3UlRwTl9ZYXVYVk1RRW5WQWNJRFVMWFREcUF0NHZiV2loTFpSQ1ZGYS0yOVpCcWpZZV8wcDdqOU5JV3J6QWhJRzNXTDFZbTZVMFdwRUt4clZwdVVTRi1jREF3TEpoVzVkZy1ZekJHRU9mc1BYRmcyaVRuWnZRREtadnh0OFNpMkdQOGpfSXIzOFl5aWhPeDBBUnVRTk9lU3RDc2hGTDlGQkkzZi04Yjh2UzZsYXFwRHYwTkJMYURmQ1kzZmFmeWJSUm04ODh5Y0o4WklITUk1bV9qSzJyNEFJQzY3MEIxVE1HeF8yREg0bkI0cWF3?oc=5",
-          "ts": 1785910614000
-        }
-      ]
+      "items": []
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": [
-        {
-          "title": "Fantasy football 2026 rankings, draft prep: Model unveils QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUVZ4Uk0tVmsyWi0tVEc4bXNjSXYyUlZNS1BDYzRsdnJIMUxuc1EzeThMMWctSlNBSFRXYnBMM2cxRGNaLTRmT3IxQUlzMkJyQlpGU1BRWXZ5bTVKSE80TmtLWkJ4REkyalNEeWhqS0tFeGpJMmZLZ0RCZ2N2Z21rbmUtUUpoZGdES1YzcUk1am5TVXM1M0JmamM2Y0EzbEpnWExVQlZsTjREYnVpTVROdEJCcXZ4bFVOQ2s1UW9FWU91S2VFc29NWEhEbEZpYktrR2tzTnBuV0R4X0ktQ1E?oc=5",
-          "ts": 1785913746000
-        },
-        {
-          "title": "NFL Scout Rips Bucs' QB Mayfield",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00TUVqS3hhVXltb2hVTHZ5M1NnREZYYXdTdTViNGhOREozb01HUmZJbk1RQ0MyR2E5Sjgzc045MDZSbkg3SVdNRXFackl4dThsZGNMcVVLQml4WWtkcDVjckYwek5wMkozdWZicDdVcnpVWE9MUUZRa0k0QQ?oc=5",
-          "ts": 1785913376000
-        },
-        {
-          "title": "Fantasy football rankings 2026: Sleepers from model that nailed De'Von Achane's outstanding season",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdHFONE1lVlEzUGRkMG94YXlZQ1AxbHVMUkRxZTE1QW5lVkxsSjN2VU8wMTItcm9CUEpjOWM0ZDl6NXduUkpqTnZkcFd6Z0hnODl6aXR4cEJSMlByZWVSSTB4YUhGNFhjMlNGekcyYWZqQ2N0ZnlCZlUwakdUOVdiMkhuMkpvRWtlaFdWb2lsUXhfT3VIclF3N3BlUzJXUC1KQ3lLeFFVWkJXOGtPcUZCclRESWJpZ2FSRW1SSE5feXZXWTZSU19HNnByQUhVNEttMDRUeWxheHpwaHFL?oc=5",
-          "ts": 1785912734000
-        },
-        {
-          "title": "Steelers QB Aaron Rodgers Gets Called Out by NFL Coaches",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1oyaHlVY0pSdjUxYkpYU2pFcU10MENnQV91NTBUS2g2RVhZQkxNczFQSDdUR21Ebk1zcVNTV1BuMGV0R2FCbF9LVUhaMXlJdERHWk5OTXo1eG0zOUtHU0k0N2NqSFp4Y3VRNXJ5d3lWaGc3T2kySlV2aUVFbjNZMXJQMGRLZw?oc=5",
-          "ts": 1785910560000
-        },
-        {
-          "title": "Bears Extend RT Darnell Wright",
-          "source": "NFL Rumors - ProFootballRumors.com",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2sxd2ZydjhPZDFwcFRmTHNlN3VKck5jdGRXZ3ZDR2p6QXdGWXVocm9yeTBEcG54RkdiXy10MTgwblJMX3hELTEtbE02VHlycHpGbzAyamJwdXpCbnQtLUZrR3gwNGxubV9rdmtTMVBhUmJwaUxVN2ZPM1dDbGVLSHU0a0o2Q1dHblRXaTZ6b1ZMNEhNTnc?oc=5",
-          "ts": 1785905760000
-        },
-        {
-          "title": "Falcons’ Jalon Walker Suffers ACL Tear",
-          "source": "NFL Rumors - ProFootballRumors.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObDl4UjNvU2M4Tk9rUXkyS2dKLWx4TGpMM1ZZM1MtcVFXZDBrRlVqUGlEOC1Sek1aQ0RiMjhabFk2bE5HWndBdmFGZV8wQzhnTk92WXNmdU9wZnBDelBReWpVQmZLdVNGeGtNT1hOeHJTWFFZMHgxTTdMemZzckJyc3NWcDJNUHZQa3VvMmhn?oc=5",
-          "ts": 1785905580000
-        }
-      ]
+      "items": []
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": [
-        {
-          "title": "Jessica Pegula vs Alexandra Eala · Final · ATP/WTA Washington D.C.",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3J2ZWZ4RXYwVmdheUxYMUUwS2plVzdRTGhGMEVZcERVMTJRSC1VY2I1bmN2U1RCRWppai1HMVo5dFVCRnM3WTZXd0lNaUx5NnNiS2c0Z2NuTjMwOWJjdzMtT2JvV0ttNUllMUEwZ0lQdlM5RFI3TFJZM3ZBSER5TDJ4RFVueGw1MXRyZHV0NUdsOVk?oc=5",
-          "ts": 1785805413000
-        },
-        {
-          "title": "When is the Washington tennis final?",
-          "source": "ATP Tour",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RzhBb1JkdUVXUTBoclFxbnhxOXJleFhmVWZ4TENBZ0xyeHJUZVByRTU5bkdvUjFHeEdYTUFTQXhEV3hJYnlVUUxISFg2cWdMdlRRb18tZlh2elFfOUM3ZVowOEVCVFE?oc=5",
-          "ts": 1785740400000
-        },
-        {
-          "title": "Washington final delayed until Monday due to rain",
-          "source": "ATP Tour",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRVFnbzB5V2FMUENIV3RDSEtTR0V3MmhPZjZDVkFLWG9GYnhPdUx3bDU0TjJEQ2MtQjVTTVBXaVZBaFUzOXNyME83UUxmSkxTdjRGXzF3R1ZrNVNJcUJyb2tRRF96Z3lsbEE4WFJjb0JsUQ?oc=5",
-          "ts": 1785727688000
-        },
-        {
-          "title": "Taylor Fritz vs Rafael Jódar · Final · ATP/WTA Washington D.C.",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGVoUWlzM0Ytd193MnI2ZXdHYXlsZzNQQ2NIdlRlNzlobXAyd2hxZzM4bWRCMGNXOVpqLW1EeEduNWdXb1VIeG1QSE1PNDVnMXppYlBkZ2ZBc3pEbHFsaFhDaFhTZUlsOXNwcjFhaFpqSXV3YlRUMDBUU1F0RGlzb28xWmRpNzZ3SlZmdXRPaFIxYms?oc=5",
-          "ts": 1785714237000
-        },
-        {
-          "title": "Jessica Pegula vs Diana Shnaider · Semifinal · ATP/WTA Washington D.C.",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlFOb1RTOHNqNWRfX19kX1h6ZDJNMzNBbE84amtwQzh2UlZGeElXM3NjM2lzMUsxWEM1clpmQmN5OVJ0UGMxa1dudGtGNUp6bUgtRHZTVUtuVnNSd0lFblNXWGt4NUQtVEt2TDF1NExwa1FHYVdCNE9mWm85eEc4bXdnQjh6MFNyalBMZUp2aEpscEpfTEVIdg?oc=5",
-          "ts": 1785546214000
-        },
-        {
-          "title": "How the kingmaker of men’s tennis sent the sport into turmoil by trying to save it - The Athletic",
-          "source": "nytimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFdCVnh5RTVob2Z1SVJ4ZWNJeEpoSi1wb0o4eXVCSmVEdHNSbHlBNERpQTBxLUlIUlB0Sk5ubGhNeW45UUx0V1VtR3R1UFpyTGdWQ2ExOVh6MGozSnNQcWI4bllLVk55YXpnNEMxTzA2OERJamJwNGxEQ2lIbE81Z19hRnNxZDI0WkoyQU1hYjFuQUdnYTVDR2lLYzFGMWFCM2x4QWNEZFg?oc=5",
-          "ts": 1784962800000
-        }
-      ]
+      "items": []
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": [
-        {
-          "title": "Loved the World Cup? Here's your guide to European soccer, 2026-27",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONGtJQkN6TUFaaTM1cTg2ekdwT1RUNjlNNWV4YS00Y0M4WjRjeHI5Wm9YSGhvWlUzT2I5VUNHazJXdWJTOFpIaUpsaUg2bG5jYm11ZkZ6bXFhb3I1YmRtVFZyVHZ0dUJaSlAwRHBIY1lLUG5PYUdmTDc4YmtCWlJOaHk4ZWVOV2l5UEpmRm5kQVlqLU1GQ0k0ekY3LVJQeHo3YmdpbUJOV1F0bWt5ZEZGcWlQUmQ3cndzY3ExdldlajUwVWpMbjNuaVVSOGRIWnF5QWw0dFRNbUZTZlRqcWo4?oc=5",
-          "ts": 1785916440000
-        },
-        {
-          "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
-          "ts": 1785915682000
-        },
-        {
-          "title": "🥐 Farewell to a legend, FIFA crisis, window... 5️⃣ stories of the day",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUwyRXdsSnFUVU1WQzVpRDc5SlF6OEM4azhVS1VJUHdEVzFJQ0dheGJwTDJ5TXp6VE96blcyRmluc1BUVVNGamw4Mmw0LWpidDhMRjdac3BUYUhHM21zZVpuYnExQXFYZExzanBPMXQ2aHF5bWlsNXRCcVNESzEtTENJSEhNNmVLWk5F?oc=5",
-          "ts": 1785912780000
-        },
-        {
-          "title": "Oliver Baumann says Julian Nagelsmann apologized after World Cup benching",
-          "source": "Bavarian Football Works",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRi02S1pPVnBCd2lyMXdnT3BsVThlUlB4Ykc1X0JnbVd3b3hDdktXUGdiWU1OQUh5NVkzeDByQjN3Z05MbFduSER6OF9xRlNXeXhDYjlTUzdCdjFfdGI5Qm0xWFRKb0FtVmVhbnZOU3hhZUJubl9ONGpRMy1tVUJxT3huaEhScS0xZTJya01LSnhBQkxuOGhSWGVpeGF4ckZfR3Z5ekwwWDZIM0FTYlkzbUdOTTdWUU9MeDVWYUhrMURYSHhRQ2N4dG1kRTYwdTZPa3BVaG1xdzRja3Z4TDV1dA?oc=5",
-          "ts": 1785908700000
-        },
-        {
-          "title": "Soccer Star: World Cup Was a Win for the Gospel, Regardless of Scoreline",
-          "source": "Movieguide",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHNsVVFJTUpDR0x2WWRBMEJTZlZsMWt0QnNreE9tLURnY1NHV2k2UWdWX3RTS2hWcVJPQVNPYnE4bmdFSjY3YVZvZkNBSmQtS3JLUUNJZG9iM2tOLTJhSlRHTFZ6TThVdVMtTjZ5cmRZNDV0bXRjSEctTUt2WU5abDZIcXFCZ0V2NlhteDVNa1RhcC1sdTIzQmRpYkFzeWRUMG1WYkh0UEhzSVot?oc=5",
-          "ts": 1785902752000
-        },
-        {
-          "title": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained",
-          "source": "britannica.com",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-          "ts": 1785898838000
-        }
-      ]
+      "items": []
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": [
-        {
-          "title": "Fed's Schmid: Tighter Monetary Policy Needed To Restore 2% Inflation Target",
-          "source": "Bitcoin World",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMTBnZGpqZk40djZoRFNwS00xVnRVaXhBRHFXQVFyeHFseHdReWxCRTdXeUhDVHV3VzI1V2d4cEQ4UnpxTm5LU2JVck5vbm1IQWV3dlpleUR0SnltLWJVcFpsaVBxamtfd210VUhnOUlsLWJfR0ZyamRxU0JaQWhUSFYtTV95QQ?oc=5",
-          "ts": 1785906311000
-        },
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "source": "theguardian.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "ts": 1785875460000
-        },
-        {
-          "title": "Monetary Policy Perspective: Keeping an Open Mind",
-          "source": "Philadelphia Federal Reserve Bank",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVnJOWm1ka24tTVJiU3hwUjJOSExjT1ctZnVwVTNwUmxRUnlrMXRyMFJNYUlETXhtWmpsY3g1QkwtRWJMY2ZveWpjN3Q1OHFCTE9sOUNfREFvd3NjcldvZFBxWE5Gb0Z4Z3J0SzN5MHVQdVV4akFCLUpLR185TTFJcnM1Q040aTFiZVRFMzJ1NkRrNXlMVjZWX1NFMkdnSWNCX2RkSURfREJpd3F5?oc=5",
-          "ts": 1785874688000
-        },
-        {
-          "title": "PCE Inflation: Why The Fed’s Preferred Gauge Matters For Your Wallet",
-          "source": "Bitcoin World",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11V3ItQ1pyR0R6Tk93MXdpRTRLdG9ndUs5TDljYmhuTzdrSU9lOC1VZ1VsZmpGOG9YQ3pCWFdhX185VmRTMjNZWmc3LVZHalVuc05sQjluX0lMRVdiZF82bVB0NTB2RU1ReUwwdkJB?oc=5",
-          "ts": 1785873611000
-        },
-        {
-          "title": "The stock market may be walking into a Fed disaster",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
-          "ts": 1785862020000
-        },
-        {
-          "title": "This Indicator Hasn't Been This High in 4 Years. It Means the Fed Could Raise Rates in 2026",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmdUWFZMTkM3S1hTUTdQQUN4U1JVVzdSVGwwUmsxN1puZk9Oa29pZmRUQ0dobkFMblpLM2stajdqbHBOZDdRZGdYdlJ6blc1ajl4djVzV0QzaU9vekdsZzJreXRhQ1hwaTZMeWo0dERSZ3RzLWZXRjF2OXk5Ni1DdFhreVJRVXdDWWUyRVBsTUt5UTVNYXktOXJHeDItQU5wX0lYU3hIX1N3am43cnhrVnZhY01UeDNZNVJBRlBBNzEwbEhWb1lqVXBsX1lFQQ?oc=5",
-          "ts": 1785860227000
-        }
-      ]
+      "items": []
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": [
-        {
-          "title": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High",
-          "source": "BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBabGotSHZ5TUdVU1ozZzVrTFBFUXh2QVJSdC1XNHd5eWNNejlKNlJWcld3VDJWU1dkOHVWb3pFZnBpcDZmRERmX1o4LVBzMTdZdGVua2w1TXUwRVUxSUtnZG91Mlo1b0k?oc=5",
-          "ts": 1785915360000
-        },
-        {
-          "title": "NKE Stock Trails S&P 500 By Widest Margin In 25 Years – Can Elliott Hill’s Turnaround Effort Change Narrative?",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbWlDbnVOS0UxOGNNVVJNYTZLZW5QcGNwTGp4bjdnS3hISmZvMmxSR01abUNfSTRQRmE5RUVhMEsyanlXYUladlcxVkNZN0EzdTZoTXJ2VHE0RVItS3BOV29ZcmVxN19yRHQtZEJYS1B6VzBsODFBbUlUU0FHMXNDb1VWZkczSUdQc1RaaHNNVEVCNGtSbllGNnd6Ti1sdkFsSzhhOVZRLWdZSGFxVGdHWXRzRlg3X2RsNTdxN0c3a2tLaHc5ZGpVSzQ4ZkNqWHlWMHhmQXZXZnFJa0gxaTJnVHNkNEFIbFF2dVBWZUhvT2JkUFM4NkhwbkpEN2F6NTd3eDJmcHBn?oc=5",
-          "ts": 1785913988000
-        },
-        {
-          "title": "8/4/2026 Market Summary: 3 S&P 500 Stocks Hit Lows",
-          "source": "Trefis",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHZPQ01qUVFzLTZ6VGRFMHhfaXJ2VGdreUY0dzlmVFpUMDVKNm94cFNwSDZnUGhUd2dGZ3Q3dlhOMm8tRG5qRVZrNTFmR3l3eTdKZVdQaGFvNF9SajJJdGtyODlnV1RZMWhRUmtGMWRnajluNExLbTNFd2NkQXpfRjJKTnJJRGdMV0FNY1ZqNlQ0Q1NJZEVIcHhzMGJKekpLZW5YdWd0Mkl0b3BKQTZxLTZYS3FMRHdfdml4UEJ3SQ?oc=5",
-          "ts": 1785913969000
-        },
-        {
-          "title": "8/4/2026 Market Summary: 305 Stocks Hit Highs Including 36 S&P 500 Components",
-          "source": "Trefis",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSk1VeTZDRkZTQW1YNFpleGpGWk13c0RCUUxWQnZlcjh2QUp3WktqdnktaXlFbXBrX2NCNjRobUczbzY1dGpwcEx1bU5XcGNIelRVZ1hFYTNUekVJRzRqNFpLV0ZCeTNXTFBEd1dzUVFMdWdYNXB5a2JSRGhWVkphZjRCR25ZQUxUcFNUY1kwUEZ5ZF92a0pPa0dUTlBSQTdfOHdFZ196V1BGTFRSQlNjT2JMVnFyVkxvSzRPcDlJN05ZcS1vZGF1a1kySUpjVFJYTTRsUm4waEhGVXg1bkFRb2ZR?oc=5",
-          "ts": 1785913949000
-        },
-        {
-          "title": "8/4/2026 Market Summary: 56 Stocks Hit Lows Including 3 S&P 500 Components",
-          "source": "Trefis",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNkVGdzJuMDVBTFNYUnV5aG5UelE4MUZrNVZvY1N1UnhRVkEzU2kwZHJYdHRrQTM2ZTF4ZHhmT3hMTW5YbUFvVUxNYlRXSVR3N1h4Y3hGcGIzX0JwVEdPa2VxVW5hQ1FWTklDOFRFWXZTcnNLN3VxaFVWdUVyWnlmYzNpQ21rZHNzbVRWV3JTc1U2NWFtUFpRSGNxWkNZaXBnbklTa0tINDNrRmxReDJKUG84VkRKVGFpdWcycElXd1Eta3QwS1FyZEFVYXBLOW15MVhPMkN1anpsS2lhQVE?oc=5",
-          "ts": 1785913949000
-        },
-        {
-          "title": "S&P 500 Rally Fueled by Gamma Squeeze as Volatility Risks Build",
-          "source": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUk0tdmFlaHZxeHdKS0p6NkRJRFBrVWR1aWhUb013Y3M3aUlXXzMtM1dNdUV6RFo3aTkyRXZSakRUcV9PSUFYTVVpdld0Uktrb05wOTdaajBpOUpfNmRqd0tGYjVQWk9TQ1djZVI5Uk9td0RXb1NRQjVsb09zQmIyVTVqVWc4WHdDMVNXYTFYb0t6RE5mNnU5OWVBNk5RR2R2YTdLUnV3?oc=5",
-          "ts": 1785912506000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": [
-        {
-          "title": "Why China’s biotech rise is harder to contain than AI",
-          "source": "ThinkChina",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEg1akdORDE4UHgwWHNScVFoQUt6LXBPRW1xb0h5RURldXEtZTRsTnR5NXQ1SkdFVmlMUDhzQWRLNjZKVlFEbWY0bGJ2dnEtTFhYb0JQc2R2Q1FXc2RPb1k4QlFuUnMxdG1fS2MtYl8tWjRBNVp2a0pxb2xQRHBZS0dQM0c?oc=5",
-          "ts": 1785912834000
-        },
-        {
-          "title": "Can AI fix broken clinical trials? This platform wants to predict failures before they happen",
-          "source": "Ynetnews",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jSk84YzNXVi1XTlhJbV9Jekp5ckh5cFQyTTZJbUdOLWw1MW9UazVxVTNHVndlVGttS2JORHg1WUgyUGlkeThGeU1GMGNqaHNKSHdOOE1yMnJxa1ZTcUh5MEdB?oc=5",
-          "ts": 1785886725000
-        },
-        {
-          "title": "Biotech leaders call for streamlining of INDs as FDA’s Trialblazer rolls out",
-          "source": "BioSpace",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzY2d1dvaTduLVhzZ0JTUldoX09wd0xPSnkwb2x1QjhWTHdpb2ZiRXJ3U3FhUm1weUJUSlZxcERMNVQ1TTVTYkxvRDVxRDUtWGcyWGthOFR3a2ZOc2ZPclNrZkR6amRmLVRqeHlqMHptclBvd1Q2RFFLWVdsRE5CUFd2YTlmUVM2THJ1UmtqX1VRSl9YRjFhc1BJWnE5YldEQlpRdUJ6OA?oc=5",
-          "ts": 1785730257000
-        },
-        {
-          "title": "Kelun-Biotech Receives a Clinical Trial Notice for Its First Dual-payload ADC SKB565",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTRwTFNycVp1RFJNQ1NRbXBkbmZkdzE1c1dOUTB3Yl9RalBLY1llSEVvbzFwRjN6MkV3dDZMUV9jNTM5OWJvZHk2dGp4V3diMjZlS3FMODI0dFNTMVZmVzJKMFJFNXBHRDNwR181S0J1SEVVVlYxLUc3anBUNHZheElxMk9kMTB1eHZCZ3dPWGM4bEFrY0JxdWx6elVRMDlMNWNqRFRObkMtdVJWSldPc2U2eHhudlZncU14UDR1MmVBOFZuV2pHNVYtcEFhVHg5SGtwOVZldw?oc=5",
-          "ts": 1785151800000
-        },
-        {
-          "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWZPSWhYMmd1M1dlNXNJWWQzY1RPMXVLSmFqaDV6VVYzM3VvU3dvS0JCZHlCUWJlRkl0U1RNMGxUbnQ0OTJESUNaaUFyMTRfUXMtaHV0U205UXNiNmJHbUJKb2ZMUkdHbjF5ZmpLelg1NjJhYmNVSWhuM2N2MzFIWEZ30gGHAUFVX3lxTFBPSlJMT2dqcm1zY21LV0JIWlNYUTVCNTRkLXI4SVA4WGV3VUlPRVIxZlNHQS1EZFViejRoUTc2R3dWU1A1UzFMQ0tlSVlpdFNqVUpTUm4xWTk4b2hUOFFkM0o3M3IwNnMydWNUZzVkbGxKcGtBVXhJSlphMFVMWV9ZU1NlZHNMWQ?oc=5",
-          "ts": 1784617200000
-        },
-        {
-          "title": "Kalshi launches biotech prediction markets pilot program",
-          "source": "Kalshi",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWY0SnBXY24zZl9HNmNRMlNKRWhpRXgtZGFPSE5UZDBDQzh4R0FVajJFMENMdTVxSjVObVlWUUtSM1dGWFNLUlRLeF90NmtXSmVpdGFnZjBOWDFrWXRncGY3OHRMbVItRDVn?oc=5",
-          "ts": 1784185200000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": [
-        {
-          "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment",
-          "source": "barrons.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZnUkhSRDk0OHRSc0g5WlhaMGFLYTNYWEh3Z0xSTnRrZEFlQjNSTFNxb3FTR0RoYXJFU2dVVG13MFo2c1MzeFhfU01LSnZ0UXgwYXd1YTltMzBuU0xaS2gzU0pPQkhGalBGck16QmlCWjRCVWNNV2twT080TWo5V2o3eU1pdw?oc=5",
-          "ts": 1785529320000
-        },
-        {
-          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
-          "ts": 1785508894000
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "ts": 1785503580000
-        },
-        {
-          "title": "Outlook Therapeutics (OTLK) Stock Soars 12% Following Lytenava FDA Approval",
-          "source": "Blockonomi",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZlVWWnFaa3B0OXVRWUxuRWtCbWNyMzFLNEFYenlsYjExU0pvX3FxdzNwR1RsYUZRd3l5WWRwbnNoVjBYWXJPdXpNWEdEalcycXZpNE5nTTg4NTl3eHZlb1FwM0NOVV92eGx4T0V1dVNVUXhiS2dtOV9OVXE2M1VfcG9mVHBZZmNpQUZjTzhXWERtZHJqXzBmN194MUk?oc=5",
-          "ts": 1785160917000
-        },
-        {
-          "title": "FDA Advisory Committee Meetings: How They Work And Why Biotech Stocks Move",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSE5WRDlZRjcxVDQzYVJDQVBqcjVMdk5GSGVvaWlfNVNiQldLMlFSTnN4QTV6OXByRjZLX3ZwWWtKdUltZEZBSGt6MVVWZndCU3QzNEJiWDNSQ3pNRW1PTC1FM25PZDdPRnRQWW9SQTF6VU8wSnVHU1praGVZM0lwRVd1al80akVRbm9hUmpXNHczQWpha1FTN3pfZmdqOXhKMjB3OXJDcl9NNUZhaktF?oc=5",
-          "ts": 1784905980000
-        },
-        {
-          "title": "Why This Biotech Stock, With Its First FDA Approval, Just Crashed By Double Digits",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0Q0VUkzM2tLWHZVdHpyeTh0aUItZllVUW1ZRHZkNzExRUd5cDNxOWd3OExaSmJTdDR3RzBHdTFJTjBhaTlOWFpKQjg0ZVFoR3hSek5SaE8xZmNPVVItWG5FOXFjeUYtZGF0RHAyUEhjY1hOZGRuQzJLeVoxNk5MR3ZuQ2k0ZDR5VUpWV0VheFo1bFdST25MQnN3?oc=5",
-          "ts": 1784098800000
-        }
-      ]
+      "items": []
     }
   ]
 }

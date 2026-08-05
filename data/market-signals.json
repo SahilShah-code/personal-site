@@ -1,191 +1,6 @@
 {
-  "updated": "2026-08-05T08:12:43.522Z",
-  "withNews": [
-    {
-      "question": "Will the price of Bitcoin be above $62,000 on August 7?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-7-2026",
-      "yes": 91,
-      "change24h": 9,
-      "vol24h": 13013,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 47,
-      "change24h": -8,
-      "vol24h": 371222,
-      "headlines": [
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "source": "theguardian.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The stock market may be walking into a Fed disaster",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 51,
-      "change24h": 8,
-      "vol24h": 367628,
-      "headlines": [
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "source": "theguardian.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The stock market may be walking into a Fed disaster",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $62,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 77,
-      "change24h": -8,
-      "vol24h": 37914,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
-      "yes": 43,
-      "change24h": -8,
-      "vol24h": 33907,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 49,
-      "change24h": -7,
-      "vol24h": 44619,
-      "headlines": [
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "source": "theguardian.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The stock market may be walking into a Fed disaster",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 33,
-      "change24h": 1,
-      "vol24h": 13535,
-      "headlines": [
-        {
-          "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "NBA: Stephen Curry to leave Warriors?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 46985,
-      "headlines": [
-        {
-          "title": "\"The way KD view basketball is very Uncle Drewish\" - Draymond Green responds to Kevin Durant's claim about the 76ers being better than the 2017 Warriors",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY0RHNXl1TThhNFo0MVNqNWtzSV9HS3JlLW9HcFJWOGNaUGJLaHM0bXpRdHlnbEIxXzVSa2MxOEQ2cWRRamMzNGdyeDZWTTRzaDNQdmdTMGE4QWEydlBoRFAxQ0Z2V2NyNHRpTUVoQ1BYREh6LW50cW5tWXk5SVNsVDB3ZmFwX2EzbEZ4Q1QxTTQ2bEhuNmlhTGhRalVUVGVuVzdyTVdGdkVmOGxWajRGRURrZnRJdHBpVEs3WFN4VHZLLTBxeEo4d2JtUGdDdGtYaHc?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Stephen Curry Links Up With Jayson Tatum at Massachusetts Days After Warriors-Celtics Trade Rumors",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPWWtNVzR3UlRwTl9ZYXVYVk1RRW5WQWNJRFVMWFREcUF0NHZiV2loTFpSQ1ZGYS0yOVpCcWpZZV8wcDdqOU5JV3J6QWhJRzNXTDFZbTZVMFdwRUt4clZwdVVTRi1jREF3TEpoVzVkZy1ZekJHRU9mc1BYRmcyaVRuWnZRREtadnh0OFNpMkdQOGpfSXIzOFl5aWhPeDBBUnVRTk9lU3RDc2hGTDlGQkkzZi04Yjh2UzZsYXFwRHYwTkJMYURmQ1kzZmFmeWJSUm04ODh5Y0o4WklITUk1bV9qSzJyNEFJQzY3MEIxVE1HeF8yREg0bkI0cWF3?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 12583,
-      "headlines": [
-        {
-          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Taylor Fritz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-taylor-fritz-win-the-2026-mens-us-open",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 9049,
-      "headlines": [
-        {
-          "title": "Taylor Fritz vs Rafael Jódar · Final · ATP/WTA Washington D.C.",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGVoUWlzM0Ytd193MnI2ZXdHYXlsZzNQQ2NIdlRlNzlobXAyd2hxZzM4bWRCMGNXOVpqLW1EeEduNWdXb1VIeG1QSE1PNDVnMXppYlBkZ2ZBc3pEbHFsaFhDaFhTZUlsOXNwcjFhaFpqSXV3YlRUMDBUU1F0RGlzb28xWmRpNzZ3SlZmdXRPaFIxYms?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    }
-  ],
+  "updated": "2026-08-05T13:31:29.836Z",
+  "withNews": [],
   "moversOnly": [
     {
       "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
@@ -193,7 +8,25 @@
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
       "yes": 11,
       "change24h": -12,
-      "vol24h": 30171,
+      "vol24h": 37663,
+      "headlines": []
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 47,
+      "change24h": -7,
+      "vol24h": 36389,
+      "headlines": []
+    },
+    {
+      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
+      "yes": 59,
+      "change24h": 6,
+      "vol24h": 20960,
       "headlines": []
     },
     {
@@ -202,25 +35,43 @@
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "yes": 62,
       "change24h": 6,
-      "vol24h": 16553,
+      "vol24h": 16413,
       "headlines": []
     },
     {
-      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
-      "yes": 11,
-      "change24h": 4,
-      "vol24h": 20655,
+      "question": "Will the price of Bitcoin be above $62,000 on August 7?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-7-2026",
+      "yes": 92,
+      "change24h": 6,
+      "vol24h": 13898,
       "headlines": []
     },
     {
-      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
-      "yes": 56,
-      "change24h": 4,
-      "vol24h": 20153,
+      "question": "Will no Fed rate hikes happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-no-fed-rate-hikes-happen-in-2026-20260623190852889",
+      "yes": 39,
+      "change24h": 6,
+      "vol24h": 10011,
+      "headlines": []
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 52,
+      "change24h": 5,
+      "vol24h": 332383,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
+      "yes": 43,
+      "change24h": -5,
+      "vol24h": 32153,
       "headlines": []
     }
   ]
