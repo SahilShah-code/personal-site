@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-04T19:16:06.247Z",
+  "updated": "2026-08-05T01:21:27.436Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $62,500 in August?",
+      "question": "Will the price of Bitcoin be above $62,000 on August 6?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 77,
-      "change24h": -13,
-      "vol24h": 22596,
+      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-6-2026",
+      "yes": 95,
+      "change24h": 13,
+      "vol24h": 11780,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -18,78 +18,12 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 48,
-      "change24h": -8,
-      "vol24h": 272073,
-      "headlines": [
-        {
-          "title": "The stock market may be walking into a Fed disaster",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 51,
-      "change24h": 8,
-      "vol24h": 190960,
-      "headlines": [
-        {
-          "title": "The stock market may be walking into a Fed disaster",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 48,
-      "change24h": -8,
-      "vol24h": 36776,
-      "headlines": [
-        {
-          "title": "The stock market may be walking into a Fed disaster",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 August 3-9?",
+      "question": "Will Ethereum dip to $1,800 August 3-9?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-august-3-9-2026",
-      "yes": 6,
-      "change24h": -8,
-      "vol24h": 9018,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-3-9-2026",
+      "yes": 46,
+      "change24h": -13,
+      "vol24h": 9393,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -103,9 +37,9 @@
       "question": "Will the price of Bitcoin be above $62,000 on August 7?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-7-2026",
-      "yes": 91,
-      "change24h": 7,
-      "vol24h": 10914,
+      "yes": 89,
+      "change24h": 10,
+      "vol24h": 14010,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -116,70 +50,130 @@
       ]
     },
     {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 49,
+      "change24h": -7,
+      "vol24h": 41938,
+      "headlines": [
+        {
+          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The stock market may be walking into a Fed disaster",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 49,
+      "change24h": -6,
+      "vol24h": 361810,
+      "headlines": [
+        {
+          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The stock market may be walking into a Fed disaster",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 49,
+      "change24h": 6,
+      "vol24h": 327853,
+      "headlines": [
+        {
+          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The stock market may be walking into a Fed disaster",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
       "question": "Gianni Infantino out as FIFA President by December 31?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 33,
-      "change24h": -3,
-      "vol24h": 13048,
+      "yes": 34,
+      "change24h": -1,
+      "vol24h": 15289,
       "headlines": [
         {
-          "title": "Gay exec touted as best choice to replace Gianni Infantino at FIFA",
-          "source": "OutSports",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTEVqdHhjdDRhdGVoNFJiWWRwZzJZLUYwdXBFOGd2eUNicWtJQS0xaFN2a2U0d2VScVZ5SkhKWHBHNFpRcW5pSWc5VTQyczdUUnFiRENnR3lzZFVfN0N0eGdyVG9LRi1xN3lHX3pqalVweEVLdEhLSmk2dERPQ1ZibWpYYXVsYWxDemJPYWFhRzlvRVphQmJISVctM1l6UDZDaU5BOHBmbWw3WWVsV3I1MWFFbXhTdDhES051QmlaZw?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Gianni Infantino faces another tournament headache as FIFA’s 2029 Club World Cup plan hits two major obstacles",
-          "source": "World Soccer Talk",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ1h4NTJka2U3QS02TnlWRkl0cTFFT1h4SnBpNTBxTjIxejQtdHRhZkNoMnRLcVN6U3UtQ2loVm11c3JZUXVlbXlNVmc5VmRrZzlPMV85dmIwOHVpOGZaWkZhNnFuZDlkTTV3RkREZ2NlVzNCU1Q4Z002Nnp3S0lOSGk5UThXRW5INGN0S2o1cFNGX2dWMmk0dlFxdUJGUU01ZjVaNzZmRWMwWjJPaGJFeVpNZWtLME1sZmFpT0JtanJxTTdQel84dkhCQ054VkdxMHFvWDNFeTJ1eFd2cW8tOdIB4AFBVV95cUxOZ1h4NTJka2U3QS02TnlWRkl0cTFFT1h4SnBpNTBxTjIxejQtdHRhZkNoMnRLcVN6U3UtQ2loVm11c3JZUXVlbXlNVmc5VmRrZzlPMV85dmIwOHVpOGZaWkZhNnFuZDlkTTV3RkREZ2NlVzNCU1Q4Z002Nnp3S0lOSGk5UThXRW5INGN0S2o1cFNGX2dWMmk0dlFxdUJGUU01ZjVaNzZmRWMwWjJPaGJFeVpNZWtLME1sZmFpT0JtanJxTTdQel84dkhCQ054VkdxMHFvWDNFeTJ1eFd2cW8tOQ?oc=5",
+          "title": "President of Jordanian FA accuses FIFA of ‘blackmail’ over Infantino reelection",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNamhNTVg0Z19CZVZScmlobGNMWFpVWWxFU2dab3JaRFF2SU13MXVwXzhvUzkzZTI4LWs2eXhRZzVPWXkyNFdFMHNwZkgtMTRvTHVKa3NmVGlsX1VVT19mUGFWUEkwUGNObVhCdm9RZVY3NFAxeTJ0RGg1aFpqbVljY2tZUHR6QkROR185bVNrOFFNRFJSa2hJLUEzalJiOHR4ODE3QUlTWF9WOGRtSDNTMFE4Yw?oc=5",
           "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will Taylor Fritz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-taylor-fritz-win-the-2026-mens-us-open",
-      "yes": 2,
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 9,
       "change24h": 0,
-      "vol24h": 16705,
+      "vol24h": 106230,
       "headlines": [
         {
-          "title": "Taylor Fritz vs Rafael Jódar · Final · ATP/WTA Washington D.C.",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGVoUWlzM0Ytd193MnI2ZXdHYXlsZzNQQ2NIdlRlNzlobXAyd2hxZzM4bWRCMGNXOVpqLW1EeEduNWdXb1VIeG1QSE1PNDVnMXppYlBkZ2ZBc3pEbHFsaFhDaFhTZUlsOXNwcjFhaFpqSXV3YlRUMDBUU1F0RGlzb28xWmRpNzZ3SlZmdXRPaFIxYms?oc=5",
-          "cat": "Tennis"
+          "title": "Knicks’ Top Executive Announces Departure After NBA Championship: “Mission Accomplished”",
+          "source": "basketballnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdC1ZOGlEYl9UeVJSdW4za0t4cE9uNHZoT3J1M1I5c3lXSDhRLVktdFdhYklTTWt2OXBpdU1BX0tOTml1dnE4MEdGOC1YZlhsb2pxYVZ2b3JZekh0UGZwSHpacjdEVV85Zk5tMFFwOTIzZHBXbm5lcGFJWGdPZWZHTWI2dUU0eGFLamczeTVtSHJhelNpemI0MXg2SUo0NUdtcTBHNEUyU2FyUFY1R214YkJOV1NnQlJxd3lGYmNjRTItVWkxeFlGMEJ2cnp3QUQ0T2JqdndEdDh3MlBUWWM3T05lOFBxeVk?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "yes": 11,
+      "change24h": -11,
+      "vol24h": 27419,
+      "headlines": []
+    },
+    {
+      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
+      "yes": 56,
+      "change24h": 5,
+      "vol24h": 20126,
+      "headlines": []
+    },
+    {
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 60,
+      "yes": 61,
       "change24h": 5,
-      "vol24h": 17157,
-      "headlines": []
-    },
-    {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the September interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-september-interest-rate-announcement-20260701223915216",
-      "yes": 97,
-      "change24h": 5,
-      "vol24h": 10101,
-      "headlines": []
-    },
-    {
-      "question": "Will annual inflation be 3.3% in July?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt3-in-july-20260714150613270",
-      "yes": 31,
-      "change24h": 5,
-      "vol24h": 9168,
+      "vol24h": 16957,
       "headlines": []
     }
   ]
