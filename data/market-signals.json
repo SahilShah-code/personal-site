@@ -1,52 +1,20 @@
 {
-  "updated": "2026-08-05T19:10:13.414Z",
+  "updated": "2026-08-06T01:18:37.004Z",
   "withNews": [
     {
       "question": "Will Ethereum reach $2,000 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 72,
-      "change24h": 13,
-      "vol24h": 18766,
+      "yes": 70,
+      "change24h": 14,
+      "vol24h": 19065,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 44,
-      "change24h": 12,
-      "vol24h": 19813,
-      "headlines": [
-        {
-          "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa?",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmZDSzdiXzJwTXpEVDNFWGhpb0gxRFpva0w5TFJSVVAyZERoZXBrbld1bC1RREdFcWJabmQ5dWlpMG1mOXRzLUtzb2lKSm50aGNPN3BHb1lNd2x4eXNCaTFaSHpIeVl0eWNSN0U3U2pXVkQwX2cweUllckZqSWF2Mno4VThkeHdubUI0dENBZF9PMExsN2FCRWFhUQ?oc=5",
-          "cat": "World Cup"
         },
-        {
-          "title": "Gianni Infantino reportedly promised Morocco the 2030 World Cup final for help saving his job",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNzByd2JfNWlZQ082c2VYX2NqS2NfemJFU3FLSjRyMEljYV9KOEhOUG1hZDZnbloyUEhmbnlNbUJCWnNrZlE5SWN2cTdyV2xRSkd4ZWFDd3RRT2g2d0F4Y2tMd3NlZ2VlU3lHSENNbTdaajYtbzg3ZXQ4YUNqaXYwaXpZblFmOHBqLS0xZ2xoRFZvSzFiQ2tRMVdKek0xNzRKREdGTXd1Ukk1X3JnTkNlV2xRZVIzZ0VOaS1QUlZna3NPUU9sQzlUT2RsaDlrRGsxWHlYcA?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $65,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026",
-      "yes": 98,
-      "change24h": 10,
-      "vol24h": 85348,
-      "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -59,10 +27,16 @@
       "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 67,
-      "change24h": -10,
-      "vol24h": 32453,
+      "yes": 69,
+      "change24h": -13,
+      "vol24h": 19196,
       "headlines": [
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -72,24 +46,46 @@
       ]
     },
     {
-      "question": "Will Alexander Zverev Win ATP Montreal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-alexander-zverev-win-atp-montreal-20260729172910268",
-      "yes": 22,
-      "change24h": -4,
-      "vol24h": 11951,
+      "question": "Will the price of Ethereum be above $1,800 on August 7?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-1800-on-august-7-2026",
+      "yes": 96,
+      "change24h": 12,
+      "vol24h": 12162,
       "headlines": [
         {
-          "title": "Jessica Pegula vs Alexandra Eala · Final · ATP/WTA Washington D.C.",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3J2ZWZ4RXYwVmdheUxYMUUwS2plVzdRTGhGMEVZcERVMTJRSC1VY2I1bmN2U1RCRWppai1HMVo5dFVCRnM3WTZXd0lNaUx5NnNiS2c0Z2NuTjMwOWJjdzMtT2JvV0ttNUllMUEwZ0lQdlM5RFI3TFJZM3ZBSER5TDJ4RFVueGw1MXRyZHV0NUdsOVk?oc=5",
-          "cat": "Tennis"
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
         },
         {
-          "title": "Taylor Fritz vs Rafael Jódar · Final · ATP/WTA Washington D.C.",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGVoUWlzM0Ytd193MnI2ZXdHYXlsZzNQQ2NIdlRlNzlobXAyd2hxZzM4bWRCMGNXOVpqLW1EeEduNWdXb1VIeG1QSE1PNDVnMXppYlBkZ2ZBc3pEbHFsaFhDaFhTZUlsOXNwcjFhaFpqSXV3YlRUMDBUU1F0RGlzb28xWmRpNzZ3SlZmdXRPaFIxYms?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 24,
+      "change24h": -9,
+      "vol24h": 35343,
+      "headlines": [
+        {
+          "title": "FIFA apologises but backlash against ‘cravenly self-interested’ Gianni Infantino grows",
+          "source": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlk0cndDalB3UHpGbHFvZGV6LXJ3QUtKZXh5cGZmSjU1N0VhaTYtbUtxMzJEVFNOSmpBUmR6clpMYThsTUg2Mm9zelQ1MjZjR185bXh3UWp5S3RLUjQ1M1k1dVJfNFpJRUdvTHVaaFpEVXJXbnl2SGZ4aTVjV05CQ3ppancxaFFaaVc3YjAyLU5QQXdZdlhBOGpQUnpRLWZNVWYwbkd4YVhHaUFTWUN4amVUVkpOSW5ZQjVGOHJsODNJYm50OEtpZXB1b19PbDVLR3BfaG9BLTI?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "FIFA leadership backs president Gianni Infantino following crisis meeting in Morocco",
+          "source": "wbaltv.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUEZzcTFpWDBhMFdyaXM3RlpDS0ladHBOZWdSSjhZZ3RfOHItLWNReW9HSzZhNWQ5R3pmQ3QwUDNYZlo2SHY0ckljU0djNDdhREIxTnJIdkxJcUp6dG1BMjYzTHBTT2ttSzhCMlNfVU1FbGhzd0tjSXB3Snp4Y0hOMDgwYVVSWklEVU9GcmRPc2hzT0xUUUVj?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -97,20 +93,14 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 53,
-      "change24h": 2,
-      "vol24h": 351653,
+      "yes": 54,
+      "change24h": 5,
+      "vol24h": 274390,
       "headlines": [
         {
           "title": "Kashkari says Fed should raise rates now to tame inflation",
           "source": "The Edge Malaysia",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQ01pN3NKb1YxMWxQbTB6dWQ0aDA1N1pjODkyUVRYWGxhWm1SWHluNUk3cVFiRVdxYnQxcGxOaU9ENkV4NnpROEdZSlhUZGJR?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
           "cat": "Macro"
         }
       ]
@@ -119,58 +109,36 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 46,
-      "change24h": -2,
-      "vol24h": 312623,
+      "yes": 45,
+      "change24h": -4,
+      "vol24h": 313507,
       "headlines": [
         {
           "title": "Kashkari says Fed should raise rates now to tame inflation",
           "source": "The Edge Malaysia",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQ01pN3NKb1YxMWxQbTB6dWQ0aDA1N1pjODkyUVRYWGxhWm1SWHluNUk3cVFiRVdxYnQxcGxOaU9ENkV4NnpROEdZSlhUZGJR?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "NBA: Stephen Curry to leave Warriors?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 3,
-      "change24h": -1,
-      "vol24h": 51151,
-      "headlines": [
-        {
-          "title": "Warriors predicted to trade for $112M 26-year-old elite shooter to pair with Steph Curry",
-          "source": "sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmVvM2pmRjVFM2N6Q0Z0WjRiSU1UYS1jQ1Jyd1c2OXdqX3RNanVyWmpkTUw1X0QyT2ZUMl9mckR4ZW4yZER5QlRwSHVZdGJKZHNvR29fWXVwZDN3QmRrQld2azJHblY0UTk4QmEwRGdFZktTZlpSWkZlWlJ6TzJkOTE2S204SU5m?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 64,
-      "change24h": 1,
-      "vol24h": 22895,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 47,
+      "change24h": -2,
+      "vol24h": 11877,
       "headlines": [
+        {
+          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEVjLVowMG9OLVZ0RExjc2Y5dTVsRjVRQVRjbDV3eEhjdmliWlNXOVBUX2ZBRWlJZzBaUWZQS3NNSEJXSVVJdTQ0VjIwWUVYS19jVEtYQmRuTTVsek4tZWdJQWpUZ2V4VjFWaE5RYVVuSnVITnBzVlNkWWVsYnJFSUFDTWd3VVh6b3pHeFpJUmJsWjQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Kashkari says Fed should raise rates now to tame inflation",
           "source": "The Edge Malaysia",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQ01pN3NKb1YxMWxQbTB6dWQ0aDA1N1pjODkyUVRYWGxhWm1SWHluNUk3cVFiRVdxYnQxcGxOaU9ENkV4NnpROEdZSlhUZGJR?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
           "cat": "Macro"
         }
       ]
@@ -181,40 +149,25 @@
       "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 12586,
+      "vol24h": 10661,
       "headlines": [
         {
-          "title": "Chicago Bears tackle Darnell Wright dishes out credit after signing huge contract extension",
-          "source": "ClickOnDetroit | WDIV Local 4",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY2o0cVowQl9mWnhmYWQzalFVUlZCOWIxaV9idFRqWDRUZDJHSXZkSGxfQ2FKY1M0T21BZTkzVU9tMmpfNVVEbFd4ZlNCWWxmVWZEbUk0LWFHcUpBdTA3ay04VVMwQXNmM3pYaTVvbkZzdmJDWHdMMmU0YnFvdUtyaTRTU2pfcUdZU1F2UFRFMG8wR2cyWk5vUE9tSEY1S2VRcVIxU1lhN3BBNUxOQlRzaWI0NnBUZWN2R1VPMmd6NjJtd2pybk5SYzNCTFVDNWVpdkprYWRfVzM?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Chicago Bears tackle Darnell Wright dishes out credit after signing huge contract extension",
-          "source": "News4JAX",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPME55X0l0czQ5VkphbzRXdGt2R1FqTG8xM2FWYU5GSHRYcE5RN2Z2VE56dmQyN0JKSjdVMWZzQm9velBFSFZvUGh4SDJTVzFKVlR2TmVsVDN4d2NHQWxidi1FMjdFVk9RejVSXzR2WGFwVGt4dFdZbXMwTmcyYnZIQ3lYZno2T21rVjhJNUlrcnIxUWlkelN2bXhXRGFZTnBPMXJmdTI0TkRvWmdvYlRBd0NlcDZPTmJCT2JaR3lBS1AxWm5JdDFCb2Q2Q09STUxH?oc=5",
-          "cat": "NFL"
+          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 11,
-      "change24h": -12,
-      "vol24h": 38522,
-      "headlines": []
-    },
-    {
-      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
-      "yes": 59,
-      "change24h": 6,
-      "vol24h": 19100,
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 66,
+      "change24h": 5,
+      "vol24h": 11655,
       "headlines": []
     }
   ]
