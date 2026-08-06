@@ -1,24 +1,24 @@
 {
-  "updated": "2026-08-06T08:11:33.593Z",
+  "updated": "2026-08-06T13:29:48.525Z",
   "withNews": [
     {
       "question": "Will Ethereum dip to $1,800 August 3-9?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-3-9-2026",
-      "yes": 13,
-      "change24h": -29,
-      "vol24h": 8669,
+      "yes": 16,
+      "change24h": -21,
+      "vol24h": 16903,
       "headlines": [
+        {
+          "title": "Prediction: The S&P 500 Will Pull Back This August. Here's What History Says About the Damage.",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYXFLWE9hWU54OGUwMDNjZDRHZ2NWaUdhWFU3R3dNQ08ya29uWk5fRDZ4bU5Mb2hiMjhsYmw0M0xhUDltQWpHajRUR0lRU0hILUJsOTEtNzJrdTV0NW9VTXIzQkhQZXFfLTJyM0JRNXIxT21zOEsxbkV3?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
           "source": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
@@ -28,35 +28,29 @@
       "topic": "World Cup",
       "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
       "yes": 20,
-      "change24h": -13,
-      "vol24h": 40998,
+      "change24h": -14,
+      "vol24h": 50052,
       "headlines": [
         {
-          "title": "Gianni Infantino receives ‘full support’ from FIFA leadership after crisis meeting",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1ZubF9oTkJnYjQ2NHVGSm1saE81cmNjRm9HQUFXdEw2cC1xT0w3MTV1LVg0dkFFMUNBU3dERGFibUNFT3hJM0NSY0R2YjhsTEYzMFR4VEdTN3REbXd3aHF4c1ItUHZKNTF1M3Z6ZEV1czktRUdGZlJLOGt4LVQxa3NPWi01RTBhRzFZdjRVSXV3M2xXSGJv?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Thursday briefing: ​Is this the final whistle for Gianni Infantino at Fifa?",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjhnQVM4UGEyd3V1enRWZXpTc2tlNXh0T05aVU93d0RWU0Mwb2Jydm84eEcweWRBVUZFWmxIWkI3NG1vX2c5UG5YLVZOU1k3SlczNnc2X3lIdWRSSms4cmpza2ZWUloxNmtBNGNETVVYT0VJOTgzMnU0YkZBbXBWb3hCenZqSWgzQkEwUnZZN2NzNklKMi1CYkpRb1NSYUVkSmxqSjdFYl9DZEZVM2t6SXZYeUlHQjFqSnc?oc=5",
+          "title": "FA doubles down on Gianni Infantino stance as Fifa rallies behind under-fire president",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUxDMkZZMkU4TlpHVDA2Q1hpNEprUGZNcTItTE1tV2ptbmVpbVk4WTRlWWZ1NXh6TVRXZ3V1VjZIMkFNalpqMXFDYVVkRldFcGpqNzU5VXN1UU5GNk5sVzJQdmNmQXZnMTNiZXQ0aFVWMzF5Vk82VmNzOW81QXJQcjY1WE5Kb2dI?oc=5",
           "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in August?",
+      "question": "Will Bitcoin reach $66,000 August 3-9?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 65,
-      "change24h": -13,
-      "vol24h": 20437,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-3-9-2026",
+      "yes": 24,
+      "change24h": -8,
+      "vol24h": 27279,
       "headlines": [
         {
-          "title": "Bitcoin is stuck as Wall Street prints crypto's $2T market cap. Here's why.",
-          "source": "CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2hneXMxOGtCLXEtdDltNmxCOEpRNHRoeWZJX3ctWVBNT1A1R0FlWks4Q1NkYW85N0JRRGlLRS0ydzZmRUdsc2xNbExUNnBNV0F2ODNYa1lqbWlTZUhzODZ3R0ZGQjJqRTI4RU9qYVRHcno2YzV1SzVRS21nSWVrZ3lhQWpPdFM0Z0NPUHJnTGxzaEw1MWNhQnBPOVRleHVfVUJMcFFtZFdXWTVmbG1HTU9xSHpHbE1Kam5Zc2x4eEhySkRXZjhucWpyZWZRU1REUVJLemxLeXMzb1czMnFz?oc=5",
+          "title": "Prediction: The S&P 500 Will Pull Back This August. Here's What History Says About the Damage.",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYXFLWE9hWU54OGUwMDNjZDRHZ2NWaUdhWFU3R3dNQ08ya29uWk5fRDZ4bU5Mb2hiMjhsYmw0M0xhUDltQWpHajRUR0lRU0hILUJsOTEtNzJrdTV0NW9VTXIzQkhQZXFfLTJyM0JRNXIxT21zOEsxbkV3?oc=5",
           "cat": "Markets"
         },
         {
@@ -71,20 +65,20 @@
       "question": "Will Ethereum reach $2,000 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 70,
-      "change24h": 12,
-      "vol24h": 19712,
+      "yes": 64,
+      "change24h": 7,
+      "vol24h": 12649,
       "headlines": [
+        {
+          "title": "Prediction: The S&P 500 Will Pull Back This August. Here's What History Says About the Damage.",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwYXFLWE9hWU54OGUwMDNjZDRHZ2NWaUdhWFU3R3dNQ08ya29uWk5fRDZ4bU5Mb2hiMjhsYmw0M0xhUDltQWpHajRUR0lRU0hILUJsOTEtNzJrdTV0NW9VTXIzQkhQZXFfLTJyM0JRNXIxT21zOEsxbkV3?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
           "source": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
@@ -93,9 +87,9 @@
       "question": "Will Ben Shelton Win ATP Montreal",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-ben-shelton-win-atp-montreal-20260729172910277",
-      "yes": 13,
-      "change24h": 6,
-      "vol24h": 9902,
+      "yes": 12,
+      "change24h": 5,
+      "vol24h": 10764,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -109,36 +103,14 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 55,
-      "change24h": 4,
-      "vol24h": 312810,
+      "yes": 51,
+      "change24h": -1,
+      "vol24h": 505306,
       "headlines": [
         {
-          "title": "US Fed Governor Lisa Cook says prepared to back rate hikes if inflation fails to ease",
-          "source": "ANI News",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbW41MnVZM1VkVFN4VlFqOFF2eWh1QkVBZjBZTk1hRmlmLXlKV0FtOThDdzNqcllfM01vM3F4UFpDX2pLaU8yYkM0TF9NQTdGUTBlUkw0WjN0Mm1hdm5uaUFYR1JiaWlxVzNRVllKUTI0VHQ3dlV1VE5OZXVHQWZvUTJxVGRJTXZRVXhuSkt3bDdTa1pYX1o0bUkwNlZtaFoyMzB2cFVSR3RqWnhHRk5TQlh4OU00WlVkS3dLd0dlckM3czV4dnpNdXlnYTN1eVJLWEE?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 45,
-      "change24h": -4,
-      "vol24h": 12473,
-      "headlines": [
-        {
-          "title": "US Fed Governor Lisa Cook says prepared to back rate hikes if inflation fails to ease",
-          "source": "ANI News",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbW41MnVZM1VkVFN4VlFqOFF2eWh1QkVBZjBZTk1hRmlmLXlKV0FtOThDdzNqcllfM01vM3F4UFpDX2pLaU8yYkM0TF9NQTdGUTBlUkw0WjN0Mm1hdm5uaUFYR1JiaWlxVzNRVllKUTI0VHQ3dlV1VE5OZXVHQWZvUTJxVGRJTXZRVXhuSkt3bDdTa1pYX1o0bUkwNlZtaFoyMzB2cFVSR3RqWnhHRk5TQlh4OU00WlVkS3dLd0dlckM3czV4dnpNdXlnYTN1eVJLWEE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEVjLVowMG9OLVZ0RExjc2Y5dTVsRjVRQVRjbDV3eEhjdmliWlNXOVBUX2ZBRWlJZzBaUWZQS3NNSEJXSVVJdTQ0VjIwWUVYS19jVEtYQmRuTTVsek4tZWdJQWpUZ2V4VjFWaE5RYVVuSnVITnBzVlNkWWVsYnJFSUFDTWd3VVh6b3pHeFpJUmJsWjQ?oc=5",
+          "title": "Kashkari says Fed should raise rates now to tame inflation",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQ01pN3NKb1YxMWxQbTB6dWQ0aDA1N1pjODkyUVRYWGxhWm1SWHluNUk3cVFiRVdxYnQxcGxOaU9ENkV4NnpROEdZSlhUZGJR?oc=5",
           "cat": "Macro"
         }
       ]
@@ -147,14 +119,30 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 45,
-      "change24h": -2,
-      "vol24h": 371806,
+      "yes": 48,
+      "change24h": 1,
+      "vol24h": 297333,
       "headlines": [
         {
-          "title": "US Fed Governor Lisa Cook says prepared to back rate hikes if inflation fails to ease",
-          "source": "ANI News",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbW41MnVZM1VkVFN4VlFqOFF2eWh1QkVBZjBZTk1hRmlmLXlKV0FtOThDdzNqcllfM01vM3F4UFpDX2pLaU8yYkM0TF9NQTdGUTBlUkw0WjN0Mm1hdm5uaUFYR1JiaWlxVzNRVllKUTI0VHQ3dlV1VE5OZXVHQWZvUTJxVGRJTXZRVXhuSkt3bDdTa1pYX1o0bUkwNlZtaFoyMzB2cFVSR3RqWnhHRk5TQlh4OU00WlVkS3dLd0dlckM3czV4dnpNdXlnYTN1eVJLWEE?oc=5",
+          "title": "Kashkari says Fed should raise rates now to tame inflation",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQ01pN3NKb1YxMWxQbTB6dWQ0aDA1N1pjODkyUVRYWGxhWm1SWHluNUk3cVFiRVdxYnQxcGxOaU9ENkV4NnpROEdZSlhUZGJR?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will no Fed rate cuts happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
+      "yes": 88,
+      "change24h": -1,
+      "vol24h": 16040,
+      "headlines": [
+        {
+          "title": "Kashkari says Fed should raise rates now to tame inflation",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQ01pN3NKb1YxMWxQbTB6dWQ0aDA1N1pjODkyUVRYWGxhWm1SWHluNUk3cVFiRVdxYnQxcGxOaU9ENkV4NnpROEdZSlhUZGJR?oc=5",
           "cat": "Macro"
         }
       ]
@@ -162,12 +150,30 @@
   ],
   "moversOnly": [
     {
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 44,
+      "change24h": -8,
+      "vol24h": 43122,
+      "headlines": []
+    },
+    {
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "yes": 66,
       "change24h": 4,
-      "vol24h": 14697,
+      "vol24h": 14601,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,250 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1250-by-december-31-2026-from-june-8",
+      "yes": 19,
+      "change24h": -4,
+      "vol24h": 9069,
       "headlines": []
     }
   ]
