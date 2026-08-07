@@ -1,45 +1,341 @@
 {
-  "updated": "2026-08-07T02:00:38.742Z",
+  "updated": "2026-08-07T06:57:27.835Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": []
+      "items": [
+        {
+          "title": "\"More people would choose that final paycheck than they do a ring\" - Shaquille O'Neal on what he would do if he were in Stephen Curry's shoes",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYnFhMC1JLS14ejFySjZuVVlRVEFIVjh5VlpkdmxFa2FSOVZzMHBKZHV5YVc3b0NlZ2V2THRQVldIV29xNmxTWnRsUllXOUdKcVIyUEZ2cnUzT0J0b0J2bzJ1ZWN0bl9XVWlDUTRmOU0xX3B4M3czekIxd2NocTJlbkhZZkY5cmtRSmQtR0piU2VaajR0Nms4UWcwTENzNzlnMWs3cFN4T0JqWk1ialdDaUZvYjRtZ00?oc=5",
+          "ts": 1786085040000
+        },
+        {
+          "title": "\"It doesn't have to be anybody's team\" - Jaylen Brown on how the Philadelphia 76ers can make their star power work",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdrTTM2WkVPMXY2b2ZoeS1jWXVCcmlnX2RnNE9XNk5vblhCZy1kM2Q3TU5XckVYNFAxcFpXS254XzROdGJuLThEQnRObC1uY0RBMi1WejdOMHNYZVh1SHAtcnAtamFDRUJwZjlxMHBwSGlkbzJ4VU5NeDZzcGRhaFZRM042Qk1qbGJxUjFKVmRhN1RzaFRMWTZGejVjT0V5Z0tHZmd5WU53STVtRG4zaXYycFZycmxMTklV?oc=5",
+          "ts": 1786083180000
+        },
+        {
+          "title": "\"What you have on paper doesn't mean nothing\" - Jaylen Brown pumps the brakes on the Philadelphia 76ers being title favorites",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcldBREtRV0g5Nm40RkdULWdCQlVaUVRJWDVkeExrT1QyaVFmdWZBVmJXQUNqWG9ReDJ3WFZaSFNMNjI4SnpsSE5kRUhTaEI4UzlhaWlrdlp6MjAxRDczYnhQZ1l2LTNIQTZjMzRnejlpclhneFBmUkhfNDA1MUlWOUZvaUc0amJONGpYbXNBdmxCYkJsZm44SkZDcFk4dTVLcXV3SXNWTlBKbDNJdC1ub2ZMUWZEOTNVWHRLT1FyQ1M?oc=5",
+          "ts": 1786081442000
+        },
+        {
+          "title": "Report: Kawhi Leonard had undisclosed deal with Clippers' scoreboard maker",
+          "source": "Sportsnet.ca",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQak9GTE9SQ21xcDJ5X0RFSUtma2tBVVZRcXd3cDVqbE55bllYUVVJWEtqS242ZmVVUlREMmFqU0xCMjZEOGVhY25qQms4Qmp3SnB3U1BqQ0wyNFp4X3B2bWlFellEUWNpMWpUZHBTV0Z6NE9RcTdZWTJ3NV90Zkw4V08wOHMyaWtEYl8zdVNhaUpvTGpsZUY1RUs3MHNvcGExRnhQakpkOS1FM0E2UnRB?oc=5",
+          "ts": 1786079820000
+        },
+        {
+          "title": "Lakers Proposed to Trade Jaden Hardy for NBA Champion Big Man",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQk9nNS00bXhfV2ZmZGdmeVF6MzZVd1oxeGE5Y0M4cmlhQWtVakZBV2pXV1JVS1RMeFZQMHUtbnB3OGQzbHM4UTN4Zy1sTUgxZEV0RjF2SERkczB2Rlhva3dydmcxaHczM1doU3F3djB5QUNUU3duSUlDTVB6dlV5TUs1R3RCaWhhTGc?oc=5",
+          "ts": 1786078560000
+        },
+        {
+          "title": "2025-26 Topps Chrome Updates Basketball odds sheet analysis: Debut Patch breakdown and more",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWU1leVV1dnkyS0xPckJ3MUpQNk93ckZJeG9PbDMwTjdiVVNEcUN5bWRZYm50V3hZU0tGc1cwNWtMZW1sQ2lkSnJGTVdqbExBZzJOdFdNWHVMQ0pHeXdYbmo2SGVseUlfWE5IUmdMLVpfRmJFM0E5ZHd6RWRhYjRiZjNMZTdIYU9pbl9ja0pmNk1PdEhvNzJzSWFlamx1bU15OUlybVRmZw?oc=5",
+          "ts": 1786077556000
+        }
+      ]
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": []
+      "items": [
+        {
+          "title": "“So weird and wrong,” “Next John Madden”: NFL fans react to Mike Tomlin making NBC debut before Panthers vs. Cardinals HOF Game",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3N4UERIbWNTYjN6ek1YN0N5WTdJS1o3N3N2bTF6VXFBSGVjN0g2Y0Z5NWxPTGZuN05hYUVGb1p3c0wwd3J5RFdtX25BSTRfVmlpRWNQUW5yQkFWYnNKN0p0dXh6Z09ZbXNxQ1JkQ29VVlM0MmE1eEkzM1FoTC1SeVNzOA?oc=5",
+          "ts": 1786084260000
+        },
+        {
+          "title": "Minor NFL Transactions: 8/6/26",
+          "source": "profootballrumors.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GUVYtSjdmQndiRjFNZkQ3VnJfOTJMOUQ5T2FsUDNNeGd2MTlDRkhWQjhJVEJrRkp5Q3Bib2hBak82YXBWckpZTGpBdnNremNpdGVZY285alJuSUhrTldrRnYzS3J4R1IyQUtRUE5QWkVheW5JalBUS2NUZw?oc=5",
+          "ts": 1786083341000
+        },
+        {
+          "title": "For Starters, Carson Beck Impressive In NFL Preseason Debut",
+          "source": "Arizona Cardinals",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOFVsNG1qZ3VTRUprdEVHLUoxekd1b1hnckRQaEp2bW9uQVZ0cGJ1cDFxV1NlNndrSUplcnRnUXdzdzlJd3pwREt0c0hPeTlLc0RZNXdZUG1GOGhHdll4eGhwQjVBS3lIRDhWTzZhR29OUUpxeWY4RzVHNGVnd19XZldSeDBtWTIwb1ZCRC1IR05BSHBSV1E?oc=5",
+          "ts": 1786082305000
+        },
+        {
+          "title": "Fantasy football rankings 2026: Sleepers from model that nailed De'Von Achane's elite season",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVHRiaE1zSm5HYWRGelNqQkY3U0M1NjNfbXdkMS1TejhINUxQcV9KZHFHaUdFZXFURTM4bW9WNFlDUmlpUFh4VzRtcUEzSEtfUlFicWlWUWVKZFZ1dWw1SnVqX1NldDlFNzYwVG9Ca0dHMVdoUkJvblhUYUg1Tm0tV0F0R0xTRDEwSEJ2eGZfRlplVTVCWllsOEZFNHE3Y3lndmhMdU8zT1FFNG9WSTI3bUd5aVliZGM5cG5IYmQ2YXlGSVFmakpPWFJwMnhOdU1pcTBmLQ?oc=5",
+          "ts": 1786080518000
+        },
+        {
+          "title": "'Like a professional': Carson Beck's NFL debut couldn't have gone better",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnZTSW9hamh4bkRKSU9RRDVneE9GaHBRZ254cTFZcUZhWFRsZlRGSVJrOE05dHlEV095bkZQQUVfV2lnRlhlb3FMNWktQTlwZnRudEcyX0JORml6M3paZ2JDWFVkbFA5MkZzWXgyeVBMUV9QZ0JRSjlkeVhZNXNkNXI3SDMxdDJrVlY4azY5eExXVUFsdUl5YkVMT0pJTmFxekplSElYTUJCN1lxbTRnMnNsNFg2QThmaThJ?oc=5",
+          "ts": 1786080120000
+        },
+        {
+          "title": "NFL Training Camp News & Notes Stream of National Football League",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qcDUxc3lFeWVrSFNFeVV1WkliX3FtamxCTHhZSXJhN05GdkFjaDVTMGtHVEtwNWZQT1J3R1F5elFhMG4wZ1VJTzVPNDBKX05VOFpkUmpyYk8tVElIREo3WktYbDdjWE5VVTVGbVh4QW1aaEJJOExBaEVn?oc=5",
+          "ts": 1786079002000
+        }
+      ]
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": []
+      "items": [
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
+          "ts": 1785826800000
+        },
+        {
+          "title": "When is the Washington tennis final?",
+          "source": "ATP Tour",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RzhBb1JkdUVXUTBoclFxbnhxOXJleFhmVWZ4TENBZ0xyeHJUZVByRTU5bkdvUjFHeEdYTUFTQXhEV3hJYnlVUUxISFg2cWdMdlRRb18tZlh2elFfOUM3ZVowOEVCVFE?oc=5",
+          "ts": 1785740400000
+        },
+        {
+          "title": "Washington final delayed until Monday due to rain",
+          "source": "ATP Tour",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRVFnbzB5V2FMUENIV3RDSEtTR0V3MmhPZjZDVkFLWG9GYnhPdUx3bDU0TjJEQ2MtQjVTTVBXaVZBaFUzOXNyME83UUxmSkxTdjRGXzF3R1ZrNVNJcUJyb2tRRF96Z3lsbEE4WFJjb0JsUQ?oc=5",
+          "ts": 1785727688000
+        },
+        {
+          "title": "How the kingmaker of men’s tennis sent the sport into turmoil by trying to save it - The Athletic",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFdCVnh5RTVob2Z1SVJ4ZWNJeEpoSi1wb0o4eXVCSmVEdHNSbHlBNERpQTBxLUlIUlB0Sk5ubGhNeW45UUx0V1VtR3R1UFpyTGdWQ2ExOVh6MGozSnNQcWI4bllLVk55YXpnNEMxTzA2OERJamJwNGxEQ2lIbE81Z19hRnNxZDI0WkoyQU1hYjFuQUdnYTVDR2lLYzFGMWFCM2x4QWNEZFg?oc=5",
+          "ts": 1784962800000
+        },
+        {
+          "title": "Mubadala DC Open 2026: Draws, Dates, History & All You Need To Know",
+          "source": "ATP Tour",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdzIxLWd6TDVhTjE3dHdqMzliamZ0TzZUVV9nbWp1eGxpeFoyd3RGekxvRm1CR2lIcHNvMmRpd3dBMEdfUXRRMGRiYzBwbThCN0dINVdLb3psS0JTQm5id1ZPajFJZmNTYmpVXzZzTm9tVldQNW9TQUt4eVhUTmVxMEg3WQ?oc=5",
+          "ts": 1784703600000
+        },
+        {
+          "title": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
+          "source": "Sportico.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3lDUndqM0kyMkhKZEprbDEwaDJMMjY0WmRYUGphSjJEYWlOWVhMYVJjYmVrbXVOSUs3NjZNZXJzTFhGUlBjQWlKN3lTQWNzMUNEdHJKU2FNZ0xBRVkwV2JMdlN6Ri1UZHNqS1dnMC1JUHJPcVVIc2JHSDJpMzdZQW1pTVdUN1V0U3c?oc=5",
+          "ts": 1784530800000
+        }
+      ]
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": []
+      "items": [
+        {
+          "title": "Carlos Baleba’s injury offers a chance to reboot his Brighton career",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXpNODZWR2VZRnhpOW9OdWlya3ZOcEsyNXU0S2NHODIyU01nQ2lIWTZENkhjVU9lcG80MzIxS1N3b042Z2VfdlJvOVhkejBXcEp0RVBvSkR6YmFtdkFMZE8yb2JETXhoeW4ydzduUloza0hoLVlIWnlEUW9vcGphdWZKZ1hKdXZONjNzSzNkNnhIYTI2R3c?oc=5",
+          "ts": 1786076251000
+        },
+        {
+          "title": "Brian Madjo: The talented 17-year-old striker Aston Villa can now unleash on the Premier League",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmhQbFpSSGFJQnBxOFNHU1NqMHBLS0dLemk4Smo1enlUbU1sVXBpVGdqY2xaNktQNE9VZW1CdGxBR1FqU1FWV3o0U0pvTHFqVUJFUjY0d2pJQXEzQ3RnYUlFcFRadHNRajNGVlU5YU1ELWxOZ19fcmhWd3VJQllENEZiZ2YwSDlkdmtPSw?oc=5",
+          "ts": 1786075652000
+        },
+        {
+          "title": "UEFA maintain World Cup boycott threat despite FIFA president Gianni Infantino apology",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcU8tMWkxZ2U4OFpIQWVLQWdVVmNSSFQyVVdVNzg4VU1JSUZhYTVmUWdjU0JUMmxlX0ptTDZVaVZVOEEyLW1pRTdubzg4UGxFV0FGTGcwVkFhc3RiNDFWU2JlSjRvb2s0a29aSVZXV3p4d1pfQVNqV2ZEQjBDZkFQVVdqWGk2OFE?oc=5",
+          "ts": 1786074060000
+        },
+        {
+          "title": "Emma Hayes urges U20 WWC focus to improve player development",
+          "source": "espn.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmFaNXpKb0lwa0pkMTRYNkR3c3hsZE40ZTAwaFVORWEwS2FXRXRWMjM3VHVwX0FGamJCMG01X0RaWGpzZmJzc2dDUDM0YzlpaThXT0FRZTBWUHhIQ3Z0ZDZLeDNRdDZRakhocFVjVHJ6VzloanNNbHZGVlBaU2xVdkdVdGVaZWRTN2JxbDJTUEo4RTBJQWJuay1WcDNGOVBJc0VXUzd3NA?oc=5",
+          "ts": 1786064700000
+        },
+        {
+          "title": "FIFA's president held off an internal revolt. Next up is a hotly contested election",
+          "source": "NBC Connecticut",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcldITlMyS0hnY29vUTRpZGlZT0w4ajlDRzRjaTg4Z1ZENTNJbEZlNHFvSFlISEZMVWFXa2ZteE5HbG1oUlkwWUxoeVl1ZXRzcWZQVkljMEc2aFJobDV4WnJXRTcwazA3WDhxZl8weENuV3R0OE8wTnJMZ3NObUNId1JfZ2JwaXFWU2pCYlpyZTBUWF9DVjBUVjJnSERQYmZFeTlvT2NlTkRRS2Rw0gG0AUFVX3lxTE5vWTBuZWUyMlB6dmdKNXhVN2RITXRlNng3RWZnaEhZZ3h5VHBTQ2YyMXF2S3pyeVBqN2x5dUNBc2psa1pBYkVkQ2JtdGtKRHNydjBLa25US1h0bGRqMkdJNHZDeDdwSjBZSmZ4aWxMdWsyVnY0SGlMQzNEb3JKcnA1ZWVyOGZ5WmdqMXhpOFFnTWNMQUZxcW8tajY0QzJncV82cmhlbjRJQV9WTkZDLXowZjdUOQ?oc=5",
+          "ts": 1786055468000
+        },
+        {
+          "title": "The Malawi women’s soccer team is on fire. What that means for Africa.",
+          "source": "The Christian Science Monitor",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU1zVnVXTEhiZTlkYzM5cDltQTdfSUpmOU82OTNTY2hYbXA2bkVMcVVjX2JLU050NDZyX2hwY0VVOU41YzJFT0ZXRzNvdEFCVXhDN1dnaDYyMTJtcFZtM3hVdzdqYVhWRW9nS2l3a0hsYVI4eTVLUDY4WUxBZXRaZFdpN3VfZ1h5UnlSdGFVN1dMb0s2?oc=5",
+          "ts": 1786052910000
+        }
+      ]
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": []
+      "items": [
+        {
+          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEVjLVowMG9OLVZ0RExjc2Y5dTVsRjVRQVRjbDV3eEhjdmliWlNXOVBUX2ZBRWlJZzBaUWZQS3NNSEJXSVVJdTQ0VjIwWUVYS19jVEtYQmRuTTVsek4tZWdJQWpUZ2V4VjFWaE5RYVVuSnVITnBzVlNkWWVsYnJFSUFDTWd3VVh6b3pHeFpJUmJsWjQ?oc=5",
+          "ts": 1786046920000
+        },
+        {
+          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
+          "ts": 1786045124000
+        },
+        {
+          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
+          "source": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
+          "ts": 1786042441000
+        },
+        {
+          "title": "Federal Reserve's Lisa Cook tells Anchorage business crowd she's 'firmly committed' to bringing down inflation",
+          "source": "InsuranceNewsNet",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcm9lYTc0LV93VVV2X0k1R1ZXa0puSE9PQk5WbzlQYjBqZG1QNkhlb2tpekk4RlJReWtnN182Y0ZReVVZMnAzRXFEUTBDUHdCVUFTaHVOcjUxcXR6TGVtQjV2SlpmaXJSMmptRS11WE9aV0hmb1F4Mm5DdGVNYUZmLXp2ZS1xTDlwWjhDdkYydFFELV91MWpqWDlDRnV6Y2s3dWE3ZFdhUklSdlhuem9qOGJwa0xZZVZSNWhRbERVOXdZMEdiS2kwRDUwUkZTNlFnVzhGTXRtd0piN3Zp?oc=5",
+          "ts": 1786026190000
+        },
+        {
+          "title": "Fed’s Cook says she’s ready to raise rates if inflation doesn’t start easing",
+          "source": "Jefferson City News Tribune",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU180Mk9tQmxJSTJocVhGY3pOQkZKRkdrMHdIMVFFRGRSMjhXd2xWMGd3WHUzQlBFRUdfR0ozamE4a2pQUGxlV295bFlBWnBvazdiVnJVQTdYdmYwZHdPQ19VWDNKTEozeHo4aHdaZWgzbnB6cEpnSjFBZldQcXZFb2xENWN1MXJLSW9fM2xfMF9GcjQ?oc=5",
+          "ts": 1786006500000
+        },
+        {
+          "title": "Fed's Cook ready to raise rates if inflation doesn't start easing",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDd0Vlp2NlhIcHd6bEhrdmVCeU9GSzdZM01JeXJ4MElkaG83Z0Nva0dLbzNya1pPUjlSQTJyS3pqRnoxWlY1c0lnSUlFVjJGcHEtSlZ1VXc4REhNODBFMzZ6eko5MmZWdVNSY25ERUM2X3VwZFNHaFE3WHlfRlF1X3hHYUhZR2VWcE5kSmNlbEtNTC1uRTBxZDBNLUtUOGROWTZ3cHlSLWRtdmN1N2FZ?oc=5",
+          "ts": 1785963301000
+        }
+      ]
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": []
+      "items": [
+        {
+          "title": "18 S&P 500 Stocks Just Made New 52-Week Highs",
+          "source": "Trefis",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjlnVHhJTDBzSVBaaHFmUEx4TEp1d0tkNXMwOGtyU1N2Z0JOWU5pMEROVlBOT2xyTlhOeGY4R0JYVWZXVU4tS0M3emVyejh1bkFVbndvWE5ZSEsta1pHLVVDdGV0eDdhckpyRmN3NEJnc3VRSmx0c1VvRGZNclZKWGRCOEhUWEtXWlFld2pYeGxGd2U5aGlnUV9CalgyZm1xcllkNXhhaw?oc=5",
+          "ts": 1786085511000
+        },
+        {
+          "title": "S&P 500: Rising Bond Yields Put the Rally at Risk",
+          "source": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkhLUTJfOWxhTjFHbVRKVWswQ0JCWFhEejJINUdLTHVmazYxNURON0FDNWZQblNUMk5qNWFUWkRmaG5NcWxHNmh1amVtZUFGSW9BeFhaaVBiR3Awb1NDM3k4cG9UM3dJcWNsRy1QY1B1VjU5eDFacW5ueGl5Y2lsS3E0eUdNS29QZzFXWC01cnlMQQ?oc=5",
+          "ts": 1786085162000
+        },
+        {
+          "title": "S&P 500 futures are little changed as traders await big jobs report: Live updates",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5",
+          "ts": 1786068689000
+        },
+        {
+          "title": "Why S&P 500, Dow Futures Are Slipping Overnight After Wall Street’s Second Straight Day In The Red",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjQ0Ry1Zbmo2X0hsZ19faGllazRnTy1nWXktdldPSWoyZTU4alBfWUJVUFFOTnFINk9TLTVYb2xiRTI1Qjh0UGtzN2E2Rnl5QmNaRmpkVG9TWThJTVpoM3cwNFluREJ2M0x6WnVudG9hZThUalNRY2hWX3lGb29NcmtYUEQ3cHdSd19GUHROMERyN0ZUekFUQTFmTF9qMm0zZ3pRVHQ4Vmg0cng1Z08wLUNzaEU3RDdPeWlyM0IzZDdoTUhPakE?oc=5",
+          "ts": 1786067520000
+        },
+        {
+          "title": "Stock Market News, August 6, 2026: Dow Falls 460 Points, Breaks Winning Streak",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5",
+          "ts": 1786065720000
+        },
+        {
+          "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
+          "source": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKQXAyeDJhNHAtX1RtV2UweFA5U3VEY0REQnNDNUVlUXVCeURGTzgyZGd1ZldxbVg1eWxibHRpMV83VnZzVGMzWXYyN0dPNkJybkhZMHB4aEE2NzM0aHhfZS1idWs4TE42TXVheFQ1c1NxUQ?oc=5",
+          "ts": 1786059780000
+        }
+      ]
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": []
+      "items": [
+        {
+          "title": "Why China’s biotech rise is harder to contain than AI",
+          "source": "ThinkChina",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEg1akdORDE4UHgwWHNScVFoQUt6LXBPRW1xb0h5RURldXEtZTRsTnR5NXQ1SkdFVmlMUDhzQWRLNjZKVlFEbWY0bGJ2dnEtTFhYb0JQc2R2Q1FXc2RPb1k4QlFuUnMxdG1fS2MtYl8tWjRBNVp2a0pxb2xQRHBZS0dQM0c?oc=5",
+          "ts": 1785912834000
+        },
+        {
+          "title": "Biotech leaders call for streamlining of INDs as FDA’s Trialblazer rolls out",
+          "source": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzY2d1dvaTduLVhzZ0JTUldoX09wd0xPSnkwb2x1QjhWTHdpb2ZiRXJ3U3FhUm1weUJUSlZxcERMNVQ1TTVTYkxvRDVxRDUtWGcyWGthOFR3a2ZOc2ZPclNrZkR6amRmLVRqeHlqMHptclBvd1Q2RFFLWVdsRE5CUFd2YTlmUVM2THJ1UmtqX1VRSl9YRjFhc1BJWnE5YldEQlpRdUJ6OA?oc=5",
+          "ts": 1785730257000
+        },
+        {
+          "title": "Kelun-Biotech Receives a Clinical Trial Notice for Its First Dual-payload ADC SKB565",
+          "source": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTRwTFNycVp1RFJNQ1NRbXBkbmZkdzE1c1dOUTB3Yl9RalBLY1llSEVvbzFwRjN6MkV3dDZMUV9jNTM5OWJvZHk2dGp4V3diMjZlS3FMODI0dFNTMVZmVzJKMFJFNXBHRDNwR181S0J1SEVVVlYxLUc3anBUNHZheElxMk9kMTB1eHZCZ3dPWGM4bEFrY0JxdWx6elVRMDlMNWNqRFRObkMtdVJWSldPc2U2eHhudlZncU14UDR1MmVBOFZuV2pHNVYtcEFhVHg5SGtwOVZldw?oc=5",
+          "ts": 1785135600000
+        },
+        {
+          "title": "AI shortens drug discovery to around 1 year in China, Insilico CEO says",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2hPemVGZW1od1dteWxLOVRyMEs0elY2c0lJeGRkNHd4eVNIVnlCUjJ0MjQ3ekFTYXVFakFwZm4yYUtMWHVRa3BmYzRZM3JuaVRKNlUwRV9fdDdsNnRqY2dFTnExRVRYRW51b2VRWFZRcDA0TVlKQWxtdzRpRGRWWldSOHQ1MkVrSy1fa0UzeXo2NHlRSkt5VHdGWGgtdllhRVlIb0NpNm9pcHZpekFxWERhNkl5XzdWVVo3UE5QN3ZzX0NtenhpSks2Q1p6RlU5Zmc?oc=5",
+          "ts": 1784876400000
+        },
+        {
+          "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWZPSWhYMmd1M1dlNXNJWWQzY1RPMXVLSmFqaDV6VVYzM3VvU3dvS0JCZHlCUWJlRkl0U1RNMGxUbnQ0OTJESUNaaUFyMTRfUXMtaHV0U205UXNiNmJHbUJKb2ZMUkdHbjF5ZmpLelg1NjJhYmNVSWhuM2N2MzFIWEZ30gGHAUFVX3lxTFBPSlJMT2dqcm1zY21LV0JIWlNYUTVCNTRkLXI4SVA4WGV3VUlPRVIxZlNHQS1EZFViejRoUTc2R3dWU1A1UzFMQ0tlSVlpdFNqVUpTUm4xWTk4b2hUOFFkM0o3M3IwNnMydWNUZzVkbGxKcGtBVXhJSlphMFVMWV9ZU1NlZHNMWQ?oc=5",
+          "ts": 1784617200000
+        },
+        {
+          "title": "Kalshi launches biotech prediction markets pilot program",
+          "source": "Kalshi",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWY0SnBXY24zZl9HNmNRMlNKRWhpRXgtZGFPSE5UZDBDQzh4R0FVajJFMENMdTVxSjVObVlWUUtSM1dGWFNLUlRLeF90NmtXSmVpdGFnZjBOWDFrWXRncGY3OHRMbVItRDVn?oc=5",
+          "ts": 1784185200000
+        }
+      ]
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": []
+      "items": [
+        {
+          "title": "Replimune's Unfinished Verdict: A Biotech Stock Caught Between a Panel's Blessing and a Silent FDA",
+          "source": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0lsMGN5UV9VcF9HWjdNMm1YMlc0bW0xVFhqQkc1UlhrN2d4RTBQd2VCUXJZMk5Ud3lGdG1VU1IySXl4V0RuMU8yc1VuOU82WGZHTnRSemgxX0R5eUVCRVVVTHNrRWRvTmUyOHF5eHNXNlRNYkhwN0lkX0ZYR1VpVW1kbVQ2akJqU1pKUkhlZUVhTkRRNzZqYnF2OFl0VXVCMjkyOHRMOW5YUUdrLXdWMWcxcGdJVFI2VU5LWmlDaFhBdTRIczdMTll5Z3VzMkdOTlpGRWlIa3N5cXM?oc=5",
+          "ts": 1786032779000
+        },
+        {
+          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
+          "ts": 1785902977000
+        },
+        {
+          "title": "FDA Approval Updates for Biotech Companies",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3RhbGg1STVKeUpfZS1wbFRhNDVYcUFxQjVqUDU2R2htYS02dnZZMEJVREFZTmdLbjJEWmlXUUg4ZVlYVU5oYmJMTVFTYU5QRlZjOFk1UlZzang5ZkZTUng1eWNoR1UtdUZSZE9RRU4xSDZBMG1ZV3ZMQlVic1pvNHln?oc=5",
+          "ts": 1785717803000
+        },
+        {
+          "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZnUkhSRDk0OHRSc0g5WlhaMGFLYTNYWEh3Z0xSTnRrZEFlQjNSTFNxb3FTR0RoYXJFU2dVVG13MFo2c1MzeFhfU01LSnZ0UXgwYXd1YTltMzBuU0xaS2gzU0pPQkhGalBGck16QmlCWjRCVWNNV2twT080TWo5V2o3eU1pdw?oc=5",
+          "ts": 1785529320000
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "ts": 1785503580000
+        },
+        {
+          "title": "Outlook Therapeutics (OTLK) Stock Soars 12% Following Lytenava FDA Approval",
+          "source": "Blockonomi",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZlVWWnFaa3B0OXVRWUxuRWtCbWNyMzFLNEFYenlsYjExU0pvX3FxdzNwR1RsYUZRd3l5WWRwbnNoVjBYWXJPdXpNWEdEalcycXZpNE5nTTg4NTl3eHZlb1FwM0NOVV92eGx4T0V1dVNVUXhiS2dtOV9OVXE2M1VfcG9mVHBZZmNpQUZjTzhXWERtZHJqXzBmN194MUk?oc=5",
+          "ts": 1785160917000
+        }
+      ]
     }
   ]
 }

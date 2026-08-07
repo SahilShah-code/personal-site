@@ -1,77 +1,239 @@
 {
-  "updated": "2026-08-07T02:00:39.190Z",
-  "withNews": [],
-  "moversOnly": [
-    {
-      "question": "Will another city host the final of the 2030 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
-      "yes": 41,
-      "change24h": -13,
-      "vol24h": 8789,
-      "headlines": []
-    },
+  "updated": "2026-08-07T06:57:28.763Z",
+  "withNews": [
     {
       "question": "Will Bitcoin reach $66,000 August 3-9?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-3-9-2026",
-      "yes": 28,
-      "change24h": -12,
-      "vol24h": 27083,
-      "headlines": []
+      "yes": 20,
+      "change24h": -28,
+      "vol24h": 26631,
+      "headlines": [
+        {
+          "title": "Stock Market News, August 6, 2026: Dow Falls 460 Points, Breaks Winning Streak",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
       "question": "Will Ethereum reach $2,000 August 3-9?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-3-9-2026",
-      "yes": 12,
-      "change24h": -11,
-      "vol24h": 39778,
-      "headlines": []
+      "yes": 11,
+      "change24h": -12,
+      "vol24h": 43593,
+      "headlines": [
+        {
+          "title": "Stock Market News, August 6, 2026: Dow Falls 460 Points, Breaks Winning Streak",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
+          "source": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKQXAyeDJhNHAtX1RtV2UweFA5U3VEY0REQnNDNUVlUXVCeURGTzgyZGd1ZldxbVg1eWxibHRpMV83VnZzVGMzWXYyN0dPNkJybkhZMHB4aEE2NzM0aHhfZS1idWs4TE42TXVheFQ1c1NxUQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
     },
     {
       "question": "Will Ethereum dip to $1,800 August 3-9?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-3-9-2026",
-      "yes": 11,
+      "yes": 9,
       "change24h": -8,
-      "vol24h": 17580,
-      "headlines": []
+      "vol24h": 15622,
+      "headlines": [
+        {
+          "title": "Stock Market News, August 6, 2026: Dow Falls 460 Points, Breaks Winning Streak",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Tom Lee Sees S&P 500 at 8,000, Names Ethereum the Next Rally Leader",
+          "source": "BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKQXAyeDJhNHAtX1RtV2UweFA5U3VEY0REQnNDNUVlUXVCeURGTzgyZGd1ZldxbVg1eWxibHRpMV83VnZzVGMzWXYyN0dPNkJybkhZMHB4aEE2NzM0aHhfZS1idWs4TE42TXVheFQ1c1NxUQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
     },
     {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 49,
-      "change24h": -5,
-      "vol24h": 410251,
-      "headlines": []
+      "change24h": -6,
+      "vol24h": 356773,
+      "headlines": [
+        {
+          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
+          "source": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 71,
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 50,
       "change24h": 5,
-      "vol24h": 52507,
-      "headlines": []
+      "vol24h": 14091,
+      "headlines": [
+        {
+          "title": "Interest Rate Predictions for the Next 2 Years: 2026-2028",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEVjLVowMG9OLVZ0RExjc2Y5dTVsRjVRQVRjbDV3eEhjdmliWlNXOVBUX2ZBRWlJZzBaUWZQS3NNSEJXSVVJdTQ0VjIwWUVYS19jVEtYQmRuTTVsek4tZWdJQWpUZ2V4VjFWaE5RYVVuSnVITnBzVlNkWWVsYnJFSUFDTWd3VVh6b3pHeFpJUmJsWjQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 45,
-      "change24h": -5,
-      "vol24h": 27984,
-      "headlines": []
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 49,
+      "change24h": 4,
+      "vol24h": 135838,
+      "headlines": [
+        {
+          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
+          "source": "LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will Bitcoin reach $67,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
-      "yes": 53,
-      "change24h": -4,
-      "vol24h": 12237,
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "yes": 13,
+      "change24h": 2,
+      "vol24h": 22939,
+      "headlines": [
+        {
+          "title": "Carlos Baleba’s injury offers a chance to reboot his Brighton career",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXpNODZWR2VZRnhpOW9OdWlya3ZOcEsyNXU0S2NHODIyU01nQ2lIWTZENkhjVU9lcG80MzIxS1N3b042Z2VfdlJvOVhkejBXcEp0RVBvSkR6YmFtdkFMZE8yb2JETXhoeW4ydzduUloza0hoLVlIWnlEUW9vcGphdWZKZ1hKdXZONjNzSzNkNnhIYTI2R3c?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Washington Wizards win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 30389,
+      "headlines": [
+        {
+          "title": "When is the Washington tennis final?",
+          "source": "ATP Tour",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RzhBb1JkdUVXUTBoclFxbnhxOXJleFhmVWZ4TENBZ0xyeHJUZVByRTU5bkdvUjFHeEdYTUFTQXhEV3hJYnlVUUxISFg2cWdMdlRRb18tZlh2elFfOUM3ZVowOEVCVFE?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Washington final delayed until Monday due to rain",
+          "source": "ATP Tour",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRVFnbzB5V2FMUENIV3RDSEtTR0V3MmhPZjZDVkFLWG9GYnhPdUx3bDU0TjJEQ2MtQjVTTVBXaVZBaFUzOXNyME83UUxmSkxTdjRGXzF3R1ZrNVNJcUJyb2tRRF96Z3lsbEE4WFJjb0JsUQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 21,
+      "change24h": 0,
+      "vol24h": 29856,
+      "headlines": [
+        {
+          "title": "UEFA maintain World Cup boycott threat despite FIFA president Gianni Infantino apology",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcU8tMWkxZ2U4OFpIQWVLQWdVVmNSSFQyVVdVNzg4VU1JSUZhYTVmUWdjU0JUMmxlX0ptTDZVaVZVOEEyLW1pRTdubzg4UGxFV0FGTGcwVkFhc3RiNDFWU2JlSjRvb2s0a29aSVZXV3p4d1pfQVNqV2ZEQjBDZkFQVVdqWGk2OFE?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 0,
+      "vol24h": 9317,
+      "headlines": [
+        {
+          "title": "\"It doesn't have to be anybody's team\" - Jaylen Brown on how the Philadelphia 76ers can make their star power work",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkdrTTM2WkVPMXY2b2ZoeS1jWXVCcmlnX2RnNE9XNk5vblhCZy1kM2Q3TU5XckVYNFAxcFpXS254XzROdGJuLThEQnRObC1uY0RBMi1WejdOMHNYZVh1SHAtcnAtamFDRUJwZjlxMHBwSGlkbzJ4VU5NeDZzcGRhaFZRM042Qk1qbGJxUjFKVmRhN1RzaFRMWTZGejVjT0V5Z0tHZmd5WU53STVtRG4zaXYycFZycmxMTklV?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "\"What you have on paper doesn't mean nothing\" - Jaylen Brown pumps the brakes on the Philadelphia 76ers being title favorites",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcldBREtRV0g5Nm40RkdULWdCQlVaUVRJWDVkeExrT1QyaVFmdWZBVmJXQUNqWG9ReDJ3WFZaSFNMNjI4SnpsSE5kRUhTaEI4UzlhaWlrdlp6MjAxRDczYnhQZ1l2LTNIQTZjMzRnejlpclhneFBmUkhfNDA1MUlWOUZvaUc0amJONGpYbXNBdmxCYkJsZm44SkZDcFk4dTVLcXV3SXNWTlBKbDNJdC1ub2ZMUWZEOTNVWHRLT1FyQ1M?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Carolina Panthers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-carolina-panthers-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 9210,
+      "headlines": [
+        {
+          "title": "“So weird and wrong,” “Next John Madden”: NFL fans react to Mike Tomlin making NBC debut before Panthers vs. Cardinals HOF Game",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3N4UERIbWNTYjN6ek1YN0N5WTdJS1o3N3N2bTF6VXFBSGVjN0g2Y0Z5NWxPTGZuN05hYUVGb1p3c0wwd3J5RFdtX25BSTRfVmlpRWNQUW5yQkFWYnNKN0p0dXh6Z09ZbXNxQ1JkQ29VVlM0MmE1eEkzM1FoTC1SeVNzOA?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "Will another city host the final of the 2030 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
+      "yes": 41,
+      "change24h": 10,
+      "vol24h": 7944,
       "headlines": []
     }
   ]
