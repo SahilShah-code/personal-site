@@ -1,191 +1,6 @@
 {
-  "updated": "2026-08-06T23:46:36.329Z",
-  "withNews": [
-    {
-      "question": "Will Bitcoin dip to $60,000 August 3-9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-august-3-9-2026",
-      "yes": 3,
-      "change24h": -33,
-      "vol24h": 18172,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $66,000 August 3-9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-3-9-2026",
-      "yes": 14,
-      "change24h": -30,
-      "vol24h": 22653,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $64,000 on August 8?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-8-2026",
-      "yes": 57,
-      "change24h": -10,
-      "vol24h": 11314,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 19,
-      "change24h": -8,
-      "vol24h": 43759,
-      "headlines": [
-        {
-          "title": "UEFA maintains World Cup boycott threat after Gianni Infantino’s crisis meeting",
-          "source": "Toronto Star",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUVhnN3RiOTFwdjRnWHJwLU1LazU5ZXZjenIwd0VHZEZtZUR2a3ZlOFhYWFZJZjB4OWhvODhfQkJQdzJmN3RCYUZNN3QwanN4WDAtX0tEWV9tWGkxTHZsVmM2SHRJZXBIaTIwZVJtczJCZ1B3b0dQVFBPS2RoNWZZT2FYdnJNQjZ5WmJHRmlDc1VnWmFxOXVaVEVfd09ndm5IT1ZIZE9rZkk3ZllFYUJsT01kZkNWTFk0SFdGV01DX01CbkdldTZORHg4OUo1SE5ZYnFGNW80LVlXSHdyNUlPWXFvSFFRRE4yQll5YUc3X0tSTkw2NjdBX2tmNUhES1E?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 49,
-      "change24h": -5,
-      "vol24h": 406534,
-      "headlines": [
-        {
-          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
-          "source": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 48,
-      "change24h": 3,
-      "vol24h": 159444,
-      "headlines": [
-        {
-          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
-          "source": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Justin Herbert win the 2026 NFL MVP?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-justin-herbert-win-the-2026-nfl-mvp",
-      "yes": 11,
-      "change24h": 3,
-      "vol24h": 10731,
-      "headlines": [
-        {
-          "title": "Chargers’ Justin Eboigbe virtually unblockable during most physical practice of camp",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm9DNUt6RjN3NzRDYlRRTUlqMGFPa2FtTFdIUFk2NXQzYWRjdndyWnAzTEJjenZISXRQU3NjQlRXelRSZ1U2eEZNVnBnNTdZaTd0SWZyY2dlUUhzeDNZa2NsR3Q5Y003QXFGX2NLekZ4a1BvZEl3VW9yTElBVlZJS0RVLXB3Wnd1M2JZYXAxaUVVQ0RW?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Ben Shelton Win ATP Montreal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-ben-shelton-win-atp-montreal-20260729172910277",
-      "yes": 12,
-      "change24h": 3,
-      "vol24h": 10360,
-      "headlines": [
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "skysports.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-      "yes": 2,
-      "change24h": 1,
-      "vol24h": 393116,
-      "headlines": [
-        {
-          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
-          "source": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 8368,
-      "headlines": [
-        {
-          "title": "Jaguars sign LB Jahlani Tavai",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUV4R21lNVhjQUpHeVlya2JxZ2NLU0xnQl9sYzFIZ0ctdnJWcm5rRnFMX1BNOXdncU9jenAtTDFxNmdXTFB0QmhGVUpJbXZOYlNLTHJfUDJMbjg2ZXV1VkQ2UnJfZzJiTVNJM3pYbHdwRThiZ1JIYUJRWmo3YzlibE54WnB2ZnkyaHhGQ1dDNmFSQWhISHUxYUpzdw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    }
-  ],
+  "updated": "2026-08-07T02:00:39.190Z",
+  "withNews": [],
   "moversOnly": [
     {
       "question": "Will another city host the final of the 2030 FIFA World Cup?",
@@ -197,12 +12,66 @@
       "headlines": []
     },
     {
+      "question": "Will Bitcoin reach $66,000 August 3-9?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-3-9-2026",
+      "yes": 28,
+      "change24h": -12,
+      "vol24h": 27083,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,000 August 3-9?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-3-9-2026",
+      "yes": 12,
+      "change24h": -11,
+      "vol24h": 39778,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,800 August 3-9?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-3-9-2026",
+      "yes": 11,
+      "change24h": -8,
+      "vol24h": 17580,
+      "headlines": []
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 49,
+      "change24h": -5,
+      "vol24h": 410251,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 71,
+      "change24h": 5,
+      "vol24h": 52507,
+      "headlines": []
+    },
+    {
       "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
       "yes": 45,
-      "change24h": -6,
-      "vol24h": 32058,
+      "change24h": -5,
+      "vol24h": 27984,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $67,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
+      "yes": 53,
+      "change24h": -4,
+      "vol24h": 12237,
       "headlines": []
     }
   ]
