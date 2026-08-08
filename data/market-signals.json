@@ -1,47 +1,69 @@
 {
-  "updated": "2026-08-07T18:36:50.196Z",
+  "updated": "2026-08-08T00:42:33.964Z",
   "withNews": [
+    {
+      "question": "Will the price of Bitcoin be above $64,000 on August 9?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-9-2026",
+      "yes": 94,
+      "change24h": 33,
+      "vol24h": 11659,
+      "headlines": [
+        {
+          "title": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
+          "source": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
     {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 63,
       "change24h": 14,
-      "vol24h": 429064,
+      "vol24h": 443093,
       "headlines": [
         {
-          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
+          "title": "Column: The Fed needs to start listening to normal people",
+          "source": "The Virginian-Pilot",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
-          "source": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
+          "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 36,
-      "change24h": -12,
-      "vol24h": 27927,
+      "question": "Will Bitcoin dip to $62,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 62,
+      "change24h": -13,
+      "vol24h": 58144,
       "headlines": [
         {
-          "title": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWswX1dDbC1NNGhiWUU2d3AxdkpHUlUzY0hHalByS0RFUjh6cDh2YVk?oc=5",
-          "cat": "Macro"
+          "title": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
+          "source": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -51,30 +73,36 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 37,
       "change24h": -11,
-      "vol24h": 527940,
+      "vol24h": 547484,
       "headlines": [
         {
-          "title": "Analysis: Trump treats Fed Chairman Kevin Warsh as an ally. That creates economic risks",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVktqWDc5X24wVEpmdDhSdEJIM1JmMDU1Q2tILU1kX3NmcGxpY1lqR0hzekhmZXFHUFFIZDN6dEZLOU82YzRzNGktSmlNQ21vaEhfa05Mdk5VTktIWEFQVGgydkZIeVJGOXNzNDRYVk9fRWhJS2s1UTVOTlJXUWFKdmIwbV96Mm_SAYwBQVVfeXFMUExxS0FyNWRkY2VxZEVQNmtIb0pBU1NqQXJVTm5zalNVendLbWdfSks4SFY5WkJnLUZ3aWdtY1Rnczh2d2ZtQ0RxaWF5NE93c3NsUWZiU0RKdHNVVVBpV0lvOG41R3dYUmhmTzJSanpUeWNNeGNZNC11ZVJEU013Q3huSDFBTWY1NG5ScG8?oc=5",
+          "title": "Column: The Fed needs to start listening to normal people",
+          "source": "The Virginian-Pilot",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed Says It's Fighting Inflation—Don't Believe It The Federal Reserve says it's committed to fighting inflation. But do its actions actually support that claim? In this new video, Mike Maharrey examines the growing disconnect between what the Federal Reser",
-          "source": "LinkedIn",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW9jSy0xUi1iS0tCaHlWM2p0SXc5SE9sTk5XNkZhNF9wdkNRVmhhTlZGQk8xOGJhb29abjg5SFNscFlHUWhzMFoxcVFqRndhZVdCSmEyYkR1MTRSM2kwQ3FHZ2ZWNU8zTll1bGxfUExHNDduOWZLamxuZW9rOHVzZFV1bGJGN1hsTUlZZWJfSmwwY1dSOGpqbWwtN1A2RUdQLTN4WG9ubzlWRnVtN0xEOVRUaVlwVDA?oc=5",
+          "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 August 3-9?",
+      "question": "Will Bitcoin dip to $60,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-3-9-2026",
-      "yes": 6,
-      "change24h": -9,
-      "vol24h": 21973,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
+      "yes": 31,
+      "change24h": -10,
+      "vol24h": 35130,
       "headlines": [
+        {
+          "title": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
+          "source": "wsj.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "rttnews.com",
@@ -84,34 +112,24 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on August 9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-9-2026",
-      "yes": 7,
-      "change24h": -8,
-      "vol24h": 9298,
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 37,
+      "change24h": -10,
+      "vol24h": 27214,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $66,000 August 3-9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-3-9-2026",
-      "yes": 20,
-      "change24h": -7,
-      "vol24h": 53761,
-      "headlines": [
+          "title": "Column: The Fed needs to start listening to normal people",
+          "source": "The Virginian-Pilot",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
+          "cat": "Macro"
+        },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -121,48 +139,32 @@
       "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 30062,
+      "vol24h": 10062,
       "headlines": [
         {
           "title": "When is the Washington tennis final?",
           "source": "ATP Tour",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RzhBb1JkdUVXUTBoclFxbnhxOXJleFhmVWZ4TENBZ0xyeHJUZVByRTU5bkdvUjFHeEdYTUFTQXhEV3hJYnlVUUxISFg2cWdMdlRRb18tZlh2elFfOUM3ZVowOEVCVFE?oc=5",
           "cat": "Tennis"
-        },
-        {
-          "title": "Washington final delayed until Monday due to rain",
-          "source": "ATP Tour",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nRVFnbzB5V2FMUENIV3RDSEtTR0V3MmhPZjZDVkFLWG9GYnhPdUx3bDU0TjJEQ2MtQjVTTVBXaVZBaFUzOXNyME83UUxmSkxTdjRGXzF3R1ZrNVNJcUJyb2tRRF96Z3lsbEE4WFJjb0JsUQ?oc=5",
-          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 22,
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 18819,
+      "vol24h": 9935,
       "headlines": [
         {
-          "title": "Mexico supports FIFA President Gianni Infantino despite CONCACAF backlash",
+          "title": "Broncos DL Matt Henningsen suffered a torn Achilles",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEhxS2VkeEliVUpJVkZpSnJSYUFYTXlYck1MVWdEbGV1ekJyaTdYVnVKcWNyTm5ZTlIwakhYQWVhbkU0RHZEZVVvblYzSmc0S3BIamFTQTRvZ1NiNXRxSnFacVZzTzhvTEhWcXZhYmhmR0VQempXLUZPZ05ud1hEWnd0ekVlVEZldmIxT3Vlbw?oc=5",
-          "cat": "World Cup"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQempyRW9CM3dSR2VNMnluTTlybEEtMFY5OThJeFhfRDJHb0I2ZFRNOVFuRjN3Um5mUFlQQ3AtZDBfNmd3bzVGMG9BXzRfN3pUUDJyWUZvcHllTGpxN2RMNTVxM2MtV2J1bThGNTJPUjN0WkZoRmZDa2tjdFVtSm5SRDB0amJPMVlzRl8tZA?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "ICC Cricket World Cup League Two: Scotland vs Canada",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-sco2-can2-2026-08-07",
-      "yes": 100,
-      "change24h": 30,
-      "vol24h": 17842,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
