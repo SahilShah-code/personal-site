@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-08T12:21:32.568Z",
+  "updated": "2026-08-08T18:19:37.172Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $66,000 August 3-9?",
+      "question": "Will Bitcoin reach $67,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-3-9-2026",
-      "yes": 21,
-      "change24h": -30,
-      "vol24h": 50409,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
+      "yes": 60,
+      "change24h": 4,
+      "vol24h": 22442,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 August 3-9?",
+      "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-3-9-2026",
-      "yes": 4,
-      "change24h": -18,
-      "vol24h": 35680,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 60,
+      "change24h": -4,
+      "vol24h": 13816,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -34,17 +34,33 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Will Ethereum reach $2,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
+      "yes": 71,
+      "change24h": 3,
+      "vol24h": 17159,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 63,
-      "change24h": 13,
-      "vol24h": 459452,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 55,
+      "change24h": 1,
+      "vol24h": 116348,
       "headlines": [
         {
-          "title": "Fed split on rate hikes deepens as five years of high inflation tests patience",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
+          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -56,17 +72,17 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Will 1 Fed rate cut happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 37,
-      "change24h": -12,
-      "vol24h": 529383,
+      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
+      "yes": 11,
+      "change24h": 1,
+      "vol24h": 19316,
       "headlines": [
         {
-          "title": "Fed split on rate hikes deepens as five years of high inflation tests patience",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
+          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -78,17 +94,17 @@
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 36,
-      "change24h": -12,
-      "vol24h": 28529,
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 7,
+      "change24h": 1,
+      "vol24h": 16419,
       "headlines": [
         {
-          "title": "Fed split on rate hikes deepens as five years of high inflation tests patience",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
+          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -100,33 +116,39 @@
       ]
     },
     {
-      "question": "Will the price of Ethereum be above $2,000 on August 10?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2000-on-august-10-2026",
-      "yes": 5,
-      "change24h": -8,
-      "vol24h": 33011,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 2,
+      "question": "Will Rafael Jodar Win ATP Montreal",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
+      "yes": 16,
       "change24h": 0,
-      "vol24h": 14457,
+      "vol24h": 17137,
       "headlines": [
         {
-          "title": "Writer suggests Lakers go after young Grizzlies forward",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHJPdk9wcmVYVzYzLXd5S1dPMjItUEtMUFZVbW85MGNCbjFCOFk2Qkp3UGF5NFFUUXdjbHFZNzdMdFFkWE8yWWxDQjlveXVMUDdkNnVHMkVZRzdkU1RfS29wV1dqWENNUi1mNS1pellaUkVybG5yZ3BJVlUtcTZKVkNPLUxxaXdMaWFxVkdTZk4?oc=5",
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Potential ATP-WTA merger put on hold",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnBLTlI4akZRQXZEOEk0ZUhFWFR4WmhRaUJxdXNtRFJwNE9WTXNwVnpZSXN1TmZZVDVpTWg5M2VodGRVcGxBRGx5ZDJRMm5vLWUtSnVPR25mbWxRcHpka0tfbTRGQW1tQ2N3dEhKRDNPSkpEWTlaZXA0LWMzUlhhdU1EVjJ5QzJrckt1OFRhRXNYdw?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "NBA: Stephen Curry to leave Warriors?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 10730,
+      "headlines": [
+        {
+          "title": "Is LeBron Joining 76ers Like KD Joining Warriors? Stream of National Basketball Association",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpWaGtEdmxqMHNFLUxmWlpON3NXMUdtRmxWYzgxN0hJNWdIMTllUWh1QWNVaWxHOVFNSWVvbXVsR1BfZTl5WHhqY2pfWnhsQlNhY29URmthS09jSWRhbTg4OHY4N2hYN0JPZTFvUi1rQ1Q0R2toUm01YW5XR2RkSkV3VVE5eW1JUXRDTFozOFpEWU5h?oc=5",
           "cat": "NBA"
         }
       ]
