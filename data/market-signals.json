@@ -1,69 +1,47 @@
 {
-  "updated": "2026-08-08T00:42:33.964Z",
+  "updated": "2026-08-08T06:30:57.942Z",
   "withNews": [
-    {
-      "question": "Will the price of Bitcoin be above $64,000 on August 9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-9-2026",
-      "yes": 94,
-      "change24h": 33,
-      "vol24h": 11659,
-      "headlines": [
-        {
-          "title": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
-          "source": "wsj.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 63,
       "change24h": 14,
-      "vol24h": 443093,
+      "vol24h": 452257,
       "headlines": [
         {
-          "title": "Column: The Fed needs to start listening to normal people",
-          "source": "The Virginian-Pilot",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
+          "title": "Fed split on rate hikes deepens as five years of high inflation tests patience",
+          "source": "theedgemalaysia.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
+          "title": "Column: The Fed needs to start listening to normal people",
+          "source": "pilotonline.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 62,
-      "change24h": -13,
-      "vol24h": 58144,
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 36,
+      "change24h": -14,
+      "vol24h": 30953,
       "headlines": [
         {
-          "title": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
-          "source": "wsj.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5",
-          "cat": "Markets"
+          "title": "Fed split on rate hikes deepens as five years of high inflation tests patience",
+          "source": "theedgemalaysia.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Column: The Fed needs to start listening to normal people",
+          "source": "pilotonline.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -72,19 +50,19 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 37,
-      "change24h": -11,
-      "vol24h": 547484,
+      "change24h": -12,
+      "vol24h": 544973,
       "headlines": [
         {
-          "title": "Column: The Fed needs to start listening to normal people",
-          "source": "The Virginian-Pilot",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
+          "title": "Fed split on rate hikes deepens as five years of high inflation tests patience",
+          "source": "theedgemalaysia.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJMDhxVl9YV2lBZkdrNEdDbnBaZTFjTllPZ2pGZGU4TUctRlVNTkp3akhuV2p2Vk9lNlhrb3JIMGhVY2pYZFhmVUNXV2VTN2p4?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
+          "title": "Column: The Fed needs to start listening to normal people",
+          "source": "pilotonline.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
           "cat": "Macro"
         }
       ]
@@ -93,78 +71,85 @@
       "question": "Will Bitcoin dip to $60,000 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
-      "yes": 31,
+      "yes": 30,
       "change24h": -10,
-      "vol24h": 35130,
+      "vol24h": 35510,
       "headlines": [
         {
-          "title": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
-          "source": "wsj.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5",
-          "cat": "Markets"
-        },
-        {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
+          "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 37,
-      "change24h": -10,
-      "vol24h": 27214,
+      "question": "Will Bitcoin dip to $62,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 62,
+      "change24h": -8,
+      "vol24h": 55658,
       "headlines": [
         {
-          "title": "Column: The Fed needs to start listening to normal people",
-          "source": "The Virginian-Pilot",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Washington Wizards win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 10062,
-      "headlines": [
-        {
-          "title": "When is the Washington tennis final?",
-          "source": "ATP Tour",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RzhBb1JkdUVXUTBoclFxbnhxOXJleFhmVWZ4TENBZ0xyeHJUZVByRTU5bkdvUjFHeEdYTUFTQXhEV3hJYnlVUUxISFg2cWdMdlRRb18tZlh2elFfOUM3ZVowOEVCVFE?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "question": "Will Ethereum reach $2,000 August 3-9?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-3-9-2026",
       "yes": 4,
-      "change24h": 0,
-      "vol24h": 9935,
+      "change24h": -7,
+      "vol24h": 45044,
       "headlines": [
         {
-          "title": "Broncos DL Matt Henningsen suffered a torn Achilles",
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 24,
+      "change24h": 3,
+      "vol24h": 18933,
+      "headlines": [
+        {
+          "title": "FIFA president Gianni Infantino faces fresh scrutiny over alleged UEFA affair and six-figure pay-off",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQempyRW9CM3dSR2VNMnluTTlybEEtMFY5OThJeFhfRDJHb0I2ZFRNOVFuRjN3Um5mUFlQQ3AtZDBfNmd3bzVGMG9BXzRfN3pUUDJyWUZvcHllTGpxN2RMNTVxM2MtV2J1bThGNTJPUjN0WkZoRmZDa2tjdFVtSm5SRDB0amJPMVlzRl8tZA?oc=5",
-          "cat": "NFL"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU0l4b1ZZeDlxSnI0MUlGM3hBVG9EamVWWFk5MjhjQ0JobEhMU3lpTUVWSTk3YnIzdnNHdXB6RjU4dnN3bno2aVpkRTZhbXhvZl81UV9VTGFaajFkV0M1bzIwUXVNWnhoZTVscDZwQld1UEJHYWVheElsOGRrM3FpSWpaY3RZRnVxcGxLRE1TUQ?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will monthly inflation increase by 0.1% or more in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-monthly-inflation-increase-by-0pt1-or-more-in-july-20260714151054975",
+      "yes": 56,
+      "change24h": -9,
+      "vol24h": 6870,
+      "headlines": []
+    },
+    {
+      "question": "Will Core CPI MoM be 0.2% in July?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-core-cpi-mom-be-0pt2-in-july-20260705181349576",
+      "yes": 50,
+      "change24h": -5,
+      "vol24h": 8169,
+      "headlines": []
+    }
+  ]
 }
