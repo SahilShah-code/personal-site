@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-09T12:23:24.263Z",
+  "updated": "2026-08-09T18:21:30.394Z",
   "withNews": [
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 17,
+      "change24h": -6,
+      "vol24h": 22673,
+      "headlines": [
+        {
+          "title": "FIFA says concerted bid seeks to oust Infantino",
+          "source": "Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvM0NPVExkdlR3c0hzUTJDVjJIUUo3dVMwNjJkUjk3ZGJNTFRsSGlseHJoWmVTTk80NTRRNXZZd0prbldOR3p5R19VOGVKMC1zUTQxSTFhRHBkbmduTjhsSGxoQU5KaEFFX25jdTQ0MDdKQlJqUk9oZQ?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "Will Rafael Jodar Win ATP Montreal",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
       "yes": 21,
-      "change24h": 6,
-      "vol24h": 22440,
+      "change24h": 5,
+      "vol24h": 14631,
       "headlines": [
         {
           "title": "ATP / WTA: Tous les résultats de ce jeudi 6 août 2026 et de la nuit",
@@ -24,28 +40,12 @@
       ]
     },
     {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 18,
-      "change24h": -6,
-      "vol24h": 20184,
-      "headlines": [
-        {
-          "title": "‘More Than Ever’—FIFA Launch Stunning Gianni Infantino Defense After Fresh Allegations",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTlh4a1Fsa1MtdlZ3NVdJb0s0b2I2LUlROUoxSUN6RlNIb1ljREVTQ2dteXVJTGQzQ0lRZTl3SHI2V3NDTEVGRks2Ni0ycW1lNHJKTy1MeEJoaEItT1VZaVZsSlJSbHU3cGJ3WjNpdG9SVXoydDFlUFhfaHkyWExTck0xTVNPVGZpbnc?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "question": "Will Bitcoin dip to $57,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 91,
-      "change24h": 3,
-      "vol24h": 16109,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-august-2026",
+      "yes": 14,
+      "change24h": 2,
+      "vol24h": 26171,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -62,34 +62,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 in August?",
+      "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 69,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 57,
       "change24h": -2,
-      "vol24h": 16893,
-      "headlines": [
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Ethereum be above $1,900 on August 12?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-1900-on-august-12-2026",
-      "yes": 61,
-      "change24h": -2,
-      "vol24h": 8330,
+      "vol24h": 25371,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -111,41 +89,41 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 36,
       "change24h": -1,
-      "vol24h": 146620,
+      "vol24h": 142506,
       "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Bank of America issues stark warning on Fed and economy",
           "source": "thestreet.com",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Qk01TTdXb1Z6eXc1T2NEUVVCdVBhUkZQU1lISEJaMVNyLUlpZ0xNTXdkZGluX2VHTjlEWkhZeDJaa1JEaktHQ1Z3WVo0QTlBbzJ0Q0hKb0pkSzhjcVpobXZFdVRZVEdua05CaFpVX1VGdFFQU2l0Xw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 8,
-      "change24h": 1,
-      "vol24h": 17767,
+      "question": "Will Bitcoin dip to $60,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
+      "yes": 28,
+      "change24h": -1,
+      "vol24h": 15847,
       "headlines": [
         {
-          "title": "Bank of America issues stark warning on Fed and economy",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Qk01TTdXb1Z6eXc1T2NEUVVCdVBhUkZQU1lISEJaMVNyLUlpZ0xNTXdkZGluX2VHTjlEWkhZeDJaa1JEaktHQ1Z3WVo0QTlBbzJ0Q0hKb0pkSzhjcVpobXZFdVRZVEdua05CaFpVX1VGdFFQU2l0Xw?oc=5",
-          "cat": "Macro"
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
         },
         {
-          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -155,22 +133,54 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
       "yes": 2,
       "change24h": 0,
-      "vol24h": 311195,
+      "vol24h": 225374,
       "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Bank of America issues stark warning on Fed and economy",
           "source": "thestreet.com",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Qk01TTdXb1Z6eXc1T2NEUVVCdVBhUkZQU1lISEJaMVNyLUlpZ0xNTXdkZGluX2VHTjlEWkhZeDJaa1JEaktHQ1Z3WVo0QTlBbzJ0Q0hKb0pkSzhjcVpobXZFdVRZVEdua05CaFpVX1VGdFFQU2l0Xw?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 63,
+      "change24h": 0,
+      "vol24h": 179254,
+      "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
+          "title": "Bank of America issues stark warning on Fed and economy",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Qk01TTdXb1Z6eXc1T2NEUVVCdVBhUkZQU1lISEJaMVNyLUlpZ0xNTXdkZGluX2VHTjlEWkhZeDJaa1JEaktHQ1Z3WVo0QTlBbzJ0Q0hKb0pkSzhjcVpobXZFdVRZVEdua05CaFpVX1VGdFFQU2l0Xw?oc=5",
           "cat": "Macro"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
+      "yes": 51,
+      "change24h": -4,
+      "vol24h": 13184,
+      "headlines": []
+    }
+  ]
 }
