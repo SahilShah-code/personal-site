@@ -1,45 +1,51 @@
 {
-  "updated": "2026-08-08T18:19:37.172Z",
+  "updated": "2026-08-09T00:45:27.359Z",
   "withNews": [
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 17,
+      "change24h": -6,
+      "vol24h": 14592,
+      "headlines": [
+        {
+          "title": "FIFA hits out at campaign to 'undermine' president Infantino",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMzF3VVU3QVlmYlhreVRWRmM4ZkJ2d2hsbjFOMHdvT1VwSWxHWTFwcF9LV1RkZW5ydERpR3B4Sk1LbFdYV0lfQVBtMlhEX2JtQ3JBMUk1SUp2c2R2TXRZWlo4T05lU0pkOGVoZ2tkZk43T1lfNldmY1lSSGlVVlU5T0l1WkNLY0liM2Y3QQ?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "FIFA says there is ‘concerted and ongoing effort’ to oust Gianni Infantino as president",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVk9EMnJ4aUZrRjlUdERiQzFXQXhOUzE3bFQ5RTVvb2pSQy1Xa1B5ODBGeU9sS0tNcFRWeGlhc3VyT1JjMU51YzhDdFhuRlhkemxyakhRMWM1ZWtVbWd3NmRRVkVoSGRNcEdnZ0licGF3cnNzUlZBcGdNYTE0emlGTGZ5aGhQTWhqOVlHckQ4WFR2TWloUHBWeG53?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $64,000 on August 10?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-10-2026",
+      "yes": 86,
+      "change24h": 4,
+      "vol24h": 8230,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin reach $67,500 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
       "yes": 60,
-      "change24h": 4,
-      "vol24h": 22442,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $62,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 60,
-      "change24h": -4,
-      "vol24h": 13816,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 71,
       "change24h": 3,
-      "vol24h": 17159,
+      "vol24h": 21008,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -50,12 +56,88 @@
       ]
     },
     {
-      "question": "Fed rate hike in 2026?",
+      "question": "Will Rafael Jodar Win ATP Montreal",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
+      "yes": 13,
+      "change24h": -3,
+      "vol24h": 17995,
+      "headlines": [
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Potential ATP-WTA merger put on hold",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnBLTlI4akZRQXZEOEk0ZUhFWFR4WmhRaUJxdXNtRFJwNE9WTXNwVnpZSXN1TmZZVDVpTWg5M2VodGRVcGxBRGx5ZDJRMm5vLWUtSnVPR25mbWxRcHpka0tfbTRGQW1tQ2N3dEhKRDNPSkpEWTlaZXA0LWMzUlhhdU1EVjJ5QzJrckt1OFRhRXNYdw?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 91,
+      "change24h": 3,
+      "vol24h": 13931,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 55,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 36,
+      "change24h": -1,
+      "vol24h": 103897,
+      "headlines": [
+        {
+          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Column: The Fed needs to start listening to normal people",
+          "source": "The Virginian-Pilot",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 10,
       "change24h": 1,
-      "vol24h": 116348,
+      "vol24h": 48640,
+      "headlines": [
+        {
+          "title": "Knicks’ 2026 Draft Pick Pauses Path to NBA to Sign Long-Term Deal in Germany",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2lzY0dJUEhYU1IyMDRIVlpIaFh5TUswOWx6cndNSldPN1U4Y1h6VnNUVTFzeERJNXdGaW1PSFdvbEYzVFU5OEY2aFJ1Z1lWcE1sR2dMVko5QnAxb0ltMlVXcTY3REZMSDBuNnNTN3pNUXZhZVhEM011aVNfTXJPY1Z3UGk?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will no Fed rate cuts happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
+      "yes": 85,
+      "change24h": -1,
+      "vol24h": 11140,
       "headlines": [
         {
           "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
@@ -77,7 +159,7 @@
       "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
       "yes": 11,
       "change24h": 1,
-      "vol24h": 19316,
+      "vol24h": 8689,
       "headlines": [
         {
           "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
@@ -90,69 +172,28 @@
           "source": "The Virginian-Pilot",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 7,
-      "change24h": 1,
-      "vol24h": 16419,
-      "headlines": [
-        {
-          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Column: The Fed needs to start listening to normal people",
-          "source": "The Virginian-Pilot",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Rafael Jodar Win ATP Montreal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
-      "yes": 16,
-      "change24h": 0,
-      "vol24h": 17137,
-      "headlines": [
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Potential ATP-WTA merger put on hold",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnBLTlI4akZRQXZEOEk0ZUhFWFR4WmhRaUJxdXNtRFJwNE9WTXNwVnpZSXN1TmZZVDVpTWg5M2VodGRVcGxBRGx5ZDJRMm5vLWUtSnVPR25mbWxRcHpka0tfbTRGQW1tQ2N3dEhKRDNPSkpEWTlaZXA0LWMzUlhhdU1EVjJ5QzJrckt1OFRhRXNYdw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "NBA: Stephen Curry to leave Warriors?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 10730,
-      "headlines": [
-        {
-          "title": "Is LeBron Joining 76ers Like KD Joining Warriors? Stream of National Basketball Association",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpWaGtEdmxqMHNFLUxmWlpON3NXMUdtRmxWYzgxN0hJNWdIMTllUWh1QWNVaWxHOVFNSWVvbXVsR1BfZTl5WHhqY2pfWnhsQlNhY29URmthS09jSWRhbTg4OHY4N2hYN0JPZTFvUi1rQ1Q0R2toUm01YW5XR2RkSkV3VVE5eW1JUXRDTFozOFpEWU5h?oc=5",
-          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Caribbean Premier League: St. Kitts and Nevis Patriots vs Trinbago Knight Riders",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/criccpl-st-tri-2026-08-08",
+      "yes": 7,
+      "change24h": -37,
+      "vol24h": 20355,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 38,
+      "change24h": 5,
+      "vol24h": 7716,
+      "headlines": []
+    }
+  ]
 }
