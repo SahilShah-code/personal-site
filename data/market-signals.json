@@ -1,50 +1,243 @@
 {
-  "updated": "2026-08-10T00:48:51.691Z",
-  "withNews": [],
-  "moversOnly": [
+  "updated": "2026-08-10T07:04:49.102Z",
+  "withNews": [
     {
-      "question": "Will Rafael Jodar Win ATP Montreal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
-      "yes": 23,
-      "change24h": 10,
-      "vol24h": 15031,
-      "headlines": []
+      "question": "Will the price of Ethereum be above $1,900 on August 12?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-1900-on-august-12-2026",
+      "yes": 69,
+      "change24h": 8,
+      "vol24h": 8450,
+      "headlines": [
+        {
+          "title": "US Stock Market Today Live, August 10: Will DJIA, S&P 500 Extend Rally? Nasdaq Has Potential To Cross 27,000?",
+          "source": "Goodreturns",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPREJoV05QdjBHMFNLV3R2MGJqblZMLWlpUndQekhlRi1hMTE1c29xRUlKZTZmR3ZmWmNyWWJCbmctOU1TdlMxU0FKQ3AtX1VtMzRGN0xuRWhJWEdvVVlfU3pJSGQxTWZZb2JWV0JRZFpST1N6S2JfY2NHV3Voa1BsYTg2WUtFeXVVb0QxM3o0dTBrTXBQVlY5UEhWdkNTQWpnRE8ySFlXWUFySEVla1Z6cUxvRDU3TldEeWVZUTl1cW5TOHViQ01SLUs0YVdFZ01wUl9Ba1FQdHlSSkE?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
+      "yes": 25,
+      "change24h": -7,
+      "vol24h": 44006,
+      "headlines": [
+        {
+          "title": "US Stock Market Today Live, August 10: Will DJIA, S&P 500 Extend Rally? Nasdaq Has Potential To Cross 27,000?",
+          "source": "Goodreturns",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPREJoV05QdjBHMFNLV3R2MGJqblZMLWlpUndQekhlRi1hMTE1c29xRUlKZTZmR3ZmWmNyWWJCbmctOU1TdlMxU0FKQ3AtX1VtMzRGN0xuRWhJWEdvVVlfU3pJSGQxTWZZb2JWV0JRZFpST1N6S2JfY2NHV3Voa1BsYTg2WUtFeXVVb0QxM3o0dTBrTXBQVlY5UEhWdkNTQWpnRE8ySFlXWUFySEVla1Z6cUxvRDU3TldEeWVZUTl1cW5TOHViQ01SLUs0YVdFZ01wUl9Ba1FQdHlSSkE?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
       "question": "Will annual inflation be 3.3% in July?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-annual-inflation-be-3pt3-in-july-20260714150613270",
       "yes": 40,
-      "change24h": 8,
-      "vol24h": 7743,
-      "headlines": []
+      "change24h": 7,
+      "vol24h": 8551,
+      "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will the price of Ethereum be above $1,900 on August 12?",
+      "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-1900-on-august-12-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
       "yes": 56,
-      "change24h": -5,
-      "vol24h": 8410,
-      "headlines": []
+      "change24h": -6,
+      "vol24h": 24943,
+      "headlines": [
+        {
+          "title": "US Stock Market Today Live, August 10: Will DJIA, S&P 500 Extend Rally? Nasdaq Has Potential To Cross 27,000?",
+          "source": "Goodreturns",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPREJoV05QdjBHMFNLV3R2MGJqblZMLWlpUndQekhlRi1hMTE1c29xRUlKZTZmR3ZmWmNyWWJCbmctOU1TdlMxU0FKQ3AtX1VtMzRGN0xuRWhJWEdvVVlfU3pJSGQxTWZZb2JWV0JRZFpST1N6S2JfY2NHV3Voa1BsYTg2WUtFeXVVb0QxM3o0dTBrTXBQVlY5UEhWdkNTQWpnRE8ySFlXWUFySEVla1Z6cUxvRDU3TldEeWVZUTl1cW5TOHViQ01SLUs0YVdFZ01wUl9Ba1FQdHlSSkE?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
-      "question": "Todi: Oriol Roca Batalla vs Federico Bondioli",
+      "question": "Will annual inflation be 3.4% in July?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt4-in-july-20260714150613271",
+      "yes": 38,
+      "change24h": -6,
+      "vol24h": 6173,
+      "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Core CPI YoY be 2.9% in July?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-batalla-bondiol-2026-08-10",
-      "yes": 44,
-      "change24h": -4,
-      "vol24h": 19652,
-      "headlines": []
+      "url": "https://polymarket.com/event/will-core-cpi-yoy-be-2pt9-in-july-20260714151811928",
+      "yes": 7,
+      "change24h": 5,
+      "vol24h": 5330,
+      "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "question": "Will Rafael Jodar Win ATP Montreal",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
-      "yes": 51,
+      "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
+      "yes": 21,
       "change24h": -4,
-      "vol24h": 15103,
+      "vol24h": 12570,
+      "headlines": [
+        {
+          "title": "ATP / WTA: Tous les résultats de ce jeudi 6 août 2026 et de la nuit",
+          "source": "Tennis Actu",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkE1bjFCdVNxRHZuWmV5bWpfcGctLU1QZ2kxek9wVThzWGFmRjQzemFqXzNaMVVMVVZUZjA1RHQ4alVKbnU5aVNxdU9vR0NGaVNpMGV4NlpYWW43VS05YjZ5MDNjcVM5SWdMZ05icnE1N004aXktVlZMOXNQVDVUdVZvOEV1ZEYta0Z6cmo0OEI4czV3bW94ZDYwRVlCZ1ZSWUxLcG5ORWZ5Ymsx0gGsAUFVX3lxTE1vNEhkVHlqb0tjVTJKNDZpSWtkQmtSRjlyVy1rQXIzUC1qQVZjN2ttZTBxTEVQNjZVX1Ezc1lFRGtCT0hqbDVhNnlBcG1TR2pRdWxNNmdzQnFucDFtMTJEc3E5NGtIMGRKejdoOHMyZkF2T2NCalBJU2lTZW9RSzFOSzJFNXhmczRrNGdwUThyZDl5RlYxU2VoZkdkTzFEZl9vd0duUG5yWDJGYUs?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Eurozone's 2026 Annual Inflation be between 1.0% and 1.2%?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-1pt0-and-1pt2",
+      "yes": 2,
+      "change24h": 2,
+      "vol24h": 12673,
+      "headlines": [
+        {
+          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 64,
+      "change24h": 1,
+      "vol24h": 270192,
+      "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Bank of America issues stark warning on Fed and economy",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Qk01TTdXb1Z6eXc1T2NEUVVCdVBhUkZQU1lISEJaMVNyLUlpZ0xNTXdkZGluX2VHTjlEWkhZeDJaa1JEaktHQ1Z3WVo0QTlBbzJ0Q0hKb0pkSzhjcVpobXZFdVRZVEdua05CaFpVX1VGdFFQU2l0Xw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 35,
+      "change24h": -1,
+      "vol24h": 138793,
+      "headlines": [
+        {
+          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
+          "source": "Kalshi News",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Bank of America issues stark warning on Fed and economy",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Qk01TTdXb1Z6eXc1T2NEUVVCdVBhUkZQU1lISEJaMVNyLUlpZ0xNTXdkZGluX2VHTjlEWkhZeDJaa1JEaktHQ1Z3WVo0QTlBbzJ0Q0hKb0pkSzhjcVpobXZFdVRZVEdua05CaFpVX1VGdFFQU2l0Xw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 19861,
+      "headlines": [
+        {
+          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ben Shelton win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 8512,
+      "headlines": [
+        {
+          "title": "Ben Simmons’ NBA hopes receive major update after return to pro basketball",
+          "source": "hitc.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTR4SnFVcjNvam02dVhjZmN0Zi1KT1hObjNWdW5RbXM3U0t2TXlFY2pfTDVrdy1kZkZQRzJZVGZmZUdqLTV3N0NvdnNPWmRuYU5nQkZFWmt2UEd1R1FBZTRGSkVCMFF5VVNaQWpkbUQwWEtLU3pHLVYxY0NqNHc0bk1FbW13UGRidUYwZUs0Y3MyaVRfUUFCVmg3NA?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
+      "yes": 14,
+      "change24h": 4,
+      "vol24h": 26946,
       "headlines": []
     }
   ]
