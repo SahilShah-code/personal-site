@@ -1,341 +1,45 @@
 {
-  "updated": "2026-08-09T18:21:29.965Z",
+  "updated": "2026-08-10T00:48:50.898Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": [
-        {
-          "title": "Basketball Hall of Famer Don Nelson dead at 86",
-          "source": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00RDJtbkJCbHU0RlNITmpGNG5wQnNKTnJQdnpFbkswajRLZ21JNFZVZkt2TXBUVHhWRmRtaDlpWmthRXk3TGpTQWdKZWlOelhPV04tQkRPYldEeWZwT09NWVF1NW1ZTl9CelVDb0xURHhiVC10d05yOUlyWdIBgAFBVV95cUxPN2VGMlBMRTZXdzlYVFRTamFVSnEwWTNaOGJZU2UySEtvMzdoSVE1T0otaU8zRkRRUUV5ZjJJSWwxQUs2N2lCcWFveDNRb2kxaGFqNXowSVNkb3JVa0xyeUE5UkwzeUF5b05mNGVwMDNHa3ZGQXd3OTdMU2xBdFRHTQ?oc=5",
-          "ts": 1786299043000
-        },
-        {
-          "title": "Don Nelson, second winningest coach in NBA history, dies at 86",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVVURzVvT2NldmtfYnV0MGxUbDFkV3VzUWUtVzYzZFZxekw5MW5xbXBCX0psR1R5NmExdW52a2JWNFYzLWR0bkdrRkdXTUVMRjI2U2tJcEtETWd4WmlsYXh3cEgtelJDeVM4LXEwTElwWlZBQUhTd0dpdXYxVzRyTk9iWkpLS2ZyM3VkQUNxM2d4YnlSOFliRmlFRjgwOGJj?oc=5",
-          "ts": 1786299000000
-        },
-        {
-          "title": "Don Nelson Cause of Death: NBA mourns as five-time champion and Hall of Fame coach dies at 86",
-          "source": "MARCA",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMF9DZjNpUVY3TTV4X1doQlg0SzY0cVFYbU1uUEVnVmljSEktRy05YV9nd2t4Y2l3aFM2T1ZLbXpSdzNuRnRyZVZ4aXRuYnpuOFhHWm14OTBtUlQyRTFKTGFtZC11U0RzQ1FCdXExX1N2Yk56MUlFbWxtRXVWWE1yTnpKOHpUbTdZWjFCTzVpeWxfaWxKQTBiUlo5QXJsZHZaTWdtTExLTmtXZThmT3l1emNzUHp0YmgtRXNIOEVINDJpSzRpcGFjMDRqZVJCYU5haFNzWUNmdjNpanYtM0htYzlEbDZBVGRWU09hOUgzVDhpTjF6a1HSAfYBQVVfeXFMTlBuN09TTF9ONnRaZXpPRmFVSnN1S2hvaFB5RFk2S3pWVkxxUUUtY241c3NQZ21PYnhIaXU1OFNLOGxkVndwcHktaVpyd25kNW5jdVQ3bnRGNlYyREI3OEg4dVd3UnJnakF0YVlCMUhaVDltbFNfT2hQRlcwblBWeERGY1lGTUp6SmxZUXpHLW53U2RHNVo0U0c1eEF0ckF0LXJILUQzblBFVW5tZXdYbDRXd2dSczU5WVdRUnFTRDBnMEJYcmpZaHpIRnBzaXVnODV6X2VBQlRxOV9XNnZJdDByN0ZCYS1hQTV0VWV6NGhBeUJwcDBB?oc=5",
-          "ts": 1786298529000
-        },
-        {
-          "title": "Don Nelson, 5-time NBA champion and pioneer of ‘Nellie Ball’ as coach, dies at 86",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnBEU0E5SE9odnhKeUJHQ0VUNWlFd0FwZFBLWDcxMkZaRThLSnVRZjFUT3FNeDllSkp1WkJuc2JXbzIxYUdFbnJfYVBWZ09QVFZuU2VDWGp4TzlmYUh5a2lNMTA2N3pWUFppS2tpTU9wNFB1SmJ5VmZHN1h0TFYyMXdhc01HUXFMT3R3bzR5dm84TWprMmhEZlhDcTgyTndjTERxSk93?oc=5",
-          "ts": 1786297983000
-        },
-        {
-          "title": "Don Nelson, the second-winningest coach in NBA and Dallas Mavericks history, dies at 86",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzRDY2JxSFJCbGhTdU1JNFE4akRyeXo0aG02WHZxM2RzM0ROdEM4SF9hVzJZa09zNGZicndrMF9maGkwcXd5VkM1aTdPYTFFTTJxaHRGWXNpaUVxX1ZBUjI1dnN0VTRPdHhrTV84Zlk0a2xid1lObmVNU2p5OVdyNkhVOGVCQzFyc01HcVBmclRqeTFWcEF5SWNwaUZySVpQTlZnenRSUTkyUS1ockxwM2FUNF8?oc=5",
-          "ts": 1786297977000
-        },
-        {
-          "title": "NBA coaching pioneer, Hall of Famer Don Nelson dies at 86",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHBuT0haMHJGS0tsaG9WZ1FkU1FZRDZKT2d5YmFkTlFfWmhOTWNzempvbFFwaHpmZG9Ta1JlV0szbW1vSFAyYVpYQ1VkeGtOTDRyOGRkWERPNm5kTXNlWVl6dkdZWjU3NGoxbHp1ek9acUUtQkhHeWVCTnBFdDl6TERaSUxZQVNtUW1rYUtpZzk3VjBSZ2JVWW1zSHZ1UURzOC1KbQ?oc=5",
-          "ts": 1786297920000
-        }
-      ]
+      "items": []
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": [
-        {
-          "title": "Fantasy football 2026 rankings, draft prep: Model locks in QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWUVkODZxb1Z4STBsT0pLWFpMb2RoNXMtaWtVUWN5VTh5NkpZeEdHZ1hQMWJOclFCWEF6WkZUcVh6R0dwSGJtRWVzb05fMUwteXFvdV81M2pqMDZGbEpYTGduMDNaRjhrdTVwZ0tLOG01MXlHaVFHVjh4aUZkeDJiWFQzYzVFMFBwV1JPWVZEOG5BMlR3dE9SVS1GUUhiM3BTVTdiemVGNnpkNVIxMU1vcHd3bFpsa21rdW9wZlhUWWFwVjlTWTlNaU9vMEt5ZHhMMU5LZk9Zbi1XU0V1R193?oc=5",
-          "ts": 1786299343000
-        },
-        {
-          "title": "Greatest Kicker of All Time, Adam Vinatieri, Assumes his Spot Among NFL Legends",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa0pNT1l3YmVfQnZWa1BZT1hBenlZNm5sQzdsMzNIYlFocDBlaHJhemhYT3djbjFBSTdRNVN5VVV1a1hhUkY1UnJEc3VhQmRLYXlUMW51ZjBpVm51NEdiaDNBbzhWQzQ4N2xoODVyRU5ESXJmZG1iY3dTdk92OC03WF82N1pUbXBFbWxzYw?oc=5",
-          "ts": 1786299297000
-        },
-        {
-          "title": "Panthers sign QB Kyle Trask with Hall of Fame game hero Haynes King sidelined",
-          "source": "Baltimore Sun",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlozZHZ6Y0RMcEprTVpsM3hTcElHWjA4SmxuYkFDbUljWW9HaWp4d0JwOEcta3lsRmM5US1hN1phclI1LV9DdjQtUXR5Y3YwczRYYmFQQS10Mk02bUVmalBMN2Vrb0pPRVJqYVVqY2pPWWJwSExCYjNiT2c5YnRYb3RHalVaWlhJUkJfN1RxckpfWTg5eE5zWEp5U25pczZqWG0taWhfR0xDSlk1bENDcTZsdU03dFZOV3c?oc=5",
-          "ts": 1786298779000
-        },
-        {
-          "title": "Mitchell Evans talks about teammate Bryce Young: 'He Knows Football'",
-          "source": "Carolina Panthers",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUltUU9Qdjh5Rnl5N0U0UTlSbmVrb04yc1lYZHBHQlFWSVFPTFA2OXVvTlZneml0eFk1OUlPckNRQTJ4SlRKbGRiTmV6aEZBeFVOYmx0NUJrcFFhdjlVcXpPRmlCcHVKcVY4TFZmXzFnOHFjU0FfbDN0S1VKcTRXVmlUb1pTZ2FiTzd4RjlKVnJnUWpqNkFZOU9NYmk?oc=5",
-          "ts": 1786298288000
-        },
-        {
-          "title": "Lions backup QB Teddy Bridgewater leaving team, Dan Campbell says",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNVZ4Rlh6Q3ZzQk5hQlJsajNKc1BQd0RFQ3hCMkZtb3BaQ2FmVTFHSjUyaWxWam9xTERqclZWaVJYN1ctUGtVQzlxbnQtUE5pWEpSc0cwV0F1UmlRZWpXSGV3QTNYU0RjVXdWY01sOWxBbmx2dHBxa0E1NGRGeEMybVhhdmczSUZfb2RJcF95MldiWks1V1NlbTZTaDNvT0Qx?oc=5",
-          "ts": 1786298177000
-        },
-        {
-          "title": "Is Raiders rookie Mike Washington Jr. a fantasy sleeper RB for 2026?",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVlsbkpCM0dfa01ZaVE5YnBNMVJaNy11REFrcXh5Y3FIdm1ONXZYeWFVUnAtNFpYeFc1dGRFWEwwWUJQV1BGbmx0dkRCUmdXbUZxWXUxVmNIZXdFdlFkVE5rQmF1ZVcxcS0wcjFRMkJZMEpreDhlRHFnSWRmaG1fMWxEY1Y0a3ZJV1E?oc=5",
-          "ts": 1786298065000
-        }
-      ]
+      "items": []
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": [
-        {
-          "title": "ATP / WTA: Tous les résultats de ce jeudi 6 août 2026 et de la nuit",
-          "source": "Tennis Actu",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkE1bjFCdVNxRHZuWmV5bWpfcGctLU1QZ2kxek9wVThzWGFmRjQzemFqXzNaMVVMVVZUZjA1RHQ4alVKbnU5aVNxdU9vR0NGaVNpMGV4NlpYWW43VS05YjZ5MDNjcVM5SWdMZ05icnE1N004aXktVlZMOXNQVDVUdVZvOEV1ZEYta0Z6cmo0OEI4czV3bW94ZDYwRVlCZ1ZSWUxLcG5ORWZ5Ymsx0gGsAUFVX3lxTE1vNEhkVHlqb0tjVTJKNDZpSWtkQmtSRjlyVy1rQXIzUC1qQVZjN2ttZTBxTEVQNjZVX1Ezc1lFRGtCT0hqbDVhNnlBcG1TR2pRdWxNNmdzQnFucDFtMTJEc3E5NGtIMGRKejdoOHMyZkF2T2NCalBJU2lTZW9RSzFOSzJFNXhmczRrNGdwUThyZDl5RlYxU2VoZkdkTzFEZl9vd0duUG5yWDJGYUs?oc=5",
-          "ts": 1786012980000
-        },
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3I4QWVRRm1fakUwaGRXUzlJY1YzUHluU0NBTEJmaUJxX2VWazFSdUNWNVJzeWxWcl9oTGRmbnRVWHNnZU9LSkVRdWNlajZCMk5MNGUwMS0xelNfS3Jtc055Q1RqQmswMjFCMWVhVGQ1ZlJjMEFOUTZQZkFqU2pKVlJYYk04LWpyV0cyY09hMWM1TXZUQk9VMXhRTHV1U2ZtVjVZXzFVdTFVZ0dhSEI2VzJMdTlwRVVKbE91VGxqdEJ5d3VaUS1iNjNuV3puMVl6NEE?oc=5",
-          "ts": 1785826800000
-        },
-        {
-          "title": "When is the Washington tennis final?",
-          "source": "atptour.com",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5RzhBb1JkdUVXUTBoclFxbnhxOXJleFhmVWZ4TENBZ0xyeHJUZVByRTU5bkdvUjFHeEdYTUFTQXhEV3hJYnlVUUxISFg2cWdMdlRRb18tZlh2elFfOUM3ZVowOEVCVFE?oc=5",
-          "ts": 1785740400000
-        },
-        {
-          "title": "How the kingmaker of men’s tennis sent the sport into turmoil by trying to save it - The Athletic",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFdCVnh5RTVob2Z1SVJ4ZWNJeEpoSi1wb0o4eXVCSmVEdHNSbHlBNERpQTBxLUlIUlB0Sk5ubGhNeW45UUx0V1VtR3R1UFpyTGdWQ2ExOVh6MGozSnNQcWI4bllLVk55YXpnNEMxTzA2OERJamJwNGxEQ2lIbE81Z19hRnNxZDI0WkoyQU1hYjFuQUdnYTVDR2lLYzFGMWFCM2x4QWNEZFg?oc=5",
-          "ts": 1784962800000
-        },
-        {
-          "title": "Mubadala DC Open 2026: Draws, Dates, History & All You Need To Know",
-          "source": "atptour.com",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdzIxLWd6TDVhTjE3dHdqMzliamZ0TzZUVV9nbWp1eGxpeFoyd3RGekxvRm1CR2lIcHNvMmRpd3dBMEdfUXRRMGRiYzBwbThCN0dINVdLb3psS0JTQm5id1ZPajFJZmNTYmpVXzZzTm9tVldQNW9TQUt4eVhUTmVxMEg3WQ?oc=5",
-          "ts": 1784703600000
-        },
-        {
-          "title": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
-          "source": "Sportico.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3lDUndqM0kyMkhKZEprbDEwaDJMMjY0WmRYUGphSjJEYWlOWVhMYVJjYmVrbXVOSUs3NjZNZXJzTFhGUlBjQWlKN3lTQWNzMUNEdHJKU2FNZ0xBRVkwV2JMdlN6Ri1UZHNqS1dnMC1JUHJPcVVIc2JHSDJpMzdZQW1pTVdUN1V0U3c?oc=5",
-          "ts": 1784530800000
-        }
-      ]
+      "items": []
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": [
-        {
-          "title": "Why NFL is forcing Gillette Stadium makeover after World Cup",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnhGYzFkel84a19pNE45akdrM1ktM0tiNnFJelU3aHpLQjg2akR0RkxyU01lTGZYcUNldjFreDVDalFrZkEzUXFJX3hwQktjZGtWMFRjVjFPcjY0bzdoSXdnekk3em50SV9Bb3BvMUpGX081b0RrOElWRFVaMkgyLU5nclV2X1Y3?oc=5",
-          "ts": 1786299271000
-        },
-        {
-          "title": "PSG sign France defender Digne on three-year contract",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGlSMjg2ellQQmowc1pqN2g5ZEE4WnV1VVNHd2FzN3pWVXJjcjU5bGFfNjJ0NFFiSmo3cDFvV19hZUdXNl9mVjVXUGtuQXFfOTcxZ0JtNDhoNXZJVzJodEozQ3BYOVBTRkRIdDYtemtzcW1vb2xVQ1JKTlNieWlobExUZS1NNDFmUDVyMUtvaUNPVlViemxvWHZzM2prSHlTSXc?oc=5",
-          "ts": 1786297901000
-        },
-        {
-          "title": "England defender Chalobah joins Como from Chelsea",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZXFQZjVTYUdRZ1A5YUxwYlR3a0N3WFB6U04yOExHWXR5OUxISU8zaDJsd281cHQ3ZWpCNVZ5YUJOSXd3aDM4MkE5MHZkc1lsdlRYNU1XTlJ6NkZBVUw3ZHdnc012RHUtdEJacVpqRVdVXzNraDN3eG5wekNTbXV2eVNwWUtnbDAySTRRRTFSTXBCMmJtRzRiajRn?oc=5",
-          "ts": 1786296129000
-        },
-        {
-          "title": "Al Nassr sign Portugal’s Costa from Mallorca",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmk0VW9nd3VSMkppNDdHd2kyWWl3VkRwUGVtQmhucm5GMC15N1d2WlZpSUJtS1NxNUcxZ3ZoWW1lREJDcnRKUWF4YUNnTkN0ZXp2R3psSUhDNVhIaTJ5aU9MUUFpMFNFNWJ0d1ZtakFyMUw5aW9mMXcxbS1WZGpvUEU3OHFwSUE1OE9vOWN2WVdBdw?oc=5",
-          "ts": 1786294063000
-        },
-        {
-          "title": "Arsenal’s Jurrien Timber ‘weeks away’ from return following injury – Mikel Arteta",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPam5xMnRaVDFTbHhSQTA5YUt2Q2NDTzVERllXR2tuZ2FsNk9aQTN1bGxnQnNfNUFkTGtzc1o3VEJTUmhFZUZhV0ZaS3liM1dMSVF3Xy1BSm54X1REUUxjS3J1T240UHlibWxUdHp1SkdOMTJLRnd4cmQzVFkzLUQwSFFYcWloZUZUVFR6T2NDNkk?oc=5",
-          "ts": 1786292511000
-        },
-        {
-          "title": "FIFA says concerted bid seeks to oust Infantino",
-          "source": "Taipei Times",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvM0NPVExkdlR3c0hzUTJDVjJIUUo3dVMwNjJkUjk3ZGJNTFRsSGlseHJoWmVTTk80NTRRNXZZd0prbldOR3p5R19VOGVKMC1zUTQxSTFhRHBkbmduTjhsSGxoQU5KaEFFX25jdTQ0MDdKQlJqUk9oZQ?oc=5",
-          "ts": 1786291200000
-        }
-      ]
+      "items": []
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": [
-        {
-          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
-          "source": "Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
-          "ts": 1786288919000
-        },
-        {
-          "title": "Bank of America issues stark warning on Fed and economy",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0Qk01TTdXb1Z6eXc1T2NEUVVCdVBhUkZQU1lISEJaMVNyLUlpZ0xNTXdkZGluX2VHTjlEWkhZeDJaa1JEaktHQ1Z3WVo0QTlBbzJ0Q0hKb0pkSzhjcVpobXZFdVRZVEdua05CaFpVX1VGdFFQU2l0Xw?oc=5",
-          "ts": 1786274220000
-        },
-        {
-          "title": "US Inflation in Focus: Key Economic Data Set to Shape Fed Rate Path Next Week",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVpvcUE2WkstNkJHbkxzWVpEWGQ1S3E5aEFzdHhnQWhhMjc4cHJJUDBJeldWSW1nX2dnLU54RHd5QkZkWlNXNWEwd2xtd0RIWEp6RXVnVUgwWEJ3cW1WclZ4UTVoVTlseWZFbWN3MU5XN1BLTlVraVJZbkhJU0h4OVg0ei1zQQ?oc=5",
-          "ts": 1786193979000
-        },
-        {
-          "title": "Column: The Fed needs to start listening to normal people",
-          "source": "The Virginian-Pilot",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFA0UmxoMlNETjdLQ09PdmZfSFFvemJnTXhRc2o2dWphU2dEWUFyT3hSejRDbUlwR0RGdUpYZ05BRUxST25sdTRQUWwxbWNET2cwSk5OOWdrbXV0czA2Q1hlbjdnX183RjJGVVdHeUJjZVFMaUN5bzRrWGdfWXpUOGZtYWhOeXJsQTl1VGwwZkNkQlI3N3JYMWd4TVc?oc=5",
-          "ts": 1786140474000
-        },
-        {
-          "title": "The Fed was expected to hike interest rates in September. Don't bet on that now, economists say.",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkV3WmFpUmlEQlBFQ2hBNzk2eUx2d3RSZjlTT044WXc3Rjl5Mm53SmJqdnZFTHRPVmF2VFlKTUdQZjQ2LXdTU01TS0c5VDJBWjFrNnQwVHc4QnVidzgtSVFiYzZlc19fcXlyUVEzMk1lWHdmUkg5c2VTT2JJbnQtNDh2NFlGQmtUMU1TM1NIOXpYU0lCVTYxNA?oc=5",
-          "ts": 1786127580000
-        },
-        {
-          "title": "Opinion | The problem with the Fed going quiet",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaV80a3BBclQxUV9GRGRhSHFHZThsbDFHMlFONzlwd2JUWnk5c2UwVnFwZ3l3WTRfR3hxd2pONHN5UkJrc2IwRVhNRWNwdExBWHR2dkhYY0R3d3VTelBIWVlFMFlBRWZZb1VfYVFiQ1FQcGtxb2Y3YWtiWUc4YWxhSnBYUXY3OEtRdnU0OQ?oc=5",
-          "ts": 1786122900000
-        }
-      ]
+      "items": []
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": [
-        {
-          "title": "AI Spending is Slowing Down. How Will the S&P 500 React?",
-          "source": "BeInCrypto",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55SmZ3Qm1QcjlzOHpXeGZNQW9rT1BmLTkyRmpXbUNPX21vY1NkdzdPZExncW5sWnd1aWpRbG5JdS03WkZoU3V3NzJycDBfNVlUaDNLa1lTNFdPS3FCT3M5amlnMVZuUi1zd1FwaQ?oc=5",
-          "ts": 1786298640000
-        },
-        {
-          "title": "Want to Become a Stock Market Millionaire? History Says This Investment Can Get You There.",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3E2czJqcUVCbnkxcFR2eEVuUmRvdFBXeWVOVHY2MWxEMDVmQWhzempBTzUyQVA2OUc0R3ZaNHFMM0ozX1dDZzJFbUU3X0RlZk4wbVBqOWF4ZEhWcExXNzdCYTJ2NTlUX0NKcWlHTUZqWVVOc20tbElPRTZDaS1GenBJbTFoZEFtY3pDMlVzY2p3WGRhWURud2NjZHBTOWh1NWVN?oc=5",
-          "ts": 1786297800000
-        },
-        {
-          "title": "S&P 500 Sets Record as US Markets Eye CPI After Strongest Week Since April",
-          "source": "TechStock²",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMllaNk5fMm1DNy05NnRaUk1KSUlaYWtrODZJR0I3WEd4amMxOEJlQ2hpTkVvNDN4QlVvX01RMXdtclZ4RTV4RzJnQWZhVC1qOThUcWsya2I5VkREbWxWeFVTVXdoOXlKeW90cENJWjFIeUo3WWo0UU1zblZsMW9HT0FyOGRmV1JuZFNmb2dweE9iUUVza1g3X0NR?oc=5",
-          "ts": 1786296186000
-        },
-        {
-          "title": "S&P 500 hits 25 all-time highs in 2026, driven by strong earnings and key stocks like Nvidia and Micron.",
-          "source": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd3lmRUpnczJsMHp1emVaeUYyQUlNRW1GOXAzSVlYU0ZiVVFJRHpCdERfTVdrR2FpQkQ1OVVJRWVlTERnSi1IeU9WX19KQV9JWGJCcDRPbE16ZnZYVFk2VkFjVEc5S1o4YVhqSUctbi1SRmstYjIwaHNHeTZIWG1uckxibzdTRmFsVnZZ?oc=5",
-          "ts": 1786291950000
-        },
-        {
-          "title": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcDFURUNUcnZRYmdWQ2VWMi1XZEQ2QnRPd3hQTG1rNVZQcEktTm50eEJTM0pLemxHWlVRd3RkWDlQcWRLc1N4WXc1LXhZRldVd0JCZGlmTFdfVW1GVHpjazdoVHZpUG5FaV92UU9fSjA4Z0R0VDMxLTNuanhfVkFlX1NCaXBBbFpoeU9YeG41aDlEenlzaWxabFdDN04xdE5PR2NadHNLcl9zVDRTakg2VEFWd212WVhaV3lBNWNKbFA3Qk1VMjU3azRuVGNsMVU1VzJnTVJGX2F6ZkR4d2pIZTYtdVg3dkdWOHBnVkY4REg?oc=5",
-          "ts": 1786291486000
-        },
-        {
-          "title": "If a Stock Market Crash Is on the Horizon, History Says Investing in This 1 Thing is the Smartest Opportunity Right Now",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDI3cmJfcFcyaC1OZkplR0lrUU1xNjk4eUdEUW5QRTBxYTF0X2ZnZ1Axd3pDSTd6RmoyckF5MnpjZ0Y3OGdSelNOT041TmZPUVdaNXdfSFQ1NzA1c3ZLVElYWmpOZ3ljYzJWZzF4R2pJMUc4bGNaRDFJb2Y1RkpBcVEyckYyQjcwU1BTWFhMdmNKd2pIc0NtMDk1OG9vUGMw?oc=5",
-          "ts": 1786290420000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": [
-        {
-          "title": "Kalshi and Polymarket bets on clinical trials criticized as 'ghastly'",
-          "source": "NPR",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHJfeUFlZm5hUFRTTlFMZzdpOVVBOVJqNTZ4MGlmWFktdEdsOS1kWGRoRXZVQXU3dGVQcUVfTDVVZHRQbTNKTnVzUTJzelBuQ1pDMnVLb2h6eUJ6SFVybThLSi1xcHNBcmFqcVZOdkdqSjVIeFVwV1czOVNGVF9yTnZMSDhna0V5NEpNN3pXUV8wUjJSWHFVdDZuVQ?oc=5",
-          "ts": 1786096800000
-        },
-        {
-          "title": "S.D.-born biotech advances potential Type 1 diabetes therapy through global trial",
-          "source": "SiouxFalls.Business",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDdnMFhYVzhWQ0x1UE9VaDN2NlpieVc3eFB3YTl2R2trck5wci1RV1BrLVY2c2NXSW1tV0VRTHFlTmxEeHhPazBvRDBTamcxemRwbm9lOUZMSVUyNGhySVg0TTRxcVlscnNGUDdHMnZYb0tOcVgyZnpxREVpOEQwQWVZR2tXN0hOQnY3SGdQZ0xpdUNsZHd4WDEwb2VidmM4V0FOVFliOVU5dHAxNWc?oc=5",
-          "ts": 1786026940000
-        },
-        {
-          "title": "Why China’s biotech rise is harder to contain than AI",
-          "source": "ThinkChina",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEg1akdORDE4UHgwWHNScVFoQUt6LXBPRW1xb0h5RURldXEtZTRsTnR5NXQ1SkdFVmlMUDhzQWRLNjZKVlFEbWY0bGJ2dnEtTFhYb0JQc2R2Q1FXc2RPb1k4QlFuUnMxdG1fS2MtYl8tWjRBNVp2a0pxb2xQRHBZS0dQM0c?oc=5",
-          "ts": 1785912834000
-        },
-        {
-          "title": "Kelun-Biotech Receives a Clinical Trial Notice for Its First Dual-payload ADC SKB565",
-          "source": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVTRwTFNycVp1RFJNQ1NRbXBkbmZkdzE1c1dOUTB3Yl9RalBLY1llSEVvbzFwRjN6MkV3dDZMUV9jNTM5OWJvZHk2dGp4V3diMjZlS3FMODI0dFNTMVZmVzJKMFJFNXBHRDNwR181S0J1SEVVVlYxLUc3anBUNHZheElxMk9kMTB1eHZCZ3dPWGM4bEFrY0JxdWx6elVRMDlMNWNqRFRObkMtdVJWSldPc2U2eHhudlZncU14UDR1MmVBOFZuV2pHNVYtcEFhVHg5SGtwOVZldw?oc=5",
-          "ts": 1785135600000
-        },
-        {
-          "title": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
-          "source": "cnbc.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWZPSWhYMmd1M1dlNXNJWWQzY1RPMXVLSmFqaDV6VVYzM3VvU3dvS0JCZHlCUWJlRkl0U1RNMGxUbnQ0OTJESUNaaUFyMTRfUXMtaHV0U205UXNiNmJHbUJKb2ZMUkdHbjF5ZmpLelg1NjJhYmNVSWhuM2N2MzFIWEZ30gGHAUFVX3lxTFBPSlJMT2dqcm1zY21LV0JIWlNYUTVCNTRkLXI4SVA4WGV3VUlPRVIxZlNHQS1EZFViejRoUTc2R3dWU1A1UzFMQ0tlSVlpdFNqVUpTUm4xWTk4b2hUOFFkM0o3M3IwNnMydWNUZzVkbGxKcGtBVXhJSlphMFVMWV9ZU1NlZHNMWQ?oc=5",
-          "ts": 1784617200000
-        },
-        {
-          "title": "Kalshi launches biotech prediction markets pilot program",
-          "source": "Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtVWY0SnBXY24zZl9HNmNRMlNKRWhpRXgtZGFPSE5UZDBDQzh4R0FVajJFMENMdTVxSjVObVlWUUtSM1dGWFNLUlRLeF90NmtXSmVpdGFnZjBOWDFrWXRncGY3OHRMbVItRDVn?oc=5",
-          "ts": 1784185200000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": [
-        {
-          "title": "Replimune's Unfinished Verdict: A Biotech Stock Caught Between a Panel's Blessing and a Silent FDA",
-          "source": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0lsMGN5UV9VcF9HWjdNMm1YMlc0bW0xVFhqQkc1UlhrN2d4RTBQd2VCUXJZMk5Ud3lGdG1VU1IySXl4V0RuMU8yc1VuOU82WGZHTnRSemgxX0R5eUVCRVVVTHNrRWRvTmUyOHF5eHNXNlRNYkhwN0lkX0ZYR1VpVW1kbVQ2akJqU1pKUkhlZUVhTkRRNzZqYnF2OFl0VXVCMjkyOHRMOW5YUUdrLXdWMWcxcGdJVFI2VU5LWmlDaFhBdTRIczdMTll5Z3VzMkdOTlpGRWlIa3N5cXM?oc=5",
-          "ts": 1786032779000
-        },
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "ts": 1785999600000
-        },
-        {
-          "title": "FDA Approval Updates for Biotech Companies",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN3RhbGg1STVKeUpfZS1wbFRhNDVYcUFxQjVqUDU2R2htYS02dnZZMEJVREFZTmdLbjJEWmlXUUg4ZVlYVU5oYmJMTVFTYU5QRlZjOFk1UlZzang5ZkZTUng1eWNoR1UtdUZSZE9RRU4xSDZBMG1ZV3ZMQlVic1pvNHln?oc=5",
-          "ts": 1785717803000
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "ts": 1785503580000
-        },
-        {
-          "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZnUkhSRDk0OHRSc0g5WlhaMGFLYTNYWEh3Z0xSTnRrZEFlQjNSTFNxb3FTR0RoYXJFU2dVVG13MFo2c1MzeFhfU01LSnZ0UXgwYXd1YTltMzBuU0xaS2gzU0pPQkhGalBGck16QmlCWjRCVWNNV2twT080TWo5V2o3eU1pdw?oc=5",
-          "ts": 1785481200000
-        },
-        {
-          "title": "Why CELC Stock Declined 15% in a Week Despite a Major FDA Win",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1R3al84c0lSaGF4dmlTQ241WFIxR3FnVzBWNkxjMGgxTWZvb2JfRzBsZS1XZi01VFBKa0preEZJZExXQk00RjRLbWVTd3hrNXpXU2JISEVBbmF3QWVDd08tZW93OC1qdGFqZkE3TWZQT01zX2hWN0JPRGFMZno5SEhGeTVDUU5VSjdFVXpYejQ?oc=5",
-          "ts": 1784617200000
-        }
-      ]
+      "items": []
     }
   ]
 }
