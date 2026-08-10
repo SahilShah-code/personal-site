@@ -1,101 +1,135 @@
 {
-  "updated": "2026-08-10T12:39:38.211Z",
+  "updated": "2026-08-10T18:39:34.117Z",
   "withNews": [
     {
-      "question": "Will annual inflation be 3.3% in July?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt3-in-july-20260714150613270",
-      "yes": 40,
-      "change24h": 8,
-      "vol24h": 8003,
+      "question": "Will the price of Ethereum be above $1,900 on August 12?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-1900-on-august-12-2026",
+      "yes": 28,
+      "change24h": -36,
+      "vol24h": 8667,
       "headlines": [
         {
-          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
-          "source": "Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
+          "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0FfOGZQTThHdmNEWF82S1JlMHZ1VGdnQTZ0S1lSaHZneWMzNEM5Nzl5V1Y2VEZUd3hSTHBveUtWaGlMNm9IMDFnQWtxWUFIX1dUbXZhVUFMaF9yS3Z1ZWtFSV9aZ01PZ2htZmN0YnZZSFRyRlc1b2NKbGpJbzZMNzJvNmZPSGcyWHFUdGZydTZjMjdlSTkzTGtmc0QzOWxpSWZjRFBB?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
-      "yes": 26,
-      "change24h": -4,
-      "vol24h": 46889,
-      "headlines": [
+        },
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
           "source": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $66,000 on August 12?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-12-2026",
+      "yes": 6,
+      "change24h": -25,
+      "vol24h": 19875,
+      "headlines": [
+        {
+          "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0FfOGZQTThHdmNEWF82S1JlMHZ1VGdnQTZ0S1lSaHZneWMzNEM5Nzl5V1Y2VEZUd3hSTHBveUtWaGlMNm9IMDFnQWtxWUFIX1dUbXZhVUFMaF9yS3Z1ZWtFSV9aZ01PZ2htZmN0YnZZSFRyRlc1b2NKbGpJbzZMNzJvNmZPSGcyWHFUdGZydTZjMjdlSTkzTGtmc0QzOWxpSWZjRFBB?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Eurozone's 2026 Annual Inflation be between 1.0% and 1.2%?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-1pt0-and-1pt2",
-      "yes": 4,
-      "change24h": 4,
-      "vol24h": 12618,
+      "question": "Will the price of Ethereum be above $1,900 on August 14?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-1900-on-august-14-2026",
+      "yes": 37,
+      "change24h": -23,
+      "vol24h": 9459,
+      "headlines": [
+        {
+          "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0FfOGZQTThHdmNEWF82S1JlMHZ1VGdnQTZ0S1lSaHZneWMzNEM5Nzl5V1Y2VEZUd3hSTHBveUtWaGlMNm9IMDFnQWtxWUFIX1dUbXZhVUFMaF9yS3Z1ZWtFSV9aZ01PZ2htZmN0YnZZSFRyRlc1b2NKbGpJbzZMNzJvNmZPSGcyWHFUdGZydTZjMjdlSTkzTGtmc0QzOWxpSWZjRFBB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 45,
+      "change24h": 9,
+      "vol24h": 12593,
       "headlines": [
         {
           "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
           "source": "The Daily Upside",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "How Kevin Warsh is rewiring the Fed",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $57,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-august-2026",
-      "yes": 12,
-      "change24h": -3,
-      "vol24h": 29345,
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 44,
+      "change24h": 8,
+      "vol24h": 873060,
       "headlines": [
         {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
+          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
+          "source": "The Daily Upside",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "How Kevin Warsh is rewiring the Fed",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 67,
-      "change24h": -3,
-      "vol24h": 9917,
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 25,
+      "change24h": 8,
+      "vol24h": 18655,
       "headlines": [
         {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
+          "title": "US Soccer join UEFA in calls to ax Gianni Infantino after Fifa boss schemed to sell 2030 World Cup",
+          "source": "the-sun.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV21raWliU05vWXUtbzVIZy10VHZqNEVOM2lyUS0yclhPVGlXWVgxY0lzRXRrMnlZN3dyRzNSQng0SUJoZmRxbThSZnh2QXZnZjZzUVF0VkhibnpLaUpqQ0FvcHFQZ1hLUDBtRWU3SGdXdG83dlRpMGE3bElQRVVyWlBDQ090aXZPVVFiYWhXYw?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Concacaf, AFC, and UEFA unite to write an open letter to FIFA, Gianni Infantino over commercial plans",
+          "source": "World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUI2RDl2ZWpmaFNhM25vc2JsbmljajJ1X2MxbU52cTl6UFdwcFllWEFfX2hzOFVGRE1jYWQxUWItSnVoR3hLdWxnRTByYzBHeHh0OTlwa0VJZjhqNlFNWHZIa0lQdTd6MFZWVUxpZzJFOVVoWXpDdUx4bUpXeHQ1ai1jTDZEdEowUFZnUnYwVDFWbXBBTk1SSkczLWVNRkxLZnVSckJ1ZkdRbWNMT281Wnc0X0lsX3VreElWdlhhU2wwNFAxejhwVGNuVXg0SUI10gHQAUFVX3lxTFBtQjZEOXZlamZoU2Ezbm9zYmxuaWNqMnVfYzFtTnZxOXpQV3BwWWVYQV9faHM4VUZETWNhZDFRYi1KdWhHeEt1bGdFMHJjMEd4eHQ5OXBrRUlmOGo2UU1YdkhrSVB1N3owVlZVTGlnMkU5VWhZekN1THhtSld4dDVqLWNMNkR0SjBQVmdSdjBUMVZtcEFOTVJKRzMtZU1GTEtmdVJyQnVmR1FtY0xPbzVadzRfSWxfdWt4SVZ2WGFTbDA0UDF6OHBUY25VeDRJQjU?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -103,9 +137,9 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 62,
-      "change24h": -1,
-      "vol24h": 407300,
+      "yes": 56,
+      "change24h": -7,
+      "vol24h": 616125,
       "headlines": [
         {
           "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
@@ -122,78 +156,40 @@
       ]
     },
     {
-      "question": "Will annual inflation be 3.6% in July?",
+      "question": "Will the Eurozone's 2026 Annual Inflation be between 1.0% and 1.2%?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt6-in-july-20260714150613273",
-      "yes": 2,
+      "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-1pt0-and-1pt2",
+      "yes": 5,
+      "change24h": 4,
+      "vol24h": 12597,
+      "headlines": [
+        {
+          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
+          "source": "The Daily Upside",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0FfOGZQTThHdmNEWF82S1JlMHZ1VGdnQTZ0S1lSaHZneWMzNEM5Nzl5V1Y2VEZUd3hSTHBveUtWaGlMNm9IMDFnQWtxWUFIX1dUbXZhVUFMaF9yS3Z1ZWtFSV9aZ01PZ2htZmN0YnZZSFRyRlc1b2NKbGpJbzZMNzJvNmZPSGcyWHFUdGZydTZjMjdlSTkzTGtmc0QzOWxpSWZjRFBB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Enes Kanter Freedom be drafted in the 2027 WNBA Draft?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-enes-kanter-freedom-be-drafted-2027-wnba-draft",
+      "yes": 8,
       "change24h": 1,
-      "vol24h": 8394,
+      "vol24h": 11406,
       "headlines": [
         {
-          "title": "Fed rate hike odds fall to 33% as US economy sheds 23,000 jobs in July",
-          "source": "Kalshi News",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MQm1xektUbDZuUDVRekJldUJwTFBKWlh3a211c2E3cm1veEg3a2RHWVFUSC1LYXctMlBGLTJrMk0td0dfajhuam1SZ1lLUm9QdVlNMDM2RFh1eUEwUXIxbF9jeTFZeUdpNUFTTDVGNUtzTDZJ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate cut happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
-      "yes": 10,
-      "change24h": -1,
-      "vol24h": 8140,
-      "headlines": [
-        {
-          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "How Kevin Warsh is rewiring the Fed",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Aryna Sabalenka win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-aryna-sabalenka-win-the-2026-womens-us-open",
-      "yes": 28,
-      "change24h": -1,
-      "vol24h": 7435,
-      "headlines": [
-        {
-          "title": "Malawi makes history with first-ever Women’s World Cup qualification",
-          "source": "Equalizer Soccer",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnRUR0hnWHc1ZHF1dm9DN1NZLUFMZzJrMG0wRWdBTFdmbURrX2pJaXpTTmV0eGY2NnZRb2dQRFdtbU9NOS14SzgyZUxKQ0t6ODJvdEM2aTNNQ3c3cUJ0d2kyNTdlZU9naGplNnR3T1NXdGJ5Ml9vZUZMaVYzZHlheXh1aThDcUEwM0Y5ekxvcGpUZHZHVlRwYl9tSWh1MVJodWo2dnRyZkEyVjA?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 348488,
-      "headlines": [
-        {
-          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "How Kevin Warsh is rewiring the Fed",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-          "cat": "Macro"
+          "title": "Three Volatile 2027 NBA Draft Prospects Entering the College Basketball Season",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmppY0FvVEN0WnBhS01UaFlsRHBnMkg5YndYQV9lNC00SlpycVMzQ3ZkYnVaLTNMdW5RZFoxUXRfai1qa2FsR1BqTmlrZUxXczZFQmNkV1hNdi1VRkNzQUhOeC1EeWpNbC12eHBYaE5SZWw5Y0xfTnJ1ZFE3bS1yZmdyenlzdGZEeDEzRG5SZk40OWUyZGJmeXN5YjFoT0pzeEp6REFYb0VYMXJQdnQ0RFNrc2ROa0k?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -203,7 +199,7 @@
       "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 26214,
+      "vol24h": 28437,
       "headlines": [
         {
           "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
@@ -214,54 +210,58 @@
       ]
     },
     {
-      "question": "Will Rafael Jodar Win ATP Montreal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
-      "yes": 21,
+      "question": "Will the Eurozone's 2026 Annual Inflation be between 1.9% and 2.1%?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-1pt9-and-2pt1",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 10432,
+      "vol24h": 20458,
       "headlines": [
         {
-          "title": "ATP and WTA TV Rights in France: Who Will Win the Broadcasting Battle from 2027?",
-          "source": "en.tennistemple.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFJkVEx0eWM4N2dOTGRPeTk4UjZCdjI1ZWxyUlQ3MzRsNTM0WWdnTzM0SmZLdzlnOF96bzdtLWZGbHdXTVJ2dUpKUUxsS3hzS25UbGJyY2l1UXhIZG5NLXVMZW5mdThyQnZtUjZaSTN2UkJmR3Y0VzEtNkM1ZnRlQV8wTnJJYlRvRnlPRDhTWQ?oc=5",
-          "cat": "Tennis"
+          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
+          "source": "The Daily Upside",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "ATP / WTA: Tous les résultats de ce jeudi 6 août 2026 et de la nuit",
-          "source": "Tennis Actu",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQkE1bjFCdVNxRHZuWmV5bWpfcGctLU1QZ2kxek9wVThzWGFmRjQzemFqXzNaMVVMVVZUZjA1RHQ4alVKbnU5aVNxdU9vR0NGaVNpMGV4NlpYWW43VS05YjZ5MDNjcVM5SWdMZ05icnE1N004aXktVlZMOXNQVDVUdVZvOEV1ZEYta0Z6cmo0OEI4czV3bW94ZDYwRVlCZ1ZSWUxLcG5ORWZ5Ymsx0gGsAUFVX3lxTE1vNEhkVHlqb0tjVTJKNDZpSWtkQmtSRjlyVy1rQXIzUC1qQVZjN2ttZTBxTEVQNjZVX1Ezc1lFRGtCT0hqbDVhNnlBcG1TR2pRdWxNNmdzQnFucDFtMTJEc3E5NGtIMGRKejdoOHMyZkF2T2NCalBJU2lTZW9RSzFOSzJFNXhmczRrNGdwUThyZDl5RlYxU2VoZkdkTzFEZl9vd0duUG5yWDJGYUs?oc=5",
-          "cat": "Tennis"
+          "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0FfOGZQTThHdmNEWF82S1JlMHZ1VGdnQTZ0S1lSaHZneWMzNEM5Nzl5V1Y2VEZUd3hSTHBveUtWaGlMNm9IMDFnQWtxWUFIX1dUbXZhVUFMaF9yS3Z1ZWtFSV9aZ01PZ2htZmN0YnZZSFRyRlc1b2NKbGpJbzZMNzJvNmZPSGcyWHFUdGZydTZjMjdlSTkzTGtmc0QzOWxpSWZjRFBB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Eurozone's 2026 Annual Inflation be between 1.3% and 1.5%?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-eurozones-2026-annual-inflation-be-between-1pt3-and-1pt5",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 12218,
+      "headlines": [
+        {
+          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
+          "source": "The Daily Upside",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0FfOGZQTThHdmNEWF82S1JlMHZ1VGdnQTZ0S1lSaHZneWMzNEM5Nzl5V1Y2VEZUd3hSTHBveUtWaGlMNm9IMDFnQWtxWUFIX1dUbXZhVUFMaF9yS3Z1ZWtFSV9aZ01PZ2htZmN0YnZZSFRyRlc1b2NKbGpJbzZMNzJvNmZPSGcyWHFUdGZydTZjMjdlSTkzTGtmc0QzOWxpSWZjRFBB?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Todi: Oriol Roca Batalla vs Federico Bondioli",
+      "question": "No change in Bank of Japan’s interest rates after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-batalla-bondiol-2026-08-10",
-      "yes": 50,
-      "change24h": 8,
-      "vol24h": 38670,
-      "headlines": []
-    },
-    {
-      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
-      "yes": 15,
+      "url": "https://polymarket.com/event/no-change-in-bank-of-japans-interest-rates-after-the-october-2026-meeting-20260731151539217",
+      "yes": 48,
       "change24h": 5,
-      "vol24h": 28237,
-      "headlines": []
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 22,
-      "change24h": 4,
-      "vol24h": 17124,
+      "vol24h": 8916,
       "headlines": []
     }
   ]
