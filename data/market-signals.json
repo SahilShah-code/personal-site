@@ -1,13 +1,35 @@
 {
-  "updated": "2026-08-11T06:43:18.626Z",
+  "updated": "2026-08-11T12:36:31.510Z",
   "withNews": [
     {
-      "question": "Will the price of Ethereum be above $1,900 on August 14?",
+      "question": "Will Bitcoin reach $66,000 August 10-16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-1900-on-august-14-2026",
-      "yes": 35,
-      "change24h": -28,
-      "vol24h": 9433,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-10-16-2026",
+      "yes": 42,
+      "change24h": -29,
+      "vol24h": 12702,
+      "headlines": [
+        {
+          "title": "Bitcoin drops 20% in 3 months while S&P 500 ris...",
+          "source": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDMxdXJSaG9iQzhycEdNbmloWXlPUlc2bGw4LVNlTTAtSk42QW5mdmgzZU1oVzUzMG5JaTQ5c0ZYRm1zdmxaNDZlVzBhTEE3Qm5TcUF5Q0hDaVdrRHQxZ0xwUnZaNlZ5SElvMWJwUi13cllMck44Um1aY0VfcXBYQU0wVHlsWGhB?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,000 August 10-16?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-10-16-2026",
+      "yes": 20,
+      "change24h": -20,
+      "vol24h": 13743,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -27,58 +49,80 @@
       "question": "Will the price of Bitcoin be above $66,000 on August 13?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-13-2026",
-      "yes": 8,
-      "change24h": -24,
-      "vol24h": 10000,
+      "yes": 10,
+      "change24h": -19,
+      "vol24h": 12076,
       "headlines": [
+        {
+          "title": "Bitcoin drops 20% in 3 months while S&P 500 ris...",
+          "source": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDMxdXJSaG9iQzhycEdNbmloWXlPUlc2bGw4LVNlTTAtSk42QW5mdmgzZU1oVzUzMG5JaTQ5c0ZYRm1zdmxaNDZlVzBhTEE3Qm5TcUF5Q0hDaVdrRHQxZ0xwUnZaNlZ5SElvMWJwUi13cllMck44Um1aY0VfcXBYQU0wVHlsWGhB?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
           "source": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
           "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on August 14?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-14-2026",
-      "yes": 12,
-      "change24h": -22,
-      "vol24h": 11113,
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 27,
+      "change24h": 6,
+      "vol24h": 20255,
       "headlines": [
         {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
+          "title": "Mexico soccer federation accused of accepting ‘bribe’ for backing FIFA boss Infantino while betraying its alli",
+          "source": "Diario AS",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUF9zRndUcTF2TDBMQ0lsRXRURjNsUWNSMzlzcHJiMnl2TmlDNWtqdmZod3gxZXc0UGtZTHdJQ09ldjB0eWg2a2FBSmFaV2FiT0w5QW4welREeWhoaW03TEF1VnFRSWRlWG55QVM2dDM1dWJCNFE1VWhKUGMyaHRPMlNSb0pqSWM1QkUwSmJDazJOWHhDVWp2aGVBSG1vUktiaDlTbjRramVIQXRRQW02N0p0cmJCRTB2Y01UX1JsMGlnaW9ybjVwVjB6cnp1NzNaaDZFRXloZFRCZ3ZjX0lj0gHzAUFVX3lxTE5DSFVCT3pPUTZZMFZZVk52NW1aUVNCblNleklJb3dMQl9JeDRrRWZ5TUxsU0x4cS1LTVdBQmh5SmVEZHhHVGZZRXZka1R1NklkcFBiS2ZabThVTW1wdmFzSzBQUUl0Sy1PT2xyVE1CX2JUZVhwc1lSdEdPSENnQm5LZGh3MV95ZGtJaDVqeklyOGgzNEhVQ0NIQjZLRXlzTUhuWEgtNFFXRlZTQURiU0NybHpuWS1ZVlhGTUtvNFBUYVB1WlBJMHBweGNMQmo3Y2prVU5zUnRPZGszbGdQeHpYbmV2aVlvdWE2THZMTXVIMC1Wdw?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Infantino Exit Odds Surge, But Still Expected to Lead FIFA",
+          "source": "heavy.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObnQxODBHZXZXYXNaTlRaRVFRRGFMdEpvQXA4TzZuSUVMQVd6UWtIODdXQzJDc0JtMDdpODJHeFhORno2TS05Ty10Y0ViVjQ0YnZoR3RyV2swY2VnNmk1OTdIMWtGQmFDS3hvY2kzWlJ4YzR4Q2ViVmRfRDlXN01ndS04Xy1NdHFYWlZ2OGZjNTg1elc1?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 56,
-      "change24h": -8,
-      "vol24h": 568931,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 42,
+      "change24h": 6,
+      "vol24h": 19934,
       "headlines": [
         {
-          "title": "How Kevin Warsh is rewiring the Fed",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+          "title": "Fed rate hikes likely even with weakening jobs outlook",
+          "source": "washingtonexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGkyTGpCeGZneXZ1eUFoN0NEYmFQLXVTQm9HMUZsTUpNSnEzMFFabTB6RWIzVnBBbm5Nck92bnEtS1RMdTV0OW16NURUX0ZnamVrQnl2S0pTenUyUzRIS1E1QWNFV1VPeHFCNjhOVXlRdEtobXZpbWNQbEZpQ2lPOG1MVXFDbThpRU5hY2xHRnh6WGlxSUtENlRqM1pIbHV5Mkw0NklJc3hqX3RHa1dTdzFqdElaSmgzek5kcE1CM0NLVUhBU3h2akdpQWhtR3ZBdVlaaw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
+          "source": "The Daily Upside",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 60,
+      "change24h": 5,
+      "vol24h": 25973,
+      "headlines": [
+        {
+          "title": "Fed rate hikes likely even with weakening jobs outlook",
+          "source": "washingtonexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGkyTGpCeGZneXZ1eUFoN0NEYmFQLXVTQm9HMUZsTUpNSnEzMFFabTB6RWIzVnBBbm5Nck92bnEtS1RMdTV0OW16NURUX0ZnamVrQnl2S0pTenUyUzRIS1E1QWNFV1VPeHFCNjhOVXlRdEtobXZpbWNQbEZpQ2lPOG1MVXFDbThpRU5hY2xHRnh6WGlxSUtENlRqM1pIbHV5Mkw0NklJc3hqX3RHa1dTdzFqdElaSmgzek5kcE1CM0NLVUhBU3h2akdpQWhtR3ZBdVlaaw?oc=5",
           "cat": "Macro"
         },
         {
@@ -93,119 +137,75 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 42,
-      "change24h": 7,
-      "vol24h": 1151565,
-      "headlines": [
-        {
-          "title": "How Kevin Warsh is rewiring the Fed",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 43,
-      "change24h": 7,
-      "vol24h": 16873,
-      "headlines": [
-        {
-          "title": "How Kevin Warsh is rewiring the Fed",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Diana Shnaider Win the WTA 1000 Toronto?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-diana-shnaider-win-the-wta-1000-toronto-20260803145250210",
-      "yes": 1,
-      "change24h": -4,
-      "vol24h": 6907,
-      "headlines": [
-        {
-          "title": "The ATP and WTA Tours slammed for what has happened at the Canadian Open this year, 'They're killing tennis'",
-          "source": "Tennishead",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVkzS1lueW9aVTJxR3kxeXA1azlpVmUyaENuQTVlQTU4R3MyU252R2ZyRnY5bmh1aGFXdktyeVpZcU1rU0NCZHhmb1ktNGYxNDVMX0Z3NDV4MWF5MVVqbXNzVUJTNFdhUHpjbVBjdjVGWVRST2xtVEc3R3lBcjR4YVRNUDdZYnlFNENIbEc1VGJrVXljRVdmOVJ1S3c4NEVvcC1Ld29FUmFHNllsQzZoSndscE1PWS11ZlR0dGE0eDZpazJvR0Q0?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP and WTA TV Rights in France: Who Will Win the Broadcasting Battle from 2027?",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdFJkVEx0eWM4N2dOTGRPeTk4UjZCdjI1ZWxyUlQ3MzRsNTM0WWdnTzM0SmZLdzlnOF96bzdtLWZGbHdXTVJ2dUpKUUxsS3hzS25UbGJyY2l1UXhIZG5NLXVMZW5mdThyQnZtUjZaSTN2UkJmR3Y0VzEtNkM1ZnRlQV8wTnJJYlRvRnlPRDhTWQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 19,
+      "yes": 39,
       "change24h": 3,
-      "vol24h": 19057,
+      "vol24h": 1058654,
       "headlines": [
         {
-          "title": "Gianni Infantino: Donald Trump warns of 'terrible mistake' if FIFA replaces under-pressure president",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbjRqUGhnVVVaZHBvMS1fN2J0SnRMSDc1T29yY3V1LTFGb2xtU2VMRTVhMHRBV3pOdk15SlE1UWVXY0Jpa241V3NoUnZUZTNicEIyaERpMUhkRzRuX3JJdkxlWHRUUVhqNVVQcUNTelJaMXNaa0w5Q29NMGpCRDJQX0VWenBSUnItZjY3MWNzOGszSnJ6XzdhNUx6M19GUWVta0pJeS1vSjliQURnQTNsLU54Z2o4N0p1R2s5dTVROXV3TmU2YzZra0YwZW1QMkdhMF9NdDk3MnhoNW9vMG1yN1F5ZDBmeFE?oc=5",
-          "cat": "World Cup"
+          "title": "Fed rate hikes likely even with weakening jobs outlook",
+          "source": "washingtonexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGkyTGpCeGZneXZ1eUFoN0NEYmFQLXVTQm9HMUZsTUpNSnEzMFFabTB6RWIzVnBBbm5Nck92bnEtS1RMdTV0OW16NURUX0ZnamVrQnl2S0pTenUyUzRIS1E1QWNFV1VPeHFCNjhOVXlRdEtobXZpbWNQbEZpQ2lPOG1MVXFDbThpRU5hY2xHRnh6WGlxSUtENlRqM1pIbHV5Mkw0NklJc3hqX3RHa1dTdzFqdElaSmgzek5kcE1CM0NLVUhBU3h2akdpQWhtR3ZBdVlaaw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Trump warns replacing FIFA chief Infantino would be 'terrible mistake'",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmxQWW1zREd2WGktOTFmQnhpZFNJRkxyTFZWNTlVdXJzUGRMdjBkR1duWGcwUUhjcml3ZjhTUFh3SndQNDh0ek01eFdwS0NVOFQ3ZHlhT2M0UVhNRm1xa1hjOWJTTF8xdEtaQzNJVWhrMFd3OWtLVjh3bFdMZ0t0QXM4d1V0RHNhc282OFVONHkycXJYaXluWTIyTVdrdmJFTVhocTJ1Q3dVbXQxT1lIRklrcw?oc=5",
-          "cat": "World Cup"
+          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
+          "source": "The Daily Upside",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Enes Kanter Freedom be drafted in the 2027 WNBA Draft?",
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-enes-kanter-freedom-be-drafted-2027-wnba-draft",
-      "yes": 8,
-      "change24h": 1,
-      "vol24h": 12987,
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 47954,
       "headlines": [
         {
-          "title": "‘Grifting Sloppy Seconds’ — Award-Winning Songwriter Eviscerates Royce White for Parroting Enes Kanter’s WNBA Draft Declaration",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMF94akgwYXpocm1LTVZvbEp3Z3RGMmZwWXowN3ZCZ0VvX0c1ZmRicGhtLXlMQ2U4aGk3SkZXalIzZWRaNGpEbTFmcVRfS1VycUxUNjVxdlFGS0lnWUk1N0FlS3RmQm5RSHlEdmtTSkxVRHR2V3kxeFI2X3paR0I2d3FNN2xhSm9ldGRtZ1J2UQ?oc=5",
+          "title": "For first time in franchise history, Timberwolves have a Christmas Day home game",
+          "source": "Pioneer Press",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnNtRGVndEU0X1A5OFdVcXBwM29NMU5hVGY5Qk9rU2tjaGRSZUhoeGtfRzlJaExYMmNSYUJSZ2lfMlIwUmpQZ0d0Y0VsWFJhM1NPUU5uTVh3QUxhb3ZnUzN0V2NTTFpNZkZuMjFYYkw1ZU1QU29GY1dsWGl6TTl1UjhDR1RvNDg2R1p5VTdydndFUVpab0haWUdGNkhhcHhRdEJ5OV9JbUNKaVNqOElxLW01Qm11VXBGU3c?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
-      "yes": 0,
+      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 9526,
+      "vol24h": 20658,
       "headlines": [
         {
-          "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
-          "cat": "Biotech markets"
+          "title": "Boston Celtics at Detroit Pistons - NBA Game Summary - Oct 20, 2026",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtMHZHZ2RqSE43eF9XaXRHNFlrQ1k3bWVZLVB4SW9FSWpscU1RdWR4WFpMdWdFYTVBMEdfUWE3eXhZNG5na3MwVzhLTUNxSW92clVWbGxqS1dra3VJb3JpRWNIZ3dqNE9lWEdLbUh6bw?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 10,
+      "change24h": 0,
+      "vol24h": 13319,
+      "headlines": [
+        {
+          "title": "New York Knicks at Boston Celtics - NBA Game Summary - Oct 23, 2026",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RMTE4SmpmQkIyXzRnN2VsbWhoeEhBdzZFYzhYaE12SlZKNUVqRU13YXV3NTBoeFJYWGVSY0lrSzNwMVBNaVloeWZZNFlubTRha3ZrMjdfS2RkbDYtU21TQVB5TXJnYkNueVVjTEtJbw?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Champion Knicks to face Sixers, LeBron in NBA tripleheader",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdV9kdDdETnYtNGxLLTRMblpUMHVUZnpZMjlvenRPSENvVV9kN3FhMVdwclNjSmx3U1M4UTBxYkdOQjBVU0tDcWttUGZFdWZIa05uQ21NeFd6YnZjbkI4U3UxSE9ZYU5XMDhDaGVOZFk1aEJwZURsM0JxNld4UUJWLUZvLXQ0RTdyR1pYUUN5RmRtdFktRklQclVwdWs?oc=5",
+          "cat": "NBA"
         }
       ]
     }
@@ -217,34 +217,7 @@
       "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
       "yes": 42,
       "change24h": 7,
-      "vol24h": 8690,
-      "headlines": []
-    },
-    {
-      "question": "Todi: Oriol Roca Batalla vs Federico Bondioli",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-batalla-bondiol-2026-08-10",
-      "yes": 50,
-      "change24h": 6,
-      "vol24h": 24820,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $40,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-40000-by-december-31-2026-593-522-842-874-931-776-991-167-531-959",
-      "yes": 18,
-      "change24h": 4,
-      "vol24h": 34402,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
-      "yes": 26,
-      "change24h": 4,
-      "vol24h": 8594,
+      "vol24h": 8937,
       "headlines": []
     }
   ]
