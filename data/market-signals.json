@@ -1,35 +1,13 @@
 {
-  "updated": "2026-08-11T12:36:31.510Z",
+  "updated": "2026-08-11T18:43:19.821Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $66,000 August 10-16?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-10-16-2026",
-      "yes": 42,
-      "change24h": -29,
-      "vol24h": 12702,
-      "headlines": [
-        {
-          "title": "Bitcoin drops 20% in 3 months while S&P 500 ris...",
-          "source": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDMxdXJSaG9iQzhycEdNbmloWXlPUlc2bGw4LVNlTTAtSk42QW5mdmgzZU1oVzUzMG5JaTQ5c0ZYRm1zdmxaNDZlVzBhTEE3Qm5TcUF5Q0hDaVdrRHQxZ0xwUnZaNlZ5SElvMWJwUi13cllMck44Um1aY0VfcXBYQU0wVHlsWGhB?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,000 August 10-16?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-10-16-2026",
       "yes": 20,
-      "change24h": -20,
-      "vol24h": 13743,
+      "change24h": -15,
+      "vol24h": 12581,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -46,90 +24,112 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on August 13?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-13-2026",
-      "yes": 10,
-      "change24h": -19,
-      "vol24h": 12076,
+      "question": "Will Rafael Jodar Win ATP Montreal",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
+      "yes": 28,
+      "change24h": 9,
+      "vol24h": 10454,
       "headlines": [
         {
-          "title": "Bitcoin drops 20% in 3 months while S&P 500 ris...",
-          "source": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDMxdXJSaG9iQzhycEdNbmloWXlPUlc2bGw4LVNlTTAtSk42QW5mdmgzZU1oVzUzMG5JaTQ5c0ZYRm1zdmxaNDZlVzBhTEE3Qm5TcUF5Q0hDaVdrRHQxZ0xwUnZaNlZ5SElvMWJwUi13cllMck44Um1aY0VfcXBYQU0wVHlsWGhB?oc=5",
-          "cat": "Markets"
+          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
+          "source": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
+          "cat": "Tennis"
         },
+        {
+          "title": "The ATP and WTA Tours slammed for what has happened at the Canadian Open this year, 'They're killing tennis'",
+          "source": "Tennishead",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVkzS1lueW9aVTJxR3kxeXA1azlpVmUyaENuQTVlQTU4R3MyU252R2ZyRnY5bmh1aGFXdktyeVpZcU1rU0NCZHhmb1ktNGYxNDVMX0Z3NDV4MWF5MVVqbXNzVUJTNFdhUHpjbVBjdjVGWVRST2xtVEc3R3lBcjR4YVRNUDdZYnlFNENIbEc1VGJrVXljRVdmOVJ1S3c4NEVvcC1Ld29FUmFHNllsQzZoSndscE1PWS11ZlR0dGE0eDZpazJvR0Q0?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 85,
+      "change24h": 7,
+      "vol24h": 37691,
+      "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
           "source": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 27,
-      "change24h": 6,
-      "vol24h": 20255,
-      "headlines": [
-        {
-          "title": "Mexico soccer federation accused of accepting ‘bribe’ for backing FIFA boss Infantino while betraying its alli",
-          "source": "Diario AS",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUF9zRndUcTF2TDBMQ0lsRXRURjNsUWNSMzlzcHJiMnl2TmlDNWtqdmZod3gxZXc0UGtZTHdJQ09ldjB0eWg2a2FBSmFaV2FiT0w5QW4welREeWhoaW03TEF1VnFRSWRlWG55QVM2dDM1dWJCNFE1VWhKUGMyaHRPMlNSb0pqSWM1QkUwSmJDazJOWHhDVWp2aGVBSG1vUktiaDlTbjRramVIQXRRQW02N0p0cmJCRTB2Y01UX1JsMGlnaW9ybjVwVjB6cnp1NzNaaDZFRXloZFRCZ3ZjX0lj0gHzAUFVX3lxTE5DSFVCT3pPUTZZMFZZVk52NW1aUVNCblNleklJb3dMQl9JeDRrRWZ5TUxsU0x4cS1LTVdBQmh5SmVEZHhHVGZZRXZka1R1NklkcFBiS2ZabThVTW1wdmFzSzBQUUl0Sy1PT2xyVE1CX2JUZVhwc1lSdEdPSENnQm5LZGh3MV95ZGtJaDVqeklyOGgzNEhVQ0NIQjZLRXlzTUhuWEgtNFFXRlZTQURiU0NybHpuWS1ZVlhGTUtvNFBUYVB1WlBJMHBweGNMQmo3Y2prVU5zUnRPZGszbGdQeHpYbmV2aVlvdWE2THZMTXVIMC1Wdw?oc=5",
-          "cat": "World Cup"
         },
         {
-          "title": "Infantino Exit Odds Surge, But Still Expected to Lead FIFA",
-          "source": "heavy.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObnQxODBHZXZXYXNaTlRaRVFRRGFMdEpvQXA4TzZuSUVMQVd6UWtIODdXQzJDc0JtMDdpODJHeFhORno2TS05Ty10Y0ViVjQ0YnZoR3RyV2swY2VnNmk1OTdIMWtGQmFDS3hvY2kzWlJ4YzR4Q2ViVmRfRDlXN01ndS04Xy1NdHFYWlZ2OGZjNTg1elc1?oc=5",
-          "cat": "World Cup"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will Ethereum reach $2,000 August 10-16?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-10-16-2026",
+      "yes": 11,
+      "change24h": -7,
+      "vol24h": 12257,
+      "headlines": [
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 42,
-      "change24h": 6,
-      "vol24h": 19934,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 59,
+      "change24h": 4,
+      "vol24h": 221579,
       "headlines": [
         {
-          "title": "Fed rate hikes likely even with weakening jobs outlook",
-          "source": "washingtonexaminer.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGkyTGpCeGZneXZ1eUFoN0NEYmFQLXVTQm9HMUZsTUpNSnEzMFFabTB6RWIzVnBBbm5Nck92bnEtS1RMdTV0OW16NURUX0ZnamVrQnl2S0pTenUyUzRIS1E1QWNFV1VPeHFCNjhOVXlRdEtobXZpbWNQbEZpQ2lPOG1MVXFDbThpRU5hY2xHRnh6WGlxSUtENlRqM1pIbHV5Mkw0NklJc3hqX3RHa1dTdzFqdElaSmgzek5kcE1CM0NLVUhBU3h2akdpQWhtR3ZBdVlaaw?oc=5",
+          "title": "Is inflation really slowing? Fed rate hike hinges on July price report.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1NXZzEteXpZam4ydXBzSmYtQTdnemMxUzl5TXRLQnJBbmd4RmstbzFkc2V2a2pTdkxOTkUwbGk4ZEE3Y282WGl4a2FSNy1PWFlCeGN3V2ZHTU5MSjVNcnpsbnJxaUNtTkJ0UHpyRGo0R0w4THlzbGsxaVVfUHhEMWFFZTdNVjhxeTg3b3BoT0kyWW1OODk3M2FZVl85UnI3REZmbTd0ZVc0VHdpbWg0czln?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "title": "A Fed Member Voted To Hike Rates In July. She Said More Than One Increase Could Be Needed To Tame Inflation.",
+          "source": "International Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1NnekRGbm0yWXB1Rk8yTjJpNklLVmx6VTdCMG92MHFEaDlodzJjT3JvZHlFLUxjVFV6TDlBYWpJZlRjMDZrRTVJU3AzbjRtQ2hOeklqUFphMFFodUk0UFdOd09HcUZrYTNobTJzYkhRNXVmM0tsWmJCWHZMN2szVWJ2U1Rqa1oweEVRZTRHQkhTdmh1M1dGQS1lVWdyOXRXNWVXV2plb2QyS3NEdzFzdXhRVGxNXy1WazhN?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 60,
-      "change24h": 5,
-      "vol24h": 25973,
+      "question": "Will Diana Shnaider Win the WTA 1000 Toronto?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-diana-shnaider-win-the-wta-1000-toronto-20260803145250210",
+      "yes": 0,
+      "change24h": -4,
+      "vol24h": 12563,
       "headlines": [
         {
-          "title": "Fed rate hikes likely even with weakening jobs outlook",
-          "source": "washingtonexaminer.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGkyTGpCeGZneXZ1eUFoN0NEYmFQLXVTQm9HMUZsTUpNSnEzMFFabTB6RWIzVnBBbm5Nck92bnEtS1RMdTV0OW16NURUX0ZnamVrQnl2S0pTenUyUzRIS1E1QWNFV1VPeHFCNjhOVXlRdEtobXZpbWNQbEZpQ2lPOG1MVXFDbThpRU5hY2xHRnh6WGlxSUtENlRqM1pIbHV5Mkw0NklJc3hqX3RHa1dTdzFqdElaSmgzek5kcE1CM0NLVUhBU3h2akdpQWhtR3ZBdVlaaw?oc=5",
-          "cat": "Macro"
+          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
+          "source": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
-          "cat": "Macro"
+          "title": "The ATP and WTA Tours slammed for what has happened at the Canadian Open this year, 'They're killing tennis'",
+          "source": "Tennishead",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVkzS1lueW9aVTJxR3kxeXA1azlpVmUyaENuQTVlQTU4R3MyU252R2ZyRnY5bmh1aGFXdktyeVpZcU1rU0NCZHhmb1ktNGYxNDVMX0Z3NDV4MWF5MVVqbXNzVUJTNFdhUHpjbVBjdjVGWVRST2xtVEc3R3lBcjR4YVRNUDdZYnlFNENIbEc1VGJrVXljRVdmOVJ1S3c4NEVvcC1Ld29FUmFHNllsQzZoSndscE1PWS11ZlR0dGE0eDZpazJvR0Q0?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -137,87 +137,71 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 39,
-      "change24h": 3,
-      "vol24h": 1058654,
+      "yes": 41,
+      "change24h": -3,
+      "vol24h": 649599,
       "headlines": [
         {
-          "title": "Fed rate hikes likely even with weakening jobs outlook",
-          "source": "washingtonexaminer.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGkyTGpCeGZneXZ1eUFoN0NEYmFQLXVTQm9HMUZsTUpNSnEzMFFabTB6RWIzVnBBbm5Nck92bnEtS1RMdTV0OW16NURUX0ZnamVrQnl2S0pTenUyUzRIS1E1QWNFV1VPeHFCNjhOVXlRdEtobXZpbWNQbEZpQ2lPOG1MVXFDbThpRU5hY2xHRnh6WGlxSUtENlRqM1pIbHV5Mkw0NklJc3hqX3RHa1dTdzFqdElaSmgzek5kcE1CM0NLVUhBU3h2akdpQWhtR3ZBdVlaaw?oc=5",
+          "title": "Is inflation really slowing? Fed rate hike hinges on July price report.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1NXZzEteXpZam4ydXBzSmYtQTdnemMxUzl5TXRLQnJBbmd4RmstbzFkc2V2a2pTdkxOTkUwbGk4ZEE3Y282WGl4a2FSNy1PWFlCeGN3V2ZHTU5MSjVNcnpsbnJxaUNtTkJ0UHpyRGo0R0w4THlzbGsxaVVfUHhEMWFFZTdNVjhxeTg3b3BoT0kyWW1OODk3M2FZVl85UnI3REZmbTd0ZVc0VHdpbWg0czln?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Scours Fresh Inflation Data for Interest-Rate Cues as Mid-Term Elections Loom",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRE1taGpvM1NSck1aQ2xwU3IwSG45N3doc3gxLW9GYlJVS25YNk9vcmRUbTJNOUFwZDhiWXo4VHEwRDJ1S3l0RFVkWnpkdXpYRmxTVThiUXBJV19VVG04a05pY1NSSGhQN3hLUE42dTEwVDN0MzFnMDFaSUpKcHZra1N2VzdjUEdXb0NZc2pmbjB5TF9HaXFDYnNIU2tHUFRlb0dhQUNsRGdhdGpkY01YT2FYMWxEd1l6NWNSZURySU1oNDFEeVhWbmZxTQ?oc=5",
+          "title": "A Fed Member Voted To Hike Rates In July. She Said More Than One Increase Could Be Needed To Tame Inflation.",
+          "source": "International Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1NnekRGbm0yWXB1Rk8yTjJpNklLVmx6VTdCMG92MHFEaDlodzJjT3JvZHlFLUxjVFV6TDlBYWpJZlRjMDZrRTVJU3AzbjRtQ2hOeklqUFphMFFodUk0UFdOd09HcUZrYTNobTJzYkhRNXVmM0tsWmJCWHZMN2szVWJ2U1Rqa1oweEVRZTRHQkhTdmh1M1dGQS1lVWdyOXRXNWVXV2plb2QyS3NEdzFzdXhRVGxNXy1WazhN?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 47954,
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 23,
+      "change24h": -1,
+      "vol24h": 23013,
       "headlines": [
         {
-          "title": "For first time in franchise history, Timberwolves have a Christmas Day home game",
-          "source": "Pioneer Press",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnNtRGVndEU0X1A5OFdVcXBwM29NMU5hVGY5Qk9rU2tjaGRSZUhoeGtfRzlJaExYMmNSYUJSZ2lfMlIwUmpQZ0d0Y0VsWFJhM1NPUU5uTVh3QUxhb3ZnUzN0V2NTTFpNZkZuMjFYYkw1ZU1QU29GY1dsWGl6TTl1UjhDR1RvNDg2R1p5VTdydndFUVpab0haWUdGNkhhcHhRdEJ5OV9JbUNKaVNqOElxLW01Qm11VXBGU3c?oc=5",
-          "cat": "NBA"
+          "title": "President Trump Sends 'Warning' to FIFA After 2026 World Cup",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzhwRUFWRWR2NkNFWldfWGpOZFBTYU9IYXBpZWZCTUJ4Y2czUk1WZHUxTVFJUDdlWlctb3RsanFVNU9nTGtkajQ0b29MdGdwTzZ6bHlDaDZEUTc3NkRtSTNYa05KQU5lbzJPQ3F4d0lkN0phQTBvTEVOMXVTQ2MtNXZ5bUFUUDhqQW1F?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 20658,
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 59,
+      "change24h": 1,
+      "vol24h": 15966,
       "headlines": [
         {
-          "title": "Boston Celtics at Detroit Pistons - NBA Game Summary - Oct 20, 2026",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtMHZHZ2RqSE43eF9XaXRHNFlrQ1k3bWVZLVB4SW9FSWpscU1RdWR4WFpMdWdFYTVBMEdfUWE3eXhZNG5na3MwVzhLTUNxSW92clVWbGxqS1dra3VJb3JpRWNIZ3dqNE9lWEdLbUh6bw?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will New York Knicks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
-      "yes": 10,
-      "change24h": 0,
-      "vol24h": 13319,
-      "headlines": [
-        {
-          "title": "New York Knicks at Boston Celtics - NBA Game Summary - Oct 23, 2026",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RMTE4SmpmQkIyXzRnN2VsbWhoeEhBdzZFYzhYaE12SlZKNUVqRU13YXV3NTBoeFJYWGVSY0lrSzNwMVBNaVloeWZZNFlubTRha3ZrMjdfS2RkbDYtU21TQVB5TXJnYkNueVVjTEtJbw?oc=5",
-          "cat": "NBA"
+          "title": "Is inflation really slowing? Fed rate hike hinges on July price report.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1NXZzEteXpZam4ydXBzSmYtQTdnemMxUzl5TXRLQnJBbmd4RmstbzFkc2V2a2pTdkxOTkUwbGk4ZEE3Y282WGl4a2FSNy1PWFlCeGN3V2ZHTU5MSjVNcnpsbnJxaUNtTkJ0UHpyRGo0R0w4THlzbGsxaVVfUHhEMWFFZTdNVjhxeTg3b3BoT0kyWW1OODk3M2FZVl85UnI3REZmbTd0ZVc0VHdpbWg0czln?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Champion Knicks to face Sixers, LeBron in NBA tripleheader",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdV9kdDdETnYtNGxLLTRMblpUMHVUZnpZMjlvenRPSENvVV9kN3FhMVdwclNjSmx3U1M4UTBxYkdOQjBVU0tDcWttUGZFdWZIa05uQ21NeFd6YnZjbkI4U3UxSE9ZYU5XMDhDaGVOZFk1aEJwZURsM0JxNld4UUJWLUZvLXQ0RTdyR1pYUUN5RmRtdFktRklQclVwdWs?oc=5",
-          "cat": "NBA"
+          "title": "A Fed Member Voted To Hike Rates In July. She Said More Than One Increase Could Be Needed To Tame Inflation.",
+          "source": "International Business Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1NnekRGbm0yWXB1Rk8yTjJpNklLVmx6VTdCMG92MHFEaDlodzJjT3JvZHlFLUxjVFV6TDlBYWpJZlRjMDZrRTVJU3AzbjRtQ2hOeklqUFphMFFodUk0UFdOd09HcUZrYTNobTJzYkhRNXVmM0tsWmJCWHZMN2szVWJ2U1Rqa1oweEVRZTRHQkhTdmh1M1dGQS1lVWdyOXRXNWVXV2plb2QyS3NEdzFzdXhRVGxNXy1WazhN?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will another city host the final of the 2030 FIFA World Cup?",
+      "question": "ICC Cricket World Cup League Two: United Arab Emirates vs Canada",
       "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
-      "yes": 42,
-      "change24h": 7,
-      "vol24h": 8937,
+      "url": "https://polymarket.com/event/crint-are2-can2-2026-08-11",
+      "yes": 100,
+      "change24h": 54,
+      "vol24h": 46415,
       "headlines": []
     }
   ]
