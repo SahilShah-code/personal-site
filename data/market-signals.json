@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-13T12:40:16.910Z",
+  "updated": "2026-08-13T18:45:00.895Z",
   "withNews": [
     {
-      "question": "Will Ben Shelton Win ATP Montreal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-ben-shelton-win-atp-montreal-20260729172910277",
-      "yes": 67,
-      "change24h": 31,
-      "vol24h": 10393,
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 69,
+      "change24h": 10,
+      "vol24h": 11826,
       "headlines": [
         {
-          "title": "Zachary Svajda vs Mattia Bellucci · Round 1 · ATP/WTA Cincinnati",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHlydWpGZnNrLXY5WGdIV2phQkVvNGMyb3U0Y21pcU5rOHhUX0lMY1NNRVk1bFVGQjNjSldPanl3a0FrU3Utd1lTZ09ZZHJ3ekhUUURvNm5PN3c1R3RWbUJzQkJ4X1hNbWU3Szl5N1duc3NhU2t1QVQ2U01ieDNzeG9LZ2drM2ZXeXZSVWJ2c18zbWlNWFF3dTJWNlJ3U00?oc=5",
-          "cat": "Tennis"
+          "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
+          "source": "marketwatch.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3dwVXV0aVQxYlAtdHJoMWd5SjQyNGprM1UtQ1UxVGxROS02aDhoNElCR2JWeXpPWGtjR2NvQ25wZkYzSGhIZU1mdndzMUFsZ3EzQkIwVmx4aEZURE95bk95eWx0RkhQM2FZVVE2bHZrclVaRFkzT1E5Um9xRlRHZ3RNbnFPNGR0LUZFZGZiLU9ELXNSYjl4bmFRNUlGZVZvM3lnSzdvbk9pZ0k?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Tatjana Maria vs Dayana Yastremska · Round 1 · ATP/WTA Cincinnati",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmM4Q3lTc2xpRzFfZ193cU56WHVMbXZrR0xDSmlDN0FKZDI2Q3otdUx5UDNFTjV3SjZvbmlFeWZOZ3k0SWtaamlqeFFrS2prOTFFV3A3RWpEckZlb1Z0UVQtQlNBRndjdU8xNjkwQjdSLXBxZU9SU3FyR2xjY2VUbFd4WGVjSnc1WWZvLU9lV3lUUTdHbzRJUVJiUWtkMjJM?oc=5",
-          "cat": "Tennis"
+          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
+          "source": "CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -27,16 +27,10 @@
       "question": "Will Bitcoin reach $66,000 August 10-16?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-10-16-2026",
-      "yes": 12,
-      "change24h": -21,
-      "vol24h": 47811,
+      "yes": 5,
+      "change24h": -9,
+      "vol24h": 43250,
       "headlines": [
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -46,19 +40,13 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $65,000 in August?",
+      "question": "Will Ethereum reach $2,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026-from-august-10",
-      "yes": 70,
-      "change24h": -14,
-      "vol24h": 42935,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
+      "yes": 47,
+      "change24h": -9,
+      "vol24h": 17850,
       "headlines": [
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -68,40 +56,18 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on August 18?",
+      "question": "Will Ethereum reach $2,000 August 10-16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-18-2026",
-      "yes": 10,
-      "change24h": -13,
-      "vol24h": 25221,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-10-16-2026",
+      "yes": 7,
+      "change24h": -7,
+      "vol24h": 13547,
       "headlines": [
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 27,
-      "change24h": -8,
-      "vol24h": 359676,
-      "headlines": [
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -109,53 +75,43 @@
       "question": "Will the Fed’s upper bound reach 4.25% or higher before 2027?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027",
-      "yes": 18,
-      "change24h": -7,
+      "yes": 19,
+      "change24h": -6,
       "vol24h": 16468,
       "headlines": [
         {
-          "title": "Sticky Inflation, Job Loss Prolong Fed’s Interest-Rate Limbo",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXRrRlR3Z0NGdmM2NkhCWlQxT1FBN2dmMi1XQUhDUjB0YnlvVHNHaVVkNjNBSnFrNXhHaUhpNEd2UVNSSkFFcHllanhfdDUwLUUtb1dTUmwxdXBZc0N6QWptSlQ1c2xvMXVXZ3lxZmdfdTlfWVRVRnBJa2FWc3NnNmpWSjUwdWVOLUZ6M1djVDd1dlFOSVVxRG9tdjhrS2FyQmFTNG1SQVZ6Nl9FRFMtUGE1SDhiUXFmdXR0X3RKOUtmM2piWko5RlhWT3RERkE?oc=5",
+          "title": "Producer prices unchanged, easing Fed’s hike pressure",
+          "source": "The Real Economy Blog",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0tlRGwwT1RvaXZLVG1RM0V2eGFjV19BbTFCaXpHbDRaQ0RvZmdPRFROM1NreldaLURGSUNydWZuZGFsdUpFOXhfRFlaLS0waFdTMWxXS3ZfQ2JZcWY4MzVqUFNLVG5iNDJyUllvZjV6dVZwR2ItUDhXeVBGY3MxdlZheF94X09zQ0E?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed’s Task Force Should Fix What It Targets",
+          "source": "The Daily Economy",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVNMT1lpNHhnb19RUkUtTFhONGFJUnlhTmYzd0RJUmo4R3Zld091ZWEzU2FUMDJkVGtjR21ER2xJcjd3Q0NJVUlfcVYxQmE4Skg1UmxXUmNvQmk5SjBlSkUxcW9CNFpQSWhaZjFvcGotSUdvdWFXZk5sUHE5ejRHTEtBNzItZw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 71,
-      "change24h": 5,
-      "vol24h": 507162,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 28,
+      "change24h": -5,
+      "vol24h": 14344,
       "headlines": [
+        {
+          "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
+          "source": "marketwatch.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3dwVXV0aVQxYlAtdHJoMWd5SjQyNGprM1UtQ1UxVGxROS02aDhoNElCR2JWeXpPWGtjR2NvQ25wZkYzSGhIZU1mdndzMUFsZ3EzQkIwVmx4aEZURE95bk95eWx0RkhQM2FZVVE2bHZrclVaRFkzT1E5Um9xRlRHZ3RNbnFPNGR0LUZFZGZiLU9ELXNSYjl4bmFRNUlGZVZvM3lnSzdvbk9pZ0k?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
           "source": "CPA Practice Advisor",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 19,
-      "change24h": -3,
-      "vol24h": 8511,
-      "headlines": [
-        {
-          "title": "FIFA chief Infantino receives support from 6 Arab federations amid revolt over World Cup plan",
-          "source": "Toronto Star",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQVl9ZR3V1NDJRb29VQVE0XzBKZ0hPdlphRE1uTGQwbllVMDRZNjFaQXlwQWRSRzZubkcyUjRvdE1KM1N1LWtkZGVMV0ZmWjM0N0pzQmVEUUtkSktNNXZCNldxMkFZV0stT1htQ29mMlE3RGJacnllSlRxMGhZS2xZdEhNOWthemduY0RhWnBuR1Q1cVdwYzZzX1hMc01HRzFuN1p6MWRjSVREaFB3bE11d2ZEX09pYlIzRV9WeVZPY3laQ1pxMTJFNFpUYU81d0dlOFZjbjByRXZCcXhtWTlVd01GdEpVNzBuTF9uR2tjUDkwYXk5ZVBCbUpEMDhZZHJnb0llcWVEalduV2w4d0E?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "FIFA chief Infantino receives support from 6 Arab federations amid revolt over World Cup plan",
-          "source": "Bozeman Daily Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNLUZKTUhySlZDOWpOTnA0VWoxRU5zZlpGdlBPeFZVVS1LUkpnUkRQeHR0U3k1NXlJTEhmZnJvbHB2R2VVcnA2Umw3WVJUS1BFS2hMcFJnbXViVDhjcUt5LXBVTWtlM04zYk50VkpiNE1kdHZWV1BoeG1KNHNTajJqQnRzVU5oZmF5OTFnNzFrZlRjd0FhamFqVzM4TmRpTHUwUG54Q2YyS1hWZ2FlUEtKRUxhcHpYVDJYYVpXTWxQVklOYVNZVWk2VEo2LVl6OHpkdmF2cS05aWV0Rzl5MExpS2U0amE2d2otV1A1cldELTVLTW9TRzh0RnIwZjM0ZmN2eEcxeDVTb2o1Z1NNTFNadXMybi0wU3F5Y25QR0xB?oc=5",
-          "cat": "World Cup"
         }
       ]
     },
@@ -165,7 +121,7 @@
       "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 50699,
+      "vol24h": 50245,
       "headlines": [
         {
           "title": "Ohio State launches AI-enabled biotech initiative to speed drug discovery",
@@ -174,7 +130,39 @@
           "cat": "Biotech"
         }
       ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 32457,
+      "headlines": [
+        {
+          "title": "Kansas Basketball: Tyran Stokes Projected to Go No. 1 in 2027 NBA Mock Draft",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWhOODJ1bHk4YlBWSEQ0aFlab0JJR1hLZ2VOTXVLeEc5V2g4SVlEb1JScThhS1BMdkpaRkZLSnR1M3c2dGEwUUJGV1g2T1lxUnpSY3hlNEcwemEwcU4zV29oaGpidVJfZThtb2dfRFVId0w2Y3hXMVR2RS1pX0lhX25mM1lTZ2FiTXJQWTFnOGx6ZWNzbmtrQjg2VnNxZFNLc2NDc0FNVTJ2dFVGdlNqWmdfTVo5N1FuczZR?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Griezmann vs. Evander: Orlando City welcome FC Cincinnati",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjFFdDVsM2I3U19oSEtWNTZzTGJPZFNoLXQ4QmFXbHUzVG5USE9vMU1sR3FHSnNucVRiZ2FmNDVwME83WGo2SEJjYXBheGkzZWZUNnJQSm1na0k2WVR3U0RVV0tDM0FVWjJ6cFAyaUo4Z3BoTWJwZDY5OWtFSjRQTGhyd1ZoUWI2b2c?oc=5",
+          "cat": "World Cup"
+        }
+      ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "ICC Cricket World Cup League Two: Scotland vs Canada",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-sco2-can2-2026-08-13",
+      "yes": 100,
+      "change24h": 32,
+      "vol24h": 25630,
+      "headlines": []
+    }
+  ]
 }
