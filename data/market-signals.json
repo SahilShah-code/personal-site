@@ -1,35 +1,13 @@
 {
-  "updated": "2026-08-12T18:44:21.830Z",
+  "updated": "2026-08-13T00:56:19.791Z",
   "withNews": [
-    {
-      "question": "Will Bitcoin dip to $62,000 August 10-16?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
-      "yes": 36,
-      "change24h": -13,
-      "vol24h": 13913,
-      "headlines": [
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will Rafael Jodar Win ATP Montreal",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-a-win-atp-montreal-20260729172910336",
-      "yes": 39,
-      "change24h": 11,
-      "vol24h": 15757,
+      "yes": 0,
+      "change24h": -42,
+      "vol24h": 10545,
       "headlines": [
         {
           "title": "ATP & WTA Pros Forced to Play Twice in One Day After Cincinnati Open’s Scheduling Blunder",
@@ -46,12 +24,12 @@
       ]
     },
     {
-      "question": "Will the price of Ethereum be above $1,800 on August 14?",
+      "question": "Will Bitcoin reach $66,000 August 10-16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-1800-on-august-14-2026",
-      "yes": 96,
-      "change24h": 9,
-      "vol24h": 14770,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-10-16-2026",
+      "yes": 16,
+      "change24h": -11,
+      "vol24h": 23820,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -61,31 +39,47 @@
         },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
+          "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 67,
-      "change24h": 8,
-      "vol24h": 881869,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 31,
+      "change24h": -10,
+      "vol24h": 45246,
       "headlines": [
         {
-          "title": "US inflation slowdown eases pressure on Fed for rate rise",
-          "source": "The Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUgtVW5QZFVJZHZGeS1tc1BkOVJNTDBpQ2N2UWZqNE8tazJCRzVLZ2cxQUJuVjRmeWtjQXotTk9SeExzWm1sM3l3LW53enlCaGRVOGxLdkdKZC1BV3Y4ZEhMWE4xRVk2RVozWU8xRWFxb2RaV0Y0bFVuSHFxZm9mOWNFUVZIM2NsTmdhQWRjekVDOEpGLVVkUC1INHZfa0NaVDFqNkZHSmozQ0x6M3ZzbVBRZXZQcDhmMlZz?oc=5",
+          "title": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhfYzhqTzJnQmFwQl8wRTNGYVBKR2hoN1hjNEU5T0h6QzROQ2ZNNjhqVmEybnp4YlBJako5X2JkbWl2RnZyblBkaFlwM0o4YUJyOXJWY0EzMTl2S2tYVGU1TmkxWmpwZjZURUdHU0VxV2RnXzZwWERwUEFkZXpPODRzbndPSHA0MnB1T0lCVGREdWF6eEVnQg?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,000 August 10-16?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
+      "yes": 31,
+      "change24h": -9,
+      "vol24h": 13002,
+      "headlines": [
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
         },
         {
-          "title": "Wall Street futures rise ahead of inflation report as the Fed watches surging costs",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CQ0t6am9Xd3l6QUpJNTdqQzdUVkNWSllabzdJZzVTUW8zWlhpN2ZpeXBGYkpGeGxpUjJyN3RERXFQV0Y2SzFFSVFNZnZCZUIySUpiQV95SHBzUlU1X0dwOVZUaEVNa1lpbm96SDVSOUZ0UFc0WjJnd093?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -94,52 +88,40 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 33,
-      "change24h": -8,
-      "vol24h": 600032,
+      "change24h": -7,
+      "vol24h": 585729,
       "headlines": [
         {
-          "title": "US inflation slowdown eases pressure on Fed for rate rise",
-          "source": "The Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUgtVW5QZFVJZHZGeS1tc1BkOVJNTDBpQ2N2UWZqNE8tazJCRzVLZ2cxQUJuVjRmeWtjQXotTk9SeExzWm1sM3l3LW53enlCaGRVOGxLdkdKZC1BV3Y4ZEhMWE4xRVk2RVozWU8xRWFxb2RaV0Y0bFVuSHFxZm9mOWNFUVZIM2NsTmdhQWRjekVDOEpGLVVkUC1INHZfa0NaVDFqNkZHSmozQ0x6M3ZzbVBRZXZQcDhmMlZz?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Wall Street futures rise ahead of inflation report as the Fed watches surging costs",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CQ0t6am9Xd3l6QUpJNTdqQzdUVkNWSllabzdJZzVTUW8zWlhpN2ZpeXBGYkpGeGxpUjJyN3RERXFQV0Y2SzFFSVFNZnZCZUIySUpiQV95SHBzUlU1X0dwOVZUaEVNa1lpbm96SDVSOUZ0UFc0WjJnd093?oc=5",
+          "title": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhfYzhqTzJnQmFwQl8wRTNGYVBKR2hoN1hjNEU5T0h6QzROQ2ZNNjhqVmEybnp4YlBJako5X2JkbWl2RnZyblBkaFlwM0o4YUJyOXJWY0EzMTl2S2tYVGU1TmkxWmpwZjZURUdHU0VxV2RnXzZwWERwUEFkZXpPODRzbndPSHA0MnB1T0lCVGREdWF6eEVnQg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 33,
-      "change24h": -8,
-      "vol24h": 48120,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 67,
+      "change24h": 6,
+      "vol24h": 859127,
       "headlines": [
         {
-          "title": "US inflation slowdown eases pressure on Fed for rate rise",
-          "source": "The Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeUgtVW5QZFVJZHZGeS1tc1BkOVJNTDBpQ2N2UWZqNE8tazJCRzVLZ2cxQUJuVjRmeWtjQXotTk9SeExzWm1sM3l3LW53enlCaGRVOGxLdkdKZC1BV3Y4ZEhMWE4xRVk2RVozWU8xRWFxb2RaV0Y0bFVuSHFxZm9mOWNFUVZIM2NsTmdhQWRjekVDOEpGLVVkUC1INHZfa0NaVDFqNkZHSmozQ0x6M3ZzbVBRZXZQcDhmMlZz?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Wall Street futures rise ahead of inflation report as the Fed watches surging costs",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CQ0t6am9Xd3l6QUpJNTdqQzdUVkNWSllabzdJZzVTUW8zWlhpN2ZpeXBGYkpGeGxpUjJyN3RERXFQV0Y2SzFFSVFNZnZCZUIySUpiQV95SHBzUlU1X0dwOVZUaEVNa1lpbm96SDVSOUZ0UFc0WjJnd093?oc=5",
+          "title": "In-Line Inflation Reading Buys the Fed More Time to Defend Its Forecast",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEhfYzhqTzJnQmFwQl8wRTNGYVBKR2hoN1hjNEU5T0h6QzROQ2ZNNjhqVmEybnp4YlBJako5X2JkbWl2RnZyblBkaFlwM0o4YUJyOXJWY0EzMTl2S2tYVGU1TmkxWmpwZjZURUdHU0VxV2RnXzZwWERwUEFkZXpPODRzbndPSHA0MnB1T0lCVGREdWF6eEVnQg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $62,000 on August 14?",
+      "question": "Will the price of Bitcoin be above $66,000 on August 18?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-62k-on-august-14-2026",
-      "yes": 90,
-      "change24h": 7,
-      "vol24h": 18811,
+      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-18-2026",
+      "yes": 12,
+      "change24h": -5,
+      "vol24h": 25091,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -149,9 +131,47 @@
         },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "rttnews.com",
+          "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 50586,
+      "headlines": [
+        {
+          "title": "Ohio State launches AI-enabled biotech initiative to speed drug discovery",
+          "source": "Ohio Tech News",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcW9MRU5LSGZOOU9Hb1ZndlVhZ0NGOHdnZzlhTW5WRUZ5RTB6N1dyTDdGM0ZRcGFjdWE2UEVMRzJaWEdjRjVHTDFiM2VPNWN4dkh3bVJ4YmNxcFBmV3EyMzNyYnZvaDQ1U2N5QjlhZU83Y21VOW13QVlYY1RZbEp4NmNvMHBuZw?oc=5",
+          "cat": "Biotech"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 7,
+      "change24h": 0,
+      "vol24h": 31344,
+      "headlines": [
+        {
+          "title": "The cavalry returned to training for Manchester City as Enzo Maresca finally has his full squad to work with",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMl9sYlpEdmxrWUdVWXlnbkJ6WlB5bTRaemJaMEFEcTNxLS1MNmRjQktBXzk0TWVELXUtZDMyaXE4RnRsRWpCNVdVQnJxdmFzeEFMNExaNEN2QXB3bzJTeUFIaGxUM3pVUG5GQUVOVzd0aEFaMDVnamFGTnhqYU5HMWFhUmtDYjRMUi1IbWRNbkM4dG9K?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Lucas Herrington’s move to Hull City completes rapid rise as Colorado cashes in",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMW16ZlZ2N2NOVmphVmdYYVNyOGtJMFI5RldXakNSTlJCVmhUR25lRm5HRzFORk1tYWFyWEEzdEE4WmVDVEhwOEJqS0Z2YzBqTjlId2lPUVBoVmdQWEFJU05tT25XX2FHTlQybzh5d1NfbnJ4UXRhdzFKc1dfN3IzdDBzUTg2RUc1YXFvSUk1WmRWbXpVeEhlSkxYX2FPVWc?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -161,8 +181,14 @@
       "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 20736,
+      "vol24h": 20708,
       "headlines": [
+        {
+          "title": "Everything that goes into getting Soldier Field ready for a Chicago Bears game | 1920 Football Drive",
+          "source": "Chicago Bears Official Website",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOR0I0VEk2SnFublRTVmRQa0JGbEttM3pxMlpGZC1lZ3dQU1VVTUNwQ3FkNm0yQzNTMlIyTm1meE1BemFRUWRTT0VaUnJ4R0ZCb2VMdkRUTUtKdzQ5cDd0NHlQNG95UEt4anFla2lDTmFOZ2dEY2ZZbmowX2tVTEpOcUpNbUJvc0V0Y1FYQzBSZHBoUDJXT0xEYzVpcWRCOTh0aDFjYndUcERjRkJkMV9YTjIyN1ctVmc1ZlB2QVotNzhETGhYNXBFYkNmamNBZw?oc=5",
+          "cat": "NFL"
+        },
         {
           "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays",
           "source": "Stocktwits",
@@ -172,15 +198,5 @@
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Todi: Daniel Galan vs Federico Agustin Gomez",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-galan-gomez-2026-08-12",
-      "yes": 39,
-      "change24h": -4,
-      "vol24h": 50931,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
