@@ -1,20 +1,14 @@
 {
-  "updated": "2026-08-14T07:04:08.565Z",
+  "updated": "2026-08-14T12:36:20.635Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $62,000 August 10-16?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
-      "yes": 41,
-      "change24h": 18,
-      "vol24h": 26556,
+      "yes": 42,
+      "change24h": 12,
+      "vol24h": 30199,
       "headlines": [
-        {
-          "title": "S&P 500 Hits Record High in August 2026: What Investors Need to Know",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qQ2tDQmZNR2Vnek9MZXE5LWFldHBjdDdWeTYwSnVYUlYwWjM3WVlKcmJ1LWtRcGxvSE9ZR0xjaHk1Ykx4cXFnNy14ZVYxUEZRZFRTaEZSREUzNS1lZS13ZEhYdGU4NHJL?oc=5",
-          "cat": "Markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -27,16 +21,10 @@
       "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 90,
-      "change24h": 17,
-      "vol24h": 29373,
+      "yes": 92,
+      "change24h": 11,
+      "vol24h": 64064,
       "headlines": [
-        {
-          "title": "S&P 500 Hits Record High in August 2026: What Investors Need to Know",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qQ2tDQmZNR2Vnek9MZXE5LWFldHBjdDdWeTYwSnVYUlYwWjM3WVlKcmJ1LWtRcGxvSE9ZR0xjaHk1Ykx4cXFnNy14ZVYxUEZRZFRTaEZSREUzNS1lZS13ZEhYdGU4NHJL?oc=5",
-          "cat": "Markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -46,19 +34,13 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $66,000 August 10-16?",
+      "question": "Will Bitcoin reach $65,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-10-16-2026",
-      "yes": 1,
-      "change24h": -16,
-      "vol24h": 44154,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026-from-august-10",
+      "yes": 59,
+      "change24h": -11,
+      "vol24h": 54848,
       "headlines": [
-        {
-          "title": "S&P 500 Hits Record High in August 2026: What Investors Need to Know",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qQ2tDQmZNR2Vnek9MZXE5LWFldHBjdDdWeTYwSnVYUlYwWjM3WVlKcmJ1LWtRcGxvSE9ZR0xjaHk1Ykx4cXFnNy14ZVYxUEZRZFRTaEZSREUzNS1lZS13ZEhYdGU4NHJL?oc=5",
-          "cat": "Markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -73,7 +55,29 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 69,
       "change24h": 10,
-      "vol24h": 11699,
+      "vol24h": 11590,
+      "headlines": [
+        {
+          "title": "Los Angeles Lakers vs New Orleans Pelicans Box Score - December 31, 2026 - The Athletic",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHRFX3VIcU1HaW5wWUNzMXFZN3BQOXZSSEN4TTk3QTNYeE5sVGEteG02LXhsWFMxRzJ4cGJjLW9FUkRCQVB3bmxzMGQ5ejlJWTBZYVc5aFJWcjJyeXBlcktvSjZzcGF0RlVOSmhaRmsxZS1ZRVlDNnBhSmM0ZjkwdE41aktOdEZrTzJvWFlDYm1DRkRzTDVnd09ZWG1CMW9xQXYzaA?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3dwVXV0aVQxYlAtdHJoMWd5SjQyNGprM1UtQ1UxVGxROS02aDhoNElCR2JWeXpPWGtjR2NvQ25wZkYzSGhIZU1mdndzMUFsZ3EzQkIwVmx4aEZURE95bk95eWx0RkhQM2FZVVE2bHZrclVaRFkzT1E5Um9xRlRHZ3RNbnFPNGR0LUZFZGZiLU9ELXNSYjl4bmFRNUlGZVZvM3lnSzdvbk9pZ0k?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
+      "yes": 39,
+      "change24h": -8,
+      "vol24h": 14960,
       "headlines": [
         {
           "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
@@ -83,9 +87,25 @@
         },
         {
           "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
+          "source": "cpapracticeadvisor.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "T20 World Cup Sub Regional Europe Qualifier C: Portugal vs Israel",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-prt-isr-2026-08-14",
+      "yes": 100,
+      "change24h": 5,
+      "vol24h": 19729,
+      "headlines": [
+        {
+          "title": "VIX at 14.6 Prices Sub-1% S&P 500 Moves Before Friday’s Open",
+          "source": "TechStock²",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWF4TTVGd1EtTzlCTHprVTV5WUpwTjBuaEdxMVdSVTJEeGFLVnNENS1vWGNLU3VEWEVUWEJrVF9vdW92Rlo1Wlp5R24ydl82NGtOcVllWmVZMVFkem9kamtKaXhodVNveEdaZ1NtMDFWeWlXX2VNb3dGN3lHLWpicVdsSVE?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -94,8 +114,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
       "yes": 40,
-      "change24h": -6,
-      "vol24h": 16901,
+      "change24h": -5,
+      "vol24h": 13172,
       "headlines": [
         {
           "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
@@ -105,34 +125,38 @@
         },
         {
           "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
+          "source": "cpapracticeadvisor.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 72,
-      "change24h": 5,
-      "vol24h": 509231,
+      "question": "Will Detroit Pistons win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 64945,
       "headlines": [
         {
-          "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3dwVXV0aVQxYlAtdHJoMWd5SjQyNGprM1UtQ1UxVGxROS02aDhoNElCR2JWeXpPWGtjR2NvQ25wZkYzSGhIZU1mdndzMUFsZ3EzQkIwVmx4aEZURE95bk95eWx0RkhQM2FZVVE2bHZrclVaRFkzT1E5Um9xRlRHZ3RNbnFPNGR0LUZFZGZiLU9ELXNSYjl4bmFRNUlGZVZvM3lnSzdvbk9pZ0k?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
+          "title": "Detroit Pistons vs Los Angeles Lakers Box Score - January 08, 2027 - The Athletic",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeV8yQnQ2dUY2YTBVcjlHcDA1V0Q1MXd6UnZ0TVRUUjMxZ2VFa0tPc215VDcwWlNQRERnZjYwVklKWE1SQm1WNkJaOWJVbldXZmJsZDlCQkQ2Y3dta2JJM2xxdE9oc2FaVDJFT3BPVGhTdGQxRzN0Mjl4WnlCVGtWaGdJc3Q3X0tIWU1ETm5VTVhDZUxfQU1pX29TanhaZw?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Todi: Maxim Mrva vs Federico Agustin Gomez",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/atp-mrva-gomez-2026-08-14",
+      "yes": 44,
+      "change24h": 4,
+      "vol24h": 18838,
+      "headlines": []
+    }
+  ]
 }
