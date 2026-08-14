@@ -1,13 +1,51 @@
 {
-  "updated": "2026-08-13T18:45:00.895Z",
+  "updated": "2026-08-14T00:55:38.948Z",
   "withNews": [
+    {
+      "question": "Will Michael Thorbjornsen lead the 2026 FedEx St. Jude Championship following the first round?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/2026-fedex-st-jude-championship-first-round-leader-michael-thorbjornsen",
+      "yes": 98,
+      "change24h": 83,
+      "vol24h": 48896,
+      "headlines": [
+        {
+          "title": "Arizona Cardinals wide receiver Michael Wilson sends his defender stumbling on his 18-yard reception",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEstTFgzS1pTa1lxMzVtc0YtS1lEWTd3TTRMZEhBeXdKN3h2NzNPeEc1MjU3cHRkOEJsSVlCM3I2V2JoQVRZR2VaWUdQNzlrS1JjcU9yQnRpX3AtYWFpbVZsNno2QVlrTUFvZ3gtRXNqeHI1ZkZUQkp3WHdLek90YzhRVTFMTHc1aFJUU0JkTzdXRGc2OVR0cG1Odw?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Ben Shelton Win ATP Montreal",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-ben-shelton-win-atp-montreal-20260729172910277",
+      "yes": 87,
+      "change24h": 38,
+      "vol24h": 14367,
+      "headlines": [
+        {
+          "title": "Xiyu Wang vs Polina Kudermetova · Qualifying Round 2 · ATP/WTA Cincinnati",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFh2VlJOV1RwNTJ1MThOd1B6WHR0bnQ5d200blk1TXpEbTlsc3h3NzhpcW9qQ2ZsQ3lhUzNoMWZiQkRnSVFNZnBaUUVxVWh1OVpDSnpwMEY1R2NmMk1GVGwzV0doZFdEdWpocWtKSW9MLXJoVzZvRE5hc1p6RzRFMWZoWURXQ1NVTlJNOGVXcG5jWWNKZlJ1NDJkRnp6a1JJ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Emiliana Arango vs Nadia Podoroska · Qualifying Round 2 · ATP/WTA Cincinnati",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa21rdk96dlp3VWFiWTJXczhsNFN3ODUtQ1YxbHRjT3A0OFlkWmF1RTNVbnlXdVFoZzZQX3hZZVRhWDVMeW9QOU1NYlFDZ0F5VHRFM1N5ZVk4Q2pJVG92cGY5aGhLZ2ZoWjl2VUtnSHFDSVhMMFNFcDVYTXM5NVViWnE3eUlxMm5TbUFQWUZpZEQwalpTUWl1dDhUdVI5YWgy?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
     {
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 69,
       "change24h": 10,
-      "vol24h": 11826,
+      "vol24h": 11699,
       "headlines": [
         {
           "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
@@ -17,7 +55,7 @@
         },
         {
           "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
+          "source": "cpapracticeadvisor.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
           "cat": "Macro"
         }
@@ -27,9 +65,9 @@
       "question": "Will Bitcoin reach $66,000 August 10-16?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-10-16-2026",
-      "yes": 5,
+      "yes": 6,
       "change24h": -9,
-      "vol24h": 43250,
+      "vol24h": 38165,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -40,12 +78,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 in August?",
+      "question": "Will Bitcoin dip to $62,000 August 10-16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 47,
-      "change24h": -9,
-      "vol24h": 17850,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
+      "yes": 23,
+      "change24h": -8,
+      "vol24h": 24563,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -56,50 +94,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 August 10-16?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-august-10-16-2026",
-      "yes": 7,
-      "change24h": -7,
-      "vol24h": 13547,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed’s upper bound reach 4.25% or higher before 2027?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027",
-      "yes": 19,
-      "change24h": -6,
-      "vol24h": 16468,
-      "headlines": [
-        {
-          "title": "Producer prices unchanged, easing Fed’s hike pressure",
-          "source": "The Real Economy Blog",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0tlRGwwT1RvaXZLVG1RM0V2eGFjV19BbTFCaXpHbDRaQ0RvZmdPRFROM1NreldaLURGSUNydWZuZGFsdUpFOXhfRFlaLS0waFdTMWxXS3ZfQ2JZcWY4MzVqUFNLVG5iNDJyUllvZjV6dVZwR2ItUDhXeVBGY3MxdlZheF94X09zQ0E?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed’s Task Force Should Fix What It Targets",
-          "source": "The Daily Economy",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVNMT1lpNHhnb19RUkUtTFhONGFJUnlhTmYzd0RJUmo4R3Zld091ZWEzU2FUMDJkVGtjR21ER2xJcjd3Q0NJVUlfcVYxQmE4Skg1UmxXUmNvQmk5SjBlSkUxcW9CNFpQSWhaZjFvcGotSUdvdWFXZk5sUHE5ejRHTEtBNzItZw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 28,
       "change24h": -5,
-      "vol24h": 14344,
+      "vol24h": 345773,
       "headlines": [
         {
           "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
@@ -109,59 +109,37 @@
         },
         {
           "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
+          "source": "cpapracticeadvisor.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 50245,
+      "question": "Will Bitcoin dip to $57,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-august-2026",
+      "yes": 14,
+      "change24h": -3,
+      "vol24h": 33329,
       "headlines": [
         {
-          "title": "Ohio State launches AI-enabled biotech initiative to speed drug discovery",
-          "source": "Ohio Tech News",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcW9MRU5LSGZOOU9Hb1ZndlVhZ0NGOHdnZzlhTW5WRUZ5RTB6N1dyTDdGM0ZRcGFjdWE2UEVMRzJaWEdjRjVHTDFiM2VPNWN4dkh3bVJ4YmNxcFBmV3EyMzNyYnZvaDQ1U2N5QjlhZU83Y21VOW13QVlYY1RZbEp4NmNvMHBuZw?oc=5",
-          "cat": "Biotech"
-        }
-      ]
-    },
-    {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 6,
-      "change24h": 0,
-      "vol24h": 32457,
-      "headlines": [
-        {
-          "title": "Kansas Basketball: Tyran Stokes Projected to Go No. 1 in 2027 NBA Mock Draft",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWhOODJ1bHk4YlBWSEQ0aFlab0JJR1hLZ2VOTXVLeEc5V2g4SVlEb1JScThhS1BMdkpaRkZLSnR1M3c2dGEwUUJGV1g2T1lxUnpSY3hlNEcwemEwcU4zV29oaGpidVJfZThtb2dfRFVId0w2Y3hXMVR2RS1pX0lhX25mM1lTZ2FiTXJQWTFnOGx6ZWNzbmtrQjg2VnNxZFNLc2NDc0FNVTJ2dFVGdlNqWmdfTVo5N1FuczZR?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Griezmann vs. Evander: Orlando City welcome FC Cincinnati",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjFFdDVsM2I3U19oSEtWNTZzTGJPZFNoLXQ4QmFXbHUzVG5USE9vMU1sR3FHSnNucVRiZ2FmNDVwME83WGo2SEJjYXBheGkzZWZUNnJQSm1na0k2WVR3U0RVV0tDM0FVWjJ6cFAyaUo4Z3BoTWJwZDY5OWtFSjRQTGhyd1ZoUWI2b2c?oc=5",
-          "cat": "World Cup"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "ICC Cricket World Cup League Two: Scotland vs Canada",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-sco2-can2-2026-08-13",
-      "yes": 100,
-      "change24h": 32,
-      "vol24h": 25630,
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 55,
+      "change24h": -4,
+      "vol24h": 32676,
       "headlines": []
     }
   ]
