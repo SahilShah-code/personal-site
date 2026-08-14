@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-14T12:36:20.635Z",
+  "updated": "2026-08-14T18:37:56.491Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $62,000 August 10-16?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
-      "yes": 42,
-      "change24h": 12,
-      "vol24h": 30199,
+      "yes": 27,
+      "change24h": -13,
+      "vol24h": 33308,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -18,145 +18,135 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in August?",
+      "question": "Will Ethereum dip to $1,800 August 10-16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 92,
-      "change24h": 11,
-      "vol24h": 64064,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $65,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026-from-august-10",
-      "yes": 59,
-      "change24h": -11,
-      "vol24h": 54848,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 69,
-      "change24h": 10,
-      "vol24h": 11590,
-      "headlines": [
-        {
-          "title": "Los Angeles Lakers vs New Orleans Pelicans Box Score - December 31, 2026 - The Athletic",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHRFX3VIcU1HaW5wWUNzMXFZN3BQOXZSSEN4TTk3QTNYeE5sVGEteG02LXhsWFMxRzJ4cGJjLW9FUkRCQVB3bmxzMGQ5ejlJWTBZYVc5aFJWcjJyeXBlcktvSjZzcGF0RlVOSmhaRmsxZS1ZRVlDNnBhSmM0ZjkwdE41aktOdEZrTzJvWFlDYm1DRkRzTDVnd09ZWG1CMW9xQXYzaA?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3dwVXV0aVQxYlAtdHJoMWd5SjQyNGprM1UtQ1UxVGxROS02aDhoNElCR2JWeXpPWGtjR2NvQ25wZkYzSGhIZU1mdndzMUFsZ3EzQkIwVmx4aEZURE95bk95eWx0RkhQM2FZVVE2bHZrclVaRFkzT1E5Um9xRlRHZ3RNbnFPNGR0LUZFZGZiLU9ELXNSYjl4bmFRNUlGZVZvM3lnSzdvbk9pZ0k?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decide differently in the next three decisions (Jul–Sep–Oct)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-julsepoct-20260617191211945",
-      "yes": 39,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-10-16-2026",
+      "yes": 9,
       "change24h": -8,
-      "vol24h": 14960,
+      "vol24h": 13725,
       "headlines": [
         {
-          "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3dwVXV0aVQxYlAtdHJoMWd5SjQyNGprM1UtQ1UxVGxROS02aDhoNElCR2JWeXpPWGtjR2NvQ25wZkYzSGhIZU1mdndzMUFsZ3EzQkIwVmx4aEZURE95bk95eWx0RkhQM2FZVVE2bHZrclVaRFkzT1E5Um9xRlRHZ3RNbnFPNGR0LUZFZGZiLU9ELXNSYjl4bmFRNUlGZVZvM3lnSzdvbk9pZ0k?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "cpapracticeadvisor.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "T20 World Cup Sub Regional Europe Qualifier C: Portugal vs Israel",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-prt-isr-2026-08-14",
-      "yes": 100,
-      "change24h": 5,
-      "vol24h": 19729,
+      "question": "Will Ethereum reach $2,100 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-august-2026",
+      "yes": 18,
+      "change24h": -6,
+      "vol24h": 22397,
       "headlines": [
         {
-          "title": "VIX at 14.6 Prices Sub-1% S&P 500 Moves Before Friday’s Open",
-          "source": "TechStock²",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaWF4TTVGd1EtTzlCTHprVTV5WUpwTjBuaEdxMVdSVTJEeGFLVnNENS1vWGNLU3VEWEVUWEJrVF9vdW92Rlo1Wlp5R24ydl82NGtOcVllWmVZMVFkem9kamtKaXhodVNveEdaZ1NtMDFWeWlXX2VNb3dGN3lHLWpicVdsSVE?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by October 2026 Meeting?",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 40,
-      "change24h": -5,
-      "vol24h": 13172,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 75,
+      "change24h": 4,
+      "vol24h": 297753,
       "headlines": [
         {
-          "title": "Wholesale prices flatten out in July and inflation eases. A Fed rate hike is in doubt.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3dwVXV0aVQxYlAtdHJoMWd5SjQyNGprM1UtQ1UxVGxROS02aDhoNElCR2JWeXpPWGtjR2NvQ25wZkYzSGhIZU1mdndzMUFsZ3EzQkIwVmx4aEZURE95bk95eWx0RkhQM2FZVVE2bHZrclVaRFkzT1E5Um9xRlRHZ3RNbnFPNGR0LUZFZGZiLU9ELXNSYjl4bmFRNUlGZVZvM3lnSzdvbk9pZ0k?oc=5",
+          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
           "cat": "Macro"
         },
         {
           "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "cpapracticeadvisor.com",
+          "source": "CPA Practice Advisor",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Detroit Pistons win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 64945,
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 25,
+      "change24h": -4,
+      "vol24h": 262474,
       "headlines": [
         {
-          "title": "Detroit Pistons vs Los Angeles Lakers Box Score - January 08, 2027 - The Athletic",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeV8yQnQ2dUY2YTBVcjlHcDA1V0Q1MXd6UnZ0TVRUUjMxZ2VFa0tPc215VDcwWlNQRERnZjYwVklKWE1SQm1WNkJaOWJVbldXZmJsZDlCQkQ2Y3dta2JJM2xxdE9oc2FaVDJFT3BPVGhTdGQxRzN0Mjl4WnlCVGtWaGdJc3Q3X0tIWU1ETm5VTVhDZUxfQU1pX29TanhaZw?oc=5",
+          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
+          "source": "CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 50,
+      "change24h": -4,
+      "vol24h": 68330,
+      "headlines": [
+        {
+          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
+          "source": "CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Atlanta Hawks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-atlanta-hawks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 105308,
+      "headlines": [
+        {
+          "title": "Report: Atlanta United nearing $18M transfer for Breel Embolo",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2VsdFF3OS1FVlNaSElBbmNxSEZ5ekplZVFWajYwTnFkdi1uYU91TzZhV0t6MUh5dUMxTzBHeDFaY3NHTzFzeXM3cXI3aUJ2YlhLelhwWW9aZDRBMU9YQzBCMXNITkJBY3FIWUdIcTF3ZGtjcWxVMW5GVmNoSl9IeXNSVXpuMkR0cGg0MFBIMFBlY21FYU5ST2NHa1k0OVAwVDVlb2NJcjhKTHlWZlF3?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Houston Rockets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 26288,
+      "headlines": [
+        {
+          "title": "Mike D’Antoni, who coached the Houston Rockets to new heights, to join Naismith Hall of Fame",
+          "source": "Texas Standard",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0FyZWNlVl9mWEZqVU1QUHFVand3cXdWdlZjTC0ycTNFOVhXdUdsNll4Wi1heUd5N0d1UWMyc3BMaDRCS0pwanhQOXhWVTItREVKd2tabWo1a3NHZDB5dVZXVG9lRXRpSGVIejBuSDNvN1I2SXI4N21oYUVXdVhSdmlCQmVUZld2UUsyWmw4V1c1Tm5zWnpxZnk5MHRqSjkwVHc?oc=5",
           "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Todi: Maxim Mrva vs Federico Agustin Gomez",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-mrva-gomez-2026-08-14",
-      "yes": 44,
-      "change24h": 4,
-      "vol24h": 18838,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
