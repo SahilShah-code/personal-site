@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-15T00:32:20.860Z",
+  "updated": "2026-08-15T06:17:33.144Z",
   "withNews": [
     {
-      "question": "Will the price of Bitcoin be above $64,000 on August 16?",
+      "question": "Will Bitcoin dip to $62,000 August 10-16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-16-2026",
-      "yes": 6,
-      "change24h": -29,
-      "vol24h": 9342,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
+      "yes": 14,
+      "change24h": -11,
+      "vol24h": 37752,
       "headlines": [
         {
-          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZEZtT3VTclFjaDNiS2dJblFuWGdvN2lqTWkzM0YyQ3AzUFNKVGVGVUhDa25wWVpYUVJPMnhvT0YtY3dXa2JfTkxhSmZjU0ZEa19zTzUwb1NONnE2UzFQRDRUUENiNEFFczA0d1JDQ0F5MzY0?oc=5",
+          "title": "Weekly US Market Review, August 10-14, 2026: S&P 500 Notches Third Weekly Gain as Cooling Inflation and Tech Rally Offset Oil Jitters",
+          "source": "HDFC Sky",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdVZMVkxVOUs5c0dLbHc0ZmRDVm9Pa193WFVpQXI5allXUVhRNHdrQU9ETUlWVTkxd3VJdy1EQTJjLTVYenUxVGtCdkh3TzBRM2ttbTBoUWlnNkIxZmVBc25XM29IbjJ1cHhpVGx2M1h1b0RIN29aV3AwX0JlWlg0Qi1uVGVTaTJ6VUp6WDFqaGhVRnZoaXB2T0lZNEMwNjd4Ti10VTQ3RHlQb193UHJsR1lwWWNKVkFycXJuUk1wOVFyMTZKT1E2dUhNM2w5ZUxJdm5Qb21uUDZnbXg1THVwSE8zQ2VZd0ZQWGc?oc=5",
           "cat": "Markets"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "S&P 500 Hits Record High August 2026: Inflation & AI Earnings Drive Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN0FvSXk1RzN2TDBzbVlMRkNLRzM1RmVlN001S1FOWWRSQ2R2MUNpZXBSRWdUSWhBRFotQnNtQjh4amtFZEpxd29rTTRmamN6V3RkMEdEaUg5VDk4RDFfUkZ5SktUczlpV3dyUWo5WHZfalQxajY4cjI3TjRtdHFfMk54d0k2QQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -27,21 +27,43 @@
       "question": "Will Bitcoin reach $65,000 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026-from-august-10",
-      "yes": 61,
-      "change24h": -11,
-      "vol24h": 30606,
+      "yes": 62,
+      "change24h": -8,
+      "vol24h": 31106,
       "headlines": [
         {
-          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZEZtT3VTclFjaDNiS2dJblFuWGdvN2lqTWkzM0YyQ3AzUFNKVGVGVUhDa25wWVpYUVJPMnhvT0YtY3dXa2JfTkxhSmZjU0ZEa19zTzUwb1NONnE2UzFQRDRUUENiNEFFczA0d1JDQ0F5MzY0?oc=5",
+          "title": "Weekly US Market Review, August 10-14, 2026: S&P 500 Notches Third Weekly Gain as Cooling Inflation and Tech Rally Offset Oil Jitters",
+          "source": "HDFC Sky",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdVZMVkxVOUs5c0dLbHc0ZmRDVm9Pa193WFVpQXI5allXUVhRNHdrQU9ETUlWVTkxd3VJdy1EQTJjLTVYenUxVGtCdkh3TzBRM2ttbTBoUWlnNkIxZmVBc25XM29IbjJ1cHhpVGx2M1h1b0RIN29aV3AwX0JlWlg0Qi1uVGVTaTJ6VUp6WDFqaGhVRnZoaXB2T0lZNEMwNjd4Ti10VTQ3RHlQb193UHJsR1lwWWNKVkFycXJuUk1wOVFyMTZKT1E2dUhNM2w5ZUxJdm5Qb21uUDZnbXg1THVwSE8zQ2VZd0ZQWGc?oc=5",
           "cat": "Markets"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "S&P 500 Hits Record High August 2026: Inflation & AI Earnings Drive Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN0FvSXk1RzN2TDBzbVlMRkNLRzM1RmVlN001S1FOWWRSQ2R2MUNpZXBSRWdUSWhBRFotQnNtQjh4amtFZEpxd29rTTRmamN6V3RkMEdEaUg5VDk4RDFfUkZ5SktUczlpV3dyUWo5WHZfalQxajY4cjI3TjRtdHFfMk54d0k2QQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 45,
+      "change24h": -7,
+      "vol24h": 88404,
+      "headlines": [
+        {
+          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
+          "source": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
+          "source": "CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -50,42 +72,20 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
       "yes": 24,
-      "change24h": -9,
-      "vol24h": 56599,
+      "change24h": -7,
+      "vol24h": 56570,
       "headlines": [
         {
-          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZEZtT3VTclFjaDNiS2dJblFuWGdvN2lqTWkzM0YyQ3AzUFNKVGVGVUhDa25wWVpYUVJPMnhvT0YtY3dXa2JfTkxhSmZjU0ZEa19zTzUwb1NONnE2UzFQRDRUUENiNEFFczA0d1JDQ0F5MzY0?oc=5",
+          "title": "Weekly US Market Review, August 10-14, 2026: S&P 500 Notches Third Weekly Gain as Cooling Inflation and Tech Rally Offset Oil Jitters",
+          "source": "HDFC Sky",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdVZMVkxVOUs5c0dLbHc0ZmRDVm9Pa193WFVpQXI5allXUVhRNHdrQU9ETUlWVTkxd3VJdy1EQTJjLTVYenUxVGtCdkh3TzBRM2ttbTBoUWlnNkIxZmVBc25XM29IbjJ1cHhpVGx2M1h1b0RIN29aV3AwX0JlWlg0Qi1uVGVTaTJ6VUp6WDFqaGhVRnZoaXB2T0lZNEMwNjd4Ti10VTQ3RHlQb193UHJsR1lwWWNKVkFycXJuUk1wOVFyMTZKT1E2dUhNM2w5ZUxJdm5Qb21uUDZnbXg1THVwSE8zQ2VZd0ZQWGc?oc=5",
           "cat": "Markets"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 48,
-      "change24h": -5,
-      "vol24h": 84369,
-      "headlines": [
-        {
-          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
+          "title": "S&P 500 Hits Record High August 2026: Inflation & AI Earnings Drive Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN0FvSXk1RzN2TDBzbVlMRkNLRzM1RmVlN001S1FOWWRSQ2R2MUNpZXBSRWdUSWhBRFotQnNtQjh4amtFZEpxd29rTTRmamN6V3RkMEdEaUg5VDk4RDFfUkZ5SktUczlpV3dyUWo5WHZfalQxajY4cjI3TjRtdHFfMk54d0k2QQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -95,12 +95,12 @@
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 23,
       "change24h": -5,
-      "vol24h": 13351,
+      "vol24h": 8949,
       "headlines": [
         {
           "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
+          "source": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -112,17 +112,17 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 75,
-      "change24h": 4,
-      "vol24h": 283503,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 25,
+      "change24h": -3,
+      "vol24h": 256349,
       "headlines": [
         {
           "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
+          "source": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -134,50 +134,34 @@
       ]
     },
     {
-      "question": "Will Atlanta Hawks win the 2027 NBA Finals?",
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-atlanta-hawks-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 105308,
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 11,
+      "change24h": 1,
+      "vol24h": 24358,
       "headlines": [
         {
-          "title": "Atlanta Falcons wide receiver Dylan Drummond dives for 14-yard catch from quarterback Cooper Rush",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVFxSkxQWWZId3FwV3ZFdkZaU1E5Ti0wdzNzOXNHeUZHOWo3X21sNEZvZlRULTBQMlptSlZIU3psNlo2UVFoYVRIUE9hRU1JcmpvcFBoZ3ppOThkcnJ5QXQwQlloV3VhN2pqS1dkeTZ2SmU2ZUd3NVNfeU84NG9UU3VzbHNFdTBpTnc?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Detroit Pistons win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 64100,
-      "headlines": [
-        {
-          "title": "Former Pistons guard traded to 12th NBA team, nears league record",
-          "source": "sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFJiZzFvN3o0cWUxblA1a3FhOHB1U0dYYWozRUFsUjd4Z3RXLWFXMV9iLXh0V1RhU0FUWDdKcW5OMnZBOEkzd3FabDF3ZEJfTW1faVVDeGptNXljZndsWWU0ZDJULXVqcXRIbzN0S3ZqTnhDcFM3bU1xRlFkeEJQSXRxNlhQSVYw?oc=5",
+          "title": "Amar'e Stoudemire reminisces of his Knicks days during Hall of Fame Awards Gala",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PY2QtUWpCLTBRU3pDQms5SkZ2LXo4WXJPcjlEMElBel9xTGpoTk9VOWFrblFWWHh4aFB3VHlCSF9xNnJXSkU0WklsNmFTU01XQjZidlYteTFfTUk1SVV0M21uc1g?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
-      "yes": 4,
+      "question": "Will Houston Rockets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 12220,
+      "vol24h": 26288,
       "headlines": [
         {
-          "title": "Bills, Bears, 49ers Have Checked In On Bucs DT Vita Vea",
-          "source": "NFL Rumors - ProFootballRumors.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3ZmZ1FvUmZlU0cyS2djZ0h4aTMwSVhzZDU5WUNvRTBucDZoUmU0aEpReHl1cTRZbkFjOTZpM21DdjQ3MjJFdURqQ0RzV2ZDMkRyOVlQd3ZwYzkxNjc5Q1JhNEMybXdqV0FaU1RmaU84SlpVaE5rZ2xXV0JnVEZYeHoycFo3QnVaRjJkb05CUjBqcmZ5YTZYMlRaUHpVX3A0eHVVQktRRklvQ0tReW9vQw?oc=5",
-          "cat": "NFL"
+          "title": "Houston on list of potential host cities for 2031 FIFA Women’s World Cup | Heights - River Oaks - Montrose",
+          "source": "communityimpact.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZU95VHl5elh2VzRZd01Zb0ZJOXFNQWpfSDVKOUZGS25rYjB5SGVLUHRrM2p5cDAtODI0bnZ3ODNiak9FenZkekJXY05tU1RNV0J6dFozQmtoTHB0R1NQSm1oc3N4WU5QZFByUDNkTUtlNkRMSHJ4NE0zZlF1T1ZoaEl6eG5LZFlsTUlVY1dGRGFiLUpkQXd3X0dIa2lXOUhlVXduVkY3bGVfem04UTA3TzIzM0t3MHpFZWkxNGNnd0VNZDV5U1NuMXpIeVFWMG4tSTlQeWN3?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
@@ -187,18 +171,9 @@
       "question": "Will Japan Q2 GDP growth (annualized) be between 0.0% and 0.8%?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-japan-q2-gdp-growth-annualized-be-between-0pt0-and-0pt8",
-      "yes": 10,
-      "change24h": -53,
-      "vol24h": 11659,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "yes": 91,
-      "change24h": 5,
-      "vol24h": 12763,
+      "yes": 9,
+      "change24h": -64,
+      "vol24h": 12052,
       "headlines": []
     }
   ]
