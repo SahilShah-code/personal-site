@@ -1,14 +1,20 @@
 {
-  "updated": "2026-08-14T18:37:56.491Z",
+  "updated": "2026-08-15T00:32:20.860Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $62,000 August 10-16?",
+      "question": "Will the price of Bitcoin be above $64,000 on August 16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
-      "yes": 27,
-      "change24h": -13,
-      "vol24h": 33308,
+      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-16-2026",
+      "yes": 6,
+      "change24h": -29,
+      "vol24h": 9342,
       "headlines": [
+        {
+          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZEZtT3VTclFjaDNiS2dJblFuWGdvN2lqTWkzM0YyQ3AzUFNKVGVGVUhDa25wWVpYUVJPMnhvT0YtY3dXa2JfTkxhSmZjU0ZEa19zTzUwb1NONnE2UzFQRDRUUENiNEFFczA0d1JDQ0F5MzY0?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -18,13 +24,19 @@
       ]
     },
     {
-      "question": "Will Ethereum dip to $1,800 August 10-16?",
+      "question": "Will Bitcoin reach $65,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-10-16-2026",
-      "yes": 9,
-      "change24h": -8,
-      "vol24h": 13725,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026-from-august-10",
+      "yes": 61,
+      "change24h": -11,
+      "vol24h": 30606,
       "headlines": [
+        {
+          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZEZtT3VTclFjaDNiS2dJblFuWGdvN2lqTWkzM0YyQ3AzUFNKVGVGVUhDa25wWVpYUVJPMnhvT0YtY3dXa2JfTkxhSmZjU0ZEa19zTzUwb1NONnE2UzFQRDRUUENiNEFFczA0d1JDQ0F5MzY0?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -34,18 +46,68 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,100 in August?",
+      "question": "Will Bitcoin reach $67,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2100-in-august-2026",
-      "yes": 18,
-      "change24h": -6,
-      "vol24h": 22397,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
+      "yes": 24,
+      "change24h": -9,
+      "vol24h": 56599,
       "headlines": [
+        {
+          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sZEZtT3VTclFjaDNiS2dJblFuWGdvN2lqTWkzM0YyQ3AzUFNKVGVGVUhDa25wWVpYUVJPMnhvT0YtY3dXa2JfTkxhSmZjU0ZEa19zTzUwb1NONnE2UzFQRDRUUENiNEFFczA0d1JDQ0F5MzY0?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 48,
+      "change24h": -5,
+      "vol24h": 84369,
+      "headlines": [
+        {
+          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
+          "source": "CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 23,
+      "change24h": -5,
+      "vol24h": 13351,
+      "headlines": [
+        {
+          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
+          "source": "CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -55,51 +117,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 75,
       "change24h": 4,
-      "vol24h": 297753,
-      "headlines": [
-        {
-          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 25,
-      "change24h": -4,
-      "vol24h": 262474,
-      "headlines": [
-        {
-          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdXlRM0F2akhOaElHcG9LSFMxLUh2Q3owSDQwMzNrSlNRNjB0Z1RWMlFjQUdIQU1rWFNyeWhPTmc4T0ZMa0pMdFdLSm0zQ3BJS0VhYW5FZUZSWWNueERPXzYxVGgwT0VQYUhNNW1mMjJrSEd3US1pQXNiVWVyYkJJVDJ3bExSV091Z1Y4QVh3RzYwbV9JXzFybTRmakQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 50,
-      "change24h": -4,
-      "vol24h": 68330,
+      "vol24h": 283503,
       "headlines": [
         {
           "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
@@ -124,29 +142,64 @@
       "vol24h": 105308,
       "headlines": [
         {
-          "title": "Report: Atlanta United nearing $18M transfer for Breel Embolo",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2VsdFF3OS1FVlNaSElBbmNxSEZ5ekplZVFWajYwTnFkdi1uYU91TzZhV0t6MUh5dUMxTzBHeDFaY3NHTzFzeXM3cXI3aUJ2YlhLelhwWW9aZDRBMU9YQzBCMXNITkJBY3FIWUdIcTF3ZGtjcWxVMW5GVmNoSl9IeXNSVXpuMkR0cGg0MFBIMFBlY21FYU5ST2NHa1k0OVAwVDVlb2NJcjhKTHlWZlF3?oc=5",
-          "cat": "World Cup"
+          "title": "Atlanta Falcons wide receiver Dylan Drummond dives for 14-yard catch from quarterback Cooper Rush",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTVFxSkxQWWZId3FwV3ZFdkZaU1E5Ti0wdzNzOXNHeUZHOWo3X21sNEZvZlRULTBQMlptSlZIU3psNlo2UVFoYVRIUE9hRU1JcmpvcFBoZ3ppOThkcnJ5QXQwQlloV3VhN2pqS1dkeTZ2SmU2ZUd3NVNfeU84NG9UU3VzbHNFdTBpTnc?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Houston Rockets win the 2027 NBA Finals?",
+      "question": "Will Detroit Pistons win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
-      "yes": 2,
+      "url": "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 26288,
+      "vol24h": 64100,
       "headlines": [
         {
-          "title": "Mike D’Antoni, who coached the Houston Rockets to new heights, to join Naismith Hall of Fame",
-          "source": "Texas Standard",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0FyZWNlVl9mWEZqVU1QUHFVand3cXdWdlZjTC0ycTNFOVhXdUdsNll4Wi1heUd5N0d1UWMyc3BMaDRCS0pwanhQOXhWVTItREVKd2tabWo1a3NHZDB5dVZXVG9lRXRpSGVIejBuSDNvN1I2SXI4N21oYUVXdVhSdmlCQmVUZld2UUsyWmw4V1c1Tm5zWnpxZnk5MHRqSjkwVHc?oc=5",
+          "title": "Former Pistons guard traded to 12th NBA team, nears league record",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFJiZzFvN3o0cWUxblA1a3FhOHB1U0dYYWozRUFsUjd4Z3RXLWFXMV9iLXh0V1RhU0FUWDdKcW5OMnZBOEkzd3FabDF3ZEJfTW1faVVDeGptNXljZndsWWU0ZDJULXVqcXRIbzN0S3ZqTnhDcFM3bU1xRlFkeEJQSXRxNlhQSVYw?oc=5",
           "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 12220,
+      "headlines": [
+        {
+          "title": "Bills, Bears, 49ers Have Checked In On Bucs DT Vita Vea",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV3ZmZ1FvUmZlU0cyS2djZ0h4aTMwSVhzZDU5WUNvRTBucDZoUmU0aEpReHl1cTRZbkFjOTZpM21DdjQ3MjJFdURqQ0RzV2ZDMkRyOVlQd3ZwYzkxNjc5Q1JhNEMybXdqV0FaU1RmaU84SlpVaE5rZ2xXV0JnVEZYeHoycFo3QnVaRjJkb05CUjBqcmZ5YTZYMlRaUHpVX3A0eHVVQktRRklvQ0tReW9vQw?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Japan Q2 GDP growth (annualized) be between 0.0% and 0.8%?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-japan-q2-gdp-growth-annualized-be-between-0pt0-and-0pt8",
+      "yes": 10,
+      "change24h": -53,
+      "vol24h": 11659,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "yes": 91,
+      "change24h": 5,
+      "vol24h": 12763,
+      "headlines": []
+    }
+  ]
 }
