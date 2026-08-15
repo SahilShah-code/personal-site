@@ -1,57 +1,13 @@
 {
-  "updated": "2026-08-15T12:13:34.161Z",
+  "updated": "2026-08-15T18:11:13.057Z",
   "withNews": [
-    {
-      "question": "Will Bitcoin dip to $62,000 August 10-16?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-10-16-2026",
-      "yes": 14,
-      "change24h": -33,
-      "vol24h": 33719,
-      "headlines": [
-        {
-          "title": "S&P 500 Record High August 2026: Inflation & AI Earnings Drive Rally",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVUW5MTzQ3bWNteTRPUzhKU0RsanBiRTljclhxQlh1dXhIZURISlY3T0pKOWpiOHg3UUdHWFh4TmhoQ2hJSXRyRGpkM0JFWXVCWDloYVpDd1VXUlJJbUU4WGx1LW9VMkk4aEVnSHNWSGNXOTNHcGpTY0tVaFlOUQ?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 43,
-      "change24h": -7,
-      "vol24h": 11574,
-      "headlines": [
-        {
-          "title": "S&P 500 Record High August 2026: Inflation & AI Earnings Drive Rally",
-          "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVUW5MTzQ3bWNteTRPUzhKU0RsanBiRTljclhxQlh1dXhIZURISlY3T0pKOWpiOHg3UUdHWFh4TmhoQ2hJSXRyRGpkM0JFWXVCWDloYVpDd1VXUlJJbUU4WGx1LW9VMkk4aEVnSHNWSGNXOTNHcGpTY0tVaFlOUQ?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 46,
-      "change24h": -6,
-      "vol24h": 80430,
+      "change24h": -4,
+      "vol24h": 61101,
       "headlines": [
         {
           "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
@@ -68,17 +24,17 @@
       ]
     },
     {
-      "question": "Will Ethereum dip to $1,800 August 10-16?",
+      "question": "Will Bitcoin reach $65,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-august-10-16-2026",
-      "yes": 4,
-      "change24h": -6,
-      "vol24h": 11875,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-65k-in-august-2026-from-august-10",
+      "yes": 59,
+      "change24h": -4,
+      "vol24h": 24472,
       "headlines": [
         {
-          "title": "S&P 500 Record High August 2026: Inflation & AI Earnings Drive Rally",
+          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
           "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVUW5MTzQ3bWNteTRPUzhKU0RsanBiRTljclhxQlh1dXhIZURISlY3T0pKOWpiOHg3UUdHWFh4TmhoQ2hJSXRyRGpkM0JFWXVCWDloYVpDd1VXUlJJbUU4WGx1LW9VMkk4aEVnSHNWSGNXOTNHcGpTY0tVaFlOUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pS245cDFhWDJOcEgyaFRNWnZUMjFVZTc5TURLaTFjSlF0X0syN3JvUkNvc2k2MV9wRGtQTjdFMVZtZVZPQWNIYUpMNHI2aXdlRXBOaWhNMFpDdkhCYWc4QWJjQzRGUTNtUmRvVXFkY1lRMWdnbnJORg?oc=5",
           "cat": "Markets"
         },
         {
@@ -86,6 +42,72 @@
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $1,700 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1700-in-august-2026",
+      "yes": 21,
+      "change24h": -4,
+      "vol24h": 13067,
+      "headlines": [
+        {
+          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pS245cDFhWDJOcEgyaFRNWnZUMjFVZTc5TURLaTFjSlF0X0syN3JvUkNvc2k2MV9wRGtQTjdFMVZtZVZPQWNIYUpMNHI2aXdlRXBOaWhNMFpDdkhCYWc4QWJjQzRGUTNtUmRvVXFkY1lRMWdnbnJORg?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $67,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
+      "yes": 24,
+      "change24h": -2,
+      "vol24h": 31448,
+      "headlines": [
+        {
+          "title": "S&P 500 Hits Record High August 2026: What is Driving the Rally?",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pS245cDFhWDJOcEgyaFRNWnZUMjFVZTc5TURLaTFjSlF0X0syN3JvUkNvc2k2MV9wRGtQTjdFMVZtZVZPQWNIYUpMNHI2aXdlRXBOaWhNMFpDdkhCYWc4QWJjQzRGUTNtUmRvVXFkY1lRMWdnbnJORg?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 74,
+      "change24h": -1,
+      "vol24h": 122647,
+      "headlines": [
+        {
+          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
+          "source": "CPA Practice Advisor",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -94,30 +116,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-2-fed-rate-cuts-happen-in-2026",
       "yes": 4,
-      "change24h": 2,
-      "vol24h": 176067,
-      "headlines": [
-        {
-          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "CPA Practice Advisor",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 75,
-      "change24h": 1,
-      "vol24h": 240285,
+      "change24h": -1,
+      "vol24h": 10663,
       "headlines": [
         {
           "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
@@ -139,9 +139,27 @@
       "question": "T20 World Cup Sub Regional Europe Qualifier C: Finland vs Bulgaria",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/crint-fin3-bgr-2026-08-15",
-      "yes": 60,
-      "change24h": 8,
-      "vol24h": 9473,
+      "yes": 100,
+      "change24h": 66,
+      "vol24h": 16521,
+      "headlines": []
+    },
+    {
+      "question": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C: Germany vs Portugal",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-deu-prt-2026-08-15",
+      "yes": 0,
+      "change24h": -47,
+      "vol24h": 15488,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
+      "yes": 25,
+      "change24h": -5,
+      "vol24h": 11978,
       "headlines": []
     }
   ]
