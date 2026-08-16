@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-16T12:14:13.838Z",
+  "updated": "2026-08-16T18:11:26.332Z",
   "withNews": [
     {
       "question": "Will Ethereum dip to $1,700 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1700-in-august-2026",
-      "yes": 20,
+      "yes": 18,
       "change24h": -4,
-      "vol24h": 43058,
+      "vol24h": 38854,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -24,12 +24,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 in August?",
+      "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 47,
-      "change24h": 4,
-      "vol24h": 13545,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
+      "yes": 82,
+      "change24h": -3,
+      "vol24h": 28587,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "question": "Will Ethereum dip to $1,600 in August?",
+      "question": "Will Bitcoin dip to $55,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1600-in-august-2026",
-      "yes": 8,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-august-2026",
+      "yes": 6,
       "change24h": -2,
-      "vol24h": 30424,
+      "vol24h": 88096,
       "headlines": [
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -64,28 +64,6 @@
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 74,
-      "change24h": -1,
-      "vol24h": 99861,
-      "headlines": [
-        {
-          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "cpapracticeadvisor.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -95,57 +73,63 @@
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 47,
       "change24h": 1,
-      "vol24h": 24909,
+      "vol24h": 24713,
       "headlines": [
         {
-          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
+          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
+          "source": "kuwaittimes.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "cpapracticeadvisor.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "title": "The Odds for a September Fed Rate Hike Plunged to 25%. Here's Why the Betting Markets Might Be Wrong",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWVYYkhaZ29hM3FrQnQ2MnZaUW5lQlBHcG1vUWV0aEs0NTIyRVV2amlPbHpfMkdLemNTdWdoeGg3aTB0SUxQNXhjcDJydXd0aE5FVXNYclJmNUpaaVBpaE5sSUNDZjhNc0FOSWw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the September 2026 meeting?",
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863",
-      "yes": 0,
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 273076,
+      "vol24h": 177382,
       "headlines": [
         {
-          "title": "Cooler inflation data may force Warsh's divided Fed to hold the line on rates",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDJaOWp0UVZZRVd3MUp5UGNUVk1EOXNybWFfeXRKR2FQYzJsUnJCN3VEU1I2bldJWHFodHlUWXQxcUdzXzVtaTN4RmEyaHlwREhvdVpialZycTYyaFozME5kWWV3MGFqT1hGS00zTnMyQmVDZkZXZTFvT0VGR0RSMU1FMnBiT3dyZFlSQmx5RDRXX0JsZ1dPMy1KOTNteGVOaVJRemdUaDhtWkpmRndEeQ?oc=5",
+          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
+          "source": "kuwaittimes.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "U.S. Core Inflation Comes in Subdued, Easing Pressure on Fed",
-          "source": "cpapracticeadvisor.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmVzcFNzbVRGZUtLSzFZemV4TWFwQmlXMzNVU3FlM3pzYnNxT1RmVjF1eXBBWmlCMUNTandRZXM1SDJVekh3MnVLMUdnUGNfYjNhSDBSdFVJV0d3ZmpoYUNnUXpLN2l5WDVMQ3ZqQTFveTMzaXdJRFVUVzFEdHpZOVFEb05YNks3Z2s0LXQ2Q1Ffcl85ZVI1UHhoRDViNF9UZzJtVElRaEg4TnM1NGVjX3NB?oc=5",
+          "title": "The Odds for a September Fed Rate Hike Plunged to 25%. Here's Why the Betting Markets Might Be Wrong",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWVYYkhaZ29hM3FrQnQ2MnZaUW5lQlBHcG1vUWV0aEs0NTIyRVV2amlPbHpfMkdLemNTdWdoeGg3aTB0SUxQNXhjcDJydXd0aE5FVXNYclJmNUpaaVBpaE5sSUNDZjhNc0FOSWw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
-      "yes": 14,
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 74,
       "change24h": 0,
-      "vol24h": 13116,
+      "vol24h": 76738,
       "headlines": [
         {
-          "title": "Sean McVay evaluates Ty Simpson's impressive Rams debut",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGtkSW1lczY3REFvRGVBNF85bVAwWjluQzRGUXlXd3BiU01oRkxFMnItMlQxRmlxQ2ZMUkpNdWdySWRnR2prZGJfTHRZRkhfeGc0RmdwWlE3TEJiZS01ajFSak1kcTNQTzF1ajRQbWwyb2dxTHBsMDZUc0hqSTRTOWJxYWZaSUZF?oc=5",
-          "cat": "NFL"
+          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
+          "source": "kuwaittimes.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Odds for a September Fed Rate Hike Plunged to 25%. Here's Why the Betting Markets Might Be Wrong",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWVYYkhaZ29hM3FrQnQ2MnZaUW5lQlBHcG1vUWV0aEs0NTIyRVV2amlPbHpfMkdLemNTdWdoeGg3aTB0SUxQNXhjcDJydXd0aE5FVXNYclJmNUpaaVBpaE5sSUNDZjhNc0FOSWw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -172,31 +156,27 @@
       ]
     },
     {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 6,
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 8667,
+      "vol24h": 11038,
       "headlines": [
         {
-          "title": "Arsenal vs. Manchester City 2026 FA Community Shield Live Updates, Scores and Highlights",
-          "source": "Bleacher Report",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmF3RElLMFd4LW1SVUREUGZIdVpJV0llREVhOTJ4Y0lybmFMdkFUZmtIN192dmIzMl9GODBaUi00Mzd4REVJN1U2QWRkc25KcFpKaC1FM2RzeDRMdmFERGhtQnBDUzNhdEpkbzVSSDE0NlhSUF85dnRxd2pJMUdrWloyY1VtZkN0MUlTLWMtQkZteTZ6ZW9HT2NUR2tvYXVRSW1aNWU0U245aXJmQTNvdGozZU4xeFJDaWljRXVCbzY4OHRjQkJXcTUxc1k?oc=5",
-          "cat": "World Cup"
+          "title": "Vikings WR among the second-year players PFF has their eyes on",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnpWdHZRZnhtSjdKYkxPMjNqSW1oWG9KRVI5aEZqbjQxVkZKTmQ5SVRpOUFTZFFSbnl4b2dYVW4zT0hzeEZlTWJtUFViUWFIOV9fSHR3OHlRVml4NUhrdDQwMnNkd0NNRERqSTlnaXhfVzlkY2tGWWdhRlViWTBkaFZlZHFHeDA?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "J.J. McCarthy Receives Major Prediction After Vikings Beat Giants",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWpDNWIyaklYbjI2NTJHTDZHSm01bTBnVVQ4c2p0Sy1mTVE3TjR3MkRpVlBKNjdPeE1vZXUybU8zNjZDZFRhWHRZWC14YjA3S1Y2N081cnpPcDZCaVZtRG55OEhNNUdObmtPd1NUOWRvcHRHbHhUcXNsZnY0OC15X2xR?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Bitcoin reach $80,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
-      "yes": 26,
-      "change24h": -4,
-      "vol24h": 10371,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
