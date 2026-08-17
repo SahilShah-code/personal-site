@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-17T00:31:23.173Z",
+  "updated": "2026-08-17T06:28:55.201Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 92,
-      "change24h": 8,
-      "vol24h": 25549,
+      "yes": 72,
+      "change24h": -12,
+      "vol24h": 29918,
       "headlines": [
         {
           "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
@@ -16,20 +16,20 @@
           "cat": "Macro"
         },
         {
-          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "title": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally",
           "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum reach $1,900 in August?",
+      "question": "Will Ethereum dip to $1,800 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-1900-in-august-2026-from-august-13",
-      "yes": 85,
-      "change24h": -8,
-      "vol24h": 13229,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-august-2026",
+      "yes": 46,
+      "change24h": -12,
+      "vol24h": 8076,
       "headlines": [
         {
           "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
@@ -38,20 +38,20 @@
           "cat": "Macro"
         },
         {
-          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "title": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally",
           "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum reach $2,000 in August?",
+      "question": "Will Bitcoin dip to $60,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
-      "yes": 40,
-      "change24h": -6,
-      "vol24h": 14048,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-august-2026",
+      "yes": 31,
+      "change24h": -9,
+      "vol24h": 7733,
       "headlines": [
         {
           "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
@@ -60,9 +60,9 @@
           "cat": "Macro"
         },
         {
-          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "title": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally",
           "source": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B?oc=5",
           "cat": "Markets"
         }
       ]
@@ -73,12 +73,12 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 75,
       "change24h": 1,
-      "vol24h": 44212,
+      "vol24h": 91291,
       "headlines": [
         {
-          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
-          "source": "Kuwait Times",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
+          "title": "Goldman says markets too hawkish on betting Fed will hike rates",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZEx3TGk3bzB4bVJkLTVWMUQ0N21IYTRKdGZySDB2MUlDNW5mR2Qydk4xSVExaHNKNmRON00yU1dBQlpvcE81MTRxSGJfb3FY?oc=5",
           "cat": "Macro"
         },
         {
@@ -95,12 +95,12 @@
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 47,
       "change24h": 1,
-      "vol24h": 22158,
+      "vol24h": 29972,
       "headlines": [
         {
-          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
-          "source": "Kuwait Times",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
+          "title": "Goldman says markets too hawkish on betting Fed will hike rates",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZEx3TGk3bzB4bVJkLTVWMUQ0N21IYTRKdGZySDB2MUlDNW5mR2Qydk4xSVExaHNKNmRON00yU1dBQlpvcE81MTRxSGJfb3FY?oc=5",
           "cat": "Macro"
         },
         {
@@ -117,12 +117,12 @@
       "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
       "yes": 11,
       "change24h": 1,
-      "vol24h": 9969,
+      "vol24h": 10275,
       "headlines": [
         {
-          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
-          "source": "Kuwait Times",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
+          "title": "Goldman says markets too hawkish on betting Fed will hike rates",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yZEx3TGk3bzB4bVJkLTVWMUQ0N21IYTRKdGZySDB2MUlDNW5mR2Qydk4xSVExaHNKNmRON00yU1dBQlpvcE81MTRxSGJfb3FY?oc=5",
           "cat": "Macro"
         },
         {
@@ -139,12 +139,34 @@
       "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 8507,
+      "vol24h": 13639,
       "headlines": [
         {
-          "title": "Cowboys guard John Niland, 3-time All-Pro and Super Bowl champion, dies at 82",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVUzY0x6d3B0NTExOXVFall6a1NRUnlTMDNFVEVGMklNQ2hQQkxMWlBrM0dYSGE5TmJTbW4zVHFvVndTT2JiQzNma0JUai1EMTNINWZYRG9RaE9GS01mQUdPdnRUSGs0V1doTEpsMkx0c2NGUkVSZnBBRjZMbDdleW5NQ21hOFZSUEpibHVsZVg?oc=5",
+          "title": "Von Miller Reveals When Cowboys First Reached Out Over Out-Of-The-Blue Free Agency Move",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVBTcjRxWWJGZEFUb0d2QmNwX3dtdTdLWS1OdUc2TDJ1cXVLZFhpeHJyTm4tZ3BaWDd0S1RsWE1JVWJHdXlDTzNYUGFoZlJMQWwwaGJXZmlMM3ZBcnR3TGtHVGtrQk1oQklxa2dUZlQtMzFfTzF5eTNZRUNIZFNEeHdiVmEtOEg0?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "‘Von Miller Is Ring Chasing’ — Super Bowl Champion QB Makes Feelings Clear on 7-Time All-Pro Joining Cowboys",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWhBUVcwNExieHY3MDlNOTRFRWItSjZYT19hd0hEcVdOMV9yYnJNbWkyUlRWcmc0WDE4RHNPTnAwcDUyQ0stdmlHNnMycU54UW5wdkNNd1lnSXFyTnROZUM2ZDd4cS1XWWUydlhCVzFvY2xOYTAxSXZpYjktQ0FSUkktTmQ?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 11183,
+      "headlines": [
+        {
+          "title": "Tampa Bay Buccaneers Vita Vea Trade Speculation Lands Him With Buffalo Bills",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWR2Z3FjWDBGaUIzbVc1dUs4dmJQeG52cURoZ1FnU3RSYWNLLUpfSUxWZUZBNzNodEszUk9wcVNxd2xDazlPTEs2dmJfVm50WkFSUmhLQjE5cmN4REs3bWJuNTZ4ak51Q0lmMG92RXdXTHZ3dmEzSkpOTGcwT2R0SUtRdHc?oc=5",
           "cat": "NFL"
         }
       ]
