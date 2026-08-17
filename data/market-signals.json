@@ -1,69 +1,91 @@
 {
-  "updated": "2026-08-16T18:11:26.332Z",
+  "updated": "2026-08-17T00:31:23.173Z",
   "withNews": [
-    {
-      "question": "Will Ethereum dip to $1,700 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1700-in-august-2026",
-      "yes": 18,
-      "change24h": -4,
-      "vol24h": 38854,
-      "headlines": [
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin dip to $62,500 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 82,
-      "change24h": -3,
-      "vol24h": 28587,
+      "yes": 92,
+      "change24h": 8,
+      "vol24h": 25549,
       "headlines": [
         {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
+          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $55,000 in August?",
+      "question": "Will Ethereum reach $1,900 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-august-2026",
-      "yes": 6,
-      "change24h": -2,
-      "vol24h": 88096,
+      "url": "https://polymarket.com/event/will-ethereum-reach-1900-in-august-2026-from-august-13",
+      "yes": 85,
+      "change24h": -8,
+      "vol24h": 13229,
       "headlines": [
         {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
+          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2000-in-august-2026",
+      "yes": 40,
+      "change24h": -6,
+      "vol24h": 14048,
+      "headlines": [
+        {
+          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "S&P 500 Hits Record High August 2026: Inflation Cools & AI Stocks Rally",
+          "source": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNXNhSVh1ZV9zU3BUQnQxV1RlZldsVEpJSVRXN0R3ZFZiT0ZKeW9scFRLT0RZVWlFQUtqbUVJQjVYYzNrNlpQM2JQVGphZGMtbFlIVWRUM1djQ0syZlVubnlZR2RaVy16OEVfcw?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 75,
+      "change24h": 1,
+      "vol24h": 44212,
+      "headlines": [
+        {
+          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
+          "source": "Kuwait Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Odds for a September Fed Rate Hike Plunged to 25%. Here's Why the Betting Markets Might Be Wrong",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWVYYkhaZ29hM3FrQnQ2MnZaUW5lQlBHcG1vUWV0aEs0NTIyRVV2amlPbHpfMkdLemNTdWdoeGg3aTB0SUxQNXhjcDJydXd0aE5FVXNYclJmNUpaaVBpaE5sSUNDZjhNc0FOSWw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -73,11 +95,11 @@
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 47,
       "change24h": 1,
-      "vol24h": 24713,
+      "vol24h": 22158,
       "headlines": [
         {
           "title": "Cooling US inflation supports Fed pause amid global uncertainty",
-          "source": "kuwaittimes.com",
+          "source": "Kuwait Times",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
           "cat": "Macro"
         },
@@ -90,16 +112,16 @@
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Will 1 Fed rate cut happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 177382,
+      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
+      "yes": 11,
+      "change24h": 1,
+      "vol24h": 9969,
       "headlines": [
         {
           "title": "Cooling US inflation supports Fed pause amid global uncertainty",
-          "source": "kuwaittimes.com",
+          "source": "Kuwait Times",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
           "cat": "Macro"
         },
@@ -112,67 +134,17 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 74,
-      "change24h": 0,
-      "vol24h": 76738,
-      "headlines": [
-        {
-          "title": "Cooling US inflation supports Fed pause amid global uncertainty",
-          "source": "kuwaittimes.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHNndHRGeHlOT2lBOTJXWHMzUFRfckdlMWxOTEVfeWVvUlhfSkpfR3RUczZ5dDVMem56MHlTQmJ6YnVyLU5CVDhiaHJmYVVSb3M4QTBoaXprb3hDVU9UXzVRTzNheHZXUVFPYmxFTjg1bUV3Q0t3WWZxNUNXQnhaZ3BYeEloX0o2a3Z2WGthUVg0N2hzWFVidl8zWFE3Skdwb1FqeHlBSlY3OUNqZlp1WNIBtAFBVV95cUxNdUx0Q213cEg5dnlpSTViSzFDWFkybmlfYkdTcF8tR2lWLVdUcVd6RWJnZEhCTnNPblZEY2xid2RaYndKd1Fpak1ZcmpfZnhYNklVR1N3YmYtYUhsakxSTEY2MUtvOUpGQmE0MllXa2E1ODVtUDJpLXdMV2FETXF6dU1TdWNLeUdNTXNIZm4wLTlVREZEMlNDbV9faW5VS3BCeU5xS3EtTE5EeVN1RDlYVXFMLWU?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Odds for a September Fed Rate Hike Plunged to 25%. Here's Why the Betting Markets Might Be Wrong",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWVYYkhaZ29hM3FrQnQ2MnZaUW5lQlBHcG1vUWV0aEs0NTIyRVV2amlPbHpfMkdLemNTdWdoeGg3aTB0SUxQNXhjcDJydXd0aE5FVXNYclJmNUpaaVBpaE5sSUNDZjhNc0FOSWw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 11789,
+      "vol24h": 8507,
       "headlines": [
         {
-          "title": "What is the Cincinnati tennis schedule?",
-          "source": "ATP Tour",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLRHExYnRZeEQxeEZCaEppV3N3TUtuUnlBNDUzeUh0WFFiUGRiOVFZcVFNeXBTelJsSjVwWG1wek9OQzJiTlNLRk5lWTQ5WkJxbGxUTzlIZHc3cTZfWkRvUU5xdzRkSnc?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV3NEOEZiTlc1UGppZXYzNGFFVExMajZDWmRiSmtxTzFuQ2tyMUlVMUFJd21RQTEyeTVVc2Y0WVJTYzhoMDJ6SWVMWGRmNEVXMExPVkpEemJLNE0tbUNvb2xmRGZtS3pSeUFRbUV4OU50OWFuZmFmOG9RNmxOdmR5TVZFMnVZTXRIQll6ajhLMHhSa1hSZjJCcWxNUDk4WkVUT0JVd0lUN2VTX3hZWmdv?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 11038,
-      "headlines": [
-        {
-          "title": "Vikings WR among the second-year players PFF has their eyes on",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnpWdHZRZnhtSjdKYkxPMjNqSW1oWG9KRVI5aEZqbjQxVkZKTmQ5SVRpOUFTZFFSbnl4b2dYVW4zT0hzeEZlTWJtUFViUWFIOV9fSHR3OHlRVml4NUhrdDQwMnNkd0NNRERqSTlnaXhfVzlkY2tGWWdhRlViWTBkaFZlZHFHeDA?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "J.J. McCarthy Receives Major Prediction After Vikings Beat Giants",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWpDNWIyaklYbjI2NTJHTDZHSm01bTBnVVQ4c2p0Sy1mTVE3TjR3MkRpVlBKNjdPeE1vZXUybU8zNjZDZFRhWHRZWC14YjA3S1Y2N081cnpPcDZCaVZtRG55OEhNNUdObmtPd1NUOWRvcHRHbHhUcXNsZnY0OC15X2xR?oc=5",
+          "title": "Cowboys guard John Niland, 3-time All-Pro and Super Bowl champion, dies at 82",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVUzY0x6d3B0NTExOXVFall6a1NRUnlTMDNFVEVGMklNQ2hQQkxMWlBrM0dYSGE5TmJTbW4zVHFvVndTT2JiQzNma0JUai1EMTNINWZYRG9RaE9GS01mQUdPdnRUSGs0V1doTEpsMkx0c2NGUkVSZnBBRjZMbDdleW5NQ21hOFZSUEpibHVsZVg?oc=5",
           "cat": "NFL"
         }
       ]
