@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-19T06:22:16.059Z",
+  "updated": "2026-08-19T12:19:49.410Z",
   "withNews": [
     {
       "question": "Will Ethereum dip to $1,800 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-august-2026",
-      "yes": 37,
-      "change24h": -9,
-      "vol24h": 8816,
+      "yes": 31,
+      "change24h": -13,
+      "vol24h": 8278,
       "headlines": [
         {
           "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
@@ -27,9 +27,9 @@
       "question": "Will Bitcoin reach $66,000 August 17-23?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-17-23-2026",
-      "yes": 30,
-      "change24h": -7,
-      "vol24h": 21007,
+      "yes": 28,
+      "change24h": -9,
+      "vol24h": 27493,
       "headlines": [
         {
           "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
@@ -46,12 +46,34 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $67,500 in August?",
+      "question": "Will Bitcoin dip to $62,000 August 17-23?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
-      "yes": 27,
-      "change24h": -5,
-      "vol24h": 46480,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-17-23-2026",
+      "yes": 14,
+      "change24h": -9,
+      "vol24h": 19223,
+      "headlines": [
+        {
+          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
+          "source": "tennismajors.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by August 31, 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-august-31-2026-20260722051644333",
+      "yes": 1,
+      "change24h": -2,
+      "vol24h": 39625,
       "headlines": [
         {
           "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
@@ -72,8 +94,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 51,
-      "change24h": 3,
-      "vol24h": 41052,
+      "change24h": 2,
+      "vol24h": 30168,
       "headlines": [
         {
           "title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
@@ -90,100 +112,56 @@
       ]
     },
     {
-      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by August 31, 2026?",
+      "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-august-31-2026-20260722051644333",
-      "yes": 1,
-      "change24h": -2,
-      "vol24h": 9983,
-      "headlines": [
-        {
-          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "yes": 2,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
+      "yes": 40,
       "change24h": 1,
-      "vol24h": 8424,
+      "vol24h": 15843,
       "headlines": [
-        {
-          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
-          "cat": "Tennis"
-        },
         {
           "title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
-      "yes": 9,
-      "change24h": 0,
-      "vol24h": 13978,
-      "headlines": [
+        },
         {
-          "title": "Patrick Mahomes’ Trainer Takes 4-Word Shot Dissing Rival Bills’ Fresh New ‘Nickel City’ Uniforms",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjl1S1o2eGR6aXB1UFRGeE9tRkVFZVN4WVhBcG9UMkxKT2hlUDBHREtVMDQ0b2c2cHl0T1pTTDZMYWxQQkRDOF9KWHpCM1RTalZfTlRtNE9pbjFzZ3p5eUhlaE5QNk9mSmJOTlYwQWJLYWVPTVJOam42WEhJZnRxSkRXeF9XRmM?oc=5",
-          "cat": "NFL"
+          "title": "Assessing a Medium-Run Natural Rate of Interest",
+          "source": "frbsf.org",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3RjT1EyVWRJUFdQcG9fTDRPcGdfR1ZhUHJIZmZULXB2NndIVGlJa2h0ZWp4RlhEa0E0a1dURFV1Ti0tdnlWaFZHWXJ5akxTazZNZk1Rdkl3c25zZUpQVks0SkRSb1NHU3h3VExzdmpBZmxHUnVEWHo5TTJxb2xxZTM2X0M3VjJucVhwNWQyM25oZUN4SVNmWlVaX0JOY0hOSUtGS0pLX3RuREZiVmpVVTE0Smh5UmdsNXJaZE15RDhjb3AtLWc?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Houston Texans win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 12156,
+      "vol24h": 11563,
       "headlines": [
         {
-          "title": "Former Houston Coach Mike D’Antoni Inducted to the Hall of Fame",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlVmSzI3bmdKY1lBYkhXMGs3azNLVVBxZVdVT1lWVnZnRVdPRmxHdHBLSzFsODdFM3JaU1FObzJZZFR2aFpHak1QdVNEbFhNMklST2ZFZHRELXIxV29URDhZOEhSNHdVZVlaYlVkV3luTkplT3p1bV9HalViNjVZY1p3?oc=5",
+          "title": "Minnesota Timberwolves offseason recap, early 2026-27 season preview",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFBmNEVFOGNZOHdpYmc1bXhIWmxfV19aTmJYTXNMS0k4cW45bk1PMzdlc1pCQ1FKeFdzazNhdzF3R0lkci1zUmFld3l2UV9fSWlnNmRiRnp3MTA4dkRoOGhpUGFHajktODdsTTFjYTVDaVFQQWd4ZWNSOXRxV3ZwUS1FNXZ5eWk0bEMxd2RkcWNLT09WTWZla09QekEtMUtXLTJKYzQ4VWNHQzZUTWFuTWY2MGVrdk44eGJ1Ui1iTFExLVREcVppQVZFRQ?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
-      "yes": 3,
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 7829,
+      "vol24h": 8821,
       "headlines": [
         {
-          "title": "Replay | 3rd round ATP, WTA results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzdZbTRockd1bmtaaDVSMVp1cVBmSzc4VnZTZjBmSmJlc3JXZDY4QUxqeFhSR3N5eW5uRU1zVHQzNDBXMmJBM0xnd3dvaFZ0WlJfRlExbGFPOEVEeDU1aDRZV19nYVNMNFhTT19kdnptcGlJdkFBWDlNS3cxeTMzVUVqWmd2ZEtBSXBJTy1VMTBwX083MURVVE1VdjlDU1M5MDJka2k4MVhwRHBhNnBFSWx3?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Locals advance in doubles, Williams sisters out of Cincinnati Open | Replay",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0pPTjF3YjRGX2w4RktwNVJ4QUVLVGR1NHAyTnZkTkNKbkFQQ1pmbFRHcHhHalVpS1NIYmZVb3Q0SzJNbENPQy1UaFUwMEFpekFNb1hCS09KWjViVTdwRVU4MFFyRlIxeVBONFpFQ3h2TnRxRVFwdWtLVHpOZ19BSk9DUWp3THFTV1dFOEdCWmpiWnpRa2VFcVk4SFRkSVNGaC1pOS1nN1NFZ01USG9oc0ZIUkJLdw?oc=5",
-          "cat": "Tennis"
+          "title": "Minnesota Timberwolves offseason recap, early 2026-27 season preview",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFBmNEVFOGNZOHdpYmc1bXhIWmxfV19aTmJYTXNMS0k4cW45bk1PMzdlc1pCQ1FKeFdzazNhdzF3R0lkci1zUmFld3l2UV9fSWlnNmRiRnp3MTA4dkRoOGhpUGFHajktODdsTTFjYTVDaVFQQWd4ZWNSOXRxV3ZwUS1FNXZ5eWk0bEMxd2RkcWNLT09WTWZla09QekEtMUtXLTJKYzQ4VWNHQzZUTWFuTWY2MGVrdk44eGJ1Ui1iTFExLVREcVppQVZFRQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
@@ -193,9 +171,9 @@
       "question": "Will Jannik Sinner win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
-      "yes": 31,
-      "change24h": -11,
-      "vol24h": 55029,
+      "yes": 33,
+      "change24h": -9,
+      "vol24h": 58930,
       "headlines": []
     },
     {
@@ -203,8 +181,8 @@
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
       "yes": 21,
-      "change24h": 8,
-      "vol24h": 54133,
+      "change24h": 7,
+      "vol24h": 61381,
       "headlines": []
     }
   ]
