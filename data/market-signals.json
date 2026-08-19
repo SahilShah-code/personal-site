@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-19T00:32:08.767Z",
+  "updated": "2026-08-19T06:22:16.059Z",
   "withNews": [
     {
-      "question": "Will the price of Bitcoin be above $64,000 on August 20?",
+      "question": "Will Ethereum dip to $1,800 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-64k-on-august-20-2026",
-      "yes": 73,
-      "change24h": 8,
-      "vol24h": 11790,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-august-2026",
+      "yes": 37,
+      "change24h": -9,
+      "vol24h": 8816,
       "headlines": [
         {
           "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
@@ -24,12 +24,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in August?",
+      "question": "Will Bitcoin reach $66,000 August 17-23?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-august-2026-from-august-3",
-      "yes": 49,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-17-23-2026",
+      "yes": 30,
       "change24h": -7,
-      "vol24h": 34145,
+      "vol24h": 21007,
       "headlines": [
         {
           "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,000 August 17-23?",
+      "question": "Will Bitcoin reach $67,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-17-23-2026",
-      "yes": 18,
-      "change24h": -7,
-      "vol24h": 12818,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-67pt5k-in-august-2026",
+      "yes": 27,
+      "change24h": -5,
+      "vol24h": 46480,
       "headlines": [
         {
           "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
@@ -72,30 +72,20 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 51,
-      "change24h": 2,
-      "vol24h": 47053,
+      "change24h": 3,
+      "vol24h": 41052,
       "headlines": [
         {
           "title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Mirra Andreeva win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-mirra-andreeva-win-the-2026-womens-us-open",
-      "yes": 8,
-      "change24h": 2,
-      "vol24h": 11012,
-      "headlines": [
+        },
         {
-          "title": "Jamaica ready to co-host 2031 FIFA Women’s World Cup",
-          "source": "caribbeanlife.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IOFBSNGxxbEU2UUFHcHo1ZF9WZkJBNVRFbUVwS1JlMTNnQUNjMkJqSGhZeW9oeVBYYzV3eXk5cUtwaTY2dWlBQm5pcFFITFdScUR0dWZ3NG5hSGZZaG1zM0t2bm1YNnhHbkdqcGtmZmY3X1V1eWdsZHNLUDhQZw?oc=5",
-          "cat": "World Cup"
+          "title": "Fed Minutes, Iran Top Economic News This Week",
+          "source": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUdvMjlFa3FlbzVaQS1kOWNrd3ZuSFIxcWFBRmRxZkVrU0ZydFBrZVRSblZLeWRsTjYzbWE3THFIRVp5dnhMT2ltb3lUYXhGd3RBbXRfei1DNVYxTEduUi1WZnZDM3lmV3dMN2xQZUczV3ZVUnh5a19Da0NkeFRhdmQyTGRPTVE1bmdLeExYc3BEN2tCTG44LWo0dm9FaVM5eWhZM2IyU2t4QQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -105,7 +95,7 @@
       "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-august-31-2026-20260722051644333",
       "yes": 1,
       "change24h": -2,
-      "vol24h": 9974,
+      "vol24h": 9983,
       "headlines": [
         {
           "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
@@ -122,13 +112,19 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 28,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "yes": 2,
       "change24h": 1,
-      "vol24h": 158310,
+      "vol24h": 8424,
       "headlines": [
+        {
+          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
+          "source": "tennismajors.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
           "source": "Reuters",
@@ -138,18 +134,56 @@
       ]
     },
     {
-      "question": "Will the Tampa Bay Buccaneers win the 2027 NFL league championship?",
+      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-tampa-bay-buccaneers-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
+      "yes": 9,
       "change24h": 0,
-      "vol24h": 10681,
+      "vol24h": 13978,
       "headlines": [
         {
-          "title": "Keeler: Broncos’ Bo Nix, Davis Webb won’t back down from a training camp fight. Or from Green Bay Packers.",
-          "source": "The Denver Post",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UWndVaW80dXdpVVhPWXdmUHdnejRmaU5KVFJfYmlMeUxzRE5ZYnNvbENmMUNzNjlVV1NsNXBfc3ZlYWZCZHUzeGt2enhGZGVKNnlQYWdzSFR1Slk3Q0p6VEVjOVBNM0gyYjU2LVZ2REJ1RXhUQlVZMG9zb1k?oc=5",
+          "title": "Patrick Mahomes’ Trainer Takes 4-Word Shot Dissing Rival Bills’ Fresh New ‘Nickel City’ Uniforms",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjl1S1o2eGR6aXB1UFRGeE9tRkVFZVN4WVhBcG9UMkxKT2hlUDBHREtVMDQ0b2c2cHl0T1pTTDZMYWxQQkRDOF9KWHpCM1RTalZfTlRtNE9pbjFzZ3p5eUhlaE5QNk9mSmJOTlYwQWJLYWVPTVJOam42WEhJZnRxSkRXeF9XRmM?oc=5",
           "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Houston Texans win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 12156,
+      "headlines": [
+        {
+          "title": "Former Houston Coach Mike D’Antoni Inducted to the Hall of Fame",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRlVmSzI3bmdKY1lBYkhXMGs3azNLVVBxZVdVT1lWVnZnRVdPRmxHdHBLSzFsODdFM3JaU1FObzJZZFR2aFpHak1QdVNEbFhNMklST2ZFZHRELXIxV29URDhZOEhSNHdVZVlaYlVkV3luTkplT3p1bV9HalViNjVZY1p3?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 7829,
+      "headlines": [
+        {
+          "title": "Replay | 3rd round ATP, WTA results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzdZbTRockd1bmtaaDVSMVp1cVBmSzc4VnZTZjBmSmJlc3JXZDY4QUxqeFhSR3N5eW5uRU1zVHQzNDBXMmJBM0xnd3dvaFZ0WlJfRlExbGFPOEVEeDU1aDRZV19nYVNMNFhTT19kdnptcGlJdkFBWDlNS3cxeTMzVUVqWmd2ZEtBSXBJTy1VMTBwX083MURVVE1VdjlDU1M5MDJka2k4MVhwRHBhNnBFSWx3?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Locals advance in doubles, Williams sisters out of Cincinnati Open | Replay",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0pPTjF3YjRGX2w4RktwNVJ4QUVLVGR1NHAyTnZkTkNKbkFQQ1pmbFRHcHhHalVpS1NIYmZVb3Q0SzJNbENPQy1UaFUwMEFpekFNb1hCS09KWjViVTdwRVU4MFFyRlIxeVBONFpFQ3h2TnRxRVFwdWtLVHpOZ19BSk9DUWp3THFTV1dFOEdCWmpiWnpRa2VFcVk4SFRkSVNGaC1pOS1nN1NFZ01USG9oc0ZIUkJLdw?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
@@ -159,18 +193,18 @@
       "question": "Will Jannik Sinner win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
-      "yes": 34,
-      "change24h": -9,
-      "vol24h": 55096,
+      "yes": 31,
+      "change24h": -11,
+      "vol24h": 55029,
       "headlines": []
     },
     {
       "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 20,
+      "yes": 21,
       "change24h": 8,
-      "vol24h": 71116,
+      "vol24h": 54133,
       "headlines": []
     }
   ]
