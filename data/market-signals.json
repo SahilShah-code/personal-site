@@ -1,19 +1,19 @@
 {
-  "updated": "2026-08-19T12:19:49.410Z",
+  "updated": "2026-08-19T18:15:52.780Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $1,800 in August?",
+      "question": "Will the price of Bitcoin be above $66,000 on August 21?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1800-in-august-2026",
-      "yes": 31,
-      "change24h": -13,
-      "vol24h": 8278,
+      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-21-2026",
+      "yes": 89,
+      "change24h": 72,
+      "vol24h": 25659,
       "headlines": [
         {
-          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
-          "cat": "Tennis"
+          "title": "Stock Market Today: S&P 500 Higher As Fed Minutes Loom; Bitcoin Jumps Ahead Of White House Meet (Live Coverage)",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHJYOG9QdVFpY24xT0RVVFdyYm9pSEdPT281STFXLWl2WktsNzctUEtnRjRIX2ZaWThUZ1NvUlBTM3RKdUVOS1hpOU9YQnlRVTdmN2Y3U1BWZDVmQVlRNmVVVjNXUnFlMDhvc09PYVB2NGtPLUlCTlA1TDBZMG1NdmI1UTRwZmpEMXFWQTJYTnZxWkQtY0lDWC1zWmxkZTJOUF91MFM5S3gtNmc0ekJjRmhrb2o?oc=5",
+          "cat": "Markets"
         },
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -24,40 +24,40 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $66,000 August 17-23?",
+      "question": "Will the price of Ethereum be above $2,000 on August 25?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-august-17-23-2026",
-      "yes": 28,
-      "change24h": -9,
-      "vol24h": 27493,
+      "url": "https://polymarket.com/event/ethereum-above-2000-on-august-25-2026",
+      "yes": 77,
+      "change24h": 60,
+      "vol24h": 12058,
       "headlines": [
-        {
-          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
-          "cat": "Tennis"
-        },
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
           "source": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
           "cat": "Biotech markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,000 August 17-23?",
+      "question": "Will Bitcoin reach $70,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-august-17-23-2026",
-      "yes": 14,
-      "change24h": -9,
-      "vol24h": 19223,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-70k-in-august-2026",
+      "yes": 60,
+      "change24h": 48,
+      "vol24h": 331706,
       "headlines": [
         {
-          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
-          "cat": "Tennis"
+          "title": "Stock Market Today: S&P 500 Higher As Fed Minutes Loom; Bitcoin Jumps Ahead Of White House Meet (Live Coverage)",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNHJYOG9QdVFpY24xT0RVVFdyYm9pSEdPT281STFXLWl2WktsNzctUEtnRjRIX2ZaWThUZ1NvUlBTM3RKdUVOS1hpOU9YQnlRVTdmN2Y3U1BWZDVmQVlRNmVVVjNXUnFlMDhvc09PYVB2NGtPLUlCTlA1TDBZMG1NdmI1UTRwZmpEMXFWQTJYTnZxWkQtY0lDWC1zWmxkZTJOUF91MFM5S3gtNmc0ekJjRmhrb2o?oc=5",
+          "cat": "Markets"
         },
         {
           "title": "Best Biotech Stocks to Buy for August 2026",
@@ -68,46 +68,50 @@
       ]
     },
     {
-      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by August 31, 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-august-31-2026-20260722051644333",
-      "yes": 1,
-      "change24h": -2,
-      "vol24h": 39625,
+      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
+      "yes": 33,
+      "change24h": -11,
+      "vol24h": 67774,
       "headlines": [
         {
-          "title": "Tennis Calendar August–December 2026: The Biggest ATP and WTA Events Still Ahead",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRWtIanhWRllyRjhYNHc0UFVFOEh1bG42ekV4eWpNQmtsSmRVZTY0WVZZd3Q5SnJFblR3bmVJbDZuNVE0eXF0NXY4Q002Tm9Kcm1zQldZNzFLcW1CMmFGQ1VWcEJpbDUydkxXMTNlNl84aVBDRE16aGlpNGJtT2p5UWFkMk40VTd2b1FMY3EtWmdadWlLREdkZkp1RC1MWWFpa25ZWFhOZXRtdW5IRUNhWExBYnFpNU5hajB4czBFaVNUZw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
-          "cat": "Biotech markets"
+          "title": "Men's Soccer Opens 2026 Season at UMBC",
+          "source": "UNC Wilmington Athletics",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGtWRUFMZHN2eTJSeTZlWXJOUExYTWRUaWZvZ2NrcG5VdE82bE9SU0FxUjR3aDJVNHhIVFJGYnlsU2dWdURPMkNUcG05SndMWjB1UXN1dUlfSmtPV2otS2NILXVRNEVDQjhvWFJENVByY29oNVYxUDFqWjFXN3lHMUF4OTlMQ2M?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 51,
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "yes": 17,
+      "change24h": 4,
+      "vol24h": 68865,
+      "headlines": [
+        {
+          "title": "Men's Soccer Opens 2026 Season at UMBC",
+          "source": "UNC Wilmington Athletics",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGtWRUFMZHN2eTJSeTZlWXJOUExYTWRUaWZvZ2NrcG5VdE82bE9SU0FxUjR3aDJVNHhIVFJGYnlsU2dWdURPMkNUcG05SndMWjB1UXN1dUlfSmtPV2otS2NILXVRNEVDQjhvWFJENVByY29oNVYxUDFqWjFXN3lHMUF4OTlMQ2M?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
+      "yes": 17,
       "change24h": 2,
-      "vol24h": 30168,
+      "vol24h": 33644,
       "headlines": [
         {
-          "title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Minutes, Iran Top Economic News This Week",
-          "source": "U.S. News & World Report",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUdvMjlFa3FlbzVaQS1kOWNrd3ZuSFIxcWFBRmRxZkVrU0ZydFBrZVRSblZLeWRsTjYzbWE3THFIRVp5dnhMT2ltb3lUYXhGd3RBbXRfei1DNVYxTEduUi1WZnZDM3lmV3dMN2xQZUczV3ZVUnh5a19Da0NkeFRhdmQyTGRPTVE1bmdLeExYc3BEN2tCTG44LWo0dm9FaVM5eWhZM2IyU2t4QQ?oc=5",
-          "cat": "Macro"
+          "title": "Men's Soccer Opens 2026 Season at UMBC",
+          "source": "UNC Wilmington Athletics",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGtWRUFMZHN2eTJSeTZlWXJOUExYTWRUaWZvZ2NrcG5VdE82bE9SU0FxUjR3aDJVNHhIVFJGYnlsU2dWdURPMkNUcG05SndMWjB1UXN1dUlfSmtPV2otS2NILXVRNEVDQjhvWFJENVByY29oNVYxUDFqWjFXN3lHMUF4OTlMQ2M?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -115,74 +119,139 @@
       "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 40,
-      "change24h": 1,
-      "vol24h": 15843,
+      "yes": 41,
+      "change24h": 2,
+      "vol24h": 17896,
       "headlines": [
+        {
+          "title": "What to watch for in the next Fed minutes",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF9adjlpRlYzb2pmUEh0YnEtX3FHTjBFOWZHM1F0cGVadEtkYlUxNEE5X0ZCTkxmaE1rbzVMOEo3Wk56dFhMSUFUUHZxeVE3a0lQUW0xMUtsLXpiRnJkOWZObHJKWHFnODl5UXpPYlFaVExwM2tYc3hhNzlJc2hUVFZQOUpGMGZrYmZHWkpB?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+      "yes": 1,
+      "change24h": 1,
+      "vol24h": 529775,
+      "headlines": [
+        {
+          "title": "What to watch for in the next Fed minutes",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMF9adjlpRlYzb2pmUEh0YnEtX3FHTjBFOWZHM1F0cGVadEtkYlUxNEE5X0ZCTkxmaE1rbzVMOEo3Wk56dFhMSUFUUHZxeVE3a0lQUW0xMUtsLXpiRnJkOWZObHJKWHFnODl5UXpPYlFaVExwM2tYc3hhNzlJc2hUVFZQOUpGMGZrYmZHWkpB?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Assessing a Medium-Run Natural Rate of Interest",
-          "source": "frbsf.org",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3RjT1EyVWRJUFdQcG9fTDRPcGdfR1ZhUHJIZmZULXB2NndIVGlJa2h0ZWp4RlhEa0E0a1dURFV1Ti0tdnlWaFZHWXJ5akxTazZNZk1Rdkl3c25zZUpQVks0SkRSb1NHU3h3VExzdmpBZmxHUnVEWHo5TTJxb2xxZTM2X0M3VjJucVhwNWQyM25oZUN4SVNmWlVaX0JOY0hOSUtGS0pLX3RuREZiVmpVVTE0Smh5UmdsNXJaZE15RDhjb3AtLWc?oc=5",
+          "title": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 11563,
+      "question": "Mykhailo Fedorov reinstated as Ukrainian Defense Minister by August 31, 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/mykhailo-fedorov-reinstated-as-ukrainian-defense-minister-by-august-31-2026-20260722051644333",
+      "yes": 0,
+      "change24h": -1,
+      "vol24h": 30045,
       "headlines": [
         {
-          "title": "Minnesota Timberwolves offseason recap, early 2026-27 season preview",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFBmNEVFOGNZOHdpYmc1bXhIWmxfV19aTmJYTXNMS0k4cW45bk1PMzdlc1pCQ1FKeFdzazNhdzF3R0lkci1zUmFld3l2UV9fSWlnNmRiRnp3MTA4dkRoOGhpUGFHajktODdsTTFjYTVDaVFQQWd4ZWNSOXRxV3ZwUS1FNXZ5eWk0bEMxd2RkcWNLT09WTWZla09QekEtMUtXLTJKYzQ4VWNHQzZUTWFuTWY2MGVrdk44eGJ1Ui1iTFExLVREcVppQVZFRQ?oc=5",
-          "cat": "NBA"
+          "title": "Best Biotech Stocks to Buy for August 2026",
+          "source": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "cat": "Biotech markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 8821,
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 6,
+      "change24h": 1,
+      "vol24h": 11024,
       "headlines": [
         {
-          "title": "Minnesota Timberwolves offseason recap, early 2026-27 season preview",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFBmNEVFOGNZOHdpYmc1bXhIWmxfV19aTmJYTXNMS0k4cW45bk1PMzdlc1pCQ1FKeFdzazNhdzF3R0lkci1zUmFld3l2UV9fSWlnNmRiRnp3MTA4dkRoOGhpUGFHajktODdsTTFjYTVDaVFQQWd4ZWNSOXRxV3ZwUS1FNXZ5eWk0bEMxd2RkcWNLT09WTWZla09QekEtMUtXLTJKYzQ4VWNHQzZUTWFuTWY2MGVrdk44eGJ1Ui1iTFExLVREcVppQVZFRQ?oc=5",
+          "title": "The NBA is on alert over the potential move of Dallas Mavericks star Klay Thompson to the Miami Heat, with the Los Angeles Lakers also interested",
+          "source": "marca.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZUE0TEFzWWVyVktITjJkY0RSdzlMNjF0RWlxWVJiMk0yekRud2RFUE51TzRMSHRON0N2SG9rV3l5OXkxNVN1TzRCWWd1MUlfU2RpcHZuUnljbUwxTEtpUWRtY3N1czltaXJTN3hOYjlsc2JONjZjc2xYYjE3eVJmNEZOcElsMGNwSmFQcU5nQUY3TEw2NnRtWVJZX3kxSW5taFVoNkRJWGJzbDFRUThWYzBLNUR3U0tDWmpzYUVScjcyOFMzcGxHYUE0MjdGN1BQT1BQeDRmSkpnSnBYYnBxQkJEbnJVV2dFV1FkTy1kck0tNEVfSXhtNkNnUkEtbC0zNzVKdFNkdGY2aU56ZEdVWFJiVk92NHpKUXhEc1NqU2pjcWJTODZZQm9Gb1lxdkJqVHpMMUlHeW3SAbgCQVVfeXFMUDlpd3N1ZVN1ajZzNUM4b1gtTkY3LTRFa2owMkRMOThySGs5ZVlselVuQjhVTHVuQ0loWXg0eVJoX01mSU56Y1hiQXUwNk51VDRxRmo5Y29vTjlGNG81MEZXNmJrbVBUSlZ5ZXdOeDZJMUdjTzgxa1gwdlQ5eXFiTmdYdmF6ejd5STBpTk9IZkl1YjNGSVVfcXFVQ05VcUdSMFRoVmxsaWxtZDNOeUJuWHBYTzQwdG9UTVFuMWhjbU9PQS1KdGItTWUwWGwxVUhObjVWWFZJTThTYUNLNmNuOUptR0o5Ri1pQWw2WWxCOFpuM052YndIQWxVZlN5b3VIN2drd0x6SUhLRlBaZlI1QmdrYTdLenh1dFJxdE10X3FrLXpVY0VmRmJrZkNQMU9kS3ZfVnBuUjJT?oc=5",
           "cat": "NBA"
+        },
+        {
+          "title": "Seahawks to sign former Cowboys, Packers All-Pro CB to one-year deal",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOW8xTTBOOTl4UUVzaFg4U0VCeFlUeXEzR0JheHA0aHRVUktTaUszSDg5eDRvaWZOM0ludGU1NWRGcWNRaUVlWnpxam9uNWRQNzBsaXpQcWFiRG95M01RaVRPTVFQVTVDSmt3OXhISTdPakN6c0RBQVc1MHdUVTV3TVBEa21UYjRweWotTHNB?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
+      "yes": 9,
+      "change24h": 0,
+      "vol24h": 71670,
+      "headlines": [
+        {
+          "title": "Seahawks to sign former Cowboys, Packers All-Pro CB to one-year deal",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOW8xTTBOOTl4UUVzaFg4U0VCeFlUeXEzR0JheHA0aHRVUktTaUszSDg5eDRvaWZOM0ludGU1NWRGcWNRaUVlWnpxam9uNWRQNzBsaXpQcWFiRG95M01RaVRPTVFQVTVDSmt3OXhISTdPakN6c0RBQVc1MHdUVTV3TVBEa21UYjRweWotTHNB?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Seahawks To Sign CB Trevon Diggs",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91aFp1bFZRSHlFYi03TTJvNXoyb1doNDdobTNNeF96RGNIVlZjVG00QTVyN2R3YV9XQ3huZHE3SmI3RzFqN01Xa1NjOGFoM09GeTZNOVpsSlZMc3U4MUdXNzY5ajRJRHNUTERMWXJFYXN4Q3V2MEk4QkNXMTZIZVk?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Jannik Sinner win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
-      "yes": 33,
-      "change24h": -9,
-      "vol24h": 58930,
+      "question": "Will Ethereum reach $2,750 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2750-by-december-31-2026-from-june-8",
+      "yes": 36,
+      "change24h": 14,
+      "vol24h": 12290,
       "headlines": []
     },
     {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 21,
-      "change24h": 7,
-      "vol24h": 61381,
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 67,
+      "change24h": -9,
+      "vol24h": 12165,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 34,
+      "change24h": -7,
+      "vol24h": 17093,
       "headlines": []
     }
   ]
