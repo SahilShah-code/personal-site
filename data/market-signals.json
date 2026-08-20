@@ -1,91 +1,73 @@
 {
-  "updated": "2026-08-20T12:21:27.971Z",
+  "updated": "2026-08-20T18:20:14.681Z",
   "withNews": [
     {
-      "question": "Will the price of Bitcoin be above $68,000 on August 22?",
+      "question": "Will Ethereum reach $2,400 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-68k-on-august-22-2026",
-      "yes": 94,
-      "change24h": 92,
-      "vol24h": 11941,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2400-in-august-2026",
+      "yes": 76,
+      "change24h": 65,
+      "vol24h": 125487,
       "headlines": [
         {
-          "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $68,000 on August 24?",
+      "question": "Will Bitcoin dip to $67,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-68k-on-august-24-2026",
-      "yes": 89,
-      "change24h": 85,
-      "vol24h": 52114,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-67pt5k-in-august-2026",
+      "yes": 28,
+      "change24h": -59,
+      "vol24h": 40838,
       "headlines": [
         {
-          "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $66,000 on August 22?",
+      "question": "Will Ethereum reach $2,400 August 17-23?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-august-22-2026",
-      "yes": 99,
-      "change24h": 85,
-      "vol24h": 10893,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2400-august-17-23-2026",
+      "yes": 55,
+      "change24h": 53,
+      "vol24h": 45703,
       "headlines": [
         {
-          "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0syUWR1dVM4V1cxSjJMZVBBQkRQcXhKWjhvTkp3eHdDV3ZtT3hiTEJFOV9MZU5Ud2RBOUNrSkxuQmxldmpzOVg3S2EzcjQtRjVNeFVOM3dNUk9pbGl4V29rNGJTenI3eTF0LXdWekJaMjdjWUtsYVNzY0RadmZNenBTMHVIMGVmY0lQUTByT2VydWh2VGVHS1ZBakR3azNlTWFRc0Vsb24zQ3oyNmRYWjZfOVhOa2tY?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Best Biotech Stocks to Buy for August 2026",
-          "source": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWXkyaXg4Q3V5d0p4LXVPSGgyNmJISEZjTDBzUXdOT3Y1b3ZxTFBmT3pXMU1rVldNd2REel9IaFBac2hZX1VibjczM0hFTmx1MUhOeXQyMkZXdy1vcW9sTzg3MmR6Q2F2QzVZYnhPcHY?oc=5",
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 27,
-      "change24h": -2,
-      "vol24h": 469660,
+      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
+      "topic": "Biotech",
+      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
+      "yes": 67,
+      "change24h": -4,
+      "vol24h": 41393,
       "headlines": [
         {
-          "title": "Trump urges Fed to cut interest rates, says 'they are so afraid of inflation'",
-          "source": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmR4Q1hpR0FNekc0NVpwbmczS1lmUXBtU3lSSkpQSGNDR0M0aHNOMjdZUUlNdjk2TFh1Mk5HdFp0NTJyTlhCZnVBMVdkLTM1WkhLV1BZV3liYkJXRTJLbXh4aFhiUDh5YkNJcEpra011VEtUUXlmMm5Hb0RVZldGQ2JaanFKRjl0S1dwcnBpRTJZUHptb2p4NmxYWWpMTWNlRHc?oc=5",
-          "cat": "Macro"
+          "title": "Finding the next Moderna: 5 biotech stocks with imminent FDA and trial catalysts",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSTJabmZVaXpqVFdlYlZpTVRXdExiX3FtYTBLeE8wSHVCS3FCTFhVblA3allVeVdKVGdUQ0JRSHJKbXhxXzFPeWNFZ2V6eWxuTVh5RDZRVjBJMDV1UlJmMjJLbjF0TVBNbVdqNUkwYUpZTkkxTzBxc1J6cER3QVNRaEd6UFdVSUY2X2x0LW1RX09sUEVNdDBteGZxZlUzNVJnYVZwNjNEWFZERWVuVjd3MEtLWklXZW1LTm00N3liTWFIUE01eHlOYVlfdGZVclo5V0MzeVBmRVpBT2lqRUlOS080RQ?oc=5",
+          "cat": "Biotech markets"
         },
         {
-          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
-          "cat": "Macro"
+          "title": "Greenlit by the FDA, yet too cheap to stay? Korea’s penny stock rule puts biotech firms on edge.",
+          "source": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSS1KaVl3SFFuT2FDR2NiMVJFWWt3Yl9VNkFqdW5FV3pLc01jWEhxaU5VZXdmSXlLc3NNVzc2QnVQV2dvQ3hDa3RDZHlXd185LVV1UkxPV2hGTzhWYXJ1UnlEQkhUa1RuUWNKOGpVZjhYcmdrb192NE5XVFEweXZQa3NhemVOTGpXaWJsVkFmenNobmM3YzZwdGpKYzZxb2hCbHVwMTY3R2xqd1E0c3p3YXZJSk5YZkVVX3lIYVJ3bDVDc0xuUzVxVkF6bllaX2g4M1BjWXVpbEFVVmREY3c?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -93,20 +75,42 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 73,
+      "yes": 72,
       "change24h": 1,
-      "vol24h": 531503,
+      "vol24h": 505835,
       "headlines": [
-        {
-          "title": "Trump urges Fed to cut interest rates, says 'they are so afraid of inflation'",
-          "source": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmR4Q1hpR0FNekc0NVpwbmczS1lmUXBtU3lSSkpQSGNDR0M0aHNOMjdZUUlNdjk2TFh1Mk5HdFp0NTJyTlhCZnVBMVdkLTM1WkhLV1BZV3liYkJXRTJLbXh4aFhiUDh5YkNJcEpra011VEtUUXlmMm5Hb0RVZldGQ2JaanFKRjl0S1dwcnBpRTJZUHptb2p4NmxYWWpMTWNlRHc?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
           "source": "PBS",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhMcXlGelNialZZS3RvOVY3SEVreGlyV1dabkJZV0JqcnpSM0ZGcGo2czdoM01KVXZOUDJYUTBVdXFfMWtZZi1meWRqa2dmYXhKR2RPalNEdllhSFNlczhVbkhRR1g4ZGNvQWp6RHQtV0dsZHUzdEFkTW55RmlHSWpacS01WWxHVXpjQ1F6TUJKQ0ZGNlA0MlIzVjFTSy1UR1F0RHNGb0RLbTlKY2Zz0gG0AUFVX3lxTE43N2E0eUEzem1JR1ZwR0ZVWk5ocWp4WlRmRWQ3VEotRDBhUllXZkdUUmVGd2o5akJiakNYcHdJelk3eHJvalJVWUZia3NtU1RRSExNYUJqLWROejZzV0ZxcnlNMUdLSkxXUTZtcGtGd0RHVWlLeXUtWGplbG5Od3ZXOExYUS00V0NfSWNGcVdqdkRFYTg3ZUJ2UGZ0OVFpTFNrcXNCLVQzMDRITzBzcm1rNk44Yw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 28,
+      "change24h": -1,
+      "vol24h": 453287,
+      "headlines": [
+        {
+          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhMcXlGelNialZZS3RvOVY3SEVreGlyV1dabkJZV0JqcnpSM0ZGcGo2czdoM01KVXZOUDJYUTBVdXFfMWtZZi1meWRqa2dmYXhKR2RPalNEdllhSFNlczhVbkhRR1g4ZGNvQWp6RHQtV0dsZHUzdEFkTW55RmlHSWpacS01WWxHVXpjQ1F6TUJKQ0ZGNlA0MlIzVjFTSy1UR1F0RHNGb0RLbTlKY2Zz0gG0AUFVX3lxTE43N2E0eUEzem1JR1ZwR0ZVWk5ocWp4WlRmRWQ3VEotRDBhUllXZkdUUmVGd2o5akJiakNYcHdJelk3eHJvalJVWUZia3NtU1RRSExNYUJqLWROejZzV0ZxcnlNMUdLSkxXUTZtcGtGd0RHVWlLeXUtWGplbG5Od3ZXOExYUS00V0NfSWNGcVdqdkRFYTg3ZUJ2UGZ0OVFpTFNrcXNCLVQzMDRITzBzcm1rNk44Yw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -117,116 +121,116 @@
       "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
       "yes": 86,
       "change24h": 1,
-      "vol24h": 43747,
+      "vol24h": 33463,
       "headlines": [
-        {
-          "title": "Trump urges Fed to cut interest rates, says 'they are so afraid of inflation'",
-          "source": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmR4Q1hpR0FNekc0NVpwbmczS1lmUXBtU3lSSkpQSGNDR0M0aHNOMjdZUUlNdjk2TFh1Mk5HdFp0NTJyTlhCZnVBMVdkLTM1WkhLV1BZV3liYkJXRTJLbXh4aFhiUDh5YkNJcEpra011VEtUUXlmMm5Hb0RVZldGQ2JaanFKRjl0S1dwcnBpRTJZUHptb2p4NmxYWWpMTWNlRHc?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
           "source": "PBS",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhMcXlGelNialZZS3RvOVY3SEVreGlyV1dabkJZV0JqcnpSM0ZGcGo2czdoM01KVXZOUDJYUTBVdXFfMWtZZi1meWRqa2dmYXhKR2RPalNEdllhSFNlczhVbkhRR1g4ZGNvQWp6RHQtV0dsZHUzdEFkTW55RmlHSWpacS01WWxHVXpjQ1F6TUJKQ0ZGNlA0MlIzVjFTSy1UR1F0RHNGb0RLbTlKY2Zz0gG0AUFVX3lxTE43N2E0eUEzem1JR1ZwR0ZVWk5ocWp4WlRmRWQ3VEotRDBhUllXZkdUUmVGd2o5akJiakNYcHdJelk3eHJvalJVWUZia3NtU1RRSExNYUJqLWROejZzV0ZxcnlNMUdLSkxXUTZtcGtGd0RHVWlLeXUtWGplbG5Od3ZXOExYUS00V0NfSWNGcVdqdkRFYTg3ZUJ2UGZ0OVFpTFNrcXNCLVQzMDRITzBzcm1rNk44Yw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 74,
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 27046,
+      "vol24h": 41836,
       "headlines": [
         {
-          "title": "Greenlit by the FDA, yet too cheap to stay? Korea’s penny stock rule puts biotech firms on edge.",
-          "source": "Korea JoongAng Daily",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSS1KaVl3SFFuT2FDR2NiMVJFWWt3Yl9VNkFqdW5FV3pLc01jWEhxaU5VZXdmSXlLc3NNVzc2QnVQV2dvQ3hDa3RDZHlXd185LVV1UkxPV2hGTzhWYXJ1UnlEQkhUa1RuUWNKOGpVZjhYcmdrb192NE5XVFEweXZQa3NhemVOTGpXaWJsVkFmenNobmM3YzZwdGpKYzZxb2hCbHVwMTY3R2xqd1E0c3p3YXZJSk5YZkVVX3lIYVJ3bDVDc0xuUzVxVkF6bllaX2g4M1BjWXVpbEFVVmREY3c?oc=5",
-          "cat": "Biotech markets"
+          "title": "Replay | 3rd round ATP, WTA results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzdZbTRockd1bmtaaDVSMVp1cVBmSzc4VnZTZjBmSmJlc3JXZDY4QUxqeFhSR3N5eW5uRU1zVHQzNDBXMmJBM0xnd3dvaFZ0WlJfRlExbGFPOEVEeDU1aDRZV19nYVNMNFhTT19kdnptcGlJdkFBWDlNS3cxeTMzVUVqWmd2ZEtBSXBJTy1VMTBwX083MURVVE1VdjlDU1M5MDJka2k4MVhwRHBhNnBFSWx3?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Locals advance in doubles, Williams sisters out of Cincinnati Open | Replay",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0pPTjF3YjRGX2w4RktwNVJ4QUVLVGR1NHAyTnZkTkNKbkFQQ1pmbFRHcHhHalVpS1NIYmZVb3Q0SzJNbENPQy1UaFUwMEFpekFNb1hCS09KWjViVTdwRVU4MFFyRlIxeVBONFpFQ3h2TnRxRVFwdWtLVHpOZ19BSk9DUWp3THFTV1dFOEdCWmpiWnpRa2VFcVk4SFRkSVNGaC1pOS1nN1NFZ01USG9oc0ZIUkJLdw?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C: Bulgaria vs Luxembourg",
+      "question": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C: Greece vs Israel",
       "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-bgr-lux-2026-08-20",
-      "yes": 100,
-      "change24h": 60,
-      "vol24h": 12056,
+      "url": "https://polymarket.com/event/crint-grc-isr-2026-08-20",
+      "yes": 0,
+      "change24h": -58,
+      "vol24h": 26297,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "yes": 34,
-      "change24h": -39,
-      "vol24h": 90993,
+      "yes": 31,
+      "change24h": -26,
+      "vol24h": 86096,
       "headlines": []
     },
     {
       "question": "Will Ethereum reach $2,500 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2500-by-december-31-2026-from-june-8",
-      "yes": 77,
-      "change24h": 38,
-      "vol24h": 26676,
+      "yes": 82,
+      "change24h": 26,
+      "vol24h": 20423,
       "headlines": []
     },
     {
-      "question": "Will Ethereum reach $2,750 by December 31, 2026?",
+      "question": "Will Bitcoin reach $75,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2750-by-december-31-2026-from-june-8",
-      "yes": 54,
-      "change24h": 32,
-      "vol24h": 13916,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-75000-by-december-31-2026-from-june-8",
+      "yes": 85,
+      "change24h": 20,
+      "vol24h": 66133,
       "headlines": []
     },
     {
       "question": "Will Ethereum reach $3,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8",
-      "yes": 38,
-      "change24h": 23,
-      "vol24h": 16023,
+      "yes": 42,
+      "change24h": 20,
+      "vol24h": 14254,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 48,
+      "change24h": -15,
+      "vol24h": 65266,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 24,
-      "change24h": -16,
-      "vol24h": 54347,
+      "yes": 20,
+      "change24h": -14,
+      "vol24h": 63654,
       "headlines": []
     },
     {
-      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "question": "Will Bitcoin reach $80,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
-      "yes": 21,
-      "change24h": 14,
-      "vol24h": 30048,
-      "headlines": []
-    },
-    {
-      "question": "ICC Men's T20 World Cup Europe Sub Regional Qualifier C: Czechia vs Portugal",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-cze-prt-2026-08-20",
-      "yes": 0,
-      "change24h": -10,
-      "vol24h": 20905,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
+      "yes": 61,
+      "change24h": 12,
+      "vol24h": 62626,
       "headlines": []
     }
   ]
