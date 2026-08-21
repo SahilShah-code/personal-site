@@ -1,46 +1,64 @@
 {
-  "updated": "2026-08-21T06:23:59.685Z",
+  "updated": "2026-08-21T12:21:11.486Z",
   "withNews": [
-    {
-      "question": "Will the price of Bitcoin be above $72,000 on August 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-72k-on-august-23-2026",
-      "yes": 90,
-      "change24h": 79,
-      "vol24h": 15154,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $76,000 August 17-23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-76k-august-17-23-2026",
-      "yes": 79,
-      "change24h": 76,
-      "vol24h": 113287,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will the price of Bitcoin be above $74,000 on August 23?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-74k-on-august-23-2026",
-      "yes": 70,
-      "change24h": 66,
-      "vol24h": 14747,
+      "yes": 90,
+      "change24h": 68,
+      "vol24h": 22451,
       "headlines": [
+        {
+          "title": "Stock Market Today: Dow Futures Edges Higher; Yields Steady; Bitcoin Nears $80,000 — Live Updates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $72,000 on August 23?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-72k-on-august-23-2026",
+      "yes": 97,
+      "change24h": 47,
+      "vol24h": 20657,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Dow Futures Edges Higher; Yields Steady; Bitcoin Nears $80,000 — Live Updates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026",
+      "yes": 58,
+      "change24h": 43,
+      "vol24h": 371437,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Dow Futures Edges Higher; Yields Steady; Bitcoin Nears $80,000 — Live Updates",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -54,8 +72,8 @@
       "topic": "Biotech",
       "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
       "yes": 68,
-      "change24h": -5,
-      "vol24h": 21297,
+      "change24h": -6,
+      "vol24h": 16061,
       "headlines": [
         {
           "title": "Finding the next Moderna: 5 biotech stocks with imminent FDA and trial catalysts",
@@ -72,12 +90,12 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 28,
-      "change24h": 1,
-      "vol24h": 381162,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 71,
+      "change24h": -2,
+      "vol24h": 235606,
       "headlines": [
         {
           "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a \"Bad News Is Good News\" Event for the Fed.",
@@ -94,12 +112,12 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 72,
-      "change24h": -1,
-      "vol24h": 352068,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 28,
+      "change24h": 1,
+      "vol24h": 367167,
       "headlines": [
         {
           "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a \"Bad News Is Good News\" Event for the Fed.",
@@ -119,9 +137,9 @@
       "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
-      "yes": 5,
+      "yes": 4,
       "change24h": 1,
-      "vol24h": 47352,
+      "vol24h": 47712,
       "headlines": [
         {
           "title": "Replay | ATP, WTA quarterfinal results at the Cincinnati Open",
@@ -141,9 +159,9 @@
       "question": "Will no Fed rate cuts happen in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
-      "yes": 86,
+      "yes": 87,
       "change24h": 1,
-      "vol24h": 27871,
+      "vol24h": 38632,
       "headlines": [
         {
           "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a \"Bad News Is Good News\" Event for the Fed.",
@@ -160,141 +178,75 @@
       ]
     },
     {
-      "question": "Will Amanda Anisimova win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-amanda-anisimova-win-the-2026-womens-us-open",
-      "yes": 3,
-      "change24h": -1,
-      "vol24h": 19259,
-      "headlines": [
-        {
-          "title": "Maracanã to host opening game and final at next year’s Women’s World Cup",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVJjS3U3TU9mMzB6R2s4WDk3RHdPMGRDRG1HZlZKS3hIc1cyTWVfOTJ4RnBERktXN2U5ZHp3ZlE3NVdIWmdfZUxOVk9LeGYxU2d5MGd6SDZwdEJENENqOTMtaVlwdUd6NFRUN0NkZk90Z3lRMmdEUnlIZ3gzc0xrS1BBYmNWczBoQ2Zwb0xpTXV5RFR0Ykt3RGxmaVctS3dNM1hVZ2o3akZaM2cwbzdTV1R5UnhVUnJvX3hV?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 56265,
-      "headlines": [
-        {
-          "title": "San Francisco 49ers vs. Los Angeles Chargers highlights | Preseason Week 2",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXJTajdqNFNINHNLSjFmQ3NHd0NwbklxSmIzQkljWDJLd1FRU3hoaktVZ18wUDhaYUhfZ1pkYkNKLXNXNGtBSTBRQ3lmT1VFa2c3a19hN2MwR2Zzb1AybFFxUDJvUnQwb05lcDRLTzBldXlUTl9GNF9nM1RWeXkzZHZ5NjY?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Houston Rockets win the 2027 NBA Finals?",
+      "question": "Will Orlando Magic win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
-      "yes": 2,
+      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 45893,
+      "vol24h": 19082,
       "headlines": [
         {
-          "title": "The Houston Template: How FIFA World Cup 2026 Set a New Standard for Host City Legacy",
-          "source": "iSportConnect",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZjhrX1JrNlpoOVBLZmdOLVM0dnFUTUJ5eU1xR01wNFRrcTMwdW5VVmtHUFpRNERaZWFXYmhlVDhmVHJIbkNtTVdhZXZGUWNJR2tEQzlHbjBrdl91OWtwaUJ3MmZSLUV0emdJZzVnc0V0ZEhSWXRjd0dkUHBENVNyQkFhVjBxcGd4TUdWVXU0QXdOWUJ5anpYeGdvZFEzREs5QkM0UHpnTHo0ZWxwcDdPYmdNUUI2Zw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 14972,
-      "headlines": [
-        {
-          "title": "San Francisco 49ers vs. Los Angeles Chargers highlights | Preseason Week 2",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXJTajdqNFNINHNLSjFmQ3NHd0NwbklxSmIzQkljWDJLd1FRU3hoaktVZ18wUDhaYUhfZ1pkYkNKLXNXNGtBSTBRQ3lmT1VFa2c3a19hN2MwR2Zzb1AybFFxUDJvUnQwb05lcDRLTzBldXlUTl9GNF9nM1RWeXkzZHZ5NjY?oc=5",
-          "cat": "NFL"
+          "title": "Magic schedule takeaways: What to watch during Orlando’s 2026-27 NBA season",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2tMR25tUEJ2UndTSlFhNU1XVGR3VTE5bVd6NFVCcFhQbWZ6TG9FSnl0SmhBTEFWOEx5WWVub09LY1hLQkZSVlBseG5jT0tQTE1mN1ZlVHlFdmZZV0JURURLd1ltTnA2Rkp4Qm9zV3VIeHNuZEF2amxUWTF6ZERvbjFxWjZMcFgwS1FZaWlDNA?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $80,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
-      "yes": 74,
-      "change24h": 26,
-      "vol24h": 65984,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 37,
-      "change24h": -18,
-      "vol24h": 47103,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 39,
-      "change24h": 17,
-      "vol24h": 38600,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 54,
-      "change24h": 16,
-      "vol24h": 74722,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 26,
-      "change24h": -14,
-      "vol24h": 195144,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 28,
-      "change24h": 14,
-      "vol24h": 20021,
-      "headlines": []
-    },
-    {
       "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 14,
-      "change24h": -11,
-      "vol24h": 99203,
+      "yes": 16,
+      "change24h": -8,
+      "vol24h": 110976,
       "headlines": []
     },
     {
       "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 27,
-      "change24h": 9,
-      "vol24h": 96248,
+      "yes": 26,
+      "change24h": 8,
+      "vol24h": 97609,
+      "headlines": []
+    },
+    {
+      "question": "Will another city host the final of the 2030 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
+      "yes": 45,
+      "change24h": 8,
+      "vol24h": 11424,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $4,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-4000-by-december-31-2026",
+      "yes": 16,
+      "change24h": 6,
+      "vol24h": 19444,
+      "headlines": []
+    },
+    {
+      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
+      "yes": 11,
+      "change24h": -4,
+      "vol24h": 33747,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
+      "yes": 25,
+      "change24h": 4,
+      "vol24h": 10930,
       "headlines": []
     }
   ]
