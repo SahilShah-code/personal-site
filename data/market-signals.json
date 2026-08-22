@@ -1,51 +1,85 @@
 {
-  "updated": "2026-08-21T18:19:40.614Z",
+  "updated": "2026-08-22T00:31:07.051Z",
   "withNews": [
+    {
+      "question": "Will the price of Ethereum be above $2,400 on August 23?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2400-on-august-23-2026",
+      "yes": 88,
+      "change24h": 61,
+      "vol24h": 10340,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026",
+      "yes": 73,
+      "change24h": 53,
+      "vol24h": 422302,
+      "headlines": [
+        {
+          "title": "Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market Today: Bitcoin Surges Above $77,000, S&P 500 Posts Weekly Loss, Oil price at $94",
+          "source": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLWNGczZfcDNQdS1fZ2x1ekRTbnZTR1JqUDVqWjFvUnhqSUxPSy11MTRsaFc4a0R4a19rRHg4S1RPYVlGMWZRQ1c0QVVHX1Nhc25IMmxaeEZMbWFPVUFXeXEya0cyUmc1SmY5SDlpN2Y3WDQyVjJROXZrdndlY2hla3NwdElzam5XeGlrMTVGbUtyTDRqMk9keFRuOUNUZHUwQzV3bDFWck9mZEJGVHBNVmF2Wi1rNjNKWHBDVVlacnVSZTNkdEpRbHNB?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
     {
       "question": "Will the price of Bitcoin be above $74,000 on August 23?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-74k-on-august-23-2026",
-      "yes": 96,
-      "change24h": 72,
-      "vol24h": 29675,
+      "yes": 98,
+      "change24h": 52,
+      "vol24h": 48916,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWg3azFqLWQ4Wk4weVZuYVFjYVBwZnBuak94TWxuUlZNQ1BZWXNzaWhfR05teG1VWEtrNVdwZFRxTmZCVTdRVkFuZm9hLS1XSV8wUlQwckE4UWk4MXJxdVNFZWllNktGaUxMRFNEN25TVXJveDBEYWFhMUVXazR1VTBQR200UFE?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Stock Market Today: Bitcoin Surges Above $77,000, S&P 500 Posts Weekly Loss, Oil price at $94",
+          "source": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLWNGczZfcDNQdS1fZ2x1ekRTbnZTR1JqUDVqWjFvUnhqSUxPSy11MTRsaFc4a0R4a19rRHg4S1RPYVlGMWZRQ1c0QVVHX1Nhc25IMmxaeEZMbWFPVUFXeXEya0cyUmc1SmY5SDlpN2Y3WDQyVjJROXZrdndlY2hla3NwdElzam5XeGlrMTVGbUtyTDRqMk9keFRuOUNUZHUwQzV3bDFWck9mZEJGVHBNVmF2Wi1rNjNKWHBDVVlacnVSZTNkdEpRbHNB?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $74,000 on August 24?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-74k-on-august-24-2026",
-      "yes": 91,
-      "change24h": 64,
-      "vol24h": 11087,
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 56,
+      "change24h": 7,
+      "vol24h": 174383,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-august-2026",
-      "yes": 16,
-      "change24h": -55,
-      "vol24h": 70648,
-      "headlines": [
+          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
+          "cat": "Macro"
+        },
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhMcXlGelNialZZS3RvOVY3SEVreGlyV1dabkJZV0JqcnpSM0ZGcGo2czdoM01KVXZOUDJYUTBVdXFfMWtZZi1meWRqa2dmYXhKR2RPalNEdllhSFNlczhVbkhRR1g4ZGNvQWp6RHQtV0dsZHUzdEFkTW55RmlHSWpacS01WWxHVXpjQ1F6TUJKQ0ZGNlA0MlIzVjFTSy1UR1F0RHNGb0RLbTlKY2Zz0gG0AUFVX3lxTE43N2E0eUEzem1JR1ZwR0ZVWk5ocWp4WlRmRWQ3VEotRDBhUllXZkdUUmVGd2o5akJiakNYcHdJelk3eHJvalJVWUZia3NtU1RRSExNYUJqLWROejZzV0ZxcnlNMUdLSkxXUTZtcGtGd0RHVWlLeXUtWGplbG5Od3ZXOExYUS00V0NfSWNGcVdqdkRFYTg3ZUJ2UGZ0OVFpTFNrcXNCLVQzMDRITzBzcm1rNk44Yw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -55,40 +89,18 @@
       "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
       "yes": 35,
       "change24h": 7,
-      "vol24h": 12955,
+      "vol24h": 12835,
       "headlines": [
         {
-          "title": "Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase",
-          "source": "Vinanet",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTBhNExhMzl1NkpidkttOEdNd2JKdzNraDJCamRDOXhIQy1YMEJLbEFNYkhsZm5manB1SUNna3hTN21BWjBtLXJmblFoUVJ4Wmw2QnB0Q2YyQ1NnY0FKdGRib3R2LThheWJraUpmcHZXb3FmSy1rdlA5eVp1Z1hLTUJBRU1QTFJxNXVQdU00QzN4U3Vnakc0TmVBaWpLVXNWLU00NjBJdUpfdFJkR1RIQ0RhSE5iMmtuOU9fTmtjbjNhT2JDSXc?oc=5",
+          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Trump calls for lower interest rates as Fed officials watch inflation",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 55,
-      "change24h": 5,
-      "vol24h": 156336,
-      "headlines": [
-        {
-          "title": "Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase",
-          "source": "Vinanet",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTBhNExhMzl1NkpidkttOEdNd2JKdzNraDJCamRDOXhIQy1YMEJLbEFNYkhsZm5manB1SUNna3hTN21BWjBtLXJmblFoUVJ4Wmw2QnB0Q2YyQ1NnY0FKdGRib3R2LThheWJraUpmcHZXb3FmSy1rdlA5eVp1Z1hLTUJBRU1QTFJxNXVQdU00QzN4U3Vnakc0TmVBaWpLVXNWLU00NjBJdUpfdFJkR1RIQ0RhSE5iMmtuOU9fTmtjbjNhT2JDSXc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump calls for lower interest rates as Fed officials watch inflation",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
+          "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhMcXlGelNialZZS3RvOVY3SEVreGlyV1dabkJZV0JqcnpSM0ZGcGo2czdoM01KVXZOUDJYUTBVdXFfMWtZZi1meWRqa2dmYXhKR2RPalNEdllhSFNlczhVbkhRR1g4ZGNvQWp6RHQtV0dsZHUzdEFkTW55RmlHSWpacS01WWxHVXpjQ1F6TUJKQ0ZGNlA0MlIzVjFTSy1UR1F0RHNGb0RLbTlKY2Zz0gG0AUFVX3lxTE43N2E0eUEzem1JR1ZwR0ZVWk5ocWp4WlRmRWQ3VEotRDBhUllXZkdUUmVGd2o5akJiakNYcHdJelk3eHJvalJVWUZia3NtU1RRSExNYUJqLWROejZzV0ZxcnlNMUdLSkxXUTZtcGtGd0RHVWlLeXUtWGplbG5Od3ZXOExYUS00V0NfSWNGcVdqdkRFYTg3ZUJ2UGZ0OVFpTFNrcXNCLVQzMDRITzBzcm1rNk44Yw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -99,121 +111,57 @@
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 33,
       "change24h": 5,
-      "vol24h": 21313,
+      "vol24h": 14636,
       "headlines": [
         {
-          "title": "Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase",
-          "source": "Vinanet",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORTBhNExhMzl1NkpidkttOEdNd2JKdzNraDJCamRDOXhIQy1YMEJLbEFNYkhsZm5manB1SUNna3hTN21BWjBtLXJmblFoUVJ4Wmw2QnB0Q2YyQ1NnY0FKdGRib3R2LThheWJraUpmcHZXb3FmSy1rdlA5eVp1Z1hLTUJBRU1QTFJxNXVQdU00QzN4U3Vnakc0TmVBaWpLVXNWLU00NjBJdUpfdFJkR1RIQ0RhSE5iMmtuOU9fTmtjbjNhT2JDSXc?oc=5",
+          "title": "Jackson Hole Meeting Gives Fed’s Kevin Warsh a Chance to Quell Market Fears",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1JPZVBoQ1hJN0lMRjc1Nk1ob2pSOUo5QjhmcnRWU1JHNVZYZkN5clcyQkJtS3dCNDgydU9YSEN6aWd2bmctLXdzZGRNUTNSTnZwSXFwZGtuN1dHSlpGNG5OZXdkcXlkWlNDZGd3Tjh3SVJPc0EzTXlGVW0tUDhRRGYzVUp1ZHRyMXdkYVlJdw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Trump calls for lower interest rates as Fed officials watch inflation",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
+          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Arthur Fils win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-arthur-fils-win-the-2026-mens-us-open",
-      "yes": 4,
-      "change24h": 3,
-      "vol24h": 36682,
-      "headlines": [
-        {
-          "title": "Ohio State’s new offense: Fewer plays, more purpose under new offensive coordinator Arthur Smith",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS1kyaTZxcG5uam80YlFIUmRNNGNsTFZabVF6OUlzYXlJUUxrYlRGaUFJS2hWTVA0b0s0bGFJRG5CS0pHS1V2VDVzLW9ZUDJaZnA3M0x4V1hsRGZIcFN3T0J5Z3NPcnV3UlZ6TkRxTXJ1UVk5UC1qX3FLbE45SGNLVk1zQ2I1QQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Ben Shelton win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
-      "yes": 8,
-      "change24h": 3,
-      "vol24h": 23737,
-      "headlines": [
-        {
-          "title": "Actor Ben Baller explains why Magic Johnson was superior to Michael Jordan: \"Magic was the greatest I ever seen\"",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE1tcjZLdWctWG04dXUtX2FJRzdlZlRGU1kyU2xfamwwMFBURmdJM0dYWFNoN3dDZkxYdFJMZ3pxRHczRFU0SzZaVkdtc2g5WFhid2hGd0hYSW5xYm9GTDZjdnVRVGJCTDM1blhHR3JXZE5NNW04RTNldDBHdHRyaFJ0Y3o?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the New England Patriots win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 26891,
-      "headlines": [
-        {
-          "title": "U.K. PM explores bid for men’s FIFA World Cup in north of England",
-          "source": "Sports Business Journal",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYlR0TjlaREt3eUgwS3VNc0cxWnhiWEYzN2oway1qYkp5VTVXcDBTclJnMEluQlc3T2RRMlM2bVVSQXlQN0EtUExnUC1JakZSWFFyQnlrY2F2ZUNuUFRpa09fZGxKWDhuRjMzVmx4T2xpSFZMWnlteHkzU1d1UEVBUURGTUJzR0FhQjMzc3JxUUlBRl92VlJXdHJWQ3Y3NExiT3VwbVAzSGNRYXo3c0JSeXNEb0VEdy1UVVp2cGJn?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Amanda Anisimova win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-amanda-anisimova-win-the-2026-womens-us-open",
+      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 21309,
+      "vol24h": 26816,
       "headlines": [
         {
-          "title": "FIFA Announces 2027 Women’s World Cup Schedule",
-          "source": "WFXB",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMEhzeFRxR3F1dzNMSi1Nb2lqMEdOQWM2aEFRaUc4N2ZCbnZ3TEtQMWdGaTF3d3FsQ3JtSnJmalhheWJwdGFXc3NsY0V1Ni02MmZjX3ZETHlPX3RmQkZXT3AyRUp0Y01QMTZqb01LQWhtc3JMSmlqTXhwbGFyb2FzZm1wMzM?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "T20 World Cup Sub Regional Europe Qualifier C: Spain vs Portugal",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-esp-prt-2026-08-21",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 19726,
-      "headlines": [
-        {
-          "title": "USA men's players in Europe: Where are USMNT's World Cup squad members, 2030 hopefuls?",
+          "title": "Nuggets Sign 6x NBA All-Star Demar DeRozan After Peyton Watson Trade",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDUwSXpUemQtM0VNTUhvc2NEOVF0MUROdmk0SWNFcDIzYlZPZVRJZ3NrelZ3RkthTHBmODcwZzVYbm1lRDFFMTlXcExFcF9QWEE4elJjTkxwYU5iODdSMWxKd1BrNUYwNzc4bmlfVU5qcnJRMF9OczdIVllWZzBUb2N0VUU?oc=5",
-          "cat": "World Cup"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FVzZMaUthSU5jSUFDalJpMF9qRFF6dFVlU3dzRHFJVk8xTDNPNWFIWUR4Rmh0NlJ2ZGZ1c2NXdmFodGZQLTdjUlZfOFY2dkRYc0RQczFuMV9BN2plMkMtNjFCc0g2ekc3VjdoY3RvU2psMFNFcGZ0dE42X0U2dw?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlRWem56bXU5NlE2ZTNMQzJmcmhYNGUzT3hHdGJfcnIxaGNvdFFKSUl0Ui1PSWladHdha3BaOGVidmE0QW41SFRoa0NHa09ic2E5MXRxckxJQXJ3NWNQWEtlTnBXeXNOakR5bzJ1eG5HYWJUb0pBeDNjRlR5MEFQQTM0THZtdHM?oc=5",
-          "cat": "World Cup"
+          "title": "DeMar DeRozan agrees with Nuggets on 1-year deal for veteran minimum, AP source says",
+          "source": "Times Union",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaW14dVJXUzlvT1BCOEdYVnQza0lQckZaNXJFZGRva1JYbmtic1ZnaUFCTzRPbHNDMTRrd1pUbERTeVdGSlgwcVRGRjl5NFRxX2taazUtWHhxX012cFRjSXNYZ2JTOHk4OWoxMGV5UjYtVGIzbnUyX0ZaM3p5djN4a01EVWpDRF9FajQ1R3JUVno1Z3pVVklNaDBscUp3QS1FS1c0Z1ZB?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Orlando Magic win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
-      "yes": 1,
+      "question": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 10521,
+      "vol24h": 24046,
       "headlines": [
         {
-          "title": "Actor Ben Baller explains why Magic Johnson was superior to Michael Jordan: \"Magic was the greatest I ever seen\"",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE1tcjZLdWctWG04dXUtX2FJRzdlZlRGU1kyU2xfamwwMFBURmdJM0dYWFNoN3dDZkxYdFJMZ3pxRHczRFU0SzZaVkdtc2g5WFhid2hGd0hYSW5xYm9GTDZjdnVRVGJCTDM1blhHR3JXZE5NNW04RTNldDBHdHRyaFJ0Y3o?oc=5",
-          "cat": "NBA"
+          "title": "Jonathon Brooks' TD run opens the scoring in Panthers-Jaguars preseason game",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzBtVnJTcEd1ZkFaUUN6U1VjZ25MMGJheXBBOUhudXFxQmFyOVVQeHdfVURwN2kzTHZQVGt1VVVQZWJ1NXVGUzJGM2RrYThFamdaT1dmRllvOGJKUzk5X01RcFlyM3ExVDktbGg5MWtYaC1UT1ROTTUycHB2QkQxckUtUlZxLVliTkZLdHFPMzR6V2RMM1dqX3Uxc2VwS2NMYk84aQ?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -225,70 +173,70 @@
       "url": "https://polymarket.com/event/will-jannik-sinner-win-the-2026-mens-us-open",
       "yes": 0,
       "change24h": -34,
-      "vol24h": 151105,
+      "vol24h": 147817,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $80,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80000-by-december-31-2026-from-june-8",
-      "yes": 88,
-      "change24h": 27,
-      "vol24h": 114224,
+      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
+      "yes": 32,
+      "change24h": 12,
+      "vol24h": 17501,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,750 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 64,
-      "change24h": 20,
-      "vol24h": 80557,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 48,
-      "change24h": 16,
-      "vol24h": 62138,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 37,
-      "change24h": 14,
-      "vol24h": 14933,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 36,
-      "change24h": -12,
-      "vol24h": 56105,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 27,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2750-by-december-31-2026-from-june-8",
+      "yes": 75,
       "change24h": 11,
-      "vol24h": 127651,
+      "vol24h": 10878,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 26,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "yes": 19,
       "change24h": -10,
-      "vol24h": 137297,
+      "vol24h": 66704,
+      "headlines": []
+    },
+    {
+      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
+      "yes": 21,
+      "change24h": 9,
+      "vol24h": 44018,
+      "headlines": []
+    },
+    {
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "yes": 33,
+      "change24h": 6,
+      "vol24h": 64135,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 12,
+      "change24h": -5,
+      "vol24h": 104829,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $4,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-4000-by-december-31-2026",
+      "yes": 16,
+      "change24h": 5,
+      "vol24h": 16253,
       "headlines": []
     }
   ]
