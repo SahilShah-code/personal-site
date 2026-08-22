@@ -1,83 +1,73 @@
 {
-  "updated": "2026-08-22T12:14:32.667Z",
+  "updated": "2026-08-22T18:11:57.542Z",
   "withNews": [
     {
-      "question": "Will Ethereum reach $2,600 in August?",
+      "question": "Will Bitcoin reach $87,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-august-2026",
-      "yes": 48,
-      "change24h": 15,
-      "vol24h": 84926,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-august-2026",
+      "yes": 11,
+      "change24h": -18,
+      "vol24h": 47148,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $74,000 on August 24?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-74k-on-august-24-2026",
-      "yes": 90,
-      "change24h": 7,
-      "vol24h": 13996,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 56,
-      "change24h": 6,
-      "vol24h": 184436,
-      "headlines": [
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Bitcoin Scores a Rare Win Over the S&P 500 With a 2.6% Rally",
+          "source": "Memeburn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8weTlvUk96bjJNNWNoVmtsREdzQnhsaXRXYldMbzZ0ZFdmV01DNy1DRGJKYUMzR3J3bkZ4NGZXNUxOUTVGeU03T2g5VWV2UjNMY2pvMk5YcWFFUE9lX0E?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $70,000 in August?",
+      "question": "Will Bitcoin dip to $75,000 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-august-2026",
-      "yes": 18,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
+      "yes": 66,
+      "change24h": 5,
+      "vol24h": 37147,
+      "headlines": [
+        {
+          "title": "Bitcoin Scores a Rare Win Over the S&P 500 With a 2.6% Rally",
+          "source": "Memeburn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8weTlvUk96bjJNNWNoVmtsREdzQnhsaXRXYldMbzZ0ZFdmV01DNy1DRGJKYUMzR3J3bkZ4NGZXNUxOUTVGeU03T2g5VWV2UjNMY2pvMk5YcWFFUE9lX0E?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 43,
       "change24h": -5,
-      "vol24h": 75404,
+      "vol24h": 26241,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Bitcoin Scores a Rare Win Over the S&P 500 With a 2.6% Rally",
+          "source": "Memeburn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8weTlvUk96bjJNNWNoVmtsREdzQnhsaXRXYldMbzZ0ZFdmV01DNy1DRGJKYUMzR3J3bkZ4NGZXNUxOUTVGeU03T2g5VWV2UjNMY2pvMk5YcWFFUE9lX0E?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
-      "yes": 34,
-      "change24h": 4,
-      "vol24h": 15588,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 28,
+      "change24h": 3,
+      "vol24h": 16789,
       "headlines": [
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -94,12 +84,12 @@
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 32,
-      "change24h": 4,
-      "vol24h": 13328,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 69,
+      "change24h": 1,
+      "vol24h": 156871,
       "headlines": [
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -108,41 +98,69 @@
           "cat": "Macro"
         },
         {
-          "title": "Jackson Hole Meeting Gives Fed’s Kevin Warsh a Chance to Quell Market Fears",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON1JPZVBoQ1hJN0lMRjc1Nk1ob2pSOUo5QjhmcnRWU1JHNVZYZkN5clcyQkJtS3dCNDgydU9YSEN6aWd2bmctLXdzZGRNUTNSTnZwSXFwZGtuN1dHSlpGNG5OZXdkcXlkWlNDZGd3Tjh3SVJPc0EzTXlGVW0tUDhRRGYzVUp1ZHRyMXdkYVlJdw?oc=5",
+          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 24034,
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 31,
+      "change24h": -1,
+      "vol24h": 51943,
       "headlines": [
         {
-          "title": "Joey Aguilar records touchdown pass for Jaguars against Carolina",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUIxZjlSZU45YWNtSHZnRVpUYWZLeU9sWEpjdk5feVQxY0ZYbl9xMEdFRGczVEVqbmlkdlQ1T3R4Q1pQVHQwd1FwNmMzSHlFX3lJZ3lXbU5yUUdYdmZXX0FLYl9JUTNlSWk3SXBxeGVjektjMmJNZVRlaUxHQzQzZ1pzYlJJVmpjZ29FXw?oc=5",
-          "cat": "NFL"
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "'Many' Fed officials think higher rates will be needed if inflation stays high",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Carolina Panthers win the 2027 NFL league championship?",
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-carolina-panthers-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 20495,
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 14473,
       "headlines": [
         {
-          "title": "Joey Aguilar records touchdown pass for Jaguars against Carolina",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUIxZjlSZU45YWNtSHZnRVpUYWZLeU9sWEpjdk5feVQxY0ZYbl9xMEdFRGczVEVqbmlkdlQ1T3R4Q1pQVHQwd1FwNmMzSHlFX3lJZ3lXbU5yUUdYdmZXX0FLYl9JUTNlSWk3SXBxeGVjektjMmJNZVRlaUxHQzQzZ1pzYlJJVmpjZ29FXw?oc=5",
+          "title": "Why Metta World Peace drove Chicago-NY after Bulls practices",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTVNUG0tUmdta0dmN3ZjdFl0a2FaNWZWZjhMdVVUMXFYdE93a1ZOb3B4Nl9XSDVVbGUweWdtVFBkaThrZUphcVlKejNCdUQyWFNUSTN6d0ozcEk0c1I4MExmXy1hZGVMWE5mMUppa0QyTld6eFdza0xhTFpKVThfa1pkUDRaWEEzVXNvbHRuZkIzeld5SjhzYjhDMzVjV0p4LTRHYWhqeXg2Q3FueHNEYmp3SC1aRmhGcGY0QTVwaVhrRmZ4M1E?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
+      "yes": 8,
+      "change24h": 0,
+      "vol24h": 17120,
+      "headlines": [
+        {
+          "title": "Baltimore Ravens kicker Tyler Loop puts first points on the board with 49-yard FG",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDF1MzBjbTFTWFU2Q3NORGJyOXJhUmVSVEJiXzhJQ3RuRENreGZ0dlFQb29wbUNKYnlDU0k1cjJ2VkVzQ1hrajE0TWRGeUd5QVNubE9DOFhMM3BIMzJlRVN2TmM2VGwxemJPLUpoVWJpWmIxRkQ1b2J1dWdjVW5TOXJTTjNHZHNxSEVMTA?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Baltimore Ravens linebacker Mike Green snatches Vikings quarterback J.J. McCarthy for sack",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93WW0zdlNsdnhjdDFDZ21XUDVSYjFqR2ZfU0VWX1E3WmQ0QmNEcHJaYmxhbW1zbldySkxZbnlKN1puLUlGczE2Nm9VX3ZtOUFXUjUxTHg2WUJVaEVkckRIX3dzQmlQanBvWUhzMDFpQkktdw?oc=5",
           "cat": "NFL"
         }
       ]
@@ -150,30 +168,21 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 34,
-      "change24h": 9,
-      "vol24h": 96999,
+      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "yes": 27,
+      "change24h": 5,
+      "vol24h": 38820,
       "headlines": []
     },
     {
-      "question": "Will Alexander Zverev win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
-      "yes": 21,
-      "change24h": 9,
-      "vol24h": 57827,
-      "headlines": []
-    },
-    {
-      "question": "Will Ben Shelton win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
-      "yes": 8,
-      "change24h": 4,
-      "vol24h": 29886,
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 19,
+      "change24h": 5,
+      "vol24h": 19238,
       "headlines": []
     }
   ]
