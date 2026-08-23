@@ -1,77 +1,77 @@
 {
-  "updated": "2026-08-23T00:35:32.033Z",
+  "updated": "2026-08-23T06:21:10.413Z",
   "withNews": [],
   "moversOnly": [
+    {
+      "question": "Will Bitcoin dip to $75,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
+      "yes": 84,
+      "change24h": 21,
+      "vol24h": 59436,
+      "headlines": []
+    },
     {
       "question": "Will Ethereum reach $2,600 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-august-2026",
-      "yes": 46,
-      "change24h": -27,
-      "vol24h": 34461,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,700 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-august-2026",
-      "yes": 27,
-      "change24h": -21,
-      "vol24h": 33765,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,300 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-august-2026",
-      "yes": 55,
-      "change24h": 19,
-      "vol24h": 9665,
+      "yes": 35,
+      "change24h": -17,
+      "vol24h": 21269,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $80,000 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026",
-      "yes": 59,
-      "change24h": -13,
-      "vol24h": 140727,
+      "yes": 45,
+      "change24h": -16,
+      "vol24h": 116577,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $82,500 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
-      "yes": 32,
-      "change24h": -12,
-      "vol24h": 92827,
+      "yes": 25,
+      "change24h": -14,
+      "vol24h": 103535,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,300 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-august-2026",
+      "yes": 68,
+      "change24h": 11,
+      "vol24h": 21334,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $72,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-august-2026",
+      "yes": 46,
+      "change24h": 9,
+      "vol24h": 51680,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,700 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-august-2026",
+      "yes": 20,
+      "change24h": -9,
+      "vol24h": 16473,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,200 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-august-2026",
-      "yes": 28,
-      "change24h": 12,
-      "vol24h": 20076,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,900 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2900-in-august-2026",
-      "yes": 9,
-      "change24h": -10,
-      "vol24h": 9681,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,100 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2100-in-august-2026",
-      "yes": 15,
-      "change24h": 7,
-      "vol24h": 21354,
+      "yes": 38,
+      "change24h": 8,
+      "vol24h": 18526,
       "headlines": []
     }
   ]
