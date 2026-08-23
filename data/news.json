@@ -1,45 +1,341 @@
 {
-  "updated": "2026-08-23T06:21:09.948Z",
+  "updated": "2026-08-23T12:15:15.167Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": []
+      "items": [
+        {
+          "title": "\"You call this fun?\" - John Salley recalls the night he learned why Michael Jordan hated clubs",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ3dFWnBwWV83Yms5VjU5MW12Sy13Yi1XRGpLX2pKcWp5R0ItVWtFN19hTEdIM1NSaDhRaEt6WXZhaENfcWZlRE5acWdDaE5TUDZrU2ZLcnZsQlZ3ZzZHSzJMSHUxY1puVk8zQ1JRaEdfOVNNbmNEYS1VVUZ0UUo5a21UalZuT1NnTlJpMnlsanBxR0h0QzJzWmJsck1OWS1BdFE1MWZVNmQwTU5pQVR4LXNVdVhrLTdhbnVWMmg5ZjlPZw?oc=5",
+          "ts": 1787486520000
+        },
+        {
+          "title": "\"I only bought one car my whole career\" - Mario Chalmers on how he drove exotic cars without breaking the bank",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWks1ZzFlRHFtUTNLRVBSSFdyNFV2d1BmT09iZHREYnBZUUdvQVVnVTVGWDYzVlMxT3AzXzJfYnlkRWg1ekNNS2N1UFptbURac0Rla0UxMXd6SUp6Zjg0dnpFWkJWVVo3cTJySGRVWml2NExwTTUySzBQNzVCekFJS284clRhZ0hSQzFtTFJtRW5DX3UwcGU3UGFiTVEzQmc3emR4TWctV2hfWWpzc09LNjF3SmRSYUU?oc=5",
+          "ts": 1787484780000
+        },
+        {
+          "title": "“How many of my teams became dynasties right after I left?” – When George Karl fired back at Mark Jackson",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWTg1aDcwYkF4Z0xtN3EyQXY5ZUYzOF9hMGhZZURUejVhUVZaT0czcl9pbTBaMnpKM1VjdUF4YzNtUldwNDZtZEotRnRVOWtsUnVxTU1JekxFSzRnQnhTbU0xT3Y4dDVxRFpSOGNxUzVwYWg0UF9jWlF3Tkk2S1NLb0RXTG5kVS11VHM4cF9kbmFaNlBWb1J2WlpubHBVLU5FYk1fTTBQT2ZxbVR5STFvNnpTT0REVkVk?oc=5",
+          "ts": 1787482696000
+        },
+        {
+          "title": "OKC fans share thoughts on Russell Westbrook's legacy | Letters",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWZBUUh6VE11ekh1MEh2WUtrZWFHZWtfTnRwODlrSXJjN0RlWk9yeTBpVzR2b2w2TnVOaXlPNnY2TGhzN0cxZ1FTc3JiNDR1YTVBODV0c3pSdnBTTEdrMDNZb3pEeVlTNnd4T1RvaGpqb0NHYTBZNU56aGVHQzFncnFQZmI2ZVE?oc=5",
+          "ts": 1787481917000
+        },
+        {
+          "title": "NBA, WNBA & Others React as Angel Reese’s 31-Point Explosion Sends Atlanta Dream to Playoffs",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXJNdHBvajkxUW91TjVfeHo0WUthNUtTODl2bW5nZDVoVTZWUU5sMUpUZ3JJUnBHdlBIZTJhZzZVZkUyQjBoTjlSeHNJZjJSeWN5UGo0X3B2Yl9MeEFLSmdTZWx0SzNjZ3I5SmRfSlVHbjFQYXFvdkRiekVFeXM4TlVR?oc=5",
+          "ts": 1787481000000
+        },
+        {
+          "title": "\"The easy thing would be to stay in Milwaukee, but I …",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Z0dfTmdnZkJ5bDY2cTNDeWktNkxRVHFuUGhPT2N5Wk9fS2dncTA5eENaTmd2dEkzNWJSQUYtcUdZVTBJRTRtUTVBTTFVcUR4VVpNdk93Q2MyczJ6ckdqYkQyMzNUdE5raWlKZVRiemE3TFlZTktlSFNWSU9rT1E?oc=5",
+          "ts": 1787480097000
+        }
+      ]
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": []
+      "items": [
+        {
+          "title": "Andy Reid comments on Harrison Butker's historic 69-yard field goal",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGFtNmlETm1QRnJkdm16RFdqdzJfWE9OYWVuNE9IcXJWeDZsbUdLa0dyaS0wbHJfUklTRXZ1cEZuM2dqellHQnNWM3ctOHZ1RWJiNFgxNEhKbDFaN1lIWU1RUl9RdUpEVHNWRjBOcnJVYWllTnBzb3pBX1ZFaVZEeURkUko4bm92UUpXUw?oc=5",
+          "ts": 1787486565000
+        },
+        {
+          "title": "Fantasy Billboard: 7 bold predictions for the upcoming NFL season",
+          "source": "New York Daily News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeDdVMEJ0TWRHUjZXRVhYa2taU0xXcUhaSXNDaktqZ1Q0RnZFUzFRUWQtaVU3VTJiVnhiZkIxZHp3T01kTEp1RDNlTWNIbXN4VjZvbHRFblF1QTFTd04yS2pZanc1UVBfVlBQSEpqdVBjWFBuS244aFA3WUdNOTBnaXlXbzdzZDFHSEc5RDd4UjBCY0dfVC1UbUNrcmpBLURoVHRpWXFZVEVhX3dnWVJRRC1mT3FTQQ?oc=5",
+          "ts": 1787486459000
+        },
+        {
+          "title": "Jon Gruden returns to the booth for first time since 2018 for Bucs’ preseason game",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGhnRzZmYy1falFYSzBzVnhqczZoTWc1UG1ZWUxmX2Q4MzgybDdTQXlTbjdlNmk2dnh5bjNHeURMUHpIdnBDeVd4UWhnamdkc0ZpNUhTek5kS2E5cUUxd2VmNDgxSzhrZUFTMjQ3Nzl1N08zN3dfMWE1SWVUVGN3VEI0bENqdXBHbUhFLTlCeFJ1NmFf?oc=5",
+          "ts": 1787486447000
+        },
+        {
+          "title": "Former NFL QB Has Taken Notice of Texas Longhorns' Dia Bell",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmMwWkJmMUlDZTJTbmJGdnc4TXlYUEU3Y2ZEZmRNSjhLT2hwUDJzWXNTeGZFUGRMeUZxVlBLdFAyT2ozWGpkQzh3SVBUVnMtcUpKZFRkd3k4eDZxQUVReUIyODN5eGQ1TzBMVDJNV3VNNVM1c2VZbU9GV0Z0RDJJN0NMbVhtR0VESm85REIwbVc0ZUZtZVRSYWhkVXh5XzJHeWc?oc=5",
+          "ts": 1787486401000
+        },
+        {
+          "title": "Eagles vs. Patriots preseason: The good, the bad, and the ugly",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFlPaEx2dFI2OHcxWHJKWl9DblNwa0VDQVpvdG9oaHEzZk8za19xUkhXNWV2U2NsMXRjNkQ2UF9jY1VDR0F2d3gzWlNJQWtzT0tWRFpKdHNUdXBrM3hGN1ZzeDlGQVFBRTk2Zy1xRFRxVGZNNkVCMVR3YXZsTlpxbTJHR1JWS19BN0E?oc=5",
+          "ts": 1787486206000
+        },
+        {
+          "title": "Nick Sirianni: “It’s still a competition” between Andy Dalton, Tanner McKee for QB2",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGg2MWdLMnQ2UDJvdjNNcUJZRmJXaXBSdEJRNGNhdzF6eTl1SlhoZERmdlFJc3VuYjRTblYtVFpMQTk1VVRJSWtMMDNFbkcwb2RPMjgySkg3Y2c2M2ozaVdDYWVpYmRRdmllLURqQ3c4ZkZXc1QyTV8tdE1mR25YcnpwRkZWYi1adVl4N2tOTzgxcDVGNnJ2dncxZUJVd0NEdGxnUS1id1hhNWU1bWJ0akZTUElUNTRPZFYtWnZTbWcyZw?oc=5",
+          "ts": 1787486148000
+        }
+      ]
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": []
+      "items": [
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "ts": 1787453100000
+        },
+        {
+          "title": "Here are the ATP, WTA semifinal matchups at the 2026 Cincinnati Open",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUloOHdQOTRVN0ttQ1BEYXFta2kycG5MeXJwTlJKMmMzSVVlRHVvVnRNY2ExMThySFpKRkxYTDBpMzBJWk0xdU83TVdIVWlZdW12RzhaQ3RMNlNXSXpOcWpYcWxabkhPMTBCSTlRSjJ6aG54UmpKLXc0enJDMldyaGlWWUpaY2c?oc=5",
+          "ts": 1787370480000
+        },
+        {
+          "title": "Who will advance in ATP, WTA semifinals at the Cincinnati Open?",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY050MFZsWHp5SW5JU2g5WjBOSUlOU0xzM05KbkZzRmNjbmJRaVhiVGtXdGE1am9GVkk1YVdTdEl5Q3lBaFgyUUNwajJFWDA3UU55ZzVCVmplOGxwaUx3WG9Ma181dkhTYTF4dzR2QVpqYnRGZ2lhbXU0aktZbUd6N2dFLVVuREpJUWRRai1YcFhBTDItemc5MW1ROVM4VDZHTGRpblVuNjk0ak90SFIxTU02aHRsbmU4dGNZZQ?oc=5",
+          "ts": 1787368835000
+        },
+        {
+          "title": "Replay of ATP, WTA quarterfinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMFlYS2dybS0tTElXNV91aHRBWkhTOGdIQWtISWZUbDNBdVdycnRVTjlJU3VNOUl1ZUFjekRJT0ZwSWRHSVFicFZmZTNoQTdtek5VSFZNc2tnV1I0VThpQWkxOVB5WFl4R3FkckxJbEpXTWhhN0VJQnZZU0hJZEk2Y0ZwelZaaUFyTjNEWUZSRTk4aVF5eS03enJySGZ1Y2JPVTNBaXcxVF9HcURVNTFBX3R2WVJaZ1BEb2c?oc=5",
+          "ts": 1787367720000
+        },
+        {
+          "title": "Replay | ATP, WTA quarterfinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2xSeXZGRnRPUHBJMUo0N2pPc0xZeDZZb2dRaGpOOFROXzlJQjV3Yk5wcjFqcWZpdzBSQ0JIUTJpem1yaEVqdlJEMDFNeDBaanViaVBqckxjZE1BaUhrM1pnTFRtZTNLZkZOTjRTOXVuQ0ZTUWhONGNaTlFJcmRXWGRBQ3Q1N0w4LXlPRFhYcTk1WnZHMXlXQmZoM0FnbEtDLTQ0cUF1bFZuZlRoS2VBZzZyM25xdw?oc=5",
+          "ts": 1787277840000
+        },
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "ts": 1786950000000
+        }
+      ]
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": []
+      "items": [
+        {
+          "title": "Manchester City reach Ayyoub Bouaddi agreement with Lille for initial €95m",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDFWWEV3aU1TNzlPZHVWYVdTYjBpRnFwZDlOWHk4TzdUdF94ZGMxc0x0OXhFN3JxeHdCRHg5NG56dHB3czlET2h4aTJPR29RVWZNTklFc01WMmdKbURLeWpIb0k2RWpDU2VGZVkyVVR4WWs2UzU1RFJXSlYybThSbkFrZl8yR3U3Q2dWeGgzWQ?oc=5",
+          "ts": 1787486416000
+        },
+        {
+          "title": "FIFA's plan to sell World Cup to private investors has not been well received - but can they pull it off?",
+          "source": "PressReader",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWZYZnFCcVB1MVIxaVhoVnQxczFfSGNvQWFiTlZwNDhUX2tBSjRRdkNFeXJ4Q0UwaWpRMGd0YUVCZ3AtRDkzZlNGd1Y5YzdzMmtEbXRfa25SOUpkSldjbi05d3phNHRSZWVZbHRaY05kQVhPeUJycnExRnZlY0pRaFppUmk?oc=5",
+          "ts": 1787478744000
+        },
+        {
+          "title": "Watching Hull with owner Acun Ilicali: ‘Our boys were dying to win. I didn’t see Man United in this mood’",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWM1enBZeVJrRnFUaVhHWTZqTlVxZDEwN3JXMHowT3E3cV9jUi1rcWdvZy1wZHY0NWhqLUNMWEVlRkd2NEFMWWdpOXVBUHBqd013WXpweng2bEVtV0Q4WGpmazNhck5hRnZ4Q2lFN3VlS1BreXFiSm43Tzl3U1lTcTF1cWNqbE53eG00OFU4dzdON3dDUGNXZg?oc=5",
+          "ts": 1787477400000
+        },
+        {
+          "title": "Portugal get their revenge on Spain — this time in cricket — after FIFA World Cup heartbreak",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXhQZGotSDhRRHh0MXBzRk1TSGRiVlpxenRVMTZHUHVTT083ZlRGdmV1Q19pUUJLdGJ6Rm1sdVdxd0VTWUdILTJnNWtpN1gxclFvS3ZaTFdqWU4zMl9QMURqOUNfZGkyb0tyY0FkU1FKQW9sbVdwVzZKY3F6ZGxEZ3h4M2tqeERjWURkUQ?oc=5",
+          "ts": 1787476380000
+        },
+        {
+          "title": "Pro soccer star collapses during match and dies at 25: ‘Far more than a player’",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVTFoU1Zta003dE53ZkNzdGNDTGlLRE9KMlJSVkxjeG5mWlBLdDRwQnhjR3lvSEZxRlJ3M2ttOEdxSXlFVDFNaElJVVBWMXd3aHdIOXItVUhoQzQ0OF9hUjAyWGRRYWJnSVpoaTZKb0dIOVhKT3dIUkk1MXhKREJxNmhsLU5KcmJu?oc=5",
+          "ts": 1787475670000
+        },
+        {
+          "title": "Uli Hoeneß says Julian Nagelsmann not solely to blame for Germany’s poor World Cup",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnhoX0dkUGFxdGVtb3RyUVFHZnp4bk1qbE90RF90WkViU05XVUN2MlBwZVRFN1I0cW5JYWNMSHhxXzhJQjNCdVZSWjhoRG01VzJsNHBiXzZ5Zm9FbDVYVWxYN1plaVZrVktCUEl5Mkk3QWl5OS0wamgzUms3bkNYRlg5bENTX2xn?oc=5",
+          "ts": 1787473800000
+        }
+      ]
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": []
+      "items": [
+        {
+          "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
+          "source": "The Journal Gazette",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
+          "ts": 1787408100000
+        },
+        {
+          "title": "The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks.",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWtOUEZaU3NKTkZkQ2EtVnlnQUNjaC15YlA2eGpGbWEtWlVrdWpkZ2Y1QWxsRGU4bU8xa2pBS3RIZ2ZSMkNyemFNRlZCd0lfSDI1clRjOVFzSDk3cjJfVWtQRmdpUFRBMFJPRXlkLThGQWNWRDJiRjBSVjY4OVozcGpVdF8?oc=5",
+          "ts": 1787389352000
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "ts": 1787389209000
+        },
+        {
+          "title": "The Three Minds Leading the Fed’s Inflation Rethink",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWF5czc4TG03RzVGNzVVaWljdndhVk16SmlwRDRoeHhvM2dHb0gtdEZKSS1uNGUxTkFjbW51OTNRdXhGWWRhMmVTRkFnLVdkYV9KdllTU1NadGJqbDhQc0NrU0FvdXV5RVJ2NmpEa3FoSVZoYjRxZUpVZzVMdWlYOW1GaEJLTWszbnNEODBkakk0czQtQ3BWTUx5SGVOcUZuWlp1Nm9B?oc=5",
+          "ts": 1787323320000
+        },
+        {
+          "title": "Trump calls for lower interest rates as Fed officials watch inflation",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
+          "ts": 1787260380000
+        },
+        {
+          "title": "The Fed's preferred measure of inflation is changing",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDBnRlJKZDIwTFVSZkRvRnFXM0VXd2hkVzFrcWpLMkZxS0RHdmtDRFVJNjJxVmJGTFFqNURoeFpKOHNnYkZRV2xZRnRuNm9Dc2pZZ2J3ai1aMjJKcEJPRk9mRWt6VjlXVHJHOUh5N2dEQnpzemJUdU5JY012aXd0WDNlQnYtcTVENXpvcWpnY3NTeEJMbENnc195U2dPWVVFNnFn?oc=5",
+          "ts": 1787257080000
+        }
+      ]
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": []
+      "items": [
+        {
+          "title": "Could This Unstoppable S&P 500 ETF Make You a Millionaire? Here's What 20 Years of Data Says.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGtMZVdnbDAxZWN6MzRiSmVyRnduTzBMbU4wbkk5c051aEJCY3BlU0RHdS1oNFpzYVhsSWJSX3FzQk1uendISjB2Zm9KYlpQd2FidmVGWHNtZ2JVVU01R1l4NnROaEJySF81VmZxY0I4VjRfbXVFaFB0OXFaSTVqRjY3WFZ4VG5EbmVyUGRCOG40QQ?oc=5",
+          "ts": 1787487005000
+        },
+        {
+          "title": "Could This Unstoppable S&P 500 ETF Make You a Millionaire? Here's What 20 Years of Data Says.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa1I0SXFsNkZIZlpObENfOF9XRTFJUVkxeDd0ZWRBRUhsaWZjTzlncXdQTWdGWU1iaDdRZ1djOW9zVUZiX0lsaTluM01fcWh0YWxNMzgxdk51N3cwUTdaV294U2VCdkRmaVVLUzlPWER1b2N0Yi1lN2pmM01HVnpHSGVPV2hiMFRlcEtHT2tIaElrTGx3b1Jn?oc=5",
+          "ts": 1787486400000
+        },
+        {
+          "title": "If Amazon Is a Top Growth Stock, Then Why Does It Trade at Just 21.3x Forward Earnings While the S&P 500 Trades at 20.4x? This Is the Only Answer I Can Think Of.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHhhdU85U2NBa3lSN3BVVFh1YW8yNk55X2JPOUI5dHVIbjZkY2UybUhmYkFDTzBWaHdOSmN4S3NWNzF3U1dOMXJXdTVTRGFiZVYxY3BxeUZxaHlXWUtMYlI1RmlqdTRKcFM5LVh4S0tfQlVtX1JCWHY5QndRZUh4cVktZTltMTQyRnZiYlF6RzI5cll5Ry1yTw?oc=5",
+          "ts": 1787486012000
+        },
+        {
+          "title": "Bearproof stocks: These stocks have a history of holding up when the market struggles",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1RNTThNRGdvbWNWYUdJRkdiMThRdVBlVG5ud0dFNHhkUTloTzdvZkN6M3huRUpjWUd2MGs5OVpTQ2Q2NXFVanVyMlB0b0ZHRE45YnZ2NnNzQTlxeldJM29RVHBKTGdEU3NGNC13Q3o4alUwSGxYbkFZRXkzRjJHMW0xSW8tcmFUaWtJZDl6Z19GYXlrV2dTV21kd2o0Z20tQkZKam94NWZQdGlu?oc=5",
+          "ts": 1787484659000
+        },
+        {
+          "title": "The S&P 500 Just Did Something Seen Only 1 Other Time Since 1871 — and It's Not Good News for Wall Street",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUThJckF0aEZObWVVMERMTGVPVGpnYnhEUl9HX0VhdEtfc1poX3pNQTRBSHFlX0JPYm1admdTTFBpVkF4VFFfVUk2WlFXNWczNDZnaUdla2wwbWpKb21ZMzFHMGdyTFRfMWNNal9KQXlpVzM2X3JV?oc=5",
+          "ts": 1787475528000
+        },
+        {
+          "title": "The S&P 500 Just Did Something Seen Only 1 Other Time Since 1871 — and It's Not Good News for Wall Street",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeGZqT0VPakluN1ZMSEdwRWxGd3U1MHJqQ2dZY0RpQ3BBbld6TE9NakVPY09KandfV3htNVV3MC1vQktNMDEyNElfSlRaNUNSRGtJakQwYjRJUjFjZFNnc2RwUHRWUFpOOHp5Z1h4bi13UG41d29nWHFERFJGeFVPUVlTWkVVdmNoOEVHZmRmalFoNmo5V002Y1JwZF84XzJGc1M2aUJHNEU1MllGaV8wTVE1Xy1OSF9vNG1BYWx3SFh0b2FzWDN3NjQwdG4td1hxZWszZTFHWmVvMEE2VWlZVGE1dHA?oc=5",
+          "ts": 1787474855000
+        }
+      ]
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": []
+      "items": [
+        {
+          "title": "AI-Powered Drug Discovery Gains Momentum as Biotech 'Dynamo' Targets Breakthrough - Strong Earnings Momentum",
+          "source": "vinanet.vn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXdNcHBJczRyc2U5YlUySEpqMTNzeTNzZWV2eFlVLUZaajVXYmxhdVJLYUNjZEpPMFB5dHRmNXk0Q294YXpmYzZrWkJzS3VuSFF5RlJ1d2xWd2otX1U0RFJDb3pUa095NG5HRUo5czhkTjYyX1dpZFJwS0IzdlAxUjdzRDJNckcwdFhtTGM1dGdoUzZPd0xBVVJGM3JzNEZ4Z3lfYXVOcHJ1dXlkRkl4LWJwRVlYSC1lcF9EVA?oc=5",
+          "ts": 1787381276000
+        },
+        {
+          "title": "Bright Minds Biosciences Stock Falls 4.60% as Investors Weigh BMB-101 Clinical Progress Against Biotech Development Risk",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXJZSUEybi1GeC1LNFNvT0w3YVF3d0MxVzg5bEl2R1d5OGZBTnpWWnFNVFZXMWRoVWc0dlFxQWJ3a2hqVzQwaG5TX3JIYXVWcEIwSXNUNm5IYXI2WGxvT0t0QlpybUlTZ3ZQOVhrVEtDUFdIQmxyaTN0S0FRWVdoNjNWQlkyeC1qUDdBWG1kUmFZMEQ3M1duYjhEWjk0NFRLR3E1UUNFOTRLaloxbWo1MWJXWHd2Wi0xaS1scGN1REZ5NzJTNHMybjhlblEzNVh3enJJQTQwdTBvUV9DQVo1ZGx6TUtPQkJ2?oc=5",
+          "ts": 1787325780000
+        },
+        {
+          "title": "MedPharm expands proteomic analysis capabilities with Olink certification",
+          "source": "Manufacturing Chemist",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVlprVUVzaHg0dW11ZUZLTFdFaUNFMmpuNUl6U3ZReEkzNnpjUF9aZXJIamw0MXc3UE9sUGRJUS1Cc0prQm54NmpGNHJ1M29idnpLa1J6ODlMUXpOeEVlMnE3N1F6M2xzWWFZVWYxQXV0OW5EeDNFbmtsU1RESXctdjZ4aUM3b0Z3NlZ5NGk1VFFUS0J0dWVfc1V3WEFsVENNYl9j?oc=5",
+          "ts": 1787310927000
+        },
+        {
+          "title": "Insilico Medicine unveils ARDD 2026 program, bringing longevity biotechnology leaders to Boston",
+          "source": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3RRSzlsd3ExTFBkSENOalpFeGxWSDFGNHBOTTRHZE5RbEx5Vm9sM09DS0ZKeWZEWjQ4SDNZMU9OUUFKWW96Yk5GSk5TVEdhckwtS3ZBa19wSVJ3QlpXdzNma0pqaDl2dDZMZDdoQ3JzcktKaUhmQ0JvT2lwbndNTzMzMEU1WUUyX3A2V0F5TlpoTFFWdVdXemJFeUFkRG02VktIQ1pGZ2ZXLWJ4REdxaVZQQTdmc1EyTjZZ?oc=5",
+          "ts": 1787233377000
+        },
+        {
+          "title": "Capricor Therapeutics’ Duchenne treatment is heading for an FDA rejection",
+          "source": "STAT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVNQYU1hVkFpN1VvTzQtNFVJeXJ5NDJuSUdldDJtTHh1UXlyajEwam9GbEtOWGZKXzViUlcycVZHQ0JSaHMxaTBpdndya25Balc1eHVSYWhUYngxZlp1cWpXb0ZoY0RXVlQ4azFJeFo0TE1pUFpCOG1QZm1QV3ZfX0w5T0Z0bEt1?oc=5",
+          "ts": 1787222095000
+        },
+        {
+          "title": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
+          "source": "STAT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVJjTGRvUDNjbXM4NFZtdENhQU5pRDRsV0F1dnctNGRhVEJPbTZuWFBRZ3huTnhIT2o0SjZwTXQ4WmZGSF82V0VQLUQ3dEV0RWdKVDMyZXRoQVFlRFRXMXBVSXl5RzlDUmUyTFJXWDdJb0FJaVBGbW5jRTBYdTEtNnBZX2VLcFZjSDZubjdR?oc=5",
+          "ts": 1787136484000
+        }
+      ]
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": []
+      "items": [
+        {
+          "title": "Finding the next Moderna: 5 biotech stocks with imminent FDA and trial catalysts",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRVlQVkFKMk5lMGdkQU1kYjI5Z0k0VnFSYTJsNkNRR2Vfb2FlZ3ZBbm1sWlY4dy1jbUg2SnlWMlNfNDB5SFJKOVJzUXBpT3oyNGg2ZVlsYVN3a0FHRExkaWNpVGctYmE0WlV5UWFFNUJBMk5jYkViQllnNlhrU2pBUUZIR0pZYVlNOGM5a3RwQTQ4alVZTFB1RnZiX21xVlVwS1hteVktS3VnQ2hCeTNSZVA2MUZMWFFFM1ktM2txMTYxVFdTUmZiYWdneXF0RmMtcDh1YTVEalc?oc=5",
+          "ts": 1787234392000
+        },
+        {
+          "title": "Greenlit by the FDA, yet too cheap to stay? Korea’s penny stock rule puts biotech firms on edge.",
+          "source": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSS1KaVl3SFFuT2FDR2NiMVJFWWt3Yl9VNkFqdW5FV3pLc01jWEhxaU5VZXdmSXlLc3NNVzc2QnVQV2dvQ3hDa3RDZHlXd185LVV1UkxPV2hGTzhWYXJ1UnlEQkhUa1RuUWNKOGpVZjhYcmdrb192NE5XVFEweXZQa3NhemVOTGpXaWJsVkFmenNobmM3YzZwdGpKYzZxb2hCbHVwMTY3R2xqd1E0c3p3YXZJSk5YZkVVX3lIYVJ3bDVDc0xuUzVxVkF6bllaX2g4M1BjWXVpbEFVVmREY3c?oc=5",
+          "ts": 1786691616000
+        },
+        {
+          "title": "4 Biotech Stocks With Major Second-Half Pipeline Catalysts This Year",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHo1aUYtRjBfTkdpNU83Tm1oSmVFTW9DWGdGTDFvUXBNMTA2TWltTGZ4ejAtQ240aEFHeWdmSmFzMlI4bFg3UUx2ZlU0RjN3Qks2SWdLaFZITUZ4MFl6bkQ1Nk45M2VpUF9xNF9ILVVpSFFwZDNSbDNNRGNqQVc0QXgzN2FvMDAwYjc3MWI1c1RRWTBG?oc=5",
+          "ts": 1786431600000
+        },
+        {
+          "title": "After two rejections and mass layoffs, Replimune melanoma drug wins FDA approval",
+          "source": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2swRFlrZDVjX293NjA1T2NOVERLcE5fM1VNYVA3VDhDVjR6cXVUcng3ZmRhTFhjakh3cS1uWW1MWnZQQWJIdzB4WEN4QS05V1c4UWg2T3ZLU0h6SWhXUFg3bGJIVTJ6TU1CVUpUdE01Uk5iT0NwUFdYOXpjYTF2YzJXaTA0OVVvclpsN1JTVUtxMjJCWjRJSg?oc=5",
+          "ts": 1785999600000
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "ts": 1785481200000
+        },
+        {
+          "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZnUkhSRDk0OHRSc0g5WlhaMGFLYTNYWEh3Z0xSTnRrZEFlQjNSTFNxb3FTR0RoYXJFU2dVVG13MFo2c1MzeFhfU01LSnZ0UXgwYXd1YTltMzBuU0xaS2gzU0pPQkhGalBGck16QmlCWjRCVWNNV2twT080TWo5V2o3eU1pdw?oc=5",
+          "ts": 1785481200000
+        }
+      ]
     }
   ]
 }
