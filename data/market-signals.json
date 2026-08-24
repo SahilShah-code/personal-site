@@ -1,45 +1,13 @@
 {
-  "updated": "2026-08-23T18:11:36.827Z",
+  "updated": "2026-08-24T00:33:32.824Z",
   "withNews": [
-    {
-      "question": "Will Ethereum dip to $2,300 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-august-2026",
-      "yes": 52,
-      "change24h": -4,
-      "vol24h": 36929,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-august-2026",
-      "yes": 19,
-      "change24h": -3,
-      "vol24h": 57262,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will Ethereum reach $2,600 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-august-2026",
-      "yes": 51,
-      "change24h": 3,
-      "vol24h": 21592,
+      "yes": 56,
+      "change24h": 10,
+      "vol24h": 20216,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -50,18 +18,50 @@
       ]
     },
     {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 5,
-      "change24h": 1,
-      "vol24h": 18738,
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 22,
+      "change24h": -7,
+      "vol24h": 86011,
       "headlines": [
         {
-          "title": "Cowboys' Shiyazh Pete gets warm reception from Navajo Nation members after game in Arizona",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMFV4QVlLYWYxYWs1YWFleGJfZHExaE5Fb0VaVklwZmV3bjZ0ek8xSDU3UE5NWGdBRWs3bEw2SHlFbU1DaVJaUEZrNllvUjg4Q29EdUlzbDM4RzhORUZ3WU1xX2xlQkpabG16QlhPT1dTajdzUmRiRGpPTnlNczlQbXFWLVBFWVo0a21tMVQzUFhTRDk2WmstOTcwU2xCUQ?oc=5",
-          "cat": "NFL"
+          "title": "S&P 500 (SPY), DJIA And Nasdaq (QQQ) Close Higher As Iran Tensions And Bitcoin Surge Drive Session",
+          "source": "foreignpolicyjournal.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG1UeTNFdGVfLTFWTFNpVnZDUE1OV2FPODg1c3FHZm90LVkxVFJCVVplQ0VNbGU4NjZCZm5BUks1YmxQVmZ5TEZ0bHhyWHRHdTRJU3ZHWTJybXpJMWIta2pUbmNzQ0ExYUpIUDRxQmh2Nm9VZjBQbVZ4N1FEWWx0YXFnLW9WRjRPY1VDWTFoUjZTZWdmMEg4SmEtMkxJN2xmTmZEZzB5TFJ5SnZyVmtpcE5SMzVuVWN6S2NoeWlhelRqV21fSGZ6eUEzXzQxNmV4YlVlMUt4RUs?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+      "yes": 70,
+      "change24h": 7,
+      "vol24h": 73556,
+      "headlines": [
+        {
+          "title": "S&P 500 (SPY), DJIA And Nasdaq (QQQ) Close Higher As Iran Tensions And Bitcoin Surge Drive Session",
+          "source": "foreignpolicyjournal.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG1UeTNFdGVfLTFWTFNpVnZDUE1OV2FPODg1c3FHZm90LVkxVFJCVVplQ0VNbGU4NjZCZm5BUks1YmxQVmZ5TEZ0bHhyWHRHdTRJU3ZHWTJybXpJMWIta2pUbmNzQ0ExYUpIUDRxQmh2Nm9VZjBQbVZ4N1FEWWx0YXFnLW9WRjRPY1VDWTFoUjZTZWdmMEg4SmEtMkxJN2xmTmZEZzB5TFJ5SnZyVmtpcE5SMzVuVWN6S2NoeWlhelRqV21fSGZ6eUEzXzQxNmV4YlVlMUt4RUs?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Russia capture Novyi Donbas by August 31?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-russia-capture-novyi-donbas-by-august-31-20260724163321935",
+      "yes": 10,
+      "change24h": 3,
+      "vol24h": 9935,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -69,20 +69,30 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 69,
-      "change24h": 0,
-      "vol24h": 295942,
+      "yes": 68,
+      "change24h": -1,
+      "vol24h": 334274,
       "headlines": [
         {
           "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
           "source": "The Journal Gazette",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 32,
+      "change24h": 1,
+      "vol24h": 141953,
+      "headlines": [
         {
-          "title": "Trump calls for lower interest rates as Fed officials watch inflation",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
+          "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
+          "source": "The Journal Gazette",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -93,73 +103,35 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-september-2026-meeting-863",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 209596,
+      "vol24h": 240230,
       "headlines": [
         {
           "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
           "source": "The Journal Gazette",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Trump calls for lower interest rates as Fed officials watch inflation",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-      "yes": 1,
+      "question": "Will the Las Vegas Raiders win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-las-vegas-raiders-win-the-2027-nfl-league-championship",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 204517,
+      "vol24h": 37128,
       "headlines": [
         {
-          "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
-          "source": "The Journal Gazette",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump calls for lower interest rates as Fed officials watch inflation",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlZoeTJUZXZOQTg4VGlyOEVEVkh0ZE5seFRKcVp0NWN1UzNSbDVISUF6cC05c0I1bGNFV3h6MGs5eGFCdWVieDlKay1rcmxQaERnQTNBQTJyVWd3TFpkRjRPdnZIV3NUbmI5UTBWN3hnaFNuakVpRVpIT0dtRzEzbld0dHFpemZkQlZCSnBnSURQc0lSaVFOcHE3YmJwQlV2cFZVUm1RMGVZYjA5Z2FqU0pvZFc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Orlando Magic win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 18917,
-      "headlines": [
-        {
-          "title": "\"He wasn't the only promiscuous athlete\" - Michael Jordan said he wouldn't be surprised if more guys tested positive for HIV after Magic Johnson's announcement",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcWlKWm14LVJTNk5rcXU4M0NkeThtYV9HNlBRNFFZZEljMnBsWF9wMlhWb29RRXRfR3NHajh1ZXVXclFFYU1nT0JKRFdfOVdwWVlLZjk0aHZESjZONTl3ZEhwM3lXMmM3NTVtamxuelFtOXI2VHM1Tkxtem94THk5MDd6bTFCck9GOURUcnN2WGVrZkZRV2lYNVk2TW9sR244dkpCODA4VlU5NDZDRmc4eXVwZkZwR3NfQTZVYnYtd0dqbXYtclVSdTdZak5ra21oMFVqSjJLSFpuUThHNTNyanFUbFU?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 12737,
-      "headlines": [
-        {
-          "title": "Lakers could swap Jaden Hardy for $46M ex-Warriors NBA champion to pair with Luka Doncic",
+          "title": "NFL preseason: Browns QB mess, nervous time for Raiders; nine key takeaways",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2JXVkdkYVBNV1Vpc0xnWnY1eVpneWNKanNmcjg1eTNQSTVxTW9maVdqZFJiNkNzcEFWS1JZVXJidldSb1RNWElaYTMtWHhFMnNZa1hITGl4SWp0RmtaaUZqQV9LRC14RjVjRVQwekVHU3JBb0xPTnE4T0dZem9xOExnc1I?oc=5",
-          "cat": "NBA"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNy1ieDNINjVKQlRYY2tQbzNTdTFibi14QVBCNnozMHJrTkl0Y29mX0xJeWQxazlRS0FOQlFBNHpyS3k2SWEzSGZSUXRobHRrS3dDX2FRR0ZtbEhBdHRlaDhYOUtJZl8ybDNlWnNjQ1NiczFfSktPNmxWQ3V4SnlQWEplMmJMRTVQRWNGQXpoc2pVbXVaZ3BPd3ptQVduVWstbzBpakpuMFF5eHdFbWdrM1c4SkhZYjVfOVBhd29MTTZzdw?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "NFL preseason Week 2: Browns QB mess, nervous time for Raiders; nine key takeaways",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSnc2cTJualpwbFpsb1FPUlVYWWRMZzNGdWE0T3B4TXAxRkY2ZHR5b2ZPckRvTy1XQzRERVQ0OEo0cDJ4eW9VV0Q4TzkyTXFiNF9YRmxkOU9ZWldSeFhmdGNXV1hfQ2NVWWI4aUZyaDE2cWZPS1JoVXQwZzRwa2VfSGVIUERGY2FJWWRCcTkzR2hRLXhTOFhpUEZOQXNqNFRTWDRwaU9vUndhRk1EWkswVVBVbFlEVS0xNEdtWEtoUVREVTJuU1dnTzJ4dw?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -169,54 +141,27 @@
       "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "yes": 17,
-      "change24h": -10,
-      "vol24h": 94554,
+      "yes": 16,
+      "change24h": -9,
+      "vol24h": 136337,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 11,
+      "yes": 10,
       "change24h": -9,
-      "vol24h": 117213,
+      "vol24h": 105420,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "question": "Will Ethereum dip to $1,250 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 12,
-      "change24h": -6,
-      "vol24h": 146114,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 68,
-      "change24h": 5,
-      "vol24h": 74658,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1250-by-december-31-2026-from-june-8",
       "yes": 8,
       "change24h": -4,
-      "vol24h": 192957,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 22,
-      "change24h": -4,
-      "vol24h": 85329,
+      "vol24h": 12437,
       "headlines": []
     }
   ]
