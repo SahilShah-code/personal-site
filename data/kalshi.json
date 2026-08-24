@@ -1,31 +1,30 @@
 {
-  "updated": "2026-08-24 07:20 UTC",
-  "net_return_pct": -22.5,
-  "realized_return_pct": -22.5,
+  "updated": "2026-08-24 08:10 UTC",
+  "net_return_pct": -29.7,
+  "realized_return_pct": -29.7,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 31.6,
-  "settled_total": 19,
+  "win_rate_pct": 27.8,
+  "settled_total": 18,
   "curve": [
     0,
-    14.4,
-    11.7,
-    -7.1,
-    -20.4,
-    4.3,
-    -2,
-    -10.1,
-    -19,
-    -22.8,
-    -29.5,
-    -6.1,
-    -4.5,
-    -7.9,
-    -14.2,
-    -13.9,
-    -10.8,
-    -15.5,
-    -19.7,
-    -22.5
+    5.9,
+    -35.2,
+    -53.3,
+    -3.8,
+    -13.7,
+    -24.6,
+    -35.8,
+    -40.2,
+    -47.5,
+    -13.6,
+    -10.7,
+    -14.8,
+    -22.4,
+    -21.1,
+    -16.6,
+    -22,
+    -26.7,
+    -29.7
   ],
   "active": [],
   "settled": [
@@ -154,13 +153,6 @@
       "result": "no",
       "date": "2026-06-20",
       "return_pct": 5.9
-    },
-    {
-      "title": "KXWCGAME-26JUN17ENGCRO-CRO",
-      "ticker": "KXWCGAME-26JUN17ENGCRO-CRO",
-      "result": "closed",
-      "date": "2026-06-17",
-      "return_pct": 14.4
     }
   ]
 }
