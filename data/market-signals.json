@@ -1,35 +1,13 @@
 {
-  "updated": "2026-08-25T00:32:29.578Z",
+  "updated": "2026-08-25T06:23:38.344Z",
   "withNews": [
-    {
-      "question": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-dolehid-podrez-2026-08-24",
-      "yes": 0,
-      "change24h": -67,
-      "vol24h": 227844,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
     {
       "question": "US Open, Qualification WTA: Ekaterine Gorgodze vs Katarzyna Kawa",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-gorgodz-kawa-2026-08-24",
       "yes": 100,
-      "change24h": 62,
-      "vol24h": 37485,
+      "change24h": 60,
+      "vol24h": 134622,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -46,12 +24,60 @@
       ]
     },
     {
-      "question": "US Open, Qualification WTA: Dominika Salkova vs Akasha Urhobo",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-salkova-urhobo-2026-08-24",
-      "yes": 100,
+      "question": "Will Bitcoin reach $82,000 August 24-30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
+      "yes": 80,
+      "change24h": 51,
+      "vol24h": 29551,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $3,000 August 24-30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-3000-august-24-30-2026",
+      "yes": 5,
+      "change24h": -45,
+      "vol24h": 13012,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
+      "yes": 72,
       "change24h": 39,
-      "vol24h": 81313,
+      "vol24h": 223368,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-ofner-nishiko-2026-08-25",
+      "yes": 51,
+      "change24h": 12,
+      "vol24h": 13115,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -68,60 +94,34 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $75,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
-      "yes": 40,
-      "change24h": -22,
-      "vol24h": 134890,
+      "question": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-bu-noguchi-2026-08-25",
+      "yes": 73,
+      "change24h": -11,
+      "vol24h": 59558,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $76,000 on August 26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-76k-on-august-26-2026",
-      "yes": 90,
-      "change24h": 22,
-      "vol24h": 10220,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $72,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-august-2026",
-      "yes": 16,
-      "change24h": -16,
-      "vol24h": 45339,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 35,
-      "change24h": 3,
-      "vol24h": 350616,
+      "change24h": 4,
+      "vol24h": 14463,
       "headlines": [
         {
           "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
@@ -141,9 +141,9 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 65,
-      "change24h": -3,
-      "vol24h": 312301,
+      "yes": 66,
+      "change24h": -2,
+      "vol24h": 504940,
       "headlines": [
         {
           "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
@@ -160,12 +160,12 @@
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 35,
-      "change24h": 3,
-      "vol24h": 13695,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 34,
+      "change24h": 2,
+      "vol24h": 371586,
       "headlines": [
         {
           "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
@@ -182,49 +182,17 @@
       ]
     },
     {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "question": "Will the Houston Texans win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
       "yes": 5,
-      "change24h": 0,
-      "vol24h": 29060,
+      "change24h": 1,
+      "vol24h": 22637,
       "headlines": [
         {
-          "title": "How to watch Cowboys-Saints: Kickoff time, TV/streaming info and more",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2Nja1pOclNTWnppNWFTT1ZzSnppdmJqX19NbHk4MjFheW9jSDU2dDd2SGl4U3N3VzFLZkQ0TG03WXJWRmlzOFlXQ25QZmFWYTAtREt6dlI5TXNVY0IyWDZpMHI5MDlSMFFuOFlLdzM0N01jMGhaZE5oUTZfWHlYTmlZUFdtQ0lCQlVxTEJaa3FwVzdzZU9DTGhyNXdTVW1VdjQ4TzRSVQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 5,
-      "change24h": 0,
-      "vol24h": 29060,
-      "headlines": [
-        {
-          "title": "How to watch Cowboys-Saints: Kickoff time, TV/streaming info and more",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2Nja1pOclNTWnppNWFTT1ZzSnppdmJqX19NbHk4MjFheW9jSDU2dDd2SGl4U3N3VzFLZkQ0TG03WXJWRmlzOFlXQ25QZmFWYTAtREt6dlI5TXNVY0IyWDZpMHI5MDlSMFFuOFlLdzM0N01jMGhaZE5oUTZfWHlYTmlZUFdtQ0lCQlVxTEJaa3FwVzdzZU9DTGhyNXdTVW1VdjQ4TzRSVQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the New Orleans Saints win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 9605,
-      "headlines": [
-        {
-          "title": "How to watch Cowboys-Saints: Kickoff time, TV/streaming info and more",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2Nja1pOclNTWnppNWFTT1ZzSnppdmJqX19NbHk4MjFheW9jSDU2dDd2SGl4U3N3VzFLZkQ0TG03WXJWRmlzOFlXQ25QZmFWYTAtREt6dlI5TXNVY0IyWDZpMHI5MDlSMFFuOFlLdzM0N01jMGhaZE5oUTZfWHlYTmlZUFdtQ0lCQlVxTEJaa3FwVzdzZU9DTGhyNXdTVW1VdjQ4TzRSVQ?oc=5",
+          "title": "‘How Many Fanbases Boo Their Pro Bowl QB?’ — Former Texans OL Blasts Deshaun Watson’s Callous Attitude Towards Browns Fans",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFgwMEI1Y01Fa2g4LWprVHdrZFVDbGh3NkdGYnA4LURJUDZJSXFxZkR1c0s0a3BVdVh6aFFFeHp0SDBYU2hDVVJnRzZLNnhPM1R4RkJNMHRfalFmQTFwbE45d0VYaGtNVDdSM2l3RWdTWm44NGFqaTNMa3liTHRqdQ?oc=5",
           "cat": "NFL"
         }
       ]
@@ -232,12 +200,48 @@
   ],
   "moversOnly": [
     {
+      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+      "yes": 81,
+      "change24h": 13,
+      "vol24h": 104257,
+      "headlines": []
+    },
+    {
       "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 55,
-      "change24h": 6,
-      "vol24h": 52462,
+      "yes": 59,
+      "change24h": 11,
+      "vol24h": 118433,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
+      "yes": 24,
+      "change24h": 10,
+      "vol24h": 25611,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 34,
+      "change24h": 9,
+      "vol24h": 115532,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 43,
+      "change24h": 8,
+      "vol24h": 73832,
       "headlines": []
     },
     {
@@ -246,34 +250,25 @@
       "url": "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
       "yes": 14,
       "change24h": 6,
-      "vol24h": 16701,
+      "vol24h": 25423,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "question": "Will Tesla release Optimus by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 28,
-      "change24h": 4,
-      "vol24h": 41729,
+      "url": "https://polymarket.com/event/will-tesla-release-optimus-by-december-31-2026",
+      "yes": 4,
+      "change24h": -5,
+      "vol24h": 7334,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
-      "yes": 19,
-      "change24h": 4,
-      "vol24h": 18376,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 39,
-      "change24h": 4,
-      "vol24h": 10137,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 27,
+      "change24h": -4,
+      "vol24h": 45998,
       "headlines": []
     }
   ]
