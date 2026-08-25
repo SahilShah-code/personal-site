@@ -1,29 +1,13 @@
 {
-  "updated": "2026-08-25T12:22:21.029Z",
+  "updated": "2026-08-25T18:21:10.205Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $75,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
-      "yes": 41,
-      "change24h": -12,
-      "vol24h": 112970,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In August 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz",
+      "question": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-bolt-ruiz-2026-08-25",
-      "yes": 28,
-      "change24h": -10,
-      "vol24h": 30526,
+      "url": "https://polymarket.com/event/atp-kwon-lajovic-2026-08-25",
+      "yes": 0,
+      "change24h": -61,
+      "vol24h": 664471,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -40,13 +24,63 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $82,000 August 24-30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
-      "yes": 50,
-      "change24h": 10,
-      "vol24h": 26801,
+      "question": "US Open, Qualification WTA: Alina Charaeva vs Susan Bandecchi",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-charaev-bandecc-2026-08-25",
+      "yes": 7,
+      "change24h": -59,
+      "vol24h": 17084,
       "headlines": [
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "US Open, Qualification WTA: Alina Charaeva vs Susan Bandecchi",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-charaev-bandecc-2026-08-25",
+      "yes": 9,
+      "change24h": -57,
+      "vol24h": 15906,
+      "headlines": [
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $75,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
+      "yes": 34,
+      "change24h": -10,
+      "vol24h": 94343,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Major Indexes Advance After Losing Day for S&P 500, Nasdaq; Oil Prices Sink; Bitcoin Briefly Tops $80K",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnFCUFpWelV1alQ1anRxd1VHcGZ3ajFZdTdmRFFMWWhVUURvcDE2NDJvb0YyeWhzX2pQWXNueDN2VGEyZUZHaUpZRnY4N2htRnhMQ2IwcUdpVXRLdnhQeXRhR3NReGg1bDNuc3VENXd4dTV1Q0Y5WFNzbGQ1dldoSkJpbkJ6ZzUzNXVhdURKeUQ?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
           "source": "RTTNews",
@@ -59,9 +93,31 @@
       "question": "Will Bitcoin dip to $74,000 August 24-30?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-august-24-30-2026",
-      "yes": 24,
-      "change24h": -10,
-      "vol24h": 24579,
+      "yes": 19,
+      "change24h": -8,
+      "vol24h": 18541,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Major Indexes Advance After Losing Day for S&P 500, Nasdaq; Oil Prices Sink; Bitcoin Briefly Tops $80K",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnFCUFpWelV1alQ1anRxd1VHcGZ3ajFZdTdmRFFMWWhVUURvcDE2NDJvb0YyeWhzX2pQWXNueDN2VGEyZUZHaUpZRnY4N2htRnhMQ2IwcUdpVXRLdnhQeXRhR3NReGg1bDNuc3VENXd4dTV1Q0Y5WFNzbGQ1dldoSkJpbkJ6ZzUzNXVhdURKeUQ?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In August 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakNOcmIzaXROWU5RX096NW43d2pZNG5FbWFWRWlWUkR0bE1pR2lBXzNoeDZDbnR0eERpbTRWeUJud3JzWVhFRlpqWXg5Uk9HTV9oX1EtRFZLbHFMTDVzcWVKZzFXRFBNNExJbGhsVW8xY3B3dTl2Vzg0Mk84TWlmM2JoVElkS3N1azNwYXMzRQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,800 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-august-2026",
+      "yes": 12,
+      "change24h": -7,
+      "vol24h": 25601,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -72,89 +128,23 @@
       ]
     },
     {
-      "question": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-bu-noguchi-2026-08-25",
-      "yes": 73,
-      "change24h": -5,
-      "vol24h": 78342,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open, Qualification ATP: Henrique Rocha vs Michael Mmoh",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-rocha-mmoh-2026-08-25",
-      "yes": 57,
-      "change24h": 4,
-      "vol24h": 9303,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 57,
-      "change24h": 3,
-      "vol24h": 64557,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 35,
+      "change24h": 2,
+      "vol24h": 462313,
       "headlines": [
+        {
+          "title": "The credibility of the Fed, the world's most powerful financial institution, is at risk",
+          "source": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0R4U2JEc0EyU3MyV3VrYnpvS3JNLW5yMFZrOVFwdzJILUpUS21FelBob2RXdVNnRGJ5aldJX3RVTVFQM1BJSUktRVRURVI5ekcwamxGZ2NvY04tOGkyYjlnM3ZnVW9tSmJURVo0ZjgyTU4wX1NfLXAzdU05d1BBTnF6bERSYTBWamNpR2djUDdaSlRuRVhUeHhZc2RFZFVrdHhOWG1rVXc1V0pfdUU4eWgtUmxBZU5ReE8xT3pIZkdqUEFBUzBKZm9nNHFWTlpVNmNiLTdTZkR6OC1TZzF1Z3BhNkcwTm1DWGpRRjBac1BqRHJJRWUtRnRHTS1EQQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzJ1cVl2Ny1WanlFSEpJczFRQ19DSnJoeUJQNmwxNFVvZm1OUXVodzRPVElZZXBNLW5Ndnp5REdRRjB5Z19fREtlX09qNXBtNll3WlBud3ptZnFtdWtwbzFLVkw2MHJId3FXMGFhZTF0d2x0ZnNsdUthU1ZmaW1URmIzZ1kxR0JUU2lwTG41aE44YlotT3hIUjlDZ1VhSThxelVTNjRreWhnbWtqRjZEMjhLekJuWDZfZUFqcVJGcDJnZk0?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
-          "source": "The Journal Gazette",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 34,
-      "change24h": 3,
-      "vol24h": 14218,
-      "headlines": [
-        {
-          "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzJ1cVl2Ny1WanlFSEpJczFRQ19DSnJoeUJQNmwxNFVvZm1OUXVodzRPVElZZXBNLW5Ndnp5REdRRjB5Z19fREtlX09qNXBtNll3WlBud3ptZnFtdWtwbzFLVkw2MHJId3FXMGFhZTF0d2x0ZnNsdUthU1ZmaW1URmIzZ1kxR0JUU2lwTG41aE44YlotT3hIUjlDZ1VhSThxelVTNjRreWhnbWtqRjZEMjhLekJuWDZfZUFqcVJGcDJnZk0?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
-          "source": "The Journal Gazette",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -164,68 +154,70 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 66,
-      "change24h": -2,
-      "vol24h": 532269,
+      "change24h": -1,
+      "vol24h": 448588,
       "headlines": [
+        {
+          "title": "The credibility of the Fed, the world's most powerful financial institution, is at risk",
+          "source": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0R4U2JEc0EyU3MyV3VrYnpvS3JNLW5yMFZrOVFwdzJILUpUS21FelBob2RXdVNnRGJ5aldJX3RVTVFQM1BJSUktRVRURVI5ekcwamxGZ2NvY04tOGkyYjlnM3ZnVW9tSmJURVo0ZjgyTU4wX1NfLXAzdU05d1BBTnF6bERSYTBWamNpR2djUDdaSlRuRVhUeHhZc2RFZFVrdHhOWG1rVXc1V0pfdUU4eWgtUmxBZU5ReE8xT3pIZkdqUEFBUzBKZm9nNHFWTlpVNmNiLTdTZkR6OC1TZzF1Z3BhNkcwTm1DWGpRRjBac1BqRHJJRWUtRnRHTS1EQQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzJ1cVl2Ny1WanlFSEpJczFRQ19DSnJoeUJQNmwxNFVvZm1OUXVodzRPVElZZXBNLW5Ndnp5REdRRjB5Z19fREtlX09qNXBtNll3WlBud3ptZnFtdWtwbzFLVkw2MHJId3FXMGFhZTF0d2x0ZnNsdUthU1ZmaW1URmIzZ1kxR0JUU2lwTG41aE44YlotT3hIUjlDZ1VhSThxelVTNjRreWhnbWtqRjZEMjhLekJuWDZfZUFqcVJGcDJnZk0?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 56,
+      "change24h": 1,
+      "vol24h": 63586,
+      "headlines": [
+        {
+          "title": "The credibility of the Fed, the world's most powerful financial institution, is at risk",
+          "source": "Le Monde.fr",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0R4U2JEc0EyU3MyV3VrYnpvS3JNLW5yMFZrOVFwdzJILUpUS21FelBob2RXdVNnRGJ5aldJX3RVTVFQM1BJSUktRVRURVI5ekcwamxGZ2NvY04tOGkyYjlnM3ZnVW9tSmJURVo0ZjgyTU4wX1NfLXAzdU05d1BBTnF6bERSYTBWamNpR2djUDdaSlRuRVhUeHhZc2RFZFVrdHhOWG1rVXc1V0pfdUU4eWgtUmxBZU5ReE8xT3pIZkdqUEFBUzBKZm9nNHFWTlpVNmNiLTdTZkR6OC1TZzF1Z3BhNkcwTm1DWGpRRjBac1BqRHJJRWUtRnRHTS1EQQ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Economy: Fed officials eye higher rates; unemployment claims fall",
-          "source": "The Journal Gazette",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR1Itc2VWUGNCSG1yZHFyNW9RQlJoVXB4UVdHVGtTUUNJTWtYdFBtQWFReVJaazRNd0R2RTBmbnhNVlI5alFpXzRxbDBDaE1zY3UtUFdSVWZnRGNxRWVzdnBOMlBua2JWN2dkUjJhQXVkMzBud2pFTU8zTnNuZ3Yydk5sV2J4SU4wZUIyR2d4XzN4MkUxZHU2bzZnQWlvNmxhRWp6YWVUNjFrU0t3VlpMMjI4dXFKdG5QcTFISW4yampIV0ZjTTJoYjFKel9Sa1YxNUlwS1FzdXNBeUZQWEptM3c5ODJBa0pUcG4tVjRkWQ?oc=5",
+          "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzJ1cVl2Ny1WanlFSEpJczFRQ19DSnJoeUJQNmwxNFVvZm1OUXVodzRPVElZZXBNLW5Ndnp5REdRRjB5Z19fREtlX09qNXBtNll3WlBud3ptZnFtdWtwbzFLVkw2MHJId3FXMGFhZTF0d2x0ZnNsdUthU1ZmaW1URmIzZ1kxR0JUU2lwTG41aE44YlotT3hIUjlDZ1VhSThxelVTNjRreWhnbWtqRjZEMjhLekJuWDZfZUFqcVJGcDJnZk0?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Utah Jazz win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-utah-jazz-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 41229,
+      "headlines": [
+        {
+          "title": "Seemingly everyone is gaining eligibility, but Utah star Noam Yaacov was not as fortunate",
+          "source": "Busting Brackets",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWVZpMlZBZkJTVzNwNFRUVFJLTkxaQTVxS0RqT2x2QW45SV94SXQxOGRpbkoyR1Zjcm1XeGtDQ3VZMXZ5bWlOcERpUEFJeGFiWEVnS0NDMi1ZbzBrQmc2ZlRtWFB5dUlBd3FxeUNGUXBadFlORU1NeXlYTHpWZjZFSnRZcHl2TzVJdjNXSW1WUTBtNzRlaHNGS1VpU3BUVGRsVXNIa2xxQ2tPQXlqVGlmQzkwRjlUU3Uxc0RaSi1hUE9rQ05EalE?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 31,
-      "change24h": 7,
-      "vol24h": 115478,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
-      "yes": 21,
-      "change24h": 6,
-      "vol24h": 32130,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 54,
-      "change24h": 5,
-      "vol24h": 119954,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 39,
-      "change24h": 5,
-      "vol24h": 86173,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
       "yes": 14,
-      "change24h": 4,
-      "vol24h": 15514,
+      "change24h": -4,
+      "vol24h": 60608,
       "headlines": []
     }
   ]
