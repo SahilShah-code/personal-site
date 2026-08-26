@@ -1,79 +1,13 @@
 {
-  "updated": "2026-08-26T00:33:30.879Z",
+  "updated": "2026-08-26T06:25:54.697Z",
   "withNews": [
     {
-      "question": "US Open, Qualification ATP: Seong-Chan Hong vs Nikoloz Basilashvili",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-hong-basilas-2026-08-25",
-      "yes": 78,
-      "change24h": 45,
-      "vol24h": 87463,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open, Qualification ATP: Nicolas Mejia vs Liam Draxl",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-mejia-draxl-2026-08-25",
-      "yes": 8,
-      "change24h": -42,
-      "vol24h": 41174,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open, Qualification WTA: Vendula Valdmannova vs Maria Lourdes Carle",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-valdman-carle-2026-08-25",
-      "yes": 100,
-      "change24h": 28,
-      "vol24h": 41798,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,600 in August?",
+      "question": "Will Bitcoin reach $82,000 August 24-30?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-august-2026",
-      "yes": 42,
-      "change24h": -18,
-      "vol24h": 16217,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
+      "yes": 43,
+      "change24h": -36,
+      "vol24h": 10396,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -84,12 +18,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,800 in August?",
+      "question": "Will Bitcoin reach $84,000 August 24-30?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-august-2026",
-      "yes": 9,
-      "change24h": -9,
-      "vol24h": 24426,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-24-30-2026",
+      "yes": 22,
+      "change24h": -28,
+      "vol24h": 7189,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -103,9 +37,9 @@
       "question": "Will Bitcoin reach $82,500 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
-      "yes": 38,
-      "change24h": -7,
-      "vol24h": 188783,
+      "yes": 45,
+      "change24h": -27,
+      "vol24h": 123862,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In August 2026",
@@ -116,12 +50,56 @@
       ]
     },
     {
+      "question": "US Open, Qualification WTA: Despina Papamichail vs Ekaterine Gorgodze",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-papamic-gorgodz-2026-08-26",
+      "yes": 27,
+      "change24h": 5,
+      "vol24h": 12498,
+      "headlines": [
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "US Open, Qualification ATP: Francesco Passaro vs Tom Gentzsch",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-passaro-gentzsc-2026-08-26",
+      "yes": 48,
+      "change24h": 4,
+      "vol24h": 9318,
+      "headlines": [
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 68,
-      "change24h": 3,
-      "vol24h": 525366,
+      "change24h": 2,
+      "vol24h": 353338,
       "headlines": [
         {
           "title": "Will Fed Chair Warsh actually say anything in his big Friday speech?",
@@ -142,8 +120,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 33,
-      "change24h": -2,
-      "vol24h": 351291,
+      "change24h": -1,
+      "vol24h": 325384,
       "headlines": [
         {
           "title": "Will Fed Chair Warsh actually say anything in his big Friday speech?",
@@ -160,12 +138,28 @@
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will Ben Shelton win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
+      "yes": 8,
+      "change24h": 1,
+      "vol24h": 30651,
+      "headlines": [
+        {
+          "title": "1x All-NBA Ben Simmons Gets Major Kings Boost as GM Prepares to Watch Free Agent Work Out",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XV1R4UFcxeldIeHJDQkNGa3VzRVRVNzRPRWpmbkhyc3FQZ2NXSmNjM1huVnYxS3BZbUhCa0xrQmQxZmNlWkJWN0VMYnJYbFA5XzdTdUxSUUg5dlRTaWlPaUllYjUyVE1fMjJIOTVWZHNFb1N5MnVOSVVwWXo?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 34,
-      "change24h": -1,
-      "vol24h": 9679,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 56,
+      "change24h": 1,
+      "vol24h": 11236,
       "headlines": [
         {
           "title": "Will Fed Chair Warsh actually say anything in his big Friday speech?",
@@ -187,7 +181,7 @@
       "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 10484,
+      "vol24h": 10494,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -202,25 +196,36 @@
           "cat": "Tennis"
         }
       ]
-    },
-    {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 6,
-      "change24h": 0,
-      "vol24h": 9770,
-      "headlines": [
-        {
-          "title": "Flower Mound Marcus' Garrett Nussmeier is finding role with Chiefs after draft-day slide",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORllHdC1qUmdRNmhBaFo0R3JFWUJ0NmN3ajFpdHZpZ3RBWWItUGFvZnppWjc2ZXNjTXIya0s0X0NOY1Z0TWx1WXBpMnJ3VmRTNURsdmZleEp0dXY3d1NXXzRwc0dKcmFJN3diVkdNU0lyM3NacExXbTNxQzJpMlRlOVEzdDVxSHJnYmowRjJSWFNYNGJxUHJibUpNRkZnMGtfb3dNOGxzb3E1OXVhRDM1MUdNMmthLTlhU1MyZXpxUQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
     }
   ],
   "moversOnly": [
+    {
+      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
+      "yes": 44,
+      "change24h": -23,
+      "vol24h": 9122,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 66,
+      "change24h": 14,
+      "vol24h": 19919,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+      "yes": 69,
+      "change24h": -12,
+      "vol24h": 16957,
+      "headlines": []
+    },
     {
       "question": "Will another city host the final of the 2030 FIFA World Cup?",
       "topic": "World Cup",
@@ -235,8 +240,35 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
       "yes": 51,
+      "change24h": -8,
+      "vol24h": 20606,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 38,
+      "change24h": -5,
+      "vol24h": 24551,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 30,
+      "change24h": 4,
+      "vol24h": 110430,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 30,
       "change24h": -4,
-      "vol24h": 86667,
+      "vol24h": 29352,
       "headlines": []
     }
   ]
