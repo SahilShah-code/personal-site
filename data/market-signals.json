@@ -1,128 +1,84 @@
 {
-  "updated": "2026-08-26T19:30:04.945Z",
+  "updated": "2026-08-27T05:25:42.210Z",
   "withNews": [
     {
-      "question": "US Open, Qualification ATP: Elias Ymer vs Cristian Garin",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-ymer-garin-2026-08-26",
-      "yes": 0,
-      "change24h": -46,
-      "vol24h": 72137,
-      "headlines": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open, Qualification ATP: Remy Bertola vs Harry Wendelken",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-bertola-wendelk-2026-08-25",
-      "yes": 83,
-      "change24h": 35,
-      "vol24h": 62630,
-      "headlines": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open, Qualification WTA: Despina Papamichail vs Ekaterine Gorgodze",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-papamic-gorgodz-2026-08-26",
-      "yes": 0,
-      "change24h": -26,
-      "vol24h": 320510,
-      "headlines": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
-      "yes": 29,
+      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
+      "topic": "Biotech",
+      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
+      "yes": 51,
       "change24h": -17,
-      "vol24h": 134427,
+      "vol24h": 17242,
       "headlines": [
         {
-          "title": "Bitcoin Price Predictions in a Shifting Economic Landscape",
-          "source": "OneSafe",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12RjBqTWJIZ2U2dGRtNmhWTGZZNElaYnVaclV0alBFLWxIUWI2OGRPWGFTT1pCUnBpTmk3ckpqMEhtV1BKWDM2UmhZM1RCUml1ZWpseXFkT2tVLW1mN1NSSjVTVmJ3MjFOaXZaRmlkbFE4Q3lFLTA3U1VKRTk?oc=5",
-          "cat": "Macro"
+          "title": "FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
+          "source": "STAT",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTZuQkNreGcxNnROTUMxbk5xcXBpYU5VNWprQ2p2QnFSNmRHamdjLWNDbGhKOGE4WUd1Z0ZraS1vbFRHcmJDM2RqaEtRREFTRWhMZHBQakZPcmt3dHBuT0Y2SFQwZ1RaOENkTzR1MEpXUG1NYThfSFc2UldvMEZlTXdlQQ?oc=5",
+          "cat": "Biotech"
         },
         {
-          "title": "There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy Before the End of August.",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjBmSTMzUkdOeTVMSkdiRl93SU9Ja2tTVzBMX1pHZGcyeHM5LVQ2WnpMejU1V1pYRmp6NHV4dFJ3SXFOVThWb3ZOY2VZOWFObDluS0Nicm9ILTB4N0tlek1ETGpoX2Z5OHBVRTg4cHZzWndoWWFuZ2dXU3VneVBobVNmcExxbHd3aE5wNjl1S1BHYno4WG1acg?oc=5",
+          "title": "Opinion: The FDA must put biotech at its center or continue to cede early research to China",
+          "source": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3dHUDJiSjNQMDJmanI3dzFZV3lJUDd5emNYTy1vTGh1SDVkQlpDekJSanZlS0ZkTHUzSUdObUYwdGk1dzZucFdWNGVkeGVDZmxYNVV2azBfNFFmQ2xFMG5TdlU3VDdhN1B1ZWZuNnpCNEZOem9FVWFmTzBheG5pRGdnWW0tZXkzUmt2cEpHbzE4M0VqVzVjNmkzU19pOW1CRXBKWnQwbzNJMGFhWk5DUUJBZUpLbUpyeWRB?oc=5",
+          "cat": "Biotech"
+        }
+      ]
+    },
+    {
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 13,
+      "change24h": -5,
+      "vol24h": 9758,
+      "headlines": [
+        {
+          "title": "Gianni Infantino did not tell FIFA Council he was seeking private investment for U15 ‘World Cup’",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEFBS0RoWTlBUlJHWmhoV25ZcUdvajBVblNEYndtdzJwb2lHM1E1RU84d0RlU29wTHlvVDdZT0JSNzNkT0s1em9tR0t1UlhJc2M1YWg1U2ZNbVNIeDN1alduZ3ZjV2p3eTR1c0FKWVNzS2RlOTF0eWJmMFVJd1M5a0lLTjhKM3lGb0JKVHZSZ0pfa0V6aEFZanY0REdSdUdO?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 76,
+      "change24h": 4,
+      "vol24h": 10510,
+      "headlines": [
+        {
+          "title": "S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $85,000 in August?",
+      "question": "Will NVIDIA (NVDA) hit (HIGH) $240 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-august-2026",
+      "url": "https://polymarket.com/event/will-nvda-reach-240-in-august-2026",
       "yes": 11,
-      "change24h": -11,
-      "vol24h": 71410,
+      "change24h": -4,
+      "vol24h": 9866,
       "headlines": [
         {
-          "title": "Bitcoin Price Predictions in a Shifting Economic Landscape",
-          "source": "OneSafe",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12RjBqTWJIZ2U2dGRtNmhWTGZZNElaYnVaclV0alBFLWxIUWI2OGRPWGFTT1pCUnBpTmk3ckpqMEhtV1BKWDM2UmhZM1RCUml1ZWpseXFkT2tVLW1mN1NSSjVTVmJ3MjFOaXZaRmlkbFE4Q3lFLTA3U1VKRTk?oc=5",
-          "cat": "Macro"
+          "title": "S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy Before the End of August.",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjBmSTMzUkdOeTVMSkdiRl93SU9Ja2tTVzBMX1pHZGcyeHM5LVQ2WnpMejU1V1pYRmp6NHV4dFJ3SXFOVThWb3ZOY2VZOWFObDluS0Nicm9ILTB4N0tlek1ETGpoX2Z5OHBVRTg4cHZzWndoWWFuZ2dXU3VneVBobVNmcExxbHd3aE5wNjl1S1BHYno4WG1acg?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,700 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-august-2026",
-      "yes": 17,
-      "change24h": -8,
-      "vol24h": 35581,
-      "headlines": [
-        {
-          "title": "There Are Only a Handful of S&P 500 Stocks That Yield Over 5%. Here's My Top Pick to Buy Before the End of August.",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjBmSTMzUkdOeTVMSkdiRl93SU9Ja2tTVzBMX1pHZGcyeHM5LVQ2WnpMejU1V1pYRmp6NHV4dFJ3SXFOVThWb3ZOY2VZOWFObDluS0Nicm9ILTB4N0tlek1ETGpoX2Z5OHBVRTg4cHZzWndoWWFuZ2dXU3VneVBobVNmcExxbHd3aE5wNjl1S1BHYno4WG1acg?oc=5",
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
           "cat": "Markets"
         }
       ]
@@ -131,86 +87,162 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 34,
-      "change24h": -1,
-      "vol24h": 440770,
+      "yes": 31,
+      "change24h": -2,
+      "vol24h": 500351,
       "headlines": [
         {
-          "title": "US Core PCE Inflation Rises 3.7% in Q2, Topping Forecasts and Complicating Fed Rate Path",
-          "source": "Bitcoin World",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOXNSZXhsaUtNSEZqSnNDa1FpcnlSWE9sbWRlOUpQbnk0X2FYZmNJNlFMQUhPekVOY0hKVlZxOU9LNzVPZ180dXBIejFEMTBHdmc1Z2dZckM1MXZXVGFPVmhGOEpBWW1f?oc=5",
+          "title": "Inflation is stuck above 2%. Can the Fed really do anything about it?",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdkSkU0WHNQMnpmUzlCdW1zX0E2eC01TVpVU1gtdnJqcmRaOUF0OTZsYmJtUE1LZzBZRjR3dlRpMzh6a0VLRHJ5NDhHUEozczVQaFN3ZVF1QnhoR1dCenQzWWxFc2p3Q1NnTm5kRmJqYU1oVlVZdmJmVVFyTE04U1FLU3BBdEpwUHRWTVdR?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1Q4Wlo5Z2otSnEzSHhvZXBtbVhNajY0NHlGMDN3azI1c3pqLWhYU2VIOF9FQ3NIMk9zUXVvMW5kY2MxV3FSVG5yYTNYTzdRYk9IdHdkUThxSHo5TGxzbGtxWXlzOW80OHZiU1VENnp2cTVxXzZLSldqMVlPSWQ1S0p2QUJWbTVxS1dTSHhwcDh2R1ZYN3BMZmRZbHZDSTRBUzNDX2tfRjByeU04XzFyeVUtbURNaVU?oc=5",
+          "title": "US inflation holds at 3.7 percent in July, above Fed target",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkcycVZ4MTRqczRFMkhLc253UmlvMTdUUnAzS2Y1aTZDU29Ddm9OVXVsMmZ2SWlyN1R0RWtFSXVCRllzOXkyMjN0ODY3YTA4ZE9CdDdGX0NGemZPSHdWLWJ3RlVHeFQwc3dOejc1WG12b01sMjBVb05vTjA3ZnkzbTROWTNVZ9IBiwFBVV95cUxORmI3VnJYRXI4YmxCMXFuazlkV2xTY0tsYzA4a2R5bTgzRE45TElfQmsxbkYzR2otbzI2aFZyZWtPdkE5cFZBNkVraDlmd0tBRTNBXzFYdnVVMDZDelQ2UWpicEpXak1KSkRMUlVZT2dyNTBXZG5ibkF0T0UzWFlWZHlxRURGSDJzeG1R?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
+      "yes": 100,
+      "change24h": 2,
+      "vol24h": 75869,
+      "headlines": [
+        {
+          "title": "S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
+          "source": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "Will no Fed rate cuts happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 65,
-      "change24h": -1,
-      "vol24h": 438699,
-      "headlines": [
-        {
-          "title": "US Core PCE Inflation Rises 3.7% in Q2, Topping Forecasts and Complicating Fed Rate Path",
-          "source": "Bitcoin World",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOXNSZXhsaUtNSEZqSnNDa1FpcnlSWE9sbWRlOUpQbnk0X2FYZmNJNlFMQUhPekVOY0hKVlZxOU9LNzVPZ180dXBIejFEMTBHdmc1Z2dZckM1MXZXVGFPVmhGOEpBWW1f?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1Q4Wlo5Z2otSnEzSHhvZXBtbVhNajY0NHlGMDN3azI1c3pqLWhYU2VIOF9FQ3NIMk9zUXVvMW5kY2MxV3FSVG5yYTNYTzdRYk9IdHdkUThxSHo5TGxzbGtxWXlzOW80OHZiU1VENnp2cTVxXzZLSldqMVlPSWQ1S0p2QUJWbTVxS1dTSHhwcDh2R1ZYN3BMZmRZbHZDSTRBUzNDX2tfRjByeU04XzFyeVUtbURNaVU?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 57,
+      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
+      "yes": 88,
       "change24h": 1,
-      "vol24h": 33520,
+      "vol24h": 24820,
       "headlines": [
         {
-          "title": "US Core PCE Inflation Rises 3.7% in Q2, Topping Forecasts and Complicating Fed Rate Path",
-          "source": "Bitcoin World",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhOXNSZXhsaUtNSEZqSnNDa1FpcnlSWE9sbWRlOUpQbnk0X2FYZmNJNlFMQUhPekVOY0hKVlZxOU9LNzVPZ180dXBIejFEMTBHdmc1Z2dZckM1MXZXVGFPVmhGOEpBWW1f?oc=5",
+          "title": "Inflation is stuck above 2%. Can the Fed really do anything about it?",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdkSkU0WHNQMnpmUzlCdW1zX0E2eC01TVpVU1gtdnJqcmRaOUF0OTZsYmJtUE1LZzBZRjR3dlRpMzh6a0VLRHJ5NDhHUEozczVQaFN3ZVF1QnhoR1dCenQzWWxFc2p3Q1NnTm5kRmJqYU1oVlVZdmJmVVFyTE04U1FLU3BBdEpwUHRWTVdR?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1Q4Wlo5Z2otSnEzSHhvZXBtbVhNajY0NHlGMDN3azI1c3pqLWhYU2VIOF9FQ3NIMk9zUXVvMW5kY2MxV3FSVG5yYTNYTzdRYk9IdHdkUThxSHo5TGxzbGtxWXlzOW80OHZiU1VENnp2cTVxXzZLSldqMVlPSWQ1S0p2QUJWbTVxS1dTSHhwcDh2R1ZYN3BMZmRZbHZDSTRBUzNDX2tfRjByeU04XzFyeVUtbURNaVU?oc=5",
-          "cat": "Markets"
+          "title": "US inflation holds at 3.7 percent in July, above Fed target",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkcycVZ4MTRqczRFMkhLc253UmlvMTdUUnAzS2Y1aTZDU29Ddm9OVXVsMmZ2SWlyN1R0RWtFSXVCRllzOXkyMjN0ODY3YTA4ZE9CdDdGX0NGemZPSHdWLWJ3RlVHeFQwc3dOejc1WG12b01sMjBVb05vTjA3ZnkzbTROWTNVZ9IBiwFBVV95cUxORmI3VnJYRXI4YmxCMXFuazlkV2xTY0tsYzA4a2R5bTgzRE45TElfQmsxbkYzR2otbzI2aFZyZWtPdkE5cFZBNkVraDlmd0tBRTNBXzFYdnVVMDZDelQ2UWpicEpXak1KSkRMUlVZT2dyNTBXZG5ibkF0T0UzWFlWZHlxRURGSDJzeG1R?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 787361,
+      "headlines": [
+        {
+          "title": "Inflation is stuck above 2%. Can the Fed really do anything about it?",
+          "source": "marketplace.org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdkSkU0WHNQMnpmUzlCdW1zX0E2eC01TVpVU1gtdnJqcmRaOUF0OTZsYmJtUE1LZzBZRjR3dlRpMzh6a0VLRHJ5NDhHUEozczVQaFN3ZVF1QnhoR1dCenQzWWxFc2p3Q1NnTm5kRmJqYU1oVlVZdmJmVVFyTE04U1FLU3BBdEpwUHRWTVdR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "US inflation holds at 3.7 percent in July, above Fed target",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkcycVZ4MTRqczRFMkhLc253UmlvMTdUUnAzS2Y1aTZDU29Ddm9OVXVsMmZ2SWlyN1R0RWtFSXVCRllzOXkyMjN0ODY3YTA4ZE9CdDdGX0NGemZPSHdWLWJ3RlVHeFQwc3dOejc1WG12b01sMjBVb05vTjA3ZnkzbTROWTNVZ9IBiwFBVV95cUxORmI3VnJYRXI4YmxCMXFuazlkV2xTY0tsYzA4a2R5bTgzRE45TElfQmsxbkYzR2otbzI2aFZyZWtPdkE5cFZBNkVraDlmd0tBRTNBXzFYdnVVMDZDelQ2UWpicEpXak1KSkRMUlVZT2dyNTBXZG5ibkF0T0UzWFlWZHlxRURGSDJzeG1R?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will Ethereum dip to $2,400 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-august-2026-from-august-23",
+      "yes": 55,
+      "change24h": -17,
+      "vol24h": 9205,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $82,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
+      "yes": 29,
+      "change24h": -16,
+      "vol24h": 120697,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026-from-august-25",
+      "yes": 65,
+      "change24h": -16,
+      "vol24h": 38872,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $82,000 August 24-30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
+      "yes": 27,
+      "change24h": -16,
+      "vol24h": 8883,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $84,000 August 24-30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-24-30-2026",
+      "yes": 12,
+      "change24h": -10,
+      "vol24h": 11241,
+      "headlines": []
+    },
+    {
       "question": "Will another city host the final of the 2030 FIFA World Cup?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
       "yes": 44,
-      "change24h": 6,
-      "vol24h": 14024,
+      "change24h": 8,
+      "vol24h": 13519,
       "headlines": []
     },
     {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 27,
-      "change24h": -4,
-      "vol24h": 130278,
+      "question": "Will Bitcoin dip to $75,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
+      "yes": 28,
+      "change24h": -7,
+      "vol24h": 47992,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $74,000 August 24-30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-august-24-30-2026",
+      "yes": 12,
+      "change24h": -7,
+      "vol24h": 14074,
       "headlines": []
     }
   ]
