@@ -1,25 +1,25 @@
 {
-  "updated": "2026-08-27T05:25:42.210Z",
+  "updated": "2026-08-27T16:58:16.648Z",
   "withNews": [
     {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 51,
-      "change24h": -17,
-      "vol24h": 17242,
+      "question": "Will NVIDIA (NVDA) hit (HIGH) $232 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvda-reach-232-in-august-2026",
+      "yes": 72,
+      "change24h": 46,
+      "vol24h": 12484,
       "headlines": [
         {
-          "title": "FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
-          "source": "STAT",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTZuQkNreGcxNnROTUMxbk5xcXBpYU5VNWprQ2p2QnFSNmRHamdjLWNDbGhKOGE4WUd1Z0ZraS1vbFRHcmJDM2RqaEtRREFTRWhMZHBQakZPcmt3dHBuT0Y2SFQwZ1RaOENkTzR1MEpXUG1NYThfSFc2UldvMEZlTXdlQQ?oc=5",
-          "cat": "Biotech"
+          "title": "S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "Opinion: The FDA must put biotech at its center or continue to cede early research to China",
-          "source": "BioSpace",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3dHUDJiSjNQMDJmanI3dzFZV3lJUDd5emNYTy1vTGh1SDVkQlpDekJSanZlS0ZkTHUzSUdObUYwdGk1dzZucFdWNGVkeGVDZmxYNVV2azBfNFFmQ2xFMG5TdlU3VDdhN1B1ZWZuNnpCNEZOem9FVWFmTzBheG5pRGdnWW0tZXkzUmt2cEpHbzE4M0VqVzVjNmkzU19pOW1CRXBKWnQwbzNJMGFhWk5DUUJBZUpLbUpyeWRB?oc=5",
-          "cat": "Biotech"
+          "title": "Stock Market Today: Dow, Nasdaq, S&P 500 Rise; Nvidia, Micron, Okta, Salesforce, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSTJNMkNveUF3RGkwVklLYW9uSktHX1hGLXUzak1pbmVKYnlFMWV4aWxkOXhZeEJiQzJLNUU2MXpzMVgyQmNCUEVIekpEMXREY3YyZkNSbHRLTTdINTBNZ0tPREtkQ05SbE1vd3IySGRCc3J3ZHc?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -27,14 +27,20 @@
       "question": "Gianni Infantino out as FIFA President by December 31?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 13,
-      "change24h": -5,
-      "vol24h": 9758,
+      "yes": 22,
+      "change24h": 7,
+      "vol24h": 16676,
       "headlines": [
         {
-          "title": "Gianni Infantino did not tell FIFA Council he was seeking private investment for U15 ‘World Cup’",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEFBS0RoWTlBUlJHWmhoV25ZcUdvajBVblNEYndtdzJwb2lHM1E1RU84d0RlU29wTHlvVDdZT0JSNzNkT0s1em9tR0t1UlhJc2M1YWg1U2ZNbVNIeDN1alduZ3ZjV2p3eTR1c0FKWVNzS2RlOTF0eWJmMFVJd1M5a0lLTjhKM3lGb0JKVHZSZ0pfa0V6aEFZanY0REdSdUdO?oc=5",
+          "title": "UEFA preparing criminal complaint against FIFA's Infantino, asks U.S. courts for FIFA documents",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDhldWlvM2I4djMyTlMtYkRiallGQnBnTkt0M2tFLWs5WW5GZzdyYmpVSHpwdl9VM1BLTHppV2owS251S2pWOGVEOWZpZW9SV3hfUmJfenFrdkdWNUh1YXNId3lTcGlKWlptUlVCeUFZUC16bXBQaVpIT0l0R1pvR3pUZUNfWGJobFNHQnBDaUNVaEtzVE80R1Jidw?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "UEFA prepares criminal complaint in Swiss courts against FIFA's Infantino over World Cup sell-off",
+          "source": "Castanet",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQenduUkZ4MGJucG1TWGVXNmZvaV9NT3otNjl2M3RKRW02R3kyVk9oRXRLSFZ1allvQjNpOE5ESlUyTzQ3ZnJGWEU1cnJLQUtiSGRRUFJQZGhDQmR5dlhCeVZhbDJSZU1uU2JsN1B5WXN1OEFReFhwMG1qX2JFVnJseGRHMG1BNW9BLVFVOTJJTDhKSkxCeUE2TmRFT3o3WFdNaVE1M2w2MllEUkoyUm16NW5odXhzZThxN0ZuWW5FUlM1aUFJcXdFb2F0cWpVb0kzZEthTjBPS3Q?oc=5",
           "cat": "World Cup"
         }
       ]
@@ -43,9 +49,9 @@
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 76,
-      "change24h": 4,
-      "vol24h": 10510,
+      "yes": 79,
+      "change24h": 7,
+      "vol24h": 13316,
       "headlines": [
         {
           "title": "S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings",
@@ -54,32 +60,32 @@
           "cat": "Markets"
         },
         {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
+          "title": "Stock Market Today: Dow, Nasdaq, S&P 500 Rise; Nvidia, Micron, Okta, Salesforce, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSTJNMkNveUF3RGkwVklLYW9uSktHX1hGLXUzak1pbmVKYnlFMWV4aWxkOXhZeEJiQzJLNUU2MXpzMVgyQmNCUEVIekpEMXREY3YyZkNSbHRLTTdINTBNZ0tPREtkQ05SbE1vd3IySGRCc3J3ZHc?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will NVIDIA (NVDA) hit (HIGH) $240 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvda-reach-240-in-august-2026",
-      "yes": 11,
-      "change24h": -4,
-      "vol24h": 9866,
+      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
+      "topic": "Biotech",
+      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
+      "yes": 64,
+      "change24h": -6,
+      "vol24h": 19473,
       "headlines": [
         {
-          "title": "S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
-          "cat": "Markets"
+          "title": "FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
+          "source": "STAT",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTZuQkNreGcxNnROTUMxbk5xcXBpYU5VNWprQ2p2QnFSNmRHamdjLWNDbGhKOGE4WUd1Z0ZraS1vbFRHcmJDM2RqaEtRREFTRWhMZHBQakZPcmt3dHBuT0Y2SFQwZ1RaOENkTzR1MEpXUG1NYThfSFc2UldvMEZlTXdlQQ?oc=5",
+          "cat": "Biotech"
         },
         {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -88,30 +94,52 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 31,
-      "change24h": -2,
-      "vol24h": 500351,
+      "change24h": -4,
+      "vol24h": 342743,
       "headlines": [
         {
-          "title": "Inflation is stuck above 2%. Can the Fed really do anything about it?",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdkSkU0WHNQMnpmUzlCdW1zX0E2eC01TVpVU1gtdnJqcmRaOUF0OTZsYmJtUE1LZzBZRjR3dlRpMzh6a0VLRHJ5NDhHUEozczVQaFN3ZVF1QnhoR1dCenQzWWxFc2p3Q1NnTm5kRmJqYU1oVlVZdmJmVVFyTE04U1FLU3BBdEpwUHRWTVdR?oc=5",
+          "title": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+          "source": "The Tribune-Democrat",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZTNhd25UR0JaeHJ0N0txWFl2MjJKMHFxWmdUNjYzd1hpdU9qRldhc0l6SG9EdFFnLUJRSDNabENsaVI0NGxFT0FoU28xYU5GZndqekRuV1cyVnowMlpzWEwtSUdWdE1Ma0FON29uWHk1d2VUTkVsMGR6QjUxbkpncFh6YWRwNmY4YURtUXdpNHFZaXg5V3A4c19GLXcyZ2xtekNYZnRZSFdaVF9qNzNnSmlVeEpuZlFYRjdOVG02TFZhVnZFTVl1QzFTTUg1TFY2QXR4TEF3MFVJWmVYVUxSYjRqeVQ1TTF3bnlyMVNjWmtXaTFlV1BLeHdTTC1PNG1LajdF?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "US inflation holds at 3.7 percent in July, above Fed target",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkcycVZ4MTRqczRFMkhLc253UmlvMTdUUnAzS2Y1aTZDU29Ddm9OVXVsMmZ2SWlyN1R0RWtFSXVCRllzOXkyMjN0ODY3YTA4ZE9CdDdGX0NGemZPSHdWLWJ3RlVHeFQwc3dOejc1WG12b01sMjBVb05vTjA3ZnkzbTROWTNVZ9IBiwFBVV95cUxORmI3VnJYRXI4YmxCMXFuazlkV2xTY0tsYzA4a2R5bTgzRE45TElfQmsxbkYzR2otbzI2aFZyZWtPdkE5cFZBNkVraDlmd0tBRTNBXzFYdnVVMDZDelQ2UWpicEpXak1KSkRMUlVZT2dyNTBXZG5ibkF0T0UzWFlWZHlxRURGSDJzeG1R?oc=5",
+          "title": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUcwZVlnODhjUXdFVU9BcTdacHBnUEJKNWc5QU96SFFwcTFTM3AxTkNtZS0taU01SFVBZmRnVUxjQndpVWxnNGw5UG5LdUtPX0VUVjJTbUVaY3c0YUpNX0lGRU5lVDFSZm1QZkhkT054aHhpZ0pCS2xwNUJFd2ZzbmxUUkt1OS1yOGVXWGExeF8xd1g4SEE0WUF0aHdnQdIBowFBVV95cUxNVTRIRTJLejhkd2kzc2lINU1hVGhHU0M1QUlEQ3gzSHVlZERHMlZrSjRWaWd4cUFSSUZWYTBnUkl6Ym1YYjYxS1VMeWs1ZlkzS1dzemNwd0hmRy1sb1hRT3lhRE92aVdOSldJNXZ0aDdwYUdUd0QtUGZCbEV4a3NockhSRnFaMWVWc2lzN3Y1aHREV2kySVRPaHJlWmt5dHN4VVNz?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on August 31?",
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 36,
+      "change24h": 4,
+      "vol24h": 26594,
+      "headlines": [
+        {
+          "title": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+          "source": "The Tribune-Democrat",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZTNhd25UR0JaeHJ0N0txWFl2MjJKMHFxWmdUNjYzd1hpdU9qRldhc0l6SG9EdFFnLUJRSDNabENsaVI0NGxFT0FoU28xYU5GZndqekRuV1cyVnowMlpzWEwtSUdWdE1Ma0FON29uWHk1d2VUTkVsMGR6QjUxbkpncFh6YWRwNmY4YURtUXdpNHFZaXg5V3A4c19GLXcyZ2xtekNYZnRZSFdaVF9qNzNnSmlVeEpuZlFYRjdOVG02TFZhVnZFTVl1QzFTTUg1TFY2QXR4TEF3MFVJWmVYVUxSYjRqeVQ1TTF3bnlyMVNjWmtXaTFlV1BLeHdTTC1PNG1LajdF?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUcwZVlnODhjUXdFVU9BcTdacHBnUEJKNWc5QU96SFFwcTFTM3AxTkNtZS0taU01SFVBZmRnVUxjQndpVWxnNGw5UG5LdUtPX0VUVjJTbUVaY3c0YUpNX0lGRU5lVDFSZm1QZkhkT054aHhpZ0pCS2xwNUJFd2ZzbmxUUkt1OS1yOGVXWGExeF8xd1g4SEE0WUF0aHdnQdIBowFBVV95cUxNVTRIRTJLejhkd2kzc2lINU1hVGhHU0M1QUlEQ3gzSHVlZERHMlZrSjRWaWd4cUFSSUZWYTBnUkl6Ym1YYjYxS1VMeWs1ZlkzS1dzemNwd0hmRy1sb1hRT3lhRE92aVdOSldJNXZ0aDdwYUdUd0QtUGZCbEV4a3NockhSRnFaMWVWc2lzN3Y1aHREV2kySVRPaHJlWmt5dHN4VVNz?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA (NVDA) hit (HIGH) $240 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-august-31-20260715202138599",
-      "yes": 100,
-      "change24h": 2,
-      "vol24h": 75869,
+      "url": "https://polymarket.com/event/will-nvda-reach-240-in-august-2026",
+      "yes": 16,
+      "change24h": 4,
+      "vol24h": 16598,
       "headlines": [
         {
           "title": "S&P 500 closes little changed as investors weigh sticky inflation and await Nvidia earnings",
@@ -120,129 +148,189 @@
           "cat": "Markets"
         },
         {
-          "title": "Dow Jones Futures Rise; Nvidia, CrowdStrike, Okta, Salesforce Lead Earnings Movers",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFhLeEF5Rm9weUg1Nk56TFVSSTdIYmJFMEoybHNyNHdPSnVRTkJTbWQ3Sno0bVNyNkhfc243RVdBR3FXZnlEc0UxUUlKbWtjeVp0blZCTXhWY1BEVGt2d3lqV0RFdkZxdHFGQVY0X082QWpiWlRNX1ZRR21iUGNjVGNnVWNjOUFrMjBxZHhEbG5tdEc4d0VWcjBnZE9uOURqcGtEeXBZcVBibmd4d2VSa0pGVmFKdDFDVlBlU2VhLXVNZDNHRmc?oc=5",
+          "title": "Stock Market Today: Dow, Nasdaq, S&P 500 Rise; Nvidia, Micron, Okta, Salesforce, More Movers",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSTJNMkNveUF3RGkwVklLYW9uSktHX1hGLXUzak1pbmVKYnlFMWV4aWxkOXhZeEJiQzJLNUU2MXpzMVgyQmNCUEVIekpEMXREY3YyZkNSbHRLTTdINTBNZ0tPREtkQ05SbE1vd3IySGRCc3J3ZHc?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will no Fed rate cuts happen in 2026?",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
-      "yes": 88,
-      "change24h": 1,
-      "vol24h": 24820,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 68,
+      "change24h": 3,
+      "vol24h": 290938,
       "headlines": [
         {
-          "title": "Inflation is stuck above 2%. Can the Fed really do anything about it?",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdkSkU0WHNQMnpmUzlCdW1zX0E2eC01TVpVU1gtdnJqcmRaOUF0OTZsYmJtUE1LZzBZRjR3dlRpMzh6a0VLRHJ5NDhHUEozczVQaFN3ZVF1QnhoR1dCenQzWWxFc2p3Q1NnTm5kRmJqYU1oVlVZdmJmVVFyTE04U1FLU3BBdEpwUHRWTVdR?oc=5",
+          "title": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+          "source": "The Tribune-Democrat",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZTNhd25UR0JaeHJ0N0txWFl2MjJKMHFxWmdUNjYzd1hpdU9qRldhc0l6SG9EdFFnLUJRSDNabENsaVI0NGxFT0FoU28xYU5GZndqekRuV1cyVnowMlpzWEwtSUdWdE1Ma0FON29uWHk1d2VUTkVsMGR6QjUxbkpncFh6YWRwNmY4YURtUXdpNHFZaXg5V3A4c19GLXcyZ2xtekNYZnRZSFdaVF9qNzNnSmlVeEpuZlFYRjdOVG02TFZhVnZFTVl1QzFTTUg1TFY2QXR4TEF3MFVJWmVYVUxSYjRqeVQ1TTF3bnlyMVNjWmtXaTFlV1BLeHdTTC1PNG1LajdF?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "US inflation holds at 3.7 percent in July, above Fed target",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkcycVZ4MTRqczRFMkhLc253UmlvMTdUUnAzS2Y1aTZDU29Ddm9OVXVsMmZ2SWlyN1R0RWtFSXVCRllzOXkyMjN0ODY3YTA4ZE9CdDdGX0NGemZPSHdWLWJ3RlVHeFQwc3dOejc1WG12b01sMjBVb05vTjA3ZnkzbTROWTNVZ9IBiwFBVV95cUxORmI3VnJYRXI4YmxCMXFuazlkV2xTY0tsYzA4a2R5bTgzRE45TElfQmsxbkYzR2otbzI2aFZyZWtPdkE5cFZBNkVraDlmd0tBRTNBXzFYdnVVMDZDelQ2UWpicEpXak1KSkRMUlVZT2dyNTBXZG5ibkF0T0UzWFlWZHlxRURGSDJzeG1R?oc=5",
+          "title": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUcwZVlnODhjUXdFVU9BcTdacHBnUEJKNWc5QU96SFFwcTFTM3AxTkNtZS0taU01SFVBZmRnVUxjQndpVWxnNGw5UG5LdUtPX0VUVjJTbUVaY3c0YUpNX0lGRU5lVDFSZm1QZkhkT054aHhpZ0pCS2xwNUJFd2ZzbmxUUkt1OS1yOGVXWGExeF8xd1g4SEE0WUF0aHdnQdIBowFBVV95cUxNVTRIRTJLejhkd2kzc2lINU1hVGhHU0M1QUlEQ3gzSHVlZERHMlZrSjRWaWd4cUFSSUZWYTBnUkl6Ym1YYjYxS1VMeWs1ZlkzS1dzemNwd0hmRy1sb1hRT3lhRE92aVdOSldJNXZ0aDdwYUdUd0QtUGZCbEV4a3NockhSRnFaMWVWc2lzN3Y1aHREV2kySVRPaHJlWmt5dHN4VVNz?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-september-2026-meeting-586",
-      "yes": 1,
+      "question": "US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-gaubas-wendelk-2026-08-27",
+      "yes": 70,
       "change24h": 0,
-      "vol24h": 787361,
+      "vol24h": 144156,
       "headlines": [
         {
-          "title": "Inflation is stuck above 2%. Can the Fed really do anything about it?",
-          "source": "marketplace.org",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdkSkU0WHNQMnpmUzlCdW1zX0E2eC01TVpVU1gtdnJqcmRaOUF0OTZsYmJtUE1LZzBZRjR3dlRpMzh6a0VLRHJ5NDhHUEozczVQaFN3ZVF1QnhoR1dCenQzWWxFc2p3Q1NnTm5kRmJqYU1oVlVZdmJmVVFyTE04U1FLU3BBdEpwUHRWTVdR?oc=5",
-          "cat": "Macro"
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "US inflation holds at 3.7 percent in July, above Fed target",
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkcycVZ4MTRqczRFMkhLc253UmlvMTdUUnAzS2Y1aTZDU29Ddm9OVXVsMmZ2SWlyN1R0RWtFSXVCRllzOXkyMjN0ODY3YTA4ZE9CdDdGX0NGemZPSHdWLWJ3RlVHeFQwc3dOejc1WG12b01sMjBVb05vTjA3ZnkzbTROWTNVZ9IBiwFBVV95cUxORmI3VnJYRXI4YmxCMXFuazlkV2xTY0tsYzA4a2R5bTgzRE45TElfQmsxbkYzR2otbzI2aFZyZWtPdkE5cFZBNkVraDlmd0tBRTNBXzFYdnVVMDZDelQ2UWpicEpXak1KSkRMUlVZT2dyNTBXZG5ibkF0T0UzWFlWZHlxRURGSDJzeG1R?oc=5",
-          "cat": "Macro"
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "US Open, Qualification ATP: Toby Samuel vs Cristian Garin",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-samuel-garin-2026-08-27",
+      "yes": 63,
+      "change24h": 0,
+      "vol24h": 133295,
+      "headlines": [
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "US Open, Qualification WTA: Julieta Pareja vs Lucrezia Stefanini",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-pareja-stefani-2026-08-27",
+      "yes": 22,
+      "change24h": 0,
+      "vol24h": 105630,
+      "headlines": [
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 30001,
+      "headlines": [
+        {
+          "title": "\"I tried to get in at $100, but they didn't let me\" - Metta Sandiford- Artest reveals he tried to buy a minority share of the Lakers from Mark Walter",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQejBqV3RIdXpEZ1BvdFZnNzNzLWh6UXVWX2ROcmNGRE5uRlQtRmQwRm8wNHFDYk5CS2xFZUIyUjdvSE1oSF9udS1wcThFSDZHZDJES0xPNXBsTWkwa2NhQ1kyYUNvcENFTnY2WW5DYlJsQm9NRkp5OVNFbUs4d2JNWFQ5WTd4VUI5TGgwcjFCVGRyM2c0YVVqd0NXTlAxN2pGaDdxNWJtZlcwUGNrRmpPOGVQNjYwODdXUzlxRTZHWF9WV01BR18zYUxYaFo5V2I2VXVILUI0N3VXUQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will Bitcoin dip to $77,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-august-2026",
+      "yes": 42,
+      "change24h": -46,
+      "vol24h": 72187,
+      "headlines": []
+    },
+    {
       "question": "Will Ethereum dip to $2,400 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-august-2026-from-august-23",
-      "yes": 55,
-      "change24h": -17,
-      "vol24h": 9205,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
-      "yes": 29,
-      "change24h": -16,
-      "vol24h": 120697,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-august-2026-from-august-25",
-      "yes": 65,
-      "change24h": -16,
-      "vol24h": 38872,
+      "yes": 34,
+      "change24h": -41,
+      "vol24h": 40702,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $82,000 August 24-30?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
-      "yes": 27,
-      "change24h": -16,
-      "vol24h": 8883,
+      "yes": 61,
+      "change24h": 38,
+      "vol24h": 17673,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $84,000 August 24-30?",
+      "question": "Will Bitcoin reach $82,500 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-24-30-2026",
-      "yes": 12,
-      "change24h": -10,
-      "vol24h": 11241,
-      "headlines": []
-    },
-    {
-      "question": "Will another city host the final of the 2030 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
-      "yes": 44,
-      "change24h": 8,
-      "vol24h": 13519,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
+      "yes": 56,
+      "change24h": 32,
+      "vol24h": 139872,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $75,000 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
-      "yes": 28,
-      "change24h": -7,
-      "vol24h": 47992,
+      "yes": 14,
+      "change24h": -27,
+      "vol24h": 48461,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $74,000 August 24-30?",
+      "question": "Will Ethereum reach $2,600 in August?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-august-24-30-2026",
-      "yes": 12,
-      "change24h": -7,
-      "vol24h": 14074,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-august-2026",
+      "yes": 62,
+      "change24h": 27,
+      "vol24h": 24711,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,300 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-august-2026",
+      "yes": 10,
+      "change24h": -23,
+      "vol24h": 22901,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-august-2026",
+      "yes": 26,
+      "change24h": 17,
+      "vol24h": 104405,
       "headlines": []
     }
   ]
