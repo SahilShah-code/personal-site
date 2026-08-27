@@ -1,30 +1,26 @@
 {
-  "updated": "2026-08-27 02:56 UTC",
-  "net_return_pct": -29.7,
-  "realized_return_pct": -29.7,
+  "updated": "2026-08-27 13:54 UTC",
+  "net_return_pct": -38.1,
+  "realized_return_pct": -38.1,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 27.8,
-  "settled_total": 18,
+  "win_rate_pct": 21.4,
+  "settled_total": 14,
   "curve": [
     0,
-    5.9,
-    -35.2,
-    -53.3,
-    -3.8,
-    -13.7,
-    -24.6,
-    -35.8,
-    -40.2,
-    -47.5,
-    -13.6,
-    -10.7,
-    -14.8,
-    -22.4,
-    -21.1,
-    -16.6,
-    -22,
-    -26.7,
-    -29.7
+    -100,
+    -82.9,
+    -89.7,
+    -91.5,
+    -93.6,
+    -21.7,
+    -15.5,
+    -21.9,
+    -32.6,
+    -29,
+    -21.9,
+    -28.8,
+    -34.6,
+    -38.1
   ],
   "active": [],
   "settled": [
@@ -125,34 +121,6 @@
       "result": "no",
       "date": "2026-06-24",
       "return_pct": -100
-    },
-    {
-      "title": "Uruguay vs Cape Verde Winner?",
-      "ticker": "KXWCGAME-26JUN21URUCPV-CPV",
-      "result": "no",
-      "date": "2026-06-22",
-      "return_pct": 268.5
-    },
-    {
-      "title": "Ecuador vs Curacao Winner?",
-      "ticker": "KXWCGAME-26JUN20ECUCUW-CUW",
-      "result": "no",
-      "date": "2026-06-21",
-      "return_pct": -100
-    },
-    {
-      "title": "Netherlands vs Sweden Winner?",
-      "ticker": "KXWCGAME-26JUN20NEDSWE-SWE",
-      "result": "no",
-      "date": "2026-06-20",
-      "return_pct": -100
-    },
-    {
-      "title": "Turkiye vs Paraguay Winner?",
-      "ticker": "KXWCGAME-26JUN19TURPAR-TUR",
-      "result": "no",
-      "date": "2026-06-20",
-      "return_pct": 5.9
     }
   ]
 }
