@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-28T01:50:38.099Z",
+  "updated": "2026-08-28T17:47:58.371Z",
   "withNews": [
     {
-      "question": "US Open, Qualification ATP: Toby Samuel vs Cristian Garin",
+      "question": "US Open, Qualification WTA: Tamara Zidansek vs Bianca Andreescu",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-samuel-garin-2026-08-27",
+      "url": "https://polymarket.com/event/wta-zidanse-andrees-2026-08-27",
       "yes": 100,
-      "change24h": 35,
-      "vol24h": 478440,
+      "change24h": 76,
+      "vol24h": 396523,
       "headlines": [
         {
           "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
@@ -24,12 +24,44 @@
       ]
     },
     {
-      "question": "US Open, Qualification WTA: Lucie Havlickova vs Nao Hibino",
+      "question": "Will Bitcoin reach $82,000 August 24-30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
+      "yes": 4,
+      "change24h": -57,
+      "vol24h": 45048,
+      "headlines": [
+        {
+          "title": "The Consumer Staples Sector Is Lagging the S&P 500 in 2026. 1 Value Stock to Buy in August.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE92V2FseHZsSWlFRFMzWHp3WHh6MnRpWUd0aGdDLWc4YUdVdlREYWp0NDVtbEVwNzRudGt6WC1IVmRmX01tTUh2cURHQTZsM2lfdXZDdThwMjVxZTVENkR4M0RUd2pWanZTdEJDaXNhb2w0bzBXMDVsNW9LdnBtazJzU2pQaHpzemttcHFhM2pLOHZMQWtn?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,500 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
+      "yes": 9,
+      "change24h": -48,
+      "vol24h": 148700,
+      "headlines": [
+        {
+          "title": "The Consumer Staples Sector Is Lagging the S&P 500 in 2026. 1 Value Stock to Buy in August.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE92V2FseHZsSWlFRFMzWHp3WHh6MnRpWUd0aGdDLWc4YUdVdlREYWp0NDVtbEVwNzRudGt6WC1IVmRmX01tTUh2cURHQTZsM2lfdXZDdThwMjVxZTVENkR4M0RUd2pWanZTdEJDaXNhb2w0bzBXMDVsNW9LdnBtazJzU2pQaHpzemttcHFhM2pLOHZMQWtn?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "US Open, Qualification ATP: Dalibor Svrcina vs Mackenzie McDonald",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-havlick-hibino-2026-08-27",
-      "yes": 77,
-      "change24h": 24,
-      "vol24h": 13429,
+      "url": "https://polymarket.com/event/atp-svrcina-mcdonal-2026-08-27",
+      "yes": 100,
+      "change24h": 45,
+      "vol24h": 363694,
       "headlines": [
         {
           "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
@@ -46,171 +78,61 @@
       ]
     },
     {
-      "question": "US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken",
+      "question": "Will Ethereum reach $2,600 in August?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-august-2026",
+      "yes": 16,
+      "change24h": -44,
+      "vol24h": 43687,
+      "headlines": [
+        {
+          "title": "The Consumer Staples Sector Is Lagging the S&P 500 in 2026. 1 Value Stock to Buy in August.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTE92V2FseHZsSWlFRFMzWHp3WHh6MnRpWUd0aGdDLWc4YUdVdlREYWp0NDVtbEVwNzRudGt6WC1IVmRmX01tTUh2cURHQTZsM2lfdXZDdThwMjVxZTVENkR4M0RUd2pWanZTdEJDaXNhb2w0bzBXMDVsNW9LdnBtazJzU2pQaHpzemttcHFhM2pLOHZMQWtn?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "US Open, Qualification WTA: Heather Watson vs Harriet Dart",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-gaubas-wendelk-2026-08-27",
-      "yes": 73,
+      "url": "https://polymarket.com/event/wta-watson-dart-2026-08-27",
+      "yes": 2,
+      "change24h": -36,
+      "vol24h": 242118,
+      "headlines": [
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 53,
       "change24h": 22,
-      "vol24h": 360195,
+      "vol24h": 1847316,
       "headlines": [
         {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 68,
-      "change24h": 18,
-      "vol24h": 12798,
-      "headlines": [
-        {
-          "title": "FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
-          "source": "STAT",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTZuQkNreGcxNnROTUMxbk5xcXBpYU5VNWprQ2p2QnFSNmRHamdjLWNDbGhKOGE4WUd1Z0ZraS1vbFRHcmJDM2RqaEtRREFTRWhMZHBQakZPcmt3dHBuT0Y2SFQwZ1RaOENkTzR1MEpXUG1NYThfSFc2UldvMEZlTXdlQQ?oc=5",
-          "cat": "Biotech"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA (NVDA) hit (HIGH) $232 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvda-reach-232-in-august-2026",
-      "yes": 47,
-      "change24h": 10,
-      "vol24h": 9202,
-      "headlines": [
-        {
-          "title": "Wall Street Highlights: S&P 500, Nasdaq Advances As Nvidia, Tech Outweigh Broad Weakness",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjRJUzlOV0YwQzdLVWVPM3VNTmpGWHpNRkFRZjY3T1VyRDhuQUZ4M1U3MlZIcXRLRE5YYzE3dDdmR2dfSUc5ZzBKRjM0R3R2R1hqdVFxT2dJeHoyb1BhLVlQVDhLdklaYkhWVlgzRWRibFAxZU1QOGR1QVd3WUR2SVRvV1NKbXZPQkQwWFBsWm9nMk5EUTFrTzVRM2RlaVNXUUJ0Vjhqa1ctS3pHOEI3TFl5MFI1LVVXT0k2b2RLZDY4VWZwWFR0WtIB0AFBVV95cUxPM3RHcEtoWkNZNjRvM0lVekg4QzJPNUNDQTZJVHpaWU9BYzFuS0hvbFI5aVY1aUJYM0Y5cHFxS3dUanVBRmctZjJuNGpGV1ZMbk5WejFGMGxCb3FxZlQ2N0dkeHdEREhtLTg3M0R5VHpvTEVLRGdJeEhFWVFpY3k2YTVwQVA3V1NnX1ppdEJrQTB0QTBkMDVaMHdVNVJ5RzJXSjhLWC01N21YdTNrbUlIckNic1hXbUdadHdUTWJPcWpreFAzX2MyQXBxZk1nTDhu?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Stock Market Cheers Nvidia, Salesforce Earnings; Nasdaq, S&P 500 Make Key Technical Moves",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2pzbDJVUVZJTjRhbGV0Qjd6dFpXTXR6VUJRNk5DMVcwbVVzZHhrZXdxa0lZTnZnalVpMEY0VFVkVzFkZFFLMTdnTDhMdnNFS2ZEQThzZXR3TlN0NjFIbGRlckxiekhrOVFmV0dRWkhsQ0hJOWVJbEdrcGdCdURESllOYTdfbFUxenVlbkhPdFh0Uy1SeEJ3VmxTV0RoVlR5SkJwQ3RnREtVQVRv?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA (NVDA) hit (HIGH) $240 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvda-reach-240-in-august-2026",
-      "yes": 14,
-      "change24h": 7,
-      "vol24h": 13958,
-      "headlines": [
-        {
-          "title": "Wall Street Highlights: S&P 500, Nasdaq Advances As Nvidia, Tech Outweigh Broad Weakness",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjRJUzlOV0YwQzdLVWVPM3VNTmpGWHpNRkFRZjY3T1VyRDhuQUZ4M1U3MlZIcXRLRE5YYzE3dDdmR2dfSUc5ZzBKRjM0R3R2R1hqdVFxT2dJeHoyb1BhLVlQVDhLdklaYkhWVlgzRWRibFAxZU1QOGR1QVd3WUR2SVRvV1NKbXZPQkQwWFBsWm9nMk5EUTFrTzVRM2RlaVNXUUJ0Vjhqa1ctS3pHOEI3TFl5MFI1LVVXT0k2b2RLZDY4VWZwWFR0WtIB0AFBVV95cUxPM3RHcEtoWkNZNjRvM0lVekg4QzJPNUNDQTZJVHpaWU9BYzFuS0hvbFI5aVY1aUJYM0Y5cHFxS3dUanVBRmctZjJuNGpGV1ZMbk5WejFGMGxCb3FxZlQ2N0dkeHdEREhtLTg3M0R5VHpvTEVLRGdJeEhFWVFpY3k2YTVwQVA3V1NnX1ppdEJrQTB0QTBkMDVaMHdVNVJ5RzJXSjhLWC01N21YdTNrbUlIckNic1hXbUdadHdUTWJPcWpreFAzX2MyQXBxZk1nTDhu?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Stock Market Cheers Nvidia, Salesforce Earnings; Nasdaq, S&P 500 Make Key Technical Moves",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2pzbDJVUVZJTjRhbGV0Qjd6dFpXTXR6VUJRNk5DMVcwbVVzZHhrZXdxa0lZTnZnalVpMEY0VFVkVzFkZFFLMTdnTDhMdnNFS2ZEQThzZXR3TlN0NjFIbGRlckxiekhrOVFmV0dRWkhsQ0hJOWVJbEdrcGdCdURESllOYTdfbFUxenVlbkhPdFh0Uy1SeEJ3VmxTV0RoVlR5SkJwQ3RnREtVQVRv?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 81,
-      "change24h": 6,
-      "vol24h": 10441,
-      "headlines": [
-        {
-          "title": "Wall Street Highlights: S&P 500, Nasdaq Advances As Nvidia, Tech Outweigh Broad Weakness",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjRJUzlOV0YwQzdLVWVPM3VNTmpGWHpNRkFRZjY3T1VyRDhuQUZ4M1U3MlZIcXRLRE5YYzE3dDdmR2dfSUc5ZzBKRjM0R3R2R1hqdVFxT2dJeHoyb1BhLVlQVDhLdklaYkhWVlgzRWRibFAxZU1QOGR1QVd3WUR2SVRvV1NKbXZPQkQwWFBsWm9nMk5EUTFrTzVRM2RlaVNXUUJ0Vjhqa1ctS3pHOEI3TFl5MFI1LVVXT0k2b2RLZDY4VWZwWFR0WtIB0AFBVV95cUxPM3RHcEtoWkNZNjRvM0lVekg4QzJPNUNDQTZJVHpaWU9BYzFuS0hvbFI5aVY1aUJYM0Y5cHFxS3dUanVBRmctZjJuNGpGV1ZMbk5WejFGMGxCb3FxZlQ2N0dkeHdEREhtLTg3M0R5VHpvTEVLRGdJeEhFWVFpY3k2YTVwQVA3V1NnX1ppdEJrQTB0QTBkMDVaMHdVNVJ5RzJXSjhLWC01N21YdTNrbUlIckNic1hXbUdadHdUTWJPcWpreFAzX2MyQXBxZk1nTDhu?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Stock Market Cheers Nvidia, Salesforce Earnings; Nasdaq, S&P 500 Make Key Technical Moves",
-          "source": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2pzbDJVUVZJTjRhbGV0Qjd6dFpXTXR6VUJRNk5DMVcwbVVzZHhrZXdxa0lZTnZnalVpMEY0VFVkVzFkZFFLMTdnTDhMdnNFS2ZEQThzZXR3TlN0NjFIbGRlckxiekhrOVFmV0dRWkhsQ0hJOWVJbEdrcGdCdURESllOYTdfbFUxenVlbkhPdFh0Uy1SeEJ3VmxTV0RoVlR5SkJwQ3RnREtVQVRv?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Gianni Infantino out as FIFA President by December 31?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
-      "yes": 18,
-      "change24h": 5,
-      "vol24h": 15536,
-      "headlines": [
-        {
-          "title": "TAKING THEM TO COURT: UEFA takes legal action against Infantino, FIFA, Kushner",
-          "source": "Front Row Soccer",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONDUtd0gtVWFPQWNQLVdWcGJZMXE5Um1xNTRLQ19vd1ZTZmV4UEJqLXpHMWdxZHNpMEgxX25zM1lreHpCWWMwWTc3elBlRkdfVnFQRW50aTZZNWhsdHJ5U0ZlV0lGdzRWWXUwLXR1OGlwSU45U2NtMW9mT3p0NjV5eU1Pd2N5NjQwNDhYUmZ0bS03amNMSVFLS1ZCSWNxeGRRVnVMajhMbGVVdU5RcEdubzFfSEx2TTBGSlE?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 36,
-      "change24h": 4,
-      "vol24h": 26554,
-      "headlines": [
-        {
-          "title": "Cleveland Fed Chief Calls for an Immediate Rate Hike as Inflation Drags On",
-          "source": "Briefs Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVBfa2l1OWxhdzFFRWZPZkhOM3NJWWlyS1RHZVVxZl9Pd0t6QzdqSUQ3Szc3OHdQV0I1WDd1cnpIbGFnTGhLS09oQmhOSGxKOGJDTlFiM3ZVdmU3S0NUNEx0LXJWOW5zTXdoMjNiZWJZU29IV0ZySWtSbTFuRUQ5Nnk5ajdiY05xMEZ1aTZuUHFpUQ?oc=5",
+          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0NBQXVfMXZWdzF1ZENVa1FhMEJhaWZvZEdGWmZLMy1VVUZqSHN4cThGVGE2Y21HS29DMjQ0ZUp1Nkh0eHktN3plWE4xWndSUngtaXA4a1ZwS0lmVzNLbXVGa0lHLVpKZTVtYkpTSUFHOHpINVRjX3EyU2cwbGJnYjU5ZE9aWlhRMlNQc2xNQVVkMTJYWlpVR1loVFJNZ3l0bTdFcjU1TVRyeWhMZUtQLVAxNzPSAboBQVVfeXFMTWtVYVpZRlp5a3VpbW9RaWZmRF9VTl9jTGJfc0JXMFZKZTZNc0N2ZWtDMkdBLVdkaVNfdVVhMGxGeFQzSXRxRmZtY29kZWZDbTcySU85dEVXdFBYSjVkOGtHT1ZULTg1bnBCZXJMX2gyQUppR0dlVlRTcXBKdmlfSFI1QXVGV281SGdyaGVtb011ZWhHRUxjVEVWWU1IV3lVUGtqUXBvdURHVHBEWXVqMGVTWkhpSEJQUnRR?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "As Jackson Hole conference kicks off, three Fed officials issue inflation warnings",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2dmdW1ZbC1FdlZnZmloZUhxOFAyaGtNT3dOZzBlMVEwWEhKODBzREpxZElwaFNMM1RhNjQySHE0eS1lTENCbk1ob0ZUb2RzbzRiaDhDYXdLaE05dEt5dWpBYWs5RF93XzU5MW84OS1kX3ctdURqdTh6a2RlYXVJU0tkSGNrRU5rSldCZ092ZFhITGxPSWtaSGJFR3U5RmpGR2NiUExZcnNPVjdPX056OXF2RHRwSEp6?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 31,
-      "change24h": -3,
-      "vol24h": 11907,
-      "headlines": [
-        {
-          "title": "Cleveland Fed Chief Calls for an Immediate Rate Hike as Inflation Drags On",
-          "source": "Briefs Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVBfa2l1OWxhdzFFRWZPZkhOM3NJWWlyS1RHZVVxZl9Pd0t6QzdqSUQ3Szc3OHdQV0I1WDd1cnpIbGFnTGhLS09oQmhOSGxKOGJDTlFiM3ZVdmU3S0NUNEx0LXJWOW5zTXdoMjNiZWJZU29IV0ZySWtSbTFuRUQ5Nnk5ajdiY05xMEZ1aTZuUHFpUQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "As Jackson Hole conference kicks off, three Fed officials issue inflation warnings",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2dmdW1ZbC1FdlZnZmloZUhxOFAyaGtNT3dOZzBlMVEwWEhKODBzREpxZElwaFNMM1RhNjQySHE0eS1lTENCbk1ob0ZUb2RzbzRiaDhDYXdLaE05dEt5dWpBYWs5RF93XzU5MW84OS1kX3ctdURqdTh6a2RlYXVJU0tkSGNrRU5rSldCZ092ZFhITGxPSWtaSGJFR3U5RmpGR2NiUExZcnNPVjdPX056OXF2RHRwSEp6?oc=5",
+          "title": "Fed chair Warsh, concerned about inflation, says bank ‘has more work to do’",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDFpTWxQbW1YQ0U3M0pkd2xDc0F4UUJSYTZmTjc0VUthQ3YxLWhoa3pjU2tvaDdYVUtXNTkzQXIzb3VpaVpYOTZHREtWSllxSXJtM2ZyTWVoNDdLZHp4bmRralNuWkRiWWtXR1BaSHlEU1l1ZTk3MXVpaDNHMUN3RHVaWlY4MkJDUjNQSTQtbTRza0NxMU9JQ2tSbUdNaUU?oc=5",
           "cat": "Macro"
         }
       ]
@@ -219,20 +141,42 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 69,
-      "change24h": 2,
-      "vol24h": 236777,
+      "yes": 47,
+      "change24h": -21,
+      "vol24h": 1903287,
       "headlines": [
         {
-          "title": "Cleveland Fed Chief Calls for an Immediate Rate Hike as Inflation Drags On",
-          "source": "Briefs Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVBfa2l1OWxhdzFFRWZPZkhOM3NJWWlyS1RHZVVxZl9Pd0t6QzdqSUQ3Szc3OHdQV0I1WDd1cnpIbGFnTGhLS09oQmhOSGxKOGJDTlFiM3ZVdmU3S0NUNEx0LXJWOW5zTXdoMjNiZWJZU29IV0ZySWtSbTFuRUQ5Nnk5ajdiY05xMEZ1aTZuUHFpUQ?oc=5",
+          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0NBQXVfMXZWdzF1ZENVa1FhMEJhaWZvZEdGWmZLMy1VVUZqSHN4cThGVGE2Y21HS29DMjQ0ZUp1Nkh0eHktN3plWE4xWndSUngtaXA4a1ZwS0lmVzNLbXVGa0lHLVpKZTVtYkpTSUFHOHpINVRjX3EyU2cwbGJnYjU5ZE9aWlhRMlNQc2xNQVVkMTJYWlpVR1loVFJNZ3l0bTdFcjU1TVRyeWhMZUtQLVAxNzPSAboBQVVfeXFMTWtVYVpZRlp5a3VpbW9RaWZmRF9VTl9jTGJfc0JXMFZKZTZNc0N2ZWtDMkdBLVdkaVNfdVVhMGxGeFQzSXRxRmZtY29kZWZDbTcySU85dEVXdFBYSjVkOGtHT1ZULTg1bnBCZXJMX2gyQUppR0dlVlRTcXBKdmlfSFI1QXVGV281SGdyaGVtb011ZWhHRUxjVEVWWU1IV3lVUGtqUXBvdURHVHBEWXVqMGVTWkhpSEJQUnRR?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "As Jackson Hole conference kicks off, three Fed officials issue inflation warnings",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2dmdW1ZbC1FdlZnZmloZUhxOFAyaGtNT3dOZzBlMVEwWEhKODBzREpxZElwaFNMM1RhNjQySHE0eS1lTENCbk1ob0ZUb2RzbzRiaDhDYXdLaE05dEt5dWpBYWs5RF93XzU5MW84OS1kX3ctdURqdTh6a2RlYXVJU0tkSGNrRU5rSldCZ092ZFhITGxPSWtaSGJFR3U5RmpGR2NiUExZcnNPVjdPX056OXF2RHRwSEp6?oc=5",
+          "title": "Fed chair Warsh, concerned about inflation, says bank ‘has more work to do’",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDFpTWxQbW1YQ0U3M0pkd2xDc0F4UUJSYTZmTjc0VUthQ3YxLWhoa3pjU2tvaDdYVUtXNTkzQXIzb3VpaVpYOTZHREtWSllxSXJtM2ZyTWVoNDdLZHp4bmRralNuWkRiWWtXR1BaSHlEU1l1ZTk3MXVpaDNHMUN3RHVaWlY4MkJDUjNQSTQtbTRza0NxMU9JQ2tSbUdNaUU?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 51,
+      "change24h": 20,
+      "vol24h": 39225,
+      "headlines": [
+        {
+          "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0NBQXVfMXZWdzF1ZENVa1FhMEJhaWZvZEdGWmZLMy1VVUZqSHN4cThGVGE2Y21HS29DMjQ0ZUp1Nkh0eHktN3plWE4xWndSUngtaXA4a1ZwS0lmVzNLbXVGa0lHLVpKZTVtYkpTSUFHOHpINVRjX3EyU2cwbGJnYjU5ZE9aWlhRMlNQc2xNQVVkMTJYWlpVR1loVFJNZ3l0bTdFcjU1TVRyeWhMZUtQLVAxNzPSAboBQVVfeXFMTWtVYVpZRlp5a3VpbW9RaWZmRF9VTl9jTGJfc0JXMFZKZTZNc0N2ZWtDMkdBLVdkaVNfdVVhMGxGeFQzSXRxRmZtY29kZWZDbTcySU85dEVXdFBYSjVkOGtHT1ZULTg1bnBCZXJMX2gyQUppR0dlVlRTcXBKdmlfSFI1QXVGV281SGdyaGVtb011ZWhHRUxjVEVWWU1IV3lVUGtqUXBvdURHVHBEWXVqMGVTWkhpSEJQUnRR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed chair Warsh, concerned about inflation, says bank ‘has more work to do’",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDFpTWxQbW1YQ0U3M0pkd2xDc0F4UUJSYTZmTjc0VUthQ3YxLWhoa3pjU2tvaDdYVUtXNTkzQXIzb3VpaVpYOTZHREtWSllxSXJtM2ZyTWVoNDdLZHp4bmRralNuWkRiWWtXR1BaSHlEU1l1ZTk3MXVpaDNHMUN3RHVaWlY4MkJDUjNQSTQtbTRza0NxMU9JQ2tSbUdNaUU?oc=5",
           "cat": "Macro"
         }
       ]
@@ -240,75 +184,30 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $77,500 in August?",
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-august-2026",
-      "yes": 34,
-      "change24h": -38,
-      "vol24h": 80309,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 44,
+      "change24h": -12,
+      "vol24h": 14897,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $82,000 August 24-30?",
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
       "yes": 66,
-      "change24h": 35,
-      "vol24h": 22581,
+      "change24h": 7,
+      "vol24h": 24126,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $82,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
-      "yes": 63,
-      "change24h": 32,
-      "vol24h": 139231,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,400 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-august-2026-from-august-23",
-      "yes": 33,
-      "change24h": -18,
-      "vol24h": 53301,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
-      "yes": 9,
-      "change24h": -18,
-      "vol24h": 49585,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-august-2026",
-      "yes": 29,
-      "change24h": 15,
-      "vol24h": 97186,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $84,000 August 24-30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-24-30-2026",
-      "yes": 28,
-      "change24h": 15,
-      "vol24h": 9274,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,300 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-august-2026",
-      "yes": 8,
-      "change24h": -11,
-      "vol24h": 22277,
+      "question": "Gianni Infantino out as FIFA President by December 31?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/gianni-infantino-out-as-fifa-president-by-december-31-20260706195547871",
+      "yes": 13,
+      "change24h": -5,
+      "vol24h": 14849,
       "headlines": []
     }
   ]
