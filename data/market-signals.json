@@ -1,46 +1,46 @@
 {
-  "updated": "2026-08-29T11:52:45.493Z",
+  "updated": "2026-08-29T15:50:48.582Z",
   "withNews": [
     {
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 44,
-      "change24h": 15,
-      "vol24h": 2229489,
+      "change24h": -8,
+      "vol24h": 920805,
       "headlines": [
+        {
+          "title": "The Fed confronts a powerful new economic force",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Kevin Warsh at a crossroads as Fed grapples with inflation",
           "source": "The Times",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzRjVlZQSHRBdHYxT1ZhTVZpR0t1UE1JWE16R2FqLWdVcnBFNXFnVklfX3NlSHY5WWxGX1J3Vk51NmNLU3dMYkY1TEhENnJZUFNfTV9OVXNLcHZJNFVRZzRWY2Q2ZVg4eDZhRVgwM3MwR0tHTWp2MWJQQ3B6YmR2OG8tdndEWkNkTmM2RnZiUWp1NWY3RHZjWFNSZE56bDZBc1owYURUSm1uRS1rTllpTHI1WThXVEZvZ2RHYQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Why the Fed is often slow, late … and wrong in reading inflation",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzVHSEt6Y0d1aE1DSGJNZEpSbEJkQ1Z4bXk4eUxmbEFha3VpWGptQm5IYzIyUGRCTVhPMnlEQ0RQQlZSdVpDWWFDUnFGcnJxQXVmR21KaG85U2RxS0lBZFQ3X0JjRkdyNlJvUGZVTTFXNUVaZ0VZX2N3WkpwclNuT2MwZUFqM3lqNWJTbHFHNFpVWUVJTEtFUg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by October 2026 Meeting?",
+      "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 60,
-      "change24h": 15,
-      "vol24h": 31468,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 45,
+      "change24h": -8,
+      "vol24h": 40271,
       "headlines": [
+        {
+          "title": "The Fed confronts a powerful new economic force",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Kevin Warsh at a crossroads as Fed grapples with inflation",
           "source": "The Times",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzRjVlZQSHRBdHYxT1ZhTVZpR0t1UE1JWE16R2FqLWdVcnBFNXFnVklfX3NlSHY5WWxGX1J3Vk51NmNLU3dMYkY1TEhENnJZUFNfTV9OVXNLcHZJNFVRZzRWY2Q2ZVg4eDZhRVgwM3MwR0tHTWp2MWJQQ3B6YmR2OG8tdndEWkNkTmM2RnZiUWp1NWY3RHZjWFNSZE56bDZBc1owYURUSm1uRS1rTllpTHI1WThXVEZvZ2RHYQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Why the Fed is often slow, late … and wrong in reading inflation",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzVHSEt6Y0d1aE1DSGJNZEpSbEJkQ1Z4bXk4eUxmbEFha3VpWGptQm5IYzIyUGRCTVhPMnlEQ0RQQlZSdVpDWWFDUnFGcnJxQXVmR21KaG85U2RxS0lBZFQ3X0JjRkdyNlJvUGZVTTFXNUVaZ0VZX2N3WkpwclNuT2MwZUFqM3lqNWJTbHFHNFpVWUVJTEtFUg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -50,30 +50,30 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 55,
-      "change24h": -14,
-      "vol24h": 2705398,
+      "change24h": 6,
+      "vol24h": 1327750,
       "headlines": [
+        {
+          "title": "The Fed confronts a powerful new economic force",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Kevin Warsh at a crossroads as Fed grapples with inflation",
           "source": "The Times",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzRjVlZQSHRBdHYxT1ZhTVZpR0t1UE1JWE16R2FqLWdVcnBFNXFnVklfX3NlSHY5WWxGX1J3Vk51NmNLU3dMYkY1TEhENnJZUFNfTV9OVXNLcHZJNFVRZzRWY2Q2ZVg4eDZhRVgwM3MwR0tHTWp2MWJQQ3B6YmR2OG8tdndEWkNkTmM2RnZiUWp1NWY3RHZjWFNSZE56bDZBc1owYURUSm1uRS1rTllpTHI1WThXVEZvZ2RHYQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Why the Fed is often slow, late … and wrong in reading inflation",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzVHSEt6Y0d1aE1DSGJNZEpSbEJkQ1Z4bXk4eUxmbEFha3VpWGptQm5IYzIyUGRCTVhPMnlEQ0RQQlZSdVpDWWFDUnFGcnJxQXVmR21KaG85U2RxS0lBZFQ3X0JjRkdyNlJvUGZVTTFXNUVaZ0VZX2N3WkpwclNuT2MwZUFqM3lqNWJTbHFHNFpVWUVJTEtFUg?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+      "question": "US Open ATP: Juan Manuel Cerundolo vs Casper Ruud",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-sweeny-moutet-2026-08-30",
-      "yes": 27,
-      "change24h": -2,
-      "vol24h": 19536,
+      "url": "https://polymarket.com/event/atp-cerund-ruud-2026-08-30",
+      "yes": 36,
+      "change24h": 2,
+      "vol24h": 31613,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -90,12 +90,12 @@
       ]
     },
     {
-      "question": "US Open ATP: Stefanos Tsitsipas vs Arthur Fils",
+      "question": "US Open ATP: Dane Sweeny vs Corentin Moutet",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-tsitsip-fils-2026-08-30",
-      "yes": 22,
-      "change24h": 2,
-      "vol24h": 13017,
+      "url": "https://polymarket.com/event/atp-sweeny-moutet-2026-08-30",
+      "yes": 27,
+      "change24h": -2,
+      "vol24h": 15990,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -115,9 +115,9 @@
       "question": "US Open ATP: Rafael Jodar vs Thanasi Kokkinakis",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/atp-jodar-kokkina-2026-08-30",
-      "yes": 86,
-      "change24h": 2,
-      "vol24h": 11702,
+      "yes": 87,
+      "change24h": 1,
+      "vol24h": 12038,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -134,17 +134,17 @@
       ]
     },
     {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
+      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 8,
-      "change24h": 1,
-      "vol24h": 14542,
+      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
+      "yes": 7,
+      "change24h": 0,
+      "vol24h": 19336,
       "headlines": [
         {
-          "title": "Updated Rashid Shaheed Fantasy Outlook 2026: Is the Seahawks WR a Late-Round Target?",
+          "title": "Updated Derrick Henry Fantasy Outlook 2026: Ravens RB Is Being Drafted Too Late",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYjdzLXd5R1ZKekNLZXZGN2xlUjI0TllpZDJPMmRESGZfNUU4aEJhQjRYdGZ2RkRYU1MtRExBeGRYNkdydTZJdEU2VnVFeS1HSnB5STE5Q0daQndIN1ZhZ2JOTW1QbGlLRVQwYnRGb21RcnRNOXNRcFhUUUFxNFM5aV9LMFB1NkZ6djJpNFdadEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkhTOFFsM01zNnJpWW9pSk1sMk10Y2x0bF9uUnREVW14aFY0U3hlOTlQUHN6RnlFdUhqMmYzYVBLZ25jTDlyOE0zejRKLTJpODNPalotZ3FMR3pLVUYzcWVwdGJOZDd1NHdEZ2g5SklwTGk3V0FLaC14ZWVwdS1Lc3NPcVVxTVNLQ2xQNnZWYw?oc=5",
           "cat": "NFL"
         }
       ]
@@ -153,16 +153,10 @@
       "question": "Will the price of Bitcoin be less than $70,000 on September 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-the-price-of-bitcoin-be-less-than-70000-on-september-4-2026",
-      "yes": 4,
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 17846,
+      "vol24h": 17896,
       "headlines": [
-        {
-          "title": "Fed chief’s inflation warning sets up September showdown",
-          "source": "The Japan Times",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNEJDNDlEMm9iNjM3N1J5QW9nNGExT3Z6RWk3cnQ0SUFMaGFKM0laMDc4US1Sdm9nXzU0S2VtTWgxazZrZURaZE43WU1aWkVUUE1CczZ1WWpCanAtd0xOOEpRYVNHSmdacTVrV3dCcUhDd0FXd3ZvS0RsVzJ1Y1A2SWVneEg5S0hTMTByS29WZ1FFTWc?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -172,34 +166,18 @@
       ]
     },
     {
-      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
-      "yes": 7,
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 17328,
+      "vol24h": 10619,
       "headlines": [
         {
-          "title": "Updated Rashod Bateman Fantasy Outlook 2026: Is the Ravens WR a Late-Round Dart Throw?",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVdMbTA1ZXByRm10UmZjUk5XVU9NdnBnanlPSG9yNE5qMnhpWHpiLXJ3V3ZqUjgySzJ1TmVQck9UbDZWckJMeGpDWnNlMEdFMGFjeHhZazlnRmo5VzRFS1gxTHJydFp6dlY5RkZUdFlqSmpjZ0czU2g3MXIySHBCMGU0bk1CcjFqbHBZOUthQnc?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 6,
-      "change24h": 0,
-      "vol24h": 10930,
-      "headlines": [
-        {
-          "title": "Updated Rashee Rice Fantasy Outlook 2026: Can the Chiefs Star Finish As a WR1?",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVFYajlISFdkNlp2UnhMOXZaS3Z3WThPeGpkSlBYNVE4dXhpT1U2d0k3MENsa29nY0hySzlxZTFmbEE4QU5JcG9ZaTJZb0JSQnhXclA4c2lVVTBsMTNURS13cWdHOEtPaG44U0lKYTFhWUI0bUxJZjFkSTVGSjRmVXN6VnRISG9yNHRXdg?oc=5",
-          "cat": "NFL"
+          "title": "Minnesota Timberwolves Acquire Forwards John Konchar and Cody Williams from Utah Jazz",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXF4Z0tyUG93em8zcERUVUhlNk5BRlFfbHY1bk5JNnBCSTdhMWxlc05CelVER0RicVV2VU5RbjRJLVdOcXlxT25pZkhvLUJkdzZWX0NzX1Vua3JkaVFzV1lrd2N0czZ4OWFfRVMzOGZ4X2xfb2FzUTdWWE1wSWNqQm16dGg1dm4xY2NIeFFGUHYxa1ItM3I5QnNBMjZjZTItdWlidU40aHd2RzEzTzZIYUZ5eE1rcnA1SHlycF8xWE8?oc=5",
+          "cat": "NBA"
         }
       ]
     }
@@ -209,18 +187,9 @@
       "question": "Will Ethereum reach $2,600 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-august-2026",
-      "yes": 6,
-      "change24h": -40,
-      "vol24h": 43035,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,000 August 24-30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
-      "yes": 2,
-      "change24h": -31,
-      "vol24h": 38131,
+      "yes": 8,
+      "change24h": -25,
+      "vol24h": 31638,
       "headlines": []
     },
     {
@@ -228,26 +197,35 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-august-2026",
       "yes": 5,
-      "change24h": -28,
-      "vol24h": 144765,
+      "change24h": -15,
+      "vol24h": 134002,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,400 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-august-2026-from-august-23",
-      "yes": 57,
-      "change24h": 28,
-      "vol24h": 51760,
+      "yes": 45,
+      "change24h": 14,
+      "vol24h": 125645,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $82,000 August 24-30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-24-30-2026",
+      "yes": 2,
+      "change24h": -12,
+      "vol24h": 25752,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,400 August 24-30?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-august-24-30-2026",
-      "yes": 45,
-      "change24h": 22,
-      "vol24h": 14943,
+      "yes": 33,
+      "change24h": 11,
+      "vol24h": 15087,
       "headlines": []
     },
     {
@@ -255,8 +233,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-august-2026",
       "yes": 1,
-      "change24h": -15,
-      "vol24h": 32410,
+      "change24h": -9,
+      "vol24h": 24910,
       "headlines": []
     },
     {
@@ -264,17 +242,17 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
       "yes": 44,
-      "change24h": -11,
-      "vol24h": 21649,
+      "change24h": -7,
+      "vol24h": 18680,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $85,000 in August?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-august-2026",
-      "yes": 2,
-      "change24h": -9,
-      "vol24h": 130504,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 74,
+      "change24h": -7,
+      "vol24h": 10545,
       "headlines": []
     }
   ]
