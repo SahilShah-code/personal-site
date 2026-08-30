@@ -1,152 +1,102 @@
 {
-  "updated": "2026-08-29T20:05:00.067Z",
+  "updated": "2026-08-30T02:02:49.299Z",
   "withNews": [
     {
       "question": "US Open ATP: Juan Manuel Cerundolo vs Casper Ruud",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/atp-cerund-ruud-2026-08-30",
       "yes": 39,
-      "change24h": 7,
-      "vol24h": 23059,
+      "change24h": 6,
+      "vol24h": 21445,
       "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
         {
           "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
           "source": "Cincinnati Enquirer",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2FOUTRNMDRGSkU1MHhZYlZJbHdlYm0yWE5WS1ZicUZpTDhYYVE0d3ZONUgxSGZzS0x4NER5cktLem9qQm9vYUhkcmtrVTNwVXBPdS1SMVdINzNmWTBRUmtnVXJERUVHRi01N2hnczV4MHhhMVZEOWVmejY3RDNGMmNkZTktU0tNZGlDcWJBc3ZxM011MS1KOFd1YUxUZDMxSTJYeTRrLThMSHRhS1Y3Unhn?oc=5",
           "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 44,
-      "change24h": -6,
-      "vol24h": 534150,
-      "headlines": [
-        {
-          "title": "The Fed confronts a powerful new economic force",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-          "cat": "Macro"
         },
         {
-          "title": "Fed Rate Hike in September 2026 is Now More Likely Than Not",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUJuUFhPT001NS1uQjBkVWt1VGs0UXRNLTUwSThmS2RKcVFrTU41eWg1Z1VJNzdfNE5HZ2FPdzNpOUJMelEzNEctRmllYWRjYnB5dU1IRVlLZVdTaXhvaFBuSlg3Njd2Q0g2MEpPZWFvcnJQOWMwQzF1NVJRWkNkYzVCRUlnLXNDTVFPSkQzOWxJUl9sdURPMDdaNFNkN1U?oc=5",
-          "cat": "Macro"
+          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWNnSDlkVi1hNnFFWlJZTXJZc3BrOW5xUDdtME1DZFNRSWk5VkJxUURhUWJncHJfSzdURWViNFNocHBUdmNuVWYwRTJPcWJZaGFGR2Y0R3h0V2ZzTjd3bHp1emx1ckt5N0NQUmVzLWlTOGhtMVdFRE5ZUkJvY0tJQVdHY1FBcVd2TGp4NXdVemplclk2blRzUDBBZm5xVXI1TEhlWGV6bldtTHo5dFJ0VGFGMXI?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 45,
+      "question": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-vukic-sakamot-2026-08-30",
+      "yes": 39,
       "change24h": -5,
-      "vol24h": 35759,
+      "vol24h": 8319,
       "headlines": [
         {
-          "title": "The Fed confronts a powerful new economic force",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-          "cat": "Macro"
+          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2FOUTRNMDRGSkU1MHhZYlZJbHdlYm0yWE5WS1ZicUZpTDhYYVE0d3ZONUgxSGZzS0x4NER5cktLem9qQm9vYUhkcmtrVTNwVXBPdS1SMVdINzNmWTBRUmtnVXJERUVHRi01N2hnczV4MHhhMVZEOWVmejY3RDNGMmNkZTktU0tNZGlDcWJBc3ZxM011MS1KOFd1YUxUZDMxSTJYeTRrLThMSHRhS1Y3Unhn?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Fed Rate Hike in September 2026 is Now More Likely Than Not",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUJuUFhPT001NS1uQjBkVWt1VGs0UXRNLTUwSThmS2RKcVFrTU41eWg1Z1VJNzdfNE5HZ2FPdzNpOUJMelEzNEctRmllYWRjYnB5dU1IRVlLZVdTaXhvaFBuSlg3Njd2Q0g2MEpPZWFvcnJQOWMwQzF1NVJRWkNkYzVCRUlnLXNDTVFPSkQzOWxJUl9sdURPMDdaNFNkN1U?oc=5",
-          "cat": "Macro"
+          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWNnSDlkVi1hNnFFWlJZTXJZc3BrOW5xUDdtME1DZFNRSWk5VkJxUURhUWJncHJfSzdURWViNFNocHBUdmNuVWYwRTJPcWJZaGFGR2Y0R3h0V2ZzTjd3bHp1emx1ckt5N0NQUmVzLWlTOGhtMVdFRE5ZUkJvY0tJQVdHY1FBcVd2TGp4NXdVemplclk2blRzUDBBZm5xVXI1TEhlWGV6bldtTHo5dFJ0VGFGMXI?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "question": "US Open ATP: Jaume Munar vs Terence Atmane",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-munar-atmane-2026-08-30",
+      "yes": 37,
+      "change24h": -4,
+      "vol24h": 19529,
+      "headlines": [
+        {
+          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2FOUTRNMDRGSkU1MHhZYlZJbHdlYm0yWE5WS1ZicUZpTDhYYVE0d3ZONUgxSGZzS0x4NER5cktLem9qQm9vYUhkcmtrVTNwVXBPdS1SMVdINzNmWTBRUmtnVXJERUVHRi01N2hnczV4MHhhMVZEOWVmejY3RDNGMmNkZTktU0tNZGlDcWJBc3ZxM011MS1KOFd1YUxUZDMxSTJYeTRrLThMSHRhS1Y3Unhn?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWNnSDlkVi1hNnFFWlJZTXJZc3BrOW5xUDdtME1DZFNRSWk5VkJxUURhUWJncHJfSzdURWViNFNocHBUdmNuVWYwRTJPcWJZaGFGR2Y0R3h0V2ZzTjd3bHp1emx1ckt5N0NQUmVzLWlTOGhtMVdFRE5ZUkJvY0tJQVdHY1FBcVd2TGp4NXdVemplclk2blRzUDBBZm5xVXI1TEhlWGV6bldtTHo5dFJ0VGFGMXI?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 54,
-      "change24h": 4,
-      "vol24h": 991851,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
+      "yes": 59,
+      "change24h": -4,
+      "vol24h": 11673,
       "headlines": [
+        {
+          "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed confronts a powerful new economic force",
           "source": "The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Fed Rate Hike in September 2026 is Now More Likely Than Not",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUJuUFhPT001NS1uQjBkVWt1VGs0UXRNLTUwSThmS2RKcVFrTU41eWg1Z1VJNzdfNE5HZ2FPdzNpOUJMelEzNEctRmllYWRjYnB5dU1IRVlLZVdTaXhvaFBuSlg3Njd2Q0g2MEpPZWFvcnJQOWMwQzF1NVJRWkNkYzVCRUlnLXNDTVFPSkQzOWxJUl9sdURPMDdaNFNkN1U?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "US Open ATP: Rafael Jodar vs Thanasi Kokkinakis",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-jodar-kokkina-2026-08-30",
-      "yes": 87,
-      "change24h": 1,
-      "vol24h": 12176,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2FOUTRNMDRGSkU1MHhZYlZJbHdlYm0yWE5WS1ZicUZpTDhYYVE0d3ZONUgxSGZzS0x4NER5cktLem9qQm9vYUhkcmtrVTNwVXBPdS1SMVdINzNmWTBRUmtnVXJERUVHRi01N2hnczV4MHhhMVZEOWVmejY3RDNGMmNkZTktU0tNZGlDcWJBc3ZxM011MS1KOFd1YUxUZDMxSTJYeTRrLThMSHRhS1Y3Unhn?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-shimabu-rinderk-2026-08-30",
-      "yes": 26,
-      "change24h": -1,
-      "vol24h": 11241,
-      "headlines": [
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2FOUTRNMDRGSkU1MHhZYlZJbHdlYm0yWE5WS1ZicUZpTDhYYVE0d3ZONUgxSGZzS0x4NER5cktLem9qQm9vYUhkcmtrVTNwVXBPdS1SMVdINzNmWTBRUmtnVXJERUVHRi01N2hnczV4MHhhMVZEOWVmejY3RDNGMmNkZTktU0tNZGlDcWJBc3ZxM011MS1KOFd1YUxUZDMxSTJYeTRrLThMSHRhS1Y3Unhn?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be less than $70,000 on September 4?",
+      "question": "Will the price of Bitcoin be above $78,000 on September 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-the-price-of-bitcoin-be-less-than-70000-on-september-4-2026",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 17896,
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-4-2026",
+      "yes": 52,
+      "change24h": 4,
+      "vol24h": 10278,
       "headlines": [
-        {
-          "title": "Fed Rate Hike in September 2026 is Now More Likely Than Not",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTUJuUFhPT001NS1uQjBkVWt1VGs0UXRNLTUwSThmS2RKcVFrTU41eWg1Z1VJNzdfNE5HZ2FPdzNpOUJMelEzNEctRmllYWRjYnB5dU1IRVlLZVdTaXhvaFBuSlg3Njd2Q0g2MEpPZWFvcnJQOWMwQzF1NVJRWkNkYzVCRUlnLXNDTVFPSkQzOWxJUl9sdURPMDdaNFNkN1U?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -156,17 +106,93 @@
       ]
     },
     {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 65,
+      "change24h": -2,
+      "vol24h": 20696,
+      "headlines": [
+        {
+          "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed confronts a powerful new economic force",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be less than $70,000 on September 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-the-price-of-bitcoin-be-less-than-70000-on-september-4-2026",
+      "yes": 3,
+      "change24h": -2,
+      "vol24h": 8903,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 53,
+      "change24h": -1,
+      "vol24h": 824569,
+      "headlines": [
+        {
+          "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed confronts a powerful new economic force",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
       "question": "Will the Chicago Bears win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 9950,
+      "vol24h": 9662,
       "headlines": [
         {
-          "title": "NFL news: Chicago Bears facing Tennessee Titans in final 2026 preseason game at Nissan Stadium in Nashville",
-          "source": "ABC7 Chicago",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUVRCMnhHaGluekg1ckhjQl9IcW95d2k4ZmdfR3hqVEZjX0xuTDFEc1FOQ1B5MXR5TVA5eGxULUc2RFoySmVNVGt3RjQ5RE94ajlHNEZNNGNGNU5oLUdMTXF3OVNlXzE0N1FHRWNzWjduUUtRbzFxOVlQMkR3SWZ0d0otZy1CNXhiX1FOZEpxR1M5LUYxNklYUlhRcXhuMm5Da2VubzNmU0c2Z21YTGtncUtNUjhqOWIwdVg1MXhUOGp5TzZYRHE2Wms2eHJEbmZQU0HSAdcBQVVfeXFMUGJqeXg5VDM5T21sYkdickw1Qkh5ZnRxUmNzcjhKUk9GSWd0MkNfS284VEpoMm1udWhoYUE0MGwzMmFCWjQ1NUJianFXNE15d0UyQURJSUJCS0t3YmRHSzJaUDdWWDJxNjVnVC1LTmN4QmVFQ2cyOTlGWFhYZ3BPVU5UdG52M0xQM3ByX3ZwcDJXUkVSbDhWaktzZVE3YzQtaUFWYzY5clhSMkxnWnhLRjZhRkJ1MHRXRC1EOHYtRklXOVJ1a2M4S295Rm1DdEljbjlDR2h0am8?oc=5",
+          "title": "Chicago Bears 53-man roster projection: Tough decisions after a strong preseason win",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1dkR2hac3JHOUViNThrYjFxSmdzSGM2RVp2dEJRU3d0dDVSSUhCYXhqVjIwWGtYd3FDSnhaMTdxX1NkZzM4NW9RWW1LS0UyTDNyaWRWVTk3WlZqWDJLaXFGMklVZnluajg2RGxBRDRESzUxUmdPVGJkVG5xUzFWNnM5cHJWUmlLSlVWVnlHMHpzSXdpU0E?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 0,
+      "vol24h": 8043,
+      "headlines": [
+        {
+          "title": "Steelers Trade 2023 First-Round Pick Coming off ‘Serve’ Injury to Cowboys: Report",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU8tS1VBUE9PX3RQcXdiRkhjd1NkdTFBMXl3cVdIZkt5ZGF6QVlNVEJJcUFxcWpIZUhLd2JHeWNKRVdibGtVc19EbzFZOVNJOWw5WFNLM2Q2anF0cjdVVm04cW5Ral9tNHRHUHVvb2VUdnVMR3lPYzVzMmlJQXFPLXM1ZzhDc00?oc=5",
           "cat": "NFL"
         }
       ]
@@ -174,66 +200,57 @@
   ],
   "moversOnly": [
     {
+      "question": "Will Microstrategy announce a Bitcoin purchase August 25-31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-microstrategy-announce-a-bitcoin-purchase-august-25-31-2026",
+      "yes": 32,
+      "change24h": -38,
+      "vol24h": 8694,
+      "headlines": []
+    },
+    {
       "question": "Will Ethereum dip to $2,400 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-august-2026-from-august-23",
-      "yes": 36,
-      "change24h": -29,
-      "vol24h": 177587,
+      "yes": 32,
+      "change24h": -22,
+      "vol24h": 175547,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $75,000 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-august-2026",
-      "yes": 12,
-      "change24h": -19,
-      "vol24h": 56369,
+      "yes": 11,
+      "change24h": -12,
+      "vol24h": 46893,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $76,000 on August 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-76k-on-august-31-2026",
+      "yes": 93,
+      "change24h": 8,
+      "vol24h": 8739,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,300 in August?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-august-2026",
-      "yes": 3,
-      "change24h": -11,
-      "vol24h": 26813,
+      "yes": 4,
+      "change24h": -5,
+      "vol24h": 34145,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 37,
-      "change24h": -8,
-      "vol24h": 33038,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $72,500 in August?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-august-2026",
-      "yes": 2,
-      "change24h": -6,
-      "vol24h": 110115,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $74,000 on August 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-74k-on-august-31-2026",
-      "yes": 99,
-      "change24h": 5,
-      "vol24h": 13028,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 82,
+      "yes": 38,
       "change24h": -5,
-      "vol24h": 9268,
+      "vol24h": 34122,
       "headlines": []
     }
   ]
