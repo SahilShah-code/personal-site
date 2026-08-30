@@ -1,26 +1,25 @@
 {
-  "updated": "2026-08-30 06:14 UTC",
-  "net_return_pct": -38.1,
-  "realized_return_pct": -38.1,
+  "updated": "2026-08-30 11:59 UTC",
+  "net_return_pct": -35.7,
+  "realized_return_pct": -35.7,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 21.4,
-  "settled_total": 14,
+  "win_rate_pct": 23.1,
+  "settled_total": 13,
   "curve": [
     0,
-    -100,
-    -82.9,
-    -89.7,
-    -91.5,
-    -93.6,
-    -21.7,
-    -15.5,
-    -21.9,
-    -32.6,
-    -29,
-    -21.9,
-    -28.8,
-    -34.6,
-    -38.1
+    -74.8,
+    -87.3,
+    -89.8,
+    -92.7,
+    -13.4,
+    -8.2,
+    -15.7,
+    -28,
+    -25,
+    -18,
+    -25.6,
+    -31.9,
+    -35.7
   ],
   "active": [],
   "settled": [
@@ -114,13 +113,6 @@
       "result": "no",
       "date": "2026-06-25",
       "return_pct": -74.8
-    },
-    {
-      "title": "yes Tie,yes England,yes Croatia,yes Bosnia and Herzegovina,yes Czechia,yes Morocco,yes Korea Republic,yes Brazil,yes Tie",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202637DA1E0A4A6-3B39448CCFB",
-      "result": "no",
-      "date": "2026-06-24",
-      "return_pct": -100
     }
   ]
 }
