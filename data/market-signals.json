@@ -1,91 +1,113 @@
 {
-  "updated": "2026-09-01T02:20:28.282Z",
+  "updated": "2026-09-01T10:38:37.739Z",
   "withNews": [
     {
-      "question": "US Open WTA: Maya Joint vs Liudmila Samsonova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-joint-samsono-2026-08-30",
-      "yes": 100,
-      "change24h": 70,
-      "vol24h": 174315,
+      "question": "Will Bitcoin dip to $68,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-68k-august-31-september-6-2026",
+      "yes": 1,
+      "change24h": -49,
+      "vol24h": 14601,
       "headlines": [
         {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Juncheng Shang vs Marco Trungelliti",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-shang-trungel-2026-08-30",
-      "yes": 0,
-      "change24h": -66,
-      "vol24h": 329992,
-      "headlines": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Grigor Dimitrov vs Alexei Popyrin",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-dimitro-popyrin-2026-08-30",
-      "yes": 10,
-      "change24h": -56,
-      "vol24h": 444085,
-      "headlines": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 72,
-      "change24h": 6,
-      "vol24h": 149565,
-      "headlines": [
-        {
-          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Warsh’s “Quiet Fed” Approach Adds a Hawkish Call at Jackson Hole",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnE0SnZCN3ZtZDBjNnJVYzFtUUo3VmtiRkVTQUhYeUJSakJIQl9CV29PNG55ZHpsT0Q1dnhBOXBGLS1fcTNqdEktTXI4TnExYVp3Ml9oanhFMVNacmZmWjN6M1JOSldlVDNNWlNDU25fT1JWYWpaWnNGcm5IaG91VUlkUVBUOWh5MDF5Rmp3MFB1WXY4OC00M2NlaW9BOElpaWdIeU5uV2tRNTJwR2pScVUwV2tLSHJvLWprVg?oc=5",
+          "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $72,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-august-31-september-6-2026",
+      "yes": 6,
+      "change24h": -44,
+      "vol24h": 8826,
+      "headlines": [
+        {
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "US Open WTA: Jessica Pegula vs Sofia Kenin",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-pegula-kenin-2026-09-02",
+      "yes": 93,
+      "change24h": 43,
+      "vol24h": 9683,
+      "headlines": [
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $84,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-31-september-6-2026",
+      "yes": 9,
+      "change24h": -41,
+      "vol24h": 16824,
+      "headlines": [
+        {
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Naomi Osaka advance to the Quarterfinals in Women's Singles at the 2026 US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-naomi-osaka-advance-to-the-quarterfinals-in-womens-singles-at-the-2026-us-open",
+      "yes": 35,
+      "change24h": 11,
+      "vol24h": 16974,
+      "headlines": [
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "England squad for 2026 FIFA U-20 Women's World Cup: All the players selected by Lydia Bradford for the tournament",
+          "source": "DAZN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxOV2VxRmZ3MkFZSGhzZHpMdTl4QXAzSmFnRkwtTnBRRVQzWGNCOWlvekUyaEZPS3VHNXVZNkd5TUxPWlc5b21ISEItOWowVThCV01sT0ljUzNoNVRrMlNSd3FhUGJiWXg0WlBrR0FxTDF5a25pNHRqTTJENXpPcldpZTdETTc5LVQwNUdIa3psNTZqM05ORTJrdEpNUzBiaXY1WFZFcTdzeTV5cGZZNFhVRQ?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -93,20 +115,20 @@
       "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 65,
-      "change24h": 6,
-      "vol24h": 15327,
+      "yes": 67,
+      "change24h": 7,
+      "vol24h": 21747,
       "headlines": [
+        {
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
           "source": "Scripps News",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Warsh’s “Quiet Fed” Approach Adds a Hawkish Call at Jackson Hole",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnE0SnZCN3ZtZDBjNnJVYzFtUUo3VmtiRkVTQUhYeUJSakJIQl9CV29PNG55ZHpsT0Q1dnhBOXBGLS1fcTNqdEktTXI4TnExYVp3Ml9oanhFMVNacmZmWjN6M1JOSldlVDNNWlNDU25fT1JWYWpaWnNGcm5IaG91VUlkUVBUOWh5MDF5Rmp3MFB1WXY4OC00M2NlaW9BOElpaWdIeU5uV2tRNTJwR2pScVUwV2tLSHJvLWprVg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -115,21 +137,65 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 44,
-      "change24h": -3,
-      "vol24h": 1738761,
+      "yes": 42,
+      "change24h": -6,
+      "vol24h": 2001556,
       "headlines": [
+        {
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
           "source": "Scripps News",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 57,
+      "change24h": 6,
+      "vol24h": 1383800,
+      "headlines": [
+        {
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Warsh’s “Quiet Fed” Approach Adds a Hawkish Call at Jackson Hole",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnE0SnZCN3ZtZDBjNnJVYzFtUUo3VmtiRkVTQUhYeUJSakJIQl9CV29PNG55ZHpsT0Q1dnhBOXBGLS1fcTNqdEktTXI4TnExYVp3Ml9oanhFMVNacmZmWjN6M1JOSldlVDNNWlNDU25fT1JWYWpaWnNGcm5IaG91VUlkUVBUOWh5MDF5Rmp3MFB1WXY4OC00M2NlaW9BOElpaWdIeU5uV2tRNTJwR2pScVUwV2tLSHJvLWprVg?oc=5",
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Jaume Munar vs Arthur Rinderknech",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-munar-rinderk-2026-09-02",
+      "yes": 40,
+      "change24h": -4,
+      "vol24h": 8349,
+      "headlines": [
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -139,7 +205,7 @@
       "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 8642,
+      "vol24h": 7842,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -150,7 +216,7 @@
         {
           "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
           "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS2FOUTRNMDRGSkU1MHhZYlZJbHdlYm0yWE5WS1ZicUZpTDhYYVE0d3ZONUgxSGZzS0x4NER5cktLem9qQm9vYUhkcmtrVTNwVXBPdS1SMVdINzNmWTBRUmtnVXJERUVHRi01N2hnczV4MHhhMVZEOWVmejY3RDNGMmNkZTktU0tNZGlDcWJBc3ZxM011MS1KOFd1YUxUZDMxSTJYeTRrLThMSHRhS1Y3Unhn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWNnSDlkVi1hNnFFWlJZTXJZc3BrOW5xUDdtME1DZFNRSWk5VkJxUURhUWJncHJfSzdURWViNFNocHBUdmNuVWYwRTJPcWJZaGFGR2Y0R3h0V2ZzTjd3bHp1emx1ckt5N0NQUmVzLWlTOGhtMVdFRE5ZUkJvY0tJQVdHY1FBcVd2TGp4NXdVemplclk2blRzUDBBZm5xVXI1TEhlWGV6bldtTHo5dFJ0VGFGMXI?oc=5",
           "cat": "Tennis"
         }
       ]
@@ -158,75 +224,21 @@
   ],
   "moversOnly": [
     {
-      "question": "Caribbean Premier League: Trinbago Knight Riders vs Guyana Amazon Warriors",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/criccpl-tri-guy-2026-08-31",
-      "yes": 0,
-      "change24h": -46,
-      "vol24h": 26132,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,400 on September 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2400-on-september-2-2026",
-      "yes": 79,
-      "change24h": 20,
-      "vol24h": 6686,
-      "headlines": []
-    },
-    {
-      "question": "Will S&P 500 (SPY) hit (LOW) $740 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-spy-dip-to-740-in-september-2026",
-      "yes": 26,
-      "change24h": -11,
-      "vol24h": 6846,
-      "headlines": []
-    },
-    {
       "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 35,
-      "change24h": 8,
-      "vol24h": 117268,
+      "yes": 34,
+      "change24h": 4,
+      "vol24h": 146186,
       "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $76,000 on September 2?",
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-2-2026",
-      "yes": 90,
-      "change24h": 8,
-      "vol24h": 23779,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,300 on September 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2300-on-september-2-2026",
-      "yes": 96,
-      "change24h": 7,
-      "vol24h": 31708,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $78,000 on September 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-2-2026",
-      "yes": 56,
-      "change24h": 7,
-      "vol24h": 8675,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $76,000 on September 3?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-3-2026",
-      "yes": 84,
-      "change24h": 6,
-      "vol24h": 9160,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 57,
+      "change24h": -4,
+      "vol24h": 20800,
       "headlines": []
     }
   ]
