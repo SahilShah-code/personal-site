@@ -1,25 +1,24 @@
 {
-  "updated": "2026-09-01 01:57 UTC",
-  "net_return_pct": -35.7,
-  "realized_return_pct": -35.7,
+  "updated": "2026-09-01 07:37 UTC",
+  "net_return_pct": -32.3,
+  "realized_return_pct": -32.3,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 23.1,
-  "settled_total": 13,
+  "win_rate_pct": 25,
+  "settled_total": 12,
   "curve": [
     0,
-    -74.8,
-    -87.3,
-    -89.8,
-    -92.7,
-    -13.4,
-    -8.2,
-    -15.7,
-    -28,
-    -25,
-    -18,
-    -25.6,
-    -31.9,
-    -35.7
+    -100,
+    -100,
+    -100,
+    4.2,
+    6.7,
+    -3.8,
+    -20.3,
+    -18.5,
+    -11.5,
+    -20.5,
+    -27.9,
+    -32.3
   ],
   "active": [],
   "settled": [
@@ -106,13 +105,6 @@
       "result": "no",
       "date": "2026-06-26",
       "return_pct": -100
-    },
-    {
-      "title": "South Africa vs Korea Republic Winner?",
-      "ticker": "KXWCGAME-26JUN24RSAKOR-KOR",
-      "result": "no",
-      "date": "2026-06-25",
-      "return_pct": -74.8
     }
   ]
 }
