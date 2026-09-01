@@ -1,57 +1,13 @@
 {
-  "updated": "2026-09-01T10:38:37.739Z",
+  "updated": "2026-09-01T15:40:01.098Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $68,000 August 31-September 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-68k-august-31-september-6-2026",
-      "yes": 1,
-      "change24h": -49,
-      "vol24h": 14601,
-      "headlines": [
-        {
-          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $72,000 August 31-September 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-august-31-september-6-2026",
-      "yes": 6,
-      "change24h": -44,
-      "vol24h": 8826,
-      "headlines": [
-        {
-          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "US Open WTA: Jessica Pegula vs Sofia Kenin",
+      "question": "US Open ATP: Rafael Jodar vs Thanasi Kokkinakis",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-pegula-kenin-2026-09-02",
-      "yes": 93,
-      "change24h": 43,
-      "vol24h": 9683,
+      "url": "https://polymarket.com/event/atp-jodar-kokkina-2026-08-30",
+      "yes": 51,
+      "change24h": -38,
+      "vol24h": 119965,
       "headlines": [
         {
           "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
@@ -68,46 +24,72 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $84,000 August 31-September 6?",
+      "question": "Will Bitcoin reach $80,000 August 31-September 6?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-31-september-6-2026",
-      "yes": 9,
-      "change24h": -41,
-      "vol24h": 16824,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-august-31-september-6-2026",
+      "yes": 48,
+      "change24h": -18,
+      "vol24h": 20625,
       "headlines": [
         {
           "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Naomi Osaka advance to the Quarterfinals in Women's Singles at the 2026 US Open?",
+      "question": "US Open ATP: Francisco Comesana vs Flavio Cobolli",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-naomi-osaka-advance-to-the-quarterfinals-in-womens-singles-at-the-2026-us-open",
-      "yes": 35,
-      "change24h": 11,
-      "vol24h": 16974,
+      "url": "https://polymarket.com/event/atp-comesan-cobolli-2026-08-30",
+      "yes": 33,
+      "change24h": 14,
+      "vol24h": 200073,
       "headlines": [
+        {
+          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
+          "source": "Radio Times",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
           "source": "Fubo",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
           "cat": "Tennis"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-31-september-6-2026",
+      "yes": 19,
+      "change24h": -12,
+      "vol24h": 16243,
+      "headlines": [
         {
-          "title": "England squad for 2026 FIFA U-20 Women's World Cup: All the players selected by Lydia Bradford for the tournament",
-          "source": "DAZN",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWxOV2VxRmZ3MkFZSGhzZHpMdTl4QXAzSmFnRkwtTnBRRVQzWGNCOWlvekUyaEZPS3VHNXVZNkd5TUxPWlc5b21ISEItOWowVThCV01sT0ljUzNoNVRrMlNSd3FhUGJiWXg0WlBrR0FxTDF5a25pNHRqTTJENXpPcldpZTdETTc5LVQwNUdIa3psNTZqM05ORTJrdEpNUzBiaXY1WFZFcTdzeTV5cGZZNFhVRQ?oc=5",
-          "cat": "World Cup"
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $76,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-august-31-september-6-2026",
+      "yes": 54,
+      "change24h": 9,
+      "vol24h": 15947,
+      "headlines": [
+        {
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -117,18 +99,18 @@
       "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
       "yes": 67,
       "change24h": 7,
-      "vol24h": 21747,
+      "vol24h": 21614,
       "headlines": [
+        {
+          "title": "Trump presses Fed to lower interest rates. It may do the opposite",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW1HMWVELXRDcWFjVDA5VEdEZ195enpBbnBvRFJmMjg5MFd4NTBZWWdoV1dVVEpnMFliRExJSVREQVJWbkRVWmRDbFdfN3VTdXRTVjRIZ0VlR2xJZENCaER4MVdCODgtV2VIalh1TU0zNFAxLTA3MTVFU0ROeWQ1dktwVnNTaDlPOTU4RmdCbEdJYVlQZHo0UzQxSUdkV0tENlYtSzNtYUM?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -137,53 +119,31 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 42,
+      "yes": 38,
       "change24h": -6,
-      "vol24h": 2001556,
+      "vol24h": 1603263,
       "headlines": [
+        {
+          "title": "Trump presses Fed to lower interest rates. It may do the opposite",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW1HMWVELXRDcWFjVDA5VEdEZ195enpBbnBvRFJmMjg5MFd4NTBZWWdoV1dVVEpnMFliRExJSVREQVJWbkRVWmRDbFdfN3VTdXRTVjRIZ0VlR2xJZENCaER4MVdCODgtV2VIalh1TU0zNFAxLTA3MTVFU0ROeWQ1dktwVnNTaDlPOTU4RmdCbEdJYVlQZHo0UzQxSUdkV0tENlYtSzNtYUM?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 57,
-      "change24h": 6,
-      "vol24h": 1383800,
-      "headlines": [
-        {
-          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Jaume Munar vs Arthur Rinderknech",
+      "question": "US Open ATP: Dane Sweeny vs Corentin Moutet",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-munar-rinderk-2026-09-02",
-      "yes": 40,
-      "change24h": -4,
-      "vol24h": 8349,
+      "url": "https://polymarket.com/event/atp-sweeny-moutet-2026-08-30",
+      "yes": 34,
+      "change24h": 6,
+      "vol24h": 556453,
       "headlines": [
         {
           "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
@@ -200,24 +160,24 @@
       ]
     },
     {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 7842,
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 59,
+      "change24h": 3,
+      "vol24h": 930933,
       "headlines": [
         {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
+          "title": "Trump presses Fed to lower interest rates. It may do the opposite",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW1HMWVELXRDcWFjVDA5VEdEZ195enpBbnBvRFJmMjg5MFd4NTBZWWdoV1dVVEpnMFliRExJSVREQVJWbkRVWmRDbFdfN3VTdXRTVjRIZ0VlR2xJZENCaER4MVdCODgtV2VIalh1TU0zNFAxLTA3MTVFU0ROeWQ1dktwVnNTaDlPOTU4RmdCbEdJYVlQZHo0UzQxSUdkV0tENlYtSzNtYUM?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWNnSDlkVi1hNnFFWlJZTXJZc3BrOW5xUDdtME1DZFNRSWk5VkJxUURhUWJncHJfSzdURWViNFNocHBUdmNuVWYwRTJPcWJZaGFGR2Y0R3h0V2ZzTjd3bHp1emx1ckt5N0NQUmVzLWlTOGhtMVdFRE5ZUkJvY0tJQVdHY1FBcVd2TGp4NXdVemplclk2blRzUDBBZm5xVXI1TEhlWGV6bldtTHo5dFJ0VGFGMXI?oc=5",
-          "cat": "Tennis"
+          "title": "September Fed Rate Hike? Louis Navellier Says Investors Need a ‘Chill Pill’ as Sticky Inflation Keeps Pressure on Kevin Warsh",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPczRIb2xUU2VFbjA5d21PLWlVSUxrMVd3d1BoRmxmbENtRWxPREJlNFlReTNKbGVlNl95eVlSVTNqVVhQVl90ZjRrcjU0QmFDZHNYaC1aN0RxM2s5WXBuTzM2LThQVWdSOVhiU3otSGU3TlBOTFNldDh3OUNld3hzWmMyVld0LWhfWkpvRno2NnB4YzlHM3gxX3liRDhBY0JQQ2Q5b2FOUnpOV2NrMjB4Qks0SlhEWng1WVRpYmRnUmNfSUZta3ByTmxCeHp3M3NRTnlKV0NkRTd5TkFvWHlFcXVVRUx0SmlQVGJaTzM5cDl1NXpRSWZZXzBqSW1KVmR1RWlxanBsSVc5d24yeVE?oc=5",
+          "cat": "Macro"
         }
       ]
     }
@@ -228,8 +188,8 @@
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
       "yes": 34,
-      "change24h": 4,
-      "vol24h": 146186,
+      "change24h": 6,
+      "vol24h": 164067,
       "headlines": []
     },
     {
@@ -238,7 +198,7 @@
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
       "yes": 57,
       "change24h": -4,
-      "vol24h": 20800,
+      "vol24h": 31070,
       "headlines": []
     }
   ]
