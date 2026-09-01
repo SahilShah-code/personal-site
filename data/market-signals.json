@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-31T18:49:15.737Z",
+  "updated": "2026-09-01T02:20:28.282Z",
   "withNews": [
     {
-      "question": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
+      "question": "US Open WTA: Maya Joint vs Liudmila Samsonova",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-birrell-marcink-2026-08-30",
+      "url": "https://polymarket.com/event/wta-joint-samsono-2026-08-30",
       "yes": 100,
-      "change24h": 49,
-      "vol24h": 382401,
+      "change24h": 70,
+      "vol24h": 174315,
       "headlines": [
         {
           "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
@@ -24,12 +24,12 @@
       ]
     },
     {
-      "question": "US Open ATP: Jurij Rodionov vs Giovanni Mpetshi Perricard",
+      "question": "US Open ATP: Juncheng Shang vs Marco Trungelliti",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-rodiono-perrica-2026-08-30",
-      "yes": 94,
-      "change24h": 46,
-      "vol24h": 418253,
+      "url": "https://polymarket.com/event/atp-shang-trungel-2026-08-30",
+      "yes": 0,
+      "change24h": -66,
+      "vol24h": 329992,
       "headlines": [
         {
           "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "question": "US Open ATP: Aleksandar Vukic vs Rei Sakamoto",
+      "question": "US Open ATP: Grigor Dimitrov vs Alexei Popyrin",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-vukic-sakamot-2026-08-30",
-      "yes": 13,
-      "change24h": -30,
-      "vol24h": 449299,
+      "url": "https://polymarket.com/event/atp-dimitro-popyrin-2026-08-30",
+      "yes": 10,
+      "change24h": -56,
+      "vol24h": 444085,
       "headlines": [
         {
           "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
@@ -68,17 +68,39 @@
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 57,
-      "change24h": 11,
-      "vol24h": 44081,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 72,
+      "change24h": 6,
+      "vol24h": 149565,
       "headlines": [
         {
-          "title": "Is a September 2026 Fed Rate Hike Already Locked In?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHU4RFFyajQzRHhlTzU1NC1OWmQ1YUVIOURSRUg0RXYxcUxfckFWY2RlR1VvcXBkT2xxS0w4UVBlbnFzeERuNC1HQi1td2NuZkVGVzhDaTlTZ0VMYURBU0pnY2FBdllrS2d6cXpWWTJpMEFoakJncFNURUdTYkN6UGctc3BlTEthSEctc3V4YTlkYjE1?oc=5",
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Warsh’s “Quiet Fed” Approach Adds a Hawkish Call at Jackson Hole",
+          "source": "The Daily Upside",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnE0SnZCN3ZtZDBjNnJVYzFtUUo3VmtiRkVTQUhYeUJSakJIQl9CV29PNG55ZHpsT0Q1dnhBOXBGLS1fcTNqdEktTXI4TnExYVp3Ml9oanhFMVNacmZmWjN6M1JOSldlVDNNWlNDU25fT1JWYWpaWnNGcm5IaG91VUlkUVBUOWh5MDF5Rmp3MFB1WXY4OC00M2NlaW9BOElpaWdIeU5uV2tRNTJwR2pScVUwV2tLSHJvLWprVg?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by October 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
+      "yes": 65,
+      "change24h": 6,
+      "vol24h": 15327,
+      "headlines": [
+        {
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -93,90 +115,20 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 42,
-      "change24h": -8,
-      "vol24h": 1608802,
+      "yes": 44,
+      "change24h": -3,
+      "vol24h": 1738761,
       "headlines": [
         {
-          "title": "Is a September 2026 Fed Rate Hike Already Locked In?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHU4RFFyajQzRHhlTzU1NC1OWmQ1YUVIOURSRUg0RXYxcUxfckFWY2RlR1VvcXBkT2xxS0w4UVBlbnFzeERuNC1HQi1td2NuZkVGVzhDaTlTZ0VMYURBU0pnY2FBdllrS2d6cXpWWTJpMEFoakJncFNURUdTYkN6UGctc3BlTEthSEctc3V4YTlkYjE1?oc=5",
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
           "cat": "Macro"
         },
         {
           "title": "Warsh’s “Quiet Fed” Approach Adds a Hawkish Call at Jackson Hole",
           "source": "The Daily Upside",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnE0SnZCN3ZtZDBjNnJVYzFtUUo3VmtiRkVTQUhYeUJSakJIQl9CV29PNG55ZHpsT0Q1dnhBOXBGLS1fcTNqdEktTXI4TnExYVp3Ml9oanhFMVNacmZmWjN6M1JOSldlVDNNWlNDU25fT1JWYWpaWnNGcm5IaG91VUlkUVBUOWh5MDF5Rmp3MFB1WXY4OC00M2NlaW9BOElpaWdIeU5uV2tRNTJwR2pScVUwV2tLSHJvLWprVg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 56,
-      "change24h": 8,
-      "vol24h": 1343263,
-      "headlines": [
-        {
-          "title": "Is a September 2026 Fed Rate Hike Already Locked In?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHU4RFFyajQzRHhlTzU1NC1OWmQ1YUVIOURSRUg0RXYxcUxfckFWY2RlR1VvcXBkT2xxS0w4UVBlbnFzeERuNC1HQi1td2NuZkVGVzhDaTlTZ0VMYURBU0pnY2FBdllrS2d6cXpWWTJpMEFoakJncFNURUdTYkN6UGctc3BlTEthSEctc3V4YTlkYjE1?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Warsh’s “Quiet Fed” Approach Adds a Hawkish Call at Jackson Hole",
-          "source": "The Daily Upside",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnE0SnZCN3ZtZDBjNnJVYzFtUUo3VmtiRkVTQUhYeUJSakJIQl9CV29PNG55ZHpsT0Q1dnhBOXBGLS1fcTNqdEktTXI4TnExYVp3Ml9oanhFMVNacmZmWjN6M1JOSldlVDNNWlNDU25fT1JWYWpaWnNGcm5IaG91VUlkUVBUOWh5MDF5Rmp3MFB1WXY4OC00M2NlaW9BOElpaWdIeU5uV2tRNTJwR2pScVUwV2tLSHJvLWprVg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $76,000 on September 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-2-2026",
-      "yes": 95,
-      "change24h": 3,
-      "vol24h": 16313,
-      "headlines": [
-        {
-          "title": "Is a September 2026 Fed Rate Hike Already Locked In?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHU4RFFyajQzRHhlTzU1NC1OWmQ1YUVIOURSRUg0RXYxcUxfckFWY2RlR1VvcXBkT2xxS0w4UVBlbnFzeERuNC1HQi1td2NuZkVGVzhDaTlTZ0VMYURBU0pnY2FBdllrS2d6cXpWWTJpMEFoakJncFNURUdTYkN6UGctc3BlTEthSEctc3V4YTlkYjE1?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $78,000 on September 3?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-3-2026",
-      "yes": 67,
-      "change24h": 2,
-      "vol24h": 9697,
-      "headlines": [
-        {
-          "title": "Is a September 2026 Fed Rate Hike Already Locked In?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHU4RFFyajQzRHhlTzU1NC1OWmQ1YUVIOURSRUg0RXYxcUxfckFWY2RlR1VvcXBkT2xxS0w4UVBlbnFzeERuNC1HQi1td2NuZkVGVzhDaTlTZ0VMYURBU0pnY2FBdllrS2d6cXpWWTJpMEFoakJncFNURUdTYkN6UGctc3BlTEthSEctc3V4YTlkYjE1?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,300 on September 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2300-on-september-2-2026",
-      "yes": 97,
-      "change24h": -1,
-      "vol24h": 27944,
-      "headlines": [
-        {
-          "title": "Is a September 2026 Fed Rate Hike Already Locked In?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHU4RFFyajQzRHhlTzU1NC1OWmQ1YUVIOURSRUg0RXYxcUxfckFWY2RlR1VvcXBkT2xxS0w4UVBlbnFzeERuNC1HQi1td2NuZkVGVzhDaTlTZ0VMYURBU0pnY2FBdllrS2d6cXpWWTJpMEFoakJncFNURUdTYkN6UGctc3BlTEthSEctc3V4YTlkYjE1?oc=5",
           "cat": "Macro"
         }
       ]
@@ -187,7 +139,7 @@
       "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 19320,
+      "vol24h": 8642,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -202,57 +154,79 @@
           "cat": "Tennis"
         }
       ]
-    },
-    {
-      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 14074,
-      "headlines": [
-        {
-          "title": "MarShawn Lloyd is largely unproven. Can Packers RB live up to his fast-rising fantasy ADP?",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWtiYVZxakhRMDluT2JHY2tOMW1uQXU5LVNvZlVHYzc2emt4eVpIUEZQMENFMmZ6NC1veHFmOVZyMjNZS1lENTB1VHBSQWJlLS1qdWNCNmhQeWdwY2tTWTV6eDlPd3JPUEJiQThMRFZzSTYwS2Y4dEh0cXlyMzgxQWk3cjJKOTl2SGNrRXVETlVZZw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
-      "yes": 5,
-      "change24h": 0,
-      "vol24h": 11294,
-      "headlines": [
-        {
-          "title": "Peyton Watson reveals the Denver Nuggets doctors rushed his return in the playoffs: \"We didn't take the right approach",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEZvTDFGRkd2Rkxoakl4bDBOdXY2aEFyMHRCRUxaaEs1eThxOEszYTlOOG41ZXoybkJMaVFmbXNRS2l3aHh3a2JNLTEzaWtBdnplWXZqQlRsYkZCeXdDVlcwV0c5MHFfcnRXeWowUWtmTGxIZGd3T2kta2luX1JUd1VSZFJFUkxITGZVdXZB?oc=5",
-          "cat": "NBA"
-        }
-      ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 31,
-      "change24h": 6,
-      "vol24h": 109607,
+      "question": "Caribbean Premier League: Trinbago Knight Riders vs Guyana Amazon Warriors",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/criccpl-tri-guy-2026-08-31",
+      "yes": 0,
+      "change24h": -46,
+      "vol24h": 26132,
       "headlines": []
     },
     {
-      "question": "Will Ben Shelton win the 2026 Men's US Open?",
+      "question": "Will the price of Ethereum be above $2,400 on September 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2400-on-september-2-2026",
+      "yes": 79,
+      "change24h": 20,
+      "vol24h": 6686,
+      "headlines": []
+    },
+    {
+      "question": "Will S&P 500 (SPY) hit (LOW) $740 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-spy-dip-to-740-in-september-2026",
+      "yes": 26,
+      "change24h": -11,
+      "vol24h": 6846,
+      "headlines": []
+    },
+    {
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
-      "yes": 10,
-      "change24h": 4,
-      "vol24h": 30548,
+      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "yes": 35,
+      "change24h": 8,
+      "vol24h": 117268,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $76,000 on September 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-2-2026",
+      "yes": 90,
+      "change24h": 8,
+      "vol24h": 23779,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Ethereum be above $2,300 on September 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2300-on-september-2-2026",
+      "yes": 96,
+      "change24h": 7,
+      "vol24h": 31708,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $78,000 on September 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-2-2026",
+      "yes": 56,
+      "change24h": 7,
+      "vol24h": 8675,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $76,000 on September 3?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-3-2026",
+      "yes": 84,
+      "change24h": 6,
+      "vol24h": 9160,
       "headlines": []
     }
   ]
