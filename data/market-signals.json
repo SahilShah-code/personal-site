@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-02T15:28:01.916Z",
+  "updated": "2026-09-02T20:12:12.175Z",
   "withNews": [
     {
-      "question": "US Open WTA: Daria Kasatkina vs Paula Badosa",
+      "question": "US Open ATP: Rafael Jodar vs Yunchaokete Bu",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-kasatki-badosa-2026-08-30",
-      "yes": 9,
-      "change24h": -38,
-      "vol24h": 497302,
+      "url": "https://polymarket.com/event/atp-jodar-bu-2026-09-01",
+      "yes": 11,
+      "change24h": -79,
+      "vol24h": 1332792,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -24,28 +24,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,500 August 31-September 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2500-august-31-september-6-2026",
-      "yes": 24,
-      "change24h": -34,
-      "vol24h": 14088,
-      "headlines": [
-        {
-          "title": "Will the US Fed Hike Interest Rates in September?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "US Open WTA: Magda Linette vs Francesca Jones",
+      "question": "US Open ATP: Tomas Etcheverry vs Jacob Fearnley",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-linette-jones-2026-08-30",
-      "yes": 23,
-      "change24h": -28,
-      "vol24h": 12196,
+      "url": "https://polymarket.com/event/atp-etcheve-fearnle-2026-09-02",
+      "yes": 92,
+      "change24h": 36,
+      "vol24h": 125458,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -65,9 +49,9 @@
       "question": "US Open ATP: Jesper de Jong vs Francesco Passaro",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/atp-jong-passaro-2026-08-30",
-      "yes": 32,
-      "change24h": -25,
-      "vol24h": 255866,
+      "yes": 31,
+      "change24h": -26,
+      "vol24h": 287179,
       "headlines": [
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
@@ -84,55 +68,49 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $80,000 August 31-September 6?",
+      "question": "Will Ethereum reach $2,500 August 31-September 6?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-august-31-september-6-2026",
-      "yes": 28,
-      "change24h": -19,
-      "vol24h": 15005,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-august-31-september-6-2026",
+      "yes": 27,
+      "change24h": -18,
+      "vol24h": 12513,
       "headlines": [
         {
           "title": "Will the US Fed Hike Interest Rates in September?",
           "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeThXRi1oN0dsaUwxaVRlMDF1UGQ5R2JoTVlsOHVUVTRHeFRBeTBDeldCX1pMRGFPcWJRTVAyRGVvYWI1RXJHZFhjQzZDYzVGZnV0ME9KQTlHemlTdWN3bzdaZ2xyRDhtaEhDZGN1RjVEelNRMGRQM3IxMHVMcU1sWXpaWDVRSE9ldl9jSkhTUQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $78,000 on September 4?",
+      "question": "Will Bitcoin dip to $76,000 August 31-September 6?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-4-2026",
-      "yes": 30,
-      "change24h": -16,
-      "vol24h": 10899,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-august-31-september-6-2026",
+      "yes": 56,
+      "change24h": -14,
+      "vol24h": 16849,
       "headlines": [
         {
           "title": "Will the US Fed Hike Interest Rates in September?",
           "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeThXRi1oN0dsaUwxaVRlMDF1UGQ5R2JoTVlsOHVUVTRHeFRBeTBDeldCX1pMRGFPcWJRTVAyRGVvYWI1RXJHZFhjQzZDYzVGZnV0ME9KQTlHemlTdWN3bzdaZ2xyRDhtaEhDZGN1RjVEelNRMGRQM3IxMHVMcU1sWXpaWDVRSE9ldl9jSkhTUQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 43,
-      "change24h": 3,
-      "vol24h": 1222838,
+      "question": "Will Bitcoin dip to $74,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-august-31-september-6-2026",
+      "yes": 18,
+      "change24h": -11,
+      "vol24h": 22224,
       "headlines": [
         {
           "title": "Will the US Fed Hike Interest Rates in September?",
           "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump presses Fed to lower interest rates. It may do the opposite",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW1HMWVELXRDcWFjVDA5VEdEZ195enpBbnBvRFJmMjg5MFd4NTBZWWdoV1dVVEpnMFliRExJSVREQVJWbkRVWmRDbFdfN3VTdXRTVjRIZ0VlR2xJZENCaER4MVdCODgtV2VIalh1TU0zNFAxLTA3MTVFU0ROeWQ1dktwVnNTaDlPOTU4RmdCbEdJYVlQZHo0UzQxSUdkV0tENlYtSzNtYUM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeThXRi1oN0dsaUwxaVRlMDF1UGQ5R2JoTVlsOHVUVTRHeFRBeTBDeldCX1pMRGFPcWJRTVAyRGVvYWI1RXJHZFhjQzZDYzVGZnV0ME9KQTlHemlTdWN3bzdaZ2xyRDhtaEhDZGN1RjVEelNRMGRQM3IxMHVMcU1sWXpaWDVRSE9ldl9jSkhTUQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -141,20 +119,42 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 56,
-      "change24h": -2,
-      "vol24h": 752816,
+      "yes": 55,
+      "change24h": -3,
+      "vol24h": 603916,
       "headlines": [
         {
-          "title": "Will the US Fed Hike Interest Rates in September?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
+          "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeE9leGMyWlY3VGlFRnAzdGx2RHBDX05LbnlsSkU1TVF6enVtWU91cGpEY2NCdTMzMTZyX212OXdrMk83ZWRTNXhwemEtWGx4cjdhbWFTa0ozOVhnNGcteFMzdEJZUk5GT0FYYXBTX2lNeEZ1SnpyTXdTRzBDZkUxeDFmSVozOHJvbzRuU2VUQXRaTDJJOHRhd3BRandNSzkyMDc4NG5oMTYxaF9BbDV0MGN2bnl3T2FoUzZlTVZTWm84Zw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Trump presses Fed to lower interest rates. It may do the opposite",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW1HMWVELXRDcWFjVDA5VEdEZ195enpBbnBvRFJmMjg5MFd4NTBZWWdoV1dVVEpnMFliRExJSVREQVJWbkRVWmRDbFdfN3VTdXRTVjRIZ0VlR2xJZENCaER4MVdCODgtV2VIalh1TU0zNFAxLTA3MTVFU0ROeWQ1dktwVnNTaDlPOTU4RmdCbEdJYVlQZHo0UzQxSUdkV0tENlYtSzNtYUM?oc=5",
+          "title": "Will the US Fed Hike Interest Rates in September?",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeThXRi1oN0dsaUwxaVRlMDF1UGQ5R2JoTVlsOHVUVTRHeFRBeTBDeldCX1pMRGFPcWJRTVAyRGVvYWI1RXJHZFhjQzZDYzVGZnV0ME9KQTlHemlTdWN3bzdaZ2xyRDhtaEhDZGN1RjVEelNRMGRQM3IxMHVMcU1sWXpaWDVRSE9ldl9jSkhTUQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 45,
+      "change24h": -3,
+      "vol24h": 11724,
+      "headlines": [
+        {
+          "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeE9leGMyWlY3VGlFRnAzdGx2RHBDX05LbnlsSkU1TVF6enVtWU91cGpEY2NCdTMzMTZyX212OXdrMk83ZWRTNXhwemEtWGx4cjdhbWFTa0ozOVhnNGcteFMzdEJZUk5GT0FYYXBTX2lNeEZ1SnpyTXdTRzBDZkUxeDFmSVozOHJvbzRuU2VUQXRaTDJJOHRhd3BRandNSzkyMDc4NG5oMTYxaF9BbDV0MGN2bnl3T2FoUzZlTVZTWm84Zw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Will the US Fed Hike Interest Rates in September?",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeThXRi1oN0dsaUwxaVRlMDF1UGQ5R2JoTVlsOHVUVTRHeFRBeTBDeldCX1pMRGFPcWJRTVAyRGVvYWI1RXJHZFhjQzZDYzVGZnV0ME9KQTlHemlTdWN3bzdaZ2xyRDhtaEhDZGN1RjVEelNRMGRQM3IxMHVMcU1sWXpaWDVRSE9ldl9jSkhTUQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -165,49 +165,91 @@
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 56,
       "change24h": -2,
-      "vol24h": 36021,
+      "vol24h": 14905,
       "headlines": [
         {
-          "title": "Will the US Fed Hike Interest Rates in September?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
+          "title": "Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeE9leGMyWlY3VGlFRnAzdGx2RHBDX05LbnlsSkU1TVF6enVtWU91cGpEY2NCdTMzMTZyX212OXdrMk83ZWRTNXhwemEtWGx4cjdhbWFTa0ozOVhnNGcteFMzdEJZUk5GT0FYYXBTX2lNeEZ1SnpyTXdTRzBDZkUxeDFmSVozOHJvbzRuU2VUQXRaTDJJOHRhd3BRandNSzkyMDc4NG5oMTYxaF9BbDV0MGN2bnl3T2FoUzZlTVZTWm84Zw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Trump presses Fed to lower interest rates. It may do the opposite",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW1HMWVELXRDcWFjVDA5VEdEZ195enpBbnBvRFJmMjg5MFd4NTBZWWdoV1dVVEpnMFliRExJSVREQVJWbkRVWmRDbFdfN3VTdXRTVjRIZ0VlR2xJZENCaER4MVdCODgtV2VIalh1TU0zNFAxLTA3MTVFU0ROeWQ1dktwVnNTaDlPOTU4RmdCbEdJYVlQZHo0UzQxSUdkV0tENlYtSzNtYUM?oc=5",
+          "title": "Will the US Fed Hike Interest Rates in September?",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeThXRi1oN0dsaUwxaVRlMDF1UGQ5R2JoTVlsOHVUVTRHeFRBeTBDeldCX1pMRGFPcWJRTVAyRGVvYWI1RXJHZFhjQzZDYzVGZnV0ME9KQTlHemlTdWN3bzdaZ2xyRDhtaEhDZGN1RjVEelNRMGRQM3IxMHVMcU1sWXpaWDVRSE9ldl9jSkhTUQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 18,
+      "change24h": 1,
+      "vol24h": 11207,
+      "headlines": [
+        {
+          "title": "Braden Fiske admits Rams trading Jared Verse could be 'good thing' for him",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd21QNWlQbThKYk5mY0JIXzdOektnSUxQckRFSEhxbUhWSWxqc3d0OS1IMHdTOVJXY3ktblh4TDg0b3pnSHEyNzJmbFhWUlZ5VlZCa3ZvSWVrTHdUU3pfR3p1Y3FlR08tNGd1UVprVHN2V1JzcWN6NFlBLWVSbHg4SUtqX1BMaFN0?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "49ers’ Nick Bosa practices, confident he’ll play in opener vs. Rams",
+          "source": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVpVU1FQVm5rXzJSc3BPNVl3UWVXVjgtR0gwT2lQS0RnZ0h1TFNVOG55Q0N1LWNoNzhzbm9JbzlBRS1fZFNTc0lzRmlfd1NsRW9MUThQXzh3cTRFTjBqY3drX1p5cldtVWxSQm5la0c4Ty1fZnBTUDlMOTBCRlhqQTZhcGJUMUg2VVIwUlRaVnA?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 51573,
+      "headlines": [
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "Fubo",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Caribbean Premier League: Trinbago Knight Riders vs Antigua And Barbuda Falcons",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/criccpl-tri-ant-2026-09-02",
+      "yes": 55,
+      "change24h": 0,
+      "vol24h": 30256,
+      "headlines": [
+        {
+          "title": "What Falcons GM Ian Cunningham said about QB competition",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONG1DQU5xUzNoTVh4YVZPRzRfMXRVUkxKNGxZRmtnSWtreWh0Njd4ZFhPd3VzRFVBbnd2ZnZLeXlvQ2o5c2R1aDRKT3ZNRnRfUFBIUVVGdUplUVYzUjdMWkd3RGNnYU00bzZrQW96NXVVT2ozbVFUV0VUNjNlVmo0SmNMTlJSQQ?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 44,
-      "change24h": -6,
-      "vol24h": 38024,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 62,
-      "change24h": 5,
-      "vol24h": 18454,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 88,
-      "change24h": 4,
-      "vol24h": 14249,
+      "question": "Will Rafael Jodar win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-rafael-jodar-win-the-2026-mens-us-open",
+      "yes": 1,
+      "change24h": -5,
+      "vol24h": 103626,
       "headlines": []
     }
   ]
