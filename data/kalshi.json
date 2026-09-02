@@ -1,24 +1,23 @@
 {
-  "updated": "2026-09-02 04:54 UTC",
-  "net_return_pct": -32.3,
-  "realized_return_pct": -32.3,
+  "updated": "2026-09-02 09:18 UTC",
+  "net_return_pct": -25.8,
+  "realized_return_pct": -25.8,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 25,
-  "settled_total": 12,
+  "win_rate_pct": 27.3,
+  "settled_total": 11,
   "curve": [
     0,
     -100,
     -100,
-    -100,
-    4.2,
-    6.7,
-    -3.8,
-    -20.3,
-    -18.5,
+    45.2,
+    36.6,
+    19.9,
+    -4.9,
+    -6.4,
+    -0.1,
     -11.5,
     -20.5,
-    -27.9,
-    -32.3
+    -25.8
   ],
   "active": [],
   "settled": [
@@ -97,13 +96,6 @@
       "ticker": "KXATPMATCH-26JUL01NAKSTR-NAK",
       "result": "no",
       "date": "2026-07-02",
-      "return_pct": -100
-    },
-    {
-      "title": "Turkiye vs USA Winner?",
-      "ticker": "KXWCGAME-26JUN25TURUSA-USA",
-      "result": "no",
-      "date": "2026-06-26",
       "return_pct": -100
     }
   ]
