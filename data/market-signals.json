@@ -1,51 +1,135 @@
 {
-  "updated": "2026-09-03T15:22:17.118Z",
+  "updated": "2026-09-03T20:13:16.303Z",
   "withNews": [
-    {
-      "question": "Will Bitcoin dip to $76,000 August 31-September 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-august-31-september-6-2026",
-      "yes": 10,
-      "change24h": -63,
-      "vol24h": 27892,
-      "headlines": [
-        {
-          "title": "Will the US Fed Hike Interest Rates in September?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin reach $82,000 August 31-September 6?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82k-august-31-september-6-2026",
-      "yes": 59,
-      "change24h": 51,
-      "vol24h": 39437,
+      "yes": 86,
+      "change24h": 78,
+      "vol24h": 76333,
       "headlines": [
         {
-          "title": "Will the US Fed Hike Interest Rates in September?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
+          "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Saylor says Strategy’s Bitcoin-heavy reserve capital surpasses nearly all S&P 500 financial firms",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWJNRWRnMzRWSTd4Zkp2TnVMek8zYXdJcGNCWlVwLVhXNllhTC0td3J2UU4yamJRTGVmY0U3U0h3VEd6LWVsRUdVYkx6SnhFMFpQclRWMnROUjduc3h6MVRFa2VkdmpsS3BpNE5pZDVxSWktWVVBTW40QzVNcDRSWnQzQUROSGpxZlV1ZWxONHgxQnZZWUJPdVRncWgySU1t?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $82,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 82,
-      "change24h": 37,
-      "vol24h": 19134,
+      "question": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-augeral-khachan-2026-09-02",
+      "yes": 1,
+      "change24h": -70,
+      "vol24h": 882919,
       "headlines": [
         {
-          "title": "Will the US Fed Hike Interest Rates in September?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
+          "title": "Here are the ATP, WTA semifinal matchups at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BoT055R2dHaG9LamRfM253Zks3Z0tFVXlnRDVZVEdsOEFSa1NsTkpmczdDRmZWM1R4N2poekRpbnhtbWtmc0FIcWpsY0FNb0JJcEs0dTRBV1B0N24wNDBoZ05xR0ZrMzNPTHhvcS03alcwR3l0UVZBR21pUzR0R1BIUnQ3QktFOUVxNXBGV3ZYOHZQbE53NExZVkdFV1JkaUtaRWRSWlVHdEpFZDVTbWlqQ29QSEV4Y2c?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA quarterfinal results at the Cincinnati Open",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0Q0X0ZVZ013UUpKNTZtSzBKbmhqQmhWRVJTdUNIcUNmZGtCekVIUEVaTldnQU1naUU5Z1ozWG1ucUliMlc0ZncxM3BfUGJyekVtRzFoeXNseS1kYUVsTW5ZRnhFYzlzeVEzMW5FS0hidFRIR3VTYW1UU2I3NEprYy1PVWdKYVdBb0lwWWRBWjVqMk53R1MxLVRnWDMzVnVHejBjc1k0THFPWlotcmpIOThSVQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $80,000 on September 5?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-80k-on-september-5-2026",
+      "yes": 76,
+      "change24h": 67,
+      "vol24h": 11564,
+      "headlines": [
+        {
+          "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Saylor says Strategy’s Bitcoin-heavy reserve capital surpasses nearly all S&P 500 financial firms",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWJNRWRnMzRWSTd4Zkp2TnVMek8zYXdJcGNCWlVwLVhXNllhTC0td3J2UU4yamJRTGVmY0U3U0h3VEd6LWVsRUdVYkx6SnhFMFpQclRWMnROUjduc3h6MVRFa2VkdmpsS3BpNE5pZDVxSWktWVVBTW40QzVNcDRSWnQzQUROSGpxZlV1ZWxONHgxQnZZWUJPdVRncWgySU1t?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $76,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-august-31-september-6-2026",
+      "yes": 7,
+      "change24h": -55,
+      "vol24h": 32019,
+      "headlines": [
+        {
+          "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Saylor says Strategy’s Bitcoin-heavy reserve capital surpasses nearly all S&P 500 financial firms",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWJNRWRnMzRWSTd4Zkp2TnVMek8zYXdJcGNCWlVwLVhXNllhTC0td3J2UU4yamJRTGVmY0U3U0h3VEd6LWVsRUdVYkx6SnhFMFpQclRWMnROUjduc3h6MVRFa2VkdmpsS3BpNE5pZDVxSWktWVVBTW40QzVNcDRSWnQzQUROSGpxZlV1ZWxONHgxQnZZWUJPdVRncWgySU1t?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Dane Sweeny vs Lorenzo Musetti",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-sweeny-musetti-2026-09-02",
+      "yes": 56,
+      "change24h": 50,
+      "vol24h": 87479,
+      "headlines": [
+        {
+          "title": "Here are the ATP, WTA semifinal matchups at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BoT055R2dHaG9LamRfM253Zks3Z0tFVXlnRDVZVEdsOEFSa1NsTkpmczdDRmZWM1R4N2poekRpbnhtbWtmc0FIcWpsY0FNb0JJcEs0dTRBV1B0N24wNDBoZ05xR0ZrMzNPTHhvcS03alcwR3l0UVZBR21pUzR0R1BIUnQ3QktFOUVxNXBGV3ZYOHZQbE53NExZVkdFV1JkaUtaRWRSWlVHdEpFZDVTbWlqQ29QSEV4Y2c?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA quarterfinal results at the Cincinnati Open",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0Q0X0ZVZ013UUpKNTZtSzBKbmhqQmhWRVJTdUNIcUNmZGtCekVIUEVaTldnQU1naUU5Z1ozWG1ucUliMlc0ZncxM3BfUGJyekVtRzFoeXNseS1kYUVsTW5ZRnhFYzlzeVEzMW5FS0hidFRIR3VTYW1UU2I3NEprYy1PVWdKYVdBb0lwWWRBWjVqMk53R1MxLVRnWDMzVnVHejBjc1k0THFPWlotcmpIOThSVQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-darderi-svrcina-2026-09-02",
+      "yes": 100,
+      "change24h": 42,
+      "vol24h": 904127,
+      "headlines": [
+        {
+          "title": "Here are the ATP, WTA semifinal matchups at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BoT055R2dHaG9LamRfM253Zks3Z0tFVXlnRDVZVEdsOEFSa1NsTkpmczdDRmZWM1R4N2poekRpbnhtbWtmc0FIcWpsY0FNb0JJcEs0dTRBV1B0N24wNDBoZ05xR0ZrMzNPTHhvcS03alcwR3l0UVZBR21pUzR0R1BIUnQ3QktFOUVxNXBGV3ZYOHZQbE53NExZVkdFV1JkaUtaRWRSWlVHdEpFZDVTbWlqQ29QSEV4Y2c?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA quarterfinal results at the Cincinnati Open",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0Q0X0ZVZ013UUpKNTZtSzBKbmhqQmhWRVJTdUNIcUNmZGtCekVIUEVaTldnQU1naUU5Z1ozWG1ucUliMlc0ZncxM3BfUGJyekVtRzFoeXNseS1kYUVsTW5ZRnhFYzlzeVEzMW5FS0hidFRIR3VTYW1UU2I3NEprYy1PVWdKYVdBb0lwWWRBWjVqMk53R1MxLVRnWDMzVnVHejBjc1k0THFPWlotcmpIOThSVQ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -55,40 +139,18 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 56,
       "change24h": 14,
-      "vol24h": 1690062,
+      "vol24h": 1795981,
       "headlines": [
         {
-          "title": "US Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
-          "source": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUZLbEZ0aGpUa1VCNXVZR0NqRGtoRTF2NzJIRDl2THNqRlhMYUw3XzhXM0ktRVkxckNwUERNT1hiR1JGdFZIOUxISDBqMW1EUVpoNTQwc291WnFTUWhMUl8tWlRqbnN5ZzBXZEt4N3BaLVg0aXhsYS1VQWllNWZ4Ml9WaExyTU5pc1V6QU12Um5zd1ZRWlRjeDJfT2JuRm95NF9DVXA3NE1VRG5mY3pjNzFjMmJjTW96MmE3U1FxeUhYam9JcEJhX0ZoNEFwdw?oc=5",
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Economy grows ‘modestly,’ with consumers wary of rising prices: Fed",
-          "source": "CFO Dive",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEJLY2dnTlVINWdhZTh0ZldBbHg4ZHhHakJDNTlNb1BXdUFrQV9idENNZ0hpakpLejNlVlVVekwwdC1nR01CdXIwWUJFcU1jeldMWUZfWnRyN3NLVEF0QXhpRDZmOXhhd1VFdFUzOHFrWUd5Y0tvYVhYY3ZJUkhKYzNLNE1TS3Q0b3JzU0s2dEFYSXZ3Q2Jia0pISmxMeklQcjI5Nw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 43,
-      "change24h": -14,
-      "vol24h": 1264702,
-      "headlines": [
-        {
-          "title": "US Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
-          "source": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUZLbEZ0aGpUa1VCNXVZR0NqRGtoRTF2NzJIRDl2THNqRlhMYUw3XzhXM0ktRVkxckNwUERNT1hiR1JGdFZIOUxISDBqMW1EUVpoNTQwc291WnFTUWhMUl8tWlRqbnN5ZzBXZEt4N3BaLVg0aXhsYS1VQWllNWZ4Ml9WaExyTU5pc1V6QU12Um5zd1ZRWlRjeDJfT2JuRm95NF9DVXA3NE1VRG5mY3pjNzFjMmJjTW96MmE3U1FxeUhYam9JcEJhX0ZoNEFwdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Economy grows ‘modestly,’ with consumers wary of rising prices: Fed",
-          "source": "CFO Dive",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEJLY2dnTlVINWdhZTh0ZldBbHg4ZHhHakJDNTlNb1BXdUFrQV9idENNZ0hpakpLejNlVlVVekwwdC1nR01CdXIwWUJFcU1jeldMWUZfWnRyN3NLVEF0QXhpRDZmOXhhd1VFdFUzOHFrWUd5Y0tvYVhYY3ZJUkhKYzNLNE1TS3Q0b3JzU0s2dEFYSXZ3Q2Jia0pISmxMeklQcjI5Nw?oc=5",
+          "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0xMWWJMdUtQMXdlQVVXcF85dWpCX1BSTDNPNG5yVXhYUVowc2xCamNwc245WW91b0NRa1c5OXRoRkxhb08xWFRlanpBd3dJZGNMSjZ2WlJKVGt4T21reE4tckRqbkNLNTV6SGcwdmdjTEVBOVJNYXQ1R0JVS0p5V0JYYUk1YnMwcnZ1SFdyUFRyNjQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -98,143 +160,110 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 42,
-      "change24h": -13,
-      "vol24h": 25857,
+      "change24h": -14,
+      "vol24h": 23041,
       "headlines": [
         {
-          "title": "US Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
-          "source": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUZLbEZ0aGpUa1VCNXVZR0NqRGtoRTF2NzJIRDl2THNqRlhMYUw3XzhXM0ktRVkxckNwUERNT1hiR1JGdFZIOUxISDBqMW1EUVpoNTQwc291WnFTUWhMUl8tWlRqbnN5ZzBXZEt4N3BaLVg0aXhsYS1VQWllNWZ4Ml9WaExyTU5pc1V6QU12Um5zd1ZRWlRjeDJfT2JuRm95NF9DVXA3NE1VRG5mY3pjNzFjMmJjTW96MmE3U1FxeUhYam9JcEJhX0ZoNEFwdw?oc=5",
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Economy grows ‘modestly,’ with consumers wary of rising prices: Fed",
-          "source": "CFO Dive",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEJLY2dnTlVINWdhZTh0ZldBbHg4ZHhHakJDNTlNb1BXdUFrQV9idENNZ0hpakpLejNlVlVVekwwdC1nR01CdXIwWUJFcU1jeldMWUZfWnRyN3NLVEF0QXhpRDZmOXhhd1VFdFUzOHFrWUd5Y0tvYVhYY3ZJUkhKYzNLNE1TS3Q0b3JzU0s2dEFYSXZ3Q2Jia0pISmxMeklQcjI5Nw?oc=5",
+          "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0xMWWJMdUtQMXdlQVVXcF85dWpCX1BSTDNPNG5yVXhYUVowc2xCamNwc245WW91b0NRa1c5OXRoRkxhb08xWFRlanpBd3dJZGNMSjZ2WlJKVGt4T21reE4tckRqbkNLNTV6SGcwdmdjTEVBOVJNYXQ1R0JVS0p5V0JYYUk1YnMwcnZ1SFdyUFRyNjQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 43,
+      "change24h": -13,
+      "vol24h": 1287617,
+      "headlines": [
+        {
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0xMWWJMdUtQMXdlQVVXcF85dWpCX1BSTDNPNG5yVXhYUVowc2xCamNwc245WW91b0NRa1c5OXRoRkxhb08xWFRlanpBd3dJZGNMSjZ2WlJKVGt4T21reE4tckRqbkNLNTV6SGcwdmdjTEVBOVJNYXQ1R0JVS0p5V0JYYUk1YnMwcnZ1SFdyUFRyNjQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 14253,
+      "vol24h": 18313,
       "headlines": [
         {
-          "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWERya0EybmQxcmtwN2F6M19ZZEg5R0FMcXczVVA4TEVyNzFOMlE2SFB2MXdqZzluR2djeDdMUGU4ZWVrdVlKWU1iMXRkQjFpRHVZN3dqQWdDSDEtZ2lVNnFaZU1Va0pkVHZQWFlLSko4enp3Tzk1VmduQnZyQ3ZSTGF3SWNsZnI0N0tjM1g3Zkt5d0dqSlhfZjN4cWgycjNvR2pDZmZlSU83OWV1dlHSAbMBQVVfeXFMUEtnSUFGLTFxdE80YVRCMVloRnc3Mkoyc1NVVm42N3VYdlFaWGZoS0xFWTVlN3hqMnBpd0RQVHdpcTF1THFmUUZ6Z0NobWFQRUMzMDBWYkpBSVVnNDNGSTVTTnNFNFZuZ1lmTFZ3NWxmUUxaVEtCM1RhNHg3Ri1TRlkwUXNQUXBQQmN6S2c0S2ZBSXZKeFptTG9mSllZZmg0OWw0V2Rwd0FIVTJPakdoejNuTzQ?oc=5",
-          "cat": "Macro"
+          "title": "Could the Vikings improve their run game in the 2027 NFL Draft?",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVlI5T0d5OTh1SExJWGh1aThTRGdkOVRPTkZtN1B3M3ItVzJ0Sll1MVdoQWJLel9XYzRnWFllTnU0c3FMS25mTC0tbHNFMi1VbjhqQlVzLUszR0FRdkJOZUozTWJUNFhCRTFzT3plRldMLWcxWENoOGxaWTdlQzB5RHI1RkJhZw?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 13356,
+      "vol24h": 18032,
       "headlines": [
         {
-          "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWERya0EybmQxcmtwN2F6M19ZZEg5R0FMcXczVVA4TEVyNzFOMlE2SFB2MXdqZzluR2djeDdMUGU4ZWVrdVlKWU1iMXRkQjFpRHVZN3dqQWdDSDEtZ2lVNnFaZU1Va0pkVHZQWFlLSko4enp3Tzk1VmduQnZyQ3ZSTGF3SWNsZnI0N0tjM1g3Zkt5d0dqSlhfZjN4cWgycjNvR2pDZmZlSU83OWV1dlHSAbMBQVVfeXFMUEtnSUFGLTFxdE80YVRCMVloRnc3Mkoyc1NVVm42N3VYdlFaWGZoS0xFWTVlN3hqMnBpd0RQVHdpcTF1THFmUUZ6Z0NobWFQRUMzMDBWYkpBSVVnNDNGSTVTTnNFNFZuZ1lmTFZ3NWxmUUxaVEtCM1RhNHg3Ri1TRlkwUXNQUXBQQmN6S2c0S2ZBSXZKeFptTG9mSllZZmg0OWw0V2Rwd0FIVTJPakdoejNuTzQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Clippers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-clippers-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 12079,
-      "headlines": [
+          "title": "Here are the ATP, WTA semifinal matchups at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BoT055R2dHaG9LamRfM253Zks3Z0tFVXlnRDVZVEdsOEFSa1NsTkpmczdDRmZWM1R4N2poekRpbnhtbWtmc0FIcWpsY0FNb0JJcEs0dTRBV1B0N24wNDBoZ05xR0ZrMzNPTHhvcS03alcwR3l0UVZBR21pUzR0R1BIUnQ3QktFOUVxNXBGV3ZYOHZQbE53NExZVkdFV1JkaUtaRWRSWlVHdEpFZDVTbWlqQ29QSEV4Y2c?oc=5",
+          "cat": "Tennis"
+        },
         {
-          "title": "Steve Ballmer and the Clippers Get the NBA’s Doomsday Hammer",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGc0dVJzc1ByamNZZXdZanF3UjZmYnV1Xy16SlZfb3VLV0pWTFRITGJpRzFXSGI5RE1sNFZUdEVrcUxZRjhENU92ZWRyY1dJWHdtemp6MmZXdUlUZ2NxTEFOaFdLSUhiQTlfelFPSEVHZllib3FFVDFLOWxiRXd1UXZydkhiN2VMQzFv?oc=5",
-          "cat": "NBA"
+          "title": "Replay | ATP, WTA quarterfinal results at the Cincinnati Open",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0Q0X0ZVZ013UUpKNTZtSzBKbmhqQmhWRVJTdUNIcUNmZGtCekVIUEVaTldnQU1naUU5Z1ozWG1ucUliMlc0ZncxM3BfUGJyekVtRzFoeXNseS1kYUVsTW5ZRnhFYzlzeVEzMW5FS0hidFRIR3VTYW1UU2I3NEprYy1PVWdKYVdBb0lwWWRBWjVqMk53R1MxLVRnWDMzVnVHejBjc1k0THFPWlotcmpIOThSVQ?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 74,
-      "change24h": -15,
-      "vol24h": 20104,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 77,
-      "change24h": 15,
-      "vol24h": 12408,
-      "headlines": []
-    },
-    {
       "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 64,
-      "change24h": -14,
-      "vol24h": 69162,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 56,
-      "change24h": 12,
-      "vol24h": 21652,
-      "headlines": []
-    },
-    {
-      "question": "US Open WTA: Maria Timofeeva vs Elise Mertens",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-timofee-mertens-2026-09-03",
-      "yes": 16,
-      "change24h": -11,
-      "vol24h": 96513,
-      "headlines": []
-    },
-    {
-      "question": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-augeral-khachan-2026-09-02",
-      "yes": 82,
-      "change24h": 10,
-      "vol24h": 92056,
+      "yes": 57,
+      "change24h": -22,
+      "vol24h": 118814,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 35,
-      "change24h": -9,
-      "vol24h": 121454,
+      "yes": 28,
+      "change24h": -16,
+      "vol24h": 188754,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 37,
-      "change24h": 7,
-      "vol24h": 55660,
+      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
+      "yes": 43,
+      "change24h": 5,
+      "vol24h": 174511,
       "headlines": []
     }
   ]

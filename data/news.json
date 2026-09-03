@@ -1,114 +1,299 @@
 {
-  "updated": "2026-09-03T15:22:16.007Z",
+  "updated": "2026-09-03T20:13:15.813Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
       "items": [
         {
-          "title": "Steve Ballmer and the Clippers Get the NBA’s Doomsday Hammer",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGc0dVJzc1ByamNZZXdZanF3UjZmYnV1Xy16SlZfb3VLV0pWTFRITGJpRzFXSGI5RE1sNFZUdEVrcUxZRjhENU92ZWRyY1dJWHdtemp6MmZXdUlUZ2NxTEFOaFdLSUhiQTlfelFPSEVHZllib3FFVDFLOWxiRXd1UXZydkhiN2VMQzFv?oc=5",
-          "ts": 1788448200000
+          "title": "\"We are in the era of MMA\" - Denver Nuggets assistant coach gets real about international stars taking over the NBA",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2VjaW9aXzE1UkI2SWpfdFpYS2VnNlJZaEhjQ2RxQjhOZS05RU83bDJudWk3bHJuaGtlQm4xQjQ1VjhUdFZwRzN5WG1XY0h6X29TTlpac2M1VXg4Rm10MFlKT2lPa2k5a2lHZXpyZGpFMzdEczRnUThyV1FTVDZmdTl3MlBoczYt?oc=5",
+          "ts": 1788465955000
         },
         {
-          "title": "Nash & Nowitzki: A Basketball Friendship",
+          "title": "Rockets lock up Amen Thompson with a reported 5-year, $208M extension through 2032",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzlHQi1Dbk1saDVPQ0l5RU5pNTNzV1Q3V215TENYZ25oTWo1UXZzU0lnUGlwS2hhdjNXNnUzUnZxcXdnQXREZzNibi03TGU1OEE5TUY0dGhvQ2JkTU91ZkttVHAwV0dZVkRhbGdFR0F0dmxUeDEweUd5bEVEWVBheA?oc=5",
+          "ts": 1788465254000
+        },
+        {
+          "title": "The Clippers are the latest pro sports franchise punished for rules violations. Here are some others",
+          "source": "CTPost",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaklTQW9jWHF1OWlYenQyLUtuNjMwMGxPQy1tZkxjVmwtbDZwTlBBNTZ4X0RlYXpzRmhfWmljSEZNVGU3ajlmb2dWQTNFbXN1VDE0SEdYSWhYcUVYbm9fTGJKS3phamw3R2RIWmhtOTFUSnBacDRYNDZUNE5UQTVXaVdsYzduOEc1MXpPVEJ5TFlEWk5yUXZOdUtXZUt5dlVB?oc=5",
+          "ts": 1788465177000
+        },
+        {
+          "title": "Amen Thompson signs reported 5-year, $208M extension with Rockets",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVpFLVpoeWF5Sm02UGJWdzRhSEpyZ2dqaGU3YXJ2cmlzWTFYczVhSlk0OUgxNGJKbXF0dHIzUU5JSWdfWmdvb3hjUWY4bllMZGtwaGFqdW5fbThDWkJjMHBHa3c5MHh4aU5ZU080WDVCQWRadG1KNHNWT0thNHhidmhEUWFBdFhJcjRCeHRoY1NnODJlSGpybXI2ODZNM0VOSHdGME1jTFBxVW41SjdfMF9KdzVwZEpPWE1rLVZJbmE4R2xUaDV1SA?oc=5",
+          "ts": 1788464848000
+        },
+        {
+          "title": "\"A fight is gonna happen between the Clippers and the NBA\" - Brian Windhorst predicts the worst possible outcome of the Clippers saga",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlZLelNkU0R5alVVUGNDRmZqQ0JSVzlJVFpyQ2lfNHpNTno1UHpCNHRBWkJ6OHpTNkRHV0JLVDNZRlFscHhoY0diRmt2UktVcFNOc1hJcEE0Y3FKem5hS01EeFBQV2Z2VkNsYjV3MUx2TEM3R1h4eTRXSEhUallvWnc2RjlhRmM1Zl9iYlFqNkx6ZkNuYXdQYk1ySFNmMUFpLWtWVFVsSDJDZnpiNjlfUGNTeEQ1Qk5HQ0E?oc=5",
+          "ts": 1788464520000
+        },
+        {
+          "title": "Amen Thompson signs five-year extension with Rockets",
           "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdjQxQlBLTDdCM0cyMlZkWHFuc1NJTHRqLVZhVDY5c3RCOHBRNWs5cVpORmY2OThPQUZiV05QWVJvV0JMRnhzcFRzczJpa2FKa1FpcHE1SnJwWVZOOVhGcHZVM3JzSHVoOW85MGpFV2NXYk9mN2NlSg?oc=5",
-          "ts": 1788447156000
-        },
-        {
-          "title": "Amen Thompson agrees to five-year, $208 million extension with Rockets",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS283UF9rVWdGNWJMVnVLZnR4aXhRTzV0X0h3Q2Z4eUJLel84UXFudUI3TmVLVE5PSFlRcS1vTThiaEtPWEl0ZENQVmVQTzBtOFk1a2ZXVWQwb3N5WDNkZ3NPVko1aTljQ095cmFoOEJydDFXN1llVjVqS0JDa1B6WlJlNkE?oc=5",
-          "ts": 1788445979000
-        },
-        {
-          "title": "Amen Thompson News: Agrees to 5-year extension",
-          "source": "RotoWire",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT04yRzdEOFVfeGJJeTA3YS1XWV9kdFc0NUxDeElVdVI1RENVT2psZWNkQlZ1Tl9rQ0dDdVF5VGRJQ1FSbE9mZDZIdm56ZHVIRXhLc1lTSFlGZnJVeDlXdkY2Tm84ejdQM0xWZ2xNUkNsd0RvN2tINjhFUHFnajg4THFGUi1JR0M4bFFNb1RxcGdkM0p5dEVkWmN6M25jc0E?oc=5",
-          "ts": 1788445738000
-        },
-        {
-          "title": "\"I started something\" - Patrick Beverley claims he helped spark the Minnesota Timberwolves' winning culture",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU5RVVdCQVB6S3dTcG5nOFdRV3RnQ242STlrclZJaFNpeVc1UG9xcmFLY1dKY1cwUVkwSUg4aXI1NjNXRjNWdlpLUmZmcEpKNFF2WTgxUklTcHdZSnFNU09QTUZQZlNNclpucTNaZi12QTRlM1Zxa1UxQVpPSjk3NDhOLUN4dmZtN0RnRGxnVU4xMUpS?oc=5",
-          "ts": 1788445196000
-        },
-        {
-          "title": "Shams: Rockets, Amen Thompson agree to extension",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnhnSXhrUzMtb0lyZ3RxcXN4RHE2U0ZQMVd3VDBHdkgxQUZPMXVjRWUyWTZ2WVppdG0tLU1FZTJ0am4yV3BUY0h3VGkyU3plYjR6MUdhOEFTejJ0VEsyYVhyWW9fNlpxVHJqNVV2TTZKdDBpbzQwNHc0eWhUU1lXZlNscUJfUnF2Z3RHRXhWdHBNb2RKekFIOERFVHVHMkwweU1IUU03SlJYNEJZR0NsaE1hLXI?oc=5",
-          "ts": 1788444126000
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83QUVVWGNvcUZFWEdoVjVCUVpXTVRtcWI1VHEwR25iZnBtWk8zYUNnRzFhWUZqSm5zVUw5U0tRaWE4blNMU29sSkVmYnhuRFA2cEFqUFJKZjIyWUwxOWJGR1ZDaENXLUNuQVZjT0FRSjY?oc=5",
+          "ts": 1788463238000
         }
       ]
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": []
+      "items": [
+        {
+          "title": "Could the Vikings improve their run game in the 2027 NFL Draft?",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVlI5T0d5OTh1SExJWGh1aThTRGdkOVRPTkZtN1B3M3ItVzJ0Sll1MVdoQWJLel9XYzRnWFllTnU0c3FMS25mTC0tbHNFMi1VbjhqQlVzLUszR0FRdkJOZUozTWJUNFhCRTFzT3plRldMLWcxWENoOGxaWTdlQzB5RHI1RkJhZw?oc=5",
+          "ts": 1788465659000
+        },
+        {
+          "title": "New Patriots LB Erick Hunter believes he has a ‘superpower’",
+          "source": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2VMVVJaVkMxbThQc002cDlZRkJqb2NETWI2enJjMXRqOFBmRVVTcEVpUDJ0QkhRd2RmM28xakl3RjhPd2gtN2FXUTlzZk1oMEVKVkVFQXd6ZFdMVmk3WmVXV0RtT1Z4MzQ4cmtCSGJrV000Y001RTZtRDBYMkRPYlpKOUVtaGIxdF9zbm1oYldwM21MS0x6Sjg4TW9mbGc?oc=5",
+          "ts": 1788465419000
+        },
+        {
+          "title": "Lane Kiffin vs. SEC Joins a Short List of College Football's Wildest Conference Lawsuits",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTNFSzJQNVBuQm93RzRlY0JTNmVEdWN3Rm02SERoTnJJWHpSSHIybmJlSzJqRGpjZnoyZnFTalhvVG0zRzJnTzM4c0pRMGFoSjVnUEZzREFqVUo3NXFzZFFIblIzOFBPR3FjRklJVm1FY0VhYUZoWXJobjlwYlJKZ3QteVVJWThZVVgxYVhLNnltQ1cwem5xWlU2bGRUMWo1dlpMd0M5RQ?oc=5",
+          "ts": 1788464710000
+        },
+        {
+          "title": "Khosla Ownership Group Finalizes Seahawks Purchase",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEREbHE0N21iRzJwLTFIUWlrQjd1NFBpbGhzOEZXelN6ODQ1YUZlY0FndldaVXA1VXltRWRYOGNCY1B5aHFrcmJzRjhWUjhMU3NaQ3U5eXBiM25LX2p6cmJJRDdCMEJXNXhqNHdMc091UWpzdzNXSXVJYk9xc0x3RWR1bmtpSWU0T3NSQXZOSmRxeWtXSGdz?oc=5",
+          "ts": 1788464536000
+        },
+        {
+          "title": "Report: Dianna Russini \"absolutely\" plans to return to sports media",
+          "source": "NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjFmc09xOUdSZ0U0dDE4SG9BVG5qVnFYRGt0dmRpVExEZ21uQ3N2TEE2c0lYZWZZN25GZXNOcU9HbFBsWnJmQlozRjlBOE45VFJQUlRVc0dNaFNaWnJKMS1pdkhpSVdTRWpwcmtBYjZONGJsV1Y4Q2x2Yk1SaHJ5TWtWbmtHd1ZNNVNlbU03WWRTb3RXQVA0MkpPcjRLU1g4Y25XOVFCMFlIWDhRU0NwcEp4MTdKUGo1TzFmUkpvUFlRRVdy?oc=5",
+          "ts": 1788464519000
+        },
+        {
+          "title": "Former Packers OL Brant Banks signs with Jets' practice squad",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGkwa2QwT1BLX1BfWEQwWWZsLXNtUzlVRE1Qd09ibnVCbDdZaDFBaEhsM05UMXZvMHVfbXR5Rllyd2ZWNE5kX2JNd0Q5M3U3em5QYU43QXQ2YW5YbWVNaThLX0R2S3dEQzhuNksyUlhHWkplY2pEb2p6N3B2ckJwMlBFcHk?oc=5",
+          "ts": 1788464427000
+        }
+      ]
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": []
+      "items": [
+        {
+          "title": "Tennis Prize Money Tracker: Which Player Has Earned the Most in 2026?",
+          "source": "Sportico.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3lDUndqM0kyMkhKZEprbDEwaDJMMjY0WmRYUGphSjJEYWlOWVhMYVJjYmVrbXVOSUs3NjZNZXJzTFhGUlBjQWlKN3lTQWNzMUNEdHJKU2FNZ0xBRVkwV2JMdlN6Ri1UZHNqS1dnMC1JUHJPcVVIc2JHSDJpMzdZQW1pTVdUN1V0U3c?oc=5",
+          "ts": 1787900400000
+        },
+        {
+          "title": "Tennis 2026 events calendar - next grand slam & big tournaments",
+          "source": "Sports Tourism News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOekZJcUdfVXoxQTVCNUxudzlXUUt3TVJzdDdEYmdjakpHVDhCZGNWcG9Ub2VjcWc1Uy0yeDZ1T3dnVzFYOWZvTEpleWpmR3pCTnhtc0h5UHF4eDgyWEVhVmRKdW05bElocFVudEVHckl3UTVmaUtIRXBmYjhGTnBnWmpKSQ?oc=5",
+          "ts": 1787382000000
+        },
+        {
+          "title": "Here are the ATP, WTA semifinal matchups at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV3BoT055R2dHaG9LamRfM253Zks3Z0tFVXlnRDVZVEdsOEFSa1NsTkpmczdDRmZWM1R4N2poekRpbnhtbWtmc0FIcWpsY0FNb0JJcEs0dTRBV1B0N24wNDBoZ05xR0ZrMzNPTHhvcS03alcwR3l0UVZBR21pUzR0R1BIUnQ3QktFOUVxNXBGV3ZYOHZQbE53NExZVkdFV1JkaUtaRWRSWlVHdEpFZDVTbWlqQ29QSEV4Y2c?oc=5",
+          "ts": 1787295600000
+        },
+        {
+          "title": "Replay | ATP, WTA quarterfinal results at the Cincinnati Open",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0Q0X0ZVZ013UUpKNTZtSzBKbmhqQmhWRVJTdUNIcUNmZGtCekVIUEVaTldnQU1naUU5Z1ozWG1ucUliMlc0ZncxM3BfUGJyekVtRzFoeXNseS1kYUVsTW5ZRnhFYzlzeVEzMW5FS0hidFRIR3VTYW1UU2I3NEprYy1PVWdKYVdBb0lwWWRBWjVqMk53R1MxLVRnWDMzVnVHejBjc1k0THFPWlotcmpIOThSVQ?oc=5",
+          "ts": 1787209200000
+        },
+        {
+          "title": "Locals advance in doubles, Williams sisters out of Cincinnati Open | Replay",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0pPTjF3YjRGX2w4RktwNVJ4QUVLVGR1NHAyTnZkTkNKbkFQQ1pmbFRHcHhHalVpS1NIYmZVb3Q0SzJNbENPQy1UaFUwMEFpekFNb1hCS09KWjViVTdwRVU4MFFyRlIxeVBONFpFQ3h2TnRxRVFwdWtLVHpOZ19BSk9DUWp3THFTV1dFOEdCWmpiWnpRa2VFcVk4SFRkSVNGaC1pOS1nN1NFZ01USG9oc0ZIUkJLdw?oc=5",
+          "ts": 1786950000000
+        },
+        {
+          "title": "Replay | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWNnSDlkVi1hNnFFWlJZTXJZc3BrOW5xUDdtME1DZFNRSWk5VkJxUURhUWJncHJfSzdURWViNFNocHBUdmNuVWYwRTJPcWJZaGFGR2Y0R3h0V2ZzTjd3bHp1emx1ckt5N0NQUmVzLWlTOGhtMVdFRE5ZUkJvY0tJQVdHY1FBcVd2TGp4NXdVemplclk2blRzUDBBZm5xVXI1TEhlWGV6bldtTHo5dFJ0VGFGMXI?oc=5",
+          "ts": 1786777200000
+        }
+      ]
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": []
+      "items": [
+        {
+          "title": "FIFA blasts UEFA ‘smear campaign,’ fights World Cup plan disclosures",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWExFanJQX29sbVdUMUZ6UmNZLTJMY0RqZTJoQU9Mc3hkVy1DNzRuWmIzMXdXTktWN1I1WUxfNTN6MWI1TXVlZm1TYXZmRW90cFRhR0hGLWozdElDczhJX2thcHl1a214a2JodEhkMkYzWWc3Sm9oRmd1WXVhVHJ1cVdtbHRlQWI0WTFOVnF6UkZqX0pvY0RHNnJPakE2M1RYRFVvTk9OM19UX0nSAbABQVVfeXFMUEQzTVJyYlhTa05oaGZKX0pKSG1hb0RlMTltTG94TkYzVWxGbVVsQUxadzBidEk5ZGJ0Wk1KOUNzQzRUSGh2MVdlM1dhR24wdlExWWhBeTZmSXZ4ejRYcDNRZ2RqS0paVHk1dVQ1SzlMQ3F6TGxpWkRNTnA5MnlzZWhQb0ZtanFkT3UxMXpNSnJCak5oY0hMRHhldURYRmh4M3dSTzFGX0NGWU9jU2RnYWc?oc=5",
+          "ts": 1788464724000
+        },
+        {
+          "title": "San Diego FC signs Congolese goal-scorer, agrees to extension with Manu Duah",
+          "source": "San Diego Union-Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2diY3g0d2FoUVdnNmpLWXVXSzZHRWhzcnhYcEFJY1hIUml5cTdNNjhIbVdZUWFJLVNKemhCNFJvUlVFbzhaNmhSV1F6QW9PY185TkFhQV8yY3NaX1NDeHNrOW1jdWlleXRnZ0RmTlZjOWZXaU5ZT3Q1b2J1Ym9tRDVydVJmaEtjdVkxVHA2TGNjR2J6ejNtTkF2OUhlZ1J3YldEbC0xdGI?oc=5",
+          "ts": 1788463482000
+        },
+        {
+          "title": "Thierry Henry says players ‘have more power than they think’ amid Fifa scandals",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObE9GM0tDNklQZmdPa3Q4Nmg1aXM1Q0VuVXlzUU0tdDFIM3ZjSWo2U3hfai1XYmJ0U3BxN3JXYm5GNnU0WnpUUV9rTWZralNYZDBiRjNISzF5U1BLaS1tb3Z5WnpuZ1BpWGxjSUEyS1Qyd0ZZMUdNVC0wTHpwOVNEekc1aHN2eWxUTWRV?oc=5",
+          "ts": 1788462600000
+        },
+        {
+          "title": "2026 World Cup winner announces shock retirement from international football with Spain",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWxCcXhQMUNSS0xvN0ROTjBiSTMtQVBWTTU2cVk2eU0wazlGZjBMR0pGZ0hZbWJTWjh3c2V4QWtJM09oVkxYVUppVUZZd0R3NUlzeDdrSloxWWU4SDBaVks4eElhWngxS080SWN4SG05MG00ZXZzY2paWVhva29QYS1HeVdsU1U?oc=5",
+          "ts": 1788461230000
+        },
+        {
+          "title": "FC Cincinnati bolster their roster at the transfer deadline, add World Cup experience with signing of Czech Republic international David Douděra",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeUVxSjBFNXlxX1hHQjlfdzV5TVdNR1YwTFNKZmZFdjJLekJGR1VOd0VpLW5WLWR1eU9EdjdJcklnNU5iTGZEdlBGUUtMdWdRZDc2elJOUU5WVkFKd0RvY2M5UFA2cVFWVUhDSDRQY2lqbzVqUl9Oa1VFSk1sMGhPWXU3dVVFSGE2ZnQ2OGFlZkRMN3lOSGFaWnppQzEzWnJMU3ZIRlhuV2FkdEFQdHJva29yak1VVUs4aG14WFNDMXJWdS1kR2pGY3hqRGhKYmNMSlNsajNjTy1vQjhTdWpUX09fNm1hTGJqNVVmZnlqYVdlSjAtVFpiQVVMb2JKeE8wa2VDMC1MTFg?oc=5",
+          "ts": 1788461110000
+        },
+        {
+          "title": "Cavan Sullivan believes he could’ve made a difference vs Belgium at the World Cup 🇺🇸",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Nai1iNkN3V09CQjRjcTh5UzVqX3R0QmhiNmRFNmdxN0lJY1dHQkNWYWtQTGZiWFdBTV9QTFhiQkI5SmNydENuLW12aEdyUWp6c2pEMGk3dUNWRXRtdXhOa28xUmFGN3FMX0s0dzBn?oc=5",
+          "ts": 1788460385000
+        }
+      ]
     },
     {
       "key": "macro",
       "label": "Macro",
       "items": [
         {
-          "title": "US Fed survey shows economic activity edged up, prices rose moderately in recent weeks",
-          "source": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUZLbEZ0aGpUa1VCNXVZR0NqRGtoRTF2NzJIRDl2THNqRlhMYUw3XzhXM0ktRVkxckNwUERNT1hiR1JGdFZIOUxISDBqMW1EUVpoNTQwc291WnFTUWhMUl8tWlRqbnN5ZzBXZEt4N3BaLVg0aXhsYS1VQWllNWZ4Ml9WaExyTU5pc1V6QU12Um5zd1ZRWlRjeDJfT2JuRm95NF9DVXA3NE1VRG5mY3pjNzFjMmJjTW96MmE3U1FxeUhYam9JcEJhX0ZoNEFwdw?oc=5",
-          "ts": 1788390600000
+          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
+          "ts": 1788463678000
+        },
+        {
+          "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0xMWWJMdUtQMXdlQVVXcF85dWpCX1BSTDNPNG5yVXhYUVowc2xCamNwc245WW91b0NRa1c5OXRoRkxhb08xWFRlanpBd3dJZGNMSjZ2WlJKVGt4T21reE4tckRqbkNLNTV6SGcwdmdjTEVBOVJNYXQ1R0JVS0p5V0JYYUk1YnMwcnZ1SFdyUFRyNjQ?oc=5",
+          "ts": 1788459558000
+        },
+        {
+          "title": "Fed's Waller channels his inner John Lennon with a plea to 'give disinflation a chance'",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVJjV3EyRTlHeFIwYWxSa0EtRkM1YzFQOExsR0cwaFRrVEo0MUlXWTMtdHhpam5seDNOQWJYQ0NYVGJkVDJNMkR4NHFsX2RJTkxPM1dDd1Z4T2s3R1ZZaFdoQV9CXzE1WUw3YXNZdnpFZFJBZnVGWnkxbVpUeVdoRk11eTdHWHBLVjIwREZldUNmYzQ4TFd0WWlKWXhNYm50MW5hYkpnUE5PaHdaUHhVUUlQWnN4UTE1U21jamtTVQ?oc=5",
+          "ts": 1788459070000
+        },
+        {
+          "title": "Will Federal Reserve hike rates later this month? Waller muddies the outlook",
+          "source": "The Mercury News",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FV19UQWstWFVSQUlCU0NQclRKM1NlcmJZX0RqbFRSeklNSWhuSkVTWW13M1NKUENFZkhKcDZQVUhTTWtYb2VPaVRhby1BQ3BWYkhQS3otZnpfVHRzQ1otOUtfUFluRmdiWGl0UVN6Z0NHc09nUlHSAXtBVV95cUxQdmNtSHhHU1REa3pLdGJRYzhfQ3M0Qy10OExUTVplVnQtLUlyblZFa2pMWUp3c0VQMTZrX3RpX2tfR1F1bERjdnFOcTFOc2ZydEpuU3BKZmh5R1JvWFB2NUJDSUhoY1VjNndnSF9sWU9COVBrZ2s3RUwtOEE?oc=5",
+          "ts": 1788441479000
+        },
+        {
+          "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
+          "ts": 1788438621000
         },
         {
           "title": "Economy grows ‘modestly,’ with consumers wary of rising prices: Fed",
           "source": "CFO Dive",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEJLY2dnTlVINWdhZTh0ZldBbHg4ZHhHakJDNTlNb1BXdUFrQV9idENNZ0hpakpLejNlVlVVekwwdC1nR01CdXIwWUJFcU1jeldMWUZfWnRyN3NLVEF0QXhpRDZmOXhhd1VFdFUzOHFrWUd5Y0tvYVhYY3ZJUkhKYzNLNE1TS3Q0b3JzU0s2dEFYSXZ3Q2Jia0pISmxMeklQcjI5Nw?oc=5",
           "ts": 1788381460000
-        },
-        {
-          "title": "Why bond yields are rising and why everyone should care",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFZ4T2tWendKU28yS0d2WkVEVFQwTUNCWnQ5RDJvckpMbDVsVlcyYk1aZW5JYzYxTVhDX25IRm9kMm5ydFo5OWdjZk1XS2Rpc05wR0dZdm5kYjdDcXJfa2pJVGJ4ODNrcjVRMzNoUXEyVVFqdzFQTWt4RzNNSGt1Q1l0TXdCTndfbDYxdnpObWxfeGJJaUkw0gGcAUFVX3lxTE05aXlnM2xsaF9hS0NjSmpYeVF1VEpIRFpiQnBlY2NZUEdjOFhyVlJ5RVpzLVlxeWJsTllPNjhwR19NOTNJQVEzbWU0bU15UDNMbFhLYVZ1MEljM0w3MUM0QnRUVXVHMmJ4U045QVpEUlVjTW5IQndPU2Ntc1d0NkVybFVSQzNTZTh4blRIODJXekpPUFJ5N2ZFdTEwTA?oc=5",
-          "ts": 1788370036000
-        },
-        {
-          "title": "Fed's Williams ties rising bond yields to strong economy, CNBC reports",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0JaT1c4TktGbi1odTkyakluZ2NkU0pnTGRzc1RXRzdIaVU2Y0NlSHJ6QzJxWDBGSjByOHJtenF2M2dGaFNxQUZ2RkVQQXNCNnFTb2d6bHhzNFhQZU1aNnRRMTFkc1VlYTE2Zk9xWkpOU0FJcGZhekFEQWNWeVhENTBlbDBET0xSTDJrenlPdW9uZE1nb3FEdTFXcER6V00wM2U4UGRfMG5mb0YtVkRnWHViWW0xdU9vTnc?oc=5",
-          "ts": 1788358345000
-        },
-        {
-          "title": "New York Fed's Williams says yield surge due to strong economic prospects",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWERya0EybmQxcmtwN2F6M19ZZEg5R0FMcXczVVA4TEVyNzFOMlE2SFB2MXdqZzluR2djeDdMUGU4ZWVrdVlKWU1iMXRkQjFpRHVZN3dqQWdDSDEtZ2lVNnFaZU1Va0pkVHZQWFlLSko4enp3Tzk1VmduQnZyQ3ZSTGF3SWNsZnI0N0tjM1g3Zkt5d0dqSlhfZjN4cWgycjNvR2pDZmZlSU83OWV1dlHSAbMBQVVfeXFMUEtnSUFGLTFxdE80YVRCMVloRnc3Mkoyc1NVVm42N3VYdlFaWGZoS0xFWTVlN3hqMnBpd0RQVHdpcTF1THFmUUZ6Z0NobWFQRUMzMDBWYkpBSVVnNDNGSTVTTnNFNFZuZ1lmTFZ3NWxmUUxaVEtCM1RhNHg3Ri1TRlkwUXNQUXBQQmN6S2c0S2ZBSXZKeFptTG9mSllZZmg0OWw0V2Rwd0FIVTJPakdoejNuTzQ?oc=5",
-          "ts": 1788356725000
-        },
-        {
-          "title": "Will the US Fed Hike Interest Rates in September?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRTNZMUd5VmhBMXRRT1lKeUVVNGc3NUZROFVNclJTM2RhR1p5MnBDdUFheXBnME56S3EyYkk0T0VOSnIzVjZXUTVGQ2VyWlFJQkdGd3VfNklOWHhDWWFveEJlSUs1Rk41aTJ3VW9qM0xINGtQLW1TR1dncmJtU0dUT2lIdXhrd1dOMVVrZFlaUQ?oc=5",
-          "ts": 1788337820000
         }
       ]
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": []
+      "items": [
+        {
+          "title": "Stock market today: Dow, S&P 500 post best day in a month, Nasdaq jumps as rate-hike fears ease",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFQzczVJcTRIS1ZyX1FXU2Z1UGdJdy1rODZfUzlNaE5OMGYyTklaSndXZ1B0YlF1WFoteWpNdUNGY1NLdEFFTzNPS0w5bVNRNV9GOGg2MUR0MWV6Zk4wRjA2NWdDaFg0a2J1R2NqZjRIUWhGT3hVcHhHUWFJVzU2ZTNJcnhiNFdmLTE1ZGduelBSSjNXZ0lnY0NNeHlGbkVPbDVjVFZ4OExxMzhmTW1lT3NteGRxY1dZZ1Nn?oc=5",
+          "ts": 1788462723000
+        },
+        {
+          "title": "Saylor says Strategy’s Bitcoin-heavy reserve capital surpasses nearly all S&P 500 financial firms",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWJNRWRnMzRWSTd4Zkp2TnVMek8zYXdJcGNCWlVwLVhXNllhTC0td3J2UU4yamJRTGVmY0U3U0h3VEd6LWVsRUdVYkx6SnhFMFpQclRWMnROUjduc3h6MVRFa2VkdmpsS3BpNE5pZDVxSWktWVVBTW40QzVNcDRSWnQzQUROSGpxZlV1ZWxONHgxQnZZWUJPdVRncWgySU1t?oc=5",
+          "ts": 1788462119000
+        },
+        {
+          "title": "Wall Street rallies as Fed's Waller eases rate hike fears",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzRxMTJxTk80aFlHOHU2WkVVbjhCeDhJVGNiVXFqSUg0cGhIUjY3d2hBTWQtUGVvMTJXMUVjaVJwc1lnTW9OMUp1ZjhiUjFfVlVTbk44Z1c2WTdqOVYwUUMzbVhVbHk5Tnk4V3ZoVWtvdHdBMDJDV1V2dEVRanc1UGc1ZlExN3VFTUpTTzBDcUVRZWN6Qlh0STQzb0ZqUmVlbWk4YWwzOA?oc=5",
+          "ts": 1788459965000
+        },
+        {
+          "title": "Why Robinhood and Coinbase Are the Top S&P 500 Stocks Today",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXdSc3BVVXFRbFJFY3BUbjk1TWphcVVpOHR5cXN6blRxZlBtbW5lbkdCM04xY09ZTkxaVFZldFFRdmNCdVl3QWpTRXZXR085NFdaaVNxeEZoMF9WUHRuWld1STVOQnk2NGpUVWprLTB4QU53cGZ5ejV0NlhDWVlYUzJKMW9zNTllLUE?oc=5",
+          "ts": 1788458820000
+        },
+        {
+          "title": "Which S&P500 stocks are the most active on Thursday?",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTklOalZ1RjlwbjdDdzZaTlI3QWplc0U3UENVMWxBQnFiZkFGczFNOVhQcVVGVEtyb1RuNzROTEpONGJ6OUxadTFvY0daaE1jYVRQVXRpd2llSWpuYXlrdWNRNjhaT2dMUHE3RGRTVUxzaklLd3ZaSjVjV09qUElpWE9kUlZTWmJKVV9uTE9HSUwzS1V3emJTMGhla2RGTXJwUldhYw?oc=5",
+          "ts": 1788458701000
+        },
+        {
+          "title": "3 Reasons to Sell GATX and 1 Stock to Buy Instead",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRlA4dllnTzQzdlU1TEJRcnlUeTlJRlZxSDVKOF9KUmlzNzZ5cW15SnV5akVJbUQ1bDI1UmJ3dWVRZWtxWWZQNWxISUo1Y3BRTmRJNFYyQlI3ZTF5U3VhMHhOMFpXY2tIWm04VF9FT21aVVZxWVE4b0dvTkN2amxUeGxYalFub25hV3hLRXh2WQ?oc=5",
+          "ts": 1788456918000
+        }
+      ]
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": []
+      "items": [
+        {
+          "title": "Helix BioPharma Corp (TSX:HBP) Stock Slides as Biotech Funding Risks and Clinical Development Uncertainty Pressure Investor Sentiment",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRS1rY1FFMVJVNWZnMjVLaVdsNkhQQVRMSTBLa2VFek0xeGkzcGpFVk9fV2VNa2FOY3UyNk9aaDFQS2syZ0dEdUlIYzE5OEFab3FfUnd5OFZmSWVJVlFvQVBieHRMV1NpclBqaDNjbkYxdXNhNUlOUTIzeXJISU1qZmlPWnlkc1ZiVER5ZFczNnRlZzByOEVrYVJwckdLNDd6TG1raVFnVDFXSmxHS2tNRDdvQW1nbURnS1p4QTFwdUV0ZjBpYVBnTmVvdmp0bFRILUttNGVmcmJXUE50enFmZ3FGanhObHBsRFoxT0VuS2Z2WWpMR2tvbQ?oc=5",
+          "ts": 1788349680000
+        },
+        {
+          "title": "HiRO and Differentia Join Forces to Advance AI-Powered Clinical Trial Simulation and Digital Twins",
+          "source": "biopharmaapac.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUExSZkV1T0FhZnMtVHJ6OHlkWXJpZTZXU0dMZElZSllzazhZM01Kbk5Qa1QzQ1RJSGZtSTJ0c3BNQ0FNVy0wR3NaQTJ2aUdjNXU1S2hOa2FtbDFnMnB0YUc0bGhRTTJVdVNEakdFNzI3QzlQMnhSMEhidjNCRm41ejJ1Sm9qWUVmWUY0bXkydVhqYTlILWFUWUVqTEZLZWVLWXAzbEFlaC1qVFJlQ0Z2WFdjSnFFQ3Z1bVZoTzhKdjZPNk42T1htZUpWLW5JZzhER0FkSU02T19Mdw?oc=5",
+          "ts": 1788311653000
+        },
+        {
+          "title": "Cardiol Therapeutics (TSX:CRDL) Falls 5.92% as Clinical Trial Uncertainty and Biotech Sector Volatility Pressure Investor Sentiment",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdFdGd3EtcFpHV2RLdmNwaWFIcXpFcnpjZndKV2dSLUxJNVRJbmJsaHNjekdhMjdRLXBmbUJFS2dlTzJEU0tVX2V4dkI2ZmEtSDczTG5mZlh6VzRpUUZxdTB1a3dJRGYwd05LYUcxZjI2TmRKWXowT3pqLVVyUDAtSUJzenZjNkN0X202Qnl3R3kyNXdMS2FoRUNZM0tJc0hjT3lFSGR5a2dTQ3JQYm1PR3JwX3pVajhIMlBXVm84anc1WEJNeldmeUp4ZnpwN1NVM1FiNXFZZEx0UGNuaE10dFhhbmdnRlMzWG1qMVZiTEl0bEk?oc=5",
+          "ts": 1788166500000
+        },
+        {
+          "title": "AI biotech Insitro’s Daphne Koller on how to speed up clinical trials",
+          "source": "STAT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWY0MDJtYTB6TElQZmRWeUNGV1MwZHhoTTdCek93eTViZnFXVFRuNmJyZlV5YkEySDlySkNDR1dURzgyLW1fNjNaaF83cjJpN3JDT0huREJLbU1vZU5ZdXpCYTVuWEF1cVZBTVNxUjRZQ1lycUR6bGdxQUZoM1BKWWJxMkVDQ0thb1NTRGhZdTZKNmRRb284cXo1UDJQdTc1R3VLck8yYVJBYWFBdlQxMA?oc=5",
+          "ts": 1787727600000
+        },
+        {
+          "title": "Heart failure drug from Tenax Therapeutics fails in pivotal study",
+          "source": "STAT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc0RMMW9ud3NWMW1NTDB2OGlXd0cxbDgySVBjNWhqdENWdXB3TDVBZDZaelNpcWY4bktiZE5EWXg1RGFIV2NaZUUwX3FrcFEzOERBRFRlSUtxUFlSUGtxdWpIY05WaXluTUswT3VHTkdCX25uY0pYZGV0cG5HTEFSM1htSHc1d3V4MFZiamU3RlpzQlBoT2Z4aE9nMFNjUQ?oc=5",
+          "ts": 1786345200000
+        },
+        {
+          "title": "S.D.-born biotech advances potential Type 1 diabetes therapy through global trial",
+          "source": "SiouxFalls.Business",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDdnMFhYVzhWQ0x1UE9VaDN2NlpieVc3eFB3YTl2R2trck5wci1RV1BrLVY2c2NXSW1tV0VRTHFlTmxEeHhPazBvRDBTamcxemRwbm9lOUZMSVUyNGhySVg0TTRxcVlscnNGUDdHMnZYb0tOcVgyZnpxREVpOEQwQWVZR2tXN0hOQnY3SGdQZ0xpdUNsZHd4WDEwb2VidmM4V0FOVFliOVU5dHAxNWc?oc=5",
+          "ts": 1785999600000
+        }
+      ]
     },
     {
       "key": "biotechmkts",
@@ -116,8 +301,8 @@
       "items": [
         {
           "title": "Finding the next Moderna: 5 biotech stocks with imminent FDA and trial catalysts",
-          "source": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3o4RXpENjZLMDFSWDcyRDRVQnZCcXMxNXFjcHBYVFVPOTlpN1lnajlMbF9ZSVpOV2JTcXRJS1dpdVVwdzVhQ1RjLUdINjdJZkNweVZ2bmNoMkZyckdYWHNUbVdPTktPdXpFTDc2VWpxZkNZLTlEa1ptUWFlTUlvQlUzZWhXbjBCTmhKOWRaTmhabVRyN3Fvd0RqMDZDZDl4a0k2M2llc3RPSlhPd0NveXFtNmExQjBPNU5CNS1IWkVGUVc5elE1MFJDWmU1ZDd2VWVHVDcxWQ?oc=5",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRVlQVkFKMk5lMGdkQU1kYjI5Z0k0VnFSYTJsNkNRR2Vfb2FlZ3ZBbm1sWlY4dy1jbUg2SnlWMlNfNDB5SFJKOVJzUXBpT3oyNGg2ZVlsYVN3a0FHRExkaWNpVGctYmE0WlV5UWFFNUJBMk5jYkViQllnNlhrU2pBUUZIR0pZYVlNOGM5a3RwQTQ4alVZTFB1RnZiX21xVlVwS1hteVktS3VnQ2hCeTNSZVA2MUZMWFFFM1ktM2txMTYxVFdTUmZiYWdneXF0RmMtcDh1YTVEalc?oc=5",
           "ts": 1787209200000
         },
         {
@@ -133,12 +318,6 @@
           "ts": 1786690800000
         },
         {
-          "title": "4 Biotech Stocks With Major Second-Half Pipeline Catalysts This Year",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHo1aUYtRjBfTkdpNU83Tm1oSmVFTW9DWGdGTDFvUXBNMTA2TWltTGZ4ejAtQ240aEFHeWdmSmFzMlI4bFg3UUx2ZlU0RjN3Qks2SWdLaFZITUZ4MFl6bkQ1Nk45M2VpUF9xNF9ILVVpSFFwZDNSbDNNRGNqQVc0QXgzN2FvMDAwYjc3MWI1c1RRWTBG?oc=5",
-          "ts": 1786431600000
-        },
-        {
           "title": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment",
           "source": "Barron's",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2ZnUkhSRDk0OHRSc0g5WlhaMGFLYTNYWEh3Z0xSTnRrZEFlQjNSTFNxb3FTR0RoYXJFU2dVVG13MFo2c1MzeFhfU01LSnZ0UXgwYXd1YTltMzBuU0xaS2gzU0pPQkhGalBGck16QmlCWjRCVWNNV2twT080TWo5V2o3eU1pdw?oc=5",
@@ -149,6 +328,12 @@
           "source": "Blockonomi",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZlVWWnFaa3B0OXVRWUxuRWtCbWNyMzFLNEFYenlsYjExU0pvX3FxdzNwR1RsYUZRd3l5WWRwbnNoVjBYWXJPdXpNWEdEalcycXZpNE5nTTg4NTl3eHZlb1FwM0NOVV92eGx4T0V1dVNVUXhiS2dtOV9OVXE2M1VfcG9mVHBZZmNpQUZjTzhXWERtZHJqXzBmN194MUk?oc=5",
           "ts": 1785160917000
+        },
+        {
+          "title": "OTLK Stock Surges 24% Following FDA Approval for AMD Treatment",
+          "source": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOW0xSVZySTRobWNOSXJ0YktySmJIeHpJUjlDYmlJaHpiZm8tQll6aFdlLXdnZTZQYWIwalg4a0xpN2pjblZNeUxmU2tVWEpjN3dISmpBZ29oMVR0VnlLbm1xVk95OF9veERvZW9pbzN5OGhnd09VVFZaRmJ1aktjZVpQY0lwbzM2b1E5VXJHT2RNZFlnQndzVVlSMXlSXzNnZmc?oc=5",
+          "ts": 1784876400000
         }
       ]
     }
