@@ -1,68 +1,18 @@
 {
-  "updated": "2026-09-04T01:41:27.796Z",
+  "updated": "2026-09-04T10:04:14.667Z",
   "withNews": [
     {
-      "question": "US Open WTA: Maria Sakkari vs Yulia Starodubtseva",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-sakkari-starodu-2026-09-02",
-      "yes": 0,
-      "change24h": -60,
-      "vol24h": 474943,
-      "headlines": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "How to watch US Open Tennis ATP & WTA including mixed doubles live on TV in the UK, USA or Australia",
-          "source": "Tennisuptodate.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWdydEl5cXFkdUk0QVFEdVlwWndsRjh1TnZuRmg1ZENxSENvS01rTnlMelF3WkVYazZXX0F2c1JReXdpQTVtYkpLOEZSNHNHM3hlWHRWZ2tyOHpaMUk0Z1RoUTQxdU1iNDNVUFRGOGNJOGVsMzVGRWNkOHBONTk4LV9iNHBNOHJFTmh0MTlMX1ZIcVMyUXNaVUtUdWpUVGU0TS1ETHJ1TQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $80,000 on September 5?",
+      "question": "Will the price of Bitcoin be above $78,000 on September 6?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-september-5-2026",
-      "yes": 66,
-      "change24h": 56,
-      "vol24h": 12199,
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-6-2026",
+      "yes": 97,
+      "change24h": 55,
+      "vol24h": 8806,
       "headlines": [
         {
           "title": "Waller Signals September Hold, But Leaves Hike On Table - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
           "source": "Benzinga",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXNSejZJbHItcnRiejJGZWhQUlB0RDJnM0Z5cUV3Z2ZGMDl4ak1KVDQ5a1lacWp0WDl5RzJ0blpfbk9yQVBWRktoM3MxSFhhMzRGWTg0bmdKZFY1QjlhVUZEeXppQ1V5amJ0dmdrSW53WkV4M2MwUmpqTjhVRVkzR3B1TGhVTFd6dnpGS1h0M0R0NGtfZVlKTUxKdk90S1lyNFhnVUF6Nm1Sdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $78,000 on September 5?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-5-2026",
-      "yes": 92,
-      "change24h": 54,
-      "vol24h": 21144,
-      "headlines": [
-        {
-          "title": "Waller Signals September Hold, But Leaves Hike On Table - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXNSejZJbHItcnRiejJGZWhQUlB0RDJnM0Z5cUV3Z2ZGMDl4ak1KVDQ5a1lacWp0WDl5RzJ0blpfbk9yQVBWRktoM3MxSFhhMzRGWTg0bmdKZFY1QjlhVUZEeXppQ1V5amJ0dmdrSW53WkV4M2MwUmpqTjhVRVkzR3B1TGhVTFd6dnpGS1h0M0R0NGtfZVlKTUxKdk90S1lyNFhnVUF6Nm1Sdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -71,65 +21,53 @@
       "question": "Will Bitcoin dip to $76,000 August 31-September 6?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-august-31-september-6-2026",
-      "yes": 6,
-      "change24h": -47,
-      "vol24h": 31922,
+      "yes": 2,
+      "change24h": -40,
+      "vol24h": 27497,
       "headlines": [
         {
           "title": "Waller Signals September Hold, But Leaves Hike On Table - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
           "source": "Benzinga",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXNSejZJbHItcnRiejJGZWhQUlB0RDJnM0Z5cUV3Z2ZGMDl4ak1KVDQ5a1lacWp0WDl5RzJ0blpfbk9yQVBWRktoM3MxSFhhMzRGWTg0bmdKZFY1QjlhVUZEeXppQ1V5amJ0dmdrSW53WkV4M2MwUmpqTjhVRVkzR3B1TGhVTFd6dnpGS1h0M0R0NGtfZVlKTUxKdk90S1lyNFhnVUF6Nm1Sdw?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
+      "yes": 85,
+      "change24h": 36,
+      "vol24h": 154561,
+      "headlines": [
         {
-          "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZw?oc=5",
+          "title": "Waller Signals September Hold, But Leaves Hike On Table - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXNSejZJbHItcnRiejJGZWhQUlB0RDJnM0Z5cUV3Z2ZGMDl4ak1KVDQ5a1lacWp0WDl5RzJ0blpfbk9yQVBWRktoM3MxSFhhMzRGWTg0bmdKZFY1QjlhVUZEeXppQ1V5amJ0dmdrSW53WkV4M2MwUmpqTjhVRVkzR3B1TGhVTFd6dnpGS1h0M0R0NGtfZVlKTUxKdk90S1lyNFhnVUF6Nm1Sdw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "US Open ATP: Gael Monfils vs Learner Tien",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-monfils-tien-2026-09-03",
-      "yes": 0,
-      "change24h": -18,
-      "vol24h": 450998,
+      "question": "Fed Rate Hike by October 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
+      "yes": 55,
+      "change24h": -10,
+      "vol24h": 25304,
       "headlines": [
         {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
+          "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkprM1h1WDVtVjB0dDlscGZNeUxuUkw3TWhYZFhDYkZyYl93UmJSM3NYcXdRN2tfQzRuS2V4WTBBb2VtVmE2VTlGcnU2Nk9KeUVfYjBIbkswX2pMUHNfSk5xT2FDVXBaaHllX2lUZEgyVjdzR1F3REJIN284SnF6WUtha0Vtb0NSVmNCSm1FTUFPYXJzYW9fcERTNHFYYXY4TGg4a1FhM0VmdFJoWnhlTdIBtgFBVV95cUxPY1VTZzBtaXdkUll5UEFzY0daeWtWUGM0U05nTk96SHNveVdEd3RtdG9fMjNuSjB4bHdSSmtTdmlJYUlVZmotQWs1Qk9sMFdwcDNhelJ5NElBM2tRaDFxU2d5LW9sVzQzMGhyd0t4a3ZrNS1kVElnaGNfR0xLYl9yU3FwOU1EenpWeUhZTHh6bDRYMVR2RjZIMnUxODBBNWJEcE5aQ0NsSklQU0xZdE9aZ1F6MXpWZw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "How to watch US Open Tennis ATP & WTA including mixed doubles live on TV in the UK, USA or Australia",
-          "source": "Tennisuptodate.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWdydEl5cXFkdUk0QVFEdVlwWndsRjh1TnZuRmg1ZENxSENvS01rTnlMelF3WkVYazZXX0F2c1JReXdpQTVtYkpLOEZSNHNHM3hlWHRWZ2tyOHpaMUk0Z1RoUTQxdU1iNDNVUFRGOGNJOGVsMzVGRWNkOHBONTk4LV9iNHBNOHJFTmh0MTlMX1ZIcVMyUXNaVUtUdWpUVGU0TS1ETHJ1TQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Yunchaokete Bu vs Michael Zheng",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-bu-zheng-2026-09-03",
-      "yes": 23,
-      "change24h": -13,
-      "vol24h": 249083,
-      "headlines": [
-        {
-          "title": "Live tennis on TV and streaming today | Full ATP and WTA schedules",
-          "source": "Radio Times",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95UHRNcGhXbFZSb3RUUHlVTFhlaG1IbEZKX09OVWVFWmFTZzNQSV9aSmdSZ2s1dXduZ2hzZXpZVXBkdmhkZGtkc096MGFXQ3NCeEZ4ek9lWW90bXVqb0E2ZjZRVEM2SFBNakVOYkxZeTlOdw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "How to watch US Open Tennis ATP & WTA including mixed doubles live on TV in the UK, USA or Australia",
-          "source": "Tennisuptodate.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWdydEl5cXFkdUk0QVFEdVlwWndsRjh1TnZuRmg1ZENxSENvS01rTnlMelF3WkVYazZXX0F2c1JReXdpQTVtYkpLOEZSNHNHM3hlWHRWZ2tyOHpaMUk0Z1RoUTQxdU1iNDNVUFRGOGNJOGVsMzVGRWNkOHBONTk4LV9iNHBNOHJFTmh0MTlMX1ZIcVMyUXNaVUtUdWpUVGU0TS1ETHJ1TQ?oc=5",
-          "cat": "Tennis"
+          "title": "Fed Observes Job Trends Ahead of Meeting, Waller Sees ‘Signs of Disinflation’",
+          "source": "RISMedia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG93U1VJOHVhTU1XaXFWTEo3MTJYMDZ6OVVzWnp6RTBLNGE2dE43TjNSRzVzQ25UMHNhd3UyYnU4eW5oeVZydmpaNzBtSmdheGJNU2R2amhUTXlKbTBMaVBLRlhiaGpOSHM2QWVGUzI4STR6ZlV1dHRNY0g2UHk3Y2ZLZmQ3SDhxVlVRWlM3UjZqOXhUcEdiWmFKcGZuUWo3c2hFNzluYkd2c19relNRMg?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -137,42 +75,20 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 57,
-      "change24h": 12,
-      "vol24h": 1746292,
+      "yes": 60,
+      "change24h": 9,
+      "vol24h": 1837039,
       "headlines": [
         {
           "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
-          "source": "pbs.org",
+          "source": "PBS",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkprM1h1WDVtVjB0dDlscGZNeUxuUkw3TWhYZFhDYkZyYl93UmJSM3NYcXdRN2tfQzRuS2V4WTBBb2VtVmE2VTlGcnU2Nk9KeUVfYjBIbkswX2pMUHNfSk5xT2FDVXBaaHllX2lUZEgyVjdzR1F3REJIN284SnF6WUtha0Vtb0NSVmNCSm1FTUFPYXJzYW9fcERTNHFYYXY4TGg4a1FhM0VmdFJoWnhlTdIBtgFBVV95cUxPY1VTZzBtaXdkUll5UEFzY0daeWtWUGM0U05nTk96SHNveVdEd3RtdG9fMjNuSjB4bHdSSmtTdmlJYUlVZmotQWs1Qk9sMFdwcDNhelJ5NElBM2tRaDFxU2d5LW9sVzQzMGhyd0t4a3ZrNS1kVElnaGNfR0xLYl9yU3FwOU1EenpWeUhZTHh6bDRYMVR2RjZIMnUxODBBNWJEcE5aQ0NsSklQU0xZdE9aZ1F6MXpWZw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 43,
-      "change24h": -12,
-      "vol24h": 25751,
-      "headlines": [
-        {
-          "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
-          "source": "pbs.org",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkprM1h1WDVtVjB0dDlscGZNeUxuUkw3TWhYZFhDYkZyYl93UmJSM3NYcXdRN2tfQzRuS2V4WTBBb2VtVmE2VTlGcnU2Nk9KeUVfYjBIbkswX2pMUHNfSk5xT2FDVXBaaHllX2lUZEgyVjdzR1F3REJIN284SnF6WUtha0Vtb0NSVmNCSm1FTUFPYXJzYW9fcERTNHFYYXY4TGg4a1FhM0VmdFJoWnhlTdIBtgFBVV95cUxPY1VTZzBtaXdkUll5UEFzY0daeWtWUGM0U05nTk96SHNveVdEd3RtdG9fMjNuSjB4bHdSSmtTdmlJYUlVZmotQWs1Qk9sMFdwcDNhelJ5NElBM2tRaDFxU2d5LW9sVzQzMGhyd0t4a3ZrNS1kVElnaGNfR0xLYl9yU3FwOU1EenpWeUhZTHh6bDRYMVR2RjZIMnUxODBBNWJEcE5aQ0NsSklQU0xZdE9aZ1F6MXpWZw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
+          "title": "Fed Observes Job Trends Ahead of Meeting, Waller Sees ‘Signs of Disinflation’",
+          "source": "RISMedia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG93U1VJOHVhTU1XaXFWTEo3MTJYMDZ6OVVzWnp6RTBLNGE2dE43TjNSRzVzQ25UMHNhd3UyYnU4eW5oeVZydmpaNzBtSmdheGJNU2R2amhUTXlKbTBMaVBLRlhiaGpOSHM2QWVGUzI4STR6ZlV1dHRNY0g2UHk3Y2ZLZmQ3SDhxVlVRWlM3UjZqOXhUcEdiWmFKcGZuUWo3c2hFNzluYkd2c19relNRMg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -181,81 +97,135 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 43,
-      "change24h": -11,
-      "vol24h": 1155609,
+      "yes": 41,
+      "change24h": -8,
+      "vol24h": 1020054,
       "headlines": [
         {
           "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
-          "source": "pbs.org",
+          "source": "PBS",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkprM1h1WDVtVjB0dDlscGZNeUxuUkw3TWhYZFhDYkZyYl93UmJSM3NYcXdRN2tfQzRuS2V4WTBBb2VtVmE2VTlGcnU2Nk9KeUVfYjBIbkswX2pMUHNfSk5xT2FDVXBaaHllX2lUZEgyVjdzR1F3REJIN284SnF6WUtha0Vtb0NSVmNCSm1FTUFPYXJzYW9fcERTNHFYYXY4TGg4a1FhM0VmdFJoWnhlTdIBtgFBVV95cUxPY1VTZzBtaXdkUll5UEFzY0daeWtWUGM0U05nTk96SHNveVdEd3RtdG9fMjNuSjB4bHdSSmtTdmlJYUlVZmotQWs1Qk9sMFdwcDNhelJ5NElBM2tRaDFxU2d5LW9sVzQzMGhyd0t4a3ZrNS1kVElnaGNfR0xLYl9yU3FwOU1EenpWeUhZTHh6bDRYMVR2RjZIMnUxODBBNWJEcE5aQ0NsSklQU0xZdE9aZ1F6MXpWZw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed report finds rising gas prices have lasting effect on inflation expectations",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnVYc0hpNkNVazhEM0tVenZWRHhsZFNiWk5ucXNiLVdFMVhobU9BNE9XbzlzOTBDMV96Y25samd2VHUtMWUyRVZHNHF2RGN4Vmhpd2ZzNlU4bThINDZjb1VUUE9mcGxXSWllaWNXTS1GbmxYdWN1Q2phSXFDdHRDbUNVUlFSem5qMTlsUVgwenpKdEw2WTNNUmpIMVZWYXJldVRIYUJmYWY1Z25leUd1Um5pZVJqUjBvaXA0d0tyaDRhdTQ?oc=5",
+          "title": "Fed Observes Job Trends Ahead of Meeting, Waller Sees ‘Signs of Disinflation’",
+          "source": "RISMedia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSG93U1VJOHVhTU1XaXFWTEo3MTJYMDZ6OVVzWnp6RTBLNGE2dE43TjNSRzVzQ25UMHNhd3UyYnU4eW5oeVZydmpaNzBtSmdheGJNU2R2amhUTXlKbTBMaVBLRlhiaGpOSHM2QWVGUzI4STR6ZlV1dHRNY0g2UHk3Y2ZLZmQ3SDhxVlVRWlM3UjZqOXhUcEdiWmFKcGZuUWo3c2hFNzluYkd2c19relNRMg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 15887,
+      "question": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-michels-aguilar-2026-09-04",
+      "yes": 65,
+      "change24h": 4,
+      "vol24h": 65632,
       "headlines": [
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
           "source": "Cincinnati Enquirer",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
           "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Alexander Bublik vs Tommy Paul",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-bublik-paul-2026-09-04",
+      "yes": 40,
+      "change24h": 3,
+      "vol24h": 110149,
+      "headlines": [
+        {
+          "title": "Chris Paul Sends a Subtle Message After Steve Ballmer & Clippers Suffer NBA Punishment",
+          "source": "basketballnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaWFyYzZ1Q2o5bTYzSGx1elNUSVBZWlpFbGdFanZ1b1VZOC1wTGNiVGtmYzZ5S0IxbnRZZW51Yzl1anVRSWRPWnMyOUt4YTFMa3hLWjRpVF9ydEg4M201RkpZWnhzS1BIN2hSZGpQVXhTM3dIeEExMkQ0NUs4R043NEFDZEV1Sl9CVjNiWTh1ZDFjSDhNNEV4TFpKR213LUJUNEZpOTY5ZEZvZnBfOWNyYnd3dnBtZThNZk5yeGk2b283cTJEa2dNRWJsX1JKdjF1UjlpQklNVFdhVzU5WDJqUU5HTllrRXFZcjNvdTctYnBnd3BOZFlz?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Here are the ATP, WTA semifinal matchups at the 2026 Cincinnati Open",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTUloOHdQOTRVN0ttQ1BEYXFta2kycG5MeXJwTlJKMmMzSVVlRHVvVnRNY2ExMThySFpKRkxYTDBpMzBJWk0xdU83TVdIVWlZdW12RzhaQ3RMNlNXSXpOcWpYcWxabkhPMTBCSTlRSjJ6aG54UmpKLXc0enJDMldyaGlWWUpaY2c?oc=5",
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 15574,
+      "question": "US Open ATP: Yibing Wu vs Carlos Alcaraz",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-wu-alcaraz-2026-09-04",
+      "yes": 7,
+      "change24h": -2,
+      "vol24h": 509845,
       "headlines": [
         {
-          "title": "Why now is the right time for Atlanta to get into the NWSL business",
-          "source": "The IX Sports",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNFVjWVdzRURMb2ZSU21CY1lHdG11TDdRZVRiNWFoS3NlRlk3SmhwbmVnRE5YdV9OOWtzUUZMYUlVMW1WVDV0enZyZ0lTZmZzbGtkemE5MEx3NWxsVklQQjRzMjFXYW9xSXVZaUNBcWFDbW5lMGxnVXA3bkpVNHhBMjczT2NnX252QjM0R2VhQVl4Wk9UdUhCMjFOQ1ZCUUlYZkVpTk96RTJiWjd1dmNPZ3d2S3M4WXBROTBCUGlhc0U?oc=5",
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 23478,
+      "headlines": [
+        {
+          "title": "How coaching changes are playing out for Steelers, Ravens and Browns",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1A2c2xUSmo5T2tJTGtKaGd2TGxmd2h5MWN4Rnl0UF81VkR0aU5aR2pRdWNIQmFjYk9uZXlZVzBMV0dXLXY2R0hBa2NpSE4zQWdyU2NTS1JGYXA0dGQ1MHBSckFPOUlDUHhTWkM1SFpmTXFZajBuLXdTTmFUeEZWckRSdk5ZSGduaENfeloxc3FCMGl1RExjeTU2NHF6eTZyRUFCbw?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 19332,
+      "headlines": [
+        {
+          "title": "A midfield marvel at Manchester City is quickly making an impression",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkpGTG9qMlhib1V2TTN6NndWczUxQWw5d0dxQUk0anhWUEEzUTZGR19sVFhUV2dncklOU29GTUt2YlBBTmFZamVhVmFvdXZOMDdoRXhNLWRFOXkwaF9fVXcwUElnRUhCdklBQ0dpYk9jOXFva25Hd2IxU3FiWlQ5c21mQ0pkRUdNcmd5aW11bXREUQ?oc=5",
           "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will Los Angeles Clippers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-clippers-win-the-2027-nba-finals",
-      "yes": 0,
+      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
+      "yes": 7,
       "change24h": 0,
-      "vol24h": 10866,
+      "vol24h": 11700,
       "headlines": [
         {
-          "title": "Kawhi Leonard & 2 Stars’ Fate Finally Decided as Clippers Investigation Comes to a Conclusion",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTzExUkhUN1lHdDFvSlk4aHhiWDk5UXpUbHhtV1VXb0VqWEFIblJJRTEyLUVYanRKb0pURTA2OWROblc3LW1aWlpiOVlFZ21rdTZpMlNlY2ZvOVRkaXI1ZVZHUFNwX05KTFduX2ZKR1JhS2lQazdIRzhTUDQyR1B0b1QyakxyMFFyMS1KcDU4YUJNcjRaU2VsR1d4WGVZbTRpejE5WHZLTDhZVFROcXR2azNlT2VTWnhJTWgyczNJcmRpTnBjcUpZWjhEWWg4SnlCMlNsTTV3NE9WRUJEMmNuRGtDaHQ1UTdfazFfMHQ5amFxOVFURkJHdW9BSldOM29lNXc?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Clippers Leveraged Daktronics’ Financial Crisis To Give Kawhi Leonard A ‘Grade A Kickback’ Deal",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX053NlZLdzkxMXNyR3F2SnJsX1FVbGtUbktfTldXVGRMVFNEY192eFZHVHVJVVBWbHI1dnM2RTdwb0R1RHNsOE81bElWeDk5THlWTlVkQWRGc2Nyd0xfbk5GeGZiM294R1RMTHAyQTJzcFFTaEVvZ1hSZHEyNE9Mc0Fvb2NXT28teGJRdlVDX3hMeWxCcThqNkhEaw?oc=5",
-          "cat": "NBA"
+          "title": "How coaching changes are playing out for Steelers, Ravens and Browns",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1A2c2xUSmo5T2tJTGtKaGd2TGxmd2h5MWN4Rnl0UF81VkR0aU5aR2pRdWNIQmFjYk9uZXlZVzBMV0dXLXY2R0hBa2NpSE4zQWdyU2NTS1JGYXA0dGQ1MHBSckFPOUlDUHhTWkM1SFpmTXFZajBuLXdTTmFUeEZWckRSdk5ZSGduaENfeloxc3FCMGl1RExjeTU2NHF6eTZyRUFCbw?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -266,8 +236,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
       "yes": 56,
-      "change24h": -22,
-      "vol24h": 185366,
+      "change24h": -20,
+      "vol24h": 125885,
       "headlines": []
     },
     {
@@ -275,17 +245,17 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
       "yes": 44,
-      "change24h": 16,
-      "vol24h": 76032,
+      "change24h": 14,
+      "vol24h": 76380,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 61,
-      "change24h": 16,
-      "vol24h": 30749,
+      "yes": 59,
+      "change24h": 14,
+      "vol24h": 33031,
       "headlines": []
     },
     {
@@ -293,44 +263,44 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
       "yes": 71,
-      "change24h": -15,
-      "vol24h": 35703,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 48,
-      "change24h": -14,
-      "vol24h": 19672,
+      "change24h": -13,
+      "vol24h": 25848,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 32,
-      "change24h": 11,
-      "vol24h": 131974,
+      "yes": 29,
+      "change24h": 10,
+      "vol24h": 102758,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 34,
-      "change24h": -8,
-      "vol24h": 173494,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 49,
+      "change24h": -10,
+      "vol24h": 15652,
       "headlines": []
     },
     {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 43,
-      "change24h": 7,
-      "vol24h": 164969,
+      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
+      "yes": 20,
+      "change24h": 8,
+      "vol24h": 13640,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $120,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
+      "yes": 13,
+      "change24h": 5,
+      "vol24h": 28604,
       "headlines": []
     }
   ]
