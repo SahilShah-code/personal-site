@@ -1,24 +1,46 @@
 {
-  "updated": "2026-09-04T15:17:50.285Z",
+  "updated": "2026-09-04T19:58:31.626Z",
   "withNews": [
+    {
+      "question": "US Open WTA: Taylor Townsend vs Diana Shnaider",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-townsen-shnaide-2026-09-04",
+      "yes": 100,
+      "change24h": 59,
+      "vol24h": 662666,
+      "headlines": [
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
+          "source": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin reach $84,000 August 31-September 6?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-31-september-6-2026",
-      "yes": 3,
-      "change24h": -23,
-      "vol24h": 42193,
+      "yes": 4,
+      "change24h": -39,
+      "vol24h": 44491,
       "headlines": [
         {
-          "title": "Hiring blew past expectations in August, jobs report shows",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW0yVzJpZHZWUFV0M0ZicHVGTUllMkhqQlI1WDJULUxZUFYtUUlJVVlWUFRjeTQwb05jTXNRdGw0MjA1bmpvOFdtWHFVcmFQM1V4eW1NODZFaXJZcElDb0RCa2R2YUxISTg4ZENRMEU5dHhqbFE1T2gtdVpRSDdOT3g1Yy1yRUlsY1pXVWtCNnFyZGw2NTJGa2tKcFpvdkpz0gGmAUFVX3lxTE92ZWtqQlhGWk5TQkVwUndPTkNlanQxM1ZYZVhyb1gxOHpzdXh0WW9JU1J3dDlxX1o3T3dvYUVveTI3NkVSSWtjcVlUcjQ4d3dIRS1nQjU4bjBRRHo3MVVfR1pBaDNQNENrZDQ5YjdjdHB2eUwyNC1RU0ZWQ1AwT0h5M2JzekFZRFdsUWF1V3lXRnYtbnZDZE10V0hGeG9DMjRSdHR3Nnc?oc=5",
+          "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2RmVDRpdHROaTRjaHNsNHZjZmFpN2NNenFENWZyUzgwQWRkanhUbXJ3UXRyZWJfQm54MUVuZWgweFJRWUNmZ2d5VFplQ3ZUNXhkVnA0WGNycmdFMlJQVk1HeUVKamhMYmZXUTNYSTFwTDZpU3dOcW5MQ2U0QmVPag?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-          "source": "theguardian.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2RmVDRpdHROaTRjaHNsNHZjZmFpN2NNenFENWZyUzgwQWRkanhUbXJ3UXRyZWJfQm54MUVuZWgweFJRWUNmZ2d5VFplQ3ZUNXhkVnA0WGNycmdFMlJQVk1HeUVKamhMYmZXUTNYSTFwTDZpU3dOcW5MQ2U0QmVPag?oc=5",
+          "title": "U.S. added 162,000 jobs in August, but wage growth continues to lag inflation",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczZIR0NhcENNN0xPcnM2SXB5RGJZMUNLVFZUTllUVHpocTZkUUh6QktlM1haSFZEdFpxb0loMjhoa3o4UjAtdXFSVlAxWnhhVUczdHJCdHhUMGp3Zl9IVFhNalU5OWk0dTRtQVhXZ0U3S0JvYXM2RXkyc2k5YWdOOGVCTlJGU20tSno3eG5tOA?oc=5",
           "cat": "Macro"
         }
       ]
@@ -27,20 +49,20 @@
       "question": "Will Ethereum reach $2,600 August 31-September 6?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-august-31-september-6-2026",
-      "yes": 5,
-      "change24h": -22,
-      "vol24h": 15925,
+      "yes": 2,
+      "change24h": -39,
+      "vol24h": 14308,
       "headlines": [
         {
-          "title": "Hiring blew past expectations in August, jobs report shows",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW0yVzJpZHZWUFV0M0ZicHVGTUllMkhqQlI1WDJULUxZUFYtUUlJVVlWUFRjeTQwb05jTXNRdGw0MjA1bmpvOFdtWHFVcmFQM1V4eW1NODZFaXJZcElDb0RCa2R2YUxISTg4ZENRMEU5dHhqbFE1T2gtdVpRSDdOT3g1Yy1yRUlsY1pXVWtCNnFyZGw2NTJGa2tKcFpvdkpz0gGmAUFVX3lxTE92ZWtqQlhGWk5TQkVwUndPTkNlanQxM1ZYZVhyb1gxOHpzdXh0WW9JU1J3dDlxX1o3T3dvYUVveTI3NkVSSWtjcVlUcjQ4d3dIRS1nQjU4bjBRRHo3MVVfR1pBaDNQNENrZDQ5YjdjdHB2eUwyNC1RU0ZWQ1AwT0h5M2JzekFZRFdsUWF1V3lXRnYtbnZDZE10V0hGeG9DMjRSdHR3Nnc?oc=5",
+          "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2RmVDRpdHROaTRjaHNsNHZjZmFpN2NNenFENWZyUzgwQWRkanhUbXJ3UXRyZWJfQm54MUVuZWgweFJRWUNmZ2d5VFplQ3ZUNXhkVnA0WGNycmdFMlJQVk1HeUVKamhMYmZXUTNYSTFwTDZpU3dOcW5MQ2U0QmVPag?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-          "source": "theguardian.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2RmVDRpdHROaTRjaHNsNHZjZmFpN2NNenFENWZyUzgwQWRkanhUbXJ3UXRyZWJfQm54MUVuZWgweFJRWUNmZ2d5VFplQ3ZUNXhkVnA0WGNycmdFMlJQVk1HeUVKamhMYmZXUTNYSTFwTDZpU3dOcW5MQ2U0QmVPag?oc=5",
+          "title": "U.S. added 162,000 jobs in August, but wage growth continues to lag inflation",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczZIR0NhcENNN0xPcnM2SXB5RGJZMUNLVFZUTllUVHpocTZkUUh6QktlM1haSFZEdFpxb0loMjhoa3o4UjAtdXFSVlAxWnhhVUczdHJCdHhUMGp3Zl9IVFhNalU5OWk0dTRtQVhXZ0U3S0JvYXM2RXkyc2k5YWdOOGVCTlJGU20tSno3eG5tOA?oc=5",
           "cat": "Macro"
         }
       ]
@@ -49,31 +71,53 @@
       "question": "US Open WTA (Doubles): Williams/Williams vs Chan/Joint",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-doubles-willwil-chanjoi-2026-09-03",
-      "yes": 28,
-      "change24h": -14,
-      "vol24h": 153532,
+      "yes": 31,
+      "change24h": -18,
+      "vol24h": 154995,
       "headlines": [
+        {
+          "title": "Williams reflects on emotional road to Super Bowl",
+          "source": "NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1RRTVZTNWV5ZndTQUZNU3FTNmp2eDAwZGdWbFNlbFdsQmRvRjhXQVMybjRvR0ZvbTNxT2QwRFRheWxtN1J5cmt4RE1GbzZESlRtY21vbm4zcTdtb1VDV1pEdDU2dUh6aU9mWnFsRWVPSzJhUG1fYWxaTTVfNzcyd3dfd0MxbXRlYzh1bGdzY0VyeU5yUk5YVUZ4cGhNZmpiNkdiZVhBUk5KdnB0dklROA?oc=5",
+          "cat": "NFL"
+        },
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
           "source": "Sky Sports",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
           "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "US Open WTA: Jasmine Paolini vs Sorana Cirstea",
+      "question": "Will Bitcoin reach $86,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-august-31-september-6-2026",
+      "yes": 1,
+      "change24h": -16,
+      "vol24h": 29263,
+      "headlines": [
+        {
+          "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2RmVDRpdHROaTRjaHNsNHZjZmFpN2NNenFENWZyUzgwQWRkanhUbXJ3UXRyZWJfQm54MUVuZWgweFJRWUNmZ2d5VFplQ3ZUNXhkVnA0WGNycmdFMlJQVk1HeUVKamhMYmZXUTNYSTFwTDZpU3dOcW5MQ2U0QmVPag?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "U.S. added 162,000 jobs in August, but wage growth continues to lag inflation",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczZIR0NhcENNN0xPcnM2SXB5RGJZMUNLVFZUTllUVHpocTZkUUh6QktlM1haSFZEdFpxb0loMjhoa3o4UjAtdXFSVlAxWnhhVUczdHJCdHhUMGp3Zl9IVFhNalU5OWk0dTRtQVhXZ0U3S0JvYXM2RXkyc2k5YWdOOGVCTlJGU20tSno3eG5tOA?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "US Open WTA: Emma Navarro vs Karolina Muchova",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-paolini-cirstea-2026-09-04",
-      "yes": 47,
-      "change24h": 10,
-      "vol24h": 66222,
+      "url": "https://polymarket.com/event/wta-navarro-muchova-2026-09-04",
+      "yes": 33,
+      "change24h": 11,
+      "vol24h": 127386,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -90,45 +134,23 @@
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 52,
-      "change24h": 10,
-      "vol24h": 54145,
-      "headlines": [
-        {
-          "title": "Surprisingly strong jobs report could set stage for Fed rate hike",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2l4UGk5eTBxUUdEblVsQmhITGpsZDdram84VTJlUE9DdE1CSWNxendPOXJIZ1pta3VQX2VCRkpWRG5QQUJPaFk5X1I4Z21LQlZOZnVmNHRNVkxBTEk5NzRUTEg3dmthdWRLTFNNRm5lTHlUd051a3pqdml4elI3eQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkprM1h1WDVtVjB0dDlscGZNeUxuUkw3TWhYZFhDYkZyYl93UmJSM3NYcXdRN2tfQzRuS2V4WTBBb2VtVmE2VTlGcnU2Nk9KeUVfYjBIbkswX2pMUHNfSk5xT2FDVXBaaHllX2lUZEgyVjdzR1F3REJIN284SnF6WUtha0Vtb0NSVmNCSm1FTUFPYXJzYW9fcERTNHFYYXY4TGg4a1FhM0VmdFJoWnhlTdIBtgFBVV95cUxPY1VTZzBtaXdkUll5UEFzY0daeWtWUGM0U05nTk96SHNveVdEd3RtdG9fMjNuSjB4bHdSSmtTdmlJYUlVZmotQWs1Qk9sMFdwcDNhelJ5NElBM2tRaDFxU2d5LW9sVzQzMGhyd0t4a3ZrNS1kVElnaGNfR0xLYl9yU3FwOU1EenpWeUhZTHh6bDRYMVR2RjZIMnUxODBBNWJEcE5aQ0NsSklQU0xZdE9aZ1F6MXpWZw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 52,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 72,
       "change24h": 9,
-      "vol24h": 711381,
+      "vol24h": 253070,
       "headlines": [
         {
-          "title": "Surprisingly strong jobs report could set stage for Fed rate hike",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2l4UGk5eTBxUUdEblVsQmhITGpsZDdram84VTJlUE9DdE1CSWNxendPOXJIZ1pta3VQX2VCRkpWRG5QQUJPaFk5X1I4Z21LQlZOZnVmNHRNVkxBTEk5NzRUTEg3dmthdWRLTFNNRm5lTHlUd051a3pqdml4elI3eQ?oc=5",
+          "title": "A Fed Rate Hike Depends on Hot Inflation. Don’t Count on Either.Economy Column",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEExS1I4MUJyZmllSVIzQlA0LUpIUGJlMTEtNWZPUGZ2UGJqMlI0RlE2cU81X01lUzc5MGwyX1ZjRENiZ0xxeWUzSXlPY0M0Y3ZPZi02UFpWaXI1UHFsVGFHa1FqYklyd011RmYtcnNNemVwZkRsRDBUaWxZRVB4QVUwWWlxWjVCZ3c?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkprM1h1WDVtVjB0dDlscGZNeUxuUkw3TWhYZFhDYkZyYl93UmJSM3NYcXdRN2tfQzRuS2V4WTBBb2VtVmE2VTlGcnU2Nk9KeUVfYjBIbkswX2pMUHNfSk5xT2FDVXBaaHllX2lUZEgyVjdzR1F3REJIN284SnF6WUtha0Vtb0NSVmNCSm1FTUFPYXJzYW9fcERTNHFYYXY4TGg4a1FhM0VmdFJoWnhlTdIBtgFBVV95cUxPY1VTZzBtaXdkUll5UEFzY0daeWtWUGM0U05nTk96SHNveVdEd3RtdG9fMjNuSjB4bHdSSmtTdmlJYUlVZmotQWs1Qk9sMFdwcDNhelJ5NElBM2tRaDFxU2d5LW9sVzQzMGhyd0t4a3ZrNS1kVElnaGNfR0xLYl9yU3FwOU1EenpWeUhZTHh6bDRYMVR2RjZIMnUxODBBNWJEcE5aQ0NsSklQU0xZdE9aZ1F6MXpWZw?oc=5",
+          "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEVicmpWNTBDUVpfTGN4dXhleDJyWklRWngwTlZycFgzTzFPSzBNakp6Z1FQakZBZzJhMklVbWZhVTUxcjNtcGxadzhRY1JSZ3ZGM2VIUG4yWlZTeDlHZUc1VEhJY05mRUxKMjdtWTJVSmlUUk1naHhna3FVU1NOb2ZhTjRDUDhza0lxUDZfQkszcE1G?oc=5",
           "cat": "Macro"
         }
       ]
@@ -139,78 +161,56 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 49,
       "change24h": -8,
-      "vol24h": 1478700,
+      "vol24h": 1399035,
       "headlines": [
         {
-          "title": "Surprisingly strong jobs report could set stage for Fed rate hike",
-          "source": "Politico",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2l4UGk5eTBxUUdEblVsQmhITGpsZDdram84VTJlUE9DdE1CSWNxendPOXJIZ1pta3VQX2VCRkpWRG5QQUJPaFk5X1I4Z21LQlZOZnVmNHRNVkxBTEk5NzRUTEg3dmthdWRLTFNNRm5lTHlUd051a3pqdml4elI3eQ?oc=5",
+          "title": "A Fed Rate Hike Depends on Hot Inflation. Don’t Count on Either.Economy Column",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEExS1I4MUJyZmllSVIzQlA0LUpIUGJlMTEtNWZPUGZ2UGJqMlI0RlE2cU81X01lUzc5MGwyX1ZjRENiZ0xxeWUzSXlPY0M0Y3ZPZi02UFpWaXI1UHFsVGFHa1FqYklyd011RmYtcnNNemVwZkRsRDBUaWxZRVB4QVUwWWlxWjVCZ3c?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYkprM1h1WDVtVjB0dDlscGZNeUxuUkw3TWhYZFhDYkZyYl93UmJSM3NYcXdRN2tfQzRuS2V4WTBBb2VtVmE2VTlGcnU2Nk9KeUVfYjBIbkswX2pMUHNfSk5xT2FDVXBaaHllX2lUZEgyVjdzR1F3REJIN284SnF6WUtha0Vtb0NSVmNCSm1FTUFPYXJzYW9fcERTNHFYYXY4TGg4a1FhM0VmdFJoWnhlTdIBtgFBVV95cUxPY1VTZzBtaXdkUll5UEFzY0daeWtWUGM0U05nTk96SHNveVdEd3RtdG9fMjNuSjB4bHdSSmtTdmlJYUlVZmotQWs1Qk9sMFdwcDNhelJ5NElBM2tRaDFxU2d5LW9sVzQzMGhyd0t4a3ZrNS1kVElnaGNfR0xLYl9yU3FwOU1EenpWeUhZTHh6bDRYMVR2RjZIMnUxODBBNWJEcE5aQ0NsSklQU0xZdE9aZ1F6MXpWZw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $86,000 August 31-September 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-august-31-september-6-2026",
-      "yes": 1,
-      "change24h": -8,
-      "vol24h": 34621,
-      "headlines": [
-        {
-          "title": "Hiring blew past expectations in August, jobs report shows",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW0yVzJpZHZWUFV0M0ZicHVGTUllMkhqQlI1WDJULUxZUFYtUUlJVVlWUFRjeTQwb05jTXNRdGw0MjA1bmpvOFdtWHFVcmFQM1V4eW1NODZFaXJZcElDb0RCa2R2YUxISTg4ZENRMEU5dHhqbFE1T2gtdVpRSDdOT3g1Yy1yRUlsY1pXVWtCNnFyZGw2NTJGa2tKcFpvdkpz0gGmAUFVX3lxTE92ZWtqQlhGWk5TQkVwUndPTkNlanQxM1ZYZVhyb1gxOHpzdXh0WW9JU1J3dDlxX1o3T3dvYUVveTI3NkVSSWtjcVlUcjQ4d3dIRS1nQjU4bjBRRHo3MVVfR1pBaDNQNENrZDQ5YjdjdHB2eUwyNC1RU0ZWQ1AwT0h5M2JzekFZRFdsUWF1V3lXRnYtbnZDZE10V0hGeG9DMjRSdHR3Nnc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-          "source": "theguardian.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2RmVDRpdHROaTRjaHNsNHZjZmFpN2NNenFENWZyUzgwQWRkanhUbXJ3UXRyZWJfQm54MUVuZWgweFJRWUNmZ2d5VFplQ3ZUNXhkVnA0WGNycmdFMlJQVk1HeUVKamhMYmZXUTNYSTFwTDZpU3dOcW5MQ2U0QmVPag?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Alex Michelsen vs Daniel Merida Aguilar",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-michels-aguilar-2026-09-04",
-      "yes": 63,
-      "change24h": 3,
-      "vol24h": 150522,
-      "headlines": [
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 17261,
-      "headlines": [
-        {
-          "title": "‘The Athletic Football Show’ previews the 2026 Los Angeles Rams",
+          "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
           "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnFiUkRDa3hhZVFpcnFrUHh5UXRTSGEweW5oRmZTYUlrenh4WC0tUnlrVzkycE90VG90eHp0X2kxb0hLSHNsSWJYTFNEZlBHNjItckYyYnFtaWZaRTI3QjNxOTVPSVhjVjJLX25LbHZ5aDBXSXBvR2g3NFNybGNfa1RrM1lvLVQ5WV9CdS15Z1VITWFDZ2lDeS04TG0tdDdCQ2RBRzVMbndHNm02dDUyUlA1REM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEVicmpWNTBDUVpfTGN4dXhleDJyWklRWngwTlZycFgzTzFPSzBNakp6Z1FQakZBZzJhMklVbWZhVTUxcjNtcGxadzhRY1JSZ3ZGM2VIUG4yWlZTeDlHZUc1VEhJY05mRUxKMjdtWTJVSmlUUk1naHhna3FVU1NOb2ZhTjRDUDhza0lxUDZfQkszcE1G?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 51,
+      "change24h": 8,
+      "vol24h": 743574,
+      "headlines": [
+        {
+          "title": "A Fed Rate Hike Depends on Hot Inflation. Don’t Count on Either.Economy Column",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEExS1I4MUJyZmllSVIzQlA0LUpIUGJlMTEtNWZPUGZ2UGJqMlI0RlE2cU81X01lUzc5MGwyX1ZjRENiZ0xxeWUzSXlPY0M0Y3ZPZi02UFpWaXI1UHFsVGFHa1FqYklyd011RmYtcnNNemVwZkRsRDBUaWxZRVB4QVUwWWlxWjVCZ3c?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEVicmpWNTBDUVpfTGN4dXhleDJyWklRWngwTlZycFgzTzFPSzBNakp6Z1FQakZBZzJhMklVbWZhVTUxcjNtcGxadzhRY1JSZ3ZGM2VIUG4yWlZTeDlHZUc1VEhJY05mRUxKMjdtWTJVSmlUUk1naHhna3FVU1NOb2ZhTjRDUDhza0lxUDZfQkszcE1G?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 21747,
+      "headlines": [
+        {
+          "title": "‘They Doubled Down on Toxic’ — NFL Executive Rips Browns for Announcing Deshaun Watson As Week 1 Starter",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0lXX2RuNHlSZms3NTV5M25TNHlXS2VxOWJYT2t5aXFYa0VIeEduRXFqdk05Z0VCdWNoeWc1M1A2b2Q4WjFSak5hd3l0TFhQV3NURks0V3ZPU3FZMzk5YVdDMDlHckxQNzdNR09ISHZyZE5LbkVxb2xtVmVycmdvaTAtbFJqT2Nx?oc=5",
           "cat": "NFL"
         }
       ]
@@ -221,18 +221,12 @@
       "url": "https://polymarket.com/event/will-los-angeles-clippers-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 16091,
+      "vol24h": 20090,
       "headlines": [
         {
-          "title": "Clippers suggested to take NBA’s initial penalty after fines and first-round picks taken",
+          "title": "What's left of the Clippers?",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUXktSUp6XzhOS2k3cEpGNmNNUmJ4X196N2RURjZEcXZIZU9rUmNMd0xxZnM4bHpQdlZKeU9XT0UtSWdfdEZRNFJjRWpMX1RsZ0FQU2UyVHQxVS1XRGRZMHlJTkpsbHBjZ3dZUnBnTWtxY3pET2lUeUVVR0pveW43SGpQNS05QkdVSjZRWlZrZ2M?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "NBA News and Fantasy Basketball Fallout: Clippers Punished, Kuminga Lands with Minnesota, and More",
-          "source": "FantasySP",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0hyd0RoNE51TDJSYUlkTFNSLU43RG1Fcm9LNUhlMVZYa3RRalhSTmU3V1Y3bDhqUmgwTTVmaXRlaHoxLWRscjJiTmJYaEtSOHBQVDRLWTA1cXFXV0lobTZQZ1FKSVlfWm1YeG4yaFI1WGs3Q2F1MEpQZFNIRVc4a3JobHFpMlRLMnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDhmV0N3cm5EN2pmNHlTaWRzczEwOGQ5QUdPcl84WVhNT2lJR1NpeC1rXzlBUUNqek9USGlYdU1uWklVU1NoeE9Kc0xmbjVKbnJrWi1hZkNydWJUV2lWNDJORWhGTXRmbjNyd2NMXzkwUFlZbW9pVlZ1S2R0NVUtYnlwaFo?oc=5",
           "cat": "NBA"
         }
       ]
@@ -240,75 +234,75 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $82,500 in September?",
+      "question": "Will the price of Bitcoin be above $82,000 on September 6?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 64,
-      "change24h": -15,
-      "vol24h": 171961,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 28,
-      "change24h": -12,
-      "vol24h": 38798,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $84,000 on September 7?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-84k-on-september-7-2026",
-      "yes": 2,
-      "change24h": -12,
-      "vol24h": 12921,
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-6-2026",
+      "yes": 3,
+      "change24h": -41,
+      "vol24h": 13453,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 46,
-      "change24h": -10,
-      "vol24h": 102067,
+      "yes": 50,
+      "change24h": -22,
+      "vol24h": 83631,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $75,000 in September?",
+      "question": "Will Bitcoin reach $82,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
-      "yes": 57,
-      "change24h": 10,
-      "vol24h": 91829,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
+      "yes": 69,
+      "change24h": -20,
+      "vol24h": 120169,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 32,
+      "change24h": -18,
+      "vol24h": 36901,
       "headlines": []
     },
     {
       "question": "Will Ethereum reach $2,600 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-september-2026",
-      "yes": 61,
-      "change24h": -10,
-      "vol24h": 17083,
+      "yes": 64,
+      "change24h": -15,
+      "vol24h": 15313,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $90,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 19,
-      "change24h": -8,
-      "vol24h": 23635,
+      "yes": 20,
+      "change24h": -12,
+      "vol24h": 22324,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $72,500 in September?",
+      "question": "Will Bitcoin reach $92,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
-      "yes": 37,
-      "change24h": 7,
-      "vol24h": 23648,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-92pt5k-in-september-2026",
+      "yes": 12,
+      "change24h": -11,
+      "vol24h": 27864,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $75,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
+      "yes": 55,
+      "change24h": 9,
+      "vol24h": 66289,
       "headlines": []
     }
   ]
