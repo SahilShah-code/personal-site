@@ -1,25 +1,47 @@
 {
-  "updated": "2026-09-05T09:33:45.171Z",
+  "updated": "2026-09-05T14:06:37.595Z",
   "withNews": [
     {
-      "question": "Will Ethereum reach $2,600 August 31-September 6?",
+      "question": "Will Bitcoin dip to $78,000 August 31-September 6?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-august-31-september-6-2026",
-      "yes": 3,
-      "change24h": -33,
-      "vol24h": 34292,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-august-31-september-6-2026-from-september-3",
+      "yes": 11,
+      "change24h": -40,
+      "vol24h": 19797,
       "headlines": [
         {
           "title": "The U.S. economy added 162,000 jobs in August, beating expectations",
-          "source": "washingtonpost.com",
+          "source": "The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZSSExUMkVpTnFpOER4MTU3Zzh2YXRzUjRkeHh3NXFydXRyQTA3Y0xHUUJWeGNpZ3poOGlNdGhCVlNlUld5NHB0Wm9KWVZKWmdCMklSNUFLbkQ4aGVSUnh1dTZrU2VGTDdoa09ka0Y1X203dXJDamdCT1VOaG9nakxpQXczUk9Ka05XWV82MXozSWdJWi1mTFp3NldxSlN4bC1HbzRWM1JSNlp1?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "3 Biotech Stocks With Massive Upside to Buy Before August Starts",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzVKVHJkMnZqTkkwcW1GbnJKREREWUxjU0JWQlQ4ekRYN1hud0JoVE9tNFdPcHg3bWhaWnkxVXQyajlSaWZVV2x1WjFlUUNNQTNCSW5HbDZ1eWNIOTk3RXo0Rk5BYS1hQ2FpV192OFVId2l2OVdtSlQyZl9wUnQzNFdnSWptMnB0MDY5SkRHdXh0NTF6TlMxVDlBYnpMUQ?oc=5",
-          "cat": "Biotech markets"
+          "title": "Job growth rebounds in August, opening door for Fed to act on inflation",
+          "source": "csmonitor.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MOHZjYkxKUEpHMVpyTGt5a3pfVzk3d1VYYWFLX3FfNVgxSXBPVVJCSnFlU1RBTVdaNFctZTBraXNibVRrejJRUDFmLWxucHRVSHhldmJ2TEJ2TVdHeS1UQ3k3b2JmNVFTenBENGozS3cyMzNTR2VKNtIBkgFBVV95cUxQbzNzQUxBS0ktZXZ2M1Jzb3k0aWtoZFpQWjhyMUJydjBHa1BNYkNBMHR4LWFiVVlkSktoU2dicV9FbWVpQk1DS3VvN25DWEl2S1hnc0t3RWlmQlB2TXRBcUh5R055ZlRCanM0VC1qeGhtVFlVQ2NNWUkzdmRid215UkVqYzVVNVNsT3dBMVhHN2Mwdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $76,000 August 31-September 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-august-31-september-6-2026",
+      "yes": 2,
+      "change24h": -8,
+      "vol24h": 30554,
+      "headlines": [
+        {
+          "title": "The U.S. economy added 162,000 jobs in August, beating expectations",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZSSExUMkVpTnFpOER4MTU3Zzh2YXRzUjRkeHh3NXFydXRyQTA3Y0xHUUJWeGNpZ3poOGlNdGhCVlNlUld5NHB0Wm9KWVZKWmdCMklSNUFLbkQ4aGVSUnh1dTZrU2VGTDdoa09ka0Y1X203dXJDamdCT1VOaG9nakxpQXczUk9Ka05XWV82MXozSWdJWi1mTFp3NldxSlN4bC1HbzRWM1JSNlp1?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Job growth rebounds in August, opening door for Fed to act on inflation",
+          "source": "csmonitor.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MOHZjYkxKUEpHMVpyTGt5a3pfVzk3d1VYYWFLX3FfNVgxSXBPVVJCSnFlU1RBTVdaNFctZTBraXNibVRrejJRUDFmLWxucHRVSHhldmJ2TEJ2TVdHeS1UQ3k3b2JmNVFTenBENGozS3cyMzNTR2VKNtIBkgFBVV95cUxQbzNzQUxBS0ktZXZ2M1Jzb3k0aWtoZFpQWjhyMUJydjBHa1BNYkNBMHR4LWFiVVlkSktoU2dicV9FbWVpQk1DS3VvN25DWEl2S1hnc0t3RWlmQlB2TXRBcUh5R055ZlRCanM0VC1qeGhtVFlVQ2NNWUkzdmRid215UkVqYzVVNVNsT3dBMVhHN2Mwdw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -27,42 +49,20 @@
       "question": "Will Bitcoin reach $84,000 August 31-September 6?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-84k-august-31-september-6-2026",
-      "yes": 2,
-      "change24h": -17,
-      "vol24h": 38900,
+      "yes": 1,
+      "change24h": -5,
+      "vol24h": 38993,
       "headlines": [
         {
           "title": "The U.S. economy added 162,000 jobs in August, beating expectations",
-          "source": "washingtonpost.com",
+          "source": "The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZSSExUMkVpTnFpOER4MTU3Zzh2YXRzUjRkeHh3NXFydXRyQTA3Y0xHUUJWeGNpZ3poOGlNdGhCVlNlUld5NHB0Wm9KWVZKWmdCMklSNUFLbkQ4aGVSUnh1dTZrU2VGTDdoa09ka0Y1X203dXJDamdCT1VOaG9nakxpQXczUk9Ka05XWV82MXozSWdJWi1mTFp3NldxSlN4bC1HbzRWM1JSNlp1?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "3 Biotech Stocks With Massive Upside to Buy Before August Starts",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzVKVHJkMnZqTkkwcW1GbnJKREREWUxjU0JWQlQ4ekRYN1hud0JoVE9tNFdPcHg3bWhaWnkxVXQyajlSaWZVV2x1WjFlUUNNQTNCSW5HbDZ1eWNIOTk3RXo0Rk5BYS1hQ2FpV192OFVId2l2OVdtSlQyZl9wUnQzNFdnSWptMnB0MDY5SkRHdXh0NTF6TlMxVDlBYnpMUQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 49,
-      "change24h": -11,
-      "vol24h": 1257702,
-      "headlines": [
-        {
-          "title": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
-          "source": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed rate decision still hangs on inflation after jobs report",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LYXhYejZiTkstY2ZZWlhCTV9Pa1Znd0FaZUFxZ1pRNmFtT1hLWTZpU0V5dFJraVk0bzRxRFlnREx0c1ZncVQ1Q3RYQjVxOWZ4?oc=5",
+          "title": "Job growth rebounds in August, opening door for Fed to act on inflation",
+          "source": "csmonitor.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MOHZjYkxKUEpHMVpyTGt5a3pfVzk3d1VYYWFLX3FfNVgxSXBPVVJCSnFlU1RBTVdaNFctZTBraXNibVRrejJRUDFmLWxucHRVSHhldmJ2TEJ2TVdHeS1UQ3k3b2JmNVFTenBENGozS3cyMzNTR2VKNtIBkgFBVV95cUxQbzNzQUxBS0ktZXZ2M1Jzb3k0aWtoZFpQWjhyMUJydjBHa1BNYkNBMHR4LWFiVVlkSktoU2dicV9FbWVpQk1DS3VvN25DWEl2S1hnc0t3RWlmQlB2TXRBcUh5R055ZlRCanM0VC1qeGhtVFlVQ2NNWUkzdmRid215UkVqYzVVNVNsT3dBMVhHN2Mwdw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -71,97 +71,31 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 51,
-      "change24h": 10,
-      "vol24h": 747386,
-      "headlines": [
-        {
-          "title": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
-          "source": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed rate decision still hangs on inflation after jobs report",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LYXhYejZiTkstY2ZZWlhCTV9Pa1Znd0FaZUFxZ1pRNmFtT1hLWTZpU0V5dFJraVk0bzRxRFlnREx0c1ZncVQ1Q3RYQjVxOWZ4?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 72,
-      "change24h": 8,
-      "vol24h": 233875,
-      "headlines": [
-        {
-          "title": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
-          "source": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed rate decision still hangs on inflation after jobs report",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LYXhYejZiTkstY2ZZWlhCTV9Pa1Znd0FaZUFxZ1pRNmFtT1hLWTZpU0V5dFJraVk0bzRxRFlnREx0c1ZncVQ1Q3RYQjVxOWZ4?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,700 August 31-September 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2700-august-31-september-6-2026",
-      "yes": 1,
-      "change24h": -6,
-      "vol24h": 18430,
-      "headlines": [
-        {
-          "title": "The U.S. economy added 162,000 jobs in August, beating expectations",
-          "source": "washingtonpost.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZSSExUMkVpTnFpOER4MTU3Zzh2YXRzUjRkeHh3NXFydXRyQTA3Y0xHUUJWeGNpZ3poOGlNdGhCVlNlUld5NHB0Wm9KWVZKWmdCMklSNUFLbkQ4aGVSUnh1dTZrU2VGTDdoa09ka0Y1X203dXJDamdCT1VOaG9nakxpQXczUk9Ka05XWV82MXozSWdJWi1mTFp3NldxSlN4bC1HbzRWM1JSNlp1?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "3 Biotech Stocks With Massive Upside to Buy Before August Starts",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzVKVHJkMnZqTkkwcW1GbnJKREREWUxjU0JWQlQ4ekRYN1hud0JoVE9tNFdPcHg3bWhaWnkxVXQyajlSaWZVV2x1WjFlUUNNQTNCSW5HbDZ1eWNIOTk3RXo0Rk5BYS1hQ2FpV192OFVId2l2OVdtSlQyZl9wUnQzNFdnSWptMnB0MDY5SkRHdXh0NTF6TlMxVDlBYnpMUQ?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "US Open WTA: Mirra Andreeva vs Nikola Bartunkova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-andreev-bartunk-2026-09-05",
-      "yes": 81,
-      "change24h": 2,
-      "vol24h": 19428,
-      "headlines": [
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Luciano Darderi vs Dane Sweeny",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-darderi-sweeny-2026-09-04",
-      "yes": 77,
+      "yes": 50,
       "change24h": -2,
-      "vol24h": 17279,
+      "vol24h": 376866,
+      "headlines": [
+        {
+          "title": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Taylor Fritz vs Francisco Cerundolo",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-fritz-cerundo-2026-09-04",
+      "yes": 87,
+      "change24h": 2,
+      "vol24h": 66068,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -171,7 +105,7 @@
         },
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
+          "source": "fubo.tv",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
           "cat": "Tennis"
         }
@@ -183,7 +117,7 @@
       "url": "https://polymarket.com/event/atp-bergs-zandsch-2026-09-05",
       "yes": 34,
       "change24h": -2,
-      "vol24h": 13023,
+      "vol24h": 55883,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -193,101 +127,110 @@
         },
         {
           "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
-          "source": "Fubo",
+          "source": "fubo.tv",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will Sacramento Kings win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-sacramento-kings-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 13449,
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 50,
+      "change24h": -2,
+      "vol24h": 24229,
       "headlines": [
         {
-          "title": "“How come he isn't paying Sacramento?” – Stephen A. Smith destroys Ben Simmons over his return to the league",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFdFM09jb0tkMG1obEs0UHhJeDRoeUE2VmxhUkRGd002dENZVXRJeTJZTVVHdmpacUd4LVRyQUhCaUQ2cnc1MHBYRC1Ha1NtcllpaHN3TG5FdWZneElxZk9MUkdubllxZDl4MmdmZ0FGZXNzTVJGbDlaTlRja1l1RE9yb1Blb2N0ZmI4dmQ5d3Zpc1hkQmhnRFBuSWR3YUxLZllrUVN1dlVpc1I2MzdYX3NB?oc=5",
-          "cat": "NBA"
+          "title": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Alexander Blockx vs Flavio Cobolli",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-blockx-cobolli-2026-09-04",
+      "yes": 51,
+      "change24h": 1,
+      "vol24h": 195086,
+      "headlines": [
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "ATP/WTA Singles Finals; ATP Doubles Final Live Stream: How To Watch 2026 Cincinnati Open Tennis",
+          "source": "fubo.tv",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNtblV0RWhXSGNqV282TjNKc2pFOUxUcTVLZTQzdk43UGk1SWJzdVp1VFhMWDNEWWZSQ1dzdFl4bkFGaHN4MC0zNUVURGVrZXdPNmxhZTVJY0N3WG9SNDgzbDFhZ2hrVHJTLXF5c0E5WFl6aDAycjdSQldnR3RfTVhNc1dPejhQd3piVEZTMmkxU21WOGE5X0VBNUVQb21QT3RQLVJvemtvdTJMZTl4Qm5GTjgwNVNDV0IxVUswb3I2alZm?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 31282,
+      "headlines": [
+        {
+          "title": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Strong job gains signal Fed hike as Trump levels new rate-cut demand",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 0,
+      "vol24h": 21313,
+      "headlines": [
+        {
+          "title": "‘It Would Be Like Trading for a Case of Gatorade’ — Broncos Legend Delivers Brutal Indictment of Vikings QB J.J. McCarthy’s Trade Value",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3FvVnNNUGZ6VVVyNU5WcFZ3c1NuNi1yNmcyT0tfMHczODZfbTRVNGxuMlh4X1JqMzNPTUxvRDhYb2RHTm12U2JLNGZFQ3EtMXAydmtrWUxiR0JsWXRaWUdvX2YxdnBwTmFoX201ckI3LW84SVRuT21GTUhBQ05YOEF0anNKVkQyeGtqYkJn?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 12472,
+      "headlines": [
+        {
+          "title": "Green Bay Packers receive low defensive ranking from PFF prior to Week 1 of 2026 NFL season",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2ticEhsQ1RSR1RkcVUxdm5PTXNjS0g4c3hoMmlvWkdVSnl4SWRGalFTR1NfS3QtUHRmbmkxQ1B5REV0cHhhZkJ5bENtU3ctOVhhdnA5RFVYemJ5WEg1cUx3YzZKempCWlp2R051ZHlsOGY3N0dDcS1la2xZZ1djWDJoeVU?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum reach $2,600 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-september-2026",
-      "yes": 64,
-      "change24h": -17,
-      "vol24h": 18888,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 69,
-      "change24h": -15,
-      "vol24h": 45368,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 49,
-      "change24h": -13,
-      "vol24h": 61764,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-3",
-      "yes": 77,
-      "change24h": 13,
-      "vol24h": 15870,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
-      "yes": 55,
-      "change24h": 11,
-      "vol24h": 32638,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 33,
-      "change24h": -10,
-      "vol24h": 27537,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 20,
-      "change24h": -9,
-      "vol24h": 16873,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 78,
-      "change24h": 7,
-      "vol24h": 21326,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
