@@ -1,39 +1,17 @@
 {
-  "updated": "2026-09-07T10:53:38.107Z",
+  "updated": "2026-09-07T16:45:10.761Z",
   "withNews": [
     {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 48,
-      "change24h": 3,
-      "vol24h": 11610,
-      "headlines": [
-        {
-          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
+      "question": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-gea-zandsch-2026-09-07",
-      "yes": 39,
-      "change24h": -3,
-      "vol24h": 11079,
+      "url": "https://polymarket.com/event/wta-swiatek-zhen-2026-09-06",
+      "yes": 61,
+      "change24h": -19,
+      "vol24h": 807574,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "skysports.com",
+          "source": "Sky Sports",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
           "cat": "Tennis"
         },
@@ -46,45 +24,111 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 52,
-      "change24h": 2,
-      "vol24h": 307438,
+      "question": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-andreev-potapov-2026-09-06",
+      "yes": 69,
+      "change24h": -16,
+      "vol24h": 959357,
       "headlines": [
         {
-          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
+          "source": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 48,
+      "change24h": 3,
+      "vol24h": 11460,
+      "headlines": [
+        {
+          "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
+          "source": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 49,
       "change24h": -2,
-      "vol24h": 199861,
+      "vol24h": 569132,
       "headlines": [
         {
-          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
+          "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
+          "source": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-cerundo-blockx-2026-09-06",
+      "yes": 40,
+      "change24h": -2,
+      "vol24h": 136771,
+      "headlines": [
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
+          "source": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 52,
+      "change24h": 2,
+      "vol24h": 19851,
+      "headlines": [
+        {
+          "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
+          "source": "247wallst.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -93,9 +137,9 @@
       "question": "Will Trump say \"Crypto\" or \"Cryptocurrency\" or \"Bitcoin\" during RNC Convention?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-trump-say-crypto-during-rnc-convention-september-10",
-      "yes": 5,
-      "change24h": -1,
-      "vol24h": 8644,
+      "yes": 7,
+      "change24h": 0,
+      "vol24h": 7727,
       "headlines": [
         {
           "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
@@ -110,88 +154,6 @@
           "cat": "Macro"
         }
       ]
-    },
-    {
-      "question": "US Open ATP: Karen Khachanov vs Learner Tien",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-khachan-tien-2026-09-07",
-      "yes": 37,
-      "change24h": 0,
-      "vol24h": 238569,
-      "headlines": [
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "skysports.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
-          "source": "olympics.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-swiatek-zhen-2026-09-06",
-      "yes": 80,
-      "change24h": 0,
-      "vol24h": 226049,
-      "headlines": [
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "skysports.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
-          "source": "olympics.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
-      "yes": 5,
-      "change24h": 0,
-      "vol24h": 20286,
-      "headlines": [
-        {
-          "title": "Today in Boston Celtics history: Jackson, Hewson, Kimball, Lovellette born",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGk0UTFlWDZIczN4Zloza2pUWWRLeTY2S19DOGxrTWN4NUw0aUN3Y1lDMzhYRFJ4Yks5UWI2WTNUaEtkVjMzYWhTZmtJYTl2NlMzSWppOVIwNHR1dlFzbG9sUTF4ejk3MzRWc0NXcF8waFdIUW9mYUJCSVhxcXBYNUF0bEY2aldQdDBTNUZB?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Miami Heat win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 14585,
-      "headlines": [
-        {
-          "title": "Andrew Wiggins Makes Bold Prediction For the Miami Heat After Summer Moves",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjNOMXFOOEI1a1hWVWJzd0NlR0Nyekx4TlI3bGliREZNZXF1cDBqV0hPU2M4c0c4U3BzMzRvY1VRRnBYMWVLVUJaMzBUbktOeDRQZ3E4dEsxNHNTWU9YbzBsX3ROVzJHU3lsdGplVWlQZVJ2UkRFMFhOdE9lRkd0bHB3ZU9YU2RFcUFQVUNB?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "ASK IRA: Could Heat fall into the Nikola Jovic trap with Pelle Larsson?",
-          "source": "Sun Sentinel",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXlQcXV1amF3Vmlxdm94Z0pGel9CV182Mi1aWnFQM2xLbi1meXJRSkJvdllFak5hV1FmLUJ3STFmeU5FSGxwT2JuQkVuNDZSV0p5bHM4TjdXbm9Edk9ZWC1BSkhUdy1JSUlNMEpQVlZkLVI2Sm9FSXFrYVRjXzVlUlFTMWNYSVdYejBQeE1NSGJyVnRhT0JFV2J6V1VpeGZjMmFyZzNpTzRtRmdNMGNR?oc=5",
-          "cat": "NBA"
-        }
-      ]
     }
   ],
   "moversOnly": [
@@ -200,62 +162,62 @@
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
       "yes": 56,
-      "change24h": 9,
-      "vol24h": 213329,
+      "change24h": 10,
+      "vol24h": 216590,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $82,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 67,
-      "change24h": -7,
-      "vol24h": 26447,
+      "yes": 64,
+      "change24h": -8,
+      "vol24h": 28271,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 48,
-      "change24h": -6,
-      "vol24h": 14384,
+      "yes": 44,
+      "change24h": -8,
+      "vol24h": 18494,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $77,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-3",
-      "yes": 81,
-      "change24h": 4,
-      "vol24h": 13780,
+      "yes": 84,
+      "change24h": 6,
+      "vol24h": 15653,
+      "headlines": []
+    },
+    {
+      "question": "Will Iga Swiatek win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-iga-swiatek-win-the-2026-womens-us-open",
+      "yes": 9,
+      "change24h": -5,
+      "vol24h": 18659,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $90,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 20,
-      "change24h": -4,
-      "vol24h": 11105,
+      "yes": 17,
+      "change24h": -5,
+      "vol24h": 11312,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $72,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 56,
-      "change24h": -4,
-      "vol24h": 9105,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 31,
-      "change24h": -4,
-      "vol24h": 7802,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
+      "yes": 38,
+      "change24h": 4,
+      "vol24h": 9256,
       "headlines": []
     }
   ]
