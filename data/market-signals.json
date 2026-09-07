@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T16:45:10.761Z",
+  "updated": "2026-09-07T20:52:13.901Z",
   "withNews": [
     {
-      "question": "US Open WTA: Iga Swiatek vs Qinwen Zheng",
+      "question": "US Open WTA: Naomi Osaka vs Elena Rybakina",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-swiatek-zhen-2026-09-06",
-      "yes": 61,
-      "change24h": -19,
-      "vol24h": 807574,
+      "url": "https://polymarket.com/event/wta-osaka-rybakin-2026-09-07",
+      "yes": 17,
+      "change24h": -28,
+      "vol24h": 1019444,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -24,12 +24,28 @@
       ]
     },
     {
-      "question": "US Open WTA: Mirra Andreeva vs Anastasia Potapova",
+      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-andreev-potapov-2026-09-06",
-      "yes": 69,
-      "change24h": -16,
-      "vol24h": 959357,
+      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
+      "yes": 16,
+      "change24h": 9,
+      "vol24h": 10074,
+      "headlines": [
+        {
+          "title": "New Caledonia show plenty of spirit in defeat by China at FIFA U-20 Women’s World Cup",
+          "source": "oceaniafootball.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3A5VXNZMDVSdlg0LU10Q1JCVjlqRllzMWNuekVhcFVDeld3VE1GbXBpMDlCM0tETmRCTW9QX0s5MUhqZmtiaUprQXNGVDAyb3YxWWZWQ0pPSWxTbEhFR2VPTzQtN0JmczRCWDBmbmR6WlFYR0VBWWxnRmdwb0lWSlROcm90c1hFblN0MFZBajJybU4xYXlYSmhuYzZPQ2hLc0R0VmJ0NHVkS3dFZmJ1VXR4TTNoZHRO?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-cerundo-blockx-2026-09-06",
+      "yes": 33,
+      "change24h": -8,
+      "vol24h": 2666433,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -42,6 +58,98 @@
           "source": "olympics.com",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
           "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
+      "yes": 66,
+      "change24h": -7,
+      "vol24h": 28426,
+      "headlines": [
+        {
+          "title": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzVUdF9KYlZjR3A1Nm83WkNiQjJtN0FOczFzdU56NUZEaHhYaGFQSWRDZnZKYWtRVkdCY1hpVm9HOU5POWFmbm83M0VuX01KTEo1ajQ2TkFodEFrSEN4azMtOVJiNVpGeUdVUS1OVlVCNFhVY1BOTmhNeko3NzZFNnpmU0VpZ3dETktMdzd1SnhZS1pHTUhsRw?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
+      "yes": 47,
+      "change24h": -6,
+      "vol24h": 16576,
+      "headlines": [
+        {
+          "title": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzVUdF9KYlZjR3A1Nm83WkNiQjJtN0FOczFzdU56NUZEaHhYaGFQSWRDZnZKYWtRVkdCY1hpVm9HOU5POWFmbm83M0VuX01KTEo1ajQ2TkFodEFrSEN4azMtOVJiNVpGeUdVUS1OVlVCNFhVY1BOTmhNeko3NzZFNnpmU0VpZ3dETktMdzd1SnhZS1pHTUhsRw?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
+      "yes": 17,
+      "change24h": -6,
+      "vol24h": 10758,
+      "headlines": [
+        {
+          "title": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzVUdF9KYlZjR3A1Nm83WkNiQjJtN0FOczFzdU56NUZEaHhYaGFQSWRDZnZKYWtRVkdCY1hpVm9HOU5POWFmbm83M0VuX01KTEo1ajQ2TkFodEFrSEN4azMtOVJiNVpGeUdVUS1OVlVCNFhVY1BOTmhNeko3NzZFNnpmU0VpZ3dETktMdzd1SnhZS1pHTUhsRw?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 48,
+      "change24h": -3,
+      "vol24h": 690517,
+      "headlines": [
+        {
+          "title": "Fed rate-hike threat heats up as August inflation data looms",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0dvbG04V3k3dWFydWpkd3BrQ0dNOFNtaTQ2WVNMdHBqSmxhWHlPT1NWMnNucmxzNl9qa0Z2U3RGRU9mTFpvWHBvMV9ZRzRTa3Z4N091ZnlnNG45dWVyVE9TS1hVbUtiY3NkQkk5ZTFBRmtqd1FaNXhaSTNFNDJiNnAwMlY?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 53,
+      "change24h": 3,
+      "vol24h": 22352,
+      "headlines": [
+        {
+          "title": "Fed rate-hike threat heats up as August inflation data looms",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0dvbG04V3k3dWFydWpkd3BrQ0dNOFNtaTQ2WVNMdHBqSmxhWHlPT1NWMnNucmxzNl9qa0Z2U3RGRU9mTFpvWHBvMV9ZRzRTa3Z4N091ZnlnNG45dWVyVE9TS1hVbUtiY3NkQkk5ZTFBRmtqd1FaNXhaSTNFNDJiNnAwMlY?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -51,174 +159,22 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 48,
       "change24h": 3,
-      "vol24h": 11460,
+      "vol24h": 11654,
       "headlines": [
+        {
+          "title": "Fed rate-hike threat heats up as August inflation data looms",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd0dvbG04V3k3dWFydWpkd3BrQ0dNOFNtaTQ2WVNMdHBqSmxhWHlPT1NWMnNucmxzNl9qa0Z2U3RGRU9mTFpvWHBvMV9ZRzRTa3Z4N091ZnlnNG45dWVyVE9TS1hVbUtiY3NkQkk5ZTFBRmtqd1FaNXhaSTNFNDJiNnAwMlY?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
           "source": "Washington Examiner",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
-          "source": "247wallst.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 49,
-      "change24h": -2,
-      "vol24h": 569132,
-      "headlines": [
-        {
-          "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
-          "source": "247wallst.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-cerundo-blockx-2026-09-06",
-      "yes": 40,
-      "change24h": -2,
-      "vol24h": 136771,
-      "headlines": [
-        {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
-          "source": "olympics.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 52,
-      "change24h": 2,
-      "vol24h": 19851,
-      "headlines": [
-        {
-          "title": "The insidious 2% target: How the Fed quietly taxes retirees and homeowners",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbktfMFUzb0hSb1EtaUNNd3BkWll0TEVmd0Zja3VET2x4cWE5M1R4Nm9SaE41X3NLeE9mZjBUN1czWWhFZzQ2cjI4enRXaktmZWxNRzBEdlo4VVcwNF84aV9WMlhxcUZEQk5RUHo2VG5HQUMxbXZWMkJacm1YRi1IYVZzakVGM2wxeS1hV0EzdG5RQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Top White House Economist Points to 1.6% Inflation as Evidence the Fed Doesn't Need Higher Rates",
-          "source": "247wallst.com",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTlNhaWl1MENGTDlmdXZjVkJza21HdDBxNGhqM28xY055Q0ZKNlo5VDE4VTJ5STNuYjVaODhWb1VEMWNjY2VCSHY4Wk1DeWlEckx6aXdRVElQMWR5dFBESDkwYUhvNElaOXRtMkdNamg3M2ZCamVXYkF1dlhGNEdpM2pvR2UxTTZnQ3hnMm5ieUxGdzV0UVBhNk1jakUzWk9sbldHa3lNLTl2azRJMzloOEZUMlkyOWpTZ0F6QVBQeTZ5U2w2RHQ1bTgxSEdNUUh5Ql9FQg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Trump say \"Crypto\" or \"Cryptocurrency\" or \"Bitcoin\" during RNC Convention?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-trump-say-crypto-during-rnc-convention-september-10",
-      "yes": 7,
-      "change24h": 0,
-      "vol24h": 7727,
-      "headlines": [
-        {
-          "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Trump says 'Stupidity causes inflation' and threatens to stop trade with foreign countries",
-          "source": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTg3aERvS20wSlN2WDdlNXB1N3dwXzVLR2NXQXVGa3VlaDY1ZkVUS1dsN1hOWDBPSTRxVlQzMmUxQmItQnFNZjR2ZGFrYU93VnlxZFoyN2xMQVA4U1UyVEc0VGJWcHZ6ZEp5a2FjbDdVcUpVNjM1UHpTVUNGWEY0NlJvRi1TUHA4SjRJcmhyUUFjTm5OYWc5M00xbnpzRUdvdmFKSVAxRHNuTmdH?oc=5",
           "cat": "Macro"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Carlos Alcaraz win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-carlos-alcaraz-win-the-2026-mens-us-open",
-      "yes": 56,
-      "change24h": 10,
-      "vol24h": 216590,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 64,
-      "change24h": -8,
-      "vol24h": 28271,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 44,
-      "change24h": -8,
-      "vol24h": 18494,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-3",
-      "yes": 84,
-      "change24h": 6,
-      "vol24h": 15653,
-      "headlines": []
-    },
-    {
-      "question": "Will Iga Swiatek win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-iga-swiatek-win-the-2026-womens-us-open",
-      "yes": 9,
-      "change24h": -5,
-      "vol24h": 18659,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 17,
-      "change24h": -5,
-      "vol24h": 11312,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $72,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
-      "yes": 38,
-      "change24h": 4,
-      "vol24h": 9256,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
