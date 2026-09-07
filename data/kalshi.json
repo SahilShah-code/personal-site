@@ -1,23 +1,22 @@
 {
-  "updated": "2026-09-07 05:02 UTC",
-  "net_return_pct": -25.8,
-  "realized_return_pct": -25.8,
+  "updated": "2026-09-07 10:17 UTC",
+  "net_return_pct": -22.1,
+  "realized_return_pct": -22.1,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 27.3,
-  "settled_total": 11,
+  "win_rate_pct": 30,
+  "settled_total": 10,
   "curve": [
     0,
     -100,
-    -100,
-    45.2,
-    36.6,
-    19.9,
-    -4.9,
-    -6.4,
-    -0.1,
-    -11.5,
-    -20.5,
-    -25.8
+    80.7,
+    58.9,
+    36.7,
+    5.3,
+    1.2,
+    6.7,
+    -6.1,
+    -16.2,
+    -22.1
   ],
   "active": [],
   "settled": [
@@ -89,13 +88,6 @@
       "ticker": "KXATPMATCH-26JUL06FRIBUB-BUB",
       "result": "no",
       "date": "2026-07-06",
-      "return_pct": -100
-    },
-    {
-      "title": "Will Brandon Nakashima win the Nakashima vs Struff: Round Of 64 match?",
-      "ticker": "KXATPMATCH-26JUL01NAKSTR-NAK",
-      "result": "no",
-      "date": "2026-07-02",
       "return_pct": -100
     }
   ]
