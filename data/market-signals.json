@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-07T20:52:13.901Z",
+  "updated": "2026-09-08T01:45:22.570Z",
   "withNews": [
     {
-      "question": "US Open WTA: Naomi Osaka vs Elena Rybakina",
+      "question": "US Open ATP: Karen Khachanov vs Learner Tien",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-osaka-rybakin-2026-09-07",
-      "yes": 17,
-      "change24h": -28,
-      "vol24h": 1019444,
+      "url": "https://polymarket.com/event/atp-khachan-tien-2026-09-07",
+      "yes": 100,
+      "change24h": 61,
+      "vol24h": 3039256,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -24,28 +24,12 @@
       ]
     },
     {
-      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
+      "question": "US Open ATP: Alexander Zverev vs Luciano Darderi",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
-      "yes": 16,
-      "change24h": 9,
-      "vol24h": 10074,
-      "headlines": [
-        {
-          "title": "New Caledonia show plenty of spirit in defeat by China at FIFA U-20 Women’s World Cup",
-          "source": "oceaniafootball.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa3A5VXNZMDVSdlg0LU10Q1JCVjlqRllzMWNuekVhcFVDeld3VE1GbXBpMDlCM0tETmRCTW9QX0s5MUhqZmtiaUprQXNGVDAyb3YxWWZWQ0pPSWxTbEhFR2VPTzQtN0JmczRCWDBmbmR6WlFYR0VBWWxnRmdwb0lWSlROcm90c1hFblN0MFZBajJybU4xYXlYSmhuYzZPQ2hLc0R0VmJ0NHVkS3dFZmJ1VXR4TTNoZHRO?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "US Open ATP: Francisco Cerundolo vs Alexander Blockx",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-cerundo-blockx-2026-09-06",
-      "yes": 33,
-      "change24h": -8,
-      "vol24h": 2666433,
+      "url": "https://polymarket.com/event/atp-zverev-darderi-2026-09-07",
+      "yes": 96,
+      "change24h": 6,
+      "vol24h": 934958,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -62,50 +46,24 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $82,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 66,
-      "change24h": -7,
-      "vol24h": 28426,
+      "question": "US Open ATP: Arthur Gea vs Botic van de Zandschulp",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-gea-zandsch-2026-09-07",
+      "yes": 44,
+      "change24h": 3,
+      "vol24h": 2200820,
       "headlines": [
         {
-          "title": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzVUdF9KYlZjR3A1Nm83WkNiQjJtN0FOczFzdU56NUZEaHhYaGFQSWRDZnZKYWtRVkdCY1hpVm9HOU5POWFmbm83M0VuX01KTEo1ajQ2TkFodEFrSEN4azMtOVJiNVpGeUdVUS1OVlVCNFhVY1BOTmhNeko3NzZFNnpmU0VpZ3dETktMdzd1SnhZS1pHTUhsRw?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 47,
-      "change24h": -6,
-      "vol24h": 16576,
-      "headlines": [
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
         {
-          "title": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzVUdF9KYlZjR3A1Nm83WkNiQjJtN0FOczFzdU56NUZEaHhYaGFQSWRDZnZKYWtRVkdCY1hpVm9HOU5POWFmbm83M0VuX01KTEo1ajQ2TkFodEFrSEN4azMtOVJiNVpGeUdVUS1OVlVCNFhVY1BOTmhNeko3NzZFNnpmU0VpZ3dETktMdzd1SnhZS1pHTUhsRw?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 17,
-      "change24h": -6,
-      "vol24h": 10758,
-      "headlines": [
-        {
-          "title": "Illumina and Everpure to Join S&P 500 in September Rebalancing: What it Means for Investors",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzVUdF9KYlZjR3A1Nm83WkNiQjJtN0FOczFzdU56NUZEaHhYaGFQSWRDZnZKYWtRVkdCY1hpVm9HOU5POWFmbm83M0VuX01KTEo1ajQ2TkFodEFrSEN4azMtOVJiNVpGeUdVUS1OVlVCNFhVY1BOTmhNeko3NzZFNnpmU0VpZ3dETktMdzd1SnhZS1pHTUhsRw?oc=5",
-          "cat": "Markets"
+          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
+          "source": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -115,7 +73,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 48,
       "change24h": -3,
-      "vol24h": 690517,
+      "vol24h": 661517,
       "headlines": [
         {
           "title": "Fed rate-hike threat heats up as August inflation data looms",
@@ -137,7 +95,7 @@
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
       "yes": 53,
       "change24h": 3,
-      "vol24h": 22352,
+      "vol24h": 26488,
       "headlines": [
         {
           "title": "Fed rate-hike threat heats up as August inflation data looms",
@@ -154,12 +112,12 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 48,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 31,
       "change24h": 3,
-      "vol24h": 11654,
+      "vol24h": 25215,
       "headlines": [
         {
           "title": "Fed rate-hike threat heats up as August inflation data looms",
@@ -174,7 +132,176 @@
           "cat": "Macro"
         }
       ]
+    },
+    {
+      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
+      "yes": 7,
+      "change24h": -1,
+      "vol24h": 7195,
+      "headlines": [
+        {
+          "title": "From substitute teacher to the NFL, persistence pays off for Seahawks WR Foster",
+          "source": "WOODTV.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdEpPUzZyTm9WVGVWc19xYU01eWtybXFNcHh3S2hTUlJzdDRxczYwSGdYOWFRcXppYVVGWGdsOENkeDZ2eE9zaGJNMkxER3ZsbVVVMFdMQ09FZGZTT1BuQVJiOGlXR0ZsLW1rdnFKa1dkM1BmS0F5Ml9ud2ZleGdPYVJLSm5IdGMtdHRJVDhiR09xck5aVVVOc0htRzNidGJZYmVGQTZyempTZ2ZwV2U1QmFCMHo2RW8talhN0gHAAUFVX3lxTE9SSjdaU2dYOVZpNk00R1lrZjd2djhFV2psWEQ4YjJxZjBkRjMxWnNmelJ4cHVUYWZGcTNwVTMwVW0tZ3dzcVphY3F0SnpCbDZhY2M1TnMzTGc4V3JWSzRlUURweUdQY2tJTkU3dW5sRmVyeVE2di1SbXFBY2NuQmRfTXl0enZFazVxeDZvWkhFSG1LLXNBcmdHTXdqRWtQdHFSRnNVUzQyRW5nazh4eEI4Z05vQkY0ZjNha2RVb3haXw?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 54891,
+      "headlines": [
+        {
+          "title": "Titans linebacker enters concussion protocol after UTV accident before Week 1 clash with Jets",
+          "source": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYXNBd0dpMEY5SFVDNjA3VVk5dDczQjhSZVduUTNJTGh3cVZrMk5NamctTDd2Zno5bWZ3c0UwQ0ZmdndiZmtGVjVDWnpPbmd3OWF6TWdmRXM2b0JHdkNrZVdXZURYek9tQW5mWFB0ejdoUGZXSktUOG83ZnBwQ3ZNUGJZdlptTUVwZU5vT1Flei15QnNmSDhqRG9IckxqRmVCdVdHczU4U2JlUUkyTEE?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 26192,
+      "headlines": [
+        {
+          "title": "Former Lakers Champion Sees Something Different in Luka Doncic",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTWp0ZVFwRU5jV2ppOGRBVEM3Mjgzajg0Z0hUNE9hclZ4NFZsSmFabW9QOWpVM215X0NnMjd4T1Fwb09FWEJpRW1haXR5SXp4X0Zac1NqazRSVjY3VkhsYmx0LTU0anhqNTNKUEU0UUg3VFlBeW91b1FzdEUwWDgxZmphLTRLRXUxS3h2WHV2ck9LUTVpWnhwSWo5azJ4UQ?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Tennessee Titans win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-tennessee-titans-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 23726,
+      "headlines": [
+        {
+          "title": "Titans linebacker enters concussion protocol after UTV accident before Week 1 clash with Jets",
+          "source": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYXNBd0dpMEY5SFVDNjA3VVk5dDczQjhSZVduUTNJTGh3cVZrMk5NamctTDd2Zno5bWZ3c0UwQ0ZmdndiZmtGVjVDWnpPbmd3OWF6TWdmRXM2b0JHdkNrZVdXZURYek9tQW5mWFB0ejdoUGZXSktUOG83ZnBwQ3ZNUGJZdlptTUVwZU5vT1Flei15QnNmSDhqRG9IckxqRmVCdVdHczU4U2JlUUkyTEE?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Boston Celtics win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
+      "yes": 5,
+      "change24h": 0,
+      "vol24h": 20316,
+      "headlines": [
+        {
+          "title": "Glen Davis implies Boston Celtics teammate Kendrick Perkins part of NBA insurance fraud case",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTNPbmx2UFN2Uml5dzVKWDVtMWJyd01UZWV3RnpzZ0tLQUVSQkprU3UxOUREbDk4cHB5TU10bWlZaTVVby01UUhXVVI0STJMWXJ1bXE4VnItX2FubWM2b0JMZnlwc2IxMEJVVG5XbzlZeUp3N3MxWDFFcWpZQkE3RDVzODExNWVuQWc?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will China unban Bitcoin by 2027?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-china-unban-bitcoin-by-2027",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 9396,
+      "headlines": [
+        {
+          "title": "China in Global Clinical Development: Why Early Inclusion Matters",
+          "source": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXRBVnZqNFFoXzQzQTVVQzlYOGNWQVJGcGFJZnpzYVpsa3VOdDBTNGxTdHlmempVbEhnNGtFNnlDdThvN0o0cDdQdzhkVDVQOEFaaV9jNENEbjY2YXNlQzFTcjBBM3htR2JjbHppU2V2WnlNRFR4NGhFbWs1Ynl4N3lWNW5EZFhnaWUyUkNPajdUYnBuUzRwV3BHVmVYcDdTODlz?oc=5",
+          "cat": "Biotech"
+        }
+      ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Madrid host the final of the 2030 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-madrid-host-the-final-of-the-2030-fifa-world-cup-20260805200159831",
+      "yes": 57,
+      "change24h": 19,
+      "vol24h": 11021,
+      "headlines": []
+    },
+    {
+      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
+      "yes": 20,
+      "change24h": 12,
+      "vol24h": 38693,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $82,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
+      "yes": 66,
+      "change24h": -7,
+      "vol24h": 28236,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
+      "yes": 47,
+      "change24h": -6,
+      "vol24h": 12575,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
+      "yes": 17,
+      "change24h": -6,
+      "vol24h": 10808,
+      "headlines": []
+    },
+    {
+      "question": "Will Coco Gauff win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-coco-gauff-win-the-2026-womens-us-open",
+      "yes": 22,
+      "change24h": 5,
+      "vol24h": 16057,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-3",
+      "yes": 81,
+      "change24h": 5,
+      "vol24h": 14707,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $72,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
+      "yes": 36,
+      "change24h": 5,
+      "vol24h": 10186,
+      "headlines": []
+    }
+  ]
 }
