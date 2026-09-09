@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T15:26:30.210Z",
+  "updated": "2026-09-09T20:08:02.456Z",
   "withNews": [
     {
       "question": "Will Ben Shelton win the 2026 Men's US Open?",
@@ -7,14 +7,8 @@
       "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
       "yes": 38,
       "change24h": 30,
-      "vol24h": 239511,
+      "vol24h": 266361,
       "headlines": [
-        {
-          "title": "Ben Simmons’ Kings Gamble Could Ignite His NBA Career Revival",
-          "source": "Stadium Rant",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDNFX3FMUTZOVGtrN3ZUei1lSWhwZ1kwbGRWOVUzQWE0UElzRHRENHdHQ010dTJfc2JPcDg3bk9xdUxBWnRvM0pwbG9ybDI1WVZVN2xOLTVCaVJjWmZvMkotS3czVDRhOGFwaEV1b3dVMVluMHg4dnYzbXJ6RFNFSXVtOHVNMS0wRkFuOFdZaC0yM2c?oc=5",
-          "cat": "NBA"
-        },
         {
           "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
           "source": "Robinhood",
@@ -24,17 +18,17 @@
       ]
     },
     {
-      "question": "Will Aryna Sabalenka win the 2026 Women’s US Open?",
+      "question": "US Open WTA: Mirra Andreeva vs Coco Gauff",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-aryna-sabalenka-win-the-2026-womens-us-open",
-      "yes": 38,
-      "change24h": 9,
-      "vol24h": 57972,
+      "url": "https://polymarket.com/event/wta-andreev-gauff-2026-09-08",
+      "yes": 49,
+      "change24h": 13,
+      "vol24h": 2772597,
       "headlines": [
         {
-          "title": "‘We’ll sacrifice points’: World No.1 Sabalenka fires warning at WTA, ATP to end mandatory events over bru",
-          "source": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOR2Z3cVFSc1c0c29EMFJKUHJtU0NEOGxwSE16MHJEbmpVM1haQkpEQVlqYnZPenNPaGdiV1FEV21qS1Y2dkZzcXJYV21JLWwzQk1vTEFvSktFa29oMGIyeVZHRkZkcnBaMjY3MV9pSFpZRXZJY2l3RWxvWUF4SlJ4c0hmcUtjTHRkQTcxc2Y2amlYa2VtQUYzam56LWhmSHpXVS1jYnpfTjRXT3AxS2lFM3Z4MW0weC13VDE4TFRzQlRwQUdqSEx3N1N3RVVkRzZYT0NOSEJmR3p0VzZmbHNmVG4zVXpqMVJhTXZtM0UwX1JuTXF6TEU2RjAtRUtqbENwVEwtdGNsa0J4dXdMLWFIdFVtU3lCOFnSAZwCQVVfeXFMTXNBXzRZeHBSdVEtc2JldjlIVHlvU0xzZjQ5bDQxNUdYakFPeDdQVGRmRjktYWw5ekVkUTZhRm9iNWk2UGwyS3R1eTlrcUl6c0VnaGxUZnpYQzNESWJrV3dzOXI2dENjczlQZTNEWm5PcmRQMURRVFFXTVVaSGFJVXlucWtWN3ljUWt2Nk1uSmY3elZpUFo5YkhpLW1pNWVfaGtzOElwenVYZXpuZU5BNVZ1RTZGTXBjZlg3d3VQSVhtQnl3WEFCVXc5Z1VwaE1scGNpLU9wcU9JT2hBS29NT2tDd1ZyQlVfaVhKeWVSc2tCNkZ4U3FWNG9CSFRnRS1xREM3dXV0clV6TThIN0l4VTJOQ1dPb2J5cFpFeVE?oc=5",
+          "title": "Fear grows with the WTA: on the brink of bankruptcy",
+          "source": "Puntodebreak",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHBVZzdmVUlYcHhGMFFnNnliek9oTmh5dTBFVDVTT0VMOC13UkwyY1VfX2tjN3dCNXJTamxlN2ZwWmotb2JOQ3VRaFI0Qy1abDdlRktfUDREcEg1UXNsMFlRdEliQWdyX2ZZM0JNQ1FlLWE2MDR3NGkzdGREVVdZOEZneFllTGVHd20yZTREYW1SYmI2MlRhTQ?oc=5",
           "cat": "Tennis"
         },
         {
@@ -46,12 +40,56 @@
       ]
     },
     {
+      "question": "Will Bitcoin reach $82,000 September 7-13?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-september-7-13-2026",
+      "yes": 23,
+      "change24h": -10,
+      "vol24h": 14940,
+      "headlines": [
+        {
+          "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0Z5TkxOOXMyWjNsYi05cXFSRllUdTBFbFZtb0RLdi1SNDNiNjBBV05RN3owMUxVRTRpc2l4WGx4a2g1Zmc4cm5YWmhfVkZ4SWw4bGZ1UURaWVdxN0NwNHIyNUlsVEQ3dnMzNzB4cnJ0emNidzIwbktZNzB0RmpaU3U4dk1VNERFMFl3cFp5WVhnc1NreWhOZFZqVnRSeDhDU01ZYUgydFpISXRSQU14TVRnYWQ2TWJ3N1QwcHVn?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 September 7-13?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-7-13-2026",
+      "yes": 55,
+      "change24h": -10,
+      "vol24h": 11024,
+      "headlines": [
+        {
+          "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0Z5TkxOOXMyWjNsYi05cXFSRllUdTBFbFZtb0RLdi1SNDNiNjBBV05RN3owMUxVRTRpc2l4WGx4a2g1Zmc4cm5YWmhfVkZ4SWw4bGZ1UURaWVdxN0NwNHIyNUlsVEQ3dnMzNzB4cnJ0emNidzIwbktZNzB0RmpaU3U4dk1VNERFMFl3cFp5WVhnc1NreWhOZFZqVnRSeDhDU01ZYUgydFpISXRSQU14TVRnYWQ2TWJ3N1QwcHVn?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
       "question": "Will Frances Tiafoe win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-frances-tiafoe-win-the-2026-mens-us-open",
       "yes": 10,
-      "change24h": 5,
-      "vol24h": 166224,
+      "change24h": 8,
+      "vol24h": 162725,
       "headlines": [
         {
           "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
@@ -62,56 +100,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $76,000 September 7-13?",
+      "question": "Will Bitcoin reach $84,000 September 7-13?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-september-7-13-2026",
-      "yes": 50,
-      "change24h": 5,
-      "vol24h": 13437,
-      "headlines": [
-        {
-          "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0Z5TkxOOXMyWjNsYi05cXFSRllUdTBFbFZtb0RLdi1SNDNiNjBBV05RN3owMUxVRTRpc2l4WGx4a2g1Zmc4cm5YWmhfVkZ4SWw4bGZ1UURaWVdxN0NwNHIyNUlsVEQ3dnMzNzB4cnJ0emNidzIwbktZNzB0RmpaU3U4dk1VNERFMFl3cFp5WVhnc1NreWhOZFZqVnRSeDhDU01ZYUgydFpISXRSQU14TVRnYWQ2TWJ3N1QwcHVn?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $82,000 September 7-13?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-september-7-13-2026",
-      "yes": 28,
-      "change24h": -4,
-      "vol24h": 14358,
-      "headlines": [
-        {
-          "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0Z5TkxOOXMyWjNsYi05cXFSRllUdTBFbFZtb0RLdi1SNDNiNjBBV05RN3owMUxVRTRpc2l4WGx4a2g1Zmc4cm5YWmhfVkZ4SWw4bGZ1UURaWVdxN0NwNHIyNUlsVEQ3dnMzNzB4cnJ0emNidzIwbktZNzB0RmpaU3U4dk1VNERFMFl3cFp5WVhnc1NreWhOZFZqVnRSeDhDU01ZYUgydFpISXRSQU14TVRnYWQ2TWJ3N1QwcHVn?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $74,000 September 7-13?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-7-13-2026",
-      "yes": 22,
-      "change24h": 4,
-      "vol24h": 12350,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-september-7-13-2026",
+      "yes": 10,
+      "change24h": -5,
+      "vol24h": 16140,
       "headlines": [
         {
           "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
@@ -131,9 +125,9 @@
       "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 47,
-      "change24h": 1,
-      "vol24h": 729906,
+      "yes": 48,
+      "change24h": 3,
+      "vol24h": 1250451,
       "headlines": [
         {
           "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
@@ -142,9 +136,9 @@
           "cat": "Tennis"
         },
         {
-          "title": "What this Kansas City Fed meeting means for the economy and inflation | Opinion",
-          "source": "Kansas City Star",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42OGdRRlRtTjNidjBsa01TLUFlb2lmeHBnRE1HVzF6SHBzYTVYREJ3UlFfYklOV1dSZHNGVmpqS2JMckZkazVrZGl2SV9fdXBqZWtaYi1PNTJaRnpDWTdHMEJ0WUhfb1nSAWdBVV95cUxNT3FFWnVFc1hIUEt2NWdYVzAxOVVyMW5odTBkaGpJR3NwVTFzV0NrRlFvQm1mMWplYm5nUjdIRGFpT0U3MEF0NGNLYXdNZVRKN3VXM3BTX2V3bWJVMDZRdWpuRlBvbUM4?oc=5",
+          "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVl95cFQxNzRvRG94em9IUUdpcXVwUmc1YXpURlY1amtsVF8tZkNmVGpEaDlNUmtJejllRVZtZmoxSEk4cllHRDc4ZVJad3RCbWpnMUw5ay15MkRmbkJhVnVFZk5iVi0wWWU2RDc4bkhYTVJFUnplaHZRVzdWdE45ekNqZlZ5THlWN1ZRczh6V1FBYmpNRVZpUzFmakxFSWU3NDYwRFdQdTE1ZnZSclpxVmFLQQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -153,9 +147,9 @@
       "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 54,
-      "change24h": 1,
-      "vol24h": 554674,
+      "yes": 53,
+      "change24h": -2,
+      "vol24h": 746429,
       "headlines": [
         {
           "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
@@ -164,64 +158,80 @@
           "cat": "Tennis"
         },
         {
-          "title": "What this Kansas City Fed meeting means for the economy and inflation | Opinion",
-          "source": "Kansas City Star",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42OGdRRlRtTjNidjBsa01TLUFlb2lmeHBnRE1HVzF6SHBzYTVYREJ3UlFfYklOV1dSZHNGVmpqS2JMckZkazVrZGl2SV9fdXBqZWtaYi1PNTJaRnpDWTdHMEJ0WUhfb1nSAWdBVV95cUxNT3FFWnVFc1hIUEt2NWdYVzAxOVVyMW5odTBkaGpJR3NwVTFzV0NrRlFvQm1mMWplYm5nUjdIRGFpT0U3MEF0NGNLYXdNZVRKN3VXM3BTX2V3bWJVMDZRdWpuRlBvbUM4?oc=5",
+          "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVl95cFQxNzRvRG94em9IUUdpcXVwUmc1YXpURlY1amtsVF8tZkNmVGpEaDlNUmtJejllRVZtZmoxSEk4cllHRDc4ZVJad3RCbWpnMUw5ay15MkRmbkJhVnVFZk5iVi0wWWU2RDc4bkhYTVJFUnplaHZRVzdWdE45ekNqZlZ5THlWN1ZRczh6V1FBYmpNRVZpUzFmakxFSWU3NDYwRFdQdTE1ZnZSclpxVmFLQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 50+ bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 3,
-      "change24h": -1,
-      "vol24h": 34051,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-september-2026-meeting-664",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 1060126,
       "headlines": [
         {
-          "title": "What this Kansas City Fed meeting means for the economy and inflation | Opinion",
-          "source": "Kansas City Star",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42OGdRRlRtTjNidjBsa01TLUFlb2lmeHBnRE1HVzF6SHBzYTVYREJ3UlFfYklOV1dSZHNGVmpqS2JMckZkazVrZGl2SV9fdXBqZWtaYi1PNTJaRnpDWTdHMEJ0WUhfb1nSAWdBVV95cUxNT3FFWnVFc1hIUEt2NWdYVzAxOVVyMW5odTBkaGpJR3NwVTFzV0NrRlFvQm1mMWplYm5nUjdIRGFpT0U3MEF0NGNLYXdNZVRKN3VXM3BTX2V3bWJVMDZRdWpuRlBvbUM4?oc=5",
-          "cat": "Macro"
+          "title": "September 11, 2026: Frances Tiafoe vs Ben Shelton Semi Finals match Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0Z5TkxOOXMyWjNsYi05cXFSRllUdTBFbFZtb0RLdi1SNDNiNjBBV05RN3owMUxVRTRpc2l4WGx4a2g1Zmc4cm5YWmhfVkZ4SWw4bGZ1UURaWVdxN0NwNHIyNUlsVEQ3dnMzNzB4cnJ0emNidzIwbktZNzB0RmpaU3U4dk1VNERFMFl3cFp5WVhnc1NreWhOZFZqVnRSeDhDU01ZYUgydFpISXRSQU14TVRnYWQ2TWJ3N1QwcHVn?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVl95cFQxNzRvRG94em9IUUdpcXVwUmc1YXpURlY1amtsVF8tZkNmVGpEaDlNUmtJejllRVZtZmoxSEk4cllHRDc4ZVJad3RCbWpnMUw5ay15MkRmbkJhVnVFZk5iVi0wWWU2RDc4bkhYTVJFUnplaHZRVzdWdE45ekNqZlZ5THlWN1ZRczh6V1FBYmpNRVZpUzFmakxFSWU3NDYwRFdQdTE1ZnZSclpxVmFLQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
-      "yes": 4,
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 28326,
+      "vol24h": 19819,
       "headlines": [
         {
-          "title": "Lions Star Jahmyr Gibbs: 'For Sure' Take Me With No. 1 Pick In Fantasy Football",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnB2RGg5MWtHSXV2TkNHRTBVa1I3cHphblNHOVl6RWFFczkzdENlN1pKV19pdWdTeWNPZXgxZ1lENEstM1dlckkxMm1MOFNxRjlneDR3dFdPU01ZQmE3aEdFVVNKWDJuUUh5WXpJNWMwb0otUk02NS16MWdDQlQydkNZUk90d9IBhgFBVV95cUxNUnB3ZXlKYVljeDg4anhKTHNEb2EweVpyWEdRM1ZXZTVFNlNJTjAtcDZ4OFlwZTVFQXFqZ3lIbFRFWmNxdFJiU0s5MURRdjlkVzZkOThlcXN2MFp2VTdhLW93VFVXam52TWpNZzAyZWtNRG1TTUNLZVpvT3pBdi1GZERDejdLUQ?oc=5",
+          "title": "‘He Hated Bron’s Guts,’ ‘Stay on That Side’ – Charles Barkley Catches Flak for Switching Up, Praising Lakers After LeBron James’ Exit",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DLTcwdC1LMjNYc2FLbjV5TzNUN3U3NWNWOHp3dGZaeG5jajRkUlh4NXhNaElFUV9feTVwZi1CZWdGamc5bGw0a3JwQmc2eUluLVRNM3NLZ05sdEtrZEZqMjhzZktEWENGVDJkc1JFdUk0dTVVUHgya29aUkNVRVk?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 16051,
+      "headlines": [
+        {
+          "title": "Photos: New dishes announced at Paycor ahead of Bengals season",
+          "source": "WKRC",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWNYSWtfMjM3eTZFNVpPUUZnUndKaThDd1BxazNLOVRjZFFhX1RQRFdralpDMzFUdk0wYlRialhIUS1CXy1JejJCck5LdjNZejVHQmdOU0JkenUyMmp3ZElSTkJFX2VzcjJZN3pQamN5aExmVW5feEM4RnotLWVWc0dkYURXUkp4UkRQbEhFMkFLQ1FrekxyclNWZ3MteHA2dDRSNFFrTnVwanpIbXBPZGdoUGRNaUpqUl8wdW00RVFaWmUtWGc?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Sacramento Kings win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-sacramento-kings-win-the-2027-nba-finals",
+      "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 14185,
+      "vol24h": 13061,
       "headlines": [
         {
-          "title": "Ben Simmons’ Kings Gamble Could Ignite His NBA Career Revival",
-          "source": "Stadium Rant",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDNFX3FMUTZOVGtrN3ZUei1lSWhwZ1kwbGRWOVUzQWE0UElzRHRENHdHQ010dTJfc2JPcDg3bk9xdUxBWnRvM0pwbG9ybDI1WVZVN2xOLTVCaVJjWmZvMkotS3czVDRhOGFwaEV1b3dVMVluMHg4dnYzbXJ6RFNFSXVtOHVNMS0wRkFuOFdZaC0yM2c?oc=5",
-          "cat": "NBA"
+          "title": "NFL Game Preview: Falcons at Steelers Stream of National Football League",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcThGaWRhYmI5bVFNa1BZeGo2UmNOYVJwWW4tWnJWcHhTRW5ackVKLW1veUZKWmsySHRZWjlEZUVjcEJjYkUyUFpiOEhBRXFpcUZadkozWXE4SjltNHN0VTZWQnM4cUZVS0JTSzYtT0dXYlBYYkQ2STdIWVZGZWpHYVFiZnNqZjhjNWc?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -233,16 +243,61 @@
       "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
       "yes": 46,
       "change24h": 19,
-      "vol24h": 139987,
+      "vol24h": 168575,
+      "headlines": []
+    },
+    {
+      "question": "Will Coco Gauff win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-coco-gauff-win-the-2026-womens-us-open",
+      "yes": 10,
+      "change24h": -12,
+      "vol24h": 39837,
+      "headlines": []
+    },
+    {
+      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
+      "yes": 26,
+      "change24h": 7,
+      "vol24h": 48066,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 18,
+      "yes": 16,
+      "change24h": -5,
+      "vol24h": 21661,
+      "headlines": []
+    },
+    {
+      "question": "Will Qinwen Zheng win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-qinwen-zheng-win-the-2026-womens-us-open",
+      "yes": 0,
       "change24h": -4,
-      "vol24h": 20039,
+      "vol24h": 244392,
+      "headlines": []
+    },
+    {
+      "question": "Will Mirra Andreeva win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-mirra-andreeva-win-the-2026-womens-us-open",
+      "yes": 12,
+      "change24h": 4,
+      "vol24h": 42847,
+      "headlines": []
+    },
+    {
+      "question": "LAPTOP listed on Coinbase within 30 days of TGE?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/laptop-listed-on-coinbase-within-30-days-of-tge",
+      "yes": 11,
+      "change24h": -4,
+      "vol24h": 11176,
       "headlines": []
     }
   ]
