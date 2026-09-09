@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-08T20:24:22.961Z",
+  "updated": "2026-09-09T01:51:41.087Z",
   "withNews": [
     {
-      "question": "US Open ATP: Frances Tiafoe vs Alex Michelsen",
+      "question": "US Open WTA: Jessica Pegula vs Emma Navarro",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-tiafoe-michels-2026-09-08",
-      "yes": 6,
-      "change24h": -51,
-      "vol24h": 2935198,
+      "url": "https://polymarket.com/event/wta-pegula-navarro-2026-09-08",
+      "yes": 38,
+      "change24h": -40,
+      "vol24h": 1445328,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -24,24 +24,46 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 55,
-      "change24h": 3,
-      "vol24h": 193040,
+      "question": "Will Trump say \"Crypto\" or \"Cryptocurrency\" or \"Bitcoin\" during RNC Convention?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-trump-say-crypto-during-rnc-convention-september-10",
+      "yes": 3,
+      "change24h": -4,
+      "vol24h": 9861,
       "headlines": [
         {
-          "title": "Will the Fed hike interest rates next week? These 3 economic reports could help decide its next move.",
-          "source": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1RTeGRfVzZPSzB2TEhReHJOYnE4UVgzZmxCRXJsc1hTVTZPdWZXX01XWnlYajc0d1RxVGZUR1hDNkdFeVd2Rk1zWElYTi1uUWlPaW9YODVlNkJOQk85RXlaVUx2Rzd3anVCaHVYUWtVbWUzNGNuVmRyXzNVYTQ1NXVRaW9JZHVnT0xYWElyX1U2eTUtU0R0dUZn?oc=5",
+          "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him",
+          "source": "pbs.org",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTGRXdHZ6bXY4RVNwUGd0NVRHVy1DLWJwZHNsZkRrd1BxZ3RBUUcwNl92eWtEcWQ0bUZHWGgtNGQzVDcta29FamdtMDFoT0s4ZHEwcXQ1X0kxOWJKTnhfaWJ3X0FuZDBTWXNfNGpWWXp4dXNxNXdNcjRab0txanItTENITFZrYXplRXVyNEM0NHI4a29GQzRMdkt6ZlpRQlIxY3pRVUtfOE93QUxpU1hnU3RZMFRPQkpCZl9GdE56b3B3c185VGpRNGxQcDR1Z9IB0wFBVV95cUxOby02QnJFMGpmUjFnMV85bG5PdjFrTUFRTWJsM3lNV1FGQ3d6UVZ1Zzk4MWRsY21CN2dNazFWalRibGFWLTM1dXhqbFBydzhVVWNuNVBaS1pSMWhNcjQtQ3JIb0FwRnhRaGNvYS1zRHhUQWJfWmVkcVpJSDJFZzdLLVM2VlZIX0pZN3RjdHJxajJDYjNBZFlhUTJQS04xc2NCeU4wTHhEbThnOW53TnN4dFM5T1ZwR1pGRFJEUWJVOTV2MDhHQTF0S2hWTGFneGVXeGlN?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "White House ups pressure on Kevin Warsh's Fed as Wall Street expects hike",
-          "source": "fortune.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1ZYZkI5azJEanM2elFUMDFVbFdUVmcwd0ducFRZT2c5SlEwZnhBcVpkZlo5bl80ZS1xVUlmYjdLSlRIQXBCMVBwbW5lQzhPN2E3dllKRkZ1eVVVeGxKMDVFUEY5VUp2QVFWNWY1ODUyVFRvMGRVU25BZVptQjNGeW12bVZrV3RVMVFz?oc=5",
+          "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-shelton-alcaraz-2026-09-08",
+      "yes": 24,
+      "change24h": 2,
+      "vol24h": 2501037,
+      "headlines": [
+        {
+          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
+          "source": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -51,79 +73,63 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 46,
       "change24h": -2,
-      "vol24h": 577004,
+      "vol24h": 632561,
       "headlines": [
         {
           "title": "Will the Fed hike interest rates next week? These 3 economic reports could help decide its next move.",
-          "source": "Business Insider",
+          "source": "businessinsider.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1RTeGRfVzZPSzB2TEhReHJOYnE4UVgzZmxCRXJsc1hTVTZPdWZXX01XWnlYajc0d1RxVGZUR1hDNkdFeVd2Rk1zWElYTi1uUWlPaW9YODVlNkJOQk85RXlaVUx2Rzd3anVCaHVYUWtVbWUzNGNuVmRyXzNVYTQ1NXVRaW9JZHVnT0xYWElyX1U2eTUtU0R0dUZn?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "White House ups pressure on Kevin Warsh's Fed as Wall Street expects hike",
-          "source": "fortune.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1ZYZkI5azJEanM2elFUMDFVbFdUVmcwd0ducFRZT2c5SlEwZnhBcVpkZlo5bl80ZS1xVUlmYjdLSlRIQXBCMVBwbW5lQzhPN2E3dllKRkZ1eVVVeGxKMDVFUEY5VUp2QVFWNWY1ODUyVFRvMGRVU25BZVptQjNGeW12bVZrV3RVMVFz?oc=5",
+          "title": "COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlJyMEZjMzY1WGZkdzZwdlJ3c0NYc1RBOU9yZkRYb1FpNjBCUElLSWU1ejVfemROSmhWOVBUWkhGV1VNWU1XTVlJd3VNcmlXdDZfc01taXJVTnppazFSS05iQ1A4Smw0OVNPS3l0VWNZenBVT1JONkg4U2RsaUozR2xWR3ZubUo3XzVlZXptNEhJOHZGelJtRl92aWRhLS1sSXplRm5TdUQ3Mk1SMnlpdHRiT3JXTk5IMDREWll0dGlsanlNQ1VNTA?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
       "yes": 54,
       "change24h": 2,
-      "vol24h": 11135,
+      "vol24h": 216438,
       "headlines": [
         {
           "title": "Will the Fed hike interest rates next week? These 3 economic reports could help decide its next move.",
-          "source": "Business Insider",
+          "source": "businessinsider.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1RTeGRfVzZPSzB2TEhReHJOYnE4UVgzZmxCRXJsc1hTVTZPdWZXX01XWnlYajc0d1RxVGZUR1hDNkdFeVd2Rk1zWElYTi1uUWlPaW9YODVlNkJOQk85RXlaVUx2Rzd3anVCaHVYUWtVbWUzNGNuVmRyXzNVYTQ1NXVRaW9JZHVnT0xYWElyX1U2eTUtU0R0dUZn?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "White House ups pressure on Kevin Warsh's Fed as Wall Street expects hike",
-          "source": "fortune.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQa1ZYZkI5azJEanM2elFUMDFVbFdUVmcwd0ducFRZT2c5SlEwZnhBcVpkZlo5bl80ZS1xVUlmYjdLSlRIQXBCMVBwbW5lQzhPN2E3dllKRkZ1eVVVeGxKMDVFUEY5VUp2QVFWNWY1ODUyVFRvMGRVU25BZVptQjNGeW12bVZrV3RVMVFz?oc=5",
+          "title": "COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlJyMEZjMzY1WGZkdzZwdlJ3c0NYc1RBOU9yZkRYb1FpNjBCUElLSWU1ejVfemROSmhWOVBUWkhGV1VNWU1XTVlJd3VNcmlXdDZfc01taXJVTnppazFSS05iQ1A4Smw0OVNPS3l0VWNZenBVT1JONkg4U2RsaUozR2xWR3ZubUo3XzVlZXptNEhJOHZGelJtRl92aWRhLS1sSXplRm5TdUQ3Mk1SMnlpdHRiT3JXTk5IMDREWll0dGlsanlNQ1VNTA?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "US Open ATP: Ben Shelton vs Carlos Alcaraz",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-shelton-alcaraz-2026-09-08",
-      "yes": 23,
-      "change24h": -1,
-      "vol24h": 680034,
+      "question": "Fed emergency rate cut before 2027?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-emergency-rate-cut-before-2027",
+      "yes": 4,
+      "change24h": -2,
+      "vol24h": 10500,
       "headlines": [
         {
-          "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUERSTnI4OU04Ql9JaFpfaFQtYjNLZTduMlQtbWFYWldDRndMd1pld3gwYXBGY1h3SmJmcFNCbWV2eV9HbWZrZTBFSXBtMFMwN1NyRC0wYkQzZHZUaVhtclRPRFQ4WG1oR1puU0dCcDlBeVhXLTQ0RnVPbWEzV3FnTy1UTC1waGpNTWFhYlJBZER3SUlBTWYydFdYb2M1S21pMGlEZmZsTDF1S25ZNVNHOUNnNmdseWNIVXdPdERtUVFUTm9rNVBDd1pSODA0eVdZT1E?oc=5",
-          "cat": "Tennis"
+          "title": "Will the Fed hike interest rates next week? These 3 economic reports could help decide its next move.",
+          "source": "businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1RTeGRfVzZPSzB2TEhReHJOYnE4UVgzZmxCRXJsc1hTVTZPdWZXX01XWnlYajc0d1RxVGZUR1hDNkdFeVd2Rk1zWElYTi1uUWlPaW9YODVlNkJOQk85RXlaVUx2Rzd3anVCaHVYUWtVbWUzNGNuVmRyXzNVYTQ1NXVRaW9JZHVnT0xYWElyX1U2eTUtU0R0dUZn?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
-          "source": "olympics.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 7,
-      "change24h": -1,
-      "vol24h": 12955,
-      "headlines": [
-        {
-          "title": "Julian Edelman: Seahawks Are 'A Storm Brewing To Wipe Out Teams'",
-          "source": "foxsports.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcTQ0d2d6aXI0THlPTXQ5TWNuNUdicXo5Tnp0bV9oS1ZzX196THk3WE9MUDZ3X19Fd3Mwbno0aWNhYTRlQ24tYkpyVVB2WlN4OVFicUZWWW91V3hGalhyVlFsTy1kNnVqcUZHejhOa19PdWxvcnNRR0RpTHJBUzRGYXBNZWNrWE5nVEtr0gGLAUFVX3lxTE1ISVZNeUZJamZPdUhDb0pJaWVJT1gwVVlCS2YwYm5jSHN2eWE4R0pXYkR0U0VEcVhaUHRWLTZSMmpaQVhaVURvZ0tldzhaVFdrTnhOb3BaRi10dlkzWUlDTnY2T3otNmN4SWs3WmpCcVowenZ3bFRXQW9yT29jakptWHd5S2lvZnFsc2M?oc=5",
-          "cat": "NFL"
+          "title": "COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlJyMEZjMzY1WGZkdzZwdlJ3c0NYc1RBOU9yZkRYb1FpNjBCUElLSWU1ejVfemROSmhWOVBUWkhGV1VNWU1XTVlJd3VNcmlXdDZfc01taXJVTnppazFSS05iQ1A4Smw0OVNPS3l0VWNZenBVT1JONkg4U2RsaUozR2xWR3ZubUo3XzVlZXptNEhJOHZGelJtRl92aWRhLS1sSXplRm5TdUQ3Mk1SMnlpdHRiT3JXTk5IMDREWll0dGlsanlNQ1VNTA?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -133,7 +139,7 @@
       "url": "https://polymarket.com/event/atp-khachan-blockx-2026-09-09",
       "yes": 61,
       "change24h": 0,
-      "vol24h": 34677,
+      "vol24h": 35350,
       "headlines": [
         {
           "title": "Tennis 2026 schedule, Grand Slam dates and tournament calendar for ATP and WTA Tours",
@@ -150,97 +156,73 @@
       ]
     },
     {
-      "question": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "question": "Will Los Angeles Clippers win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-los-angeles-clippers-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 34356,
+      "vol24h": 10616,
       "headlines": [
         {
-          "title": "UConn's Jordan Hawkins traded to Memphis Grizzlies, will team with Cam Spencer",
-          "source": "ctinsider.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN253WEg0ZmJ5VjdqVHdFdXE1c2tTSXJuZ1N3RmhXUldxblh1WDQ0bGtYMkhMLXhwbEZNbmRNTXhvNjFTRTFHai1ndzMxQzJEWTFjV2s2eUtsNHJRSlFXR1VrSnRFRkRqU09jaDNnSmJSYlBVNUNTT3hHTmdnMDVoemJjVHE2TzFHSWlZU05YOHVwQjNUX19lX0dKbS1jZHJpekR6NWlRSl9EcDNoVTJCdkVNWVFjV0hkVkJF?oc=5",
+          "title": "What’s holding up the Clippers’ Kawhi Leonard trade with the Toronto Raptors?",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGVMazlQNzF2dTBwOC02ZFRIbG5rbWhUc2JyMWlLcU9RVmFXbkFuVFBqdkNFVG5OV1BXYU42bUdwdzBfelIyTmhVSV9naWRGVkYxSjJOWXc4ck5vR0lncGY3R1lPUUtDTERCNnlKU3FDbUxSNUhPY2NBOHpjMTc3VHF2dXZraVZmeG54cWFEaFh0aVBKMEN0M0VBWkQyemROUWdIeUxn?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
-      "yes": 4,
+      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
+      "yes": 11,
       "change24h": 0,
-      "vol24h": 12531,
+      "vol24h": 8380,
       "headlines": [
         {
-          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
-          "source": "olympics.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSlVic1hnaHE1aGpWNTh4NERBRFZzTWFld1VrNUJONjEwNWI2Rk9IejJOWnVqV1dTYUdxOTBfMXQ3WWFmMDhYQ1loZWNFak1mSzJPZmN0OFpham5Rb3EtRlRXMUtLRFEtTXRvcXM0YnVZV044b1Y0OGtGRG9ocGxmQWJ6Ul9kRGpSMmltbXZkRHlmM1RFeHBjcjR1dzQ5U0paUUFKeQ?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Replay | ATP, WTA semifinal results at the Cincinnati Open",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd21veVVsTzk2R0d2dFluODBfM0JJSEgyNG9nSXBuYjIyWEN5ZnJ0aFU5dllkTDJUUzZ6dFpGcEtKZlBtejdPSzJWTC1STmNtRWxrY3I4VFl4cGN1eUZjVXFqdTZER28zRU04UENQQU55OHJHWXgtS3VGZWFqUEpQcHBsWlBKRFpqNFlsNEJMY3NOUzBOeExoaEZMNldlbEdpeXNXb0xjYVFadFRETDhtUjR1SE1RWHlJ?oc=5",
-          "cat": "Tennis"
+          "title": "Dillon Jones Lands Exhibit 10 Deal with Philadelphia - NBA News | Fantasy Basketball",
+          "source": "RotoBaller",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeldSVXlOQ3U4a2xlaGl6clRXbkxNMk5ONUFJWUJDZy1LUlJkcS1GWmdzZnFkdFJoZk5JX0lkTzI0b2xjYzc0bDNhakNyaFp1QnFGWDRIZWZmOGNJQno0NzR1dTVYRDR6RUVmZ2RxdEZfTEQwTEttUmxaZDAwdm5hS0tlb0VCV01Ldkhaa2dtOHJCU19Lb1FKdHFuZW5zWFpQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
-      "yes": 19,
-      "change24h": 10,
-      "vol24h": 64652,
+      "question": "Will Madrid host the final of the 2030 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-madrid-host-the-final-of-the-2030-fifa-world-cup-20260805200159831",
+      "yes": 39,
+      "change24h": -19,
+      "vol24h": 11782,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $80,000 on September 10?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-80k-on-september-10-2026",
+      "yes": 27,
+      "change24h": -10,
+      "vol24h": 9233,
       "headlines": []
     },
     {
       "question": "Will Aryna Sabalenka win the 2026 Women’s US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-aryna-sabalenka-win-the-2026-womens-us-open",
-      "yes": 38,
-      "change24h": 8,
-      "vol24h": 55614,
+      "yes": 39,
+      "change24h": 9,
+      "vol24h": 56508,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $82,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 59,
-      "change24h": -7,
-      "vol24h": 39924,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-3",
-      "yes": 89,
-      "change24h": 7,
-      "vol24h": 33146,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
-      "yes": 63,
-      "change24h": 7,
-      "vol24h": 19389,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 80,
-      "change24h": 6,
-      "vol24h": 41603,
+      "question": "Will another city host the final of the 2030 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
+      "yes": 41,
+      "change24h": 9,
+      "vol24h": 9278,
       "headlines": []
     },
     {
@@ -249,16 +231,34 @@
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
       "yes": 41,
       "change24h": -6,
-      "vol24h": 29275,
+      "vol24h": 29383,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $74,000 September 7-13?",
+      "question": "Will Bitcoin dip to $77,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-7-13-2026",
-      "yes": 20,
-      "change24h": 6,
-      "vol24h": 16690,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-3",
+      "yes": 85,
+      "change24h": 5,
+      "vol24h": 33205,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-september-2026",
+      "yes": 25,
+      "change24h": 5,
+      "vol24h": 21947,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $75,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
+      "yes": 60,
+      "change24h": 5,
+      "vol24h": 18529,
       "headlines": []
     }
   ]
