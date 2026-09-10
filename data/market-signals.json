@@ -1,20 +1,14 @@
 {
-  "updated": "2026-09-10T01:47:55.663Z",
+  "updated": "2026-09-10T10:09:40.624Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $80,000 September 7-13?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-7-13-2026",
-      "yes": 53,
-      "change24h": -21,
-      "vol24h": 12005,
+      "yes": 47,
+      "change24h": -30,
+      "vol24h": 13746,
       "headlines": [
-        {
-          "title": "US Stock Market Close | \"Market Rescue\" Backfire Triggers US Treasury Sell-Off; Indices Post Third Consecutive Daily Decline. SK Hynix Rises 7% for Fifth Straight Session, Hitting New High; Micron Gains Nearly 3%. Bitcoin Records First Golden Cross in Nea",
-          "source": "news.futunn.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZyS1hoQTNiVTZOMm01d2xfazJVaXhIa2c2TTk0eEJNQkctMktjdm5la215X21Sc1hHVzNFaERYYjhEbmM1RnUtcER2ODVjWVA3SjNzZGtpbUZrNl9OUWhJM3hZRkJtMDRCeUdpUkxhdkZiSzZJalhCQkUwd3E0eEhtdzk3VUZFaHYyNUc3YTlDV2xRRndLclhDSGNKTzFoZWJVaXZWM1RzUQ?oc=5",
-          "cat": "Markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -27,16 +21,10 @@
       "question": "Will Bitcoin reach $82,000 September 7-13?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82k-september-7-13-2026",
-      "yes": 23,
-      "change24h": -15,
-      "vol24h": 16407,
+      "yes": 18,
+      "change24h": -22,
+      "vol24h": 15993,
       "headlines": [
-        {
-          "title": "US Stock Market Close | \"Market Rescue\" Backfire Triggers US Treasury Sell-Off; Indices Post Third Consecutive Daily Decline. SK Hynix Rises 7% for Fifth Straight Session, Hitting New High; Micron Gains Nearly 3%. Bitcoin Records First Golden Cross in Nea",
-          "source": "news.futunn.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZyS1hoQTNiVTZOMm01d2xfazJVaXhIa2c2TTk0eEJNQkctMktjdm5la215X21Sc1hHVzNFaERYYjhEbmM1RnUtcER2ODVjWVA3SjNzZGtpbUZrNl9OUWhJM3hZRkJtMDRCeUdpUkxhdkZiSzZJalhCQkUwd3E0eEhtdzk3VUZFaHYyNUc3YTlDV2xRRndLclhDSGNKTzFoZWJVaXZWM1RzUQ?oc=5",
-          "cat": "Markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -46,19 +34,13 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $80,000 on September 11?",
+      "question": "Will Ethereum reach $2,600 September 7-13?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-september-11-2026",
-      "yes": 20,
-      "change24h": -12,
-      "vol24h": 18166,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2600-september-7-13-2026",
+      "yes": 25,
+      "change24h": -19,
+      "vol24h": 13911,
       "headlines": [
-        {
-          "title": "US Stock Market Close | \"Market Rescue\" Backfire Triggers US Treasury Sell-Off; Indices Post Third Consecutive Daily Decline. SK Hynix Rises 7% for Fifth Straight Session, Hitting New High; Micron Gains Nearly 3%. Bitcoin Records First Golden Cross in Nea",
-          "source": "news.futunn.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEZyS1hoQTNiVTZOMm01d2xfazJVaXhIa2c2TTk0eEJNQkctMktjdm5la215X21Sc1hHVzNFaERYYjhEbmM1RnUtcER2ODVjWVA3SjNzZGtpbUZrNl9OUWhJM3hZRkJtMDRCeUdpUkxhdkZiSzZJalhCQkUwd3E0eEhtdzk3VUZFaHYyNUc3YTlDV2xRRndLclhDSGNKTzFoZWJVaXZWM1RzUQ?oc=5",
-          "cat": "Markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -68,70 +50,16 @@
       ]
     },
     {
-      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
-      "yes": 25,
-      "change24h": 4,
-      "vol24h": 64538,
-      "headlines": [
-        {
-          "title": "Will Elena Rybakina Become World No. 1 Today If She Defeats Qinwen Zheng? WTA Rankings Explained",
-          "source": "Athlon Sports",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXg0U1N4MGV3NmVURHoxMmNyc1BFc25vVnBHOWZCZDZlSTZrWVZKb2VNdDc5cmt4dDdsSS1NeDJoemNNM0tVUkI4a3NXTmNVUEVrNjdNbWtQRjdEMGQ1V3lqTmdFaGNQZ1VsNHVkeGVmVmN3VUJ6blFwbUh3VElVSzZtdmh3OUFFazF5UGtTbnc1R2dxSXpFM3dUWDBRbWNNaWxjYk5n?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Aryna Sabalenka win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-aryna-sabalenka-win-the-2026-womens-us-open",
-      "yes": 37,
-      "change24h": -2,
-      "vol24h": 59136,
-      "headlines": [
-        {
-          "title": "Aryna Sabalenka Wants WTA to Eliminate ‘Mandatory Events’ From Tennis Schedule",
-          "source": "Athlon Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb01MUFZlcHp3R0VoUXhLVGMydmY4Z1Q1dGZBdHdMQk9ERXY1YXRKWktHR1JiUXpncFlCcG55NHM5VTlDaF9NeHRkbnJzNzVuM3VGQUQ5amdnRlVjMUJTbXViZVc2ekhYazU2ZlQtSEpEOTl1LWNyQTVPRFQ0NHVHMlB4ckxhVE1aRE1sNUI3VG8?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate cut happen in 2026?",
+      "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
-      "yes": 6,
-      "change24h": 1,
-      "vol24h": 38450,
-      "headlines": [
-        {
-          "title": "August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike?",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjZmcGNFb2ZSUi1zVXJrenkxVXlhVENBcUxCZi1mSDRvczhqSDdGdGtVenpPWDlGSjlYWkVWNWNZZDVlU1lWS1U5S3VxM180Y0RNOEtiX0RoQy1ETHU5Sm9fblcxc1h1cC1uNFBHakF4MS1adjZfM3VxSjFsOHQ4cWowYWJ4d3d5cHZvZnhzMExCVVE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed rate hike hinges on two key inflation reports in the next two days",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVl95cFQxNzRvRG94em9IUUdpcXVwUmc1YXpURlY1amtsVF8tZkNmVGpEaDlNUmtJejllRVZtZmoxSEk4cllHRDc4ZVJad3RCbWpnMUw5ay15MkRmbkJhVnVFZk5iVi0wWWU2RDc4bkhYTVJFUnplaHZRVzdWdE45ekNqZlZ5THlWN1ZRczh6V1FBYmpNRVZpUzFmakxFSWU3NDYwRFdQdTE1ZnZSclpxVmFLQQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 54,
-      "change24h": -1,
-      "vol24h": 31443,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
+      "yes": 67,
+      "change24h": 3,
+      "vol24h": 15284,
       "headlines": [
         {
           "title": "A Tiny Shift in the Inflation Rate Could Decide the Fed’s Next Move",
-          "source": "wsj.com",
+          "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2VrRkdPcXF6U3ZvMTdqQ1pLT2Jua0N1MHlyQXM4c2hNN1M0SEY4bHZMakxwZm9jRjRKUHpsdnFuemtxSjFLZUhSVFJSTE41NzJQajl5M09PSlZNbkczMlZHTGN4U2wyalN2SnJiZG1JT3Roem00c0hmRXlRX3gtZzRNM2RBaS05VkRabUVSenVyUUV1ODQwUUNyTlE?oc=5",
           "cat": "Macro"
         },
@@ -144,12 +72,34 @@
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "question": "US Open WTA: Aryna Sabalenka vs Jessica Pegula",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-sabalen-pegula-2026-09-10",
+      "yes": 65,
+      "change24h": 2,
+      "vol24h": 32748,
+      "headlines": [
+        {
+          "title": "WTA at risk of bankruptcy if current financial losses continue",
+          "source": "The First Serve",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQU90dkdfZVlMY0pqWkNiSUxXUVZwWUozMGZ2WWpPODd0Z1IzNndudlNvT19Cb1ZNeXNOWENXM0dwVnFMLWJMSnA0LW1QVlY4MzNydldmaDBtZE9ScC0yZmh0S2lrZTNIeE1tNnI0bEN5VHdlTFZCRGF5M3hkWXVBaGdaUzF3SjhhWGstRVhUQUtrRGNNblVHbFNuNXVLOHRDa3c?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Jessica Pegula advanced to her third consecutive US Open semifinal after edging Emma Navarro in a thrilling three-set showdown, 3-6, 6-4, 6-3, on Sept. 9, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb1NIR1VwTHRXNjlZb1JIZGdVaENVTGgzdE5odWdBc212eUVhNURva19KN3dHeG1TZUhEYnppMC1JQ3d0SkctZFlka3VNZi1INW5BUDVSaXF1UlFBWnVSZkp0NFhadVpMWkg5YjJZWXEzSjdRWTY5TC1TSUtXRi0xbzdhWTI0TVpuQ29FMVluYmdUcmNEU29QOTVMbXc4VEg3Q1VJTV92eHpxSE01NjdhVWMyNmJlYzBnZGR4QVJMc1BoRTNjQlgwT05WanZULTFWQmlxd0tybDlKVG1La0E?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 4,
-      "change24h": 1,
-      "vol24h": 14244,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
+      "yes": 46,
+      "change24h": -1,
+      "vol24h": 1290770,
       "headlines": [
         {
           "title": "August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike?",
@@ -159,142 +109,144 @@
         },
         {
           "title": "Fed rate hike hinges on two key inflation reports in the next two days",
-          "source": "MarketWatch",
+          "source": "marketwatch.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVl95cFQxNzRvRG94em9IUUdpcXVwUmc1YXpURlY1amtsVF8tZkNmVGpEaDlNUmtJejllRVZtZmoxSEk4cllHRDc4ZVJad3RCbWpnMUw5ay15MkRmbkJhVnVFZk5iVi0wWWU2RDc4bkhYTVJFUnplaHZRVzdWdE45ekNqZlZ5THlWN1ZRczh6V1FBYmpNRVZpUzFmakxFSWU3NDYwRFdQdTE1ZnZSclpxVmFLQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 7,
-      "change24h": 0,
-      "vol24h": 37394,
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 54,
+      "change24h": 1,
+      "vol24h": 866329,
       "headlines": [
         {
-          "title": "Live results, best moments and analysis from Seahawks-Patriots",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2tNTG5WQWFmakk5OFduYmZNbnJRcjdoWGs4eFhKUHFzU2UwaGtlbVY4Z1pWa1NHUmstdDZ1eDI3YlNUY1VqaWw1YzZPMWt4T05HQzljYlF4UWZjZE9vOVYwUXZYX3RJWGZSa0dlMXRWRFY4QUo5RFFQMTBuWC1PSFVyTG5mQ0lIV004THUwaWFsZVJ5ZXhUSHd6YnVPQ2FUSGVQQmlYckhxLUkyWFMxWHJyQ0kxSDhRd1haSjR0Z2RwdG5NVDhrTWxJZUxBbnhkN2pRSE5FSnpydnVrWkNPdzRR?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Las Vegas Raiders win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-las-vegas-raiders-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 32048,
-      "headlines": [
-        {
-          "title": "‘They’re Gonna Ruin This Man’s Career’ — Ex-Broncos LB Rips Raiders Over Brock Bowers’ New Injury Before Week 1",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83VnNGS3prb2ZlNE5pYWpwMW5BZEdTNVA1VW85aUVFLVZCdVg0UFFQeUpYOElxWE5yZDNfMVpEcC1mR1BrOUxLbHRDN1Z5SUlJR1A1MnZyamRTNnlld0FMT0dnUUMxQTR4YTBwTDdZQVhERUFGTlVmUHhVRVR2dw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the New England Patriots win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 23663,
-      "headlines": [
-        {
-          "title": "Live results, best moments and analysis from Seahawks-Patriots",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2tNTG5WQWFmakk5OFduYmZNbnJRcjdoWGs4eFhKUHFzU2UwaGtlbVY4Z1pWa1NHUmstdDZ1eDI3YlNUY1VqaWw1YzZPMWt4T05HQzljYlF4UWZjZE9vOVYwUXZYX3RJWGZSa0dlMXRWRFY4QUo5RFFQMTBuWC1PSFVyTG5mQ0lIV004THUwaWFsZVJ5ZXhUSHd6YnVPQ2FUSGVQQmlYckhxLUkyWFMxWHJyQ0kxSDhRd1haSjR0Z2RwdG5NVDhrTWxJZUxBbnhkN2pRSE5FSnpydnVrWkNPdzRR?oc=5",
-          "cat": "NFL"
+          "title": "August CPI Seen Cooling, but Will It Prevent a Fed Rate Hike?",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjZmcGNFb2ZSUi1zVXJrenkxVXlhVENBcUxCZi1mSDRvczhqSDdGdGtVenpPWDlGSjlYWkVWNWNZZDVlU1lWS1U5S3VxM180Y0RNOEtiX0RoQy1ETHU5Sm9fblcxc1h1cC1uNFBHakF4MS1adjZfM3VxSjFsOHQ4cWowYWJ4d3d5cHZvZnhzMExCVVE?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Sam Darnold injures hip on first drive of opener vs. Patriots, questionable to return",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjR0Um0tblhEa2pTUkxSODZ6VGFpT0U5a2hEa2pGOVZlY19RQ0NocEhyOEp4alZack0xMW45QXl6NnVLclZtWGJud2dmN0JBQ3VYMEcxeU5LOUphQktkNzJVRzk0RWN1OHRpTXdYd1prUE5Qd1JfcVM0eE5NeEt1VzltcWhQR0JqVHY3eHF2TUN1SzA?oc=5",
-          "cat": "NFL"
+          "title": "Fed rate hike hinges on two key inflation reports in the next two days",
+          "source": "marketwatch.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVl95cFQxNzRvRG94em9IUUdpcXVwUmc1YXpURlY1amtsVF8tZkNmVGpEaDlNUmtJejllRVZtZmoxSEk4cllHRDc4ZVJad3RCbWpnMUw5ay15MkRmbkJhVnVFZk5iVi0wWWU2RDc4bkhYTVJFUnplaHZRVzdWdE45ekNqZlZ5THlWN1ZRczh6V1FBYmpNRVZpUzFmakxFSWU3NDYwRFdQdTE1ZnZSclpxVmFLQQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 2,
+      "question": "Will the New Orleans Saints win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 19746,
+      "vol24h": 37722,
       "headlines": [
         {
-          "title": "Lakers release new dazzling ‘specter’ jerseys",
-          "source": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPai1pREt1YkQyRGl1ajhvSVFqVExjU2p1Z3YzQUFpd1ktREowX0Flb1BnNTUtOVl0dlczTFZwbUU2b29zM0hvZXN1Q21ISkJ0dmRXVy1yOUpBWlhfdlNHR0dZTlNZVXZJcXhxU3NkaWMzVDhha0dEaVFuanFhakhaYU9xd3Y4bXN3WV84?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Magic explained why Bird was never his matchup during the Lakers-Celtics games",
+          "title": "“Does it have to do with me being fat and slow?” – Derik Queen addresses the fanbase doubts surrounding his long-term fit in New Orleans",
           "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONmtqX1ZtcFV4eHRhakdMUWwzTFNpYXQyQXZoeDZKcXJNcEY0RGlWTXN0dE1TbERzeTZVWUxvelJvRjlQcnN0QVNwYWFtbHNpakRLdTlnb2NXSzJhUEFzT20yOWMydGE5eW1vS3VDcE11UVFHYnNlU0FxRWVtMDJyYUJjSGVVSEJCemRoaml3N0trV09zeGN0ZHp4NzkyRHEza3ZFQ1RFLW1OT2YxQW5WOTVWRW5xaWJlZWFIVW1hR1FpWWg0LTljTFFacnVLaFpG?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUnpRR29iMGZvMFQzdDgwYmtjZjc1ZTUzYlUtTUlMeU5Ea2wzSEp1SzFYTzQ2MVdaV0QwVWpwYk05ekZuR0t0QV9YaTdVTjZnN2ZKZVNmN3ZjNDZpRVJ2RXk4SVhhNUdsUXNUOVY2QTlWZmMyMDQzTkZoQ2FFbU0xeHR3NTZGZElEUXNlcG9JbTNaVmVjUGtxN2dOU1hyVUE5SXUwaTlwTkFuWTFCRUpsblFrSndST0M2NTlMNXdnX09IM2VGaDhRRmxfdw?oc=5",
           "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "US Open WTA: Coco Gauff vs Elena Rybakina",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-09-10",
+      "yes": 48,
+      "change24h": 0,
+      "vol24h": 31951,
+      "headlines": [
+        {
+          "title": "WTA at risk of bankruptcy if current financial losses continue",
+          "source": "The First Serve",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQU90dkdfZVlMY0pqWkNiSUxXUVZwWUozMGZ2WWpPODd0Z1IzNndudlNvT19Cb1ZNeXNOWENXM0dwVnFMLWJMSnA0LW1QVlY4MzNydldmaDBtZE9ScC0yZmh0S2lrZTNIeE1tNnI0bEN5VHdlTFZCRGF5M3hkWXVBaGdaUzF3SjhhWGstRVhUQUtrRGNNblVHbFNuNXVLOHRDa3c?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Fear grows with the WTA: on the brink of bankruptcy",
+          "source": "Puntodebreak",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHBVZzdmVUlYcHhGMFFnNnliek9oTmh5dTBFVDVTT0VMOC13UkwyY1VfX2tjN3dCNXJTamxlN2ZwWmotb2JOQ3VRaFI0Qy1abDdlRktfUDREcEg1UXNsMFlRdEliQWdyX2ZZM0JNQ1FlLWE2MDR3NGkzdGREVVdZOEZneFllTGVHd20yZTREYW1SYmI2MlRhTQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 24461,
+      "headlines": [
+        {
+          "title": "Jessica Pegula advanced to her third consecutive US Open semifinal after edging Emma Navarro in a thrilling three-set showdown, 3-6, 6-4, 6-3, on Sept. 9, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb1NIR1VwTHRXNjlZb1JIZGdVaENVTGgzdE5odWdBc212eUVhNURva19KN3dHeG1TZUhEYnppMC1JQ3d0SkctZFlka3VNZi1INW5BUDVSaXF1UlFBWnVSZkp0NFhadVpMWkg5YjJZWXEzSjdRWTY5TC1TSUtXRi0xbzdhWTI0TVpuQ29FMVluYmdUcmNEU29QOTVMbXc4VEg3Q1VJTV92eHpxSE01NjdhVWMyNmJlYzBnZGR4QVJMc1BoRTNjQlgwT05WanZULTFWQmlxd0tybDlKVG1La0E?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Jessica Pegula win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-jessica-pegula-win-the-2026-womens-us-open",
+      "yes": 13,
+      "change24h": 0,
+      "vol24h": 24426,
+      "headlines": [
+        {
+          "title": "Jessica Pegula advanced to her third consecutive US Open semifinal after edging Emma Navarro in a thrilling three-set showdown, 3-6, 6-4, 6-3, on Sept. 9, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb1NIR1VwTHRXNjlZb1JIZGdVaENVTGgzdE5odWdBc212eUVhNURva19KN3dHeG1TZUhEYnppMC1JQ3d0SkctZFlka3VNZi1INW5BUDVSaXF1UlFBWnVSZkp0NFhadVpMWkg5YjJZWXEzSjdRWTY5TC1TSUtXRi0xbzdhWTI0TVpuQ29FMVluYmdUcmNEU29QOTVMbXc4VEg3Q1VJTV92eHpxSE01NjdhVWMyNmJlYzBnZGR4QVJMc1BoRTNjQlgwT05WanZULTFWQmlxd0tybDlKVG1La0E?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 20062,
+      "headlines": [
+        {
+          "title": "NFL Upset Predictions and Picks for Week 1 (Will Broncos Upset Chiefs on Monday Night Football?)",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlhNRE5LTXFQemxDZnZHam96WDZJSkxETmd1UGhiOHJISU9YQUNqOFdzQlFMN2VIeEZrZXRtQU96bXAwTVB1UWtpajdnM1dKUGgydWFmdGVSbU1HZlB4Z2lHaHlQSHpzTnh6ZVFkVVJzTlNzYXNDUGNCWEJRcmkyWDNvc05hd2doY19kcGwzVUhGZWZkOUlJcW1PMU9GaExXa2p0bHU5aXB0UHVmOXc3ZjlPU0FGQVlKN0kzY3Y5R1BTYy04Um5ZaF9iZXYzUQ?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Amount wagered in Missouri sports betting fell in July, despite World Cup in Kansas City",
+          "source": "KCUR",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGRnczhXWWo4U1FxUDFZQk5seTVfdXM4SDBGYkJveVJKQ1RHNGlGeS0yRDFMYkZJMUlhWVFhUTZhNHdtYko5RmMwOG4tV3lKTVU1czFzUllyNjJIMkJSNHlvZEFZMGZiQWdraC1yYjFZMmN1c25pS3RBWlNsY0ZUQjROdTdnbmV2dGxKYmRvOWdWWGhLM1poRjZ0bkI0VkFCVlZfZjdBRHE3cmZyMWpTaU9GV1JOZ3lDNkdFTThCM1B4S1lu?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Ben Shelton win the 2026 Men's US Open?",
+      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
-      "yes": 37,
-      "change24h": 30,
-      "vol24h": 269867,
+      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
+      "yes": 26,
+      "change24h": 7,
+      "vol24h": 60299,
       "headlines": []
     },
     {
       "question": "Will Alexander Zverev win the 2026 Men's US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-alexander-zverev-win-the-2026-mens-us-open",
-      "yes": 48,
-      "change24h": 21,
-      "vol24h": 209001,
-      "headlines": []
-    },
-    {
-      "question": "US Open ATP: Alexander Zverev vs Botic van de Zandschulp",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-zverev-zandsch-2026-09-09",
-      "yes": 96,
-      "change24h": 7,
-      "vol24h": 2368864,
-      "headlines": []
-    },
-    {
-      "question": "Will Karen Khachanov win the 2026 Men's US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-karen-khachanov-win-the-2026-mens-us-open",
-      "yes": 7,
-      "change24h": 5,
-      "vol24h": 132728,
-      "headlines": []
-    },
-    {
-      "question": "Will Jessica Pegula win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-jessica-pegula-win-the-2026-womens-us-open",
-      "yes": 12,
-      "change24h": 4,
-      "vol24h": 34408,
-      "headlines": []
-    },
-    {
-      "question": "LAPTOP listed on Coinbase within 30 days of TGE?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/laptop-listed-on-coinbase-within-30-days-of-tge",
-      "yes": 10,
-      "change24h": -4,
-      "vol24h": 11494,
+      "yes": 51,
+      "change24h": 6,
+      "vol24h": 159528,
       "headlines": []
     }
   ]
