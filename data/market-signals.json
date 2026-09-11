@@ -1,63 +1,19 @@
 {
-  "updated": "2026-09-11T01:46:38.184Z",
+  "updated": "2026-09-11T10:06:55.712Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $80,000 September 7-13?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-7-13-2026",
-      "yes": 22,
-      "change24h": -31,
-      "vol24h": 11815,
+      "yes": 19,
+      "change24h": -29,
+      "vol24h": 10774,
       "headlines": [
         {
-          "title": "[**LIVE@STREAMs**] 49ers v Rams Nfl 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGQ2dFFVd0Rld3g2VzZWOHgtZUJ5VmNOMlJFem5rQmVVNjhTUVBWc2ZPblllbjlqS0J5TWswVll2V1MwTUVrZkpOcmx5MGx6aHRJY0p4ekVlZzNaZWU0SVFZS2V4R2tCc2VFWFg4Zzh0QWtmUklQMHBqMk5KZUlQTHI1MGF4OGlVcW00Q3h6eTJ0OGVUYkNiVkc2WG1ubTNONS1xWTNGWkdiaWVrMXNsTDNqWXpDY3hTZHlNdDhhSV9ENkFleElYYVlVTUUzdw?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "(sTrEaMs Coverage)! 49ers v Rams Nfl Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlpYeWpELWk0YVRaV0ZFdTRnTUg4TGk2czljSW1TbEx5bXJoYTBnR0NYdkJoaUU3NmpKMTlTNkZwcW9kMWdkZ0M3MWhaNmJIYVUxSnNhNEc2NVEyS2pCbjFKcDBMYVd6SjlEaDVHcWZvTThhd3pyTzRJMkhaV2l0MUkwOGFyOXJFMEdEVHRMNklFMXMyU1Z0b3F0N1dDN3FGZXJHc2RVNHZ2NFV5alNCQjhBMWt6OXJscEM4UlhJaVRmYjlIYWpCaklmN051TWwydzktZjc4RzQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $76,000 September 7-13?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-september-7-13-2026",
-      "yes": 77,
-      "change24h": 28,
-      "vol24h": 17454,
-      "headlines": [
-        {
-          "title": "[**LIVE@STREAMs**] 49ers v Rams Nfl 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGQ2dFFVd0Rld3g2VzZWOHgtZUJ5VmNOMlJFem5rQmVVNjhTUVBWc2ZPblllbjlqS0J5TWswVll2V1MwTUVrZkpOcmx5MGx6aHRJY0p4ekVlZzNaZWU0SVFZS2V4R2tCc2VFWFg4Zzh0QWtmUklQMHBqMk5KZUlQTHI1MGF4OGlVcW00Q3h6eTJ0OGVUYkNiVkc2WG1ubTNONS1xWTNGWkdiaWVrMXNsTDNqWXpDY3hTZHlNdDhhSV9ENkFleElYYVlVTUUzdw?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "(sTrEaMs Coverage)! 49ers v Rams Nfl Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlpYeWpELWk0YVRaV0ZFdTRnTUg4TGk2czljSW1TbEx5bXJoYTBnR0NYdkJoaUU3NmpKMTlTNkZwcW9kMWdkZ0M3MWhaNmJIYVUxSnNhNEc2NVEyS2pCbjFKcDBMYVd6SjlEaDVHcWZvTThhd3pyTzRJMkhaV2l0MUkwOGFyOXJFMEdEVHRMNklFMXMyU1Z0b3F0N1dDN3FGZXJHc2RVNHZ2NFV5alNCQjhBMWt6OXJscEM4UlhJaVRmYjlIYWpCaklmN051TWwydzktZjc4RzQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "US Open WTA: Coco Gauff vs Elena Rybakina",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-gauff-rybakin-2026-09-10",
-      "yes": 74,
-      "change24h": 23,
-      "vol24h": 653773,
-      "headlines": [
-        {
-          "title": "Fear grows with the WTA: on the brink of bankruptcy",
-          "source": "Puntodebreak",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHBVZzdmVUlYcHhGMFFnNnliek9oTmh5dTBFVDVTT0VMOC13UkwyY1VfX2tjN3dCNXJTamxlN2ZwWmotb2JOQ3VRaFI0Qy1abDdlRktfUDREcEg1UXNsMFlRdEliQWdyX2ZZM0JNQ1FlLWE2MDR3NGkzdGREVVdZOEZneFllTGVHd20yZTREYW1SYmI2MlRhTQ?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -65,37 +21,47 @@
       "question": "Will Aryna Sabalenka win the 2026 Women’s US Open?",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/will-aryna-sabalenka-win-the-2026-womens-us-open",
-      "yes": 59,
-      "change24h": 22,
-      "vol24h": 57654,
+      "yes": 56,
+      "change24h": 19,
+      "vol24h": 80128,
       "headlines": [
         {
-          "title": "Favourites cruise to record-equalling win at FIFA U-20 Women’s World Cup",
-          "source": "friendsoffootballnz.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkVSSWpWcEI3cG9VeEpPYzFIRDBuN3ZBYWJld09yTmpXQ2hlZjVGQ2xCakRRVVF2YVUwVzE3UDlxQy1VZXh1RFJ5M0hOZEZLNmFlWE1DdVNUV1NzV0dOdmdQaGEzdE5KdUljY2k2WTZfUWxLODNvSERPSkd2ellTOVlKWjlCYlI3WkotMDY3Wko2T3M1TVc4YXRUbWJvd0dyRzRRVHdsVHgwT1ZOcFgwN2hraUNYVWQ5amh3?oc=5",
-          "cat": "World Cup"
+          "title": "Aryna Sabalenka vs Elena Rybakina · Final · US Open",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM00zMHFpZU13dWZqRzlqRnZSMlFfcWhWcEZPT3FNWUdVU1BybkNib1RZVzhDaHlBcm5vYW1LaTkxeVhPM0NzU2Yyc0xIWllzczZfU2U3MTljMjVNVC16SmJfRWNLQWFFRzdlQ2lJUG1ULXdTNkQtX0pUUDQyV2VwOUR4TGxzZnN1VGFEVmhRbjI?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
-      "yes": 63,
-      "change24h": -17,
-      "vol24h": 24989,
+      "question": "Will Elena Rybakina win the 2026 Women’s US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-elena-rybakina-win-the-2026-womens-us-open",
+      "yes": 44,
+      "change24h": 18,
+      "vol24h": 78553,
       "headlines": [
         {
-          "title": "[**LIVE@STREAMs**] 49ers v Rams Nfl 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGQ2dFFVd0Rld3g2VzZWOHgtZUJ5VmNOMlJFem5rQmVVNjhTUVBWc2ZPblllbjlqS0J5TWswVll2V1MwTUVrZkpOcmx5MGx6aHRJY0p4ekVlZzNaZWU0SVFZS2V4R2tCc2VFWFg4Zzh0QWtmUklQMHBqMk5KZUlQTHI1MGF4OGlVcW00Q3h6eTJ0OGVUYkNiVkc2WG1ubTNONS1xWTNGWkdiaWVrMXNsTDNqWXpDY3hTZHlNdDhhSV9ENkFleElYYVlVTUUzdw?oc=5",
-          "cat": "NFL"
-        },
+          "title": "Aryna Sabalenka vs Elena Rybakina · Final · US Open",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM00zMHFpZU13dWZqRzlqRnZSMlFfcWhWcEZPT3FNWUdVU1BybkNib1RZVzhDaHlBcm5vYW1LaTkxeVhPM0NzU2Yyc0xIWllzczZfU2U3MTljMjVNVC16SmJfRWNLQWFFRzdlQ2lJUG1ULXdTNkQtX0pUUDQyV2VwOUR4TGxzZnN1VGFEVmhRbjI?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $76,000 September 7-13?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-september-7-13-2026",
+      "yes": 62,
+      "change24h": 17,
+      "vol24h": 19337,
+      "headlines": [
         {
-          "title": "(sTrEaMs Coverage)! 49ers v Rams Nfl Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlpYeWpELWk0YVRaV0ZFdTRnTUg4TGk2czljSW1TbEx5bXJoYTBnR0NYdkJoaUU3NmpKMTlTNkZwcW9kMWdkZ0M3MWhaNmJIYVUxSnNhNEc2NVEyS2pCbjFKcDBMYVd6SjlEaDVHcWZvTThhd3pyTzRJMkhaV2l0MUkwOGFyOXJFMEdEVHRMNklFMXMyU1Z0b3F0N1dDN3FGZXJHc2RVNHZ2NFV5alNCQjhBMWt6OXJscEM4UlhJaVRmYjlIYWpCaklmN051TWwydzktZjc4RzQ?oc=5",
-          "cat": "NFL"
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -105,19 +71,35 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 60,
       "change24h": 16,
-      "vol24h": 30964,
+      "vol24h": 32737,
       "headlines": [
         {
-          "title": "What a Fed rate hike actually means for the U.S. economy and inflation",
-          "source": "spokesman.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUdsenBDM1FoS3hCYThOOThqSVNGN3pLZGFBeVVDV3RwYVFfcW9ROVpsdHhaXzhYdDQ1SGRDMHg5TXFMMmRYZWNXQVgtSXB4Tk12N3dZVk9WbXBmUl9FRllMVERoZjBDMmhuRXNaSm1lcHZhWjhvYjFadkpKa1ZQVG5IWGZTWHc1QlJYbTMyREFNaktLRGRLMjNGeFVLdw?oc=5",
+          "title": "Inflation report lands amid spiking oil prices, rising interest rates and Fed on fence",
+          "source": "Dayton Daily News",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVEpJSXZ4OVVOQy1PYzFBS0tKMGZWMk9BMWxWZzVsUmlOS0VsbjlsallqSmtlMUlGSUo5N3psM0drTWhlTmNpZ2NULXJBZnBoVm9NMjdTSGluc2M1U1ZFbW9QclFwUjg2Y0VXUm5GRHRzWDhUUjV1dW02a2JONUpDb1hMZWM3dm1DSTJYUng5MndNblNPRXlTbENPUi1jTW1uWUJRUFZXdTkxNUN6a2JnNDJWd2g0WUtSWWtqcEhVU2hxTzJvMEMxZlZqVVRBQXdrcTFmNGkxMHJlbUdwcTV2YlFabGVqVmVTSHoxcy1mMVZnYTJEUjBYZUVBZzI0UWxMVXFwbkstdERVX1py?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjAwZFZ6bi16bV9pV1FMWDdfMzlhZUVicnJQaThwYjZySUZTbGhMQkNscFdkdHB1ME1Hc0RsaWYzVDM1SEk0ZmNSX3czTmlESXR1U0R1Zy1DMnU0cWU4REpYYWNVMHdBYlp3TjRkRHAyQ0pqLXdTZ2hoUUlkYnlPMHFCeUhZb2hEYmRVenQ1bWxpT0E1anFMT2NCRDFIdmlUaUlPVUtJX05idUVJa3lCd9IBtgFBVV95cUxNb09kWUpPaTFYX1J3T0ZYVDM1YjZURW4zVnh3R29VUWU2bzlsTWQxZ051RElKY1BzZmZ0X2RNT3BUWFR6TUpEV3pIOURqamZmMDM0YlJVSWpELXRJOUJhYkI1RU9xc2hvdFdiRHZNOWVVVXB0SFFfWG5NMFIwdXlwZ0ZsUUtfS1FsVGJBQ3RBZzJQbEx1NFNiN196NmNTdW5rZDB3TkpYbS1Ld3AwRThybGt5VjVEUQ?oc=5",
+          "title": "US braces for inflation report that may push Fed to hike rates",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVh0QVlReDRIQ1NHN2ZWM28zOWZkaW9UZ012bmRVbkJpcFY3OHF6NkpuZzlWdmJRRmpFZmlqNUlUWTdRY2Z4N1dreXlHbW13WlVZc0VFRXZsTm1uZWpLcERYUW5GWFdpSlQzMXQ2UkEtOHJrQWdneXdiU0xnV01PdHA2UlFUaEJnZXJHX3ZxX2hqZVVnMVNiaHV6cHFwcWxNLTEycmlPODNLV0NtM1E?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
+      "yes": 64,
+      "change24h": -14,
+      "vol24h": 21830,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -127,79 +109,79 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 35,
       "change24h": -13,
-      "vol24h": 15360,
+      "vol24h": 17201,
       "headlines": [
         {
-          "title": "What a Fed rate hike actually means for the U.S. economy and inflation",
-          "source": "spokesman.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNUdsenBDM1FoS3hCYThOOThqSVNGN3pLZGFBeVVDV3RwYVFfcW9ROVpsdHhaXzhYdDQ1SGRDMHg5TXFMMmRYZWNXQVgtSXB4Tk12N3dZVk9WbXBmUl9FRllMVERoZjBDMmhuRXNaSm1lcHZhWjhvYjFadkpKa1ZQVG5IWGZTWHc1QlJYbTMyREFNaktLRGRLMjNGeFVLdw?oc=5",
+          "title": "Inflation report lands amid spiking oil prices, rising interest rates and Fed on fence",
+          "source": "Dayton Daily News",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVEpJSXZ4OVVOQy1PYzFBS0tKMGZWMk9BMWxWZzVsUmlOS0VsbjlsallqSmtlMUlGSUo5N3psM0drTWhlTmNpZ2NULXJBZnBoVm9NMjdTSGluc2M1U1ZFbW9QclFwUjg2Y0VXUm5GRHRzWDhUUjV1dW02a2JONUpDb1hMZWM3dm1DSTJYUng5MndNblNPRXlTbENPUi1jTW1uWUJRUFZXdTkxNUN6a2JnNDJWd2g0WUtSWWtqcEhVU2hxTzJvMEMxZlZqVVRBQXdrcTFmNGkxMHJlbUdwcTV2YlFabGVqVmVTSHoxcy1mMVZnYTJEUjBYZUVBZzI0UWxMVXFwbkstdERVX1py?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjAwZFZ6bi16bV9pV1FMWDdfMzlhZUVicnJQaThwYjZySUZTbGhMQkNscFdkdHB1ME1Hc0RsaWYzVDM1SEk0ZmNSX3czTmlESXR1U0R1Zy1DMnU0cWU4REpYYWNVMHdBYlp3TjRkRHAyQ0pqLXdTZ2hoUUlkYnlPMHFCeUhZb2hEYmRVenQ1bWxpT0E1anFMT2NCRDFIdmlUaUlPVUtJX05idUVJa3lCd9IBtgFBVV95cUxNb09kWUpPaTFYX1J3T0ZYVDM1YjZURW4zVnh3R29VUWU2bzlsTWQxZ051RElKY1BzZmZ0X2RNT3BUWFR6TUpEV3pIOURqamZmMDM0YlJVSWpELXRJOUJhYkI1RU9xc2hvdFdiRHZNOWVVVXB0SFFfWG5NMFIwdXlwZ0ZsUUtfS1FsVGJBQ3RBZzJQbEx1NFNiN196NmNTdW5rZDB3TkpYbS1Ld3AwRThybGt5VjVEUQ?oc=5",
+          "title": "US braces for inflation report that may push Fed to hike rates",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVh0QVlReDRIQ1NHN2ZWM28zOWZkaW9UZ012bmRVbkJpcFY3OHF6NkpuZzlWdmJRRmpFZmlqNUlUWTdRY2Z4N1dreXlHbW13WlVZc0VFRXZsTm1uZWpLcERYUW5GWFdpSlQzMXQ2UkEtOHJrQWdneXdiU0xnV01PdHA2UlFUaEJnZXJHX3ZxX2hqZVVnMVNiaHV6cHFwcWxNLTEycmlPODNLV0NtM1E?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Jessica Pegula win the 2026 Women’s US Open?",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/will-jessica-pegula-win-the-2026-womens-us-open",
-      "yes": 0,
-      "change24h": -12,
-      "vol24h": 64471,
-      "headlines": [
-        {
-          "title": "Pegula on Tiafoe-Michelsen moment: ‘It was so heartbreaking, my heart hurt so much’",
-          "source": "ATP Tour",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEdZNkVHUGRfWFBiVjRVYmxoRDVTZ1hsNHJ4dEZIU3RhS2Jyb3dGY3kxVXdaVEJ3Y0pmQ1B6QzhsbW5naFMtMEdYQmdaVmNvNUZjZFpoUk1pa05wN293UFpraGdSSHNMYTN5eHFNeVE4dDB6VWtVNm53SVhWZzhZQnlPVzh6UFJNODZCVg?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Favourites cruise to record-equalling win at FIFA U-20 Women’s World Cup",
-          "source": "friendsoffootballnz.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQkVSSWpWcEI3cG9VeEpPYzFIRDBuN3ZBYWJld09yTmpXQ2hlZjVGQ2xCakRRVVF2YVUwVzE3UDlxQy1VZXh1RFJ5M0hOZEZLNmFlWE1DdVNUV1NzV0dOdmdQaGEzdE5KdUljY2k2WTZfUWxLODNvSERPSkd2ellTOVlKWjlCYlI3WkotMDY3Wko2T3M1TVc4YXRUbWJvd0dyRzRRVHdsVHgwT1ZOcFgwN2hraUNYVWQ5amh3?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "question": "Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
-      "yes": 64,
-      "change24h": 10,
-      "vol24h": 1868633,
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 79,
+      "change24h": 8,
+      "vol24h": 64123,
       "headlines": [
         {
-          "title": "[**LIVE@STREAMs**] 49ers v Rams Nfl 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSGQ2dFFVd0Rld3g2VzZWOHgtZUJ5VmNOMlJFem5rQmVVNjhTUVBWc2ZPblllbjlqS0J5TWswVll2V1MwTUVrZkpOcmx5MGx6aHRJY0p4ekVlZzNaZWU0SVFZS2V4R2tCc2VFWFg4Zzh0QWtmUklQMHBqMk5KZUlQTHI1MGF4OGlVcW00Q3h6eTJ0OGVUYkNiVkc2WG1ubTNONS1xWTNGWkdiaWVrMXNsTDNqWXpDY3hTZHlNdDhhSV9ENkFleElYYVlVTUUzdw?oc=5",
+          "title": "Inflation report lands amid spiking oil prices, rising interest rates and Fed on fence",
+          "source": "Dayton Daily News",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVEpJSXZ4OVVOQy1PYzFBS0tKMGZWMk9BMWxWZzVsUmlOS0VsbjlsallqSmtlMUlGSUo5N3psM0drTWhlTmNpZ2NULXJBZnBoVm9NMjdTSGluc2M1U1ZFbW9QclFwUjg2Y0VXUm5GRHRzWDhUUjV1dW02a2JONUpDb1hMZWM3dm1DSTJYUng5MndNblNPRXlTbENPUi1jTW1uWUJRUFZXdTkxNUN6a2JnNDJWd2g0WUtSWWtqcEhVU2hxTzJvMEMxZlZqVVRBQXdrcTFmNGkxMHJlbUdwcTV2YlFabGVqVmVTSHoxcy1mMVZnYTJEUjBYZUVBZzI0UWxMVXFwbkstdERVX1py?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "US braces for inflation report that may push Fed to hike rates",
+          "source": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVh0QVlReDRIQ1NHN2ZWM28zOWZkaW9UZ012bmRVbkJpcFY3OHF6NkpuZzlWdmJRRmpFZmlqNUlUWTdRY2Z4N1dreXlHbW13WlVZc0VFRXZsTm1uZWpLcERYUW5GWFdpSlQzMXQ2UkEtOHJrQWdneXdiU0xnV01PdHA2UlFUaEJnZXJHX3ZxX2hqZVVnMVNiaHV6cHFwcWxNLTEycmlPODNLV0NtM1E?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 14,
+      "change24h": -2,
+      "vol24h": 18419,
+      "headlines": [
+        {
+          "title": "‘Brandon Aiyuk Played Himself,’ ‘Got Greedy, Thought He Was in Control’ — NFL Fans Rub Salt In In-Limbo 49ers WR’s Wounds After Rams Showdown",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWhLNkd2UDZXVkFXZ2h4elBIcUQ3MXhKMGtZTmpzZ1d4UktQODJUYmVFazJlSWhwemRaX3hYb2loRkZwX1dQUlVBSlNOeXpER1kxZ3ZVdnBWQ0tVRGxHTVBLSEtGRFU0eUNkM2RSYW56Njh3V1FYY3ZLOWZCRXlOcHMzeDlOS0ZM?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "(sTrEaMs Coverage)! 49ers v Rams Nfl Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 11 September 2026",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlpYeWpELWk0YVRaV0ZFdTRnTUg4TGk2czljSW1TbEx5bXJoYTBnR0NYdkJoaUU3NmpKMTlTNkZwcW9kMWdkZ0M3MWhaNmJIYVUxSnNhNEc2NVEyS2pCbjFKcDBMYVd6SjlEaDVHcWZvTThhd3pyTzRJMkhaV2l0MUkwOGFyOXJFMEdEVHRMNklFMXMyU1Z0b3F0N1dDN3FGZXJHc2RVNHZ2NFV5alNCQjhBMWt6OXJscEM4UlhJaVRmYjlIYWpCaklmN051TWwydzktZjc4RzQ?oc=5",
+          "title": "49ers 27-7 Rams (Sep 10, 2026) Game Recap",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EUktTWVRqa0ktQjJFTkNJaFVsQnRlb1hGN0pDdmttZXFwQ09uU0RVc1JoaTZHSGJpaDlwVXpoaWFFX1FVd1JXUHUyVTQ4ckl3dnJCWU1JamZ1Q1E?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 14033,
+      "question": "Will Ben Shelton win the 2026 Men's US Open?",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/will-ben-shelton-win-the-2026-mens-us-open",
+      "yes": 36,
+      "change24h": -1,
+      "vol24h": 32986,
       "headlines": [
         {
-          "title": "!!~^√Redd𝚒t![LIVESTREAMs!TV] San Francisco 49ers NFL Football Live Broadcast",
-          "source": "Cal Poly Pomona",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdTJJOV9SZFBITC1GNjU3dnIzVVRCVWJhQXFxckhKOGc5RFdmdy1wNERITkY1MVFZWmg1Y2lwVS1WOU85ZUVzbnlWTzRVYVpmdW5yc0I4ZGJ0c0xXbmhMMDdpNFdVU2ZhWEdPMThFY01vdDl1QmVJa2JTNlBKZ3RNYXpOR0lUR1lvQjJMUGJGbU5DeWdyQUZfODVna0p1QUtMaWpvU2JHb1FQQWpvQ2JLRmdyR2FESDRYTEZ1Rnhqc2h5SW9BTVljbFd1UTMwY3FKRGZwTWliN3BaY3JrTUdua3FteDUxUQ?oc=5",
-          "cat": "NFL"
+          "title": "US Open Daily Preview: Shelton and Tiafoe Square Off in the Men’s Semifinals",
+          "source": "ubitennis.net",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFowbmpZdkZ6NkNKMlJUeGhtUzlKNi1qckNUdmZ0MUJlczY3aUVYaHNxQ1JseXRvOTlMblBpNC1feDFzbEoxeGhlLUxIdDlFLUlydFdER3V0ZWxZU0FVdlhMMnpMVnZiSkZ5eXdnMEx5WkI3UVh4T1Z2R1pSNG5lekpiVzE3OHdvVk0xdEozNmFUQ2J5VW55bzlMX0Y4cXE5TGI1cy1fRS15dFZnY1E?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
@@ -209,36 +191,36 @@
       "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 66,
-      "change24h": 10,
-      "vol24h": 21020,
+      "yes": 64,
+      "change24h": 7,
+      "vol24h": 37310,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 45,
-      "change24h": 7,
-      "vol24h": 14831,
+      "yes": 44,
+      "change24h": 6,
+      "vol24h": 14862,
+      "headlines": []
+    },
+    {
+      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
+      "yes": 46,
+      "change24h": 6,
+      "vol24h": 9029,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 57,
-      "change24h": -7,
-      "vol24h": 13162,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 73,
-      "change24h": -6,
-      "vol24h": 11474,
+      "yes": 59,
+      "change24h": -5,
+      "vol24h": 14136,
       "headlines": []
     },
     {
@@ -246,8 +228,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
       "yes": 30,
-      "change24h": 5,
-      "vol24h": 57664,
+      "change24h": 4,
+      "vol24h": 64822,
       "headlines": []
     },
     {
@@ -256,7 +238,7 @@
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
       "yes": 21,
       "change24h": 4,
-      "vol24h": 44330,
+      "vol24h": 31457,
       "headlines": []
     }
   ]
