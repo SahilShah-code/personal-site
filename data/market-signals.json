@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-12T01:52:18.909Z",
+  "updated": "2026-09-12T09:41:53.550Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $76,000 September 7-13?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-september-7-13-2026",
-      "yes": 25,
+      "yes": 18,
       "change24h": -49,
-      "vol24h": 24892,
+      "vol24h": 22556,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -21,9 +21,9 @@
       "question": "Will Ethereum dip to $2,400 September 7-13?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-september-7-13-2026",
-      "yes": 7,
-      "change24h": -48,
-      "vol24h": 15219,
+      "yes": 3,
+      "change24h": -40,
+      "vol24h": 15476,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -34,12 +34,12 @@
       ]
     },
     {
-      "question": "Will the price of Ethereum be above $2,500 on September 13?",
+      "question": "Will the price of Ethereum be above $2,500 on September 14?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2500-on-september-13-2026",
-      "yes": 64,
+      "url": "https://polymarket.com/event/ethereum-above-2500-on-september-14-2026",
+      "yes": 70,
       "change24h": 35,
-      "vol24h": 13073,
+      "vol24h": 10874,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -53,42 +53,20 @@
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 80,
-      "change24h": 17,
-      "vol24h": 145233,
+      "yes": 79,
+      "change24h": 19,
+      "vol24h": 148180,
       "headlines": [
         {
-          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
+          "title": "Stubborn inflation raises prospect of Fed rate hike",
+          "source": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXFKYmJUNFJCQ3ZQOUxvM0t5WGhXMkVEWWVVZzhYdV9XQkNfZWFQUUdHSHhBNkg4MDhMRVNmY1JXMllsUy1QSmJQLXVRbHRsRHlic2RKcXRHaTBGMFQxeE8wRWNfWFZRNUktTFIzaTk0TTN4VUxTSlFKblRxRjB3Y0YtSUQzbFN4V0Vfc0E5RXlFeG5G0gGaAUFVX3lxTE1TY3VTcWlnSU1RSUl1VmhRZkdFa21IVFM4MFBYeWVpSGtkOFJMd1RFM25SWlRuZ0RsMGRXLXROTm1zMDdFZlhuR2J2TVB6WEh6UzhSV20xQ1lIcHpuVlVrV0JZSEs0aFVXazhaRnc0TjdhdVMtQkl5ZUEzWFJDTzh5NFJaOE9tUzJzMnhzejhrb25qLWllWjY5emc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPak4wQ1JYNHFfS3Y1cGl2dldRYVJPb2h1VUsxb3lhc2tUekdDOWJRVHJEcGNDOVdxdEdpTmlrNVV1VFF6UjhkMElTLUF5c25aNERWbDFRME5CaFBka2NJMG4yNGZyek84dElkbjZ3cXQwX2laZFNEVndNV291ODhGRzM1WQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decide differently in the next three decisions (Jun–Jul–Sep)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decide-differently-in-the-next-three-decisions-junjulsep",
-      "yes": 81,
-      "change24h": 17,
-      "vol24h": 9224,
-      "headlines": [
-        {
-          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPak4wQ1JYNHFfS3Y1cGl2dldRYVJPb2h1VUsxb3lhc2tUekdDOWJRVHJEcGNDOVdxdEdpTmlrNVV1VFF6UjhkMElTLUF5c25aNERWbDFRME5CaFBka2NJMG4yNGZyek84dElkbjZ3cXQwX2laZFNEVndNV291ODhGRzM1WQ?oc=5",
+          "title": "Fed is moving closer to a september rate hike",
+          "source": "marketpulse.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2JtSFplX0syVWU4U2xwdzhVTEthMzR3V010OWFva1I3VkpNektoZ2RzV3JOSEs2bTNUNTluNlhKOGRkbEdmbXRPTE5Bdm1LSEg1V0ZmMnVfa1IyaXJrNV9nTHNHWjZHRmk4ZW5wcFZHZExBNXNqSGpxZjZjOEFYbkVVUER0TXR3V0E?oc=5",
           "cat": "Macro"
         }
       ]
@@ -98,36 +76,42 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 21,
-      "change24h": -16,
-      "vol24h": 6896445,
+      "change24h": -18,
+      "vol24h": 7080670,
       "headlines": [
         {
-          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
+          "title": "Stubborn inflation raises prospect of Fed rate hike",
+          "source": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXFKYmJUNFJCQ3ZQOUxvM0t5WGhXMkVEWWVVZzhYdV9XQkNfZWFQUUdHSHhBNkg4MDhMRVNmY1JXMllsUy1QSmJQLXVRbHRsRHlic2RKcXRHaTBGMFQxeE8wRWNfWFZRNUktTFIzaTk0TTN4VUxTSlFKblRxRjB3Y0YtSUQzbFN4V0Vfc0E5RXlFeG5G0gGaAUFVX3lxTE1TY3VTcWlnSU1RSUl1VmhRZkdFa21IVFM4MFBYeWVpSGtkOFJMd1RFM25SWlRuZ0RsMGRXLXROTm1zMDdFZlhuR2J2TVB6WEh6UzhSV20xQ1lIcHpuVlVrV0JZSEs0aFVXazhaRnc0TjdhdVMtQkl5ZUEzWFJDTzh5NFJaOE9tUzJzMnhzejhrb25qLWllWjY5emc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPak4wQ1JYNHFfS3Y1cGl2dldRYVJPb2h1VUsxb3lhc2tUekdDOWJRVHJEcGNDOVdxdEdpTmlrNVV1VFF6UjhkMElTLUF5c25aNERWbDFRME5CaFBka2NJMG4yNGZyek84dElkbjZ3cXQwX2laZFNEVndNV291ODhGRzM1WQ?oc=5",
+          "title": "Fed is moving closer to a september rate hike",
+          "source": "marketpulse.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2JtSFplX0syVWU4U2xwdzhVTEthMzR3V010OWFva1I3VkpNektoZ2RzV3JOSEs2bTNUNTluNlhKOGRkbEdmbXRPTE5Bdm1LSEg1V0ZmMnVfa1IyaXJrNV9nTHNHWjZHRmk4ZW5wcFZHZExBNXNqSGpxZjZjOEFYbkVVUER0TXR3V0E?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "US Open ATP: Frances Tiafoe vs Ben Shelton",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-tiafoe-shelton-2026-09-11",
-      "yes": 14,
-      "change24h": -13,
-      "vol24h": 1415033,
+      "question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-september-2026-meeting-649",
+      "yes": 79,
+      "change24h": 17,
+      "vol24h": 5569271,
       "headlines": [
         {
-          "title": "Tiafoe’s resilience inspires Gauff’s US Open comeback: ‘Frances was that for me’",
-          "source": "ATP Tour",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42aWhlbzcxWS0yYV9zS2ljWjYxXy1uVHRRdF9RcV9MektaZnVJd1JubGxEOHpIS1dObkc3blI4ZExiRGZTcXBfeGtsSlhERnVvUzQ5dVkzQVNpd2Y4X3pha2hDV0h3N3pWc0hBdGp0RkVNenQwbnJWbk0xbkt4X2s?oc=5",
-          "cat": "Tennis"
+          "title": "Stubborn inflation raises prospect of Fed rate hike",
+          "source": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXFKYmJUNFJCQ3ZQOUxvM0t5WGhXMkVEWWVVZzhYdV9XQkNfZWFQUUdHSHhBNkg4MDhMRVNmY1JXMllsUy1QSmJQLXVRbHRsRHlic2RKcXRHaTBGMFQxeE8wRWNfWFZRNUktTFIzaTk0TTN4VUxTSlFKblRxRjB3Y0YtSUQzbFN4V0Vfc0E5RXlFeG5G0gGaAUFVX3lxTE1TY3VTcWlnSU1RSUl1VmhRZkdFa21IVFM4MFBYeWVpSGtkOFJMd1RFM25SWlRuZ0RsMGRXLXROTm1zMDdFZlhuR2J2TVB6WEh6UzhSV20xQ1lIcHpuVlVrV0JZSEs0aFVXazhaRnc0TjdhdVMtQkl5ZUEzWFJDTzh5NFJaOE9tUzJzMnhzejhrb25qLWllWjY5emc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed is moving closer to a september rate hike",
+          "source": "marketpulse.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2JtSFplX0syVWU4U2xwdzhVTEthMzR3V010OWFva1I3VkpNektoZ2RzV3JOSEs2bTNUNTluNlhKOGRkbEdmbXRPTE5Bdm1LSEg1V0ZmMnVfa1IyaXJrNV9nTHNHWjZHRmk4ZW5wcFZHZExBNXNqSGpxZjZjOEFYbkVVUER0TXR3V0E?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -135,85 +119,81 @@
       "question": "US Open WTA: Aryna Sabalenka vs Elena Rybakina",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-sabalen-rybakin-2026-09-12",
-      "yes": 56,
-      "change24h": 0,
-      "vol24h": 30632,
+      "yes": 57,
+      "change24h": 2,
+      "vol24h": 122089,
       "headlines": [
         {
-          "title": "WTA Projected to Exhaust Cash Reserves by Late 2027",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWG5nZmJ5SnVtUWpQMkNLRFIxM2tzS1pQRDBNMFZuRVVGNHRMdGR0c3hXYTk3UlRINjJTOF8wZXA5c3BzeG9CYWF6Y183QzNBUGtyVTlKN0tsYVgta1lCOHhVQUllOVphMTBVeWdaMVpxbFdLVEowNUdEamJTOTl3TGNvRGZDN2ZPWkk0OW1WVTlDV1pyUmloYlVGTEpEZHNJdjFkb1EyRVpEdWs?oc=5",
+          "title": "Aryna Sabalenka vs Elena Rybakina · Final · US Open",
+          "source": "tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM00zMHFpZU13dWZqRzlqRnZSMlFfcWhWcEZPT3FNWUdVU1BybkNib1RZVzhDaHlBcm5vYW1LaTkxeVhPM0NzU2Yyc0xIWllzczZfU2U3MTljMjVNVC16SmJfRWNLQWFFRzdlQ2lJUG1ULXdTNkQtX0pUUDQyV2VwOUR4TGxzZnN1VGFEVmhRbjI?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "Aryna Sabalenka vs Elena Rybakina · Final · US Open",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM00zMHFpZU13dWZqRzlqRnZSMlFfcWhWcEZPT3FNWUdVU1BybkNib1RZVzhDaHlBcm5vYW1LaTkxeVhPM0NzU2Yyc0xIWllzczZfU2U3MTljMjVNVC16SmJfRWNLQWFFRzdlQ2lJUG1ULXdTNkQtX0pUUDQyV2VwOUR4TGxzZnN1VGFEVmhRbjI?oc=5",
+          "title": "Aryna Sabalenka moved one win away from capturing a third consecutive US Open title after overwhelming Jessica Pegula in the semifinals, 7-5, 6-2, on Sept. 11, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNUZkMjJVMkJTX2FIblcxcTdHbmdUZjN6Q1lTTlBkMXpGWXByVm1jV1dGYjgtaDQxT3ZxcFJXRWpDZG9XWk80a2tFbHdoVEdrZE43WTdNRzQ1d3lHazdKNlBPM1ZHV3MySVliWDhjQUJvZUlUOTl0YlpuZG04QWxFbGFfM0tzUFc0LU5aNE9VZWxyQlN0REVaN0VsT2dhdGN1SktzV0c3QlIzZHVBU19Gb3oybHB3djFiazdzNzJkRkJKeDlVdGR2VjRwaEF1S0lkNEp0RllLNzVkWjQtOEE?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
+      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
-      "yes": 3,
+      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
+      "yes": 6,
       "change24h": 0,
-      "vol24h": 9709,
+      "vol24h": 13837,
       "headlines": [
         {
-          "title": "2026 NFL, College Football Odds: Best Bets For Bama-UK, Packers-Vikings",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnRKa1U3bVEtY3dHY2swQTdfQ2Z6elZ0MF9SU244WV9GS1htelI2NXQ2Ry00THR2RC1IRE81Z3hkSzJnUE1rNGRDaF9zQkRyZFpDMmwtX0s1a0xiMVlxdkxCY0VyUDU0ajBzOG12Sl9ibmJoWXk4Vy12Z3d6QmI0LUxpUU43S3R2LTBhSTdFQ0VuWjI0b0J2OTlyRDRxTkhQcmU1MNIBpAFBVV95cUxQWG5BdERZNnBhdjJscDRtZWE1U2Q5YjNWRFp2bUhVM3N5YlVzc2ljMU1maW9HOXIyNDhFZy16ZjhPbkNIRTFHQ1hnVHhhTTdsa2tMcmRadHgySGhmQ1Q4bTlCYVRwX0Q1alpfcTFNczF1NTUzX3ZqbjBwTXcyU1d6bC1JWFUwa280ZlB3dnoxZmRqVlJIOFJFOVRFWnFpeThQNlFqOQ?oc=5",
+          "title": "‘Lamar (Jackson) Is Going To Look Down on Him’ — NFL Pundit Warns Ravens About ‘Infant OC’ Declan Doyle",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMklvc1F1Z014YlQ0cUdkZndIYi1WOGdVdWk5d3dvYy11cEhWWHQ5cUxUVnFFRFZkTU45cENqb2NHSklOSllZTXl3b2Z6YmtVUHNmQnRKbG9IdGwxSDYtSkhKRnJvcFpZY0VFVDAwWFJxSWUzUEdQNW9vdjNCZ0k2YWEwc0U?oc=5",
           "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 13822,
+      "headlines": [
+        {
+          "title": "Aryna Sabalenka moved one win away from capturing a third consecutive US Open title after overwhelming Jessica Pegula in the semifinals, 7-5, 6-2, on Sept. 11, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNUZkMjJVMkJTX2FIblcxcTdHbmdUZjN6Q1lTTlBkMXpGWXByVm1jV1dGYjgtaDQxT3ZxcFJXRWpDZG9XWk80a2tFbHdoVEdrZE43WTdNRzQ1d3lHazdKNlBPM1ZHV3MySVliWDhjQUJvZUlUOTl0YlpuZG04QWxFbGFfM0tzUFc0LU5aNE9VZWxyQlN0REVaN0VsT2dhdGN1SktzV0c3QlIzZHVBU19Gb3oybHB3djFiazdzNzJkRkJKeDlVdGR2VjRwaEF1S0lkNEp0RllLNzVkWjQtOEE?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 8802,
+      "headlines": [
+        {
+          "title": "Aryna Sabalenka moved one win away from capturing a third consecutive US Open title after overwhelming Jessica Pegula in the semifinals, 7-5, 6-2, on Sept. 11, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNUZkMjJVMkJTX2FIblcxcTdHbmdUZjN6Q1lTTlBkMXpGWXByVm1jV1dGYjgtaDQxT3ZxcFJXRWpDZG9XWk80a2tFbHdoVEdrZE43WTdNRzQ1d3lHazdKNlBPM1ZHV3MySVliWDhjQUJvZUlUOTl0YlpuZG04QWxFbGFfM0tzUFc0LU5aNE9VZWxyQlN0REVaN0VsT2dhdGN1SktzV0c3QlIzZHVBU19Gb3oybHB3djFiazdzNzJkRkJKeDlVdGR2VjRwaEF1S0lkNEp0RllLNzVkWjQtOEE?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Caribbean Premier League: Guyana Amazon Warriors vs Trinbago Knight Riders",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/criccpl-guy-tri-2026-09-11",
-      "yes": 87,
-      "change24h": 34,
-      "vol24h": 38980,
-      "headlines": []
-    },
-    {
       "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
       "yes": 33,
-      "change24h": 5,
-      "vol24h": 82212,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 62,
-      "change24h": 5,
-      "vol24h": 9719,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 77,
       "change24h": 4,
-      "vol24h": 22567,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 85,
-      "change24h": -4,
-      "vol24h": 21303,
+      "vol24h": 79653,
       "headlines": []
     }
   ]
