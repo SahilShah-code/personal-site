@@ -1,67 +1,91 @@
 {
-  "updated": "2026-09-13T10:43:21.441Z",
+  "updated": "2026-09-13T15:11:22.324Z",
   "withNews": [
     {
       "question": "Will Ethereum reach $2,600 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-september-2026-from-september-11",
       "yes": 71,
-      "change24h": -10,
-      "vol24h": 17552,
+      "change24h": -11,
+      "vol24h": 31256,
       "headlines": [
         {
-          "title": "+![TOTAL SPORTEK]!\" Ryan Garcia vs. Conor Benn Live Free FIFA World Cup September 13, 2026",
-          "source": "Loughborough University",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcmxBUkdtRUFRc2ZxMTN0WUNDQkt0c1N2YzYwbVo5Vk5SQzQ4TWxnWkZXaHlTSGJYMVkwaWU4b3F4UFlFbTk2bkpMT1ZvY09KVTdrTHRva2pkSlQza3ZkRm9WZkxFQW9jeHlVMldHdHdYWkwtNlY3WUJGc3JRbDJJRDlMaWVFYWFLb0cwaXRCeTRPQlEtQXN5T19kcXNrc2JYZF92YnZlcnNkbDdVeWVWQ3l0Qk9FaW15ekhEcTV2dUZGSGZKbzZaWVJWSjlwdVFxX1NraXZRTlY5a0dyWUVWNlJPZlY5V0RYTWJXdDJpeV9GREZpemdmSDA4VGphZWtRYkRtbTViMndyM0I0NjdoSzJFbTFpa21BX2tGOHd5RHZVcDM3SWJWYS1FdFhXVXF3Z3dJdm5zbWRxQW5DZ0ktekczMlpUekUxZkR3?oc=5",
-          "cat": "World Cup"
+          "title": "History Says September Is a Terrible Month for the S&P 500 Index and for Other Stocks. Here's Why I'm Still Investing Anyway.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdU8xbGZ6aTJ4cU5tZW8yZTNLOFFHNGZCX0lZRGVEcERMTDlHZU1BTk5LNDZNZFFObGZKbURfNExHQkwxcHI0b1NDNFhsbDJyQ1pMdC1DYnpQSUt3SHBzXzRJZ1F2ckZvQ2p5TmVDLWszYUFIX2lxQlBNVWRaRmc0QzMtcDZLSERhc2ZCN3g2OE9tSHRiNGtuNXJkdmZkbW5zSXAzag?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Even With 10-Year Treasury Yields at a 20-Month High, I'd Still Rather Buy This S&P 500 Dividend Stock for Passive Income in September.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmdiOGFMbzV5NTRXdlBjMi1UdC1LQjRQT0plTy1wcXQ4UU91WXlOTjR1emx5cmlJV0VSU2tPVFBYQVhOTlVLYWRpMGdRUHN2aFgyZGdXTDNpWXhWRjFNTjVUOUl5Y0cycldoZ1otWVZDRUhmSWZfc2F4Nk0yR2MxN3laTF9NOExzNkk0NEFiTDlCQUxnMThkNg?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $80,000 in September?",
+      "question": "Will Ethereum reach $3,100 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
-      "yes": 60,
-      "change24h": -6,
-      "vol24h": 9556,
+      "url": "https://polymarket.com/event/will-ethereum-reach-3100-in-september-2026",
+      "yes": 10,
+      "change24h": -2,
+      "vol24h": 46541,
       "headlines": [
         {
-          "title": "+![TOTAL SPORTEK]!\" Ryan Garcia vs. Conor Benn Live Free FIFA World Cup September 13, 2026",
-          "source": "Loughborough University",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcmxBUkdtRUFRc2ZxMTN0WUNDQkt0c1N2YzYwbVo5Vk5SQzQ4TWxnWkZXaHlTSGJYMVkwaWU4b3F4UFlFbTk2bkpMT1ZvY09KVTdrTHRva2pkSlQza3ZkRm9WZkxFQW9jeHlVMldHdHdYWkwtNlY3WUJGc3JRbDJJRDlMaWVFYWFLb0cwaXRCeTRPQlEtQXN5T19kcXNrc2JYZF92YnZlcnNkbDdVeWVWQ3l0Qk9FaW15ekhEcTV2dUZGSGZKbzZaWVJWSjlwdVFxX1NraXZRTlY5a0dyWUVWNlJPZlY5V0RYTWJXdDJpeV9GREZpemdmSDA4VGphZWtRYkRtbTViMndyM0I0NjdoSzJFbTFpa21BX2tGOHd5RHZVcDM3SWJWYS1FdFhXVXF3Z3dJdm5zbWRxQW5DZ0ktekczMlpUekUxZkR3?oc=5",
-          "cat": "World Cup"
+          "title": "History Says September Is a Terrible Month for the S&P 500 Index and for Other Stocks. Here's Why I'm Still Investing Anyway.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdU8xbGZ6aTJ4cU5tZW8yZTNLOFFHNGZCX0lZRGVEcERMTDlHZU1BTk5LNDZNZFFObGZKbURfNExHQkwxcHI0b1NDNFhsbDJyQ1pMdC1DYnpQSUt3SHBzXzRJZ1F2ckZvQ2p5TmVDLWszYUFIX2lxQlBNVWRaRmc0QzMtcDZLSERhc2ZCN3g2OE9tSHRiNGtuNXJkdmZkbW5zSXAzag?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Even With 10-Year Treasury Yields at a 20-Month High, I'd Still Rather Buy This S&P 500 Dividend Stock for Passive Income in September.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmdiOGFMbzV5NTRXdlBjMi1UdC1LQjRQT0plTy1wcXQ4UU91WXlOTjR1emx5cmlJV0VSU2tPVFBYQVhOTlVLYWRpMGdRUHN2aFgyZGdXTDNpWXhWRjFNTjVUOUl5Y0cycldoZ1otWVZDRUhmSWZfc2F4Nk0yR2MxN3laTF9NOExzNkk0NEFiTDlCQUxnMThkNg?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $80,000 on September 16?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-september-16-2026",
-      "yes": 12,
-      "change24h": -5,
-      "vol24h": 14959,
+      "url": "https://polymarket.com/event/will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "yes": 92,
+      "change24h": -2,
+      "vol24h": 43221,
       "headlines": [
         {
-          "title": "+![TOTAL SPORTEK]!\" Ryan Garcia vs. Conor Benn Live Free FIFA World Cup September 13, 2026",
-          "source": "Loughborough University",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcmxBUkdtRUFRc2ZxMTN0WUNDQkt0c1N2YzYwbVo5Vk5SQzQ4TWxnWkZXaHlTSGJYMVkwaWU4b3F4UFlFbTk2bkpMT1ZvY09KVTdrTHRva2pkSlQza3ZkRm9WZkxFQW9jeHlVMldHdHdYWkwtNlY3WUJGc3JRbDJJRDlMaWVFYWFLb0cwaXRCeTRPQlEtQXN5T19kcXNrc2JYZF92YnZlcnNkbDdVeWVWQ3l0Qk9FaW15ekhEcTV2dUZGSGZKbzZaWVJWSjlwdVFxX1NraXZRTlY5a0dyWUVWNlJPZlY5V0RYTWJXdDJpeV9GREZpemdmSDA4VGphZWtRYkRtbTViMndyM0I0NjdoSzJFbTFpa21BX2tGOHd5RHZVcDM3SWJWYS1FdFhXVXF3Z3dJdm5zbWRxQW5DZ0ktekczMlpUekUxZkR3?oc=5",
-          "cat": "World Cup"
+          "title": "History Says September Is a Terrible Month for the S&P 500 Index and for Other Stocks. Here's Why I'm Still Investing Anyway.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdU8xbGZ6aTJ4cU5tZW8yZTNLOFFHNGZCX0lZRGVEcERMTDlHZU1BTk5LNDZNZFFObGZKbURfNExHQkwxcHI0b1NDNFhsbDJyQ1pMdC1DYnpQSUt3SHBzXzRJZ1F2ckZvQ2p5TmVDLWszYUFIX2lxQlBNVWRaRmc0QzMtcDZLSERhc2ZCN3g2OE9tSHRiNGtuNXJkdmZkbW5zSXAzag?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Even With 10-Year Treasury Yields at a 20-Month High, I'd Still Rather Buy This S&P 500 Dividend Stock for Passive Income in September.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmdiOGFMbzV5NTRXdlBjMi1UdC1LQjRQT0plTy1wcXQ4UU91WXlOTjR1emx5cmlJV0VSU2tPVFBYQVhOTlVLYWRpMGdRUHN2aFgyZGdXTDNpWXhWRjFNTjVUOUl5Y0cycldoZ1otWVZDRUhmSWZfc2F4Nk0yR2MxN3laTF9NOExzNkk0NEFiTDlCQUxnMThkNg?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
-      "yes": 11,
-      "change24h": -4,
-      "vol24h": 31806,
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 3,
+      "change24h": 2,
+      "vol24h": 17601,
       "headlines": [
         {
-          "title": "Sources: Maxx Crosby shut down Rams trade talks after failed Ravens deal",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2t1TElHOUNqMmdNOFlCN0Y4OWhMZUlabHJVaHFmM3BPcTE3SzdWOU5jT2hXNXVhMFh5eEYtTURaemJySGJ3RHQ5d0theVhFd2hmMG9PQk5XZzFRMlJidFJuNmplaTYxcklhZGg4SFJvZjlYMGU0SlJwaEIyR1BnVDdrZVcwYnF2VTEyYldZN193UTJqWC1vUk5iSXlhNk1BRzd2VlZqVVc?oc=5",
-          "cat": "NFL"
+          "title": "All eyes on US Fed to tackle high inflation",
+          "source": "IraqiNews",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUFKbXozdU1iUzZvOWpXSTcyYXFuZVBWSWpweVpFc29yYTJvSkFwOUNDWVFPWEJBVDB2bThQaHFXTmZ4cEU3Sm5jMkhnaVNWZHdSdXZDNkVMLWY0dDVyeHRsYVktb1pSdzVpV3pVbjQwM0JYMktEam5LdEtxNEstR3FJeHY3dw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -70,19 +94,19 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
       "yes": 21,
-      "change24h": 1,
-      "vol24h": 1997509,
+      "change24h": -1,
+      "vol24h": 1817692,
       "headlines": [
         {
-          "title": "+![TOTAL SPORTEK]!\" Ryan Garcia vs. Conor Benn Live Free FIFA World Cup September 13, 2026",
-          "source": "Loughborough University",
-          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNcmxBUkdtRUFRc2ZxMTN0WUNDQkt0c1N2YzYwbVo5Vk5SQzQ4TWxnWkZXaHlTSGJYMVkwaWU4b3F4UFlFbTk2bkpMT1ZvY09KVTdrTHRva2pkSlQza3ZkRm9WZkxFQW9jeHlVMldHdHdYWkwtNlY3WUJGc3JRbDJJRDlMaWVFYWFLb0cwaXRCeTRPQlEtQXN5T19kcXNrc2JYZF92YnZlcnNkbDdVeWVWQ3l0Qk9FaW15ekhEcTV2dUZGSGZKbzZaWVJWSjlwdVFxX1NraXZRTlY5a0dyWUVWNlJPZlY5V0RYTWJXdDJpeV9GREZpemdmSDA4VGphZWtRYkRtbTViMndyM0I0NjdoSzJFbTFpa21BX2tGOHd5RHZVcDM3SWJWYS1FdFhXVXF3Z3dJdm5zbWRxQW5DZ0ktekczMlpUekUxZkR3?oc=5",
-          "cat": "World Cup"
+          "title": "All eyes on US Fed to tackle high inflation",
+          "source": "IraqiNews",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUFKbXozdU1iUzZvOWpXSTcyYXFuZVBWSWpweVpFc29yYTJvSkFwOUNDWVFPWEJBVDB2bThQaHFXTmZ4cEU3Sm5jMkhnaVNWZHdSdXZDNkVMLWY0dDVyeHRsYVktb1pSdzVpV3pVbjQwM0JYMktEam5LdEtxNEstR3FJeHY3dw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "'This is the test': All eyes on US Fed to tackle high inflation",
-          "source": "The Standard (HK)",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1Z4Y3BjSG9wRzE3Q1IzeWVnaUhpTS1iQnF4V2Z2bUQwbUdKZnFzVXNnQkMyTy1xeUhLNlFSVEpxTWs4Rzc0OWRaT2k3Z0t0N1FLbEgtYUJPZTh1bmZ1NWotLVpVSUZ6ZWNYN3kyYkFGMHYzQWFnNlZSbUpfOEJQUlNJYUljNGVxSnNLaTFMNlkyb0ZXeXk4a1ZERllUbHJUYlNlcFFILW5jVEFxbFJZWU9VNUU?oc=5",
+          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
           "cat": "Macro"
         }
       ]
@@ -93,12 +117,12 @@
       "url": "https://polymarket.com/event/atp-zverev-shelton-2026-09-13",
       "yes": 59,
       "change24h": 1,
-      "vol24h": 299137,
+      "vol24h": 447525,
       "headlines": [
         {
-          "title": "US Open Daily Preview: Zverev and Shelton Play for the Men’s Singles Championship",
+          "title": "Alcaraz-Conqueror Shelton Will Test Zverev In The US Open Finals",
           "source": "ubitennis.net",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMk1PcUE1dzAwbTd0bXRTZ3hlWVNuRFB2TjhSN2gtTlFJci1oR1ppbk5Xc1BaTUdKSjBoRDVNYzdESC1rd25JU0hWT0FfUE1pdlJvbkI1eXdZM01ZMFY0MTg3UTlEUEVmMUNNOVVFVDdycUhiVGEzcnhjQmRzLWdyMmhPUUxEOVBhdVNCWWF5QjMzYWVhSTZRb3E2Z08zbHdHWkpUcndDVWF1MHRCM3BQY2J0Q2k?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVdjMldLZnZPSWRkVm5ScW91N3pBdy01UTltal9DaTlCYjl0dlZ6N2hkMDJXYVFYWk4xZTV0WWVTU19NOE1VQ0VwR1hKY1BFZkNzTmdVbjhnX3RHSmFqeGhlbmo2V25WOXpHWnhSVkU2azlKUmxBX1FXbmlIcTNhLVFoSzFnckg2SGtEejU5UjR6UGs3VEFoSV9ZMG9DYWNX?oc=5",
           "cat": "Tennis"
         },
         {
@@ -113,37 +137,21 @@
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 89,
-      "change24h": 1,
-      "vol24h": 77148,
+      "yes": 88,
+      "change24h": -1,
+      "vol24h": 104622,
       "headlines": [
         {
-          "title": "'This is the test': All eyes on US Fed to tackle high inflation",
-          "source": "The Standard (HK)",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1Z4Y3BjSG9wRzE3Q1IzeWVnaUhpTS1iQnF4V2Z2bUQwbUdKZnFzVXNnQkMyTy1xeUhLNlFSVEpxTWs4Rzc0OWRaT2k3Z0t0N1FLbEgtYUJPZTh1bmZ1NWotLVpVSUZ6ZWNYN3kyYkFGMHYzQWFnNlZSbUpfOEJQUlNJYUljNGVxSnNLaTFMNlkyb0ZXeXk4a1ZERllUbHJUYlNlcFFILW5jVEFxbFJZWU9VNUU?oc=5",
+          "title": "All eyes on US Fed to tackle high inflation",
+          "source": "IraqiNews",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUFKbXozdU1iUzZvOWpXSTcyYXFuZVBWSWpweVpFc29yYTJvSkFwOUNDWVFPWEJBVDB2bThQaHFXTmZ4cEU3Sm5jMkhnaVNWZHdSdXZDNkVMLWY0dDVyeHRsYVktb1pSdzVpV3pVbjQwM0JYMktEam5LdEtxNEstR3FJeHY3dw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed rate-hike odds surge as Warsh faces inflation-weary markets",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUxVQ3JPd0dobEVGWEEybFNLSWJSakszZUJTSXFwSGRfZmQ4MTRYazZOTnhiSFZDQWlQVUZ1MjJqM203UVBwSWE1QW1leVhSNFhuWmJxY2ZiYTM4LVhyLUp2YmQtQkFCTlBqN0VoRlItbTl6eWNHS1E3cVJGRVM4ag?oc=5",
+          "title": "Elevated Inflation Keeps Pressure on Fed to Raise Interest Rates",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IMFFtaTVreE9NQ2hRcW9hc0JHQ21zU2w1OUY3Nm85MHVuZXZMejVBN2xrUFZORm1mRjRvYTdpNDdVWUIxRENhTWxJd0lTWGxzdlBSQjhoN1gzd0duaWxXTWQybC1QSjNVelU2cVRQa0hmdGg3V040Ng?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-      "yes": 7,
-      "change24h": 1,
-      "vol24h": 47230,
-      "headlines": [
-        {
-          "title": "Watch San Ramón vs. Liberia Live Stream Online | DAZN US",
-          "source": "DAZN",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGpsS04tODR3RFEzSzN1RlZlY01oSlowd0Z5SWFDZVhhOGxBREhON2NTeEFKWXY3ZVlSc284b0NiZnpmT1paUUV5X0pCTm9tRVRKZTdDa2QzclFzTGtRV1pqLVN5cXF4Zk4zeG9icWJ3djlZdzV5a0xXaXdjSlB4VVFSTUNBVEtiT2ZrVw?oc=5",
-          "cat": "World Cup"
         }
       ]
     },
@@ -153,47 +161,63 @@
       "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
       "yes": 5,
       "change24h": 1,
-      "vol24h": 33066,
+      "vol24h": 34742,
       "headlines": [
         {
-          "title": "Sunday Night Football: How to watch the Dallas Cowboys vs. New York Giants game tonight",
-          "source": "uk.sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnVNaHphbFdaeGY2b1dwT1NIb3RhUlgwcnFETElfSnVzeGE5MFhFcS1fRTBQY1pYQXF1cWNjMkV0SVo2d2xBWktFZzFqSTBrbGhXdVpCd3Z5cmxjckU5T0kwVDQ3MDVNcjlrQ0FVVHdDYTJPLXhLUldXUncyZFFBdGpjaXZJRWVybnphZ3hEbWVMWURFU1BZUzZBNURDRU8zeHNqa2lqclFnU3Y2cG9qQTdKOEhpb0I0YUNBTS04Si1tVllmQzVqRmxkdFc5Zw?oc=5",
+          "title": "NFL survivor pool Week 1 picks, strategy: Cases for Chargers, Lions, Cowboys and Bengals",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVhSTVM5czV6QjZzSlA2bEVwUUJ2RzZsdDU2SXViTnc3OFJGMUNLekdZS0o1S0hlTFQ4aXJJbmhaVW9wNm94TFI2eGktc1pHVWF3UEpVLUNRNExUZ3lsbVI4OHJfQnVTNjdDZkp3WFpMeGdIU3lmdjdiVXpIX25oU25ScEROOFRTd1hqTXJB?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "NFL survivor pool picks, advice, best knockout strategy, Week 1, 2026: Fade the Dallas Cowboys",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVFBReVd2SXhqcGYtVEl0czdpaFhMUEZFemRHYXdwUlNaRzVJNkE0Wjd3TXB4TXFWZlY3eEhJdnhsdzhxam02RG9nblpHUk10Ui1ISFZqczlEbW1aaloyN1UweDNXaTc5N3hPN1pmYUtmTjFMZm5yVTZCVEtrMzhESnJpU2x3cVZKWGNNaDlWY3BqR2JNV3dKc2c2c1hLcGtHa2xMVzA1aUw2VlVIMzZZUnVzOEwtTmE4b0VfZktXZ0lHVnhPMFlv?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 37,
-      "change24h": -1,
-      "vol24h": 20402,
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 47342,
       "headlines": [
         {
-          "title": "'This is the test': All eyes on US Fed to tackle high inflation",
-          "source": "The Standard (HK)",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1Z4Y3BjSG9wRzE3Q1IzeWVnaUhpTS1iQnF4V2Z2bUQwbUdKZnFzVXNnQkMyTy1xeUhLNlFSVEpxTWs4Rzc0OWRaT2k3Z0t0N1FLbEgtYUJPZTh1bmZ1NWotLVpVSUZ6ZWNYN3kyYkFGMHYzQWFnNlZSbUpfOEJQUlNJYUljNGVxSnNLaTFMNlkyb0ZXeXk4a1ZERllUbHJUYlNlcFFILW5jVEFxbFJZWU9VNUU?oc=5",
-          "cat": "Macro"
-        },
+          "title": "NFL survivor pool Week 1 picks, strategy: Cases for Chargers, Lions, Cowboys and Bengals",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVhSTVM5czV6QjZzSlA2bEVwUUJ2RzZsdDU2SXViTnc3OFJGMUNLekdZS0o1S0hlTFQ4aXJJbmhaVW9wNm94TFI2eGktc1pHVWF3UEpVLUNRNExUZ3lsbVI4OHJfQnVTNjdDZkp3WFpMeGdIU3lmdjdiVXpIX25oU25ScEROOFRTd1hqTXJB?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 24556,
+      "headlines": [
         {
-          "title": "Fed rate-hike odds surge as Warsh faces inflation-weary markets",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUxVQ3JPd0dobEVGWEEybFNLSWJSakszZUJTSXFwSGRfZmQ4MTRYazZOTnhiSFZDQWlQVUZ1MjJqM203UVBwSWE1QW1leVhSNFhuWmJxY2ZiYTM4LVhyLUp2YmQtQkFCTlBqN0VoRlItbTl6eWNHS1E3cVJGRVM4ag?oc=5",
-          "cat": "Macro"
+          "title": "NFL survivor pool Week 1 picks, strategy: Cases for Chargers, Lions, Cowboys and Bengals",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVhSTVM5czV6QjZzSlA2bEVwUUJ2RzZsdDU2SXViTnc3OFJGMUNLekdZS0o1S0hlTFQ4aXJJbmhaVW9wNm94TFI2eGktc1pHVWF3UEpVLUNRNExUZ3lsbVI4OHJfQnVTNjdDZkp3WFpMeGdIU3lmdjdiVXpIX25oU25ScEROOFRTd1hqTXJB?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the Patriots win the season series against the Dolphins during the 2026-27 NFL regular season?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-patriots-win-the-season-series-against-the-dolphins-during-the-2026-27-nfl-regular-season-20260717194023257",
-      "yes": 48,
-      "change24h": -19,
-      "vol24h": 9185,
+      "question": "M25 Guiyang, Qualifying: Completed Match: Yaoyu Yang vs Fedor Dorokhov",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/itf-yang4-dorokh2-2026-09-13-completed-match",
+      "yes": 90,
+      "change24h": 40,
+      "vol24h": 15660,
       "headlines": []
     }
   ]
