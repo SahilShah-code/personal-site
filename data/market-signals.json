@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-14T11:06:16.196Z",
+  "updated": "2026-09-14T17:08:52.672Z",
   "withNews": [
     {
       "question": "Will the price of Bitcoin be above $76,000 on September 16?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-16-2026",
-      "yes": 80,
-      "change24h": 21,
-      "vol24h": 8326,
+      "yes": 92,
+      "change24h": 22,
+      "vol24h": 16808,
       "headlines": [
         {
           "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
           "cat": "Macro"
         }
@@ -21,52 +21,30 @@
       "question": "Will Bitcoin dip to $75,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
-      "yes": 60,
-      "change24h": -17,
-      "vol24h": 25496,
+      "yes": 52,
+      "change24h": -19,
+      "vol24h": 32718,
       "headlines": [
         {
           "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $72,500 in September?",
+      "question": "Will Bitcoin reach $80,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
-      "yes": 34,
-      "change24h": -14,
-      "vol24h": 9480,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
+      "yes": 83,
+      "change24h": 18,
+      "vol24h": 18307,
       "headlines": [
         {
           "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "finance.yahoo.com",
+          "source": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-september-2026-meeting-615",
-      "yes": 19,
-      "change24h": -2,
-      "vol24h": 2580103,
-      "headlines": [
-        {
-          "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Goldman Sachs expects 25-bps Fed hike as Trump pushes for world’s lowest rate",
-          "source": "Firstpost",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQy1EX2xNZ2dlQW9KOFNBQzZhNkMwUU1KejJESGFkSVBJNXpINzZQUHRtQnltUEU2MzhDdjcwajBoeEZQUFlMZGZqSXk4Z01GZ0pxcEREREZPWE9JZjFkOXpyS1dwc25vYjNScFpOc0NLVjd6QUtMV0hDdjhCQmVxMU9BQ3Azc2ExblQ3V01NcnRRNV9vTnB3ci1n0gGfAUFVX3lxTE90N2RvSTBFQW55bGZlalRsaVY2YkZxOVJYYW9zWTVXblBmdEdlN0lPY2VLQlVZWjYzMnZWaEZoMkxQNnE5M04xNk9CdkM1am9udzAtWmFSNG9YaS1ZU0ozNzRvS3FRejRoUU5MZ2s5QjZ3RzBtSVlzQzBTZ3ZRQWJENmhuVkQyeXc4ZnN1M0VRTmg1eklZYy15ZllYaDM4RQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -75,42 +53,64 @@
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 81,
-      "change24h": 2,
-      "vol24h": 49368,
+      "yes": 85,
+      "change24h": 5,
+      "vol24h": 52116,
       "headlines": [
         {
-          "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
+          "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Goldman Sachs expects 25-bps Fed hike as Trump pushes for world’s lowest rate",
-          "source": "Firstpost",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQy1EX2xNZ2dlQW9KOFNBQzZhNkMwUU1KejJESGFkSVBJNXpINzZQUHRtQnltUEU2MzhDdjcwajBoeEZQUFlMZGZqSXk4Z01GZ0pxcEREREZPWE9JZjFkOXpyS1dwc25vYjNScFpOc0NLVjd6QUtMV0hDdjhCQmVxMU9BQ3Azc2ExblQ3V01NcnRRNV9vTnB3ci1n0gGfAUFVX3lxTE90N2RvSTBFQW55bGZlalRsaVY2YkZxOVJYYW9zWTVXblBmdEdlN0lPY2VLQlVZWjYzMnZWaEZoMkxQNnE5M04xNk9CdkM1am9udzAtWmFSNG9YaS1ZU0ozNzRvS3FRejRoUU5MZ2s5QjZ3RzBtSVlzQzBTZ3ZRQWJENmhuVkQyeXc4ZnN1M0VRTmg1eklZYy15ZllYaDM4RQ?oc=5",
+          "title": "Fed Rate Hike Looms as Inflation Puts Trump and Kevin Warsh on a Collision Course",
+          "source": "agrolatam.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 57,
-      "change24h": 2,
-      "vol24h": 11122,
+      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
+      "yes": 88,
+      "change24h": 4,
+      "vol24h": 56028,
       "headlines": [
         {
-          "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
+          "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Goldman Sachs expects 25-bps Fed hike as Trump pushes for world’s lowest rate",
-          "source": "Firstpost",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQy1EX2xNZ2dlQW9KOFNBQzZhNkMwUU1KejJESGFkSVBJNXpINzZQUHRtQnltUEU2MzhDdjcwajBoeEZQUFlMZGZqSXk4Z01GZ0pxcEREREZPWE9JZjFkOXpyS1dwc25vYjNScFpOc0NLVjd6QUtMV0hDdjhCQmVxMU9BQ3Azc2ExblQ3V01NcnRRNV9vTnB3ci1n0gGfAUFVX3lxTE90N2RvSTBFQW55bGZlalRsaVY2YkZxOVJYYW9zWTVXblBmdEdlN0lPY2VLQlVZWjYzMnZWaEZoMkxQNnE5M04xNk9CdkM1am9udzAtWmFSNG9YaS1ZU0ozNzRvS3FRejRoUU5MZ2s5QjZ3RzBtSVlzQzBTZ3ZRQWJENmhuVkQyeXc4ZnN1M0VRTmg1eklZYy15ZllYaDM4RQ?oc=5",
+          "title": "Fed Rate Hike Looms as Inflation Puts Trump and Kevin Warsh on a Collision Course",
+          "source": "agrolatam.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
+      "yes": 91,
+      "change24h": 3,
+      "vol24h": 109621,
+      "headlines": [
+        {
+          "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed Rate Hike Looms as Inflation Puts Trump and Kevin Warsh on a Collision Course",
+          "source": "agrolatam.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
           "cat": "Macro"
         }
       ]
@@ -119,9 +119,9 @@
       "question": "Will the New York Giants win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": 1,
-      "vol24h": 80937,
+      "yes": 3,
+      "change24h": 2,
+      "vol24h": 84101,
       "headlines": [
         {
           "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
@@ -132,18 +132,18 @@
       ]
     },
     {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 5,
-      "change24h": 1,
-      "vol24h": 66384,
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": -1,
+      "vol24h": 74734,
       "headlines": [
         {
-          "title": "Philadelphia 76ers offseason recap, early 2026-27 season preview",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGVpYWp2VUhFd1lDNEtIbW1EOGNMdUJPeGxyQkI1RmNiclQ1M0VHVHh5eGJrejl3VjBDM1RuRzJRSTNqVjBQM2xNRDJISGpyUmgzemNYR3FFaU82UnRLbEJXVGRqaC13Mk1wdjVBcjdJbXhzQzBTMXA5MVlEX1BtVi1SN1hUa20xUU45XzRPZ0YxZmpscU8wOTYxNUQ5NEdUY05xd0pPbFJXTnByVWdnRTNLZUlJOUxtMlpycTB4bTc2RTZ1emc?oc=5",
-          "cat": "NBA"
+          "title": "'Monday Night Football' prediction, odds, time: Broncos vs. Chiefs picks by expert on 32-15 run",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHkyYXFVaEdiMDB2Q2dPRHJka2oxNTVsWEE4T3hjYnE1Ty1LSWZwVjM3SmxiR3JCeXZ5dHZQYUMxNWdXMHktTzFkQ3VCQ25jNl9vNFpzRGI2MjctdnRwaEJad0R2blRENE9qaEVMTGJWM3R3bHhaMDRNem5ZcTJTOWRPaGxyb3hxZ3Jua1gyRXJ5cnAyWFdjdjVVMXBoV2tfbVJqLTRJMGZfdkJHZjVYTzZrcWlCXzNmUXZxTQ?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -153,34 +153,12 @@
       "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
       "yes": 5,
       "change24h": -1,
-      "vol24h": 63008,
+      "vol24h": 65719,
       "headlines": [
         {
-          "title": "Broncos vs. Chiefs Best Anytime Touchdown Scorer Picks for Monday Night Football in NFL Week 1",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObF9wcG9BU2UtMDN2WmZJbllqZHVrSlUyUWFuVmc1WmxhQTJyRW5LSEUzV3F3ZDlNRENnX1FxVGRGTzlZLVcyS19WUWlQNVdDWU94OGhMSk1qOXoydm5WSmZYTUtuN3B0TTNyT1EzRGZWaEw3dnA5U3M0c3JtSTBBTHdrNUZBNHFGU3NiSDJvU3lMSTgtc25yR2plZzJXaEpRWXZrSUo2eE9QblVwV0dGbFRvNmpWT2hvTW5ESQ?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Broncos vs. Chiefs Best NFL Prop Bets for Monday Night Football in Week 1 (Bet on Bo Nix, Fade Patrick Mahomes)",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNF9ZWXl2LWF6R1lTS1JwQnJiemFMS2lXR05mcEhzM2hqS0VVek9pU0luWVVDc19UYnlEamJQRlcyTnpSal9wNzFoMG9PQWVpSEZ3RHpqMWhseVVHa1RvR3pMTzB5SXl3TXRDMzJvTmtJQ1d1RVhJNkNjWl85a1R4R2JuWldKSms0X3NWbEIwNHdTVXd1NjhfRjgtWlQ0d1dXTzJCSW16dXJ0ckxJUUdfZzJTWnh2Z1ZPZU5Rd3Azcm52eWhHNGJFc0dsc3MzR2M?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 10799,
-      "headlines": [
-        {
-          "title": "Denver Broncos vs. Kansas City Chiefs: How to watch Monday Night Football, start time, where to stream free and more",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWEFCMThmRWJTNVFUaXFwS29oQXBaVUhoNmljajkxMkNJamdOYXRibDlXa3FzdndPYTJwa05QQXhvUG9sVXlSMjhBcVpMa055YU1lYzBqUWN1TzFJZmdBVXpud0FpTVVTclpIcnJZV3UzdnFQbERLdDdGdlFkTkdfWFhfYnB5SXBkbFpDM0JXdGNCZDBzWXRaUWdqTmdacVgwYkFJeE1sVVA4d1hPdXgzOWxrNlByclVJMkU4QlVHZ2xwVHI1Yk5DNTZiWTNvTVNXOVBsYjh5RUpTWXlmb05sUGF2TTMxRFpOZVFubnhaWmU1eG5xNUdj?oc=5",
+          "title": "'Monday Night Football' prediction, odds, time: Broncos vs. Chiefs picks by expert on 32-15 run",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHkyYXFVaEdiMDB2Q2dPRHJka2oxNTVsWEE4T3hjYnE1Ty1LSWZwVjM3SmxiR3JCeXZ5dHZQYUMxNWdXMHktTzFkQ3VCQ25jNl9vNFpzRGI2MjctdnRwaEJad0R2blRENE9qaEVMTGJWM3R3bHhaMDRNem5ZcTJTOWRPaGxyb3hxZ3Jua1gyRXJ5cnAyWFdjdjVVMXBoV2tfbVJqLTRJMGZfdkJHZjVYTzZrcWlCXzNmUXZxTQ?oc=5",
           "cat": "NFL"
         }
       ]
@@ -191,27 +169,27 @@
       "question": "Will Caleb Williams win the 2026 NFL MVP?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-caleb-williams-win-the-2026-nfl-mvp",
-      "yes": 16,
-      "change24h": 10,
-      "vol24h": 15248,
+      "yes": 15,
+      "change24h": 12,
+      "vol24h": 17555,
       "headlines": []
     },
     {
-      "question": "Will Justin Herbert win the 2026 NFL MVP?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-justin-herbert-win-the-2026-nfl-mvp",
-      "yes": 7,
-      "change24h": -5,
-      "vol24h": 7376,
+      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+      "yes": 69,
+      "change24h": 8,
+      "vol24h": 31095,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 85,
+      "yes": 83,
       "change24h": -4,
-      "vol24h": 16565,
+      "vol24h": 11761,
       "headlines": []
     }
   ]
