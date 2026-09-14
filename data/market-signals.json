@@ -1,72 +1,24 @@
 {
-  "updated": "2026-09-14T17:08:52.672Z",
+  "updated": "2026-09-14T21:07:04.568Z",
   "withNews": [
-    {
-      "question": "Will the price of Bitcoin be above $76,000 on September 16?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-16-2026",
-      "yes": 92,
-      "change24h": 22,
-      "vol24h": 16808,
-      "headlines": [
-        {
-          "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
-      "yes": 52,
-      "change24h": -19,
-      "vol24h": 32718,
-      "headlines": [
-        {
-          "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
-      "yes": 83,
-      "change24h": 18,
-      "vol24h": 18307,
-      "headlines": [
-        {
-          "title": "Goldman Sachs, JP Morgan expect September Fed hike as inflation lingers",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09IN0JrUzFTVG82RGl2SlZ0RHFleHZ4LXJDZTFLNnFNOGtRbGxieFRNQ1ZTUGZVVUxidi1XNVNPTk1adGdRNVk5TXFlRkRGVnBSMV9PUjlCS1Z1LXd2X0NxUkcxSFAzSi15WkxfYXdoU1VYcW4xM2VWSktfeVRlVVNaWThQcXB5eEY0RXVldklZTUx4YmljSFpB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Fed Rate Hike by September 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 85,
-      "change24h": 5,
-      "vol24h": 52116,
+      "yes": 88,
+      "change24h": 9,
+      "vol24h": 36455,
       "headlines": [
         {
-          "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
+          "title": "Fed rate hike looms as $100 oil and inflation put Warsh and U.S. farms on alert",
+          "source": "AgroLatam",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Rate Hike Looms as Inflation Puts Trump and Kevin Warsh on a Collision Course",
-          "source": "agrolatam.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
+          "title": "Fed rate hike expected this week after hot inflation data",
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LWmZmM3JiNUxub0I0dkROdjMyWVZaTUVJWFFOT203N1BLVC1hM09SOF9IdUNUdEVNN1VlWnNOX0tOYndLRTJsYWpaM2YyTkIwWE56OXJyanpNUmlTTmZtQ3N5bEtVSWFoZjdGUGtR?oc=5",
           "cat": "Macro"
         }
       ]
@@ -75,20 +27,20 @@
       "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 88,
-      "change24h": 4,
-      "vol24h": 56028,
+      "yes": 91,
+      "change24h": 8,
+      "vol24h": 61881,
       "headlines": [
         {
-          "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
+          "title": "Fed rate hike looms as $100 oil and inflation put Warsh and U.S. farms on alert",
+          "source": "AgroLatam",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Rate Hike Looms as Inflation Puts Trump and Kevin Warsh on a Collision Course",
-          "source": "agrolatam.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
+          "title": "Fed rate hike expected this week after hot inflation data",
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LWmZmM3JiNUxub0I0dkROdjMyWVZaTUVJWFFOT203N1BLVC1hM09SOF9IdUNUdEVNN1VlWnNOX0tOYndLRTJsYWpaM2YyTkIwWE56OXJyanpNUmlTTmZtQ3N5bEtVSWFoZjdGUGtR?oc=5",
           "cat": "Macro"
         }
       ]
@@ -97,20 +49,20 @@
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 91,
-      "change24h": 3,
-      "vol24h": 109621,
+      "yes": 92,
+      "change24h": 5,
+      "vol24h": 142248,
       "headlines": [
         {
-          "title": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzR2NnBtbXVOLWxnQlhkbkg5d3RhemtrU21LbDhNaWwxajZpMXA3eFM4ZXpTZlVzYUNiSG9IV3JMSHZpOWtiZ0JYWGxCdm40VEpadmU0dW9EU2QwWTczMWhKU1pCTUhMdXhfdFZjMGgzaDd2bXNmN2tMOWwtWVBvY0ZkdFE4Y3dxQlU5eW5BZkhuV00tTGfSAZsBQVVfeXFMT0E2cjJJeUpWNEpwd0h3OGptRlhyTVhYY3NlY0hRTzRVRXJoRFFjd0ZmakJ5N2FkNy1ZdzZVMGxXdTVicl9WX2NzMU5yemxSWlh4S2RmLVFKSUNWVjNlaVduXzR3Z01kOHlhOHF6WVlpYWFDUzI1aTlPaVRhTlJlSFBFWmh2RTNNNEJ2YlZsZDJoWmg5LWk1WFlKZGs?oc=5",
+          "title": "Fed rate hike looms as $100 oil and inflation put Warsh and U.S. farms on alert",
+          "source": "AgroLatam",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Rate Hike Looms as Inflation Puts Trump and Kevin Warsh on a Collision Course",
-          "source": "agrolatam.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
+          "title": "Fed rate hike expected this week after hot inflation data",
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LWmZmM3JiNUxub0I0dkROdjMyWVZaTUVJWFFOT203N1BLVC1hM09SOF9IdUNUdEVNN1VlWnNOX0tOYndLRTJsYWpaM2YyTkIwWE56OXJyanpNUmlTTmZtQ3N5bEtVSWFoZjdGUGtR?oc=5",
           "cat": "Macro"
         }
       ]
@@ -121,7 +73,7 @@
       "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
       "yes": 3,
       "change24h": 2,
-      "vol24h": 84101,
+      "vol24h": 80874,
       "headlines": [
         {
           "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
@@ -132,64 +84,125 @@
       ]
     },
     {
-      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": -1,
-      "vol24h": 74734,
-      "headlines": [
-        {
-          "title": "'Monday Night Football' prediction, odds, time: Broncos vs. Chiefs picks by expert on 32-15 run",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHkyYXFVaEdiMDB2Q2dPRHJka2oxNTVsWEE4T3hjYnE1Ty1LSWZwVjM3SmxiR3JCeXZ5dHZQYUMxNWdXMHktTzFkQ3VCQ25jNl9vNFpzRGI2MjctdnRwaEJad0R2blRENE9qaEVMTGJWM3R3bHhaMDRNem5ZcTJTOWRPaGxyb3hxZ3Jua1gyRXJ5cnAyWFdjdjVVMXBoV2tfbVJqLTRJMGZfdkJHZjVYTzZrcWlCXzNmUXZxTQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
       "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
       "yes": 5,
-      "change24h": -1,
-      "vol24h": 65719,
+      "change24h": 0,
+      "vol24h": 61938,
       "headlines": [
         {
-          "title": "'Monday Night Football' prediction, odds, time: Broncos vs. Chiefs picks by expert on 32-15 run",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaHkyYXFVaEdiMDB2Q2dPRHJka2oxNTVsWEE4T3hjYnE1Ty1LSWZwVjM3SmxiR3JCeXZ5dHZQYUMxNWdXMHktTzFkQ3VCQ25jNl9vNFpzRGI2MjctdnRwaEJad0R2blRENE9qaEVMTGJWM3R3bHhaMDRNem5ZcTJTOWRPaGxyb3hxZ3Jua1gyRXJ5cnAyWFdjdjVVMXBoV2tfbVJqLTRJMGZfdkJHZjVYTzZrcWlCXzNmUXZxTQ?oc=5",
-          "cat": "NFL"
+          "title": "Monday Digest: Dabrowski Heads to Brazil While Quebec City Hosts Davis Cup",
+          "source": "Tennis Canada",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUlCRjVtakc4Wjh3eDB2MWs1MnBnYVIwb1lsaEY2NG1UbHBPc1gtdGVFWUdlT0Qyd3hKYUZBTFd5VE9HaFIxalZ0eTdnZU9YS1A3WTRROFNwN29aQkF3U3ZyamhGU2EwODRPcTEyOWZBQUlSOG5KZ3p2MU1TU090RWNDZXN2Q2k2LTNySEROVWY1VmlMOF9fSHRmNXU2ZUJhSjBHUlc3YWFKWVMzRnJjVXFRakRwSFN5UkROUmxjYWQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Toronto Raptors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-toronto-raptors-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 21913,
+      "headlines": [
+        {
+          "title": "Kawhi Leonard finally returns to Raptors after NBA disciplined Clippers for salary cap rule circumvention",
+          "source": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDRpT0Jja2JyZ3JQbFFsMF9lWVFmb3NGa3FmamJUOVV3LTVzYTZPSVBiX0VHQlIyT2FjUDZSNlZNNFVLWDRpbUVVazJVNTdiVDJPNlA3SjJlUUpaNDQ0ZVdQN0lHUTdYTlo1czVqWkpWVXZqTVkxRzl6b3kwYXJYZ01HT25ndVlKRHpRNGpOZDBJSmk3QlFZSkRHMkQtaUFNUG1GR0xZcF9OaHVzVEVMOHB0c25TUXgzRUZrUHVfOXU?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 13039,
+      "headlines": [
+        {
+          "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUg4TkMyZkR3WDBlNzU5ZUxOclZBM0FxaXNpemxLdG15NXFTTkFKTVo3UGotU0xPVExOUVJnUHNBNHRtM0hsekx4ZVJMa3lVcnhFc0otZl9JQzlXenc1bnVBYUpTX2tNdU9CeXZWM3lQaU04cVBzSzR0Mk55d3ljMjVfVVpjRXRMc01HRkRHZnZtMExvNWR2SERiYldtdS1waXVXV0lLdmJIYWNBOFhJaS04M3lVcVJ4R2lPNjdMbE01a2FETEhWZ1RKaHFJeldDUXhzYXJvd2FCY2xGbVE?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Caleb Williams win the 2026 NFL MVP?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-caleb-williams-win-the-2026-nfl-mvp",
-      "yes": 15,
-      "change24h": 12,
-      "vol24h": 17555,
+      "question": "Will Bitcoin dip to $75,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
+      "yes": 48,
+      "change24h": -23,
+      "vol24h": 39318,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
+      "yes": 87,
+      "change24h": 21,
+      "vol24h": 45947,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $76,000 on September 16?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-16-2026",
+      "yes": 93,
+      "change24h": 21,
+      "vol24h": 14227,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 69,
-      "change24h": 8,
-      "vol24h": 31095,
+      "yes": 75,
+      "change24h": 13,
+      "vol24h": 87215,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $85,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 83,
-      "change24h": -4,
-      "vol24h": 11761,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
+      "yes": 37,
+      "change24h": 13,
+      "vol24h": 31335,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,400 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-september-2026-from-september-3",
+      "yes": 56,
+      "change24h": -10,
+      "vol24h": 32943,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,700 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
+      "yes": 60,
+      "change24h": 10,
+      "vol24h": 29719,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "yes": 81,
+      "change24h": -10,
+      "vol24h": 27824,
       "headlines": []
     }
   ]
