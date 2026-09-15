@@ -1,72 +1,46 @@
 {
-  "updated": "2026-09-15T15:48:36.990Z",
+  "updated": "2026-09-15T20:32:58.173Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $80,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
-      "yes": 35,
-      "change24h": -31,
-      "vol24h": 28048,
-      "headlines": [
-        {
-          "title": "USMNT projected September-October roster: Pochettino takes on new era",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $74,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
-      "yes": 51,
-      "change24h": 30,
-      "vol24h": 15969,
-      "headlines": [
-        {
-          "title": "USMNT projected September-October roster: Pochettino takes on new era",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
-      "yes": 80,
-      "change24h": 26,
-      "vol24h": 81606,
-      "headlines": [
-        {
-          "title": "USMNT projected September-October roster: Pochettino takes on new era",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by October 2026 Meeting?",
+      "question": "Will 3 Fed rate hikes happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 90,
-      "change24h": 5,
-      "vol24h": 101969,
+      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
+      "yes": 12,
+      "change24h": 6,
+      "vol24h": 20956,
       "headlines": [
         {
-          "title": "USMNT projected September-October roster: Pochettino takes on new era",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
-          "cat": "World Cup"
+          "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money.",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Markets on edge as US Fed meets to tackle high inflation",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJWNDRBeFRWY0YwZm5lQkRmVGJPYS01UGFBTmRHUktJcjRaclViQTRPVUk4THpiS3lwanM5d0xRWDRtaFdNb3pvRWp4bkJzajdtaEtLVGhWS3R1a0dvbnZCSEZJSnBGdGhHMlo0WV80M3M3ME1WX1R5TTJJcjEya2o2Z20?oc=5",
+          "title": "Fed rate hike only half the story as Warsh faces dot-plot test",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN1VFOGJEUjhVT1lwcWcxcm1sVVFFNTFfemhseFhNUjNDcG5RazlQdnFpcUJDQ3dpN2djYnVqMmYxaEsyNGsya1B2T0ZBQjFhTTlhSVN1cEgzSUZhQ1NIMmRrVDhIb0MySElWMVRYQ29KMVhLdHBN?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 36,
+      "change24h": -4,
+      "vol24h": 20103,
+      "headlines": [
+        {
+          "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money.",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed rate hike only half the story as Warsh faces dot-plot test",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN1VFOGJEUjhVT1lwcWcxcm1sVVFFNTFfemhseFhNUjNDcG5RazlQdnFpcUJDQ3dpN2djYnVqMmYxaEsyNGsya1B2T0ZBQjFhTTlhSVN1cEgzSUZhQ1NIMmRrVDhIb0MySElWMVRYQ29KMVhLdHBN?oc=5",
           "cat": "Macro"
         }
       ]
@@ -75,91 +49,21 @@
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
-      "yes": 94,
-      "change24h": 4,
-      "vol24h": 248543,
-      "headlines": [
-        {
-          "title": "Markets on edge as US Fed meets to tackle high inflation",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJWNDRBeFRWY0YwZm5lQkRmVGJPYS01UGFBTmRHUktJcjRaclViQTRPVUk4THpiS3lwanM5d0xRWDRtaFdNb3pvRWp4bkJzajdtaEtLVGhWS3R1a0dvbnZCSEZJSnBGdGhHMlo0WV80M3M3ME1WX1R5TTJJcjEya2o2Z20?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYktLa1Y0YXpmWG0wUFVWZ014T1B3bjhlSG5LZ3pwZGZNSXBfNTdwTnJ3UWFDTEFvdi1wWU5NdzVrRU1YcEo4a3BlMjNQYXdrT3YtMGZyYzFmU2tXTzd4bGRJcXZETUgyNFZJQW1XSlN3TmZERHRXWXBtOFRfaVpSbWpIS0t6WVNBQ3I4MUJoS2RrVFFIelV4OTJBeFIzR2RVRnNzUXlVaDFfZ2VvOWlVTXdXUzE4ZEZk?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 87,
-      "change24h": 4,
-      "vol24h": 45442,
-      "headlines": [
-        {
-          "title": "USMNT projected September-October roster: Pochettino takes on new era",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Markets on edge as US Fed meets to tackle high inflation",
-          "source": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJWNDRBeFRWY0YwZm5lQkRmVGJPYS01UGFBTmRHUktJcjRaclViQTRPVUk4THpiS3lwanM5d0xRWDRtaFdNb3pvRWp4bkJzajdtaEtLVGhWS3R1a0dvbnZCSEZJSnBGdGhHMlo0WV80M3M3ME1WX1R5TTJJcjEya2o2Z20?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 8,
+      "yes": 96,
       "change24h": 3,
-      "vol24h": 85040,
+      "vol24h": 272231,
       "headlines": [
         {
-          "title": "NFL news roundup: Jets' Omar Cooper Jr. week to week; Chiefs' Mansoor Delane to undergo MRI",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlpnQUNWdE45V1VsR0g3VVExamFXa3M3YXppR1pKTkx3Y2dnWUVWSlpoWnR5OU5QeTVaRnQ2V0JtTDM1R18xZUJHY1M5UWw3ZkN3N1lxRDV0R2RtWnRsOTdObHZzZ3l6TXYyZ1FXeXRYWUFERUFnbmJMb1ZGcGpzODdaY3M5azJ6N2xrcw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Toronto Raptors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-toronto-raptors-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 20888,
-      "headlines": [
+          "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money.",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
+          "cat": "Macro"
+        },
         {
-          "title": "Shams Charania on why Kawhi Leonard pushed for a return to Toronto: \"This is a complete legacy play\"",
-          "source": "sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelZnTE5PcUJSNWp6ajlDSHVpMnlQOWlRQ0VZcDN4ZjJSamd4ZUFET3lUdVFnOU9Lc0NHUE5mbzI3OC0ycDRZQ3FudDlLZVVHcURMZFlPMlh3WnNId3E2UGxUQ01nUDF1UlVxY0hsRDVNNXc3YTJ4RVlrZHh1YVlhVmppR0dtcnJL?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 13418,
-      "headlines": [
-        {
-          "title": "Pro Football Focus’ Highest-Graded Chargers Players From Week 1",
-          "source": "sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFlLTlFsUUZQSmpMVEtPSVY3dmRxQWFTZS11MGxnT2tySGJaNzUzT25wSm5LZlpmNTAzX3cxRzVjQVhZalNZTlJUVnFCdFpwRW4yV2V0NUdvc3N1V3hsekVtU2ZHZWpFRVZ6cjFSWndYLUhSWlNKZnhFMndBeHlScEF6cHo5eWhYb3c?oc=5",
-          "cat": "NFL"
+          "title": "Fed rate hike only half the story as Warsh faces dot-plot test",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aN1VFOGJEUjhVT1lwcWcxcm1sVVFFNTFfemhseFhNUjNDcG5RazlQdnFpcUJDQ3dpN2djYnVqMmYxaEsyNGsya1B2T0ZBQjFhTTlhSVN1cEgzSUZhQ1NIMmRrVDhIb0MySElWMVRYQ29KMVhLdHBN?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -169,7 +73,7 @@
       "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 12133,
+      "vol24h": 10940,
       "headlines": [
         {
           "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
@@ -182,39 +86,75 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $80,000 September 14-20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 92,
-      "change24h": 9,
-      "vol24h": 15489,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
+      "yes": 26,
+      "change24h": -62,
+      "vol24h": 38413,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,700 September 14-20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
-      "yes": 60,
-      "change24h": -8,
-      "vol24h": 110495,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-september-14-20-2026",
+      "yes": 9,
+      "change24h": -50,
+      "vol24h": 17151,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "question": "Will the price of Ethereum be above $2,600 on September 17?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 19,
-      "change24h": -4,
-      "vol24h": 25641,
+      "url": "https://polymarket.com/event/ethereum-above-2600-on-september-17-2026",
+      "yes": 4,
+      "change24h": -46,
+      "vol24h": 13034,
       "headlines": []
     },
     {
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "question": "Will Bitcoin reach $80,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 22,
-      "change24h": 4,
-      "vol24h": 17327,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
+      "yes": 46,
+      "change24h": -45,
+      "vol24h": 108712,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $74,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
+      "yes": 59,
+      "change24h": 44,
+      "vol24h": 16586,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $76,000 on September 17?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-17-2026",
+      "yes": 44,
+      "change24h": -44,
+      "vol24h": 11123,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,700 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
+      "yes": 28,
+      "change24h": -41,
+      "vol24h": 103898,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,300 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-september-2026",
+      "yes": 68,
+      "change24h": 41,
+      "vol24h": 37005,
       "headlines": []
     }
   ]
