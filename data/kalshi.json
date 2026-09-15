@@ -1,19 +1,17 @@
 {
-  "updated": "2026-09-15 05:23 UTC",
-  "net_return_pct": -57.9,
-  "realized_return_pct": -57.9,
+  "updated": "2026-09-15 10:16 UTC",
+  "net_return_pct": -46.1,
+  "realized_return_pct": -46.1,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 14.3,
-  "settled_total": 7,
+  "win_rate_pct": 20,
+  "settled_total": 5,
   "curve": [
     0,
-    -100,
-    -97.2,
-    -54.7,
-    -31.1,
-    -44.3,
-    -53.2,
-    -57.9
+    -11.3,
+    9.2,
+    -20.9,
+    -38,
+    -46.1
   ],
   "active": [],
   "settled": [
@@ -51,20 +49,6 @@
       "result": "no",
       "date": "2026-07-11",
       "return_pct": -11.3
-    },
-    {
-      "title": "France vs Morocco: To Advance",
-      "ticker": "KXWCADVANCE-26JUL09FRAMAR-MAR",
-      "result": "no",
-      "date": "2026-07-09",
-      "return_pct": -95.9
-    },
-    {
-      "title": "yes Morocco advances,yes Michael Olise: 1+,yes Achraf Hakimi: 1+",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S2026E5747CA7CCB-ACCEECD35D5",
-      "result": "no",
-      "date": "2026-07-09",
-      "return_pct": -100
     }
   ]
 }
