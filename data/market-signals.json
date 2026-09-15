@@ -1,19 +1,35 @@
 {
-  "updated": "2026-09-15T10:35:38.278Z",
+  "updated": "2026-09-15T15:48:36.990Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $80,000 September 14-20?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
-      "yes": 36,
-      "change24h": -22,
-      "vol24h": 22853,
+      "yes": 35,
+      "change24h": -31,
+      "vol24h": 28048,
       "headlines": [
         {
-          "title": "September 2026 Fed Rate Decision: Will Inflation Trigger a New Hike?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2Nqd2tHYlM1anJUS19TQnJROVBKNTNqT2RobVZ1T2hiRllVUlNkNnI4QllVS3VLQ1FqZkNEQ0U2RXZUWXdreGF6Y05MTjZUTE9BLWQwSWFfMUlwMEk1NWdjcGdKZUJha1pNRWZ3NHpibTRnUWlWVUZaTVE3N1FkTWZacml3cy1KNlNDMzBydk94VHRFcU9DcTU0bVU2Y1NIdjQ1TWozVWQ?oc=5",
-          "cat": "Macro"
+          "title": "USMNT projected September-October roster: Pochettino takes on new era",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $74,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
+      "yes": 51,
+      "change24h": 30,
+      "vol24h": 15969,
+      "headlines": [
+        {
+          "title": "USMNT projected September-October roster: Pochettino takes on new era",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -21,53 +37,15 @@
       "question": "Will Bitcoin dip to $75,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026",
-      "yes": 75,
-      "change24h": 16,
-      "vol24h": 25487,
+      "yes": 80,
+      "change24h": 26,
+      "vol24h": 81606,
       "headlines": [
         {
-          "title": "September 2026 Fed Rate Decision: Will Inflation Trigger a New Hike?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2Nqd2tHYlM1anJUS19TQnJROVBKNTNqT2RobVZ1T2hiRllVUlNkNnI4QllVS3VLQ1FqZkNEQ0U2RXZUWXdreGF6Y05MTjZUTE9BLWQwSWFfMUlwMEk1NWdjcGdKZUJha1pNRWZ3NHpibTRnUWlWVUZaTVE3N1FkTWZacml3cy1KNlNDMzBydk94VHRFcU9DcTU0bVU2Y1NIdjQ1TWozVWQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
-      "yes": 60,
-      "change24h": -15,
-      "vol24h": 59362,
-      "headlines": [
-        {
-          "title": "September 2026 Fed Rate Decision: Will Inflation Trigger a New Hike?",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2Nqd2tHYlM1anJUS19TQnJROVBKNTNqT2RobVZ1T2hiRllVUlNkNnI4QllVS3VLQ1FqZkNEQ0U2RXZUWXdreGF6Y05MTjZUTE9BLWQwSWFfMUlwMEk1NWdjcGdKZUJha1pNRWZ3NHpibTRnUWlWVUZaTVE3N1FkTWZacml3cy1KNlNDMzBydk94VHRFcU9DcTU0bVU2Y1NIdjQ1TWozVWQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Fed Rate Hike by September 2026 Meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
-      "yes": 89,
-      "change24h": 9,
-      "vol24h": 44028,
-      "headlines": [
-        {
-          "title": "Josh Kushner Dealt Setback as Jeanie Buss Set to Represent Lakers at Pivotal NBA Meeting",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbk44ekNsREZrSlR3QWhXSU1hZVFyTjgyN2JnendrSTBhVjMzV0lGWDNNQXBRYzQ4bmhxb3JSOHZqbEp1RERMcGpwbUxfWVlCNG11YmVrRTNTbEJ2eld4REp0a0oyOHdPekY0eEFFUHN2NFN6dkZxSVBjRTBtUVFKQlpvVXljaE8wMzdFSnpCdHBGa3ZTMXNyQUkyWk12bkoxd0VYWjlvcE1BMHFITjhxbE1RX2ptbUhvcDhMd1ZiTG1MU2JzQ19NSUZ2UHhiMkY3dlFFWHEybXhFaHQzYXNwNGRTenN0QkYxWXAwbA?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYktLa1Y0YXpmWG0wUFVWZ014T1B3bjhlSG5LZ3pwZGZNSXBfNTdwTnJ3UWFDTEFvdi1wWU5NdzVrRU1YcEo4a3BlMjNQYXdrT3YtMGZyYzFmU2tXTzd4bGRJcXZETUgyNFZJQW1XSlN3TmZERHRXWXBtOFRfaVpSbWpIS0t6WVNBQ3I4MUJoS2RrVFFIelV4OTJBeFIzR2RVRnNzUXlVaDFfZ2VvOWlVTXdXUzE4ZEZk?oc=5",
-          "cat": "Macro"
+          "title": "USMNT projected September-October roster: Pochettino takes on new era",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -75,20 +53,20 @@
       "question": "Fed Rate Hike by October 2026 Meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-by-october-2026-meeting",
-      "yes": 92,
-      "change24h": 8,
-      "vol24h": 62206,
+      "yes": 90,
+      "change24h": 5,
+      "vol24h": 101969,
       "headlines": [
         {
-          "title": "Josh Kushner Dealt Setback as Jeanie Buss Set to Represent Lakers at Pivotal NBA Meeting",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbk44ekNsREZrSlR3QWhXSU1hZVFyTjgyN2JnendrSTBhVjMzV0lGWDNNQXBRYzQ4bmhxb3JSOHZqbEp1RERMcGpwbUxfWVlCNG11YmVrRTNTbEJ2eld4REp0a0oyOHdPekY0eEFFUHN2NFN6dkZxSVBjRTBtUVFKQlpvVXljaE8wMzdFSnpCdHBGa3ZTMXNyQUkyWk12bkoxd0VYWjlvcE1BMHFITjhxbE1RX2ptbUhvcDhMd1ZiTG1MU2JzQ19NSUZ2UHhiMkY3dlFFWHEybXhFaHQzYXNwNGRTenN0QkYxWXAwbA?oc=5",
-          "cat": "NBA"
+          "title": "USMNT projected September-October roster: Pochettino takes on new era",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYktLa1Y0YXpmWG0wUFVWZ014T1B3bjhlSG5LZ3pwZGZNSXBfNTdwTnJ3UWFDTEFvdi1wWU5NdzVrRU1YcEo4a3BlMjNQYXdrT3YtMGZyYzFmU2tXTzd4bGRJcXZETUgyNFZJQW1XSlN3TmZERHRXWXBtOFRfaVpSbWpIS0t6WVNBQ3I4MUJoS2RrVFFIelV4OTJBeFIzR2RVRnNzUXlVaDFfZ2VvOWlVTXdXUzE4ZEZk?oc=5",
+          "title": "Markets on edge as US Fed meets to tackle high inflation",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJWNDRBeFRWY0YwZm5lQkRmVGJPYS01UGFBTmRHUktJcjRaclViQTRPVUk4THpiS3lwanM5d0xRWDRtaFdNb3pvRWp4bkJzajdtaEtLVGhWS3R1a0dvbnZCSEZJSnBGdGhHMlo0WV80M3M3ME1WX1R5TTJJcjEya2o2Z20?oc=5",
           "cat": "Macro"
         }
       ]
@@ -98,19 +76,41 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 94,
-      "change24h": 5,
-      "vol24h": 231242,
+      "change24h": 4,
+      "vol24h": 248543,
       "headlines": [
+        {
+          "title": "Markets on edge as US Fed meets to tackle high inflation",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJWNDRBeFRWY0YwZm5lQkRmVGJPYS01UGFBTmRHUktJcjRaclViQTRPVUk4THpiS3lwanM5d0xRWDRtaFdNb3pvRWp4bkJzajdtaEtLVGhWS3R1a0dvbnZCSEZJSnBGdGhHMlo0WV80M3M3ME1WX1R5TTJJcjEya2o2Z20?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed may be on the verge of a serious mistake, prominent economists warn",
           "source": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYktLa1Y0YXpmWG0wUFVWZ014T1B3bjhlSG5LZ3pwZGZNSXBfNTdwTnJ3UWFDTEFvdi1wWU5NdzVrRU1YcEo4a3BlMjNQYXdrT3YtMGZyYzFmU2tXTzd4bGRJcXZETUgyNFZJQW1XSlN3TmZERHRXWXBtOFRfaVpSbWpIS0t6WVNBQ3I4MUJoS2RrVFFIelV4OTJBeFIzR2RVRnNzUXlVaDFfZ2VvOWlVTXdXUzE4ZEZk?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed Rate Hike by September 2026 Meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-hike-by-september-2026-meeting",
+      "yes": 87,
+      "change24h": 4,
+      "vol24h": 45442,
+      "headlines": [
+        {
+          "title": "USMNT projected September-October roster: Pochettino takes on new era",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUo1RWE0Q0l0X3A0WmRGZTlLRGRzWnBHRW1SZmx4X0NGM0xoYmdCU3lrNW4xQTk3LXJYaV9TUlczQlMtNUZTM3BucktFdWwwVnpHUTd5ajNCVUY4N1hKQlFtd2NtMTBndWowMl84WF9SWTZKeUNSdzVjWW16bklLeHlwWEhVU1U3WDRsdlZiTGdyMGpDMzNiZ1lGbDlIZnNBNVJBMWpaUE1rQnVzMUVEcTVsTWNnOUlTTmlPZnkyZkxmZHVwbk9J?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Fed rate hike looms as $100 oil and inflation put Warsh and U.S. farms on alert",
-          "source": "AgroLatam",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
+          "title": "Markets on edge as US Fed meets to tackle high inflation",
+          "source": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdTJWNDRBeFRWY0YwZm5lQkRmVGJPYS01UGFBTmRHUktJcjRaclViQTRPVUk4THpiS3lwanM5d0xRWDRtaFdNb3pvRWp4bkJzajdtaEtLVGhWS3R1a0dvbnZCSEZJSnBGdGhHMlo0WV80M3M3ME1WX1R5TTJJcjEya2o2Z20?oc=5",
           "cat": "Macro"
         }
       ]
@@ -119,37 +119,15 @@
       "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 9,
-      "change24h": 4,
-      "vol24h": 80546,
+      "yes": 8,
+      "change24h": 3,
+      "vol24h": 85040,
       "headlines": [
         {
-          "title": "Every Kansas player drafted by the Oklahoma City Thunder",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSU9HSllEeXIzOFBPUl9ZbEhKRGZIY3diSjctQWdsN3piSEs3eVNYTHpHYlVpWlhPclpfNUJPeUxnMmkzQ21XNk9fcVNad3NhSmpIWG9qa083Y1VnUE02QmNKSDd2U3NGOEtOek40c1RKOVJoZ05aSXZHa1V0b2NUaGxobW5ScEZjQy1zZDF3?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "The Chiefs appear fully back, plus Kraft’s run-in with Macklemore",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlVhaGhjVFMwY0l2VERxa0sxNE9aN19acC13bmdpNUhJZGwzZzh5Q2pwNjFRWC05ZVplQldpM0FRT1lSMDh4TEtBT1AyM2NyNWlOZXVhaFNXeTJUdmszSGtfbzhIcC00YVh5dGJIOUZTVDRlcUhzTzB6Mm5ZeXE4WUtJU0ZnT3NPbnJnbU1BYldWc29lY1ZN?oc=5",
+          "title": "NFL news roundup: Jets' Omar Cooper Jr. week to week; Chiefs' Mansoor Delane to undergo MRI",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORlpnQUNWdE45V1VsR0g3VVExamFXa3M3YXppR1pKTkx3Y2dnWUVWSlpoWnR5OU5QeTVaRnQ2V0JtTDM1R18xZUJHY1M5UWw3ZkN3N1lxRDV0R2RtWnRsOTdObHZzZ3l6TXYyZ1FXeXRYWUFERUFnbmJMb1ZGcGpzODdaY3M5azJ6N2xrcw?oc=5",
           "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": 1,
-      "vol24h": 30438,
-      "headlines": [
-        {
-          "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
-          "source": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUg4TkMyZkR3WDBlNzU5ZUxOclZBM0FxaXNpemxLdG15NXFTTkFKTVo3UGotU0xPVExOUVJnUHNBNHRtM0hsekx4ZVJMa3lVcnhFc0otZl9JQzlXenc1bnVBYUpTX2tNdU9CeXZWM3lQaU04cVBzSzR0Mk55d3ljMjVfVVpjRXRMc01HRkRHZnZtMExvNWR2SERiYldtdS1waXVXV0lLdmJIYWNBOFhJaS04M3lVcVJ4R2lPNjdMbE01a2FETEhWZ1RKaHFJeldDUXhzYXJvd2FCY2xGbVE?oc=5",
-          "cat": "Tennis"
         }
       ]
     },
@@ -159,56 +137,84 @@
       "url": "https://polymarket.com/event/will-toronto-raptors-win-the-2027-nba-finals",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 21388,
+      "vol24h": 20888,
       "headlines": [
         {
-          "title": "Kawhi Leonard’s $7.45 Million Sacrifice to Force Raptors Trade Emerges",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa0VNN3Y5dEg3YWxuX1IzZG5sYmw4c2Y0ak1CZ3hVazhZc1lLd2E1ZmlvdWN1TmNscjNhbkRmMHBjSHBYUEx1NXVUemdtM0xGbTl2YjkyMjcyUXdsWHBhdFhQeXJaa09fRnN4SDhwVzJXbVF2ZExsZGVLU0l6Yml3WW1rWFlldnZndS1TYUZadmROMlhhNjJGaGRIVW4ydU51NXdtUHFfVzlrSl8tWm9zZWZfQkpIelQxR1ZBcXh3QUJwUWtDRHJvemstdnhKRFZEamc3dy1LY0ZpM0xWUGUzSUNn?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Raptors Make Decision on Kawhi Leonard’s Future After Clippers Owner Steve Ballmer Accepts NBA Punishment",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTEM3WkhVRlB2bjI1QkpwZ3RRdy1yeXEtT0dKOFdaRkh5MEducXZlNWEzMkxGeWx5cmNKQlNzNDhTRUU5eGRsRUlTVFNBaS1Zalk0TlFCRXBmTlk4Y1lvSFBEVE9DZEtacXhUejNjeDV5QVJFU2FkS1BRek5UR2NFazVRRHhHTjR5TW5nQmhBNlRsOGctZkxTQWY5clEtTERVTlZETEtuaGd0d3NrS2xKWmd2QVJMSGw5U3FTdjA0eEd4VXVHNU5TWWJCdnU0cFR0QTdmUXBlQVFKQmh5d2p4VThvdGY1dzZhaHhwQXczMVZWamQ1bTBqdkNjeHhKSFhnYzBlc2djcFlleXpBdGFIbzRsVWpqM2UyRG1J?oc=5",
+          "title": "Shams Charania on why Kawhi Leonard pushed for a return to Toronto: \"This is a complete legacy play\"",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelZnTE5PcUJSNWp6ajlDSHVpMnlQOWlRQ0VZcDN4ZjJSamd4ZUFET3lUdVFnOU9Lc0NHUE5mbzI3OC0ycDRZQ3FudDlLZVVHcURMZFlPMlh3WnNId3E2UGxUQ01nUDF1UlVxY0hsRDVNNXc3YTJ4RVlrZHh1YVlhVmppR0dtcnJL?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 4,
+      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 20797,
+      "vol24h": 13418,
       "headlines": [
         {
-          "title": "Cowboys’ biggest defensive problem in Week 1 wasn’t talent. That’s what concerns Brian Schottenheimer",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjdOZUphQWtTclVDaktJVGtWV3BHSjFqdDRCNkszVmxMUmsta05lUGxBTGM1Q2N5ODd2alJPMUtnMGxVX0MzcjByUVZVNnJEVmo1Z2lMOVN5WXhXUGl3MjQ2S05VMkEtUFNwVVEzMHZPTk81WE5wZGN2alBtX0hTWEtvOWZFSVd1?oc=5",
+          "title": "Pro Football Focus’ Highest-Graded Chargers Players From Week 1",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSFlLTlFsUUZQSmpMVEtPSVY3dmRxQWFTZS11MGxnT2tySGJaNzUzT25wSm5LZlpmNTAzX3cxRzVjQVhZalNZTlJUVnFCdFpwRW4yV2V0NUdvc3N1V3hsekVtU2ZHZWpFRVZ6cjFSWndYLUhSWlNKZnhFMndBeHlScEF6cHo5eWhYb3c?oc=5",
           "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 12133,
+      "headlines": [
+        {
+          "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUg4TkMyZkR3WDBlNzU5ZUxOclZBM0FxaXNpemxLdG15NXFTTkFKTVo3UGotU0xPVExOUVJnUHNBNHRtM0hsekx4ZVJMa3lVcnhFc0otZl9JQzlXenc1bnVBYUpTX2tNdU9CeXZWM3lQaU04cVBzSzR0Mk55d3ljMjVfVVpjRXRMc01HRkRHZnZtMExvNWR2SERiYldtdS1waXVXV0lLdmJIYWNBOFhJaS04M3lVcVJ4R2lPNjdMbE01a2FETEhWZ1RKaHFJeldDUXhzYXJvd2FCY2xGbVE?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "yes": 20,
-      "change24h": 4,
-      "vol24h": 22882,
-      "headlines": []
-    },
-    {
       "question": "Will Bitcoin dip to $75,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-75000-by-december-31-2026-from-august-24",
-      "yes": 89,
+      "yes": 92,
+      "change24h": 9,
+      "vol24h": 15489,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85000-by-december-31-2026-from-june-8",
+      "yes": 60,
+      "change24h": -8,
+      "vol24h": 110495,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 19,
+      "change24h": -4,
+      "vol24h": 25641,
+      "headlines": []
+    },
+    {
+      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
+      "yes": 22,
       "change24h": 4,
-      "vol24h": 9783,
+      "vol24h": 17327,
       "headlines": []
     }
   ]
