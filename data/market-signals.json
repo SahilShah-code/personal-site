@@ -1,24 +1,46 @@
 {
-  "updated": "2026-09-16T02:01:26.509Z",
+  "updated": "2026-09-16T10:23:59.488Z",
   "withNews": [
     {
       "question": "Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/fed-rate-hike-in-2026",
       "yes": 96,
-      "change24h": 3,
-      "vol24h": 300563,
+      "change24h": 2,
+      "vol24h": 329201,
       "headlines": [
         {
-          "title": "WATCH LIVE: Warsh holds briefing after Fed meeting as interest rates expected to rise",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5TakU0X3dMbFJEZU9LRkkweWpLSC1HQnR0ZGZjSnBBMnhxeDJfeXpJbl9ETDVKajhrMnZIZy1hRUdpZFllY2VTbmROclRnbUk5TU9xalVmbUxkVEd5THdtaW9ReHpua1M0Q3RLdFlTOWQ3UGxkUmF0QjZELWhNSjRENm1FbGl1RWN2VHd4Y291RGdpN0RtRDdjdFJmSjFGcU5TQVRlT0w5T3o1TzZZSHAwMTRrUHZCLU9acUZB0gHDAUFVX3lxTFBFVmt4Z21jOVJHWklFdzlfMS1HOXVvdXRJdV9sZmhENW9OWDVrdVF3UHpuYk03VFZfVVB1V3pjLUtJaUd5TUswTFhUZTNXTFYtZXdaOWIyeGszNmNwM2ZKeUhHcThwRUJSNHduR0V3cHVrTHljM25HazRWcXB0VlYtekVnZW5NQlE0ZU9YY2h1NkFmeGRsOWRBNXkxTGVVYlRUR3JKR1JwUjRfQ0xjZU9nTjBadjZqeThjeExQbG56X0Zwcw?oc=5",
+          "title": "Fed Readies for Momentous Rate Decision",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money.",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
+          "title": "The Fed is expected to raise interest rates for the first time in 3 years",
+          "source": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTl2UWxwMkg4QzNVNll6b0ZoSlhSNlVzOV9sd2Z6bWd0Vm5rS0U5Ni1XTmplTVlNamhVV1d3RDA2ckxWTVJIakVpNnlscEc3b29xRklzRGhwSmVlMmJ5d0dpcDE4eENtYXUtUEU2a3g5MlFNZXI0UkVHeHY3a2tWNU5Fd2dITUtWRnNwQ19Qdy1oS0p3Vkhleg?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Fed rate cut by December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-cut-by-december-2026-meeting",
+      "yes": 4,
+      "change24h": -2,
+      "vol24h": 25750,
+      "headlines": [
+        {
+          "title": "Fed Readies for Momentous Rate Decision",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed is expected to raise interest rates for the first time in 3 years",
+          "source": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTl2UWxwMkg4QzNVNll6b0ZoSlhSNlVzOV9sd2Z6bWd0Vm5rS0U5Ni1XTmplTVlNamhVV1d3RDA2ckxWTVJIakVpNnlscEc3b29xRklzRGhwSmVlMmJ5d0dpcDE4eENtYXUtUEU2a3g5MlFNZXI0UkVHeHY3a2tWNU5Fd2dITUtWRnNwQ19Qdy1oS0p3Vkhleg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -27,157 +49,124 @@
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 37,
-      "change24h": -3,
-      "vol24h": 30278,
+      "yes": 36,
+      "change24h": -2,
+      "vol24h": 20819,
       "headlines": [
         {
-          "title": "WATCH LIVE: Warsh holds briefing after Fed meeting as interest rates expected to rise",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5TakU0X3dMbFJEZU9LRkkweWpLSC1HQnR0ZGZjSnBBMnhxeDJfeXpJbl9ETDVKajhrMnZIZy1hRUdpZFllY2VTbmROclRnbUk5TU9xalVmbUxkVEd5THdtaW9ReHpua1M0Q3RLdFlTOWQ3UGxkUmF0QjZELWhNSjRENm1FbGl1RWN2VHd4Y291RGdpN0RtRDdjdFJmSjFGcU5TQVRlT0w5T3o1TzZZSHAwMTRrUHZCLU9acUZB0gHDAUFVX3lxTFBFVmt4Z21jOVJHWklFdzlfMS1HOXVvdXRJdV9sZmhENW9OWDVrdVF3UHpuYk03VFZfVVB1V3pjLUtJaUd5TUswTFhUZTNXTFYtZXdaOWIyeGszNmNwM2ZKeUhHcThwRUJSNHduR0V3cHVrTHljM25HazRWcXB0VlYtekVnZW5NQlE0ZU9YY2h1NkFmeGRsOWRBNXkxTGVVYlRUR3JKR1JwUjRfQ0xjZU9nTjBadjZqeThjeExQbG56X0Zwcw?oc=5",
+          "title": "Fed Readies for Momentous Rate Decision",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money.",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
+          "title": "The Fed is expected to raise interest rates for the first time in 3 years",
+          "source": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVTl2UWxwMkg4QzNVNll6b0ZoSlhSNlVzOV9sd2Z6bWd0Vm5rS0U5Ni1XTmplTVlNamhVV1d3RDA2ckxWTVJIakVpNnlscEc3b29xRklzRGhwSmVlMmJ5d0dpcDE4eENtYXUtUEU2a3g5MlFNZXI0UkVHeHY3a2tWNU5Fd2dITUtWRnNwQ19Qdy1oS0p3Vkhleg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will 3 Fed rate hikes happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
-      "yes": 8,
-      "change24h": 3,
-      "vol24h": 21100,
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 1,
+      "vol24h": 55016,
       "headlines": [
         {
-          "title": "WATCH LIVE: Warsh holds briefing after Fed meeting as interest rates expected to rise",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbG5TakU0X3dMbFJEZU9LRkkweWpLSC1HQnR0ZGZjSnBBMnhxeDJfeXpJbl9ETDVKajhrMnZIZy1hRUdpZFllY2VTbmROclRnbUk5TU9xalVmbUxkVEd5THdtaW9ReHpua1M0Q3RLdFlTOWQ3UGxkUmF0QjZELWhNSjRENm1FbGl1RWN2VHd4Y291RGdpN0RtRDdjdFJmSjFGcU5TQVRlT0w5T3o1TzZZSHAwMTRrUHZCLU9acUZB0gHDAUFVX3lxTFBFVmt4Z21jOVJHWklFdzlfMS1HOXVvdXRJdV9sZmhENW9OWDVrdVF3UHpuYk03VFZfVVB1V3pjLUtJaUd5TUswTFhUZTNXTFYtZXdaOWIyeGszNmNwM2ZKeUhHcThwRUJSNHduR0V3cHVrTHljM25HazRWcXB0VlYtekVnZW5NQlE0ZU9YY2h1NkFmeGRsOWRBNXkxTGVVYlRUR3JKR1JwUjRfQ0xjZU9nTjBadjZqeThjeExQbG56X0Zwcw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed expected to hike interest rates for first time since 2023. See what it means for your money.",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tTG1LNFp1QVVLaXp2RzhVVWdTOTQ2V2hKSUFnQkx2S29EcGVwbkNjWU94OWhmS0tuNV9paERaQk0yOXpaUGhxRUozVkdqX2MtV0UybDd1M0dqczNzdlJ5NjVrYnRzSnEzQUFOUGVuWXJZOEU?oc=5",
-          "cat": "Macro"
+          "title": "Broncos face tough opening stretch, try to avoid slow start",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmRrM3NBTk5nZnpvbU1tbVVybE9IWGdCeXVCVlFSNjRBMHpsaGV5SUhabFhNaVA1YUVuek5OZkYyeGIwaUlCcDhfaGd4dUFkX0V6MXB6bEI2MTlGOGl5dnp6Z2gzaDBnWVZ4bkRsbzQ1Yld4VFZ6TWtOSkw5dkUteUg4bE1USUdZV2lkSk1rOThnVVZ1OW9SeHBhUFh4Wmp6ZDJROEVZM2p2QQ?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 2,
+      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
+      "yes": 11,
       "change24h": 0,
-      "vol24h": 23571,
+      "vol24h": 32778,
       "headlines": [
         {
-          "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
-          "source": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUg4TkMyZkR3WDBlNzU5ZUxOclZBM0FxaXNpemxLdG15NXFTTkFKTVo3UGotU0xPVExOUVJnUHNBNHRtM0hsekx4ZVJMa3lVcnhFc0otZl9JQzlXenc1bnVBYUpTX2tNdU9CeXZWM3lQaU04cVBzSzR0Mk55d3ljMjVfVVpjRXRMc01HRkRHZnZtMExvNWR2SERiYldtdS1waXVXV0lLdmJIYWNBOFhJaS04M3lVcVJ4R2lPNjdMbE01a2FETEhWZ1RKaHFJeldDUXhzYXJvd2FCY2xGbVE?oc=5",
-          "cat": "Tennis"
+          "title": "Bills film review: Is Buffalo headed for a shootout against the Lions?",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFVaX3BUR0k5OVBUd2swSzY2VFQ0R29rMzFOeTQtY25RWDctRnYxcVpxNVBkY0NkRG1VcUxPeDhqcFczU3VUaW55VnR6c3B4WFo1Q3NhM0l5QmgzUHNjM3VKb0hoYzFEU2JCVVFfdzV0b1pnR29TbUpYd0o5NTNBWnRHMXVqcUZNYU40RU5uUWZLYU1k?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the New York Jets win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
-      "yes": 0,
+      "question": "Will Orlando Magic win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 11853,
+      "vol24h": 26929,
       "headlines": [
         {
-          "title": "Elena Rybakina played her best tennis in the final to reign supreme in this year’s US Open Grand Slam tournament, dethroning Aryna Sabalenka, 6-4, 5-7, 6-2, on Sept. 13, 2026, at Arthur Ashe Stadium in New York. Link to the full story in comment section.",
-          "source": "facebook.com",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUg4TkMyZkR3WDBlNzU5ZUxOclZBM0FxaXNpemxLdG15NXFTTkFKTVo3UGotU0xPVExOUVJnUHNBNHRtM0hsekx4ZVJMa3lVcnhFc0otZl9JQzlXenc1bnVBYUpTX2tNdU9CeXZWM3lQaU04cVBzSzR0Mk55d3ljMjVfVVpjRXRMc01HRkRHZnZtMExvNWR2SERiYldtdS1waXVXV0lLdmJIYWNBOFhJaS04M3lVcVJ4R2lPNjdMbE01a2FETEhWZ1RKaHFJeldDUXhzYXJvd2FCY2xGbVE?oc=5",
-          "cat": "Tennis"
+          "title": "‘Rigged’ – Fans are having fun as Orlando Magic’s ‘STUFF’ wins NBA Mascot of the Year",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcndVVjlCbG9tUmRSb2FuaFdnWFhMWS1hRW1jUzdObzhtcl9zcHBtekZqN2RRUGdQbURUUzFTelFHdk84MUgwZXBraW5rN3VkNGNWZjlNUEdza2dGS3VqVWdEQVpnOE1yc2hCa1Q3SmZZN25YUHFQQmxIU3RxdGE2WWlpYklmZw?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
+      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 11608,
+      "vol24h": 22225,
       "headlines": [
         {
-          "title": "Cincinnati To Host 2nd Leg Of USA's Concacaf Nations League Quarterfinal",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkJLblpFR0o1SElhUnJoYlZUT2h0LW9OVDUyRkpsbXV5NHFNZ2VXUi1tTU90Q0FGNzBWT1lkSHB1d0RWSHdVelc2XzZwcmpNeUtxbjNreTFWNi1vSHJlcXloNVY1VWctZExoNU5XWG84NTBkWU5TYmdMQVZseW1XOHNSLV81TVlNYVNyS09RUWFIOU9lSmVBa29mMjRCQkZzVnZ0NDY3T0tUd9IBqgFBVV95cUxQSWdrWThfNWpxZ2pJSS14OXVxVDBVUHpJZElPcXFFLVc4THdpQnhHXzVJSkxpaHJEODRfNlVLdldGWm9UUkVBRldaS2ZudUVrYXUxSUNOR3RXWkM0ekZ4dE1Pc2QzNmh0bEkwMFptUkRYM0o1N1JVa3ZZZEZFUHNTaFZTRnBnNXczemJDVFh6UUctTUhVLWItQlB1QTVqcEszUUIxYk9QQ09hZw?oc=5",
-          "cat": "World Cup"
+          "title": "Bills film review: Is Buffalo headed for a shootout against the Lions?",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFVaX3BUR0k5OVBUd2swSzY2VFQ0R29rMzFOeTQtY25RWDctRnYxcVpxNVBkY0NkRG1VcUxPeDhqcFczU3VUaW55VnR6c3B4WFo1Q3NhM0l5QmgzUHNjM3VKb0hoYzFEU2JCVVFfdzV0b1pnR29TbUpYd0o5NTNBWnRHMXVqcUZNYU40RU5uUWZLYU1k?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the price of Ethereum be above $2,500 on September 17?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2500-on-september-17-2026",
-      "yes": 11,
-      "change24h": -43,
-      "vol24h": 9352,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $74,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
-      "yes": 66,
-      "change24h": 39,
-      "vol24h": 13846,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
-      "yes": 19,
-      "change24h": -38,
-      "vol24h": 33059,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $76,000 on September 17?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-76k-on-september-17-2026",
-      "yes": 41,
-      "change24h": -38,
-      "vol24h": 11319,
-      "headlines": []
-    },
-    {
       "question": "Will Ethereum dip to $2,300 September 14-20?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-september-14-20-2026",
-      "yes": 50,
-      "change24h": 32,
-      "vol24h": 8524,
+      "yes": 43,
+      "change24h": 19,
+      "vol24h": 8530,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,300 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-september-2026",
-      "yes": 68,
-      "change24h": 28,
-      "vol24h": 38362,
+      "yes": 67,
+      "change24h": 17,
+      "vol24h": 38034,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $80,000 in September?",
+      "question": "Will Bitcoin reach $80,000 September 14-20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
-      "yes": 45,
-      "change24h": -27,
-      "vol24h": 95398,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
+      "yes": 20,
+      "change24h": -17,
+      "vol24h": 27828,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $74,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
+      "yes": 54,
+      "change24h": 15,
+      "vol24h": 18608,
       "headlines": []
     },
     {
@@ -185,8 +174,35 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
       "yes": 26,
-      "change24h": -22,
-      "vol24h": 86693,
+      "change24h": -14,
+      "vol24h": 67782,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
+      "yes": 48,
+      "change24h": -12,
+      "vol24h": 83677,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,700 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-september-14-20-2026",
+      "yes": 6,
+      "change24h": -11,
+      "vol24h": 13422,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $82,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-september-14-20-2026",
+      "yes": 7,
+      "change24h": -11,
+      "vol24h": 11338,
       "headlines": []
     }
   ]
