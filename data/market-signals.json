@@ -1,25 +1,95 @@
 {
-  "updated": "2026-09-16T20:33:00.667Z",
+  "updated": "2026-09-17T02:05:30.982Z",
   "withNews": [
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 70,
-      "change24h": 9,
-      "vol24h": 48208,
+      "question": "Will Bitcoin dip to $74,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
+      "yes": 33,
+      "change24h": -32,
+      "vol24h": 20831,
       "headlines": [
         {
-          "title": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3FVMXEyMVlGaGRSWXd6T3Q0OUVIU05RNWtRYlNzcFl3WnBfOXpQMEhoa25qejlGYWVjNkZTZlhCejFGR1JwWUVzUUgtcnZtYmNhd05ZZG9sTkRBMjkwTUdXZnlidGFKU3ZaWnVBZHlfTzF1bFVPX0VtNDFvOXl4UmNDa0lBbzUwLVVHeElJelhuSHJoaTlsbFNFZkZxZDg0dGFCblFJdk54Uk9xM3hFV3ZkbzhKR0lOMUNJZnZYWXlfYU1vUHV2ejlpajNEcUowNVh1eTlLUmxOamVVZGY3cHFzNjBEeWFHbDNobV9MS1V2UQ?oc=5",
+          "title": "Bitcoin And S&P 500 Volatility Update: Backwardation Drives Deepening Pullback",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObERZR2d5TEdpM2xnNGx4UlQ4RjhwSkYzVG9OVDNnNlBnY2Q5UTQwMlFmNlZsdVpNbmFIX3RsSnR6QlZUMWJzS2pvZHphQmZFb2NkejV3VnBxMjRJamVpMml5QTFjZzdHX2xBdExCZmkyQXVDeFpzeF9Pb1JEQzlfaUw1V1RkLXhyanA5WWtaMUF3NnQ5VS1VLU5GMk04cEx5OXdxTkxMbzBDWXB2ODVOZ3pVTWsxRERWSWdhR3dyZ2xwZENiQnF5NHFUSQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will 1 Fed rate hike happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 19,
+      "change24h": -28,
+      "vol24h": 9490,
+      "headlines": [
+        {
+          "title": "Fed raises interest rates by quarter point to tackle inflation",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVoeUNBMTNYV2tDbGpKekd3Y3l6RGJLM0JrekZhRElkQjI0OFFsNmFCUzNUTk5ndUFWQkstdGZfeFVDdDZPUVQ0NEpkTjBQQk54VDh0dTNrQmE3MF9Rb2xBV2NLTUF5LUlsb19rMmU3MHNEOFdzbVhVQzFDQkJobmY0REljQ2R2cFR0LTFiZ2hYcDI4NkpKZkNuOGxlWEtZNVNB?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed hikes rates and signals more increases to come",
-          "source": "The Real Economy Blog",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmp4WlpNSE1mSThNNEVBZG93ak9YSy1aQ2Npc0laRXVHRE1XbHRocWtIUUl4N0JSWnc0d0FBVE1vODhhb1lrSmRaVEpTV0RqYWlyZ3I0TWJucEVsRFRpOW9WTHFocUxueFljaWlEU0J5R0owSHA5Q0d1NS1wS2p3Vl92clpjMzBz?oc=5",
+          "title": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0ZGMzFyTlA5aVNBbUljNzB3cS1lUVc4d3o4T3pPdGdqd2xJVGZZMXdvd1JySWVmLUFfVnRFeTdld2xwOGtYNThqUUtvWjFIQ1JCZGtNd1FqWGRQcDdGeEhVNXU0aW54X0FuWXpJdnBvd1ROdDFzQnlrMkpnYmZNS0RMaWVJWENVQVZpRUdHbjVvd1R4djdoeWt3dkxkRzlIRnRySUtWRC1ITkZ0WDBDZlRVVjJRMDBnYVE?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will 2 Fed rate hikes happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
+      "yes": 64,
+      "change24h": 19,
+      "vol24h": 12704,
+      "headlines": [
+        {
+          "title": "Fed raises interest rates by quarter point to tackle inflation",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVoeUNBMTNYV2tDbGpKekd3Y3l6RGJLM0JrekZhRElkQjI0OFFsNmFCUzNUTk5ndUFWQkstdGZfeFVDdDZPUVQ0NEpkTjBQQk54VDh0dTNrQmE3MF9Rb2xBV2NLTUF5LUlsb19rMmU3MHNEOFdzbVhVQzFDQkJobmY0REljQ2R2cFR0LTFiZ2hYcDI4NkpKZkNuOGxlWEtZNVNB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0ZGMzFyTlA5aVNBbUljNzB3cS1lUVc4d3o4T3pPdGdqd2xJVGZZMXdvd1JySWVmLUFfVnRFeTdld2xwOGtYNThqUUtvWjFIQ1JCZGtNd1FqWGRQcDdGeEhVNXU0aW54X0FuWXpJdnBvd1ROdDFzQnlrMkpnYmZNS0RMaWVJWENVQVZpRUdHbjVvd1R4djdoeWt3dkxkRzlIRnRySUtWRC1ITkZ0WDBDZlRVVjJRMDBnYVE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $72,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-september-14-20-2026",
+      "yes": 7,
+      "change24h": -19,
+      "vol24h": 12084,
+      "headlines": [
+        {
+          "title": "Bitcoin And S&P 500 Volatility Update: Backwardation Drives Deepening Pullback",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObERZR2d5TEdpM2xnNGx4UlQ4RjhwSkYzVG9OVDNnNlBnY2Q5UTQwMlFmNlZsdVpNbmFIX3RsSnR6QlZUMWJzS2pvZHphQmZFb2NkejV3VnBxMjRJamVpMml5QTFjZzdHX2xBdExCZmkyQXVDeFpzeF9Pb1JEQzlfaUw1V1RkLXhyanA5WWtaMUF3NnQ5VS1VLU5GMk04cEx5OXdxTkxMbzBDWXB2ODVOZ3pVTWsxRERWSWdhR3dyZ2xwZENiQnF5NHFUSQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $72,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
+      "yes": 41,
+      "change24h": -16,
+      "vol24h": 14498,
+      "headlines": [
+        {
+          "title": "Bitcoin And S&P 500 Volatility Update: Backwardation Drives Deepening Pullback",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObERZR2d5TEdpM2xnNGx4UlQ4RjhwSkYzVG9OVDNnNlBnY2Q5UTQwMlFmNlZsdVpNbmFIX3RsSnR6QlZUMWJzS2pvZHphQmZFb2NkejV3VnBxMjRJamVpMml5QTFjZzdHX2xBdExCZmkyQXVDeFpzeF9Pb1JEQzlfaUw1V1RkLXhyanA5WWtaMUF3NnQ5VS1VLU5GMk04cEx5OXdxTkxMbzBDWXB2ODVOZ3pVTWsxRERWSWdhR3dyZ2xwZENiQnF5NHFUSQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -29,176 +99,76 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 46,
       "change24h": 8,
-      "vol24h": 637036,
+      "vol24h": 660164,
       "headlines": [
         {
-          "title": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3FVMXEyMVlGaGRSWXd6T3Q0OUVIU05RNWtRYlNzcFl3WnBfOXpQMEhoa25qejlGYWVjNkZTZlhCejFGR1JwWUVzUUgtcnZtYmNhd05ZZG9sTkRBMjkwTUdXZnlidGFKU3ZaWnVBZHlfTzF1bFVPX0VtNDFvOXl4UmNDa0lBbzUwLVVHeElJelhuSHJoaTlsbFNFZkZxZDg0dGFCblFJdk54Uk9xM3hFV3ZkbzhKR0lOMUNJZnZYWXlfYU1vUHV2ejlpajNEcUowNVh1eTlLUmxOamVVZGY3cHFzNjBEeWFHbDNobV9MS1V2UQ?oc=5",
+          "title": "Fed raises interest rates by quarter point to tackle inflation",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVoeUNBMTNYV2tDbGpKekd3Y3l6RGJLM0JrekZhRElkQjI0OFFsNmFCUzNUTk5ndUFWQkstdGZfeFVDdDZPUVQ0NEpkTjBQQk54VDh0dTNrQmE3MF9Rb2xBV2NLTUF5LUlsb19rMmU3MHNEOFdzbVhVQzFDQkJobmY0REljQ2R2cFR0LTFiZ2hYcDI4NkpKZkNuOGxlWEtZNVNB?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed hikes rates and signals more increases to come",
-          "source": "The Real Economy Blog",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmp4WlpNSE1mSThNNEVBZG93ak9YSy1aQ2Npc0laRXVHRE1XbHRocWtIUUl4N0JSWnc0d0FBVE1vODhhb1lrSmRaVEpTV0RqYWlyZ3I0TWJucEVsRFRpOW9WTHFocUxueFljaWlEU0J5R0owSHA5Q0d1NS1wS2p3Vl92clpjMzBz?oc=5",
+          "title": "Here’s what a Fed rate hike means for your mortgage, car loan and credit cards",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0ZGMzFyTlA5aVNBbUljNzB3cS1lUVc4d3o4T3pPdGdqd2xJVGZZMXdvd1JySWVmLUFfVnRFeTdld2xwOGtYNThqUUtvWjFIQ1JCZGtNd1FqWGRQcDdGeEhVNXU0aW54X0FuWXpJdnBvd1ROdDFzQnlrMkpnYmZNS0RMaWVJWENVQVZpRUdHbjVvd1R4djdoeWt3dkxkRzlIRnRySUtWRC1ITkZ0WDBDZlRVVjJRMDBnYVE?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 54,
-      "change24h": -7,
-      "vol24h": 768148,
-      "headlines": [
-        {
-          "title": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3FVMXEyMVlGaGRSWXd6T3Q0OUVIU05RNWtRYlNzcFl3WnBfOXpQMEhoa25qejlGYWVjNkZTZlhCejFGR1JwWUVzUUgtcnZtYmNhd05ZZG9sTkRBMjkwTUdXZnlidGFKU3ZaWnVBZHlfTzF1bFVPX0VtNDFvOXl4UmNDa0lBbzUwLVVHeElJelhuSHJoaTlsbFNFZkZxZDg0dGFCblFJdk54Uk9xM3hFV3ZkbzhKR0lOMUNJZnZYWXlfYU1vUHV2ejlpajNEcUowNVh1eTlLUmxOamVVZGY3cHFzNjBEeWFHbDNobV9MS1V2UQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed hikes rates and signals more increases to come",
-          "source": "The Real Economy Blog",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWmp4WlpNSE1mSThNNEVBZG93ak9YSy1aQ2Npc0laRXVHRE1XbHRocWtIUUl4N0JSWnc0d0FBVE1vODhhb1lrSmRaVEpTV0RqYWlyZ3I0TWJucEVsRFRpOW9WTHFocUxueFljaWlEU0J5R0owSHA5Q0d1NS1wS2p3Vl92clpjMzBz?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Houston Texans win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": -1,
-      "vol24h": 24171,
-      "headlines": [
-        {
-          "title": "Bengals’ Joe Burrow dealing with back tightness, expects to play vs. Texans",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnRVbFE4c0dXZmkwLWJrN3dPSDRmelhhWTBDbG1SNGZKSEUyeXBrVjd1V2ZoTDFLdVgtdWtzbXotVllnM0R3RUFMLVJyMEl3cFpxSmdheTk0X21HU0xKUm0ycmRFNEljQlpjbDZzd1h0UWZfamkzMUNOYmFRMEk4MlFRVjdMSkpMZHZtQ0RDaw?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Bengals vs. Texans Preview & Predictions | HQ NFL Stream of National Football League",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1BadXE1QmduNW5fdEp4cld4MHJWNWItekphYnFnVGpIM1JUT1BqamROcExuNkVJNms4WUdOR21IamZ2aG55N3M3WU0zV3dDT0ZvT1BUZU9nd0VYeE9GdHgzZE5NT1ZWaHMxZ1BuUllldXhnOXBULWJQUkVPcldpLWdHTTY3T2sySmFfc3BBWVhPVFFO?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 21518,
-      "headlines": [
-        {
-          "title": "Bengals’ Joe Burrow dealing with back tightness, expects to play vs. Texans",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnRVbFE4c0dXZmkwLWJrN3dPSDRmelhhWTBDbG1SNGZKSEUyeXBrVjd1V2ZoTDFLdVgtdWtzbXotVllnM0R3RUFMLVJyMEl3cFpxSmdheTk0X21HU0xKUm0ycmRFNEljQlpjbDZzd1h0UWZfamkzMUNOYmFRMEk4MlFRVjdMSkpMZHZtQ0RDaw?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Bengals vs. Texans Preview & Predictions | HQ NFL Stream of National Football League",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1BadXE1QmduNW5fdEp4cld4MHJWNWItekphYnFnVGpIM1JUT1BqamROcExuNkVJNms4WUdOR21IamZ2aG55N3M3WU0zV3dDT0ZvT1BUZU9nd0VYeE9GdHgzZE5NT1ZWaHMxZ1BuUllldXhnOXBULWJQUkVPcldpLWdHTTY3T2sySmFfc3BBWVhPVFFO?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 13336,
-      "headlines": [
-        {
-          "title": "How good is Cavan Sullivan? First USMNT call-up set to springboard Philadelphia Union teen's superstar career",
-          "source": "sports.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYUVRXzNNWkNkWUNmN2I0SWhYdE5HQ2l3ZlBQVGhuSzMydGJTMXhpc2FQSFhPZVZlZHdfOU5yblVoeFVFTTV4VDZSZWRMSDNMTC0zR0ZnVlpMdjhiSGNYYUgxeHFDYzh5R1VXRm82S0c5SnhIaVBtd00tTzJ5MjY5UXBlVlRuYXc?oc=5",
-          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will Ethereum dip to $2,200 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-september-2026",
+      "yes": 30,
+      "change24h": -10,
+      "vol24h": 8146,
+      "headlines": []
+    },
+    {
       "question": "Will Ethereum reach $2,600 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-september-2026-from-september-15",
-      "yes": 50,
-      "change24h": -23,
-      "vol24h": 71358,
+      "yes": 56,
+      "change24h": 9,
+      "vol24h": 51771,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $74,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
-      "yes": 40,
-      "change24h": -19,
-      "vol24h": 21980,
+      "question": "US recession by end of 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/us-recession-by-end-of-2026",
+      "yes": 12,
+      "change24h": -4,
+      "vol24h": 105959,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $72,000 September 14-20?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-september-14-20-2026",
-      "yes": 13,
-      "change24h": -15,
-      "vol24h": 12321,
+      "url": "https://polymarket.com/event/will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
+      "yes": 91,
+      "change24h": 4,
+      "vol24h": 29814,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $72,500 in September?",
+      "question": "Will the price of Ethereum be above $2,200 on September 18?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
-      "yes": 44,
-      "change24h": -10,
-      "vol24h": 19624,
+      "url": "https://polymarket.com/event/ethereum-above-2200-on-september-18-2026",
+      "yes": 99,
+      "change24h": 4,
+      "vol24h": 12143,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $80,000 September 14-20?",
+      "question": "Will Ethereum reach $2,700 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
-      "yes": 17,
-      "change24h": -9,
-      "vol24h": 21019,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-september-2026",
-      "yes": 23,
-      "change24h": -7,
-      "vol24h": 23046,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 75,
-      "change24h": 6,
-      "vol24h": 13721,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-september-2026",
-      "yes": 7,
-      "change24h": -5,
-      "vol24h": 60171,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
+      "yes": 30,
+      "change24h": 4,
+      "vol24h": 10449,
       "headlines": []
     }
   ]
