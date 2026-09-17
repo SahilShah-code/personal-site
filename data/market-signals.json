@@ -1,18 +1,34 @@
 {
-  "updated": "2026-09-17T10:33:31.533Z",
+  "updated": "2026-09-17T15:46:24.427Z",
   "withNews": [
+    {
+      "question": "Will Bitcoin dip to $74,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
+      "yes": 18,
+      "change24h": -38,
+      "vol24h": 26776,
+      "headlines": [
+        {
+          "title": "Why will September international break last three weeks?",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDRpaVY3X2t2ZFB5SEc0QmMtZFllTFJGVVNjeWx2cUJKc1hqakZkS0Jib2hTQkdEU19lYWNOSzBGVWEzcTZTV0xGRktkODFTZncwMjlZN0otbnpIVzR3TzJSaDZvcXAzTlBoLVE0d1BzNERjTE04STRsZWtuN0dFOHIzTklkbF96aG9YcUpBOA?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "Will 1 Fed rate hike happen in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
       "yes": 19,
-      "change24h": -29,
-      "vol24h": 12526,
+      "change24h": -28,
+      "vol24h": 14893,
       "headlines": [
         {
-          "title": "Fed raises rates as Warsh bucks Trump to contain inflation",
-          "source": "Times West Virginian",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU1NjUEVkSTBub2Exem9tOC1PeUpiekVLOFdieTljZ3lDV2ozS1VCZUFtN0dLa2NENEw4emRqZ1lZLTlkUXdmRUs4NTBPM0VKQnc5c0s5Rl9oeGg4QXI1MkN3aUdmemtWNVdZNURYbC13a2lOcFhEUlh0ZnZDVWV5YmNIQ0NmVjJua2s1WU81TTVpQkxNV2h5Tl9KRmJYSUtZQUJKVnpWQjdZeEwxR1B1amNZdlpkSDZTalFNcjVoRU9Fc1pwNG5DUl83THp1cFhhV1BZRkdjbXA3bHNHUzRj?oc=5",
+          "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
           "cat": "Macro"
         },
         {
@@ -28,13 +44,13 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
       "yes": 65,
-      "change24h": 21,
-      "vol24h": 15103,
+      "change24h": 24,
+      "vol24h": 18885,
       "headlines": [
         {
-          "title": "Fed raises rates as Warsh bucks Trump to contain inflation",
-          "source": "Times West Virginian",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU1NjUEVkSTBub2Exem9tOC1PeUpiekVLOFdieTljZ3lDV2ozS1VCZUFtN0dLa2NENEw4emRqZ1lZLTlkUXdmRUs4NTBPM0VKQnc5c0s5Rl9oeGg4QXI1MkN3aUdmemtWNVdZNURYbC13a2lOcFhEUlh0ZnZDVWV5YmNIQ0NmVjJua2s1WU81TTVpQkxNV2h5Tl9KRmJYSUtZQUJKVnpWQjdZeEwxR1B1amNZdlpkSDZTalFNcjVoRU9Fc1pwNG5DUl83THp1cFhhV1BZRkdjbXA3bHNHUzRj?oc=5",
+          "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
           "cat": "Macro"
         },
         {
@@ -46,17 +62,49 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 53,
-      "change24h": -10,
-      "vol24h": 1058567,
+      "question": "Will Bitcoin dip to $72,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
+      "yes": 35,
+      "change24h": -19,
+      "vol24h": 25256,
       "headlines": [
         {
-          "title": "Fed raises rates as Warsh bucks Trump to contain inflation",
-          "source": "Times West Virginian",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU1NjUEVkSTBub2Exem9tOC1PeUpiekVLOFdieTljZ3lDV2ozS1VCZUFtN0dLa2NENEw4emRqZ1lZLTlkUXdmRUs4NTBPM0VKQnc5c0s5Rl9oeGg4QXI1MkN3aUdmemtWNVdZNURYbC13a2lOcFhEUlh0ZnZDVWV5YmNIQ0NmVjJua2s1WU81TTVpQkxNV2h5Tl9KRmJYSUtZQUJKVnpWQjdZeEwxR1B1amNZdlpkSDZTalFNcjVoRU9Fc1pwNG5DUl83THp1cFhhV1BZRkdjbXA3bHNHUzRj?oc=5",
+          "title": "Why will September international break last three weeks?",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDRpaVY3X2t2ZFB5SEc0QmMtZFllTFJGVVNjeWx2cUJKc1hqakZkS0Jib2hTQkdEU19lYWNOSzBGVWEzcTZTV0xGRktkODFTZncwMjlZN0otbnpIVzR3TzJSaDZvcXAzTlBoLVE0d1BzNERjTE04STRsZWtuN0dFOHIzTklkbF96aG9YcUpBOA?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $77,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-77pt5k-in-september-2026-from-september-15",
+      "yes": 88,
+      "change24h": 16,
+      "vol24h": 44624,
+      "headlines": [
+        {
+          "title": "Why will September international break last three weeks?",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDRpaVY3X2t2ZFB5SEc0QmMtZFllTFJGVVNjeWx2cUJKc1hqakZkS0Jib2hTQkdEU19lYWNOSzBGVWEzcTZTV0xGRktkODFTZncwMjlZN0otbnpIVzR3TzJSaDZvcXAzTlBoLVE0d1BzNERjTE04STRsZWtuN0dFOHIzTklkbF96aG9YcUpBOA?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "yes": 14,
+      "change24h": -11,
+      "vol24h": 11647,
+      "headlines": [
+        {
+          "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNJaUw1MEZvcHA2N19Dd0hBbjlCYkFqOFNjclNYRTl4WkxkRENSbnZ2b1djdnZEN2FXZjJWVktja1BINHUxNkp6dFNPTHdkYy1nWXNVSUV4U1RzazVUajhndFlwUU5NVU10WkJ6MmU0YUhsa2tMTUVoVmV0c1BidFU1OHFiOXZ0bkpoaHdjWjh1a2piWWVqSw?oc=5",
           "cat": "Macro"
         },
         {
@@ -73,18 +121,12 @@
       "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
       "yes": 11,
       "change24h": 0,
-      "vol24h": 29331,
+      "vol24h": 31451,
       "headlines": [
         {
-          "title": "Who's playing on Thursday Night Football tonight? Lions vs Bills",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa3FkZXZRQjN1b1FsR1d4T2FVYndmQ2tVY0w0LWI1MVpKZ1oxMlN1NTR3MllkWWlSOURuOVJYTjdNVnR1eHVkRF83Nl9oZjduc09oRlpSVEFjejMzOGZ6bnNoZWN2ZXB0NzBkeGFYQm1GZ3B6ODRPT3Bqd3ZsM3J3LXBiczg0czlEaUNwVGtB?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "What channel is the Bills vs Lions on today? Time, schedule to watch Thursday Night Football",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2JDRHMxaHFsSFpjNFJvMFBIT0NrYnNZd0hmUi1EM2dBWUJvdktTRHNVVnNOQ0NLeVl6ZVF3VmpfWldhd1NPRS1MVDJvZm1ycTZCUng4VFFhd20yMk5XdFRtZUxPYmFxM1dIZzkwemNhYms5c0dkelducXJ4ZWUxazg2VQ?oc=5",
+          "title": "Kalshi promo code CBSSPORTS: Get $25 bonus for Bills-Lions, NFL Thursday Night Football predictions",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbVhrYkdpaE9ONWdTYi1MMFM3WEpZRE1YcjI0RWNwTGNteV8wcUd4VGlldmJkSHZhcm9oWWN2TXF4dUJXOXB4Y3ZVVUNPUmFXcWtKMDZlQjJPc0pKR2IxY2czempka3F1cUQ0SXh1NExmTDkyWC1CNEVmS2c0alRIR09YVGFpRkRtWDAyTHJIY0JSSFYyenZZd1ZIODg4MG5pX1ZfOXNXcDNHaXhyOUV5bzFONENZY242TUkyOGNhX0p3QnB5SWo5ODFmVnkwTFJ6?oc=5",
           "cat": "NFL"
         }
       ]
@@ -92,75 +134,12 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $74,000 September 14-20?",
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
-      "yes": 25,
-      "change24h": -28,
-      "vol24h": 24222,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $72,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-september-14-20-2026",
-      "yes": 4,
-      "change24h": -16,
-      "vol24h": 12745,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,200 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-september-2026",
-      "yes": 26,
-      "change24h": -14,
-      "vol24h": 8249,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $72,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
-      "yes": 39,
-      "change24h": -13,
-      "vol24h": 22057,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-september-2026",
-      "yes": 19,
-      "change24h": -11,
-      "vol24h": 21095,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
-      "yes": 11,
-      "change24h": -9,
-      "vol24h": 21256,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-september-2026",
-      "yes": 4,
-      "change24h": -8,
-      "vol24h": 63730,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $78,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-78k-september-14-20-2026",
-      "yes": 43,
-      "change24h": -8,
-      "vol24h": 15780,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 64,
+      "change24h": -6,
+      "vol24h": 22316,
       "headlines": []
     }
   ]
