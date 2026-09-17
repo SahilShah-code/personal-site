@@ -1,17 +1,15 @@
 {
-  "updated": "2026-09-17 03:33 UTC",
-  "net_return_pct": -46.1,
-  "realized_return_pct": -46.1,
+  "updated": "2026-09-17 08:54 UTC",
+  "net_return_pct": -100,
+  "realized_return_pct": -100,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 20,
-  "settled_total": 5,
+  "win_rate_pct": 0,
+  "settled_total": 3,
   "curve": [
     0,
-    -11.3,
-    9.2,
-    -20.9,
-    -38,
-    -46.1
+    -100,
+    -100,
+    -100
   ],
   "active": [],
   "settled": [
@@ -35,20 +33,6 @@
       "result": "no",
       "date": "2026-07-14",
       "return_pct": -100
-    },
-    {
-      "title": "Will Alexander Zverev win the Wimbledon Men's Singles?",
-      "ticker": "KXATP-26WIM-ZVE",
-      "result": "no",
-      "date": "2026-07-12",
-      "return_pct": 39.4
-    },
-    {
-      "title": "Norway vs England: To Advance",
-      "ticker": "KXWCADVANCE-26JUL11NORENG-NOR",
-      "result": "no",
-      "date": "2026-07-11",
-      "return_pct": -11.3
     }
   ]
 }
