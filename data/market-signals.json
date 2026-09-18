@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-18T15:19:38.335Z",
+  "updated": "2026-09-18T20:04:50.616Z",
   "withNews": [
     {
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 56,
-      "change24h": 10,
-      "vol24h": 239709,
+      "yes": 55,
+      "change24h": 5,
+      "vol24h": 234122,
       "headlines": [
+        {
+          "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed is sacrificing the American dream to fix a problem it can’t solve",
           "source": "Washington Examiner",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDFuQ1RvZnVtYzFDZW5hTEJ6alpKQWtmcGNIcU9uNXR5dUVGVmNraS03MHFFMmFsekNBVnE1TGRBSEhaTmxKVmliMEhFb2xpaWY1STFFMlhxSW1xV3NZNzdtUXdEckZMbXBLd1l5aXplMmtCVWxtY1FWZzhKbDUxYWttSGRMQUVTb1h5a1luYXFnakla?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "You Decide: Why Did the Fed Raise Its Interest Rate?",
-          "source": "NC State University",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnYwWFJrRTBuZFFMUTJKOTQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -28,36 +28,20 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 44,
-      "change24h": -9,
-      "vol24h": 284803,
+      "change24h": -5,
+      "vol24h": 228042,
       "headlines": [
+        {
+          "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed is sacrificing the American dream to fix a problem it can’t solve",
           "source": "Washington Examiner",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDFuQ1RvZnVtYzFDZW5hTEJ6alpKQWtmcGNIcU9uNXR5dUVGVmNraS03MHFFMmFsekNBVnE1TGRBSEhaTmxKVmliMEhFb2xpaWY1STFFMlhxSW1xV3NZNzdtUXdEckZMbXBLd1l5aXplMmtCVWxtY1FWZzhKbDUxYWttSGRMQUVTb1h5a1luYXFnakla?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "You Decide: Why Did the Fed Raise Its Interest Rate?",
-          "source": "NC State University",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnYwWFJrRTBuZFFMUTJKOTQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Josh Allen win the 2026 NFL MVP?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-josh-allen-win-the-2026-nfl-mvp",
-      "yes": 23,
-      "change24h": 7,
-      "vol24h": 12648,
-      "headlines": [
-        {
-          "title": "The Bounce: Winning an MVP is better than a title? Tracy McGrady thinks so",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkhSMFNoM1FMZXdncEZxNHNwQUEyaVAzcGhMMlJVaHB0ZlRKaGtGMjAtMXFlVE9qaW9qNW1aVndDZ3BSbGVVclkwdGs3TU9KYk40dTFxaWVuRXNNc1VrdFdpUUkwMWZITXFldjZETEZCcG9iX2cyR3FEZXVyX2tQRWpSSmN6RHJob3haMjdR?oc=5",
-          "cat": "NBA"
         }
       ]
     },
@@ -67,50 +51,66 @@
       "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
       "yes": 17,
       "change24h": -2,
-      "vol24h": 29071,
+      "vol24h": 28320,
       "headlines": [
+        {
+          "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed is sacrificing the American dream to fix a problem it can’t solve",
           "source": "Washington Examiner",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDFuQ1RvZnVtYzFDZW5hTEJ6alpKQWtmcGNIcU9uNXR5dUVGVmNraS03MHFFMmFsekNBVnE1TGRBSEhaTmxKVmliMEhFb2xpaWY1STFFMlhxSW1xV3NZNzdtUXdEckZMbXBLd1l5aXplMmtCVWxtY1FWZzhKbDUxYWttSGRMQUVTb1h5a1luYXFnakla?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "You Decide: Why Did the Fed Raise Its Interest Rate?",
-          "source": "NC State University",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnYwWFJrRTBuZFFMUTJKOTQ?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
+      "question": "Will the Arizona Cardinals win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
-      "yes": 12,
-      "change24h": 1,
-      "vol24h": 44095,
+      "url": "https://polymarket.com/event/will-the-arizona-cardinals-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 27365,
       "headlines": [
         {
-          "title": "“Won’t Unlock a Super Bowl,” “Key to Choking”: NFL Fans Troll Bills on Handing Out “Lame” Memento at $2,100,000,000 New Highmark Stadium",
+          "title": "Cardinals news: Fantasy football managers will want to hear Mike LaFleur's Jeremiyah Love update",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xRy1rN1cwSEdzY3hXVUZYSkwtNnRxS3F5SzAya3RSWDVHRksxMnU5X2RxWk9JdERpa0YxVGpyZENKQ2JyMHZHT2tYOTZER3lwZm1uUjE3Rnk3aVBXRzBWTy1wOWtfQ2hMNHNXbFVhTC1SUU9DeGJHeUtNTmY?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdFZ4bEdzVi01LXQxcG9kdVJuZjJBZWNCYU1zR21feVNvZ2oxa2J6M3J3YkZ4cjFjVmVNRURBNU9LUFV2RmZUdjZpTTNwWFM1eVcxM2FvMks5OEl4dDVpOGtDTmdZUVJpTUFJMjZFOUlOVVpLeW91UXpJUkp6SkxFNEZtSUpIck9jOFdwMlRRSHU4VEU?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
       "yes": 7,
       "change24h": 0,
-      "vol24h": 25848,
+      "vol24h": 20523,
       "headlines": [
         {
-          "title": "Tom Cruise Says Taylor Swift Was 'Schooling' Him on Football During Travis Kelce, Chiefs vs. Broncos",
-          "source": "Bleacher Report",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMjNjN2pIa0RwdWNueVkzampFVXF0RWw0Yi1BS19EOTRMU3Q4c29aQ2dZUURoaGhLaEQ1UW8tcUVPUDhsU2xNUUlYWGM4VHNReEt5VzJVX2xuQVZFSHk0TnJjdVUzOGFlZmJ0SXZQQ1R6elBKWGhqaVBPNnJtX05YblB5VDE1U2h4cUJ0MzJ6ZU9RNks2c1dqSmNKa1hiaktQcmNIcVhYUi15MTNHRWdyQ0pVNXZUdHpLNjQ3OU1pOFZLa3lvdWFVZURxazctN29ZM0paVA?oc=5",
+          "title": "Rookie running back Price hopes to build on his NFL debut with the Seahawks",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1RoVWpxaGxRTmxwR0Z2MHFTYWg3aFhndjVHN2N5enBSR1ZocU9CcTZmdGMwczdaUkFtd2c1STFvQWZJOGJnYzdFVDMxX0xSLV9mbXROTk1RYXdia0ZiTmpyR1EzenVPcE5DS1h6bFhuUTZZbUVCbFBEYW16WjM3Qk0xVTMwSVJCOTR0WjVn?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 19473,
+      "headlines": [
+        {
+          "title": "Vikings QB Kyler Murray Out For Week 2",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVM5dUVwSGV3TzdLNG1vQnpsYlFNU0cwNWRrVU5TN2dLNnk5MjVZT19vaWg4WVNPZ25GY21PUllQeHlfVXVYYjFPU2FIVjBPV0ZSSFVOd1RFSEZGSnR3emtmSzl4WlRoZ1VXQ1NoNTI4ZFV2QU1lV1p4c2pEbFhWdnlFblg3Zjg?oc=5",
           "cat": "NFL"
         }
       ]
@@ -118,75 +118,75 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum reach $2,600 September 14-20?",
+      "question": "Will the price of Ethereum be above $2,600 on September 20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-september-14-20-2026-from-september-15",
-      "yes": 83,
-      "change24h": 70,
-      "vol24h": 13660,
+      "url": "https://polymarket.com/event/ethereum-above-2600-on-september-20-2026",
+      "yes": 71,
+      "change24h": 71,
+      "vol24h": 17077,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $76,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-september-14-20-2026-from-september-17",
+      "yes": 1,
+      "change24h": -71,
+      "vol24h": 14011,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $82,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 74,
-      "change24h": 52,
-      "vol24h": 63252,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026-from-september-16",
-      "yes": 27,
-      "change24h": -50,
-      "vol24h": 26137,
+      "yes": 80,
+      "change24h": 59,
+      "vol24h": 87399,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $82,000 September 14-20?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82k-september-14-20-2026",
-      "yes": 48,
-      "change24h": 46,
-      "vol24h": 37172,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,600 on September 20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2600-on-september-20-2026",
-      "yes": 37,
-      "change24h": 32,
-      "vol24h": 14179,
+      "yes": 61,
+      "change24h": 59,
+      "vol24h": 49209,
       "headlines": []
     },
     {
       "question": "Will Ethereum reach $2,700 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
-      "yes": 62,
-      "change24h": 32,
-      "vol24h": 11301,
+      "yes": 77,
+      "change24h": 51,
+      "vol24h": 71986,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $75,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026-from-september-16",
+      "yes": 23,
+      "change24h": -49,
+      "vol24h": 34195,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,700 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-september-14-20-2026",
+      "yes": 35,
+      "change24h": 39,
+      "vol24h": 17431,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 43,
-      "change24h": 31,
-      "vol24h": 84213,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $72,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
-      "yes": 10,
-      "change24h": -29,
-      "vol24h": 34606,
+      "yes": 47,
+      "change24h": 36,
+      "vol24h": 143076,
       "headlines": []
     }
   ]
