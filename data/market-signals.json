@@ -1,51 +1,47 @@
 {
-  "updated": "2026-09-18T01:52:51.472Z",
+  "updated": "2026-09-18T10:09:37.413Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $74,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
-      "yes": 9,
-      "change24h": -21,
-      "vol24h": 27147,
+      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
+      "yes": 71,
+      "change24h": 10,
+      "vol24h": 7947,
       "headlines": [
         {
-          "title": "A Very Rojiblanco Tri Will Take Part in the September and October FIFA International Windows!",
+          "title": "Alexander-Arnold returns to England squad as Tuchel makes 10 changes from World Cup",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemdhZUhVUnEyYllkWENtOEdUTlZ6cFdld2xha1FuT3NZbmNSUDhGVlY2TWFIQ3NuZXBpVE5hbTltMUQtSHZEeFRrbWM2T0p4U1ZrQVk2TXMzbHg2dlNJd0U5VHhDaW0xS2pxaWxGMGswTjAxa2lsZ18tVDhfQWQybklsazNoaDRESjZ1TWRHZk1nQUlybnZNcjgtYklHbkhqWFN2WXJCS2dIaEZqV21vaHE1NWYzVUpZUHQ1M3lwQQ?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Confirmed: Two Real Madrid stars in England squad for Nations League fixtures as Trent returns",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVks1NF9KRDdRVGFEcEFoTVNEWEJoNEw0eS1MLTI5YzAyRHYxVnpoa3Z1bUJyc1FJeld0WkVJcXZHMW9vTWtmSDNMd2FHQllLd2RzRzVCNVhWQmJTbV9TVmp6bHhDVHMyZUlpbjRDa0JUOGY1cnMzWi1fZmtRY1hqNEJ4OU9RUzF0Uk1r?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZDhzTE1MRlpuaWJDVjcybWp5QmRVTVRRa2tPUzRTRU1lbUhoWlRmeDk2S2J2eFV1UjBhYUdvLWJwSXZCVEhaaEw5N19HclM5NkNvSm5UZVhKNkxBWnI0aGd6QXdUVDJBZ2NCX0ZGLW5tdEhCNGhBZS1xTjRyaU9FNEZhcmJSa0k?oc=5",
           "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $78,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-78k-september-14-20-2026",
-      "yes": 43,
-      "change24h": -14,
-      "vol24h": 21569,
+      "question": "Will 2 Fed rate hikes happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
+      "yes": 57,
+      "change24h": -8,
+      "vol24h": 8049,
       "headlines": [
         {
-          "title": "A Very Rojiblanco Tri Will Take Part in the September and October FIFA International Windows!",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVks1NF9KRDdRVGFEcEFoTVNEWEJoNEw0eS1MLTI5YzAyRHYxVnpoa3Z1bUJyc1FJeld0WkVJcXZHMW9vTWtmSDNMd2FHQllLd2RzRzVCNVhWQmJTbV9TVmp6bHhDVHMyZUlpbjRDa0JUOGY1cnMzWi1fZmtRY1hqNEJ4OU9RUzF0Uk1r?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
-      "yes": 7,
-      "change24h": -13,
-      "vol24h": 8637,
-      "headlines": [
+          "title": "Fed unlikely to signal aggressive tightening cycle; energy prices remain key risk: Axis Bank",
+          "source": "ET Government",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZ09XYTQ4Z0dneDNpMkMwZmhyTXZfYnlmU2l5OXItTFhKbFVKM19QYzFJZUs3VnFFa1JrZy1nUXpaX1JjZldoUW9BazVwd0I5UWZhN0UyWGxoaklKN3BxQWtRMXBhajlEMGVVR3Eyang1THF5M1RCSWZoX3NXVTdOMkt2SE1fa05MZ2JfbXVSOElpN3BhbUw4U0EzRVhtbVFWMlktVVpab3FBekFTU3VCcWFCdTNEb0JYenhiZVc5OEp4T0xQeWJ1QTNXWVhWNWp5WXJiZU51X1lJWXkwOU9IUF81QTZXUkRZa1dLcjVFbVRNMlHSAfgBQVVfeXFMUEsyUFZfWG50QmV3QTRRWHJuNWN5dnozcVNudERiVklqamtoNW55eGRXSGthNUY2M2p4dUR4NnNySGd4Rkt6X3R1czg2dEowQU9xQ21wQzZoMy05SVQ0UDhYX3g3LXE1X1hyMGpQVzBMZHk1Q3IyMGRHOEdmWDRFbG5KdGxjMzBtdFZFM1pGaktEWThzbWI5bzVWcERrLVlyQ0YxQm9GOHJRZHc4dG9lbHplN0I4TGQtcFVVcjY0QjN3cjk4eG5FQjNpdUpDanhnUGhOekstMndRTUFyNTV5b1dNMHBBcTJpRGVsa0dnVGZGd1NQR3JxYXA?oc=5",
+          "cat": "Macro"
+        },
         {
-          "title": "A Very Rojiblanco Tri Will Take Part in the September and October FIFA International Windows!",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVks1NF9KRDdRVGFEcEFoTVNEWEJoNEw0eS1MLTI5YzAyRHYxVnpoa3Z1bUJyc1FJeld0WkVJcXZHMW9vTWtmSDNMd2FHQllLd2RzRzVCNVhWQmJTbV9TVmp6bHhDVHMyZUlpbjRDa0JUOGY1cnMzWi1fZmtRY1hqNEJ4OU9RUzF0Uk1r?oc=5",
-          "cat": "World Cup"
+          "title": "Fed hikes rates to 4% as Warsh signals inflation fight is not over",
+          "source": "equiti.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk45Q1dNWmVRVHp4Q0U2bTU2Njc0M1N2bUtBMGRSWldNVV9yX1VsS1lkTm1aLVQ1R2FtbHk0anI4b2t0MXhwVmtFZm5ORzRyMVE0a190TEhra0RuTzhSVUZjNTFKcmRVbzQ1UWNlWTFoTlRtTmhORDJ6bENOajk0OTlkRGtpWWJ1ZzdrY1FvSHc3OU94UHNaUHh3?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -53,103 +49,21 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 50,
-      "change24h": -5,
-      "vol24h": 559387,
+      "yes": 48,
+      "change24h": -7,
+      "vol24h": 455555,
       "headlines": [
         {
-          "title": "A Very Rojiblanco Tri Will Take Part in the September and October FIFA International Windows!",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVks1NF9KRDdRVGFEcEFoTVNEWEJoNEw0eS1MLTI5YzAyRHYxVnpoa3Z1bUJyc1FJeld0WkVJcXZHMW9vTWtmSDNMd2FHQllLd2RzRzVCNVhWQmJTbV9TVmp6bHhDVHMyZUlpbjRDa0JUOGY1cnMzWi1fZmtRY1hqNEJ4OU9RUzF0Uk1r?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Latest Fed rate hike could increase borrowing costs for farmers ahead of harvest",
-          "source": "Brownfield Ag News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFJyUGpsdDdwR2R3eFBQQTYyZ3hkdVhQUW9POWZsOUEzZGpSc2hLamFQVTlfWkZjX0RtM0d6QURBcmRMTUF1SlNCSEZVeUF0TUtQdG9fOHFuNEJmbVpXUTZ3RUF6RVFiTDVQVGtLb052eWk5QjVOWk85MnV3NFlCZ3F1UG1BU0NCNkdoR1Q4dDVYT2FHbWt4MFUzdnFUdXAxdnNLZjlJc0plazNIRzR3SWFORTRpMU1ubmZZ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 51,
-      "change24h": 5,
-      "vol24h": 354408,
-      "headlines": [
-        {
-          "title": "A Very Rojiblanco Tri Will Take Part in the September and October FIFA International Windows!",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVks1NF9KRDdRVGFEcEFoTVNEWEJoNEw0eS1MLTI5YzAyRHYxVnpoa3Z1bUJyc1FJeld0WkVJcXZHMW9vTWtmSDNMd2FHQllLd2RzRzVCNVhWQmJTbV9TVmp6bHhDVHMyZUlpbjRDa0JUOGY1cnMzWi1fZmtRY1hqNEJ4OU9RUzF0Uk1r?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Latest Fed rate hike could increase borrowing costs for farmers ahead of harvest",
-          "source": "Brownfield Ag News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFJyUGpsdDdwR2R3eFBQQTYyZ3hkdVhQUW9POWZsOUEzZGpSc2hLamFQVTlfWkZjX0RtM0d6QURBcmRMTUF1SlNCSEZVeUF0TUtQdG9fOHFuNEJmbVpXUTZ3RUF6RVFiTDVQVGtLb052eWk5QjVOWk85MnV3NFlCZ3F1UG1BU0NCNkdoR1Q4dDVYT2FHbWt4MFUzdnFUdXAxdnNLZjlJc0plazNIRzR3SWFORTRpMU1ubmZZ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 84,
-      "change24h": 3,
-      "vol24h": 29213,
-      "headlines": [
-        {
-          "title": "Latest Fed rate hike could increase borrowing costs for farmers ahead of harvest",
-          "source": "Brownfield Ag News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeFJyUGpsdDdwR2R3eFBQQTYyZ3hkdVhQUW9POWZsOUEzZGpSc2hLamFQVTlfWkZjX0RtM0d6QURBcmRMTUF1SlNCSEZVeUF0TUtQdG9fOHFuNEJmbVpXUTZ3RUF6RVFiTDVQVGtLb052eWk5QjVOWk85MnV3NFlCZ3F1UG1BU0NCNkdoR1Q4dDVYT2FHbWt4MFUzdnFUdXAxdnNLZjlJc0plazNIRzR3SWFORTRpMU1ubmZZ?oc=5",
+          "title": "Fed unlikely to signal aggressive tightening cycle; energy prices remain key risk: Axis Bank",
+          "source": "ET Government",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZ09XYTQ4Z0dneDNpMkMwZmhyTXZfYnlmU2l5OXItTFhKbFVKM19QYzFJZUs3VnFFa1JrZy1nUXpaX1JjZldoUW9BazVwd0I5UWZhN0UyWGxoaklKN3BxQWtRMXBhajlEMGVVR3Eyang1THF5M1RCSWZoX3NXVTdOMkt2SE1fa05MZ2JfbXVSOElpN3BhbUw4U0EzRVhtbVFWMlktVVpab3FBekFTU3VCcWFCdTNEb0JYenhiZVc5OEp4T0xQeWJ1QTNXWVhWNWp5WXJiZU51X1lJWXkwOU9IUF81QTZXUkRZa1dLcjVFbVRNMlHSAfgBQVVfeXFMUEsyUFZfWG50QmV3QTRRWHJuNWN5dnozcVNudERiVklqamtoNW55eGRXSGthNUY2M2p4dUR4NnNySGd4Rkt6X3R1czg2dEowQU9xQ21wQzZoMy05SVQ0UDhYX3g3LXE1X1hyMGpQVzBMZHk1Q3IyMGRHOEdmWDRFbG5KdGxjMzBtdFZFM1pGaktEWThzbWI5bzVWcERrLVlyQ0YxQm9GOHJRZHc4dG9lbHplN0I4TGQtcFVVcjY0QjN3cjk4eG5FQjNpdUpDanhnUGhOekstMndRTUFyNTV5b1dNMHBBcTJpRGVsa0dnVGZGd1NQR3JxYXA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "How the Fed rate hike impacts your mortgage, car loan, credit card and student debt",
-          "source": "NBC Connecticut",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVlReXpLWFVHb2JEWW5YRjRsdmpVWnl6MUV3TllwM3VxZ0cyNXprbWhaU2RLdXBGNWY1SDRXd2RhbUJQUE9jOTYtUm54aHRkd2dfSHk1Ukt2ODdYZENDYW9QMDZGcXNETUUwNFA1ZUFWMVVVUTVJQ1pPNGhnYlV1Nndkb3JWY0ZYeDhvb1pyZGpMTEhmZ0RhdVh6aDVWYkNNcVNjR0J6QlQ3T3ZBTVpIUVhnQUJ3QlFIQnhfLXBRaUpSSF84eF9lZDY2aTFwQUtvSWVGNFdFVF8tXzFPcm5LcXFxa9IB6wFBVV95cUxPb3pUd1dSa1B3aktJS3RZZUczQ2V4SEFOR2xybTlzN0lyTUU0dEt3SjZTTUlBLTQyQ3BYU1QyYW1pVlBuZnAxU1BLdTA1Nmp5V2JidTUwOFFaMDY2VmRUS0xidjU0VGZhQmxtUFhINUtKT3FVbWl5ZFY2M2lWTmlidFhNeVhRTy1kUXdPYWhuUzdBNmhoREQ5ZlV3ejhqcnRQendKV0F3cjNfQW11WERkc1A0aFV4ajZfTHdEM2pGYXVRdlZCUm9zbXVLSmtaZU8xWTlEbjc4QjJWNmxBN3doT1hKcTVvOWRkMzVJ?oc=5",
+          "title": "Fed hikes rates to 4% as Warsh signals inflation fight is not over",
+          "source": "equiti.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk45Q1dNWmVRVHp4Q0U2bTU2Njc0M1N2bUtBMGRSWldNVV9yX1VsS1lkTm1aLVQ1R2FtbHk0anI4b2t0MXhwVmtFZm5ORzRyMVE0a190TEhra0RuTzhSVUZjNTFKcmRVbzQ1UWNlWTFoTlRtTmhORDJ6bENOajk0OTlkRGtpWWJ1ZzdrY1FvSHc3OU94UHNaUHh3?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
-      "yes": 12,
-      "change24h": 1,
-      "vol24h": 54097,
-      "headlines": [
-        {
-          "title": "Polymarket upgrades $50 Thursday Night Football invite code “OREGON” for Bills-Lions live odds",
-          "source": "OregonLive.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkJGYVY5dHBwTEVlSkw3SzdiNlg1enZaQ2Jxcmw1dVR6UE0yWFpXZlhlZnhHbW9uaEdxN2RNTTlLOGJrNkRfSU9VbF9TdlhhQ3pJR0Z4clNxOHdFTS1DWEpqSmRwOGx4VU8xQTk4UlJIYnctSnVLNUM0R0t4dUJ2alJHOVVLazNJR1Izdk9tVF9mTllwVmdIZnFTQnUtdHFxLTNMVk03c3BRN1RydTNqQnJJM2FGb3RncVZ0ZDhBNC1FSWNNM2dDVXVJZEp0TURsODR0RlB3?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Lions vs. Bills live updates, inactives, where to watch: Ed Oliver suffers injury, ruled out ahead of new Highmark Stadium christening on 'Thursday Night Football'",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZUFxX0FOY0hQNmxzR0ZnbW4xcVhNQUpwcTZwUk1XRjFodFdzaGY0VS11NWxaNElVNDU1VVppX1NlY3Mxd242aE1OdUxYYm05VFhKMV9DNnhlNjYzWlNpRUlsMzNSclpjaXFMQkU5S1VVUlppcGpPQ0pka3YwU25FMFlsVXdnUDRDcjdveE5OUEEtcW5XbG5neTdZVzVaZDNuc2x3YXNkSnR5T2FMVDUtdUN3RnlRajZhWkFHSUt4UDI3M1NPUkhlMFlxLU5OazllUGgyeGNWZkU?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 35052,
-      "headlines": [
-        {
-          "title": "Patrick Beverley explains why Damian Lillard is in a much better situation in Portland than Kyrie Irving is in Dallas",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2V1NmJZS0NmdTZLTzFNTUZEcURIdWRIMnVvLUJQVWlhd1ZYSC0wWGlPTmRyZHJ4ZXhicEdVc1hjWjNDbFJaV0diNnVjQVFxbkUyekg2ZFV1T085b2Jpel9rY1ZTU0hyQzdud2JfQ3dCN2R4UVJQUWJzUkFEQ2RoMVhhbkZWazhIaERHSU9R?oc=5",
-          "cat": "NBA"
         }
       ]
     },
@@ -157,69 +71,128 @@
       "question": "Will the Detroit Lions win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 15645,
+      "yes": 3,
+      "change24h": -1,
+      "vol24h": 19104,
       "headlines": [
         {
-          "title": "Polymarket upgrades $50 Thursday Night Football invite code “OREGON” for Bills-Lions live odds",
-          "source": "OregonLive.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWkJGYVY5dHBwTEVlSkw3SzdiNlg1enZaQ2Jxcmw1dVR6UE0yWFpXZlhlZnhHbW9uaEdxN2RNTTlLOGJrNkRfSU9VbF9TdlhhQ3pJR0Z4clNxOHdFTS1DWEpqSmRwOGx4VU8xQTk4UlJIYnctSnVLNUM0R0t4dUJ2alJHOVVLazNJR1Izdk9tVF9mTllwVmdIZnFTQnUtdHFxLTNMVk03c3BRN1RydTNqQnJJM2FGb3RncVZ0ZDhBNC1FSWNNM2dDVXVJZEp0TURsODR0RlB3?oc=5",
+          "title": "The Lions defense put forth another ‘not acceptable’ performance. What can be done?",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHMzZzJhUGtTQUN6eEZnNDcxaGpCank5cDZXZHJSdlRFbzI2U1NuemVYMnJEQk5iRHlfUmhTa0dCdTJwQ2dQSjlJNkF0QjhMMDlfbFhLb2EwUDM3cEg4T1cxQnBsVTZUeUZ6Vm5jaFV6bkVxbWtFMjd6cS15NFlnTEVxQzVicnhyZlJLLWlTbUhMay03cGhSdzF6bGFJb2c?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 40666,
+      "headlines": [
+        {
+          "title": "Why Commanders rookie receiver Antonio Williams is already capturing attention",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMU5ncWNrREpCZVVRUGVPNm9OVnNVTkFLczRTVzczVUx5UVo3OXpXUmtVMm5PX3lWZno1RGVzOHpLb2xaWnhMMngwbTBERTZkNDlHcURvNEhVRzhVNkFWdGN2WmxPd2FrVHg4UmNyN2gxd3hqT1pBTWozUDlQQklEUzY5dzllUGxHM2hESkdzZ3pYVmJ0bDBURWk1d0o?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 8,
+      "change24h": 0,
+      "vol24h": 20565,
+      "headlines": [
+        {
+          "title": "Creed Humphrey, OU football All-American, Kansas CIty Chiefs 2-time Super Bowl winner",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPclBOaTV0LUpsU1JMVjFBYXJaeGpFYnFtNnc2bmhhVE9OZlhkVEtLRGRtRy01LWF1T3Jma2hRR09TZXhDcFJfR3V4R1RxdGI3czc4Q0hHbEFEbnhIT1FLeUhDeHUzQm1LNGVNeFk3Y1RNaFdPWlhvOUszaTg5SUhPRm9sZW5acGVfSVFmbA?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "DJ Moore (shoulder) departs Week 2 vs. Lions",
-          "source": "nbcsports.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1g0U1dNTmFHNnotQTgxT0Q0a09zRU5seUsyR0h6M2VwTm02Q21MUkZhRlBTdXVnNVB1aW9FUURYd1E0bHh1aGg5WWxjVHZNUUJHTHZ2blRmcDZsYy1MYmxGUk9QY2p6WjN4SnEyc3JVbFBWMVBpZjRiUUo5enh0eXVYUlllV2tGZVRfNEJybGhrM3VsWXlCV0ZEM3J0REU5MG00YllnekFNN2s?oc=5",
-          "cat": "NFL"
+          "title": "Trent Alexander-Arnold and Cole Palmer recalled by England as Thomas Tuchel snubs Man City star",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmZMalkzdXdOTzAxOHlDbkFWOGd0cWFjNjFFWWg1c2RwUjBReHcxVVA4Z0dXUjFfR2lUOWZOaGp6clZ6MVEyX1c3aFpCWkh4T2NLcjcwN1RjalEyUUp0bEtsMkYzcXgtYlY5ZURUMWQtOUU0Wko3UjVzZXBXcTdoVW9QSXlVNlNueWlR?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
-      "yes": 70,
-      "change24h": 17,
-      "vol24h": 8130,
+      "question": "Will the price of Ethereum be above $2,400 on September 20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2400-on-september-20-2026",
+      "yes": 96,
+      "change24h": 30,
+      "vol24h": 8083,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $75,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 58,
-      "change24h": -7,
-      "vol24h": 49425,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026-from-september-16",
+      "yes": 48,
+      "change24h": -28,
+      "vol24h": 11698,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "question": "Will Bitcoin reach $80,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "yes": 16,
-      "change24h": -6,
-      "vol24h": 8727,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-september-2026-from-september-7",
       "yes": 72,
-      "change24h": -4,
-      "vol24h": 22624,
+      "change24h": 26,
+      "vol24h": 80735,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $74,000 September 14-20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 26,
-      "change24h": -4,
-      "vol24h": 9604,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-14-20-2026",
+      "yes": 2,
+      "change24h": -22,
+      "vol24h": 25546,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,300 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-september-2026",
+      "yes": 28,
+      "change24h": -21,
+      "vol24h": 11384,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $72,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-september-2026",
+      "yes": 21,
+      "change24h": -17,
+      "vol24h": 25409,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-september-14-20-2026",
+      "yes": 27,
+      "change24h": 16,
+      "vol24h": 17229,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,200 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-september-2026",
+      "yes": 12,
+      "change24h": -14,
+      "vol24h": 9006,
       "headlines": []
     }
   ]
