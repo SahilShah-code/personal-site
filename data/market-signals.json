@@ -1,133 +1,122 @@
 {
-  "updated": "2026-09-19T01:58:00.979Z",
+  "updated": "2026-09-19T09:50:26.168Z",
   "withNews": [
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 56,
+      "change24h": 4,
+      "vol24h": 153558,
+      "headlines": [
+        {
+          "title": "Charting the Global Economy: Fed Officials Raise Interest Rates",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVFmTS1IMVd5aHRNRXlkR1h2YjdHYWZBY2hsUHd5OU90YUNYelFzVVhsUmxzU2RGU09xRFBNendFbjJxZEl4eG1LcV9aV3ZqMWRRVU1JdDIybF8xM3J2Ukg0b3RKWTdhc1BIODVhcm9QbkxvZ3BJTjlNNlNRWDJFQmRZNGdXRXRnN2poS1hQbHRfTjlkTl9Ub05JbnpmRTBINl9zbUVjMzZSdVN2ZXNLQWNTMkZVQ3lab1VTR0swcWU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 44,
-      "change24h": -6,
-      "vol24h": 167942,
+      "change24h": -4,
+      "vol24h": 134190,
       "headlines": [
+        {
+          "title": "Charting the Global Economy: Fed Officials Raise Interest Rates",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVFmTS1IMVd5aHRNRXlkR1h2YjdHYWZBY2hsUHd5OU90YUNYelFzVVhsUmxzU2RGU09xRFBNendFbjJxZEl4eG1LcV9aV3ZqMWRRVU1JdDIybF8xM3J2Ukg0b3RKWTdhc1BIODVhcm9QbkxvZ3BJTjlNNlNRWDJFQmRZNGdXRXRnN2poS1hQbHRfTjlkTl9Ub05JbnpmRTBINl9zbUVjMzZSdVN2ZXNLQWNTMkZVQ3lab1VTR0swcWU?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More",
           "source": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "You Decide: Why Did the Fed Raise Its Interest Rate?",
-          "source": "cals.ncsu.edu",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnYwWFJrRTBuZFFMUTJKOTQ?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 55,
-      "change24h": 4,
-      "vol24h": 189189,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 68,
+      "change24h": 2,
+      "vol24h": 14353,
       "headlines": [
+        {
+          "title": "Charting the Global Economy: Fed Officials Raise Interest Rates",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVFmTS1IMVd5aHRNRXlkR1h2YjdHYWZBY2hsUHd5OU90YUNYelFzVVhsUmxzU2RGU09xRFBNendFbjJxZEl4eG1LcV9aV3ZqMWRRVU1JdDIybF8xM3J2Ukg0b3RKWTdhc1BIODVhcm9QbkxvZ3BJTjlNNlNRWDJFQmRZNGdXRXRnN2poS1hQbHRfTjlkTl9Ub05JbnpmRTBINl9zbUVjMzZSdVN2ZXNLQWNTMkZVQ3lab1VTR0swcWU?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More",
           "source": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "You Decide: Why Did the Fed Raise Its Interest Rate?",
-          "source": "cals.ncsu.edu",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnYwWFJrRTBuZFFMUTJKOTQ?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 17,
-      "change24h": -2,
-      "vol24h": 25807,
-      "headlines": [
-        {
-          "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More",
-          "source": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "You Decide: Why Did the Fed Raise Its Interest Rate?",
-          "source": "cals.ncsu.edu",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSU5RQ0FVa196SklqNmc1V3A2NFRjS0lSMmVPb1VMS0ZQWElIUDg2SjhjZ05sM0dQTTlBSXNsSXI1VkVrRi11TlBpVXloNEFrZU5pM1NfZnYyT0s1clkzblhHdV8tLU9VbzY3WkJZYUdEQTNIMnYwWFJrRTBuZFFMUTJKOTQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
+      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
-      "yes": 3,
-      "change24h": -1,
-      "vol24h": 9049,
+      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 69961,
       "headlines": [
         {
-          "title": "Detroit Pistons SF Ausar Thompson agrees to 5-year, $155M contract extension",
-          "source": "ClickOnDetroit | WDIV Local 4",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSF9scFZHbEVaMnZSS2UteS0yQUt2elNRSHJrVVFmYjMtS0hZZm5OdDdwbURPeF9TSjZaaC10ZDUtWDhlV3VTcEFzR0lzSXZRcGVFQUwyMmY3UldwTE1maGF6QlRnSjlGR3FPYS1aNlVZY1hleThMazN6RDE2UEV5eVJGeDFpQW43Qzl0bEd6cDdqQjhHa0lrN0VUVGVDUEFSdGIteVhabDRDZmJZa1k1Ukx1ZUM1cVpwVHFjZS1zbVIzMzhTMXc?oc=5",
-          "cat": "NBA"
+          "title": "‘He’s Gonna Get Pulled’ — Hall of Famer Puts Deshaun Watson on the Spot as Shedeur Sanders Waits for a Chance With the Browns",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOelYtMDlFVG44MXpZdmVEYlZ3T29XNkd3aUktSXpkSTVSOE1tY2dYRHdVeVdwcVJlYlh5ZXliWXNsM1V6OXRiaW8yN1JuQzUybXdwRVdHMkxwbzdiY1B0V1J1NHZueUYxTHZPMDJ0Tms3bmtnbDVKYlR2dk9JSWh0d0RUcw?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 10407,
+      "headlines": [
+        {
+          "title": "Caleb Downs looking to build off NFL debut vs. Commanders",
+          "source": "Dallas Cowboys",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdm11TmlJQW56ZWlYZWJUTHo5bkJBVzZacV9ZeE4zdVhCa2k5NzIzT2dfOXBkQldDa1lVTGt6c3FLVW5kWG1nUTNCTTZtOFVQb1NJMGc5c0JpeXhObk5xS2tlbVc5Z0k1Vmo2MEoxSHlfcEE1dlV3M1JESEtWNk9DZnF5X2VVNU5GWk93YlY5MTlGaDl6V3c?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the price of Bitcoin be above $80,000 on September 20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-september-20-2026",
-      "yes": 86,
-      "change24h": 84,
-      "vol24h": 12504,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $78,000 on September 20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-20-2026",
-      "yes": 99,
-      "change24h": 80,
-      "vol24h": 13196,
-      "headlines": []
-    },
-    {
       "question": "Will Bitcoin reach $82,000 September 14-20?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82k-september-14-20-2026",
-      "yes": 66,
-      "change24h": 65,
-      "vol24h": 59798,
+      "yes": 59,
+      "change24h": 52,
+      "vol24h": 63436,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $76,000 September 14-20?",
+      "question": "Will the price of Bitcoin be above $78,000 on September 21?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-september-14-20-2026-from-september-17",
-      "yes": 1,
-      "change24h": -60,
-      "vol24h": 16194,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,600 on September 20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2600-on-september-20-2026",
-      "yes": 61,
-      "change24h": 59,
-      "vol24h": 16017,
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-september-21-2026",
+      "yes": 97,
+      "change24h": 45,
+      "vol24h": 9832,
       "headlines": []
     },
     {
@@ -135,26 +124,53 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
       "yes": 80,
-      "change24h": 58,
-      "vol24h": 119267,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026-from-september-16",
-      "yes": 21,
-      "change24h": -50,
-      "vol24h": 34326,
+      "change24h": 42,
+      "vol24h": 120315,
       "headlines": []
     },
     {
       "question": "Will Ethereum reach $2,700 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
-      "yes": 69,
-      "change24h": 43,
-      "vol24h": 73707,
+      "yes": 79,
+      "change24h": 40,
+      "vol24h": 83361,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $75,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026-from-september-16",
+      "yes": 19,
+      "change24h": -31,
+      "vol24h": 37849,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,700 September 14-20?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2700-september-14-20-2026",
+      "yes": 33,
+      "change24h": 29,
+      "vol24h": 20583,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $82,000 on September 21?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-21-2026",
+      "yes": 32,
+      "change24h": 29,
+      "vol24h": 14885,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $82,000 on September 22?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-22-2026",
+      "yes": 35,
+      "change24h": 29,
+      "vol24h": 9550,
       "headlines": []
     }
   ]
