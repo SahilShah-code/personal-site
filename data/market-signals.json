@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-19T14:56:40.302Z",
+  "updated": "2026-09-19T19:41:51.894Z",
   "withNews": [
     {
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 56,
-      "change24h": -1,
-      "vol24h": 109077,
+      "change24h": 1,
+      "vol24h": 35099,
       "headlines": [
         {
           "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
-          "source": "marketwatch.com",
+          "source": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEF1ZXBKMnRtVWJIMGxkWF9aeFQ1X1hFR0o3YlZnbzFQd0pTNHp3bXo1ZFJLRy0xVHlzRURxaEg2bDl5Q3NSc1ZWZFFWOGpSeDJMMVJOZ1FQbzZtcDR4dFdNQ1NWR210VmJEUlREOGVrcl9mZFlNSDBVVzhGWDNtUEtXYTRFTy1xUXNTYjF4RUFNNjNfM2NhT0RmNEpHcHVPZkFJNHVNTGVNM2U4ZEtKNEFwNlQxeE1oU2NldHFoV2VtZFhJ?oc=5",
           "cat": "Macro"
         },
@@ -29,11 +29,11 @@
       "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
       "yes": 96,
       "change24h": 1,
-      "vol24h": 18085,
+      "vol24h": 17930,
       "headlines": [
         {
           "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
-          "source": "marketwatch.com",
+          "source": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEF1ZXBKMnRtVWJIMGxkWF9aeFQ1X1hFR0o3YlZnbzFQd0pTNHp3bXo1ZFJLRy0xVHlzRURxaEg2bDl5Q3NSc1ZWZFFWOGpSeDJMMVJOZ1FQbzZtcDR4dFdNQ1NWR210VmJEUlREOGVrcl9mZFlNSDBVVzhGWDNtUEtXYTRFTy1xUXNTYjF4RUFNNjNfM2NhT0RmNEpHcHVPZkFJNHVNTGVNM2U4ZEtKNEFwNlQxeE1oU2NldHFoV2VtZFhJ?oc=5",
           "cat": "Macro"
         },
@@ -51,11 +51,11 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 203867,
+      "vol24h": 127402,
       "headlines": [
         {
           "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it.",
-          "source": "marketwatch.com",
+          "source": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEF1ZXBKMnRtVWJIMGxkWF9aeFQ1X1hFR0o3YlZnbzFQd0pTNHp3bXo1ZFJLRy0xVHlzRURxaEg2bDl5Q3NSc1ZWZFFWOGpSeDJMMVJOZ1FQbzZtcDR4dFdNQ1NWR210VmJEUlREOGVrcl9mZFlNSDBVVzhGWDNtUEtXYTRFTy1xUXNTYjF4RUFNNjNfM2NhT0RmNEpHcHVPZkFJNHVNTGVNM2U4ZEtKNEFwNlQxeE1oU2NldHFoV2VtZFhJ?oc=5",
           "cat": "Macro"
         },
@@ -68,30 +68,66 @@
       ]
     },
     {
-      "question": "Will the Indianapolis Colts win the 2027 NFL league championship?",
+      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 14916,
+      "vol24h": 14469,
       "headlines": [
         {
-          "title": "5 Best Bets for Colts vs. Chiefs on Sunday Night Football",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmttZjFIOEt5eXFrZnJyNEEwX0N1bzR1SG9DaXVleHJ6NTA4a1RqM3h5T1IxZ2lVNWU4N0JaMVVCR2JYb3ljQU8xMnRKZVFGM3NaZTNvVzN4STdnSVcxUHh4WjBBSldzUDIyaW5ud3pRaEc1MUtBTVZRc1BVNkVhR21XMW5wVDZFSmYyRmJLNVhvcWNQ?oc=5",
-          "cat": "NFL"
+          "title": "Draymond Green Reveals Bulls Legend’s Personal Vendetta Against Him After Ruining His College Career",
+          "source": "basketballnews.com",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTFZiN0hNQUJEY3FjNG0xV1ViUGpZZXBFQXRZcWZUQXFnVVA2MVJGMHJXMkRZc0NFOThNd1I5Z0RjRm15TEE3UDk0OFplenhYdmY5WFlyZm1fclpqU2d4UmxLYjI0amlsM1QxTlM1cHh5TnIxZXcxTG1ZNWVsa3hzaVNmRHBMWG9YN0tlWlpNeHpxeENILTZPa2FGQTN5NTl6TE5yaG1HRjVLSFhMbml6Vk1BX3c0MThKbHJoblROSzdhamtMNllwWllRMmdHTHYtZWJrRERRNFhmRWV3TzIwUkR3T2Z1LVBQRzltN2h0UUlpb2lRdzAtVGpSdGVOUl85VjF4VWNR?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will the price of Bitcoin be above $90,000 on September 25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-90k-on-september-25-2026",
+      "yes": 3,
+      "change24h": -45,
+      "vol24h": 21013,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-18",
+      "yes": 40,
+      "change24h": -25,
+      "vol24h": 10920,
+      "headlines": []
+    },
+    {
       "question": "Will Ethereum reach $2,700 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
-      "yes": 78,
-      "change24h": 18,
-      "vol24h": 76673,
+      "yes": 85,
+      "change24h": 12,
+      "vol24h": 14144,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-in-september-2026-from-september-18",
+      "yes": 49,
+      "change24h": -12,
+      "vol24h": 11724,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
+      "yes": 74,
+      "change24h": -11,
+      "vol24h": 22224,
       "headlines": []
     },
     {
@@ -99,62 +135,26 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
       "yes": 85,
-      "change24h": 10,
-      "vol24h": 79103,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-september-14-20-2026",
-      "yes": 64,
-      "change24h": 8,
-      "vol24h": 50324,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $84,000 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-september-14-20-2026",
-      "yes": 8,
-      "change24h": -7,
-      "vol24h": 17662,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-september-2026-from-september-16",
-      "yes": 20,
-      "change24h": -6,
-      "vol24h": 22840,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,700 September 14-20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2700-september-14-20-2026",
-      "yes": 23,
-      "change24h": 6,
-      "vol24h": 17587,
+      "change24h": 7,
+      "vol24h": 58858,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 50,
-      "change24h": 5,
-      "vol24h": 142621,
+      "yes": 52,
+      "change24h": 6,
+      "vol24h": 95457,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 28,
-      "change24h": 5,
-      "vol24h": 13181,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 8,
+      "change24h": -4,
+      "vol24h": 55083,
       "headlines": []
     }
   ]
