@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 01:40 UTC",
+  "updated": "2026-09-20 07:02 UTC",
   "net_return_pct": -100,
   "realized_return_pct": -100,
   "unrealized_return_pct": 0,
@@ -14,6 +14,13 @@
   "active": [],
   "settled": [
     {
+      "title": "Will LSU win the LSU vs Ole Miss college football game?",
+      "ticker": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
+      "result": "no",
+      "date": "2026-09-20",
+      "return_pct": -100
+    },
+    {
       "title": "Will Rinky Hijikata win the Munar vs Hijikata: Round Of 128 match?",
       "ticker": "KXATPMATCH-26AUG01MUNHIJ-HIJ",
       "result": "no",
@@ -25,13 +32,6 @@
       "ticker": "KXNEXTTEAMNBA-26LJAM-MIA",
       "result": "no",
       "date": "2026-07-26",
-      "return_pct": -100
-    },
-    {
-      "title": "yes Reg Time: Tie,yes Ousmane Dembele: 1+",
-      "ticker": "KXMVESPORTSMULTIGAMEEXTENDED-S202655ED38E309E-E3005B7C3B8",
-      "result": "no",
-      "date": "2026-07-14",
       "return_pct": -100
     }
   ]
