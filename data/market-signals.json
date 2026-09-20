@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:12:28.442Z",
+  "updated": "2026-09-20T14:59:52.672Z",
   "withNews": [
     {
       "question": "Another Fed rate hike in 2026?",
@@ -7,19 +7,35 @@
       "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
       "yes": 87,
       "change24h": 3,
-      "vol24h": 24786,
+      "vol24h": 24966,
       "headlines": [
         {
-          "title": "The Fed Rate Hike Won’t Fix The Inflation It Targets",
-          "source": "Real Investment Advice",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVBnRmhDUmVMMDJSYzRENzJlTy14VFNWa2JiSTl4eTRjSHFNWk9xdVhuTGRNQ1gzOTRMR2JJVXNITlpEaXJMamh0OEVsaWVhUGU5dEZDX0pkRElSbFZjbDQ3Ti1kSnBVRFBaZUNPQU5jamJhVWdEOTlIMlFYUEtfell6dzdDMlFoRkNNX3U5SUdfcVJPODk3RV9Fa1NwczYxOHc?oc=5",
+          "title": "Can the Fed pass Kevin Warsh’s trend test?",
+          "source": "washingtonexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3ViOGFnRzBmdlJiMExLZ1AzaGRkeEhVcGN6bm1kTDJJN19pM293NDBmaDRjWWFVVzk2Tl9icVByOFREMFFfdlV0WUFNZi1KUkZfOWZkSWRLZVpnWGpMd2xqdjA4RU42ckQ3bkdjRV9mb1QyYk9VemF4azg1dXlVQzBwSDRMYkNFVW5rVHpEdHpCSUExSFMtYWNR?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Charting the Global Economy: Fed Officials Raise Interest Rates",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVFmTS1IMVd5aHRNRXlkR1h2YjdHYWZBY2hsUHd5OU90YUNYelFzVVhsUmxzU2RGU09xRFBNendFbjJxZEl4eG1LcV9aV3ZqMWRRVU1JdDIybF8xM3J2Ukg0b3RKWTdhc1BIODVhcm9QbkxvZ3BJTjlNNlNRWDJFQmRZNGdXRXRnN2poS1hQbHRfTjlkTl9Ub05JbnpmRTBINl9zbUVjMzZSdVN2ZXNLQWNTMkZVQ3lab1VTR0swcWU?oc=5",
+          "title": "The Fed Rate Hike Won’t Fix The Inflation It Targets",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelJrSkkyZ3FaQ1BpRkFzZWpRQjgtakZFaGtHMEY4TGdqdVRxSkFxQWhQeUtjVFZhOFAtUmhtTkpqZm8tcWFGWnh1bEd3T21aRjRVblpTRlc3RkpUeGxrUzl6Sl84ZGh5enVaa29UVEhMNmZvbTV1WlduZjlnSUI4ZHY5VzFycFByanBUVw?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 13,
+      "change24h": 1,
+      "vol24h": 17542,
+      "headlines": [
+        {
+          "title": "Is Puka Nacua playing Week 2? Injury update, fantasy outlook for Rams WR",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVk4MzRwTmRuUEdpNUc0cTB2NFpXQnR5eFhTYW5yNzJZMkN6R3dGUm9oTjhLN0NRUENYR0JrX0s5aGJ4WERvNjhHM29jN3B4Nm1pSmNWbFVUZDZHZ2d0NVpEVExEZVpHakVtd2dxQzBpek9QeWxkVC1rdzVFWFZzbEVhUkFFSS1DNlBGRWlUMEdESGQxRDM1WmJpT1NOWm83VnV0Xy1jR2hXTUhO?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -29,18 +45,18 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 56,
       "change24h": 0,
-      "vol24h": 48760,
+      "vol24h": 66779,
       "headlines": [
         {
-          "title": "The Fed Rate Hike Won’t Fix The Inflation It Targets",
-          "source": "Real Investment Advice",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVBnRmhDUmVMMDJSYzRENzJlTy14VFNWa2JiSTl4eTRjSHFNWk9xdVhuTGRNQ1gzOTRMR2JJVXNITlpEaXJMamh0OEVsaWVhUGU5dEZDX0pkRElSbFZjbDQ3Ti1kSnBVRFBaZUNPQU5jamJhVWdEOTlIMlFYUEtfell6dzdDMlFoRkNNX3U5SUdfcVJPODk3RV9Fa1NwczYxOHc?oc=5",
+          "title": "Can the Fed pass Kevin Warsh’s trend test?",
+          "source": "washingtonexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3ViOGFnRzBmdlJiMExLZ1AzaGRkeEhVcGN6bm1kTDJJN19pM293NDBmaDRjWWFVVzk2Tl9icVByOFREMFFfdlV0WUFNZi1KUkZfOWZkSWRLZVpnWGpMd2xqdjA4RU42ckQ3bkdjRV9mb1QyYk9VemF4azg1dXlVQzBwSDRMYkNFVW5rVHpEdHpCSUExSFMtYWNR?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Charting the Global Economy: Fed Officials Raise Interest Rates",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVFmTS1IMVd5aHRNRXlkR1h2YjdHYWZBY2hsUHd5OU90YUNYelFzVVhsUmxzU2RGU09xRFBNendFbjJxZEl4eG1LcV9aV3ZqMWRRVU1JdDIybF8xM3J2Ukg0b3RKWTdhc1BIODVhcm9QbkxvZ3BJTjlNNlNRWDJFQmRZNGdXRXRnN2poS1hQbHRfTjlkTl9Ub05JbnpmRTBINl9zbUVjMzZSdVN2ZXNLQWNTMkZVQ3lab1VTR0swcWU?oc=5",
+          "title": "The Fed Rate Hike Won’t Fix The Inflation It Targets",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelJrSkkyZ3FaQ1BpRkFzZWpRQjgtakZFaGtHMEY4TGdqdVRxSkFxQWhQeUtjVFZhOFAtUmhtTkpqZm8tcWFGWnh1bEd3T21aRjRVblpTRlc3RkpUeGxrUzl6Sl84ZGh5enVaa29UVEhMNmZvbTV1WlduZjlnSUI4ZHY5VzFycFByanBUVw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -51,110 +67,92 @@
       "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 43720,
+      "vol24h": 45406,
       "headlines": [
         {
-          "title": "The Fed Rate Hike Won’t Fix The Inflation It Targets",
-          "source": "Real Investment Advice",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVBnRmhDUmVMMDJSYzRENzJlTy14VFNWa2JiSTl4eTRjSHFNWk9xdVhuTGRNQ1gzOTRMR2JJVXNITlpEaXJMamh0OEVsaWVhUGU5dEZDX0pkRElSbFZjbDQ3Ti1kSnBVRFBaZUNPQU5jamJhVWdEOTlIMlFYUEtfell6dzdDMlFoRkNNX3U5SUdfcVJPODk3RV9Fa1NwczYxOHc?oc=5",
+          "title": "Can the Fed pass Kevin Warsh’s trend test?",
+          "source": "washingtonexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3ViOGFnRzBmdlJiMExLZ1AzaGRkeEhVcGN6bm1kTDJJN19pM293NDBmaDRjWWFVVzk2Tl9icVByOFREMFFfdlV0WUFNZi1KUkZfOWZkSWRLZVpnWGpMd2xqdjA4RU42ckQ3bkdjRV9mb1QyYk9VemF4azg1dXlVQzBwSDRMYkNFVW5rVHpEdHpCSUExSFMtYWNR?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Charting the Global Economy: Fed Officials Raise Interest Rates",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVFmTS1IMVd5aHRNRXlkR1h2YjdHYWZBY2hsUHd5OU90YUNYelFzVVhsUmxzU2RGU09xRFBNendFbjJxZEl4eG1LcV9aV3ZqMWRRVU1JdDIybF8xM3J2Ukg0b3RKWTdhc1BIODVhcm9QbkxvZ3BJTjlNNlNRWDJFQmRZNGdXRXRnN2poS1hQbHRfTjlkTl9Ub05JbnpmRTBINl9zbUVjMzZSdVN2ZXNLQWNTMkZVQ3lab1VTR0swcWU?oc=5",
+          "title": "The Fed Rate Hike Won’t Fix The Inflation It Targets",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelJrSkkyZ3FaQ1BpRkFzZWpRQjgtakZFaGtHMEY4TGdqdVRxSkFxQWhQeUtjVFZhOFAtUmhtTkpqZm8tcWFGWnh1bEd3T21aRjRVblpTRlc3RkpUeGxrUzl6Sl84ZGh5enVaa29UVEhMNmZvbTV1WlduZjlnSUI4ZHY5VzFycFByanBUVw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 22,
+      "question": "Will the Indianapolis Colts win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 15000,
+      "vol24h": 44636,
       "headlines": [
         {
-          "title": "Thunder 2026-27 Season Odds, Roster and Predictions",
-          "source": "RG.org",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2xvcW01WkpqT2RKYnJjZnFMWnVOYjZ6WGxxY0h6TWx1UkdGeXoycEJPQVNmSU94YjVrU1RIUUlqYUx4a1JRV0pSUGt6Yll3cGhUM25iVVVaUmtxOEdMOVBrdjFUR2lzb3FndEsxN0tFNGdxNE9uNkhrak1QdGNzZWlaZGhLbEpxSUdPZnpZa0lfaEh3aXNsV09ITHpRZHp6?oc=5",
-          "cat": "NBA"
+          "title": "Chiefs star fined more than $8k ahead of 'SNF' matchup vs. Colts",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55cGQxQy1oQTN4R3o3a19VNmQzMXlhMVRXdTliZ1BDSzMtRnNfcUhLWXJFYWZrUXBlU2dONDBLQ1JEcEV5VV82dzhsX3U5b0tHNkNha09rLWdnZXlrRERheFQ2cFhtQjZRYTMtZmpncV9yWHREQi1mRFpkTWhNZjA?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum reach $2,700 in September?",
+      "question": "Will Bitcoin reach $82,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2700-in-september-2026",
-      "yes": 55,
-      "change24h": -25,
-      "vol24h": 11445,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-in-september-2026-from-september-18",
-      "yes": 72,
-      "change24h": 20,
-      "vol24h": 10428,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
+      "yes": 69,
+      "change24h": -16,
+      "vol24h": 32051,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $80,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
-      "yes": 94,
-      "change24h": 17,
-      "vol24h": 29270,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-september-2026",
-      "yes": 64,
-      "change24h": -16,
-      "vol24h": 35271,
+      "yes": 87,
+      "change24h": 13,
+      "vol24h": 37704,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026",
-      "yes": 34,
+      "yes": 38,
       "change24h": -12,
-      "vol24h": 75435,
+      "vol24h": 56840,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $87,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 18,
-      "change24h": -8,
-      "vol24h": 26168,
+      "yes": 19,
+      "change24h": -10,
+      "vol24h": 27667,
       "headlines": []
     },
     {
       "question": "Will Ethereum hit $3k by September 30, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-hit-3k-by-september-30-2026",
-      "yes": 9,
-      "change24h": -8,
-      "vol24h": 15467,
+      "yes": 10,
+      "change24h": -6,
+      "vol24h": 14835,
       "headlines": []
     },
     {
-      "question": "Will Ethereum reach $3,000 in September?",
+      "question": "Will Bitcoin reach $90,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3000-in-september-2026",
-      "yes": 11,
-      "change24h": -6,
-      "vol24h": 9760,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
+      "yes": 10,
+      "change24h": -4,
+      "vol24h": 49025,
       "headlines": []
     }
   ]
