@@ -1,50 +1,112 @@
 {
-  "updated": "2026-09-22T15:51:22.048Z",
+  "updated": "2026-09-22T20:34:56.897Z",
   "withNews": [
+    {
+      "question": "Will Ethereum reach $2,900 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2900-september-21-27-2026",
+      "yes": 34,
+      "change24h": -25,
+      "vol24h": 10745,
+      "headlines": [
+        {
+          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
+          "source": "Charlotte FC",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
+          "source": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,900 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2900-in-september-2026",
+      "yes": 45,
+      "change24h": -20,
+      "vol24h": 19558,
+      "headlines": [
+        {
+          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
+          "source": "Charlotte FC",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
+          "source": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $88,000 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
+      "yes": 62,
+      "change24h": -19,
+      "vol24h": 20000,
+      "headlines": [
+        {
+          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
+          "source": "Charlotte FC",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
+          "source": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "CNN, Politico, or MS NOW unbanned from White House by September 30?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-september-30",
-      "yes": 81,
-      "change24h": 36,
-      "vol24h": 15688,
+      "yes": 76,
+      "change24h": 8,
+      "vol24h": 15454,
       "headlines": [
         {
-          "title": "NBA announces star-studded lineup to headline the NBA House in Macao 2026",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEQ4TWxHSEdHZklNRU5veHlacVZ6TzJodmhybjdCTGFPZEpkc2xYcll4LU5ySks3bEphVHJaX0Y0TkV6TkFReTFBX0Y4ei1UWnBlVFlqZU1pd2dRVjRpTGlwZU9XZzhIREUxa0hqYWdReEFZM1A0SHgzUXYySlZ0WTN2UWZWYV9PZEo4a1EwTVpPVmZEdVh6ai1jekFMVzRTWjBBbl84T2tvbDFOa0JOZjlJMnFwcUdKbmFF?oc=5",
-          "cat": "NBA"
+          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
+          "source": "Charlotte FC",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
+          "source": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
-      "yes": 14,
-      "change24h": 3,
-      "vol24h": 17435,
-      "headlines": [
-        {
-          "title": "Kyren Williams’ mistake opening door for Blake Corum in Fantasy Football & Rams backfield",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQm1KRHJkWGh3cWkxblhKZW1kbWtpV3BDdldSOExnSnVoZW9oNVJlalJqRkVheFlTc3l6UXJ4OXZEOFAzR0JlTTRtUWEtN21INjhpMlRLWmhYSkNXUzc3bWpQd09INm1nek5SRHlMTFZ1Si11dzFna3B0N0JYcTBYQ05tNXpHSVdZRnJweg?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 51,
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 87,
       "change24h": 2,
-      "vol24h": 365798,
+      "vol24h": 39318,
       "headlines": [
         {
-          "title": "Fed projects era of too-high inflation to last better part of a decade",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWlDV2J2dHgyaHFISkpoaUJnbjM5Mmo0R1dsZ19UUTVZbGg2SC1KdW5SV0RZYUxJZF9MWjRHWFpKUXJHb19SdzNtT2plMjFzRnd1Z3JKZzlDU0Fua2kxUmhKQmhKdkczT00yZTVUaWJqZTdGR0Z5aWEyOXhlQ19ITGJzbjZUVmFCX0l3TjByeHpqMXMxR0p3SXNUcE1GMDJ6Z0x1cnYwMGlYTWxuSkxzWmVDTE53Wjln?oc=5",
+          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Opinion: You decide — why did the Fed raise its interest rat...",
+          "source": "The Wake Weekly",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2laYUNSTjdCR1ZiWExwN1VkSHEtWElzNnRSdWF2LVZWX1FQbG9pY3R2UjNYNDBKQWZmZ1BZeV9ESVNJUGlqY1RDTF9jUEpBdy1jYW1Pd3RkbkhqZE5TUF9RdU5TTDJPVXg4ZkVxbFVtdGR3MFp6Q0prMjdQZXVlNVNIZ051Y2V3TFQySUo2amlYLXdCdFFmYU1ZZzNpcE9NYllCYQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -55,13 +117,35 @@
       "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
       "yes": 14,
       "change24h": -2,
-      "vol24h": 18174,
+      "vol24h": 17741,
       "headlines": [
         {
-          "title": "Fed projects era of too-high inflation to last better part of a decade",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWlDV2J2dHgyaHFISkpoaUJnbjM5Mmo0R1dsZ19UUTVZbGg2SC1KdW5SV0RZYUxJZF9MWjRHWFpKUXJHb19SdzNtT2plMjFzRnd1Z3JKZzlDU0Fua2kxUmhKQmhKdkczT00yZTVUaWJqZTdGR0Z5aWEyOXhlQ19ITGJzbjZUVmFCX0l3TjByeHpqMXMxR0p3SXNUcE1GMDJ6Z0x1cnYwMGlYTWxuSkxzWmVDTE53Wjln?oc=5",
+          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Opinion: You decide — why did the Fed raise its interest rat...",
+          "source": "The Wake Weekly",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2laYUNSTjdCR1ZiWExwN1VkSHEtWElzNnRSdWF2LVZWX1FQbG9pY3R2UjNYNDBKQWZmZ1BZeV9ESVNJUGlqY1RDTF9jUEpBdy1jYW1Pd3RkbkhqZE5TUF9RdU5TTDJPVXg4ZkVxbFVtdGR3MFp6Q0prMjdQZXVlNVNIZ051Y2V3TFQySUo2amlYLXdCdFFmYU1ZZzNpcE9NYllCYQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "CNN, Politico, or MS NOW unbanned from White House by October 31?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-october-31",
+      "yes": 90,
+      "change24h": -2,
+      "vol24h": 14458,
+      "headlines": [
+        {
+          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
+          "source": "usatoday.com",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -71,120 +155,74 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
       "yes": 32,
       "change24h": -2,
-      "vol24h": 11945,
+      "vol24h": 12051,
       "headlines": [
         {
-          "title": "Fed projects era of too-high inflation to last better part of a decade",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWlDV2J2dHgyaHFISkpoaUJnbjM5Mmo0R1dsZ19UUTVZbGg2SC1KdW5SV0RZYUxJZF9MWjRHWFpKUXJHb19SdzNtT2plMjFzRnd1Z3JKZzlDU0Fua2kxUmhKQmhKdkczT00yZTVUaWJqZTdGR0Z5aWEyOXhlQ19ITGJzbjZUVmFCX0l3TjByeHpqMXMxR0p3SXNUcE1GMDJ6Z0x1cnYwMGlYTWxuSkxzWmVDTE53Wjln?oc=5",
+          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Opinion: You decide — why did the Fed raise its interest rat...",
+          "source": "The Wake Weekly",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2laYUNSTjdCR1ZiWExwN1VkSHEtWElzNnRSdWF2LVZWX1FQbG9pY3R2UjNYNDBKQWZmZ1BZeV9ESVNJUGlqY1RDTF9jUEpBdy1jYW1Pd3RkbkhqZE5TUF9RdU5TTDJPVXg4ZkVxbFVtdGR3MFp6Q0prMjdQZXVlNVNIZ051Y2V3TFQySUo2amlYLXdCdFFmYU1ZZzNpcE9NYllCYQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Washington Wizards win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
       "yes": 1,
-      "change24h": 0,
-      "vol24h": 143057,
+      "change24h": -1,
+      "vol24h": 42672,
       "headlines": [
         {
-          "title": "Must-watch Wizards? Trae Young, Anthony Davis, AJ Dybantsa and the NBA's weirdest group project",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjFqb08ySTc2UWlkRmZVVDRtd1A1UkVqcDNUeXhZbWtfMlllSDZJemw3ek1aMDFudkUyMm40ZmNkLXhPYkVpcFVMVU96ZGJmci1sU2toUldLamN2MFh4RXhMTVFMNTF2OTFvaXU5THJpc1JPVlBhd0h0S08tMUF3UnZVMG10TW1rNHF3X3E5cHBLMElQRE1rVEhFc3RQdDBsb1dDWVJzMmlNWFFRc3hpdzlNbjVBR2o5eW1xazBId2lMazcxbnY0VGdCeExCanFQNzQxMlJtQ2Uwc0U?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "CNN, Politico, or MS NOW unbanned from White House by October 31?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-october-31",
-      "yes": 90,
-      "change24h": 0,
-      "vol24h": 10671,
-      "headlines": [
-        {
-          "title": "NBA announces star-studded lineup to headline the NBA House in Macao 2026",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEQ4TWxHSEdHZklNRU5veHlacVZ6TzJodmhybjdCTGFPZEpkc2xYcll4LU5ySks3bEphVHJaX0Y0TkV6TkFReTFBX0Y4ei1UWnBlVFlqZU1pd2dRVjRpTGlwZU9XZzhIREUxa0hqYWdReEFZM1A0SHgzUXYySlZ0WTN2UWZWYV9PZEo4a1EwTVpPVmZEdVh6ai1jekFMVzRTWjBBbl84T2tvbDFOa0JOZjlJMnFwcUdKbmFF?oc=5",
-          "cat": "NBA"
+          "title": "Giants QB Jaxson Dart could miss rest of season with knee injury: Source",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzBtcXFfVUFlWWVUUjRSNzJoMnNiVHB4OVNGYzJKUEZsamdRSUhiNXc2T1d3c1lKdFN2YURxbDZ5aHAwMnBicUQwS2d2ZFJFdVNfcVdoMVJFckRsSy1WcHZWRm1OZkJscFQ2Zkk1aVdhM2pmLUw5SlNmOXZHX2RFWnVfTDMtRVViTVl4Z2tqUDdqdXRNb1Y0?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum reach $2,900 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2900-september-21-27-2026",
-      "yes": 34,
-      "change24h": -10,
-      "vol24h": 18182,
+      "question": "San Diego 2: Tyler Zink vs Federico Agustin Gomez",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/atp-zink-gomez-2026-09-21",
+      "yes": 3,
+      "change24h": -45,
+      "vol24h": 9777,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
-      "yes": 18,
-      "change24h": -9,
-      "vol24h": 29851,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,000 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3000-september-21-27-2026",
-      "yes": 14,
-      "change24h": -9,
-      "vol24h": 18398,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,200 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3200-in-september-2026",
-      "yes": 5,
-      "change24h": -6,
-      "vol24h": 196138,
+      "question": "Buenos Aires 2: Lucio Ratti vs Federico Coria",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/atp-ratti-coria-2026-09-21",
+      "yes": 68,
+      "change24h": 15,
+      "vol24h": 75394,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 28,
-      "change24h": -5,
-      "vol24h": 306372,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 83,
-      "change24h": 5,
-      "vol24h": 161873,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,300 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3300-in-september-2026",
-      "yes": 3,
+      "yes": 27,
       "change24h": -4,
-      "vol24h": 67560,
+      "vol24h": 307149,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $95,000 in September?",
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95k-in-september-2026",
-      "yes": 11,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 60,
       "change24h": -4,
-      "vol24h": 59756,
+      "vol24h": 12363,
       "headlines": []
     }
   ]
