@@ -1,51 +1,47 @@
 {
-  "updated": "2026-09-22T02:08:14.398Z",
+  "updated": "2026-09-22T10:27:35.397Z",
   "withNews": [
     {
-      "question": "Will the price of Bitcoin be above $84,000 on September 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-84k-on-september-23-2026",
-      "yes": 79,
-      "change24h": 67,
-      "vol24h": 11209,
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 53,
+      "change24h": 2,
+      "vol24h": 409371,
       "headlines": [
         {
-          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
-          "source": "Nashville SC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
-          "cat": "World Cup"
+          "title": "Fed projects era of too-high inflation to last better part of a decade",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWlDV2J2dHgyaHFISkpoaUJnbjM5Mmo0R1dsZ19UUTVZbGg2SC1KdW5SV0RZYUxJZF9MWjRHWFpKUXJHb19SdzNtT2plMjFzRnd1Z3JKZzlDU0Fua2kxUmhKQmhKdkczT00yZTVUaWJqZTdGR0Z5aWEyOXhlQ19ITGJzbjZUVmFCX0l3TjByeHpqMXMxR0p3SXNUcE1GMDJ6Z0x1cnYwMGlYTWxuSkxzWmVDTE53Wjln?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFhqN1dIUUY0N3F2OUc0dnRLd3hrMkhzZ21CenVOaHU2d1Z5YlhDT1FMcFpTNnVFX1ZwaHh6R3pibkV6b19mODFneEh4VWFJR2p0bGlHeDAwT2JLdElJMWFSNEdIajlWZEtzNmJnSGZDUGs2SWNGVThyLTVHS0UzOVVUak90U1FCOGFXbUI2SHVQQ0VrN2IwcTZqbjNZZW5KckVDcGoyUm5uOTdqaTdPZg?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $82,000 on September 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-23-2026",
-      "yes": 95,
-      "change24h": 62,
-      "vol24h": 13618,
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 70,
+      "change24h": 2,
+      "vol24h": 37551,
       "headlines": [
         {
-          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
-          "source": "Nashville SC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
-      "yes": 28,
-      "change24h": -55,
-      "vol24h": 56783,
-      "headlines": [
+          "title": "Fed projects era of too-high inflation to last better part of a decade",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWlDV2J2dHgyaHFISkpoaUJnbjM5Mmo0R1dsZ19UUTVZbGg2SC1KdW5SV0RZYUxJZF9MWjRHWFpKUXJHb19SdzNtT2plMjFzRnd1Z3JKZzlDU0Fua2kxUmhKQmhKdkczT00yZTVUaWJqZTdGR0Z5aWEyOXhlQ19ITGJzbjZUVmFCX0l3TjByeHpqMXMxR0p3SXNUcE1GMDJ6Z0x1cnYwMGlYTWxuSkxzWmVDTE53Wjln?oc=5",
+          "cat": "Macro"
+        },
         {
-          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
-          "source": "Nashville SC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
-          "cat": "World Cup"
+          "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFhqN1dIUUY0N3F2OUc0dnRLd3hrMkhzZ21CenVOaHU2d1Z5YlhDT1FMcFpTNnVFX1ZwaHh6R3pibkV6b19mODFneEh4VWFJR2p0bGlHeDAwT2JLdElJMWFSNEdIajlWZEtzNmJnSGZDUGs2SWNGVThyLTVHS0UzOVVUak90U1FCOGFXbUI2SHVQQ0VrN2IwcTZqbjNZZW5KckVDcGoyUm5uOTdqaTdPZg?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -53,37 +49,15 @@
       "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 28,
-      "change24h": -5,
-      "vol24h": 10254,
-      "headlines": [
-        {
-          "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFhqN1dIUUY0N3F2OUc0dnRLd3hrMkhzZ21CenVOaHU2d1Z5YlhDT1FMcFpTNnVFX1ZwaHh6R3pibkV6b19mODFneEh4VWFJR2p0bGlHeDAwT2JLdElJMWFSNEdIajlWZEtzNmJnSGZDUGs2SWNGVThyLTVHS0UzOVVUak90U1FCOGFXbUI2SHVQQ0VrN2IwcTZqbjNZZW5KckVDcGoyUm5uOTdqaTdPZg?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 53,
+      "yes": 32,
       "change24h": -2,
-      "vol24h": 408999,
+      "vol24h": 12047,
       "headlines": [
         {
-          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
-          "source": "Nashville SC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
-          "cat": "World Cup"
+          "title": "Fed projects era of too-high inflation to last better part of a decade",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWlDV2J2dHgyaHFISkpoaUJnbjM5Mmo0R1dsZ19UUTVZbGg2SC1KdW5SV0RZYUxJZF9MWjRHWFpKUXJHb19SdzNtT2plMjFzRnd1Z3JKZzlDU0Fua2kxUmhKQmhKdkczT00yZTVUaWJqZTdGR0Z5aWEyOXhlQ19ITGJzbjZUVmFCX0l3TjByeHpqMXMxR0p3SXNUcE1GMDJ6Z0x1cnYwMGlYTWxuSkxzWmVDTE53Wjln?oc=5",
+          "cat": "Macro"
         },
         {
           "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
@@ -94,105 +68,33 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 47,
-      "change24h": 2,
-      "vol24h": 154234,
-      "headlines": [
-        {
-          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
-          "source": "Nashville SC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFhqN1dIUUY0N3F2OUc0dnRLd3hrMkhzZ21CenVOaHU2d1Z5YlhDT1FMcFpTNnVFX1ZwaHh6R3pibkV6b19mODFneEh4VWFJR2p0bGlHeDAwT2JLdElJMWFSNEdIajlWZEtzNmJnSGZDUGs2SWNGVThyLTVHS0UzOVVUak90U1FCOGFXbUI2SHVQQ0VrN2IwcTZqbjNZZW5KckVDcGoyUm5uOTdqaTdPZg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": -1,
-      "vol24h": 26958,
-      "headlines": [
-        {
-          "title": "Giants vs. Rams Live Score, Updates: Jaxson Dart Ruled Out",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KcjNYN0JJWi1wWUNnUVV0UkwxVXBETDlFNWdRWnZ6RGw4N0J6X2tDVjRpeGxIMFBDVjhvelJBRDNLUnl1UXRuYkNFYWc3WkN0MHRTMUhJVmhpR0xDMXZ0YWMwaF8wdHdPQ0sxdnNmeTdkNjlHWGRUY05TUE1zUQ?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Giants vs. Rams score, live updates: Jaxson Dart questionable to return, LA leads 14-3 on NFL ‘Monday Night Football’",
-          "source": "nytimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlczc19WdVhlZDZSazA0SUg2ckF1Q3JtSXp6UkNObEdGcWEzRFNLMlNreFhfMTVaNTZNWU51RUszWElURDdUVFFLanNPTEFiVTMzaFJLMzF3UzFPTzhRLVNINkNPZ055X0Z4WmJzMXFXWGphMTAwZEdYU3A2ZHpjd0h2WkpFcW1EODNDeFBMVXB3QUNoZzRjc3MxaU5mUmNpbEpmRzJLM1lVdw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": -1,
-      "vol24h": 14633,
-      "headlines": [
-        {
-          "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 66,
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 6,
       "change24h": 1,
-      "vol24h": 13541,
+      "vol24h": 20951,
       "headlines": [
         {
-          "title": "Biotech filed for bankruptcy 11 weeks before its big FDA decision",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2xWaDBQQTB0dk9zdGpMb0txTzFKMDMwcUFRSnFBRkc1bmU3MHZlLXhYQktHdlFfRlBydURqOWJ5aTFzZWNxQzc1a0s1SUlYdGI5YS15aUx0dG5aOFBxUzhfZEdXOGpPcVZJOThBNHlhUWF5OFAyWjlBLUdqc3FMMFQxTFV6ZXFhMUdBakdlUmtzNzM1c1lpN3puMVNtQVJMZm9r?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Finding the next Moderna: 5 biotech stocks with imminent FDA and trial catalysts",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRVlQVkFKMk5lMGdkQU1kYjI5Z0k0VnFSYTJsNkNRR2Vfb2FlZ3ZBbm1sWlY4dy1jbUg2SnlWMlNfNDB5SFJKOVJzUXBpT3oyNGg2ZVlsYVN3a0FHRExkaWNpVGctYmE0WlV5UWFFNUJBMk5jYkViQllnNlhrU2pBUUZIR0pZYVlNOGM5a3RwQTQ4alVZTFB1RnZiX21xVlVwS1hteVktS3VnQ2hCeTNSZVA2MUZMWFFFM1ktM2txMTYxVFdTUmZiYWdneXF0RmMtcDh1YTVEalc?oc=5",
-          "cat": "Biotech markets"
+          "title": "Bengals’ young pass rushers delivering in waves, helping fuel 2-0 start",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSmRCSWR0eXNseklHemhWUlQ5Sm9ybElCNjVCUjlMRHpHWms1cF9WanlSaEdBamRJU2psYzZlTDA0WVUyLU1qcVIyX040Nm5QVUQ5VURkUzk2cVZvTVNQVmI5SjlaMkQtUlRRNW5vcHBPdll2aDhVblVQSGFiNWRSLTAwd3IzZ0tMM3JDN2tlM0MxVWswWHNwRllnckZSdw?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
-      "yes": 13,
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 19589,
+      "vol24h": 14778,
       "headlines": [
         {
-          "title": "Giants vs. Rams Live Score, Updates: Jaxson Dart Ruled Out",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KcjNYN0JJWi1wWUNnUVV0UkwxVXBETDlFNWdRWnZ6RGw4N0J6X2tDVjRpeGxIMFBDVjhvelJBRDNLUnl1UXRuYkNFYWc3WkN0MHRTMUhJVmhpR0xDMXZ0YWMwaF8wdHdPQ0sxdnNmeTdkNjlHWGRUY05TUE1zUQ?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Giants vs. Rams score, live updates: Jaxson Dart questionable to return, LA leads 14-3 on NFL ‘Monday Night Football’",
-          "source": "nytimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlczc19WdVhlZDZSazA0SUg2ckF1Q3JtSXp6UkNObEdGcWEzRFNLMlNreFhfMTVaNTZNWU51RUszWElURDdUVFFLanNPTEFiVTMzaFJLMzF3UzFPTzhRLVNINkNPZ055X0Z4WmJzMXFXWGphMTAwZEdYU3A2ZHpjd0h2WkpFcW1EODNDeFBMVXB3QUNoZzRjc3MxaU5mUmNpbEpmRzJLM1lVdw?oc=5",
+          "title": "Eagles tape takeaways: Jalen Hurts attacks the middle, wide-zone struggles persist",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlFzSVlOUzZzcUtkSTZoYjdUSHk0Uzh4ZTI3REtfcE16N3BTMUl1VUFzOEgxMURPeHBpcWlTNTJKYk9LV1FXa1VJRF9OcGFqeEhFYm41QWJYaHR4OWFEamEzV0JGUHczZ2c2RFRRV3p5aGJWZnA3ZDJlRkFIX3hLLTRUTXowQ2VmelhmTENGYk9EQQ?oc=5",
           "cat": "NFL"
         }
       ]
@@ -200,75 +102,75 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "question": "CNN, Politico, or MS NOW unbanned from White House by September 30?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-september-30",
+      "yes": 83,
+      "change24h": 49,
+      "vol24h": 13994,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 77,
+      "change24h": 16,
+      "vol24h": 212041,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $88,000 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
       "yes": 61,
-      "change24h": 22,
-      "vol24h": 8333,
+      "change24h": 16,
+      "vol24h": 47396,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $80,000 September 21-27?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 81,
-      "change24h": 20,
-      "vol24h": 127241,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-september-21-27-2026",
+      "yes": 13,
+      "change24h": -16,
+      "vol24h": 14755,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $80,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 44,
-      "change24h": 15,
-      "vol24h": 44618,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 34,
-      "change24h": -13,
-      "vol24h": 41095,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 27,
-      "change24h": -12,
-      "vol24h": 424255,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 21,
-      "change24h": -8,
-      "vol24h": 72384,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
       "yes": 23,
-      "change24h": 8,
-      "vol24h": 19399,
+      "change24h": -15,
+      "vol24h": 47322,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "question": "Will Ethereum dip to $2,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 14,
-      "change24h": -6,
-      "vol24h": 88852,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-in-september-2026-from-september-18",
+      "yes": 23,
+      "change24h": -13,
+      "vol24h": 19976,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $78,000 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-september-21-27-2026",
+      "yes": 6,
+      "change24h": -9,
+      "vol24h": 24292,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
+      "yes": 44,
+      "change24h": 8,
+      "vol24h": 151877,
       "headlines": []
     }
   ]
