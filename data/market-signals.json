@@ -1,34 +1,18 @@
 {
-  "updated": "2026-09-21T21:18:25.527Z",
+  "updated": "2026-09-22T02:08:14.398Z",
   "withNews": [
     {
       "question": "Will the price of Bitcoin be above $84,000 on September 23?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-84k-on-september-23-2026",
-      "yes": 87,
-      "change24h": 77,
-      "vol24h": 12374,
+      "yes": 79,
+      "change24h": 67,
+      "vol24h": 11209,
       "headlines": [
         {
-          "title": "The 8 best games to watch in soccer's international break: Juren Klopp debut and more from September, October 2026 matches",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTNsNWExdDdFeTMyODV4NnRFQ2liT0JHXy1wYzgxQkltQThXWGQ4aGg0dV9UaUlDRGFSTEVaRXNid1dnRGxJTFlFVFBDQlA0VENDYzkyeTlhSl9JWTJ3b2hYRmhpb0V2dXJZeS04bUxaMHNPRVhSZFl6MlRJVEQ4YQ?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $84,000 on September 24?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-84k-on-september-24-2026",
-      "yes": 82,
-      "change24h": 69,
-      "vol24h": 8088,
-      "headlines": [
-        {
-          "title": "The 8 best games to watch in soccer's international break: Juren Klopp debut and more from September, October 2026 matches",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTNsNWExdDdFeTMyODV4NnRFQ2liT0JHXy1wYzgxQkltQThXWGQ4aGg0dV9UaUlDRGFSTEVaRXNid1dnRGxJTFlFVFBDQlA0VENDYzkyeTlhSl9JWTJ3b2hYRmhpb0V2dXJZeS04bUxaMHNPRVhSZFl6MlRJVEQ4YQ?oc=5",
+          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
+          "source": "Nashville SC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
           "cat": "World Cup"
         }
       ]
@@ -37,14 +21,30 @@
       "question": "Will the price of Bitcoin be above $82,000 on September 23?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-23-2026",
-      "yes": 97,
-      "change24h": 66,
-      "vol24h": 11564,
+      "yes": 95,
+      "change24h": 62,
+      "vol24h": 13618,
       "headlines": [
         {
-          "title": "The 8 best games to watch in soccer's international break: Juren Klopp debut and more from September, October 2026 matches",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTNsNWExdDdFeTMyODV4NnRFQ2liT0JHXy1wYzgxQkltQThXWGQ4aGg0dV9UaUlDRGFSTEVaRXNid1dnRGxJTFlFVFBDQlA0VENDYzkyeTlhSl9JWTJ3b2hYRmhpb0V2dXJZeS04bUxaMHNPRVhSZFl6MlRJVEQ4YQ?oc=5",
+          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
+          "source": "Nashville SC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
+      "yes": 28,
+      "change24h": -55,
+      "vol24h": 56783,
+      "headlines": [
+        {
+          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
+          "source": "Nashville SC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
           "cat": "World Cup"
         }
       ]
@@ -53,15 +53,37 @@
       "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 26,
-      "change24h": -8,
-      "vol24h": 9525,
+      "yes": 28,
+      "change24h": -5,
+      "vol24h": 10254,
       "headlines": [
         {
-          "title": "US Fed President Musalem Highlights Need For More Rate Hikes To Curb Inflation",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZjhXc0VRX1FSMTNka3o2VkZVS1BWVkxNWVlXSmZuRWJkQUI4aFQ1N1pjYWVaS2J0dkNiUW1PTmdRMFVPUy1sYUx4Y2tLLXo5R0ZueUpuaXQ1UnA5dDB6SDdHQU9ZOENHTUd3TEtmNTRQdnZxZ3JTeGNYcXVFVlVjSm9rMzRIRzVuS2o2eUZQeEViUFpyQlVrM25KYmc5TTUyV3Z0T3k3UjBNX2hySEdnQTFDQzlWWk5RMW95cXYwVTlhX1hRUW44azUtbUZUUEZZMWdON0FB?oc=5",
+          "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFhqN1dIUUY0N3F2OUc0dnRLd3hrMkhzZ21CenVOaHU2d1Z5YlhDT1FMcFpTNnVFX1ZwaHh6R3pibkV6b19mODFneEh4VWFJR2p0bGlHeDAwT2JLdElJMWFSNEdIajlWZEtzNmJnSGZDUGs2SWNGVThyLTVHS0UzOVVUak90U1FCOGFXbUI2SHVQQ0VrN2IwcTZqbjNZZW5KckVDcGoyUm5uOTdqaTdPZg?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 53,
+      "change24h": -2,
+      "vol24h": 408999,
+      "headlines": [
+        {
+          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
+          "source": "Nashville SC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
+          "cat": "World Cup"
         },
         {
           "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
@@ -72,67 +94,45 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 53,
-      "change24h": -3,
-      "vol24h": 444429,
-      "headlines": [
-        {
-          "title": "The 8 best games to watch in soccer's international break: Juren Klopp debut and more from September, October 2026 matches",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTNsNWExdDdFeTMyODV4NnRFQ2liT0JHXy1wYzgxQkltQThXWGQ4aGg0dV9UaUlDRGFSTEVaRXNid1dnRGxJTFlFVFBDQlA0VENDYzkyeTlhSl9JWTJ3b2hYRmhpb0V2dXJZeS04bUxaMHNPRVhSZFl6MlRJVEQ4YQ?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "US Fed President Musalem Highlights Need For More Rate Hikes To Curb Inflation",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZjhXc0VRX1FSMTNka3o2VkZVS1BWVkxNWVlXSmZuRWJkQUI4aFQ1N1pjYWVaS2J0dkNiUW1PTmdRMFVPUy1sYUx4Y2tLLXo5R0ZueUpuaXQ1UnA5dDB6SDdHQU9ZOENHTUd3TEtmNTRQdnZxZ3JTeGNYcXVFVlVjSm9rMzRIRzVuS2o2eUZQeEViUFpyQlVrM25KYmc5TTUyV3Z0T3k3UjBNX2hySEdnQTFDQzlWWk5RMW95cXYwVTlhX1hRUW44azUtbUZUUEZZMWdON0FB?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 47,
-      "change24h": 3,
-      "vol24h": 217273,
+      "change24h": 2,
+      "vol24h": 154234,
       "headlines": [
         {
-          "title": "The 8 best games to watch in soccer's international break: Juren Klopp debut and more from September, October 2026 matches",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLTNsNWExdDdFeTMyODV4NnRFQ2liT0JHXy1wYzgxQkltQThXWGQ4aGg0dV9UaUlDRGFSTEVaRXNid1dnRGxJTFlFVFBDQlA0VENDYzkyeTlhSl9JWTJ3b2hYRmhpb0V2dXJZeS04bUxaMHNPRVhSZFl6MlRJVEQ4YQ?oc=5",
+          "title": "Four Nashville Soccer Club Players Called Up For September-October FIFA Window",
+          "source": "Nashville SC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdTlibkh3QmJlU2hJY01ibEp0SVNmMnpRMnNNWW8zQ085OVJ3OWRPb0czVVpGcXJ4MUF5WnM4OXZzWEpVSFJ1bWZ4VFpuMmNfMHVrSGJQODVnd0F3aVNGa3NLWWdQQ2dQb0VSOG5RUnlGOTFWS2NpdTkyNERZTmFKb3E0Z2gtVXlPTG1LcUxaVk01V2ljLUE5cW16NTRYMWpJeHRYNFVsazFQdTczOHJ1eQ?oc=5",
           "cat": "World Cup"
         },
         {
-          "title": "US Fed President Musalem Highlights Need For More Rate Hikes To Curb Inflation",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZjhXc0VRX1FSMTNka3o2VkZVS1BWVkxNWVlXSmZuRWJkQUI4aFQ1N1pjYWVaS2J0dkNiUW1PTmdRMFVPUy1sYUx4Y2tLLXo5R0ZueUpuaXQ1UnA5dDB6SDdHQU9ZOENHTUd3TEtmNTRQdnZxZ3JTeGNYcXVFVlVjSm9rMzRIRzVuS2o2eUZQeEViUFpyQlVrM25KYmc5TTUyV3Z0T3k3UjBNX2hySEdnQTFDQzlWWk5RMW95cXYwVTlhX1hRUW44azUtbUZUUEZZMWdON0FB?oc=5",
+          "title": "The Fed Hikes Rates Amid Sticky Inflation and Strong Economic Data",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFhqN1dIUUY0N3F2OUc0dnRLd3hrMkhzZ21CenVOaHU2d1Z5YlhDT1FMcFpTNnVFX1ZwaHh6R3pibkV6b19mODFneEh4VWFJR2p0bGlHeDAwT2JLdElJMWFSNEdIajlWZEtzNmJnSGZDUGs2SWNGVThyLTVHS0UzOVVUak90U1FCOGFXbUI2SHVQQ0VrN2IwcTZqbjNZZW5KckVDcGoyUm5uOTdqaTdPZg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "question": "Will the New York Giants win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
-      "yes": 13,
-      "change24h": 1,
-      "vol24h": 17812,
+      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": -1,
+      "vol24h": 26958,
       "headlines": [
         {
-          "title": "How to watch the Giants vs. Rams on ‘Monday Night Football’ for free tonight",
-          "source": "MLive.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVJ3UEZZWU1SeEw0MWZ1NlRVanFSY0FaYnBucEJYM0RZNjF2UXREMmlxZzRrdkp5WTB0eVNDd2FKNEoxZGF3M1NhUmRndVprXzhxcGJxN3gxSHN3YzNyVHd5MWJHZjBoWlhPN3hEZjhuYjgtZ1dRYmRvRmFhLVVOUTJQclZCTTctclk0Wlcyd3pRUGVkelJHS0o0d1RPWFNpM005NjhpQjlILUtoVzdwZw?oc=5",
+          "title": "Giants vs. Rams Live Score, Updates: Jaxson Dart Ruled Out",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KcjNYN0JJWi1wWUNnUVV0UkwxVXBETDlFNWdRWnZ6RGw4N0J6X2tDVjRpeGxIMFBDVjhvelJBRDNLUnl1UXRuYkNFYWc3WkN0MHRTMUhJVmhpR0xDMXZ0YWMwaF8wdHdPQ0sxdnNmeTdkNjlHWGRUY05TUE1zUQ?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Giants vs. Rams FREE LIVE STREAM (9/21) | Time, TV Channel for Monday Night Football",
-          "source": "NJ.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzJ2ZGx0ckVRT1Y2Q0I5TlhJaFozQTNESlBPLVVSTWNuQmtMdDJKemdKdWpCcGk3Vy1CYVF6bmlsTDhQZ3I3WE9hNXpXQjJxblAxaUw0RmZEMS1IRGQ1Njc1VUZicl82VTdzUlRkbWV1aXBmVFVQV1MxakpXYmpVY1ZSakFtd0Q3RU1MLU9WRF84Y01EXzIwZG1PZU9RSGtibVVhWkVtOWNicDhBTWhYa0lR0gHGAUFVX3lxTE5LR1ZHakp3TjBMRkt5TWdLVy1aMDA2SVBaaWJKSnNubXlySG5pa2hPSE9WU0hVdmJxcUtOUV9nVEM4d3ZuM21wWTItNklsZXkzaE9RMFViNmk1OExfcmlqOHlpQzJJZ1VxLWkyTUo3VFVQc1o0bVQwXzlmc01EMEx3WVNGNmRIU0FnVUJlRWVKb3NFbWkyRzlZWE9JY29qSlZ2clBMbV9vSl8xNS1rNFJjX2FWcTdnUlFuVjloSFFUNkJCcGtjdw?oc=5",
+          "title": "Giants vs. Rams score, live updates: Jaxson Dart questionable to return, LA leads 14-3 on NFL ‘Monday Night Football’",
+          "source": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlczc19WdVhlZDZSazA0SUg2ckF1Q3JtSXp6UkNObEdGcWEzRFNLMlNreFhfMTVaNTZNWU51RUszWElURDdUVFFLanNPTEFiVTMzaFJLMzF3UzFPTzhRLVNINkNPZ055X0Z4WmJzMXFXWGphMTAwZEdYU3A2ZHpjd0h2WkpFcW1EODNDeFBMVXB3QUNoZzRjc3MxaU5mUmNpbEpmRzJLM1lVdw?oc=5",
           "cat": "NFL"
         }
       ]
@@ -141,21 +141,15 @@
       "question": "Will the Chicago Bears win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
-      "yes": 3,
+      "yes": 2,
       "change24h": -1,
-      "vol24h": 14792,
+      "vol24h": 14633,
       "headlines": [
         {
-          "title": "Caleb Williams is week-to-week ahead of the Bears MNF game—get tickets now",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFlJZjY3QVF4SWFTMzZXVnRZa1hza19nN0RQUEY3MmZmOV9CY0dYQ0ZfRFpKVGdOVmhCSl9lRmVRZFc1WW9rM1JrcmVVWUh1Y2sxZjRvQlJDRzZZS1loQVR4MzVCaHhkZVZDbHFQMUhMZ3dTQ19fZlR4bEJGdHlQSTlTeE1FTlBidDkxb19PWFZTbHJBejRsaFpWTk9JSmJpdTYtWkhxeDJYZE5acTdwTkJoWmp0d0hMQmYzdWJ2cXl5eTBZRkhSVTZnWTVFSkdYNDBRN1NzSVNZcEhPWHo1ck1lSkI?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Caleb Williams is week-to-week ahead of the Bears MNF game—get tickets now",
-          "source": "The Tennessean",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObHBKNEgtN1FXd2lLTWpBT0dNaFVBQlRSTk9ET0pIVm5CWUZ6MjJwdnJtYklCeTJHRnlKLUlaaTMtYVh4LTNiWnEwMFdfTm12X3VoUHo3RGt1WTR3RHU3NzA3TXIxSlVlMG96S1lTaHdINDh1YU9aM3d6dm5jNS1RSVBTZEc3UmN4UU0yZnJFYVNXamtqTU1jU2VNOXZBTEYzeEdBUy1NVGtVVUJRQXFkX1pFOGhkdmlwUUktTTZJVnZBNkZqWWVUc0xaU0FrajJiU1d3SVNzVlhkcHhHRk9IQmttN29YMG8?oc=5",
-          "cat": "NFL"
+          "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -182,23 +176,23 @@
       ]
     },
     {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 2,
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 13,
       "change24h": 0,
-      "vol24h": 30853,
+      "vol24h": 19589,
       "headlines": [
         {
-          "title": "How to watch the Giants vs. Rams on ‘Monday Night Football’ for free tonight",
-          "source": "MLive.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVJ3UEZZWU1SeEw0MWZ1NlRVanFSY0FaYnBucEJYM0RZNjF2UXREMmlxZzRrdkp5WTB0eVNDd2FKNEoxZGF3M1NhUmRndVprXzhxcGJxN3gxSHN3YzNyVHd5MWJHZjBoWlhPN3hEZjhuYjgtZ1dRYmRvRmFhLVVOUTJQclZCTTctclk0Wlcyd3pRUGVkelJHS0o0d1RPWFNpM005NjhpQjlILUtoVzdwZw?oc=5",
+          "title": "Giants vs. Rams Live Score, Updates: Jaxson Dart Ruled Out",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KcjNYN0JJWi1wWUNnUVV0UkwxVXBETDlFNWdRWnZ6RGw4N0J6X2tDVjRpeGxIMFBDVjhvelJBRDNLUnl1UXRuYkNFYWc3WkN0MHRTMUhJVmhpR0xDMXZ0YWMwaF8wdHdPQ0sxdnNmeTdkNjlHWGRUY05TUE1zUQ?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Giants vs. Rams FREE LIVE STREAM (9/21) | Time, TV Channel for Monday Night Football",
-          "source": "NJ.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYzJ2ZGx0ckVRT1Y2Q0I5TlhJaFozQTNESlBPLVVSTWNuQmtMdDJKemdKdWpCcGk3Vy1CYVF6bmlsTDhQZ3I3WE9hNXpXQjJxblAxaUw0RmZEMS1IRGQ1Njc1VUZicl82VTdzUlRkbWV1aXBmVFVQV1MxakpXYmpVY1ZSakFtd0Q3RU1MLU9WRF84Y01EXzIwZG1PZU9RSGtibVVhWkVtOWNicDhBTWhYa0lR0gHGAUFVX3lxTE5LR1ZHakp3TjBMRkt5TWdLVy1aMDA2SVBaaWJKSnNubXlySG5pa2hPSE9WU0hVdmJxcUtOUV9nVEM4d3ZuM21wWTItNklsZXkzaE9RMFViNmk1OExfcmlqOHlpQzJJZ1VxLWkyTUo3VFVQc1o0bVQwXzlmc01EMEx3WVNGNmRIU0FnVUJlRWVKb3NFbWkyRzlZWE9JY29qSlZ2clBMbV9vSl8xNS1rNFJjX2FWcTdnUlFuVjloSFFUNkJCcGtjdw?oc=5",
+          "title": "Giants vs. Rams score, live updates: Jaxson Dart questionable to return, LA leads 14-3 on NFL ‘Monday Night Football’",
+          "source": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlczc19WdVhlZDZSazA0SUg2ckF1Q3JtSXp6UkNObEdGcWEzRFNLMlNreFhfMTVaNTZNWU51RUszWElURDdUVFFLanNPTEFiVTMzaFJLMzF3UzFPTzhRLVNINkNPZ055X0Z4WmJzMXFXWGphMTAwZEdYU3A2ZHpjd0h2WkpFcW1EODNDeFBMVXB3QUNoZzRjc3MxaU5mUmNpbEpmRzJLM1lVdw?oc=5",
           "cat": "NFL"
         }
       ]
@@ -206,75 +200,75 @@
   ],
   "moversOnly": [
     {
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 61,
+      "change24h": 22,
+      "vol24h": 8333,
+      "headlines": []
+    },
+    {
       "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
       "yes": 81,
-      "change24h": 22,
-      "vol24h": 75639,
+      "change24h": 20,
+      "vol24h": 127241,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 43,
-      "change24h": 17,
-      "vol24h": 53195,
+      "yes": 44,
+      "change24h": 15,
+      "vol24h": 44618,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 32,
-      "change24h": -17,
-      "vol24h": 26551,
+      "yes": 34,
+      "change24h": -13,
+      "vol24h": 41095,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 31,
+      "yes": 27,
       "change24h": -12,
-      "vol24h": 118085,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
-      "yes": 26,
-      "change24h": 12,
-      "vol24h": 20589,
+      "vol24h": 424255,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 20,
-      "change24h": -10,
-      "vol24h": 33417,
+      "yes": 21,
+      "change24h": -8,
+      "vol24h": 72384,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $120,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-120000-by-december-31-2026-625-425-562",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
+      "yes": 23,
+      "change24h": 8,
+      "vol24h": 19399,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
       "yes": 14,
-      "change24h": 7,
-      "vol24h": 59421,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
-      "yes": 40,
-      "change24h": 7,
-      "vol24h": 32051,
+      "change24h": -6,
+      "vol24h": 88852,
       "headlines": []
     }
   ]
