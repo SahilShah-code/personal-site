@@ -1,116 +1,150 @@
 {
-  "updated": "2026-09-23T10:22:52.004Z",
+  "updated": "2026-09-23T15:41:18.116Z",
   "withNews": [
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 46,
-      "change24h": -2,
-      "vol24h": 243548,
-      "headlines": [
-        {
-          "title": "Why the Fed isn't ready to declare victory on inflation",
-          "source": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFE3U1hIZHE4OEYwS1BraUFKbXVNRVFXQ3RNSzJqOGJCRkUxNjZ1N2ROamhoLVJ5UF9yLU1GWlBRajBxOGREaWItUXhLWk5rMnJqcDFCWVNISWdIVE95WXZRTnJlSnZxWThmRTJpYVJQekd0QnBURVJZbzhaakhTZ2lURGwydEnSAYwBQVVfeXFMTjlEMmVyM1htcGZxc0dWaF82RlNHVHBxRzRhTmhXVXF0SnJLRjVoMi1lNGJhaXVoYnBSblcyaUlJcmZYMlJjYUp2VnYtOGIzdDdkODUwM3RVZW0xQURsWVFkc2xCX0lpTHpRdjh6c2IzVWJhSUJza1B3VEZRanRaQUtQLWtKanZTSXp6UDM?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 14,
-      "change24h": -2,
-      "vol24h": 15325,
-      "headlines": [
-        {
-          "title": "Why the Fed isn't ready to declare victory on inflation",
-          "source": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFE3U1hIZHE4OEYwS1BraUFKbXVNRVFXQ3RNSzJqOGJCRkUxNjZ1N2ROamhoLVJ5UF9yLU1GWlBRajBxOGREaWItUXhLWk5rMnJqcDFCWVNISWdIVE95WXZRTnJlSnZxWThmRTJpYVJQekd0QnBURVJZbzhaakhTZ2lURGwydEnSAYwBQVVfeXFMTjlEMmVyM1htcGZxc0dWaF82RlNHVHBxRzRhTmhXVXF0SnJLRjVoMi1lNGJhaXVoYnBSblcyaUlJcmZYMlJjYUp2VnYtOGIzdDdkODUwM3RVZW0xQURsWVFkc2xCX0lpTHpRdjh6c2IzVWJhSUJza1B3VEZRanRaQUtQLWtKanZTSXp6UDM?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 54,
-      "change24h": 1,
-      "vol24h": 215205,
+      "yes": 68,
+      "change24h": 17,
+      "vol24h": 367410,
       "headlines": [
         {
-          "title": "Why the Fed isn't ready to declare victory on inflation",
-          "source": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFE3U1hIZHE4OEYwS1BraUFKbXVNRVFXQ3RNSzJqOGJCRkUxNjZ1N2ROamhoLVJ5UF9yLU1GWlBRajBxOGREaWItUXhLWk5rMnJqcDFCWVNISWdIVE95WXZRTnJlSnZxWThmRTJpYVJQekd0QnBURVJZbzhaakhTZ2lURGwydEnSAYwBQVVfeXFMTjlEMmVyM1htcGZxc0dWaF82RlNHVHBxRzRhTmhXVXF0SnJLRjVoMi1lNGJhaXVoYnBSblcyaUlJcmZYMlJjYUp2VnYtOGIzdDdkODUwM3RVZW0xQURsWVFkc2xCX0lpTHpRdjh6c2IzVWJhSUJza1B3VEZRanRaQUtQLWtKanZTSXp6UDM?oc=5",
+          "title": "Fed May Not Be Done Hiking, Says OECD — Projects Rates Staying Elevated Through 2027 As Inflation Persists",
+          "source": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcmFVdUJZMnRSS2VCeWRyU3B2NUY5dTZVc01EUnlvUUJGRWZyRU9VT3lLUlhUWnF4QVJjUEFXZkk5RW9UQU1PWGcySnVQUFJLT0hPYzZKZGpjT3FKVXZLc1lXa1FHa1l5MUFuNGFJNXFIbDNIelFvZ0F1eW8zUEw5bkRmYWhqNTU0Z1dpTDFBUUFvdjEtSXdlN1lNYzR5WWhSSmhUb1Rhd3RJM1E0ZnRQWC1TdG5PaVc4a2V5dVJXeUctTGdUeE1tWnFyTlNudEtvWTduek9QOFVNRHM0WVdUeTV3cW5xNXVvXzA1dWlBODhLMGJJZEgw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
+          "title": "Global Inflation to Linger and Fed to Hike Again, OECD Says",
+          "source": "ca.finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODRROG9ncVJZTTAyUFRhdnZLbE9VQlVWWC1yOWRJSlQzVE9ENVVmUXNBSkN5UmJaNVFKWDdaYW9BaFlZTklZWHVFSjJWNDRFOUg0Um1Ycl93a0JaNXlaQnBhN3h3V2g5d3J0ZGJHVmY5LUk4bjc1N3dZdnh0MHF5cFZDckI5ZXc5?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 10884,
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 32,
+      "change24h": -17,
+      "vol24h": 362562,
       "headlines": [
         {
-          "title": "Draymond Green finds an unexpected NFL comparison for Joel Embiid: \"Couldn't quite get over the hump\"",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUJINzIydG0tWGYtb1ZHTGZ6NTdGRzZYQkdscU9UUlRpaW1OLVdLT255SUNtNWU1ZlByRTZsTWtpU202QVlyV2dMRC0wRWZ5NDk3LUNDZndJd2toQnB0ak11TkhWMWpSaWpkaTNSUUw5a0E3cXNBaXppY0lEOVpfclUzSHp6T0dCUTlHLUJYRlRhNWhFSlJ0SGEwZnRQRGtvTDA5Y21jU282VTY1anNrSg?oc=5",
-          "cat": "NBA"
+          "title": "Fed May Not Be Done Hiking, Says OECD — Projects Rates Staying Elevated Through 2027 As Inflation Persists",
+          "source": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcmFVdUJZMnRSS2VCeWRyU3B2NUY5dTZVc01EUnlvUUJGRWZyRU9VT3lLUlhUWnF4QVJjUEFXZkk5RW9UQU1PWGcySnVQUFJLT0hPYzZKZGpjT3FKVXZLc1lXa1FHa1l5MUFuNGFJNXFIbDNIelFvZ0F1eW8zUEw5bkRmYWhqNTU0Z1dpTDFBUUFvdjEtSXdlN1lNYzR5WWhSSmhUb1Rhd3RJM1E0ZnRQWC1TdG5PaVc4a2V5dVJXeUctTGdUeE1tWnFyTlNudEtvWTduek9QOFVNRHM0WVdUeTV3cW5xNXVvXzA1dWlBODhLMGJJZEgw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Global Inflation to Linger and Fed to Hike Again, OECD Says",
+          "source": "ca.finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODRROG9ncVJZTTAyUFRhdnZLbE9VQlVWWC1yOWRJSlQzVE9ENVVmUXNBSkN5UmJaNVFKWDdaYW9BaFlZTklZWHVFSjJWNDRFOUg0Um1Ycl93a0JaNXlaQnBhN3h3V2g5d3J0ZGJHVmY5LUk4bjc1N3dZdnh0MHF5cFZDckI5ZXc5?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Indianapolis Colts win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 9432,
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 89,
+      "change24h": 3,
+      "vol24h": 27932,
       "headlines": [
         {
-          "title": "Colts defense has been historically bad. Immediate fixes needed after 0-2 start",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1NWX3ZDdlJRTk8wYU50UDNraXM3RmVPZ1BDdXpLSGxPNHlaZ3lJUXBHaW5XQzByNm1adjhLbGh0SmVwTFdKVnJXZnJqZ0lzS2Jhb3VtOXpUTGNkeUt2anpKVUxMeFFEcW1pZmU0ZHFFVUpGTE8xYTY1Tm1ZZ3FhN2QwOUpSRUFqTUQ4?oc=5",
+          "title": "Fed May Not Be Done Hiking, Says OECD — Projects Rates Staying Elevated Through 2027 As Inflation Persists",
+          "source": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcmFVdUJZMnRSS2VCeWRyU3B2NUY5dTZVc01EUnlvUUJGRWZyRU9VT3lLUlhUWnF4QVJjUEFXZkk5RW9UQU1PWGcySnVQUFJLT0hPYzZKZGpjT3FKVXZLc1lXa1FHa1l5MUFuNGFJNXFIbDNIelFvZ0F1eW8zUEw5bkRmYWhqNTU0Z1dpTDFBUUFvdjEtSXdlN1lNYzR5WWhSSmhUb1Rhd3RJM1E0ZnRQWC1TdG5PaVc4a2V5dVJXeUctTGdUeE1tWnFyTlNudEtvWTduek9QOFVNRHM0WVdUeTV3cW5xNXVvXzA1dWlBODhLMGJJZEgw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Global Inflation to Linger and Fed to Hike Again, OECD Says",
+          "source": "ca.finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOODRROG9ncVJZTTAyUFRhdnZLbE9VQlVWWC1yOWRJSlQzVE9ENVVmUXNBSkN5UmJaNVFKWDdaYW9BaFlZTklZWHVFSjJWNDRFOUg0Um1Ycl93a0JaNXlaQnBhN3h3V2g5d3J0ZGJHVmY5LUk4bjc1N3dZdnh0MHF5cFZDckI5ZXc5?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": -1,
+      "vol24h": 69167,
+      "headlines": [
+        {
+          "title": "How to watch, listen to, stream Bears-Eagles Week 3 Monday Night Football game",
+          "source": "Chicago Bears",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZUM4U0hNanZPOEJzRnN3ZW5tVWQtbV94WFNpNEhCNWxtZjlnTll3Y2ItUVdYdUdPZnBZZXFnVmU4TGFHVUxwNlNfNm5FZGR2MmVyTkgzOEhUUEpxMFNtUVN6d05vMnM5Q2dxOEs4aFRRTExEdThfeUVTNmFHbXdSMnRkOVR5Y1Y0OGtFTmZSekVfN3FNcUdVZFpGQXVUR3ZRZy03M0VySkpuOW9hSVdBWHdmSDNCZmdERGQ3TWJpa3RtNHVWMGR1TXhFZWVTbXJfOXNiZ29STHV5UmRDdUZEY1VB?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Chicago Bears sign former Notre Dame long snapper in 2nd stint",
+          "source": "Fighting Irish Wire",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTEFqMndaeE5aLUkxQWtJTVR5N3cybkFOeUZWaThrUmZWMXJXa0xINng0ME5pYWxWMlNHRkIxS1BlSWZVby1xVzJ2djJFNTE0d1JkT3AxMnhJQ0Y0cUJURDNGM1Z2MTJRZWJfb2tYLUh3Y3EtNzh4WUFuVm9xOXZPd3M3dTVVQzFocjFkRnJkQUdmdmlWcGY4aTctSDFCWUpSZW9mb2o2Vl8tMndPMzZYN3RFcVBSU2JkcDB0UHRXdWJ6dktQSzllYzBPU0dibkFvWVcxQThDdEQxT1FURkNaOElXYVJSTkZqZUxUWlBMeGhrQ24tdXVaMktOSVhuNFZqckpRY1QxUmtXTmhqaWhpOGhnbw?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 8,
       "change24h": 0,
-      "vol24h": 7913,
+      "vol24h": 24686,
       "headlines": [
         {
-          "title": "A basketball star’s hidden pain, plus the Giants’ cloudy future",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3FYZWozbzJCbnRORVN1U3lYeVdTUUk4QVpITzJCbWUtaXNQbTVvM2VLVVBrZlgxakp4NmlCREs3X3F6aWo1NUt0Q0dWMENFcm5VV2sxbkhXVk5LREM1ellfV1o5UXFWbmM3cnJ4bG0zZE11SE5mcllpRGk0S1lOQ2FUNVRnaDBJdUFlWFpkSF90NHVB?oc=5",
+          "title": "\"He said that he slipped on some ice in Park City\" - Brian Windhorst recalls ex-Laker fined $500K for lying about injury",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1ZoZEttQ21uMGlLcXk1TEZKbTBGOFVCRkg1cTBZVFJJTVZNNWlIakNQdUxKTjdyMkFSMDljb3NIVktyUzlSSmwwRnJTNndZVVRsZVB0MDhWbjdPeVl4dWdWcU10S2I3VUFUVUdkX0k3WXBHbEJxWEQtWTNmaWdsYw?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Former Man City midfielder Tijjani Reijnders admits Saudi move was for money",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFBrUHc2MGZDN0VOZ0MtRTJFSW1hWWxkQkx6N3VONEdjWWlFZ25od2hibGRSYkZhMERabUNVZVdtb3dha2VSV2lDZWJDWWg0b3MxY09PV0k5UkV5VTRXZlkxa3lkZkwwRlJrcGY0bjk2d0VVaERxVzNaZ1VsMDNBNEEtYlpKdjhIaDZN?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 0,
+      "vol24h": 19660,
+      "headlines": [
+        {
+          "title": "How to watch, listen to, stream Bears-Eagles Week 3 Monday Night Football game",
+          "source": "Chicago Bears",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZUM4U0hNanZPOEJzRnN3ZW5tVWQtbV94WFNpNEhCNWxtZjlnTll3Y2ItUVdYdUdPZnBZZXFnVmU4TGFHVUxwNlNfNm5FZGR2MmVyTkgzOEhUUEpxMFNtUVN6d05vMnM5Q2dxOEs4aFRRTExEdThfeUVTNmFHbXdSMnRkOVR5Y1Y0OGtFTmZSekVfN3FNcUdVZFpGQXVUR3ZRZy03M0VySkpuOW9hSVdBWHdmSDNCZmdERGQ3TWJpa3RtNHVWMGR1TXhFZWVTbXJfOXNiZ29STHV5UmRDdUZEY1VB?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "6 Bears who could give the Eagles problems on Monday Night Football",
+          "source": "Eagles Wire",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQzJMWDNTc1kxbWZ4VHFqUHcwSUpoMmRjYThuVWcwVkZGRHBueEMtRUx4OXlQM3pPYXpfMWhvSU10R05KaEV3VThpdDRDTXlCdGNKYS1peWxjSzVHMnRuSnVDWENQQlR5bTVOMWItSUx0VmhOd0YyZG5oWHpuWVlMUXBvN2tNcE4xX2g5Umo4cUhLeV9UX25ZOGxCbzgtZEYzQmFidExEX3ZnMEVJVGhtTldkZlFvR2NtTy1tYXZGVlFCVEJJTDNqNGlYVUs4N1lOZ0VZVUVOOElNb2hUVEE?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 10635,
+      "headlines": [
+        {
+          "title": "\"Welcome to the Play-In\" - Bill Simmons isn't buying the Miami Heat as a real threat in the Eastern Conference",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWDlBRnVtNVdCNGpmV3NOdnhyOHRCSmpacVE4V3B0MFNsZFg5cHFlcktlOV9LOFZCQkRzY2R4aGdsWVlvcG5NQUJwNlBEOTVENUhGc1NPeFJIUlFNeW5MZGl0VUQ1RjY2VUxrR0xOamx2ZkNuYTYzdWlIMkNCVHotVnZCMzVRUVpwYnRYS2NoZi1DQm1CTEI4XzkxZjVwbU9meTlZc2NhVk8zSF9HeVRWakR3TW1LRURDaGlRQ0RhV0t2ZFhMTnAw?oc=5",
           "cat": "NBA"
         }
       ]
@@ -121,72 +155,72 @@
       "question": "Will Bitcoin reach $88,000 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
-      "yes": 48,
-      "change24h": -14,
-      "vol24h": 20979,
-      "headlines": []
-    },
-    {
-      "question": "Will A'ja Wilson win the 2026 WNBA MVP award?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-aja-wilson-win-the-2026-wnba-mvp-award",
-      "yes": 83,
-      "change24h": -13,
-      "vol24h": 20799,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-september-21-27-2026",
-      "yes": 21,
-      "change24h": -10,
-      "vol24h": 21090,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 35,
-      "change24h": -8,
-      "vol24h": 58707,
+      "yes": 27,
+      "change24h": -38,
+      "vol24h": 26196,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $87,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 70,
-      "change24h": -7,
-      "vol24h": 119211,
+      "yes": 47,
+      "change24h": -33,
+      "vol24h": 120866,
       "headlines": []
     },
     {
-      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "question": "Will Bitcoin reach $90,000 September 21-27?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
-      "yes": 42,
-      "change24h": 6,
-      "vol24h": 58666,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,700 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2700-in-september-2026",
-      "yes": 87,
-      "change24h": 6,
-      "vol24h": 18236,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $92,000 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-92k-september-21-27-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-september-21-27-2026",
       "yes": 8,
-      "change24h": -6,
-      "vol24h": 9746,
+      "change24h": -26,
+      "vol24h": 24050,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $82,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
+      "yes": 66,
+      "change24h": 24,
+      "vol24h": 20145,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
+      "yes": 23,
+      "change24h": -23,
+      "vol24h": 84167,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $84,000 on September 25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-september-25-2026",
+      "yes": 57,
+      "change24h": -23,
+      "vol24h": 15505,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Ethereum be above $2,800 on September 25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2800-on-september-25-2026",
+      "yes": 9,
+      "change24h": -23,
+      "vol24h": 9265,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $88,000 on September 25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-88k-on-september-25-2026",
+      "yes": 7,
+      "change24h": -21,
+      "vol24h": 14912,
       "headlines": []
     }
   ]
