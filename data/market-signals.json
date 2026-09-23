@@ -1,123 +1,13 @@
 {
-  "updated": "2026-09-22T20:34:56.897Z",
+  "updated": "2026-09-23T02:07:28.199Z",
   "withNews": [
-    {
-      "question": "Will Ethereum reach $2,900 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2900-september-21-27-2026",
-      "yes": 34,
-      "change24h": -25,
-      "vol24h": 10745,
-      "headlines": [
-        {
-          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
-          "source": "Charlotte FC",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
-          "source": "usatoday.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,900 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2900-in-september-2026",
-      "yes": 45,
-      "change24h": -20,
-      "vol24h": 19558,
-      "headlines": [
-        {
-          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
-          "source": "Charlotte FC",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
-          "source": "usatoday.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $88,000 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
-      "yes": 62,
-      "change24h": -19,
-      "vol24h": 20000,
-      "headlines": [
-        {
-          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
-          "source": "Charlotte FC",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
-          "source": "usatoday.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "CNN, Politico, or MS NOW unbanned from White House by September 30?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-september-30",
-      "yes": 76,
-      "change24h": 8,
-      "vol24h": 15454,
-      "headlines": [
-        {
-          "title": "U.S. Soccer to Honor Charlotte FC Defender Tim Ream on September 29 in St. Louis",
-          "source": "Charlotte FC",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcHkzVUNQVVE0M0IwRkN3NjhENWI0YkFTSVVwNnl0VTkxNnhnRHd2NnZGcnJhTGxVWS1QMExmV2hyZ1FDclhTZnhLVXNkeTNqR21nc2FVRC15YllSeDZMZ3JNV1ZYUnNVS2JULWNYZTJQOHpOaUNTSlBVU2JSd1JnSDJZc3ZQNE5RTzJfUWFJYUF5a3c1UlBkTGFFTzUtVFVqOFdKOHVnZzdDSnpKZFVfTWFvbEFlMFM1WEh6d2R3?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
-          "source": "usatoday.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 87,
-      "change24h": 2,
-      "vol24h": 39318,
-      "headlines": [
-        {
-          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Opinion: You decide — why did the Fed raise its interest rat...",
-          "source": "The Wake Weekly",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2laYUNSTjdCR1ZiWExwN1VkSHEtWElzNnRSdWF2LVZWX1FQbG9pY3R2UjNYNDBKQWZmZ1BZeV9ESVNJUGlqY1RDTF9jUEpBdy1jYW1Pd3RkbkhqZE5TUF9RdU5TTDJPVXg4ZkVxbFVtdGR3MFp6Q0prMjdQZXVlNVNIZ051Y2V3TFQySUo2amlYLXdCdFFmYU1ZZzNpcE9NYllCYQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Will 1 Fed rate hike happen in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
       "yes": 14,
       "change24h": -2,
-      "vol24h": 17741,
+      "vol24h": 15349,
       "headlines": [
         {
           "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
@@ -127,35 +17,19 @@
         },
         {
           "title": "Opinion: You decide — why did the Fed raise its interest rat...",
-          "source": "The Wake Weekly",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2laYUNSTjdCR1ZiWExwN1VkSHEtWElzNnRSdWF2LVZWX1FQbG9pY3R2UjNYNDBKQWZmZ1BZeV9ESVNJUGlqY1RDTF9jUEpBdy1jYW1Pd3RkbkhqZE5TUF9RdU5TTDJPVXg4ZkVxbFVtdGR3MFp6Q0prMjdQZXVlNVNIZ051Y2V3TFQySUo2amlYLXdCdFFmYU1ZZzNpcE9NYllCYQ?oc=5",
+          "source": "springhopeenterprise.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM25sYjFsbENKLVR0dGxkRC1tQ0NvcC1LN1cyVW1mOVV2T3lMa0dUM2ZDUHY4NzJseHR2ZnlkZk5nQ3VXcHJodDNaLWJMUGxkMEJ6YkhDUzZXTGdzZVFpUTZVSEtYY2IxTEpfNC1PQWpISlZvT2NYZFdacHpSdXN1WHF6SUpjTG01cXVrdlN0Q1dicDIyWm1nX2FiTjBQdGV5WWtpeEhKalBaZU5XZEExS3h3?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "CNN, Politico, or MS NOW unbanned from White House by October 31?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-october-31",
-      "yes": 90,
-      "change24h": -2,
-      "vol24h": 14458,
-      "headlines": [
-        {
-          "title": "Concacaf power rankings: Who's the region's best ahead of September-October window?",
-          "source": "usatoday.com",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1FXSWZiRlZ1eERHeXZYMkhPa2ttRVgxekRKRHhHckRGNmhPc2tYR3hLeUE5S2RnSVJXU1FsWlIwaHlXWDc2TmNrN0lwNVFfN0s1VW9qQkhxbmFrM05tYnZpc3dpdzZpVnFhSjZZTU9ic0xQTFhPc2h0TnRIZHplM2owSlZ6Nk5Db0FSMDdrUEJFNFAxckhGUUJwMGpuTFc3RjNhSS11ZmlSdmphMnBsQTc5eHl5Z1F1MFJ0b3NRZjZ4SHBLdHp1RjNFb2dhZ3NIeGYwNXRLeWc5dw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 32,
-      "change24h": -2,
-      "vol24h": 12051,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 46,
+      "change24h": -1,
+      "vol24h": 415757,
       "headlines": [
         {
           "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
@@ -165,64 +39,106 @@
         },
         {
           "title": "Opinion: You decide — why did the Fed raise its interest rat...",
-          "source": "The Wake Weekly",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2laYUNSTjdCR1ZiWExwN1VkSHEtWElzNnRSdWF2LVZWX1FQbG9pY3R2UjNYNDBKQWZmZ1BZeV9ESVNJUGlqY1RDTF9jUEpBdy1jYW1Pd3RkbkhqZE5TUF9RdU5TTDJPVXg4ZkVxbFVtdGR3MFp6Q0prMjdQZXVlNVNIZ051Y2V3TFQySUo2amlYLXdCdFFmYU1ZZzNpcE9NYllCYQ?oc=5",
+          "source": "springhopeenterprise.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM25sYjFsbENKLVR0dGxkRC1tQ0NvcC1LN1cyVW1mOVV2T3lMa0dUM2ZDUHY4NzJseHR2ZnlkZk5nQ3VXcHJodDNaLWJMUGxkMEJ6YkhDUzZXTGdzZVFpUTZVSEtYY2IxTEpfNC1PQWpISlZvT2NYZFdacHpSdXN1WHF6SUpjTG01cXVrdlN0Q1dicDIyWm1nX2FiTjBQdGV5WWtpeEhKalBaZU5XZEExS3h3?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
+      "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
       "yes": 1,
       "change24h": -1,
-      "vol24h": 42672,
+      "vol24h": 15818,
       "headlines": [
         {
-          "title": "Giants QB Jaxson Dart could miss rest of season with knee injury: Source",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRzBtcXFfVUFlWWVUUjRSNzJoMnNiVHB4OVNGYzJKUEZsamdRSUhiNXc2T1d3c1lKdFN2YURxbDZ5aHAwMnBicUQwS2d2ZFJFdVNfcVdoMVJFckRsSy1WcHZWRm1OZkJscFQ2Zkk1aVdhM2pmLUw5SlNmOXZHX2RFWnVfTDMtRVViTVl4Z2tqUDdqdXRNb1Y0?oc=5",
-          "cat": "NFL"
+          "title": "More Fed Officials Warn Of Higher-For-Longer Inflation, Backing Last Week’s Rate Hike",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOa0JEdWFhOU9na245NXJXSjNoblBCblpwY1o0T29iVDUyMFotblYyV0l6YVJXX3FDcXRLRktUTDJ4OE5nczVLaHE3TmNtRzI1bDlOa0JzbDZwdlhITU5QNnlnN09zZk9tbU8zR1gyOThZcFFYb3dqUjBaMWtpdC00Zko5bVhXQVFNbE1MY2dtZHo4VEVwcUx0RFRkTkhMaUxjd0Zld2pSZjRYLTllSkxSRHpfUDRBQ2hoZVFFWlZKZkYxUkxUdnRrcm9pSlJhT1NzeFZKb3hTQUxvLXlBcGc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Opinion: You decide — why did the Fed raise its interest rat...",
+          "source": "springhopeenterprise.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM25sYjFsbENKLVR0dGxkRC1tQ0NvcC1LN1cyVW1mOVV2T3lMa0dUM2ZDUHY4NzJseHR2ZnlkZk5nQ3VXcHJodDNaLWJMUGxkMEJ6YkhDUzZXTGdzZVFpUTZVSEtYY2IxTEpfNC1PQWpISlZvT2NYZFdacHpSdXN1WHF6SUpjTG01cXVrdlN0Q1dicDIyWm1nX2FiTjBQdGV5WWtpeEhKalBaZU5XZEExS3h3?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "San Diego 2: Tyler Zink vs Federico Agustin Gomez",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-zink-gomez-2026-09-21",
-      "yes": 3,
-      "change24h": -45,
-      "vol24h": 9777,
-      "headlines": []
-    },
-    {
-      "question": "Buenos Aires 2: Lucio Ratti vs Federico Coria",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-ratti-coria-2026-09-21",
-      "yes": 68,
-      "change24h": 15,
-      "vol24h": 75394,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $82,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
+      "yes": 39,
+      "change24h": -16,
+      "vol24h": 15852,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $85,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-85k-in-september-2026",
+      "yes": 79,
+      "change24h": -13,
+      "vol24h": 72950,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
+      "yes": 17,
+      "change24h": -11,
+      "vol24h": 35278,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 77,
+      "change24h": 8,
+      "vol24h": 75643,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $88,000 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
+      "yes": 61,
+      "change24h": 8,
+      "vol24h": 20974,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $82,000 on September 24?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-24-2026",
+      "yes": 97,
+      "change24h": 7,
+      "vol24h": 12204,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
       "yes": 27,
-      "change24h": -4,
-      "vol24h": 307149,
+      "change24h": -6,
+      "vol24h": 44130,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 60,
-      "change24h": -4,
-      "vol24h": 12363,
+      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
+      "yes": 42,
+      "change24h": 6,
+      "vol24h": 14841,
       "headlines": []
     }
   ]
