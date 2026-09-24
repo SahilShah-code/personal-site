@@ -1,13 +1,29 @@
 {
-  "updated": "2026-09-24T16:01:26.896Z",
+  "updated": "2026-09-24T20:51:54.542Z",
   "withNews": [
+    {
+      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
+      "yes": 86,
+      "change24h": 17,
+      "vol24h": 30404,
+      "headlines": [
+        {
+          "title": "Anthony Gordon Explains Why Spain Is 'Built Different' Than England",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkNTV0JkSFcyWnRwTmMxY1dleFBJb1RIR3FpcE9QdkxaWTdzMlFEX3NFYm5sWEhwOHl4bnhHZVVxRmkzcmtVeUt1V0xkTXA0cnRucUViN0o2V2Y3OTNDRDhNRy1hTmhvcURFNGhyMTFka0w5VHBRcXpZZmRDZml4cnRmMTl3Z00xWUdRcmtBRjBZUXMyN2x4TDVDeXhhSWtxSGdBdUJn0gGmAUFVX3lxTE5HNXpUb3ltdldpVEllNmE0Zmdpek43OGtob3JaSjJ1b1FFMVd4WFNMYUZGV0U1Y1dVbWNlTjV2d05EaUhlQ2N1NUQ0NDl0Y0EwVTlaSDhicWRPZmc0b0ZWX1VCVFJmNnhQcUxucFZTdGhDTWNvTXZXallXY1NpRG5GU25NblFybHotODJPb0dRcU8yNmxBRXktZk1QcEVkSWpSZDRmS2c?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin dip to $82,000 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-21-27-2026",
-      "yes": 32,
-      "change24h": -18,
-      "vol24h": 21094,
+      "yes": 28,
+      "change24h": -15,
+      "vol24h": 21472,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -21,31 +37,15 @@
       "question": "Will Ethereum dip to $2,500 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-september-21-27-2026",
-      "yes": 8,
-      "change24h": -15,
-      "vol24h": 14235,
+      "yes": 5,
+      "change24h": -11,
+      "vol24h": 12895,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
-      "yes": 84,
-      "change24h": 14,
-      "vol24h": 30093,
-      "headlines": [
-        {
-          "title": "International Break Preview: Messi's Farewell, Spain-England, USA-Mexico, More",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkZHTkJWMkR4ZU5mV3dEYjZYRHdacTFxOFJRZW9GOHJvTXhiZ2drQTlhb3VzQWNNZnRxWGVVbGZoVjJKdG4wVTJyTmJGUllsSDd3RDRDOE1DbnNFaTdNZnB0dVNGUlpXOElTMFlpQlpzc1lwcGRjR3FUdGFrU1ZPTFhQczBFcjFraEw1NE5aZw?oc=5",
-          "cat": "World Cup"
         }
       ]
     },
@@ -54,8 +54,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-september-21-27-2026",
       "yes": 7,
-      "change24h": -13,
-      "vol24h": 14615,
+      "change24h": -8,
+      "vol24h": 16626,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -66,100 +66,40 @@
       ]
     },
     {
-      "question": "Will A'ja Wilson win the 2026 WNBA MVP award?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-aja-wilson-win-the-2026-wnba-mvp-award",
-      "yes": 96,
-      "change24h": 10,
-      "vol24h": 126483,
-      "headlines": [
-        {
-          "title": "Shai Gilgeous-Alexander's next evolution: Why the 2-time MVP should give up touches to his Thunder teammates",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVjZMdU83U2xEdmh1QXJtbEt6QzB3U1VrSkZKQ3JFemhqTEdQZFRMRXliUmotTUNwVWlTZ3ZkMXF6enF1bTM0Njg3bGFNLXVISnUwdERLM3F1UnFUUUZUbUlFb3YxekgxUUsyaXV1WWJrN182UEkzRkZicnJ3UVRKNzE2ZFRrcXBqd2d6ZTV6UHZhWm9rMG56WUc0Qi1MdjJTTzBHaHYtN21NVWF5ZmlYemdWY3J4MnVVLS0wV2FWRUdFUk1OSmRBV2VoZVVrYUR5Qlg5eHcxVDNtVlR0WlVoRGIyOVk1NHA3S0hUaXAycw?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will 3 Fed rate hikes happen in 2026?",
+      "question": "Bank of England increases interest rates by 50+ bps after November 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
-      "yes": 42,
-      "change24h": 9,
-      "vol24h": 9243,
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-50-bps-after-november-2026-meeting-20260730150602311",
+      "yes": 4,
+      "change24h": 4,
+      "vol24h": 21889,
       "headlines": [
         {
-          "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 56,
-      "change24h": -9,
-      "vol24h": 8763,
-      "headlines": [
-        {
-          "title": "Biotech filed for bankruptcy 11 weeks before its big FDA decision",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2xWaDBQQTB0dk9zdGpMb0txTzFKMDMwcUFRSnFBRkc1bmU3MHZlLXhYQktHdlFfRlBydURqOWJ5aTFzZWNxQzc1a0s1SUlYdGI5YS15aUx0dG5aOFBxUzhfZEdXOGpPcVZJOThBNHlhUWF5OFAyWjlBLUdqc3FMMFQxTFV6ZXFhMUdBakdlUmtzNzM1c1lpN3puMVNtQVJMZm9r?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "This Biotech Wins a Big FDA Approval. Why Wall Street Is Shrugging.",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cG50S3JMXzU1VWJIaVZ5NkR4ZFkyMXZod1VFUlpKeTZYR09pd1p5eHpHem03LUk0VkFtVlpMRkZwOTV2cmoyZ2YwM0Q3UWZvNDgxVnlQYVlnX1N5cTZsdmYtN2xmM0RscEhhaVJVWkVucXVjMGc?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 8,
-      "change24h": -4,
-      "vol24h": 24842,
-      "headlines": [
-        {
-          "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 10,
-      "change24h": 1,
-      "vol24h": 20656,
-      "headlines": [
-        {
-          "title": "FIFA World Cup in Seattle delivered $889M economic boost, report says",
-          "source": "ncwlife.com",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEhCOTNiNUdqWXpndTg3VzNsNzktdjdwMEg0SHBTVXByOERhVzB4Qm5ZdlNSaEJZcGFiNlhZWmMxc3otdGc1U09KWk1pcmxaS1AxeUpGUWVTZFNQVVpvTDY5S3VoeTFPSGZBOHdJSzkxNnA3VXpBSzRtaDJlTTdCT1VncFVta0MxdWZZTC04N0x5anYteHhxQVlYV3ljUXFMZURqQzFkejF1Wnl4Vi1sM0x2RW5HWE9hZ3FHQlBQZGRUb3NjZy0tLW82NVUzanF1LXdFa0R0d2VBRTNYdUdWODdmT0hrTkF3N3l5Qg?oc=5",
+          "title": "Anthony Gordon Explains Why Spain Is 'Built Different' Than England",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkNTV0JkSFcyWnRwTmMxY1dleFBJb1RIR3FpcE9QdkxaWTdzMlFEX3NFYm5sWEhwOHl4bnhHZVVxRmkzcmtVeUt1V0xkTXA0cnRucUViN0o2V2Y3OTNDRDhNRy1hTmhvcURFNGhyMTFka0w5VHBRcXpZZmRDZml4cnRmMTl3Z00xWUdRcmtBRjBZUXMyN2x4TDVDeXhhSWtxSGdBdUJn0gGmAUFVX3lxTE5HNXpUb3ltdldpVEllNmE0Zmdpek43OGtob3JaSjJ1b1FFMVd4WFNMYUZGV0U1Y1dVbWNlTjV2d05EaUhlQ2N1NUQ0NDl0Y0EwVTlaSDhicWRPZmc0b0ZWX1VCVFJmNnhQcUxucFZTdGhDTWNvTXZXallXY1NpRG5GU25NblFybHotODJPb0dRcU8yNmxBRXktZk1QcEVkSWpSZDRmS2c?oc=5",
           "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 67,
+      "change24h": 3,
+      "vol24h": 471347,
+      "headlines": [
+        {
+          "title": "Fed officials see rates likely rising to curb high inflation",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1FaZTVSeTlieFN5WUNJdHE5VVB5VlM2Q0pSY3BtalppeEt0S0s0YnNBMzlTcUpIWGg0V3dxTTBiWWdpbW1OTTJBSFIwMDUzNG80ekkzM3AtMXFoSmRNQVNPQUxBeUVlTmFPNjdWZmk3enE2NFVpY1U1Y1dqSkdDY080OXBZZGRmbWZmYWw2WGdEVmlTOVVhNXVCb0QxU01Lc0tHSTVDS05ZMjJJ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed Officials Forewarn More ‘Pain’ For the Economy After Initial Rate Hike",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2JiWF9CRWwyaFQ5aTdxTEYzMjg4UnJqeElQMmRmN3IyaXI1bnlKUDhWWUxVU3B5Z2pjR2k4WC1GUnhwbWFXVzNQeTJyeUNKWGxRNVpPY0RRS0Y5b1NuVHN4dDI2MHM4ZU9jbnBLY00xMmUxalU2UFR1VE9BYzBtZTVsSlcwR255Yi1NZ0VPYmxlemJVbEswUHlMc0RiUmZZZTk3bHJHN1BvLUtoelV4NWxvRHBFdkdYZzVxTUQ0QUFVaXdZRWtmNjJZWQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -172,10 +112,42 @@
       "vol24h": 22039,
       "headlines": [
         {
-          "title": "International Break Preview: Messi's Farewell, Spain-England, USA-Mexico, More",
+          "title": "Anthony Gordon Explains Why Spain Is 'Built Different' Than England",
           "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkZHTkJWMkR4ZU5mV3dEYjZYRHdacTFxOFJRZW9GOHJvTXhiZ2drQTlhb3VzQWNNZnRxWGVVbGZoVjJKdG4wVTJyTmJGUllsSDd3RDRDOE1DbnNFaTdNZnB0dVNGUlpXOElTMFlpQlpzc1lwcGRjR3FUdGFrU1ZPTFhQczBFcjFraEw1NE5aZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSkNTV0JkSFcyWnRwTmMxY1dleFBJb1RIR3FpcE9QdkxaWTdzMlFEX3NFYm5sWEhwOHl4bnhHZVVxRmkzcmtVeUt1V0xkTXA0cnRucUViN0o2V2Y3OTNDRDhNRy1hTmhvcURFNGhyMTFka0w5VHBRcXpZZmRDZml4cnRmMTl3Z00xWUdRcmtBRjBZUXMyN2x4TDVDeXhhSWtxSGdBdUJn0gGmAUFVX3lxTE5HNXpUb3ltdldpVEllNmE0Zmdpek43OGtob3JaSjJ1b1FFMVd4WFNMYUZGV0U1Y1dVbWNlTjV2d05EaUhlQ2N1NUQ0NDl0Y0EwVTlaSDhicWRPZmc0b0ZWX1VCVFJmNnhQcUxucFZTdGhDTWNvTXZXallXY1NpRG5GU25NblFybHotODJPb0dRcU8yNmxBRXktZk1QcEVkSWpSZDRmS2c?oc=5",
           "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the New Orleans Saints win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 11721,
+      "headlines": [
+        {
+          "title": "Angel Reese’s brother Julian Reese signs with New Orleans Pelicans",
+          "source": "WLBT",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3hqMTN1dGR1aHZRN2N0c18yZDg0eS1haldCMkVJUVhFQTJvZWZMY1FubFFVZ29WWVFVcjZQZ051cGNVbWdPRWhPQWE4WklFRWRIWThPci11SHMzVXdxUXN4LWxoaVBEQXBPZF9Ta3FwUTFjU2FzUVBmVVRxSWNGdDZQZ3JET1VMZm1NMmtuZDU0YmJfVDZCTHZaMXR5TDDSAbMBQVVfeXFMTnh5Q1U1dXdObWF5YTRUWWNoSkhNVE9LVDA1NlpXa0RZNVI2Qjd3SEltakg1cjQ2MzY1NWVwbTdTUlNDWnk2REpvTGNET0NtQjJQam5lY1BuQS1iVzVDNkRWMUFacDhfc3NzbkRYamRPdzNhbG8xNkFMb21fMlpQUUhSMkdsQWZReE9CTTJTZVUzajRULWRPcTVEMXEybzA2TGF2UTF2N1lyNUIyd0xOYlRnUDA?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 10070,
+      "headlines": [
+        {
+          "title": "Falcons vs Packers Predictions, Odds, Picks, Expert TNF Props",
+          "source": "Action Network",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObV90QWVWdTIzRXM5Ylg2MTAxaU5YT1hscjBselRWd2JtcGRudFI1d0dxUW1rVXIxX3VWd2RsOV82UWw0aExiZURWWkl2eXRzMk9Hc3VSeVRCcUkwZ1BFLVZyRkFTVkZ1YkN1ME5mdXRTNkZPSnpTWW1zcTRLSFZEMnNEQnRtT2ZZc3V5SGVSdC1ONWxrVy1ZdkNJVjhEWDl5X0hWS2duWXk5c0hoM01qMjdDMXFJLWU1TmVQS0RMbHNoeFlQcUZQSk5DTDc?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -186,17 +158,26 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-november-2026-meeting-20260730150602309",
       "yes": 8,
-      "change24h": -23,
-      "vol24h": 13442,
+      "change24h": -22,
+      "vol24h": 15002,
+      "headlines": []
+    },
+    {
+      "question": "Will A'ja Wilson win the 2026 WNBA MVP award?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-aja-wilson-win-the-2026-wnba-mvp-award",
+      "yes": 96,
+      "change24h": 16,
+      "vol24h": 61329,
       "headlines": []
     },
     {
       "question": "Will any player have 1,750+ receiving yards in the 2026-27 NFL regular season?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/pro-football-any-player-1750-receiving-yards-2026-27",
-      "yes": 38,
-      "change24h": 10,
-      "vol24h": 9799,
+      "yes": 37,
+      "change24h": 9,
+      "vol24h": 9818,
       "headlines": []
     }
   ]
