@@ -1,24 +1,72 @@
 {
-  "updated": "2026-09-23T20:45:35.079Z",
+  "updated": "2026-09-24T01:54:56.954Z",
   "withNews": [
+    {
+      "question": "Will Ethereum reach $2,800 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-21-27-2026-from-september-22",
+      "yes": 26,
+      "change24h": -51,
+      "vol24h": 22072,
+      "headlines": [
+        {
+          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $88,000 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
+      "yes": 14,
+      "change24h": -48,
+      "vol24h": 29277,
+      "headlines": [
+        {
+          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 37,
+      "change24h": -41,
+      "vol24h": 152123,
+      "headlines": [
+        {
+          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 36,
-      "change24h": -11,
-      "vol24h": 415428,
+      "yes": 34,
+      "change24h": -12,
+      "vol24h": 407906,
       "headlines": [
+        {
+          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -27,19 +75,41 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 64,
-      "change24h": 11,
-      "vol24h": 358974,
+      "yes": 65,
+      "change24h": 12,
+      "vol24h": 356606,
       "headlines": [
+        {
+          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "CNN, Politico, or MS NOW unbanned from White House by October 31?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-october-31",
+      "yes": 96,
+      "change24h": 7,
+      "vol24h": 13100,
+      "headlines": [
+        {
+          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
+          "cat": "World Cup"
         },
         {
           "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "CNBC",
+          "source": "cnbc.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
           "cat": "Macro"
         }
@@ -51,7 +121,7 @@
       "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
       "yes": 91,
       "change24h": 5,
-      "vol24h": 26810,
+      "vol24h": 23121,
       "headlines": [
         {
           "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
@@ -61,132 +131,100 @@
         },
         {
           "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "CNBC",
+          "source": "cnbc.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "CNN, Politico, or MS NOW unbanned from White House by October 31?",
+      "question": "CNN, Politico, or MS NOW unbanned from White House by September 30?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-october-31",
-      "yes": 95,
-      "change24h": 5,
-      "vol24h": 13013,
+      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-september-30",
+      "yes": 81,
+      "change24h": 1,
+      "vol24h": 40691,
       "headlines": [
         {
-          "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 76,
-      "change24h": -2,
-      "vol24h": 9965,
-      "headlines": [
-        {
-          "title": "How the Trump-Xi Meeting Could Move Nvidia, Boeing and Your 401(k)",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzZGT0dVWFA0NlFKSzlEN1p5eU56N3hTSlZ2OXI0LTdYUGhiUnNMSnZsZlQ4aXppMHdJU0JtOXFqYkl3ZnRtWUExMDExZHBxMFdEVWdyRUwtWDVJeWdGVGxWVjRqVFluZnZ3b1dPVlBrLVVDOXBsYjVXbWR1ZmVMOWQ4bFRwNzlmNjVLS2tpX0plMlJrelJ3?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on September 30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-company-a-be-the-largest-company-in-the-world-by-market-cap-on-september-30",
-      "yes": 99,
-      "change24h": 0,
-      "vol24h": 11224,
-      "headlines": [
-        {
-          "title": "How the Trump-Xi Meeting Could Move Nvidia, Boeing and Your 401(k)",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzZGT0dVWFA0NlFKSzlEN1p5eU56N3hTSlZ2OXI0LTdYUGhiUnNMSnZsZlQ4aXppMHdJU0JtOXFqYkl3ZnRtWUExMDExZHBxMFdEVWdyRUwtWDVJeWdGVGxWVjRqVFluZnZ3b1dPVlBrLVVDOXBsYjVXbWR1ZmVMOWQ4bFRwNzlmNjVLS2tpX0plMlJrelJ3?oc=5",
-          "cat": "Markets"
+          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
+          "source": "FC Cincinnati",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $88,000 September 21-27?",
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
-      "yes": 20,
-      "change24h": -40,
-      "vol24h": 31991,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 72,
+      "change24h": -10,
+      "vol24h": 41659,
       "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $86,000 on September 25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-86k-on-september-25-2026",
-      "yes": 22,
-      "change24h": -32,
-      "vol24h": 10674,
+      "question": "Will any player have 1,750+ receiving yards in the 2026-27 NFL regular season?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/pro-football-any-player-1750-receiving-yards-2026-27",
+      "yes": 38,
+      "change24h": 10,
+      "vol24h": 9736,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $87,500 in September?",
+      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 45,
-      "change24h": -31,
-      "vol24h": 152290,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
+      "yes": 34,
+      "change24h": 9,
+      "vol24h": 80254,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $82,500 in September?",
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 69,
-      "change24h": 28,
-      "vol24h": 43429,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 34,
+      "change24h": 7,
+      "vol24h": 91089,
       "headlines": []
     },
     {
-      "question": "Will the price of Ethereum be above $2,800 on September 25?",
+      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2800-on-september-25-2026",
-      "yes": 8,
-      "change24h": -25,
-      "vol24h": 11430,
+      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
+      "yes": 35,
+      "change24h": -6,
+      "vol24h": 58933,
       "headlines": []
     },
     {
-      "question": "Will Ethereum reach $2,900 September 21-27?",
+      "question": "Will Ethereum reach $3,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2900-september-21-27-2026",
-      "yes": 9,
-      "change24h": -24,
-      "vol24h": 13696,
+      "url": "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8",
+      "yes": 70,
+      "change24h": -6,
+      "vol24h": 18872,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,600 in September?",
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
-      "yes": 68,
-      "change24h": 23,
-      "vol24h": 8902,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 54,
+      "change24h": -6,
+      "vol24h": 11224,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $90,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 22,
-      "change24h": -22,
-      "vol24h": 112525,
+      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
+      "yes": 70,
+      "change24h": 5,
+      "vol24h": 17202,
       "headlines": []
     }
   ]
