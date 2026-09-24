@@ -1,67 +1,19 @@
 {
-  "updated": "2026-09-24T01:54:56.954Z",
+  "updated": "2026-09-24T10:39:28.513Z",
   "withNews": [
     {
-      "question": "Will Ethereum reach $2,800 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-21-27-2026-from-september-22",
-      "yes": 26,
-      "change24h": -51,
-      "vol24h": 22072,
-      "headlines": [
-        {
-          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
-          "source": "FC Cincinnati",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $88,000 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
-      "yes": 14,
-      "change24h": -48,
-      "vol24h": 29277,
-      "headlines": [
-        {
-          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
-          "source": "FC Cincinnati",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 37,
-      "change24h": -41,
-      "vol24h": 152123,
-      "headlines": [
-        {
-          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
-          "source": "FC Cincinnati",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Will 3 Fed rate hikes happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 34,
-      "change24h": -12,
-      "vol24h": 407906,
+      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
+      "yes": 44,
+      "change24h": 23,
+      "vol24h": 11519,
       "headlines": [
         {
-          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
-          "source": "FC Cincinnati",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
-          "cat": "World Cup"
+          "title": "Fed again hoping for a pain-free landing from current inflation spike",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQai1uWS0xUEd6VnlJN1ppcHAxNDdCa2dsTmtFTWJxRGticDVkQmJCM0FIVi04VUkxOU5jQVM4d18xVjNDWlJ1djZfa0ZSZkxSXzB1SkJqUVJxanVZci1jTEt3eVMwZWNBSnFpUWNXdHlGeWdITVVILXZwdlZxdnM3SFU3WFNZZzNmMU0yemM4VlNGcUxBajBfQ2tnU1M5UWlxejFfZTZ3?oc=5",
+          "cat": "Macro"
         },
         {
           "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
@@ -72,18 +24,18 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will the Fed Hike–Hike–Hike in the next three decisions (Sep–Oct–Dec)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 65,
-      "change24h": 12,
-      "vol24h": 356606,
+      "url": "https://polymarket.com/event/will-the-fed-hikehikehike-in-the-next-three-decisions-sepoctdec",
+      "yes": 50,
+      "change24h": 21,
+      "vol24h": 12554,
       "headlines": [
         {
-          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
-          "source": "FC Cincinnati",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
-          "cat": "World Cup"
+          "title": "Fed again hoping for a pain-free landing from current inflation spike",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQai1uWS0xUEd6VnlJN1ppcHAxNDdCa2dsTmtFTWJxRGticDVkQmJCM0FIVi04VUkxOU5jQVM4d18xVjNDWlJ1djZfa0ZSZkxSXzB1SkJqUVJxanVZci1jTEt3eVMwZWNBSnFpUWNXdHlGeWdITVVILXZwdlZxdnM3SFU3WFNZZzNmMU0yemM4VlNGcUxBajBfQ2tnU1M5UWlxejFfZTZ3?oc=5",
+          "cat": "Macro"
         },
         {
           "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
@@ -94,137 +46,143 @@
       ]
     },
     {
-      "question": "CNN, Politico, or MS NOW unbanned from White House by October 31?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-october-31",
-      "yes": 96,
-      "change24h": 7,
-      "vol24h": 13100,
-      "headlines": [
-        {
-          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
-          "source": "FC Cincinnati",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "cnbc.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
+      "question": "Will 2 Fed rate hikes happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 91,
-      "change24h": 5,
-      "vol24h": 23121,
+      "url": "https://polymarket.com/event/will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
+      "yes": 46,
+      "change24h": -18,
+      "vol24h": 10955,
       "headlines": [
+        {
+          "title": "Fed again hoping for a pain-free landing from current inflation spike",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQai1uWS0xUEd6VnlJN1ppcHAxNDdCa2dsTmtFTWJxRGticDVkQmJCM0FIVi04VUkxOU5jQVM4d18xVjNDWlJ1djZfa0ZSZkxSXzB1SkJqUVJxanVZci1jTEt3eVMwZWNBSnFpUWNXdHlGeWdITVVILXZwdlZxdnM3SFU3WFNZZzNmMU0yemM4VlNGcUxBajBfQ2tnU1M5UWlxejFfZTZ3?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Inflation pressures raise prospect of Fed rate hike on eve of elections",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU0ZXSlEta0N4WGxzcHJBNUM1cUI0d0U4TGFwa2NMbDM4U0Q3MWt0YXY5TGpQQ2xxdmJWNm0yeGl0ckJNanVPOU5HOUd5R0hNc19pZXcyd3FwWkFkY1hyUEpOdTZyMVZoN3R0eHZLdkxUYzRXV1hoRDctTXhUa3pvckNvLUktNDBmWm1OV3lhOTluQVRDQzUyQTN3Q0V0YmN2Q1E?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
-          "source": "cnbc.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGhuemZBdUZiMlNRVVhMRG5uam9La1lFdmthTXQwX005MkdYWVNfTXN4cHBUUkFHXzJ0clNDZU9CQmdBNy00WGtsbVFCWWdYU3lrNkxwUXd0YnlGdS1wLUplb25xSWdLVTBRV1YzbEw5amZncm1CVE83N1lxaVdvYVNjMS13WFRfZzlUU2czRHJwTkhEMjRZdnhiVjN6OUZhdWZrSUZxOGozWWlyQ1g2LQ?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "CNN, Politico, or MS NOW unbanned from White House by September 30?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/cnn-politico-or-ms-now-unbanned-from-white-house-by-september-30",
-      "yes": 81,
-      "change24h": 1,
-      "vol24h": 40691,
+      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
+      "topic": "Biotech",
+      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
+      "yes": 56,
+      "change24h": -9,
+      "vol24h": 8723,
       "headlines": [
         {
-          "title": "Nine FC Cincinnati players across club to represent their nations during September/October FIFA International Window",
-          "source": "FC Cincinnati",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORmJod1hVYnlMLXN2QlBkS1VOdkh4MUgtb01SWjJ5UWd1UjhQeU1Mc2JwUW9ZOF9rXzRCTnAwZlNFRGNqVzE5Z0JWNjZrYzZmeWlPM1NaaDlwTnVoY0YzRURXVmsyQWhXNk1mOUk3WDFYNG9HcDIzWElXbURRcGw3c0N1dE9pVHQzMTJjYTV5d1B0OWJmNHRqMzYxVnBXbE1kYnpxY0JWVC0wUzRkZTViMy1nQTVxM0daS0FqUWdXaTNnSGZEMkhlenhneEkxcXdMX2VOOEwtREFTRDZmQ0czbFJ2S0U?oc=5",
-          "cat": "World Cup"
+          "title": "Biotech filed for bankruptcy 11 weeks before its big FDA decision",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2xWaDBQQTB0dk9zdGpMb0txTzFKMDMwcUFRSnFBRkc1bmU3MHZlLXhYQktHdlFfRlBydURqOWJ5aTFzZWNxQzc1a0s1SUlYdGI5YS15aUx0dG5aOFBxUzhfZEdXOGpPcVZJOThBNHlhUWF5OFAyWjlBLUdqc3FMMFQxTFV6ZXFhMUdBakdlUmtzNzM1c1lpN3puMVNtQVJMZm9r?oc=5",
+          "cat": "Biotech markets"
+        },
+        {
+          "title": "This Biotech Wins a Big FDA Approval. Why Wall Street Is Shrugging.",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cG50S3JMXzU1VWJIaVZ5NkR4ZFkyMXZod1VFUlpKeTZYR09pd1p5eHpHem03LUk0VkFtVlpMRkZwOTV2cmoyZ2YwM0Q3UWZvNDgxVnlQYVlnX1N5cTZsdmYtN2xmM0RscEhhaVJVWkVucXVjMGc?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 10070,
+      "headlines": [
+        {
+          "title": "What channel is the Packers vs Falcons on today? Time, schedule to watch Thursday Night Football",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHh0Mnl6VXRDcnd5QUtnYlY1YVdqaWdqdnI5TTc0aXFHOGdwbHB2M3M0UW9jaWdxczVfdnhaSzdUejh5dFB0QW1RU202ZFI5bTFhTjEwOXhHZldCZjNLN2xTOG9vdkpoYW16cnpIbFVDOFItYms1M3M1M2xmR0FxTmNOdW5xZlZi?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "What channel is the Packers vs Falcons on today? Time, schedule to watch Thursday Night Football",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQThCVlA0T3lFbWtFNWJvMEk0eWZCTFJwUzlxQVg3YlI3aVo0QWRVdjI5ME90OFlvOFhKQUw2QVI5RFFsbndSSFNUR0R6endaYlZTUTNweUdQakJTbG1DS1VvN0NXWHdPVGdrT3pRRnc1eUJHWXA5S2ZlUmVMSkYzRWNHdDdLS3NUZ0RPMkdRZ1FpUnprNWxLMV9raTdwMWVLR3R2RmJscFF2NXd3d2xYVUMtblpfdzVlYUlod2lMbw?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,800 September 21-27?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 72,
-      "change24h": -10,
-      "vol24h": 41659,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-21-27-2026-from-september-22",
+      "yes": 14,
+      "change24h": -49,
+      "vol24h": 23836,
       "headlines": []
     },
     {
-      "question": "Will any player have 1,750+ receiving yards in the 2026-27 NFL regular season?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/pro-football-any-player-1750-receiving-yards-2026-27",
+      "question": "Will Bitcoin reach $87,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 27,
+      "change24h": -44,
+      "vol24h": 170061,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $82,000 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-21-27-2026",
+      "yes": 64,
+      "change24h": 44,
+      "vol24h": 15930,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,600 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
+      "yes": 90,
+      "change24h": 43,
+      "vol24h": 35901,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $82,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
+      "yes": 87,
+      "change24h": 42,
+      "vol24h": 73925,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $88,000 September 21-27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-21-27-2026",
+      "yes": 11,
+      "change24h": -39,
+      "vol24h": 48086,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $84,000 on September 26?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-september-26-2026",
       "yes": 38,
-      "change24h": 10,
-      "vol24h": 9736,
+      "change24h": -38,
+      "vol24h": 13974,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,900 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 34,
-      "change24h": 9,
-      "vol24h": 80254,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 34,
-      "change24h": 7,
-      "vol24h": 91089,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
-      "yes": 35,
-      "change24h": -6,
-      "vol24h": 58933,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8",
-      "yes": 70,
-      "change24h": -6,
-      "vol24h": 18872,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 54,
-      "change24h": -6,
-      "vol24h": 11224,
-      "headlines": []
-    },
-    {
-      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
-      "yes": 70,
-      "change24h": 5,
-      "vol24h": 17202,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2900-in-september-2026",
+      "yes": 13,
+      "change24h": -27,
+      "vol24h": 11436,
       "headlines": []
     }
   ]
