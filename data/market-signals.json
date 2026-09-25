@@ -1,23 +1,33 @@
 {
-  "updated": "2026-09-25T02:11:50.253Z",
+  "updated": "2026-09-25T10:42:30.087Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $82,000 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-21-27-2026",
-      "yes": 18,
-      "change24h": -21,
-      "vol24h": 18468,
+      "yes": 11,
+      "change24h": -46,
+      "vol24h": 17281,
       "headlines": [
         {
-          "title": "Boston Properties stock enters the open after a September 24 close",
-          "source": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0hFaEZ2QTI3WFcyVXJQdXJvT3lJYXNKMVAwZVVWUkQ0QUdZU2ZReGJ3T2lucWpuc2tnS3JyNVNXbms5TFppMDkwb0ZwSkpNOURQckhLX05iRTA1STRZeEpvSkRCRmFSS3JtNWg5REhUTGxKZDZWSnZYd0I0NUs3TmJwNWhqUU1Od0FwSk1vdWxPX0c5Mm9BNG1TZkpmdkMyZTZnV2JpQWVoUEp6NUFvd2FzeEpQeFppeDFKbEc2MEhsdw?oc=5",
-          "cat": "Markets"
-        },
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $2,600 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
+      "yes": 49,
+      "change24h": -36,
+      "vol24h": 82700,
+      "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
+          "source": "rttnews.com",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
         }
@@ -27,109 +37,15 @@
       "question": "Will Bitcoin dip to $82,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 53,
-      "change24h": -16,
-      "vol24h": 53742,
+      "yes": 51,
+      "change24h": -32,
+      "vol24h": 36463,
       "headlines": [
-        {
-          "title": "Boston Properties stock enters the open after a September 24 close",
-          "source": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0hFaEZ2QTI3WFcyVXJQdXJvT3lJYXNKMVAwZVVWUkQ0QUdZU2ZReGJ3T2lucWpuc2tnS3JyNVNXbms5TFppMDkwb0ZwSkpNOURQckhLX05iRTA1STRZeEpvSkRCRmFSS3JtNWg5REhUTGxKZDZWSnZYd0I0NUs3TmJwNWhqUU1Od0FwSk1vdWxPX0c5Mm9BNG1TZkpmdkMyZTZnV2JpQWVoUEp6NUFvd2FzeEpQeFppeDFKbEc2MEhsdw?oc=5",
-          "cat": "Markets"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
+          "source": "rttnews.com",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $84,000 on September 26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-84k-on-september-26-2026",
-      "yes": 71,
-      "change24h": 16,
-      "vol24h": 23500,
-      "headlines": [
-        {
-          "title": "Boston Properties stock enters the open after a September 24 close",
-          "source": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0hFaEZ2QTI3WFcyVXJQdXJvT3lJYXNKMVAwZVVWUkQ0QUdZU2ZReGJ3T2lucWpuc2tnS3JyNVNXbms5TFppMDkwb0ZwSkpNOURQckhLX05iRTA1STRZeEpvSkRCRmFSS3JtNWg5REhUTGxKZDZWSnZYd0I0NUs3TmJwNWhqUU1Od0FwSk1vdWxPX0c5Mm9BNG1TZkpmdkMyZTZnV2JpQWVoUEp6NUFvd2FzeEpQeFppeDFKbEc2MEhsdw?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 56,
-      "change24h": -10,
-      "vol24h": 8763,
-      "headlines": [
-        {
-          "title": "Biotech filed for bankruptcy 11 weeks before its big FDA decision",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2xWaDBQQTB0dk9zdGpMb0txTzFKMDMwcUFRSnFBRkc1bmU3MHZlLXhYQktHdlFfRlBydURqOWJ5aTFzZWNxQzc1a0s1SUlYdGI5YS15aUx0dG5aOFBxUzhfZEdXOGpPcVZJOThBNHlhUWF5OFAyWjlBLUdqc3FMMFQxTFV6ZXFhMUdBakdlUmtzNzM1c1lpN3puMVNtQVJMZm9r?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will 3 Fed rate hikes happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
-      "yes": 42,
-      "change24h": 6,
-      "vol24h": 9909,
-      "headlines": [
-        {
-          "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNUdXJ6X2tRWFpKT0pkNlEyb2I1VUFGMXRBczJvS3V3RWFXc0dzVGhFTzhKOW5UMU83YXJfbzlYaHJ4NGh0U3RYcTNYcUVoT3VpVTZ3VXhFd1VpWFBrdkEwNjA5eWZXbWN5LVlFd19hQnU3Z2FoWUh2ZFRaQkxsWlNQOVZNdS1Xck1PcW5HSktFMHc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed officials see rates likely rising to curb high inflation",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1FaZTVSeTlieFN5WUNJdHE5VVB5VlM2Q0pSY3BtalppeEt0S0s0YnNBMzlTcUpIWGg0V3dxTTBiWWdpbW1OTTJBSFIwMDUzNG80ekkzM3AtMXFoSmRNQVNPQUxBeUVlTmFPNjdWZmk3enE2NFVpY1U1Y1dqSkdDY080OXBZZGRmbWZmYWw2WGdEVmlTOVVhNXVCb0QxU01Lc0tHSTVDS05ZMjJJ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 67,
-      "change24h": 2,
-      "vol24h": 459613,
-      "headlines": [
-        {
-          "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNUdXJ6X2tRWFpKT0pkNlEyb2I1VUFGMXRBczJvS3V3RWFXc0dzVGhFTzhKOW5UMU83YXJfbzlYaHJ4NGh0U3RYcTNYcUVoT3VpVTZ3VXhFd1VpWFBrdkEwNjA5eWZXbWN5LVlFd19hQnU3Z2FoWUh2ZFRaQkxsWlNQOVZNdS1Xck1PcW5HSktFMHc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed officials see rates likely rising to curb high inflation",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1FaZTVSeTlieFN5WUNJdHE5VVB5VlM2Q0pSY3BtalppeEt0S0s0YnNBMzlTcUpIWGg0V3dxTTBiWWdpbW1OTTJBSFIwMDUzNG80ekkzM3AtMXFoSmRNQVNPQUxBeUVlTmFPNjdWZmk3enE2NFVpY1U1Y1dqSkdDY080OXBZZGRmbWZmYWw2WGdEVmlTOVVhNXVCb0QxU01Lc0tHSTVDS05ZMjJJ?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -138,8 +54,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 33,
-      "change24h": -1,
-      "vol24h": 297236,
+      "change24h": 2,
+      "vol24h": 199626,
       "headlines": [
         {
           "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
@@ -156,18 +72,84 @@
       ]
     },
     {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
+      "question": "Will China unban Bitcoin by 2027?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-china-unban-bitcoin-by-2027",
       "yes": 5,
-      "change24h": 0,
-      "vol24h": 15049,
+      "change24h": 2,
+      "vol24h": 11323,
       "headlines": [
         {
-          "title": "Boston Properties stock enters the open after a September 24 close",
-          "source": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT0hFaEZ2QTI3WFcyVXJQdXJvT3lJYXNKMVAwZVVWUkQ0QUdZU2ZReGJ3T2lucWpuc2tnS3JyNVNXbms5TFppMDkwb0ZwSkpNOURQckhLX05iRTA1STRZeEpvSkRCRmFSS3JtNWg5REhUTGxKZDZWSnZYd0I0NUs3TmJwNWhqUU1Od0FwSk1vdWxPX0c5Mm9BNG1TZkpmdkMyZTZnV2JpQWVoUEp6NUFvd2FzeEpQeFppeDFKbEc2MEhsdw?oc=5",
-          "cat": "Markets"
+          "title": "Jazz Age: Paolini Powers Italy Past China Into Fourth Straight BJK Cup Semifinal",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS1QzOEF6ak84MGw4ZDRlQV9Nc3RRZk1CcU9SSFppR01RbnJtc1BCLWJrLVF6MElXNWZ1WERScjZFLTFPcVhhWkhBa0doVWN4bnFoMG1vQ0lKNkFLZFBFU1F2NFE3c21mNWFtTEY3VEJtYWh1M09IRGRJamlGWmtzLUwwSnlnUlN6Rk9wbUkwLWd2N2hzWTA3OVZjOGpncFhtWHFaaw?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 67,
+      "change24h": -1,
+      "vol24h": 344515,
+      "headlines": [
+        {
+          "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNUdXJ6X2tRWFpKT0pkNlEyb2I1VUFGMXRBczJvS3V3RWFXc0dzVGhFTzhKOW5UMU83YXJfbzlYaHJ4NGh0U3RYcTNYcUVoT3VpVTZ3VXhFd1VpWFBrdkEwNjA5eWZXbWN5LVlFd19hQnU3Z2FoWUh2ZFRaQkxsWlNQOVZNdS1Xck1PcW5HSktFMHc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed officials see rates likely rising to curb high inflation",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1FaZTVSeTlieFN5WUNJdHE5VVB5VlM2Q0pSY3BtalppeEt0S0s0YnNBMzlTcUpIWGg0V3dxTTBiWWdpbW1OTTJBSFIwMDUzNG80ekkzM3AtMXFoSmRNQVNPQUxBeUVlTmFPNjdWZmk3enE2NFVpY1U1Y1dqSkdDY080OXBZZGRmbWZmYWw2WGdEVmlTOVVhNXVCb0QxU01Lc0tHSTVDS05ZMjJJ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will 1 Fed rate cut happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
+      "yes": 2,
+      "change24h": 1,
+      "vol24h": 48238,
+      "headlines": [
+        {
+          "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNUdXJ6X2tRWFpKT0pkNlEyb2I1VUFGMXRBczJvS3V3RWFXc0dzVGhFTzhKOW5UMU83YXJfbzlYaHJ4NGh0U3RYcTNYcUVoT3VpVTZ3VXhFd1VpWFBrdkEwNjA5eWZXbWN5LVlFd19hQnU3Z2FoWUh2ZFRaQkxsWlNQOVZNdS1Xck1PcW5HSktFMHc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed officials see rates likely rising to curb high inflation",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1FaZTVSeTlieFN5WUNJdHE5VVB5VlM2Q0pSY3BtalppeEt0S0s0YnNBMzlTcUpIWGg0V3dxTTBiWWdpbW1OTTJBSFIwMDUzNG80ekkzM3AtMXFoSmRNQVNPQUxBeUVlTmFPNjdWZmk3enE2NFVpY1U1Y1dqSkdDY080OXBZZGRmbWZmYWw2WGdEVmlTOVVhNXVCb0QxU01Lc0tHSTVDS05ZMjJJ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 21,
+      "change24h": -1,
+      "vol24h": 37406,
+      "headlines": [
+        {
+          "title": "Sam Presti reflects on OKC Thunder roster, Russell Westbrook retirement | 5 takeaways",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYV93ZTlfU3FDaGFKZUI0TGw1Y3BRczd1ZHBPbUF0Tk1VY1dxb2s0UG1OU3lMa1ZOZldyLTBqODhlUGtwV2w4cDZZR3RUeGJMYmdkYTZBUHgtM0RlZGZPaXBjTmlkaVZUV2tlSUd5bXBfalhyN1lwY205UExLTGNldUtXWVBmNEU?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Thunder GM Sam Presti expects OKC to be 'exceptional' team even after major offseason moves",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tYWNPY3BoUFd5ZXRzOGx6dTA1Z3luX2YtRGhhYmJqMFNTT0RaSVlSRVE4XzhIQ2xURm1UOFlmdW00YmdGZW14TnZfTkN3MUQ0MDMyMW82TWNPOGRtb0VLU1pyWXVULUJMQTVPN01TcDU1X2FuQkE?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -175,51 +157,67 @@
       "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
-      "yes": 0,
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 12779,
+      "vol24h": 182250,
       "headlines": [
         {
-          "title": "Falcons vs. Packers score, live updates: Atlanta leads Green Bay 17-7 at halftime",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHRhNXZQdTNzeEo3SENhLXZlb3ZTYzFFUVRJX21kUkFpZkF1MGFzeDNXMXkwSnBtWVBtWTg2VzRyN0hWNm5EWHNqUDI5LXMyYnNSWlM5Q1RwSjBvQjJ2MlhBcXgzZkhtcVFsV1hXV2JwWTFkVG51NWdQZy0xMC00UkEyTnVPNzU2djRVMHJYNldSZTd5aWpLVjY2SDZIRjljd21MZjRn?oc=5",
+          "title": "5 takeaways from Falcons' blowout win over Packers in Week 3",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmFtenA1M1doZGhtNGJyZjJNZG1vcnhXM2Y3T095dnlZLVNxX1VpRlFaOUZmV1JiLTFEcnNNMWhiVmZHNWUxVE1DekdJRnNrR0ZCR3hDbWhCWXpiR3BlcEhHbjVNcExZVUUwN2hCYXNpTVFVSkhXajFvbVZBeXM5R1JqY2c2S1E?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 43573,
+      "headlines": [
+        {
+          "title": "5 takeaways from Falcons' blowout win over Packers in Week 3",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmFtenA1M1doZGhtNGJyZjJNZG1vcnhXM2Y3T095dnlZLVNxX1VpRlFaOUZmV1JiLTFEcnNNMWhiVmZHNWUxVE1DekdJRnNrR0ZCR3hDbWhCWXpiR3BlcEhHbjVNcExZVUUwN2hCYXNpTVFVSkhXajFvbVZBeXM5R1JqY2c2S1E?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Falcons vs. Packers score, live updates: Michael Penix Jr. makes season debut on Thursday Night Football",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNLW9YVEo3VVZPQld5bVFac0NkRERtMjdYMVcwTTlBQmppWEZuZjJMN19LSWtnRnNRRHpnR0tZNmJnSzVfQXhLQW1BOFdpMkZYMlBmbmF4SXpaZzFHWEtCS3JzN1BibUNPQTdYUHhweTdYTlF6TjJqZ0lNeFVQanFRbUlXY3hOMTRnbUdVR2JDd1ptbkJsRXJ5cFV6RV9KX2dtbENockV5ZDBIWjJ3V2YzS1hqcjlXWGEtTk5fX0JkU192bEFfdlZrc21UYUxVWFFVb3REeG93ZjZ4TjJud0NMZUVSd2U4WEdybjR0NkZKVy1VaGYzVGc?oc=5",
-          "cat": "NFL"
+          "title": "America’s newest soccer star, plus a bad night for Green Bay",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQlprUzN2clQtdEZKRUU2Sk02T1d6UjQtdEZwLU5TOTlMZ0k3MXlHRFE0eDlTeTIyRW1RMlR4OG5FRVNLZGdobWN1NEotc1pLTEhORlM4bFdvNmNkT0lleU1fUTRTQXlLTmVma2RJdXI1dEhZWlRDZzF6VzVjODdUNGw1TF9oTmRGUzE4?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 31,
+      "change24h": -6,
+      "vol24h": 16158,
+      "headlines": []
+    },
+    {
       "question": "No change in Bank of England’s interest rates after November 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-november-2026-meeting-20260730150602309",
-      "yes": 9,
-      "change24h": -22,
-      "vol24h": 15030,
+      "yes": 19,
+      "change24h": 5,
+      "vol24h": 12209,
       "headlines": []
     },
     {
-      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
-      "yes": 86,
-      "change24h": 17,
-      "vol24h": 30496,
-      "headlines": []
-    },
-    {
-      "question": "Bank of England increases interest rates by 50+ bps after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-50-bps-after-november-2026-meeting-20260730150602311",
-      "yes": 4,
-      "change24h": 4,
-      "vol24h": 21889,
+      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
+      "yes": 18,
+      "change24h": -4,
+      "vol24h": 7465,
       "headlines": []
     }
   ]
