@@ -1,20 +1,14 @@
 {
-  "updated": "2026-09-25T16:02:13.521Z",
+  "updated": "2026-09-25T20:48:58.949Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $86,000 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-21-27-2026-from-september-23",
-      "yes": 12,
-      "change24h": -40,
-      "vol24h": 22280,
+      "yes": 9,
+      "change24h": -41,
+      "vol24h": 23200,
       "headlines": [
-        {
-          "title": "Tennis | The Weekly Watch 21 September 2026 | Mirra Andreeva and Daniil Medvedev kick off Asian swing in confidence bid",
-          "source": "Britwatch Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVUREUVRKZDVEY1l3em5fT1NwVlcyWERaSHd1aTFmbGdrWDY5WW90a2x5a2w1SVpNSlM2SXBwYnVSR2hsR1dVSzBtbUFyV2Q2YUJsTWNSYzlXU3JsS0Q0eTNYQ3ZFeURtQkNrckF3M2lsV1V6c2FsRDBLeTZKbzJjR3ZWeFJ5S3lQd0ZvMmtxMkVWUUNLYjdOcFo2RjNReVRXVVgxZ2lqRXJhN0VmSkJHLWpNYy1Ld3hqcWkyM1FkaGcxWHFJMDdsNk1nZkZkMnNValNDX3RWX3BQSkNX?oc=5",
-          "cat": "Tennis"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -24,24 +18,34 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $86,000 on September 27?",
+      "question": "Will Bitcoin dip to $82,000 September 21-27?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-86k-on-september-27-2026",
-      "yes": 5,
-      "change24h": -18,
-      "vol24h": 14969,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-21-27-2026",
+      "yes": 7,
+      "change24h": -22,
+      "vol24h": 27282,
       "headlines": [
-        {
-          "title": "Tennis | The Weekly Watch 21 September 2026 | Mirra Andreeva and Daniil Medvedev kick off Asian swing in confidence bid",
-          "source": "Britwatch Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVUREUVRKZDVEY1l3em5fT1NwVlcyWERaSHd1aTFmbGdrWDY5WW90a2x5a2w1SVpNSlM2SXBwYnVSR2hsR1dVSzBtbUFyV2Q2YUJsTWNSYzlXU3JsS0Q0eTNYQ3ZFeURtQkNrckF3M2lsV1V6c2FsRDBLeTZKbzJjR3ZWeFJ5S3lQd0ZvMmtxMkVWUUNLYjdOcFo2RjNReVRXVVgxZ2lqRXJhN0VmSkJHLWpNYy1Ld3hqcWkyM1FkaGcxWHFJMDdsNk1nZkZkMnNValNDX3RWX3BQSkNX?oc=5",
-          "cat": "Tennis"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "San Diego 2: Igor Ribeiro Marcondes vs Federico Agustin Gomez",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/atp-marcond-gomez-2026-09-25",
+      "yes": 61,
+      "change24h": 20,
+      "vol24h": 160234,
+      "headlines": [
+        {
+          "title": "Mauricio Pochettino opens up on experience of working with both Diego Maradona and Lionel Messi",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMURkQnBuU0o5czh6MlFZOFVuR1VFZjNlSVVkMzdCblN0cjM0SWV5UWM5THN5Nkpqd0VzS1d3Qm96VXRCWE95ZmFOTTBPbEpHYnpoQzlQdkZTYjZybUdPRHV4WE5VbnBxcjZVem1tNTFyekE4RHk1TjZTNWxjZ1A1QjFaaDFwQ1BvMEgxYmQ2Y0lvd1NobFFwcw?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -49,21 +53,37 @@
       "question": "Will Ethereum reach $2,800 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-21-27-2026-from-september-22",
-      "yes": 9,
+      "yes": 6,
       "change24h": -18,
-      "vol24h": 14620,
+      "vol24h": 15411,
       "headlines": [
-        {
-          "title": "Tennis | The Weekly Watch 21 September 2026 | Mirra Andreeva and Daniil Medvedev kick off Asian swing in confidence bid",
-          "source": "Britwatch Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVUREUVRKZDVEY1l3em5fT1NwVlcyWERaSHd1aTFmbGdrWDY5WW90a2x5a2w1SVpNSlM2SXBwYnVSR2hsR1dVSzBtbUFyV2Q2YUJsTWNSYzlXU3JsS0Q0eTNYQ3ZFeURtQkNrckF3M2lsV1V6c2FsRDBLeTZKbzJjR3ZWeFJ5S3lQd0ZvMmtxMkVWUUNLYjdOcFo2RjNReVRXVVgxZ2lqRXJhN0VmSkJHLWpNYy1Ld3hqcWkyM1FkaGcxWHFJMDdsNk1nZkZkMnNValNDX3RWX3BQSkNX?oc=5",
-          "cat": "Tennis"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 63,
+      "change24h": -4,
+      "vol24h": 166025,
+      "headlines": [
+        {
+          "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Bill Ackman: ‘The Fed might have just made a mistake. Am I right or am I wrong?’",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2M1UDVoYnFGbjFlTXNkTTFaalE5OXJPSmF3V2I3c3pKTi0tbXBfT081M3lWUkJMMndjdW9oYlhXMDNNdU1NRVR3X1NfNWdOdDRuOVJqc0xENVFkb3plTVVvbnpHSTR0ellMT3hRVDk1VUt0SkdIMVZza0NpZWRIcmZQazNHNnh6YTF0VWJEUUVkaGZWdjJCdmRWdTJYS2w3WG9yRDJldk5FMHFKUGcwY2laWQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -72,42 +92,36 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 37,
-      "change24h": 5,
-      "vol24h": 209921,
+      "change24h": 4,
+      "vol24h": 150381,
       "headlines": [
         {
-          "title": "Fed Confronts the Prospect of Another Rate Increase Ahead of Midterms",
-          "source": "nytimes.com",
+          "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
+          "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNUdXJ6X2tRWFpKT0pkNlEyb2I1VUFGMXRBczJvS3V3RWFXc0dzVGhFTzhKOW5UMU83YXJfbzlYaHJ4NGh0U3RYcTNYcUVoT3VpVTZ3VXhFd1VpWFBrdkEwNjA5eWZXbWN5LVlFd19hQnU3Z2FoWUh2ZFRaQkxsWlNQOVZNdS1Xck1PcW5HSktFMHc?oc=5",
+          "title": "Bill Ackman: ‘The Fed might have just made a mistake. Am I right or am I wrong?’",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2M1UDVoYnFGbjFlTXNkTTFaalE5OXJPSmF3V2I3c3pKTi0tbXBfT081M3lWUkJMMndjdW9oYlhXMDNNdU1NRVR3X1NfNWdOdDRuOVJqc0xENVFkb3plTVVvbnpHSTR0ellMT3hRVDk1VUt0SkdIMVZza0NpZWRIcmZQazNHNnh6YTF0VWJEUUVkaGZWdjJCdmRWdTJYS2w3WG9yRDJldk5FMHFKUGcwY2laWQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 64,
-      "change24h": -3,
-      "vol24h": 259542,
+      "question": "Will Minnesota Lynx win the 2026 WNBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-lynx-win-the-2026-wnba-finals-171",
+      "yes": 47,
+      "change24h": 2,
+      "vol24h": 52661,
       "headlines": [
         {
-          "title": "Fed Confronts the Prospect of Another Rate Increase Ahead of Midterms",
-          "source": "nytimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNUdXJ6X2tRWFpKT0pkNlEyb2I1VUFGMXRBczJvS3V3RWFXc0dzVGhFTzhKOW5UMU83YXJfbzlYaHJ4NGh0U3RYcTNYcUVoT3VpVTZ3VXhFd1VpWFBrdkEwNjA5eWZXbWN5LVlFd19hQnU3Z2FoWUh2ZFRaQkxsWlNQOVZNdS1Xck1PcW5HSktFMHc?oc=5",
-          "cat": "Macro"
+          "title": "Former voice of Portland Trail Blazers joins Minnesota Timberwolves’ broadcast team",
+          "source": "KPTV",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1Nyb0YwUlRGT0lCZzVhbl8xa2UzU2ZseUZadlMyLXBmem1QNWZ1ek5ydTVMQkI2T3FYSjBSMktHQ1hCcDRlVW1sX0ZENlZFNndNWkhGWnlLdVFTOVEzM0ZpREIwME50UnBUZG9YVG04dTUxY1dHYlRYeFU4WGEtUFhzWS1oQ21YX3FFejVqbkkwRkd4M1hWUzdYd1piQ29fWEVOX1llcUZFNDNKQjZxRkNB0gHGAUFVX3lxTE5zYlNhdjBRSWI2Y3BJd1VwZ0h2VXRLc2Q3WFM2R2c1ZE04SnNnd21qUWctREFWc1FsU1E4QUNSbWQxRV9ON1JKU09VV2cwOXppRFhrT2daQWZZQUozYW9oQjhvOWh3ZXVMYUczR1RPSEZWdUVzOWlQMDRFTkNHWV9vZnhUbDdncFc3djdiSEFRc3FOLXJRMldQdV95NkF1dE1tZnBUZUwxN3NNZ0NqN0VvaXVRU3piLWMtYk0yMHI0S0FFQ0Z5Zw?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -117,35 +131,13 @@
       "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 1,
-      "vol24h": 189600,
+      "vol24h": 190025,
       "headlines": [
         {
-          "title": "Winners and losers from Packers' Thursday Night Football dud vs. Falcons",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOajBVS2w5TlpibndOelE2eVdSd2hiRUJwcnE0Z1RzZTZsS0tGbU84eUZKcHVXakluY3QxQ3ZyWVg5alNFZXNYaDZfdlcwSnA1czEydTVrMGtwd1pOb1ZsZXRjX3hvT1BYRE5CdzFVM0ZRemFIQnNGclNKRERSRjh3QXJFYnRKUU5ueXM4cEdrWXJmQl9yQ29xeDI1UXhEdW1ZLWFrbW53OFhDd1JSZVZVTjk3Y2lCWXpzRnJZcWxRbjNPUHk5OHNQZjk2QmVjMUtCMzRYVGZwYi1HNkxTNzZ1dnJmcUtyQzVEYkpsd2J2ay04eEVyVFprM3BoOGhwZlE?oc=5",
+          "title": "Viral moment brings humor to painful Packers performance in loss to the Falcons",
+          "source": "WLUK",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWpLN0lXRkpMVUtBNFp3SkRnbEZBVmVQdmlRbjdBVkp2M21NcThPbTVJRTlPdE5rSXRkM1lGc2pwNk4wVElFeFBQMzc2RFBhcjFBMTlqLUV6dzBlQldCVEdQTFJaOEN6Q0NQdWhmN0o0NEZiV183Tk1YZEFqOUthRHF5N0d1ZEtfRmR5dmQzOFBSeFpWaGF4U3ItWEJpUVkwUE9Bb0RGWFcycU5mYTlYNGN3Zm0xeEdKRGlNWjhvcS1OVExnVzEybkVpRUdyY1lReGZ3ckk5QWRTUWQ5UEtUZERBUnJTYTVLZ3RYTG1OaHpQNTlqczJKaEhZUkxKaWh0T0ZWeW12azNmM2JhUGc?oc=5",
           "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate cut happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
-      "yes": 2,
-      "change24h": 1,
-      "vol24h": 49249,
-      "headlines": [
-        {
-          "title": "Fed Confronts the Prospect of Another Rate Increase Ahead of Midterms",
-          "source": "nytimes.com",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Officials Don’t Sound Done Hiking Interest Rates",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUNUdXJ6X2tRWFpKT0pkNlEyb2I1VUFGMXRBczJvS3V3RWFXc0dzVGhFTzhKOW5UMU83YXJfbzlYaHJ4NGh0U3RYcTNYcUVoT3VpVTZ3VXhFd1VpWFBrdkEwNjA5eWZXbWN5LVlFd19hQnU3Z2FoWUh2ZFRaQkxsWlNQOVZNdS1Xck1PcW5HSktFMHc?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -154,42 +146,26 @@
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
       "yes": 2,
-      "change24h": 0,
-      "vol24h": 107278,
+      "change24h": -1,
+      "vol24h": 107876,
       "headlines": [
         {
-          "title": "Winners and losers from Packers' Thursday Night Football dud vs. Falcons",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOajBVS2w5TlpibndOelE2eVdSd2hiRUJwcnE0Z1RzZTZsS0tGbU84eUZKcHVXakluY3QxQ3ZyWVg5alNFZXNYaDZfdlcwSnA1czEydTVrMGtwd1pOb1ZsZXRjX3hvT1BYRE5CdzFVM0ZRemFIQnNGclNKRERSRjh3QXJFYnRKUU5ueXM4cEdrWXJmQl9yQ29xeDI1UXhEdW1ZLWFrbW53OFhDd1JSZVZVTjk3Y2lCWXpzRnJZcWxRbjNPUHk5OHNQZjk2QmVjMUtCMzRYVGZwYi1HNkxTNzZ1dnJmcUtyQzVEYkpsd2J2ay04eEVyVFprM3BoOGhwZlE?oc=5",
+          "title": "Viral moment brings humor to painful Packers performance in loss to the Falcons",
+          "source": "WLUK",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWpLN0lXRkpMVUtBNFp3SkRnbEZBVmVQdmlRbjdBVkp2M21NcThPbTVJRTlPdE5rSXRkM1lGc2pwNk4wVElFeFBQMzc2RFBhcjFBMTlqLUV6dzBlQldCVEdQTFJaOEN6Q0NQdWhmN0o0NEZiV183Tk1YZEFqOUthRHF5N0d1ZEtfRmR5dmQzOFBSeFpWaGF4U3ItWEJpUVkwUE9Bb0RGWFcycU5mYTlYNGN3Zm0xeEdKRGlNWjhvcS1OVExnVzEybkVpRUdyY1lReGZ3ckk5QWRTUWQ5UEtUZERBUnJTYTVLZ3RYTG1OaHpQNTlqczJKaEhZUkxKaWh0T0ZWeW12azNmM2JhUGc?oc=5",
           "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the New England Patriots win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 19929,
-      "headlines": [
-        {
-          "title": "Football Daily | Will Spain bring more pain for Tuchel’s tired England?",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnllVGJKRzRuR3RIV3Fsd28wZnVobFlfU0c1cmh2TUpSSkFZQXdKaHQ5bzNZUUNZSU5fNHBSaW90MkhLSlM0U1o1eDFlbWZhNDhsUWVqUUwwOU1xczU3ME10QW1rQlktbVp2UUxsVC1yM3ZJc3dJTXgzNmtHVzk5eWJ4anRxS3ZQWmpleklPVVFHdw?oc=5",
-          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "No change in Bank of England’s interest rates after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-november-2026-meeting-20260730150602309",
-      "yes": 20,
-      "change24h": 12,
-      "vol24h": 11361,
+      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "yes": 14,
+      "change24h": -5,
+      "vol24h": 12840,
       "headlines": []
     }
   ]
