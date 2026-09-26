@@ -1,14 +1,20 @@
 {
-  "updated": "2026-09-26T02:17:20.309Z",
+  "updated": "2026-09-26T10:25:12.703Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $86,000 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-21-27-2026-from-september-23",
-      "yes": 9,
-      "change24h": -43,
-      "vol24h": 17909,
+      "yes": 5,
+      "change24h": -30,
+      "vol24h": 29968,
       "headlines": [
+        {
+          "title": "Soccer games today: Full schedule of international matches for September 26",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3ptenFMWFNaMklvTHdNSVBXQ05lcFpQZk1OZ01xMFFKMDBfeXRQdGFYU1VxWHNCRE9xejhzUUhiVE9BR1l1a3BhN25WaDVwaXpZUzlEWkZpQVZhZGVWVXZsRWV4Znh0ZEZtUDRSb05ha1ZFMVhrcWF1d0tHSFo4T29aOG5aOFI2?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -18,13 +24,19 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $86,000 on September 27?",
+      "question": "Will Ethereum reach $2,800 September 21-27?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-86k-on-september-27-2026",
-      "yes": 3,
-      "change24h": -23,
-      "vol24h": 19771,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-21-27-2026-from-september-22",
+      "yes": 4,
+      "change24h": -18,
+      "vol24h": 13340,
       "headlines": [
+        {
+          "title": "Soccer games today: Full schedule of international matches for September 26",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3ptenFMWFNaMklvTHdNSVBXQ05lcFpQZk1OZ01xMFFKMDBfeXRQdGFYU1VxWHNCRE9xejhzUUhiVE9BR1l1a3BhN25WaDVwaXpZUzlEWkZpQVZhZGVWVXZsRWV4Znh0ZEZtUDRSb05ha1ZFMVhrcWF1d0tHSFo4T29aOG5aOFI2?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
@@ -34,34 +46,24 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $86,000 on September 28?",
+      "question": "Will Bitcoin reach $87,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-86k-on-september-28-2026",
-      "yes": 11,
-      "change24h": -21,
-      "vol24h": 12655,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 21,
+      "change24h": -13,
+      "vol24h": 39310,
       "headlines": [
+        {
+          "title": "Soccer games today: Full schedule of international matches for September 26",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3ptenFMWFNaMklvTHdNSVBXQ05lcFpQZk1OZ01xMFFKMDBfeXRQdGFYU1VxWHNCRE9xejhzUUhiVE9BR1l1a3BhN25WaDVwaXpZUzlEWkZpQVZhZGVWVXZsRWV4Znh0ZEZtUDRSb05ha1ZFMVhrcWF1d0tHSFo4T29aOG5aOFI2?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Chengdu Open: Federico Cina vs Alexandre Muller",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-cina-muller-2026-09-24",
-      "yes": 47,
-      "change24h": -4,
-      "vol24h": 69665,
-      "headlines": [
-        {
-          "title": "ATP roundup: Jenson Brooksby charges into Chengdu QFs",
-          "source": "Field Level Media",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnRFTHpvZ3MtaFhpOFpJd0RvVkRkZGFYV3hBakY2WGtHbk1OejIxQ2Y4LXkwTEJTV2tjTjVPdWtWZXNpeTh0amE2ZHVwRWZLOWNkQkY0ZVpYTW91aXpRMXhEVjRzSTFuWFExSXFOQURHTUJQSkpCbk8xN1hSY0xSTWVfTDhRWHIwaVg3cUU3NHZXV3h6?oc=5",
-          "cat": "Tennis"
         }
       ]
     },
@@ -71,18 +73,18 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 65,
       "change24h": -2,
-      "vol24h": 236645,
+      "vol24h": 229383,
       "headlines": [
         {
           "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
-          "source": "The New York Times",
+          "source": "nytimes.com",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Bill Ackman: ‘The Fed might have just made a mistake. Am I right or am I wrong?’",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWxfdnBlUUJaQnRzSHg1LWQxcU96bFpsSGMyd2hMVE1odGNGTWg1YW5waXhxdWF5RzRNSzlOZUpIRUhBTmo5QWR2RHUwbTlFeHFRcWV2dlBQMzIxR0ZkTW8yTmJWRFFTM0tRbEZWTEk0WDNGdERwaUhSMFh4YUVFVmRjdFFIcllqcFNFN1FyTGlSRC03ckRoNzJNRXdvcDI2cFhVQTNxeWJiM1VBX25weWV2S1N5T0hqRUV0V1NWblFoYTBZcEd6MS1iY243V3c5R3lzbg?oc=5",
+          "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+          "source": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk5lSkEzNDdYMEcyZjAtdnRicXhMSGMtU0MzR3JNWEdSR2dIaW9Ndm9sUFNzRGlGLXNhclRmU3FlcXJ5aDByVExyMmZUX3MyNEFaQ0lWX3oxM2U2cU1NT0dfc3FTQ1dnbUp5U19XQWNJOVIyUVlkdlcydzgwQWdIYjNLRXRLMHBr0gGOAUFVX3lxTE1MQ3lndjVhRDktQmJPN0xOcjNsaHprWnRodWRBN09QblZQOTNacDJ6Z3ZYNUJsYkJIOWhJRWJRXzg4NWlXc1Q4ZVRSWnNwTFpLX1VhNTVVYk1MQ2xCekh4ZmhaSU5URlJIMTFfVktVMFYwc1pDbjNyN1dqbEtfRWVnLTlITWdTdDVMS2tmYVE?oc=5",
           "cat": "Macro"
         }
       ]
@@ -93,41 +95,60 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 34,
       "change24h": 1,
-      "vol24h": 315331,
+      "vol24h": 310920,
       "headlines": [
         {
           "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
-          "source": "The New York Times",
+          "source": "nytimes.com",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Bill Ackman: ‘The Fed might have just made a mistake. Am I right or am I wrong?’",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWxfdnBlUUJaQnRzSHg1LWQxcU96bFpsSGMyd2hMVE1odGNGTWg1YW5waXhxdWF5RzRNSzlOZUpIRUhBTmo5QWR2RHUwbTlFeHFRcWV2dlBQMzIxR0ZkTW8yTmJWRFFTM0tRbEZWTEk0WDNGdERwaUhSMFh4YUVFVmRjdFFIcllqcFNFN1FyTGlSRC03ckRoNzJNRXdvcDI2cFhVQTNxeWJiM1VBX25weWV2S1N5T0hqRUV0V1NWblFoYTBZcEd6MS1iY243V3c5R3lzbg?oc=5",
+          "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+          "source": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk5lSkEzNDdYMEcyZjAtdnRicXhMSGMtU0MzR3JNWEdSR2dIaW9Ndm9sUFNzRGlGLXNhclRmU3FlcXJ5aDByVExyMmZUX3MyNEFaQ0lWX3oxM2U2cU1NT0dfc3FTQ1dnbUp5U19XQWNJOVIyUVlkdlcydzgwQWdIYjNLRXRLMHBr0gGOAUFVX3lxTE1MQ3lndjVhRDktQmJPN0xOcjNsaHprWnRodWRBN09QblZQOTNacDJ6Z3ZYNUJsYkJIOWhJRWJRXzg4NWlXc1Q4ZVRSWnNwTFpLX1VhNTVVYk1MQ2xCekh4ZmhaSU5URlJIMTFfVktVMFYwc1pDbjNyN1dqbEtfRWVnLTlITWdTdDVMS2tmYVE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "NBA: Stephen Curry to leave Warriors?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
+      "yes": 1,
+      "change24h": -1,
+      "vol24h": 16572,
+      "headlines": [
+        {
+          "title": "Stephen Curry and Warriors agree to 2-year contract extension worth $116 million, AP source says",
+          "source": "ClickOnDetroit | WDIV Local 4",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0VkLXozZHZJa2EzTTlFWVpWU1VRd2JzTGRvSFg0dkthZ1BuaERsZWsyN1dTUzIzV1kyUmdRRS12MmhtSEo3bUozNGJhNnJHWWdpTHNBajY0bzM3V2tEdkRFZl9GNGNqRWQzOWx0RC0tNEZJZU4ybXlFemRtTDhxZmFFbzM3azNDc3lIQ1daZU5mY0dOaE8wR25uN2VvUkxYaEh0NmthNFlVQkxoeTBPanpqa01wbVYxS0FlRkc1eGNfLTFkeU8wekpsaWhHVUUyMU0zUmVHY0cyRDlD?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 28,
+      "change24h": 1,
+      "vol24h": 12630,
+      "headlines": [
+        {
+          "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
+          "source": "nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+          "source": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZk5lSkEzNDdYMEcyZjAtdnRicXhMSGMtU0MzR3JNWEdSR2dIaW9Ndm9sUFNzRGlGLXNhclRmU3FlcXJ5aDByVExyMmZUX3MyNEFaQ0lWX3oxM2U2cU1NT0dfc3FTQ1dnbUp5U19XQWNJOVIyUVlkdlcydzgwQWdIYjNLRXRLMHBr0gGOAUFVX3lxTE1MQ3lndjVhRDktQmJPN0xOcjNsaHprWnRodWRBN09QblZQOTNacDJ6Z3ZYNUJsYkJIOWhJRWJRXzg4NWlXc1Q4ZVRSWnNwTFpLX1VhNTVVYk1MQ2xCekh4ZmhaSU5URlJIMTFfVktVMFYwc1pDbjNyN1dqbEtfRWVnLTlITWdTdDVMS2tmYVE?oc=5",
           "cat": "Macro"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "No change in Bank of England’s interest rates after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-november-2026-meeting-20260730150602309",
-      "yes": 20,
-      "change24h": 11,
-      "vol24h": 9787,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 14,
-      "change24h": -4,
-      "vol24h": 16810,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
