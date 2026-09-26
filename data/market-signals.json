@@ -1,19 +1,57 @@
 {
-  "updated": "2026-09-26T15:14:31.858Z",
+  "updated": "2026-09-26T20:17:12.796Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $82,000 September 21-27?",
+      "question": "Will Bitcoin dip to $82,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-21-27-2026",
-      "yes": 8,
-      "change24h": -13,
-      "vol24h": 54975,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
+      "yes": 56,
+      "change24h": -5,
+      "vol24h": 22923,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,800 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-september-2026-from-september-22",
+      "yes": 29,
+      "change24h": -5,
+      "vol24h": 11338,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 34,
+      "change24h": -3,
+      "vol24h": 187630,
+      "headlines": [
+        {
+          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -21,25 +59,9 @@
       "question": "Will Ethereum dip to $2,600 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
-      "yes": 44,
-      "change24h": -10,
-      "vol24h": 47477,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $86,000 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-21-27-2026-from-september-23",
-      "yes": 7,
-      "change24h": -10,
-      "vol24h": 28736,
+      "yes": 47,
+      "change24h": -3,
+      "vol24h": 45270,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -55,7 +77,7 @@
       "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
       "yes": 67,
       "change24h": 3,
-      "vol24h": 14504,
+      "vol24h": 14245,
       "headlines": [
         {
           "title": "Nominee to lead FDA aims to speed up medical research, combat China’s rise",
@@ -76,12 +98,12 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 65,
-      "change24h": -1,
-      "vol24h": 180048,
+      "change24h": 2,
+      "vol24h": 96134,
       "headlines": [
         {
           "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "tradingview.com",
+          "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
           "cat": "Macro"
         },
@@ -94,16 +116,16 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 34,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 268672,
+      "vol24h": 139529,
       "headlines": [
         {
           "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "tradingview.com",
+          "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
           "cat": "Macro"
         },
@@ -116,24 +138,18 @@
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "question": "Will the Tennessee Titans win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-tennessee-titans-win-the-2027-nfl-league-championship",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 220545,
+      "vol24h": 42253,
       "headlines": [
         {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "No. 1 Texas staves off miraculous comeback bid from No. 14 Tennessee",
+          "source": "sports.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWnE2UVhCYWNlYVg5YS1iZXpXdlpTMXhMRFBNbHgtZlJuekRhZ2dHX0hITHdUcWU5NHFSMnppR3Joc1dwOTRCaDBhOU11WDhENUFldEVjc1lmTm9ZU18zV3gweHhuX3pCRV90d3B6MkpQa1h2c0VyZThuRnF5QXdiOF9BRHdkTDVDcjRVS0t1YTFIZ1l5R3Vza1BJbnpoTDR6WHE2WWVEMGNJdHVuVTFIMUM3QjhKQWVRcUxDUUZGYm54SU5LWVVjaS0tTzJlYWhodWdIa3RhYXNHaThiQnc?oc=5",
+          "cat": "NFL"
         }
       ]
     }
