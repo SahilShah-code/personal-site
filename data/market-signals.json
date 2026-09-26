@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-25T20:48:58.949Z",
+  "updated": "2026-09-26T02:17:20.309Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $86,000 September 21-27?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-21-27-2026-from-september-23",
       "yes": 9,
-      "change24h": -41,
-      "vol24h": 23200,
+      "change24h": -43,
+      "vol24h": 17909,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $82,000 September 21-27?",
+      "question": "Will the price of Bitcoin be above $86,000 on September 27?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-21-27-2026",
-      "yes": 7,
-      "change24h": -22,
-      "vol24h": 27282,
+      "url": "https://polymarket.com/event/bitcoin-above-86k-on-september-27-2026",
+      "yes": 3,
+      "change24h": -23,
+      "vol24h": 19771,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
@@ -34,34 +34,34 @@
       ]
     },
     {
-      "question": "San Diego 2: Igor Ribeiro Marcondes vs Federico Agustin Gomez",
+      "question": "Will the price of Bitcoin be above $86,000 on September 28?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-86k-on-september-28-2026",
+      "yes": 11,
+      "change24h": -21,
+      "vol24h": 12655,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Chengdu Open: Federico Cina vs Alexandre Muller",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-marcond-gomez-2026-09-25",
-      "yes": 61,
-      "change24h": 20,
-      "vol24h": 160234,
+      "url": "https://polymarket.com/event/atp-cina-muller-2026-09-24",
+      "yes": 47,
+      "change24h": -4,
+      "vol24h": 69665,
       "headlines": [
         {
-          "title": "Mauricio Pochettino opens up on experience of working with both Diego Maradona and Lionel Messi",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMURkQnBuU0o5czh6MlFZOFVuR1VFZjNlSVVkMzdCblN0cjM0SWV5UWM5THN5Nkpqd0VzS1d3Qm96VXRCWE95ZmFOTTBPbEpHYnpoQzlQdkZTYjZybUdPRHV4WE5VbnBxcjZVem1tNTFyekE4RHk1TjZTNWxjZ1A1QjFaaDFwQ1BvMEgxYmQ2Y0lvd1NobFFwcw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,800 September 21-27?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-21-27-2026-from-september-22",
-      "yes": 6,
-      "change24h": -18,
-      "vol24h": 15411,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
+          "title": "ATP roundup: Jenson Brooksby charges into Chengdu QFs",
+          "source": "Field Level Media",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWnRFTHpvZ3MtaFhpOFpJd0RvVkRkZGFYV3hBakY2WGtHbk1OejIxQ2Y4LXkwTEJTV2tjTjVPdWtWZXNpeTh0amE2ZHVwRWZLOWNkQkY0ZVpYTW91aXpRMXhEVjRzSTFuWFExSXFOQURHTUJQSkpCbk8xN1hSY0xSTWVfTDhRWHIwaVg3cUU3NHZXV3h6?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -69,9 +69,9 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 63,
-      "change24h": -4,
-      "vol24h": 166025,
+      "yes": 65,
+      "change24h": -2,
+      "vol24h": 236645,
       "headlines": [
         {
           "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
@@ -81,8 +81,8 @@
         },
         {
           "title": "Bill Ackman: ‘The Fed might have just made a mistake. Am I right or am I wrong?’",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2M1UDVoYnFGbjFlTXNkTTFaalE5OXJPSmF3V2I3c3pKTi0tbXBfT081M3lWUkJMMndjdW9oYlhXMDNNdU1NRVR3X1NfNWdOdDRuOVJqc0xENVFkb3plTVVvbnpHSTR0ellMT3hRVDk1VUt0SkdIMVZza0NpZWRIcmZQazNHNnh6YTF0VWJEUUVkaGZWdjJCdmRWdTJYS2w3WG9yRDJldk5FMHFKUGcwY2laWQ?oc=5",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWxfdnBlUUJaQnRzSHg1LWQxcU96bFpsSGMyd2hMVE1odGNGTWg1YW5waXhxdWF5RzRNSzlOZUpIRUhBTmo5QWR2RHUwbTlFeHFRcWV2dlBQMzIxR0ZkTW8yTmJWRFFTM0tRbEZWTEk0WDNGdERwaUhSMFh4YUVFVmRjdFFIcllqcFNFN1FyTGlSRC03ckRoNzJNRXdvcDI2cFhVQTNxeWJiM1VBX25weWV2S1N5T0hqRUV0V1NWblFoYTBZcEd6MS1iY243V3c5R3lzbg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -91,9 +91,9 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 37,
-      "change24h": 4,
-      "vol24h": 150381,
+      "yes": 34,
+      "change24h": 1,
+      "vol24h": 315331,
       "headlines": [
         {
           "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
@@ -103,69 +103,30 @@
         },
         {
           "title": "Bill Ackman: ‘The Fed might have just made a mistake. Am I right or am I wrong?’",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2M1UDVoYnFGbjFlTXNkTTFaalE5OXJPSmF3V2I3c3pKTi0tbXBfT081M3lWUkJMMndjdW9oYlhXMDNNdU1NRVR3X1NfNWdOdDRuOVJqc0xENVFkb3plTVVvbnpHSTR0ellMT3hRVDk1VUt0SkdIMVZza0NpZWRIcmZQazNHNnh6YTF0VWJEUUVkaGZWdjJCdmRWdTJYS2w3WG9yRDJldk5FMHFKUGcwY2laWQ?oc=5",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWxfdnBlUUJaQnRzSHg1LWQxcU96bFpsSGMyd2hMVE1odGNGTWg1YW5waXhxdWF5RzRNSzlOZUpIRUhBTmo5QWR2RHUwbTlFeHFRcWV2dlBQMzIxR0ZkTW8yTmJWRFFTM0tRbEZWTEk0WDNGdERwaUhSMFh4YUVFVmRjdFFIcllqcFNFN1FyTGlSRC03ckRoNzJNRXdvcDI2cFhVQTNxeWJiM1VBX25weWV2S1N5T0hqRUV0V1NWblFoYTBZcEd6MS1iY243V3c5R3lzbg?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Minnesota Lynx win the 2026 WNBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-minnesota-lynx-win-the-2026-wnba-finals-171",
-      "yes": 47,
-      "change24h": 2,
-      "vol24h": 52661,
-      "headlines": [
-        {
-          "title": "Former voice of Portland Trail Blazers joins Minnesota Timberwolves’ broadcast team",
-          "source": "KPTV",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc1Nyb0YwUlRGT0lCZzVhbl8xa2UzU2ZseUZadlMyLXBmem1QNWZ1ek5ydTVMQkI2T3FYSjBSMktHQ1hCcDRlVW1sX0ZENlZFNndNWkhGWnlLdVFTOVEzM0ZpREIwME50UnBUZG9YVG04dTUxY1dHYlRYeFU4WGEtUFhzWS1oQ21YX3FFejVqbkkwRkd4M1hWUzdYd1piQ29fWEVOX1llcUZFNDNKQjZxRkNB0gHGAUFVX3lxTE5zYlNhdjBRSWI2Y3BJd1VwZ0h2VXRLc2Q3WFM2R2c1ZE04SnNnd21qUWctREFWc1FsU1E4QUNSbWQxRV9ON1JKU09VV2cwOXppRFhrT2daQWZZQUozYW9oQjhvOWh3ZXVMYUczR1RPSEZWdUVzOWlQMDRFTkNHWV9vZnhUbDdncFc3djdiSEFRc3FOLXJRMldQdV95NkF1dE1tZnBUZUwxN3NNZ0NqN0VvaXVRU3piLWMtYk0yMHI0S0FFQ0Z5Zw?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 1,
-      "vol24h": 190025,
-      "headlines": [
-        {
-          "title": "Viral moment brings humor to painful Packers performance in loss to the Falcons",
-          "source": "WLUK",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWpLN0lXRkpMVUtBNFp3SkRnbEZBVmVQdmlRbjdBVkp2M21NcThPbTVJRTlPdE5rSXRkM1lGc2pwNk4wVElFeFBQMzc2RFBhcjFBMTlqLUV6dzBlQldCVEdQTFJaOEN6Q0NQdWhmN0o0NEZiV183Tk1YZEFqOUthRHF5N0d1ZEtfRmR5dmQzOFBSeFpWaGF4U3ItWEJpUVkwUE9Bb0RGWFcycU5mYTlYNGN3Zm0xeEdKRGlNWjhvcS1OVExnVzEybkVpRUdyY1lReGZ3ckk5QWRTUWQ5UEtUZERBUnJTYTVLZ3RYTG1OaHpQNTlqczJKaEhZUkxKaWh0T0ZWeW12azNmM2JhUGc?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": -1,
-      "vol24h": 107876,
-      "headlines": [
-        {
-          "title": "Viral moment brings humor to painful Packers performance in loss to the Falcons",
-          "source": "WLUK",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQcWpLN0lXRkpMVUtBNFp3SkRnbEZBVmVQdmlRbjdBVkp2M21NcThPbTVJRTlPdE5rSXRkM1lGc2pwNk4wVElFeFBQMzc2RFBhcjFBMTlqLUV6dzBlQldCVEdQTFJaOEN6Q0NQdWhmN0o0NEZiV183Tk1YZEFqOUthRHF5N0d1ZEtfRmR5dmQzOFBSeFpWaGF4U3ItWEJpUVkwUE9Bb0RGWFcycU5mYTlYNGN3Zm0xeEdKRGlNWjhvcS1OVExnVzEybkVpRUdyY1lReGZ3ckk5QWRTUWQ5UEtUZERBUnJTYTVLZ3RYTG1OaHpQNTlqczJKaEhZUkxKaWh0T0ZWeW12azNmM2JhUGc?oc=5",
-          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "No change in Bank of England’s interest rates after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/no-change-in-bank-of-englands-interest-rates-after-november-2026-meeting-20260730150602309",
+      "yes": 20,
+      "change24h": 11,
+      "vol24h": 9787,
+      "headlines": []
+    },
+    {
       "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
       "yes": 14,
-      "change24h": -5,
-      "vol24h": 12840,
+      "change24h": -4,
+      "vol24h": 16810,
       "headlines": []
     }
   ]
