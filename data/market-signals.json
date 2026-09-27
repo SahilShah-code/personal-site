@@ -1,98 +1,56 @@
 {
-  "updated": "2026-09-27T15:54:34.308Z",
+  "updated": "2026-09-27T20:32:01.023Z",
   "withNews": [
     {
-      "question": "Basketball Loewen Braunschweig vs. Rostock Seawolves",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/bkbbl-loe-ros-2026-09-27",
-      "yes": 100,
-      "change24h": 67,
-      "vol24h": 19339,
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 30,
+      "change24h": 2,
+      "vol24h": 16719,
       "headlines": [
         {
-          "title": "Hornets Bulls Trade Basketball",
-          "source": "Idaho Press",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORUFmcVU1MnVJTnVmcGNscTNxWm82aTJJOVFkVktMb1lQWDluTHV3a1F6bWR0SkJLZE4tdnFSd1VpVVFoX3JVMWlteDY2YTJLNXZIRnIzUTF0NThiVnU2NDVkbDh2bTIyNG9NTHpuLW1GLXNNanBSZnVVaGl4Z0lMSmUyNG5RTGJuQmVIZGEtTE9hV1hndTFlT0tpYmxLdmRubE1kdXA0bEhaclZZWThKSzVQdHlza0dWNnl3WA?oc=5",
-          "cat": "NBA"
+          "title": "Bill Ackman thinks the Fed ‘just made a mistake’ — and higher rates will make inflation worse, not better",
+          "source": "moneywise.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzM1LTcyV09tQWNEVkxBV2pwbUF4V19tQUdqRjhqdFZ2Ti1YX3BvekJOQTJTTXlyQ2psTlJSS19OTmZ1LXEyMWhtTWVhdHlFZlRIU01QanhrZjN6SDZKb1FEQk5FMXhkVVlNdWpfTmVvQnpVNlVtVHBqVnJHbmp5YnNjSTY?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $82,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 44,
-      "change24h": -10,
-      "vol24h": 53038,
-      "headlines": [
-        {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 27 September By Investing.com",
-          "source": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEVjcTVfazRWQUJpeGZxY0NXR2F4enlzc2RGZHJESWZaMW1NRFpZQi1kV1V1cnJUakZCRHdfcHB6cE1Bc003YllLZi0wTHMxYU0wVXZhVndfTXpoVWtFYzhhQ1FTTkxPdVpULUg1LW9IbjR2ZDJMODJnTFpocElIUGxXS0RrVGxIVXN5WTdrYUtTOHVIemxmVERwbFlxdm1QalIxdzVZQl9Xdw?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 25,
-      "change24h": 4,
-      "vol24h": 63435,
-      "headlines": [
-        {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 27 September By Investing.com",
-          "source": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEVjcTVfazRWQUJpeGZxY0NXR2F4enlzc2RGZHJESWZaMW1NRFpZQi1kV1V1cnJUakZCRHdfcHB6cE1Bc003YllLZi0wTHMxYU0wVXZhVndfTXpoVWtFYzhhQ1FTTkxPdVpULUg1LW9IbjR2ZDJMODJnTFpocElIUGxXS0RrVGxIVXN5WTdrYUtTOHVIemxmVERwbFlxdm1QalIxdzVZQl9Xdw?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
-      "yes": 11,
-      "change24h": -4,
-      "vol24h": 37034,
-      "headlines": [
-        {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 27 September By Investing.com",
-          "source": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEVjcTVfazRWQUJpeGZxY0NXR2F4enlzc2RGZHJESWZaMW1NRFpZQi1kV1V1cnJUakZCRHdfcHB6cE1Bc003YllLZi0wTHMxYU0wVXZhVndfTXpoVWtFYzhhQ1FTTkxPdVpULUg1LW9IbjR2ZDJMODJnTFpocElIUGxXS0RrVGxIVXN5WTdrYUtTOHVIemxmVERwbFlxdm1QalIxdzVZQl9Xdw?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "question": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": -1,
-      "vol24h": 51473,
+      "url": "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 27031,
       "headlines": [
         {
-          "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Bills-Chargers, Cowboys-Ravens, NFL on Sunday",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWVzdGRmSmI5MzNHdUYtZGpwVEQ4VkhvWndnVVQyM1hDZjVubndQVUFTZG8xWGItUS0xZzJmQ0l5ODYwckNVdGNZNXJ5SXp3MkR3ODVRcm5XOEpqWGxNejBoOEx0bUVrVlF1UVR3OGxack1RZ2Q3VnNGdzhXZmR0NHg0dktXMUZfQ2lMYjVqcHgzSHBMQWhSb0JobGprOVhDbkdjQUNPbDNST3BIYjhMTUxrWXo3NmtuWm9fUkozb01aYi1SU1Nv?oc=5",
+          "title": "What we learned: Best and worst from Patriots’ embarrassing 35-6 loss to Jaguars",
+          "source": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdngtNGhvVHdXNXdaem9zR29PbmpGNnE3RkEtZnFCdjhNMEhOQ3VDOF9Hd2RCX3E4bnFiNDlsTlNNSlJFV3pHd29rX0ZZZ1ladU9mRVUyMU5nSVliZlZBeGJvN09ZSnVaZG84YWxSZ0RpLWtocUl0akZ5RmJvNV9jLXlrcVFtY3c2STlteUFJYkVEcXJVYUxhY2x3RVpkRm4ybmp1elU3SWlFb3ZaLWlFODUxd0xkR3RwRElj?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
-      "yes": 3,
+      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
+      "yes": 8,
       "change24h": -1,
-      "vol24h": 26894,
+      "vol24h": 23835,
       "headlines": [
         {
-          "title": "Rams vs. Broncos odds, predictions, NFL picks, spread, best bets: Betting preview for Sunday Night Football",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOak1FVVJfeVZrZHhBTlJydnd3RVFzLXlzZkpMTFNzUDhOU3NLbE9nbzFiR2NBQk9BcG50d29qczUzWVpyWWc3bGVsZFAwSXFndkxnanNWYV9WNzdxSkp2SGZOMkJiMENqVldXRW1CeWRnOFA3OGZ0azF5TEZUX1lBX2ZabThLaDRlU1pKWUF6NmNJTmsyaFo5LVh5OE53LVB3dGdfcnZaS1U3UVRFNDlVUDRJS3N3aEJzTEJHNW9MaUxMV2tXek1kZnRNV1VEX1licTAxcVluYko?oc=5",
+          "title": "‘Benching Your Best RB Is Wild,’ ‘Ball Security Is Job Security’ — NFL Fans Have Mixed Reactions to Seahawks’ Bold Jadarian Price Decision",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0wwdXJvZXRldVVYb0YwMzlEbXRpRGNEbjQ5TUVQUDZ5Y3hZUThPbHdjUE55ZHA0VEV4LXR1dE9ldG9SRXhuQVl1bF9sUktCS0VqR3dQV2JWckpNQzUtR1VuRUk5QmRpTkRWY1BrdmZqdlVjSmdEaDFmVXotM2VIVA?oc=5",
           "cat": "NFL"
         }
       ]
@@ -103,41 +61,41 @@
       "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
       "yes": 97,
       "change24h": 1,
-      "vol24h": 24956,
+      "vol24h": 23324,
       "headlines": [
+        {
+          "title": "Bill Ackman thinks the Fed ‘just made a mistake’ — and higher rates will make inflation worse, not better",
+          "source": "moneywise.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzM1LTcyV09tQWNEVkxBV2pwbUF4V19tQUdqRjhqdFZ2Ti1YX3BvekJOQTJTTXlyQ2psTlJSS19OTmZ1LXEyMWhtTWVhdHlFZlRIU01QanhrZjN6SDZKb1FEQk5FMXhkVVlNdWpfTmVvQnpVNlVtVHBqVnJHbmp5YnNjSTY?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 65,
-      "change24h": 0,
-      "vol24h": 60448,
+      "question": "Will the New England Patriots win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": -1,
+      "vol24h": 15646,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "What we learned: Best and worst from Patriots’ embarrassing 35-6 loss to Jaguars",
+          "source": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdngtNGhvVHdXNXdaem9zR29PbmpGNnE3RkEtZnFCdjhNMEhOQ3VDOF9Hd2RCX3E4bnFiNDlsTlNNSlJFV3pHd29rX0ZZZ1ladU9mRVUyMU5nSVliZlZBeGJvN09ZSnVaZG84YWxSZ0RpLWtocUl0akZ5RmJvNV9jLXlrcVFtY3c2STlteUFJYkVEcXJVYUxhY2x3RVpkRm4ybmp1elU3SWlFb3ZaLWlFODUxd0xkR3RwRElj?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
-          "cat": "Macro"
+          "title": "Trafford relishing battle with Pickford for England number one spot",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2lxUDhrcnB2MkNpMTgxQmVTc2lhTi1YZ3V5MHRZV0pFaEJyMy1fU1AzMmdydDk3Z3BPc3VCM2l5T0R4aS1LR1VsVGw3SDM1NkFsME9DOUd6VmpZaWdheFdTdmMzSUdJazFwMkFDMjJBSFV1QmN3blR4bFNybzYwRVdyNmQtWXh1ZjZEcTNpRGdqeG1oUHc?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -147,44 +105,68 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 49384,
+      "vol24h": 102471,
       "headlines": [
+        {
+          "title": "Bill Ackman thinks the Fed ‘just made a mistake’ — and higher rates will make inflation worse, not better",
+          "source": "moneywise.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzM1LTcyV09tQWNEVkxBV2pwbUF4V19tQUdqRjhqdFZ2Ti1YX3BvekJOQTJTTXlyQ2psTlJSS19OTmZ1LXEyMWhtTWVhdHlFZlRIU01QanhrZjN6SDZKb1FEQk5FMXhkVVlNdWpfTmVvQnpVNlVtVHBqVnJHbmp5YnNjSTY?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 38301,
-      "headlines": [
-        {
-          "title": "Tyler Nickel signs with New York Knicks, closing door on Vanderbilt basketball return",
-          "source": "The Tennessean",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMkFPNVptd1FUZTRrZXdSc3pjeTJTMmUxVEhEaG5SRDh5MDRGNEJmakpBei1HcjNpMEs1ZURZUURoQnZCMWoyMk91bEdqX2pXZm1lcjZhVDF5SERXQWFyMmJXLVNITnNmczE4VThrdTJwTWxlem51dUp5V3dZQTlYWTRqUlc1ZHJkVzhPdkhuTHpWYnZsNlJSb3ZQQmlnanhhZEhYelpUVlpsNnd5TGFJLWhGT05JYXE2a1hIY3AwMjRmOGJEQ2RxWHQ1NUVwZXAwWGZsT3VKYWk1RTFKdFQ0ZFZjOA?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Kevin McCullar News: Lands two-way contract with New York",
-          "source": "RotoWire",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3hvMFNFZm84d0NTRXptV3lYNzF4a2YwRWhEeU9UR2ZSSnFIWXFBVWtXdWVTMFRXZ0lHajN0UVc1ZnV0ZkV0OTVSdnlMWXIxNkZjeEhTdEdmZnp3M0FqMy1PUXBPNC1ubG5TREEyYTUyNkZ5QlRZdXN6ZEZqbzV5eGJfYXh5c3VWcmZGdE1kUllvV0VKT2JpM0k3Q3hORnlteGpNNzFYaW80TDEwR1E?oc=5",
-          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Bitcoin dip to $82,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
+      "yes": 39,
+      "change24h": -17,
+      "vol24h": 36098,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
+      "yes": 10,
+      "change24h": -5,
+      "vol24h": 43035,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,500 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-in-september-2026-from-september-18",
+      "yes": 6,
+      "change24h": -5,
+      "vol24h": 34780,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 38,
+      "change24h": 4,
+      "vol24h": 29808,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 53,
+      "change24h": 4,
+      "vol24h": 18319,
+      "headlines": []
+    }
+  ]
 }
