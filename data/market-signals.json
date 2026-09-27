@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-27T02:11:26.023Z",
+  "updated": "2026-09-27T10:56:09.745Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $82,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 44,
+      "yes": 37,
       "change24h": -17,
-      "vol24h": 42809,
+      "vol24h": 45663,
       "headlines": [
         {
           "title": "Form 4 SPDR® S&P 500® ETF Trust For: 26 September By Investing.com",
@@ -17,7 +17,7 @@
         },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "rttnews.com",
+          "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
         }
@@ -27,9 +27,9 @@
       "question": "Will Ethereum dip to $2,600 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
-      "yes": 37,
-      "change24h": -12,
-      "vol24h": 37955,
+      "yes": 31,
+      "change24h": -17,
+      "vol24h": 32925,
       "headlines": [
         {
           "title": "Form 4 SPDR® S&P 500® ETF Trust For: 26 September By Investing.com",
@@ -39,7 +39,29 @@
         },
         {
           "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "rttnews.com",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,800 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-september-2026-from-september-22",
+      "yes": 41,
+      "change24h": 9,
+      "vol24h": 21872,
+      "headlines": [
+        {
+          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 26 September By Investing.com",
+          "source": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGtkd0RSRWEtZVRFbjVCbzFFSk5ENU1NT01aM2t0bnVIN0ZJMktBbHVrcFU3SUc4RGlQU2hiQmlOVjloNEx4TXVKVVdzYVEyVmp2QmlLa0t6WTJENkNqV1BLdUZHVnQ1Yy11emxONjR1ZG9nN2hrUDc2M0k5RlF6cjZyTk03dmkyT09kSmZRUl9jUmhwZVRqRWNORmg0M0FzSldheW5KTzNpZw?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In September 2026",
+          "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
           "cat": "Biotech markets"
         }
@@ -51,7 +73,7 @@
       "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
       "yes": 67,
       "change24h": 8,
-      "vol24h": 12991,
+      "vol24h": 11930,
       "headlines": [
         {
           "title": "Nominee to lead FDA aims to speed up medical research, combat China’s rise",
@@ -68,24 +90,34 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
-      "yes": 13,
-      "change24h": -5,
-      "vol24h": 15703,
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 8,
+      "change24h": -2,
+      "vol24h": 18429,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 26 September By Investing.com",
-          "source": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGtkd0RSRWEtZVRFbjVCbzFFSk5ENU1NT01aM2t0bnVIN0ZJMktBbHVrcFU3SUc4RGlQU2hiQmlOVjloNEx4TXVKVVdzYVEyVmp2QmlLa0t6WTJENkNqV1BLdUZHVnQ1Yy11emxONjR1ZG9nN2hrUDc2M0k5RlF6cjZyTk03dmkyT09kSmZRUl9jUmhwZVRqRWNORmg0M0FzSldheW5KTzNpZw?oc=5",
-          "cat": "Markets"
-        },
+          "title": "Fresh off World Cup wins, Kansas City leaders say sports could be city's promising new brand",
+          "source": "kcur.org",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0d5SU1QMExJaWQ5bDVUQnZnRUZvbHRUT1RvSTdUTkxodWpibXpVenVWdkNlR21WU3R5WkFxaGM2eHlKZzN4Uk5TRkFaNmdkdVVPSVNxUy1Kbnd5SzkxcElvamFHdFdnSUdJb1pMMmlYOEJBWURVR3ZJUVF4Q2JfdzhNeEYzUkhTcTdhYlQ2VnVTcnlGY1ljblhMUjdQMXI5TnpnQkpQVVYxd19MVk83aDYzQ1dHODNvT0lEaTQwVWVIa1QzZ1lWTg?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": -1,
+      "vol24h": 51417,
+      "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "rttnews.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
+          "title": "Baltimore Ravens vs. Dallas Cowboys Rio NFL game: How to watch, start time, where to stream and more",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1NYay1DUlR3ZFNhb0tfOWlQblpGQXpjLVhGU0pNakRJXzdhc2VqTzJTbHBqaEFScUswTVFBN3gxNUZSTUVwZkl4ZGpTaDMwTHFQQXlMWFVrUlpGaHFtV29qQzZnUE9rQVN5VzdxcmNKMHhleEpHVzNzdVZoal9SYUxrd1BOcUM4VzFWWGo0WldJcnl3ZEkzcC0ySVNmWGhLTk5ibk9mZkJ0YVJ4MHppa0NQRWZLWW5ONU90YjFKWVNhMG1wbFh1RVM5WTRaQ3F0MHF6RVRMNWlrSl9lTGNPWllB?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -95,18 +127,18 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 157934,
+      "vol24h": 160739,
       "headlines": [
-        {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
           "cat": "Macro"
         }
       ]
@@ -117,18 +149,18 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 153528,
+      "vol24h": 147000,
       "headlines": [
-        {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
           "cat": "Macro"
         }
       ]
@@ -139,34 +171,34 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 127983,
+      "vol24h": 120483,
       "headlines": [
-        {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Indianapolis Colts win the 2027 NFL league championship?",
+      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
+      "yes": 6,
       "change24h": 0,
-      "vol24h": 20065,
+      "vol24h": 17883,
       "headlines": [
         {
-          "title": "Colts represented at Notre Dame v. Purdue game",
+          "title": "Baltimore Ravens vs. Dallas Cowboys Rio NFL game: How to watch, start time, where to stream and more",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbU54X3V5Rll1Z2FtZTVQVUpzVFprcnZDazVvTU5MZzNUY2FLR1RFa1hBY3k5TGxMZzBPNmw5MGM2YndzNVdhS3VsbERoZU5oa1VZT2VsT0RGZWtPeE55MXN1QmJpYTNKbWlhazVyamJ4ZXRkWThlYjE4eUUwOGp5TENnZE5UZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1NYay1DUlR3ZFNhb0tfOWlQblpGQXpjLVhGU0pNakRJXzdhc2VqTzJTbHBqaEFScUswTVFBN3gxNUZSTUVwZkl4ZGpTaDMwTHFQQXlMWFVrUlpGaHFtV29qQzZnUE9rQVN5VzdxcmNKMHhleEpHVzNzdVZoal9SYUxrd1BOcUM4VzFWWGo0WldJcnl3ZEkzcC0ySVNmWGhLTk5ibk9mZkJ0YVJ4MHppa0NQRWZLWW5ONU90YjFKWVNhMG1wbFh1RVM5WTRaQ3F0MHF6RVRMNWlrSl9lTGNPWllB?oc=5",
           "cat": "NFL"
         }
       ]
