@@ -1,107 +1,67 @@
 {
-  "updated": "2026-09-27T10:56:09.745Z",
+  "updated": "2026-09-27T15:54:34.308Z",
   "withNews": [
+    {
+      "question": "Basketball Loewen Braunschweig vs. Rostock Seawolves",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/bkbbl-loe-ros-2026-09-27",
+      "yes": 100,
+      "change24h": 67,
+      "vol24h": 19339,
+      "headlines": [
+        {
+          "title": "Hornets Bulls Trade Basketball",
+          "source": "Idaho Press",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORUFmcVU1MnVJTnVmcGNscTNxWm82aTJJOVFkVktMb1lQWDluTHV3a1F6bWR0SkJLZE4tdnFSd1VpVVFoX3JVMWlteDY2YTJLNXZIRnIzUTF0NThiVnU2NDVkbDh2bTIyNG9NTHpuLW1GLXNNanBSZnVVaGl4Z0lMSmUyNG5RTGJuQmVIZGEtTE9hV1hndTFlT0tpYmxLdmRubE1kdXA0bEhaclZZWThKSzVQdHlza0dWNnl3WA?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin dip to $82,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 37,
-      "change24h": -17,
-      "vol24h": 45663,
+      "yes": 44,
+      "change24h": -10,
+      "vol24h": 53038,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 26 September By Investing.com",
-          "source": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGtkd0RSRWEtZVRFbjVCbzFFSk5ENU1NT01aM2t0bnVIN0ZJMktBbHVrcFU3SUc4RGlQU2hiQmlOVjloNEx4TXVKVVdzYVEyVmp2QmlLa0t6WTJENkNqV1BLdUZHVnQ1Yy11emxONjR1ZG9nN2hrUDc2M0k5RlF6cjZyTk03dmkyT09kSmZRUl9jUmhwZVRqRWNORmg0M0FzSldheW5KTzNpZw?oc=5",
+          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 27 September By Investing.com",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEVjcTVfazRWQUJpeGZxY0NXR2F4enlzc2RGZHJESWZaMW1NRFpZQi1kV1V1cnJUakZCRHdfcHB6cE1Bc003YllLZi0wTHMxYU0wVXZhVndfTXpoVWtFYzhhQ1FTTkxPdVpULUg1LW9IbjR2ZDJMODJnTFpocElIUGxXS0RrVGxIVXN5WTdrYUtTOHVIemxmVERwbFlxdm1QalIxdzVZQl9Xdw?oc=5",
           "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,600 in September?",
+      "question": "Will Bitcoin reach $87,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
-      "yes": 31,
-      "change24h": -17,
-      "vol24h": 32925,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 25,
+      "change24h": 4,
+      "vol24h": 63435,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 26 September By Investing.com",
-          "source": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGtkd0RSRWEtZVRFbjVCbzFFSk5ENU1NT01aM2t0bnVIN0ZJMktBbHVrcFU3SUc4RGlQU2hiQmlOVjloNEx4TXVKVVdzYVEyVmp2QmlLa0t6WTJENkNqV1BLdUZHVnQ1Yy11emxONjR1ZG9nN2hrUDc2M0k5RlF6cjZyTk03dmkyT09kSmZRUl9jUmhwZVRqRWNORmg0M0FzSldheW5KTzNpZw?oc=5",
+          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 27 September By Investing.com",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEVjcTVfazRWQUJpeGZxY0NXR2F4enlzc2RGZHJESWZaMW1NRFpZQi1kV1V1cnJUakZCRHdfcHB6cE1Bc003YllLZi0wTHMxYU0wVXZhVndfTXpoVWtFYzhhQ1FTTkxPdVpULUg1LW9IbjR2ZDJMODJnTFpocElIUGxXS0RrVGxIVXN5WTdrYUtTOHVIemxmVERwbFlxdm1QalIxdzVZQl9Xdw?oc=5",
           "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum reach $2,800 in September?",
+      "question": "Will Bitcoin dip to $80,000 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-september-2026-from-september-22",
-      "yes": 41,
-      "change24h": 9,
-      "vol24h": 21872,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
+      "yes": 11,
+      "change24h": -4,
+      "vol24h": 37034,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 26 September By Investing.com",
-          "source": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGtkd0RSRWEtZVRFbjVCbzFFSk5ENU1NT01aM2t0bnVIN0ZJMktBbHVrcFU3SUc4RGlQU2hiQmlOVjloNEx4TXVKVVdzYVEyVmp2QmlLa0t6WTJENkNqV1BLdUZHVnQ1Yy11emxONjR1ZG9nN2hrUDc2M0k5RlF6cjZyTk03dmkyT09kSmZRUl9jUmhwZVRqRWNORmg0M0FzSldheW5KTzNpZw?oc=5",
+          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 27 September By Investing.com",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEVjcTVfazRWQUJpeGZxY0NXR2F4enlzc2RGZHJESWZaMW1NRFpZQi1kV1V1cnJUakZCRHdfcHB6cE1Bc003YllLZi0wTHMxYU0wVXZhVndfTXpoVWtFYzhhQ1FTTkxPdVpULUg1LW9IbjR2ZDJMODJnTFpocElIUGxXS0RrVGxIVXN5WTdrYUtTOHVIemxmVERwbFlxdm1QalIxdzVZQl9Xdw?oc=5",
           "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In September 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTZzYVlzSm1xQkRQeGdCN25kMVlNemsxTi1HRGs1R0d4dmhzLVg2akJrZGh4bUFBdks0bzd5TV85VlBmeUlxMkUtdWNYNzZreG9BcV9MRkFHSDhzWHlXaDhMcmlBLUVFTWoweTRDUHZURHVjd254WWxMUlBPSW5IaTAwZ1hITmtaZ3NobFEtUDI1bHh0am16Ng?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 67,
-      "change24h": 8,
-      "vol24h": 11930,
-      "headlines": [
-        {
-          "title": "Nominee to lead FDA aims to speed up medical research, combat China’s rise",
-          "source": "STAT",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjRzWmh2Qm9WcUE0SGUySV83WnlfZEhIZ2tYMlBfY3oxbGZaSTNjV3VUWXA0VndzRGc4X2RKNDUxLWViNEE5MS1GallnWi1IV2RtZUZMeFhDQklPbGgzMTNGcjBVS3NTeWdrRC1nN3pGSk9UWlEwWVZrOW04eHVUeTlUSGJYNzVfQ0JPTU10Q2o0eGRNSGI4Vnc4aTlGVGVmaTlGN0hacXJtMEYyN01CUA?oc=5",
-          "cat": "Biotech"
-        },
-        {
-          "title": "Biotech filed for bankruptcy 11 weeks before its big FDA decision",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2xWaDBQQTB0dk9zdGpMb0txTzFKMDMwcUFRSnFBRkc1bmU3MHZlLXhYQktHdlFfRlBydURqOWJ5aTFzZWNxQzc1a0s1SUlYdGI5YS15aUx0dG5aOFBxUzhfZEdXOGpPcVZJOThBNHlhUWF5OFAyWjlBLUdqc3FMMFQxTFV6ZXFhMUdBakdlUmtzNzM1c1lpN3puMVNtQVJMZm9r?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 8,
-      "change24h": -2,
-      "vol24h": 18429,
-      "headlines": [
-        {
-          "title": "Fresh off World Cup wins, Kansas City leaders say sports could be city's promising new brand",
-          "source": "kcur.org",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0d5SU1QMExJaWQ5bDVUQnZnRUZvbHRUT1RvSTdUTkxodWpibXpVenVWdkNlR21WU3R5WkFxaGM2eHlKZzN4Uk5TRkFaNmdkdVVPSVNxUy1Kbnd5SzkxcElvamFHdFdnSUdJb1pMMmlYOEJBWURVR3ZJUVF4Q2JfdzhNeEYzUkhTcTdhYlQ2VnVTcnlGY1ljblhMUjdQMXI5TnpnQkpQVVYxd19MVk83aDYzQ1dHODNvT0lEaTQwVWVIa1QzZ1lWTg?oc=5",
-          "cat": "World Cup"
         }
       ]
     },
@@ -111,23 +71,61 @@
       "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
       "yes": 2,
       "change24h": -1,
-      "vol24h": 51417,
+      "vol24h": 51473,
       "headlines": [
         {
-          "title": "Baltimore Ravens vs. Dallas Cowboys Rio NFL game: How to watch, start time, where to stream and more",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1NYay1DUlR3ZFNhb0tfOWlQblpGQXpjLVhGU0pNakRJXzdhc2VqTzJTbHBqaEFScUswTVFBN3gxNUZSTUVwZkl4ZGpTaDMwTHFQQXlMWFVrUlpGaHFtV29qQzZnUE9rQVN5VzdxcmNKMHhleEpHVzNzdVZoal9SYUxrd1BOcUM4VzFWWGo0WldJcnl3ZEkzcC0ySVNmWGhLTk5ibk9mZkJ0YVJ4MHppa0NQRWZLWW5ONU90YjFKWVNhMG1wbFh1RVM5WTRaQ3F0MHF6RVRMNWlrSl9lTGNPWllB?oc=5",
+          "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Bills-Chargers, Cowboys-Ravens, NFL on Sunday",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbWVzdGRmSmI5MzNHdUYtZGpwVEQ4VkhvWndnVVQyM1hDZjVubndQVUFTZG8xWGItUS0xZzJmQ0l5ODYwckNVdGNZNXJ5SXp3MkR3ODVRcm5XOEpqWGxNejBoOEx0bUVrVlF1UVR3OGxack1RZ2Q3VnNGdzhXZmR0NHg0dktXMUZfQ2lMYjVqcHgzSHBMQWhSb0JobGprOVhDbkdjQUNPbDNST3BIYjhMTUxrWXo3NmtuWm9fUkozb01aYi1SU1Nv?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": -1,
+      "vol24h": 26894,
+      "headlines": [
+        {
+          "title": "Rams vs. Broncos odds, predictions, NFL picks, spread, best bets: Betting preview for Sunday Night Football",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOak1FVVJfeVZrZHhBTlJydnd3RVFzLXlzZkpMTFNzUDhOU3NLbE9nbzFiR2NBQk9BcG50d29qczUzWVpyWWc3bGVsZFAwSXFndkxnanNWYV9WNzdxSkp2SGZOMkJiMENqVldXRW1CeWRnOFA3OGZ0azF5TEZUX1lBX2ZabThLaDRlU1pKWUF6NmNJTmsyaFo5LVh5OE53LVB3dGdfcnZaS1U3UVRFNDlVUDRJS3N3aEJzTEJHNW9MaUxMV2tXek1kZnRNV1VEX1licTAxcVluYko?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will no Fed rate cuts happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
-      "yes": 0,
+      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
+      "yes": 97,
+      "change24h": 1,
+      "vol24h": 24956,
+      "headlines": [
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 65,
       "change24h": 0,
-      "vol24h": 160739,
+      "vol24h": 60448,
       "headlines": [
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -149,7 +147,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 147000,
+      "vol24h": 49384,
       "headlines": [
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -166,40 +164,24 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 120483,
+      "vol24h": 38301,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Tyler Nickel signs with New York Knicks, closing door on Vanderbilt basketball return",
+          "source": "The Tennessean",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMkFPNVptd1FUZTRrZXdSc3pjeTJTMmUxVEhEaG5SRDh5MDRGNEJmakpBei1HcjNpMEs1ZURZUURoQnZCMWoyMk91bEdqX2pXZm1lcjZhVDF5SERXQWFyMmJXLVNITnNmczE4VThrdTJwTWxlem51dUp5V3dZQTlYWTRqUlc1ZHJkVzhPdkhuTHpWYnZsNlJSb3ZQQmlnanhhZEhYelpUVlpsNnd5TGFJLWhGT05JYXE2a1hIY3AwMjRmOGJEQ2RxWHQ1NUVwZXAwWGZsT3VKYWk1RTFKdFQ0ZFZjOA?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Bill Ackman Warns Fed May Have Made A ‘Mistake’, Says AI Could Break Its Inflation Model",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZWNDYmthanZVRTYydXA3MFNUanE2TXR4UF9fQjB3WFFyOEt2b3llZk05WmZ5Y2RVVWF1RHBHWXdyVmZzajBkbkRkS3dYYXJKaHpha21Ic2VsclRiZmZoOWpJWHRJWUtSWENCRjFKdTdIeVZOVGIwaHltcnNpa0lUTC1ITkViQUxGd2hXSG5wZl9JNmt0Ti1RLUk1Ni1jSkRZU1dwSFNtZDdscC1vSHVwM3p4WG5qQVRmZ3N0SnJBUzl0QlUwMU4zbnAzU2FXRUJ5eHQ0cnFKRllwZ0l3WXFv?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
-      "yes": 6,
-      "change24h": 0,
-      "vol24h": 17883,
-      "headlines": [
-        {
-          "title": "Baltimore Ravens vs. Dallas Cowboys Rio NFL game: How to watch, start time, where to stream and more",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb1NYay1DUlR3ZFNhb0tfOWlQblpGQXpjLVhGU0pNakRJXzdhc2VqTzJTbHBqaEFScUswTVFBN3gxNUZSTUVwZkl4ZGpTaDMwTHFQQXlMWFVrUlpGaHFtV29qQzZnUE9rQVN5VzdxcmNKMHhleEpHVzNzdVZoal9SYUxrd1BOcUM4VzFWWGo0WldJcnl3ZEkzcC0ySVNmWGhLTk5ibk9mZkJ0YVJ4MHppa0NQRWZLWW5ONU90YjFKWVNhMG1wbFh1RVM5WTRaQ3F0MHF6RVRMNWlrSl9lTGNPWllB?oc=5",
-          "cat": "NFL"
+          "title": "Kevin McCullar News: Lands two-way contract with New York",
+          "source": "RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3hvMFNFZm84d0NTRXptV3lYNzF4a2YwRWhEeU9UR2ZSSnFIWXFBVWtXdWVTMFRXZ0lHajN0UVc1ZnV0ZkV0OTVSdnlMWXIxNkZjeEhTdEdmZnp3M0FqMy1PUXBPNC1ubG5TREEyYTUyNkZ5QlRZdXN6ZEZqbzV5eGJfYXh5c3VWcmZGdE1kUllvV0VKT2JpM0k3Q3hORnlteGpNNzFYaW80TDEwR1E?oc=5",
+          "cat": "NBA"
         }
       ]
     }
