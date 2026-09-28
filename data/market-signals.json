@@ -1,46 +1,18 @@
 {
-  "updated": "2026-09-28T12:11:29.238Z",
+  "updated": "2026-09-28T22:41:45.075Z",
   "withNews": [
-    {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 38,
-      "change24h": -17,
-      "vol24h": 8742,
-      "headlines": [
-        {
-          "title": "Bessent urges Fed to keep ‘open mind’ on rates as AI boosts productivity",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkQ2amN6X1R0bDlsWVFkUGdtMk5xbm4tWWliZFcxblRwR2o1NjNpTDBkb0V1M2pocUdVenFoeXNDS29DbzQ2X1dvTnB5Q0xWb28xTVFPNkJBWndsSHVSdHFiZjY1NFNYMXJUcUgzS1lROTc0ZlFYTlZjRlhnUFZWSC1uazhxZlVOZGdaMm1pU2U1YkdGMXZ4MGNxcWxPRjdNeFREbkltT1ppVU5J?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Bill Ackman thinks the Fed ‘just made a mistake’ — and higher rates will make inflation worse, not better",
-          "source": "moneywise.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzM1LTcyV09tQWNEVkxBV2pwbUF4V19tQUdqRjhqdFZ2Ti1YX3BvekJOQTJTTXlyQ2psTlJSS19OTmZ1LXEyMWhtTWVhdHlFZlRIU01QanhrZjN6SDZKb1FEQk5FMXhkVVlNdWpfTmVvQnpVNlVtVHBqVnJHbmp5YnNjSTY?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 44,
-      "change24h": 9,
-      "vol24h": 9242,
+      "yes": 47,
+      "change24h": 12,
+      "vol24h": 11088,
       "headlines": [
         {
           "title": "Bessent urges Fed to keep ‘open mind’ on rates as AI boosts productivity",
           "source": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkQ2amN6X1R0bDlsWVFkUGdtMk5xbm4tWWliZFcxblRwR2o1NjNpTDBkb0V1M2pocUdVenFoeXNDS29DbzQ2X1dvTnB5Q0xWb28xTVFPNkJBWndsSHVSdHFiZjY1NFNYMXJUcUgzS1lROTc0ZlFYTlZjRlhnUFZWSC1uazhxZlVOZGdaMm1pU2U1YkdGMXZ4MGNxcWxPRjdNeFREbkltT1ppVU5J?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Bill Ackman thinks the Fed ‘just made a mistake’ — and higher rates will make inflation worse, not better",
-          "source": "moneywise.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzM1LTcyV09tQWNEVkxBV2pwbUF4V19tQUdqRjhqdFZ2Ti1YX3BvekJOQTJTTXlyQ2psTlJSS19OTmZ1LXEyMWhtTWVhdHlFZlRIU01QanhrZjN6SDZKb1FEQk5FMXhkVVlNdWpfTmVvQnpVNlVtVHBqVnJHbmp5YnNjSTY?oc=5",
           "cat": "Macro"
         }
       ]
@@ -49,141 +21,131 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 76,
-      "change24h": 8,
-      "vol24h": 174201,
+      "yes": 78,
+      "change24h": 10,
+      "vol24h": 178474,
       "headlines": [
         {
           "title": "Bessent urges Fed to keep ‘open mind’ on rates as AI boosts productivity",
           "source": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkQ2amN6X1R0bDlsWVFkUGdtMk5xbm4tWWliZFcxblRwR2o1NjNpTDBkb0V1M2pocUdVenFoeXNDS29DbzQ2X1dvTnB5Q0xWb28xTVFPNkJBWndsSHVSdHFiZjY1NFNYMXJUcUgzS1lROTc0ZlFYTlZjRlhnUFZWSC1uazhxZlVOZGdaMm1pU2U1YkdGMXZ4MGNxcWxPRjdNeFREbkltT1ppVU5J?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 20,
+      "change24h": -10,
+      "vol24h": 38908,
+      "headlines": [
         {
-          "title": "Bill Ackman thinks the Fed ‘just made a mistake’ — and higher rates will make inflation worse, not better",
-          "source": "moneywise.com",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdzM1LTcyV09tQWNEVkxBV2pwbUF4V19tQUdqRjhqdFZ2Ti1YX3BvekJOQTJTTXlyQ2psTlJSS19OTmZ1LXEyMWhtTWVhdHlFZlRIU01QanhrZjN6SDZKb1FEQk5FMXhkVVlNdWpfTmVvQnpVNlVtVHBqVnJHbmp5YnNjSTY?oc=5",
+          "title": "Bessent urges Fed to keep ‘open mind’ on rates as AI boosts productivity",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkQ2amN6X1R0bDlsWVFkUGdtMk5xbm4tWWliZFcxblRwR2o1NjNpTDBkb0V1M2pocUdVenFoeXNDS29DbzQ2X1dvTnB5Q0xWb28xTVFPNkJBWndsSHVSdHFiZjY1NFNYMXJUcUgzS1lROTc0ZlFYTlZjRlhnUFZWSC1uazhxZlVOZGdaMm1pU2U1YkdGMXZ4MGNxcWxPRjdNeFREbkltT1ppVU5J?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Las Vegas Raiders win the 2027 NFL league championship?",
+      "question": "Will Caleb Williams win the 2026 NFL MVP?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-las-vegas-raiders-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": 1,
-      "vol24h": 10095,
+      "url": "https://polymarket.com/event/will-caleb-williams-win-the-2026-nfl-mvp",
+      "yes": 5,
+      "change24h": -1,
+      "vol24h": 21292,
       "headlines": [
         {
-          "title": "Raiders TE Brock Bowers Reveals Unwanted Development That Led to Absences",
+          "title": "Eagles vs. Bears live updates, news, inactives: Case Keenum expected to start for Chicago over Tyson Bagent with Caleb Williams injured; Zach Ertz rejoins Philly",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYW04MVlmd2lQWFNVQzdNVWVRZFVyb3A0TFp4YVZLQk5FcnVkVERva00zOEVVNHc1YmNjVzNpY2k4MHc3SVZZaFpBb0hndzVVZ2ZFVVl0QkxRc2c1OU1wSkRQVlpEUkR2cG5vTi1hYnVSMnhPNU9jQjVoNDhOaDVHRXRNMEdDaEk?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTDJTdzB4Y0NXWUZLWmxoMmpKQU9WU05JX3NleXZacDZRbHAzdkdSbVFMZ3dEMWJVNmZxbzcyaW8zcDZDbEd1aEdDU052eTFLM1RTSmxyY3JIbWp2T1JyUlhDSjFJODB2N2xFc1FsZEhfVDlyNnpITDYwRmFoVkpMc09sendJZnZTRFdXQWRnUzJzNDFkVmI1WnQ1YjRZSTBFVE5xM0RkMVFfSUNlcXByVTROdDhGLXdvT3c0SHJYSG9ZUWdhYVozVnNkbms3eUZwQk5TLTN4X1FOcGZa?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 5,
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 13,
       "change24h": 1,
-      "vol24h": 10056,
+      "vol24h": 14249,
       "headlines": [
         {
-          "title": "Best NFL Picks and Predictions Today (How to Bet Eagles vs. Bears on Monday Night Football in NFL Week 3)",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3FWdmpiSEhMNGxlNnQwUXdLbkNvNmU4X294TDhiVkFqRi1LYTluVWtIR1ZzMnFmMnBCMFk3UlBaNDU2UnRqRTU1dzVhM01DMDltMVRqXzlJcElnS0gzbi1FQUJwVy00ajBYZmVOc0xoVUt3LUkxajZhQ0JSRUNyYnRLZUVrcEpXa0g2UWFaZk1DMExhOWx1SWc0SGl2aUhEQWJnLWdsb0lfc1hFTGNfTzlRaG1jemxjZWdncGMwSy1SWnlfSzBpcA?oc=5",
-          "cat": "NFL"
+          "title": "UConn's Stephon Castle pans Knicks fans, 'underwhelming' NBA Finals crowd at MSG",
+          "source": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM2FxRDVyd3UtWk9FWllseUxSSE1PWWdRMm5ZWGpObFBrUXVtRF96Tlh6R2FZMXBWMGs2aGJ4aUZSb1h0Um5QSEV0THEwOFg3S2c5Q1IyeHdWRFdzRmsyU2g1TVQ2THpDOWJEOHhhem54UFQ0SVZjZEt0YzNnWFk1cFBpQ1BfR2FLSWdTSlFPU2dvbXhya0xQWnNfUW54Y3JRZUJhZmdDY3FvLUpxRGxaZ2lDdmVYdFdvcGc?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "'Monday Night Football' prediction, odds, spread, time: Eagles vs. Bears picks from expert on a 31-18 roll",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRWo4akRKaW9UNWhYNnlDNUZlNkdBeXJiS1Y2WUNFOVJfNXN3VnZDcHJjelR0NGVnUDZmVjFIR0d2WUdqTkJlM1pZZllueFdGN1Z0TFFISHVoMEVZZkdLSEN2U2xSblNqcWN6X1h6ZWZlUklwNjY3VFBEVVdmLXBKWFNwOUtFaGpxa284SXRwbHp0VS0yU3djbEg0Y0RCZm1GQkNvaEFFbElMS2RKODJxYnVOcDU3dw?oc=5",
-          "cat": "NFL"
+          "title": "USMNT Returns to St. Louis to Take on Chile in Impact Match, Presented By New York Life",
+          "source": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1NReFNxWGpZNWVJSl9ZQ3F5MW04V1FFaENnQUlxcW1ZZzZhQzVvMmZoQkFGd1RpZTNDVXVYSHEzLWFXTmRibmZyeEhKTXkzSUNqdVVxRU5PVlpCdk9aWFFob0UyODBubHprSWFDclljQmNrRWJTc1dEdGR2cEMycjUyeXl1WkIzd0d4b2Zlaw?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 2,
+      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 22412,
+      "vol24h": 27329,
       "headlines": [
         {
-          "title": "What to expect at Lakers’ NBA media day: Luka Dončić, Austin Reaves set to lead new era",
-          "source": "nytimes.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUXhETFM3ZEo5REFBdkdlUVdCb3pYRDhBbTJIcGZYNHo1Wmo1SWljVkVoY09vdXQtdERYYkt5bnN4bXdaM1dxRVFJLWc4SEhyS2lxejVIOHFDMTJxQ2F4Y2xLclprUmlpN0U4czB1TWswNW9YblcwUFo1QmpqYThuMFNZeUlnLXo2WFh2dHJmTlZmajg2WHlxWFg4cFllQQ?oc=5",
-          "cat": "NBA"
+          "title": "USMNT Returns to St. Louis to Take on Chile in Impact Match, Presented By New York Life",
+          "source": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1NReFNxWGpZNWVJSl9ZQ3F5MW04V1FFaENnQUlxcW1ZZzZhQzVvMmZoQkFGd1RpZTNDVXVYSHEzLWFXTmRibmZyeEhKTXkzSUNqdVVxRU5PVlpCdk9aWFFob0UyODBubHprSWFDclljQmNrRWJTc1dEdGR2cEMycjUyeXl1WkIzd0d4b2Zlaw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 22965,
+      "headlines": [
+        {
+          "title": "FIFA, Miami Host Committee hold groundbreaking ceremony for new soccer field at Walt Frazier Park",
+          "source": "WSVN",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHB1N2NUUDNGVk1FcWxaelVLbWZTUDhsZjRkdEEwd3ZDN0FlaURzNmFlYUxYTmtPSXUxUVQ2YnEydVlmLUtfUEwwWF9SdW52VTY3VndHQ056cWNwUGtuZFBFdXZfNDNPRzRTNFdtQjB3MUU1VHVYcnJaVUMtd1p0R3U1OGpTOXVBZGwyVVFjQ094UzJXcE82RktfMXpWaDlfMjlLa2R3WEZqNF9SYUg1ckV3Mk5mREFYcUlYSGhn?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will Bitcoin reach $85,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026-from-september-27",
+      "yes": 38,
+      "change24h": -29,
+      "vol24h": 27575,
+      "headlines": []
+    },
+    {
       "question": "Will Bitcoin dip to $82,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 77,
-      "change24h": 41,
-      "vol24h": 136437,
+      "yes": 67,
+      "change24h": 18,
+      "vol24h": 204823,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $87,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 8,
-      "change24h": -24,
-      "vol24h": 76676,
-      "headlines": []
-    },
-    {
-      "question": "Will Minnesota Lynx win the 2026 WNBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-minnesota-lynx-win-the-2026-wnba-finals-171",
-      "yes": 21,
-      "change24h": -24,
-      "vol24h": 21792,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,800 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-september-2026-from-september-22",
-      "yes": 23,
-      "change24h": -19,
-      "vol24h": 9169,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $82,000 on September 30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-30-2026",
-      "yes": 75,
-      "change24h": -15,
-      "vol24h": 11131,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
-      "yes": 21,
-      "change24h": 13,
-      "vol24h": 155773,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,900 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2900-in-september-2026",
-      "yes": 5,
-      "change24h": -9,
-      "vol24h": 13245,
+      "yes": 6,
+      "change24h": -13,
+      "vol24h": 86319,
       "headlines": []
     },
     {
@@ -191,8 +153,44 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
       "yes": 37,
-      "change24h": 8,
-      "vol24h": 19665,
+      "change24h": -8,
+      "vol24h": 26320,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "yes": 19,
+      "change24h": 6,
+      "vol24h": 58388,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $82,000 on September 30?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-30-2026",
+      "yes": 81,
+      "change24h": -5,
+      "vol24h": 14559,
+      "headlines": []
+    },
+    {
+      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
+      "yes": 85,
+      "change24h": 5,
+      "vol24h": 14183,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
+      "yes": 1,
+      "change24h": -4,
+      "vol24h": 77654,
       "headlines": []
     }
   ]
