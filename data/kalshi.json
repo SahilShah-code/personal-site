@@ -1,13 +1,12 @@
 {
-  "updated": "2026-09-28 06:53 UTC",
+  "updated": "2026-09-28 14:57 UTC",
   "net_return_pct": -100,
   "realized_return_pct": -100,
   "unrealized_return_pct": 0,
   "win_rate_pct": 0,
-  "settled_total": 3,
+  "settled_total": 2,
   "curve": [
     0,
-    -100,
     -100,
     -100
   ],
@@ -25,13 +24,6 @@
       "ticker": "KXATPMATCH-26AUG01MUNHIJ-HIJ",
       "result": "no",
       "date": "2026-08-02",
-      "return_pct": -100
-    },
-    {
-      "title": "What will be LeBron James's next team?",
-      "ticker": "KXNEXTTEAMNBA-26LJAM-MIA",
-      "result": "no",
-      "date": "2026-07-26",
       "return_pct": -100
     }
   ]
