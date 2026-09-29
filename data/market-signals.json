@@ -1,145 +1,69 @@
 {
-  "updated": "2026-09-29T11:42:25.981Z",
+  "updated": "2026-09-29T17:09:03.562Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $86,000 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-28-october-4-2026",
-      "yes": 60,
-      "change24h": 17,
-      "vol24h": 15764,
+      "yes": 39,
+      "change24h": -16,
+      "vol24h": 48063,
       "headlines": [
+        {
+          "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1td2JMbUx0UTBJSGQzZm9OQXcxRklKaE1KMWVKVnRiekVHSnVySVpSNmpaWDkxaXVzVFFBWGh0ZFYxT0RrVW13LVpGdl9KMDREMVlwd2pyOFc4UzJseEJweHRSa01jNmhvQV9DLTBVMHdVT2MzMG9jXzRMc2ROUGowMkduX3Zp?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "October Fed rate hike hinges on two looming economic reports",
           "source": "thestreet.com",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $78,000 September 28-October 4?",
+      "question": "Will Bitcoin reach $88,000 September 28-October 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-september-28-october-4-2026",
-      "yes": 7,
-      "change24h": -12,
-      "vol24h": 9828,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-28-october-4-2026",
+      "yes": 14,
+      "change24h": -11,
+      "vol24h": 13697,
       "headlines": [
+        {
+          "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1td2JMbUx0UTBJSGQzZm9OQXcxRklKaE1KMWVKVnRiekVHSnVySVpSNmpaWDkxaXVzVFFBWGh0ZFYxT0RrVW13LVpGdl9KMDREMVlwd2pyOFc4UzJseEJweHRSa01jNmhvQV9DLTBVMHdVT2MzMG9jXzRMc2ROUGowMkduX3Zp?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "October Fed rate hike hinges on two looming economic reports",
           "source": "thestreet.com",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $80,000 on October 1?",
+      "question": "Will Bitcoin reach $90,000 September 28-October 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-1-2026",
-      "yes": 97,
-      "change24h": 10,
-      "vol24h": 14992,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-september-28-october-4-2026",
+      "yes": 6,
+      "change24h": -5,
+      "vol24h": 16097,
       "headlines": [
         {
-          "title": "October Fed rate hike hinges on two looming economic reports",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
-          "cat": "Macro"
+          "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1td2JMbUx0UTBJSGQzZm9OQXcxRklKaE1KMWVKVnRiekVHSnVySVpSNmpaWDkxaXVzVFFBWGh0ZFYxT0RrVW13LVpGdl9KMDREMVlwd2pyOFc4UzJseEJweHRSa01jNmhvQV9DLTBVMHdVT2MzMG9jXzRMc2ROUGowMkduX3Zp?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 69,
-      "change24h": 3,
-      "vol24h": 188929,
-      "headlines": [
-        {
           "title": "October Fed rate hike hinges on two looming economic reports",
           "source": "thestreet.com",
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 47,
-      "change24h": 3,
-      "vol24h": 9460,
-      "headlines": [
-        {
-          "title": "October Fed rate hike hinges on two looming economic reports",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 31,
-      "change24h": -2,
-      "vol24h": 155873,
-      "headlines": [
-        {
-          "title": "October Fed rate hike hinges on two looming economic reports",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": -2,
-      "vol24h": 14748,
-      "headlines": [
-        {
-          "title": "38-year-old Case Keenum shines as Bears demolish Eagles: 'As a kid you dream about it'",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1Zldk43Mm93WHVyMjFLYjdwSFRSbEM2QV9XSUREeDNCYXZLQlhHbzF2bFloV0tQOEZ5ZE9JNF9FdDkteGptV25jeFFoR2JjWlFNZzZsOXFLRF9MUGxRa04yTVZGR3k1Wk4tdDA0QUY3RVlWZDRTTHpaRnRaMmttczZZcDRkU0FEWnB3TnVvRXlEdW5Db2EyVWhjOUE3VC1vYURoOGZOandpRl9X?oc=5",
-          "cat": "NFL"
         }
       ]
     },
@@ -148,14 +72,58 @@
       "topic": "Tennis",
       "url": "https://polymarket.com/event/atp-nishiko-tiafoe-2026-09-29",
       "yes": 20,
-      "change24h": 1,
-      "vol24h": 13324,
+      "change24h": -2,
+      "vol24h": 13740,
       "headlines": [
         {
-          "title": "This Week in Tennis: Fernandez Triumphs in Singapore",
-          "source": "National Bank Open",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnV5WEs2M1pkcUxmdTdoM2JUYTkyM2tFaDY4TEdlazR6RV9kWjNrWkFQRmF4RHc0YkszdzJSN0x0UENCU0VIRlR3U3d2VENEQUl5VkZ2bkxpSXFkdG55RnJvTS1sbmVnNWpXRklVaFpDMkZ4cnBOZWhETXUySXVhSkp1Z2ZwR3ZRSjVGdzhDS3F4M01qalpnem5Xaw?oc=5",
+          "title": "Tokyo: Nishikori to Face Tiafoe, Alcaraz Top Seed",
+          "source": "tennisnow.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCcll5MFpTQVlVT05PZUFzRUpyY3I0WTJ4NjVJMkNUbUM4a1lxVjBublduSkxoMF9kam9TWGptZkM5bHVWZzVzZHlFbnoxYnR5Rk1qT3lZY1lNclhmMjJCeDBycGc1SFRILUdzakZLOWdaVkpTOUNLUEZn?oc=5",
           "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 32,
+      "change24h": 1,
+      "vol24h": 127057,
+      "headlines": [
+        {
+          "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1td2JMbUx0UTBJSGQzZm9OQXcxRklKaE1KMWVKVnRiekVHSnVySVpSNmpaWDkxaXVzVFFBWGh0ZFYxT0RrVW13LVpGdl9KMDREMVlwd2pyOFc4UzJseEJweHRSa01jNmhvQV9DLTBVMHdVT2MzMG9jXzRMc2ROUGowMkduX3Zp?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Fed governor Lisa Cook says AI boom is creating broader inflation pressures",
+          "source": "thegrio.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX016a1VSNy01eTl2OUdBcTFROVBQVmNWQTh5b0owcEc5S2VVNVVObTZYOFIta0FVWDc3WlhrUHRYakxKYTVBYjJqZF9HMGh1TGZWY3JGOHRZYnlaTFpta291UUR6dUFtc3F6OGlpZ2pnMDUtajdBT2F1X0lKRm9vbzhJbkVZZw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 68,
+      "change24h": -1,
+      "vol24h": 124927,
+      "headlines": [
+        {
+          "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1td2JMbUx0UTBJSGQzZm9OQXcxRklKaE1KMWVKVnRiekVHSnVySVpSNmpaWDkxaXVzVFFBWGh0ZFYxT0RrVW13LVpGdl9KMDREMVlwd2pyOFc4UzJseEJweHRSa01jNmhvQV9DLTBVMHdVT2MzMG9jXzRMc2ROUGowMkduX3Zp?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Fed governor Lisa Cook says AI boom is creating broader inflation pressures",
+          "source": "thegrio.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX016a1VSNy01eTl2OUdBcTFROVBQVmNWQTh5b0owcEc5S2VVNVVObTZYOFIta0FVWDc3WlhrUHRYakxKYTVBYjJqZF9HMGh1TGZWY3JGOHRZYnlaTFpta291UUR6dUFtc3F6OGlpZ2pnMDUtajdBT2F1X0lKRm9vbzhJbkVZZw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -163,128 +131,65 @@
       "question": "Will the Chicago Bears win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
-      "yes": 3,
+      "yes": 4,
       "change24h": 1,
-      "vol24h": 12190,
+      "vol24h": 12519,
       "headlines": [
         {
-          "title": "38-year-old Case Keenum shines as Bears demolish Eagles: 'As a kid you dream about it'",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1Zldk43Mm93WHVyMjFLYjdwSFRSbEM2QV9XSUREeDNCYXZLQlhHbzF2bFloV0tQOEZ5ZE9JNF9FdDkteGptV25jeFFoR2JjWlFNZzZsOXFLRF9MUGxRa04yTVZGR3k1Wk4tdDA0QUY3RVlWZDRTTHpaRnRaMmttczZZcDRkU0FEWnB3TnVvRXlEdW5Db2EyVWhjOUE3VC1vYURoOGZOandpRl9X?oc=5",
+          "title": "In Jalen Hurts’ evaluation against Bears, NFL followed its concussion protocol correctly",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDNETXg0RlJrc1FZV3VXLWdJSHhIU2tndlp2ajlDMDJWbWZXeTdZQ0ZwcEJBQWl2Wk1ITl93TTRkUklDYndJa3ZiMHpuLXRYTll0RUtKNHMzMEw5N1dfc2NlMlp6cV9lN3EyMmpuZHV2YzdnQTBHOXpnN1V1d1c2WHhSWFE2ZjFrTGxSRXBlY3lZTU9uVDVHZnRJdloxUE5HOE1LVk8xUVIyUQ?oc=5",
           "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 127785,
+      "headlines": [
+        {
+          "title": "USWNT roster: Ashley Sanchez joins 'triple espresso' ahead of October friendlies as World Cup looms",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUC1td2JMbUx0UTBJSGQzZm9OQXcxRklKaE1KMWVKVnRiekVHSnVySVpSNmpaWDkxaXVzVFFBWGh0ZFYxT0RrVW13LVpGdl9KMDREMVlwd2pyOFc4UzJseEJweHRSa01jNmhvQV9DLTBVMHdVT2MzMG9jXzRMc2ROUGowMkduX3Zp?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "The Bears’ demanding week became a magical night for Case Keenum",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeTFjWm5FcnQwU1B6cGVsZGhKTmJna0wzY3o3ZndLc3BlRko3Vk5yUVdkLWdrMzVQU2hGQWFDTjlfeFh6VWNSS24tNW1jSjY5N2E3bzc5alcwSF9rak45SVZ5TGY4cXhqenlselZSSUtOTHdWaldWUHVUQlZremxmeWVHd0pONDNZd1ZFXzdRT3BsSEcxWEZoQy10OHlhUFJOUDRRRnZ1OTNIUQ?oc=5",
-          "cat": "NFL"
+          "title": "Fed governor Lisa Cook says AI boom is creating broader inflation pressures",
+          "source": "thegrio.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX016a1VSNy01eTl2OUdBcTFROVBQVmNWQTh5b0owcEc5S2VVNVVObTZYOFIta0FVWDc3WlhrUHRYakxKYTVBYjJqZF9HMGh1TGZWY3JGOHRZYnlaTFpta291UUR6dUFtc3F6OGlpZ2pnMDUtajdBT2F1X0lKRm9vbzhJbkVZZw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Miami Heat win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 21300,
-      "headlines": [
-        {
-          "title": "ASK IRA: Did the Heat get played by LeBron this summer?",
-          "source": "Sun Sentinel",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa3pJMnZZN1U1UWZPSzFtdS1FXzJzRjRCdnoza19Dc0ZiN3lVT3BWN3FISkRzb2tPakFsLS1XNUx5M21Ka1RuOXlkTFBKbnNTcHZBLUJ6SFV3MWh4NzhvcTdXSlZ6V0llN2R1RzNRbXV2RlBtRnBWOXJsOXJYVlA5dUdIeUN5RXJFZXQyUzZaNWNab0tQblhwWllR?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
+      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-      "yes": 9,
+      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 8951,
+      "vol24h": 40533,
       "headlines": [
         {
-          "title": "Botic van de Zandschulp vs Francisco Cerúndolo · Round 1 · ATP Beijing",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2FrYV8zSUZrbVdxSDByck1LOEtKX01NRWt1Zl9IUUxWdjBvYXp2QUFXZjRPMDJHNGlCa0pWTVBSQXZrNjloTTE5UGdsMWhVWEJLeWtMQVJ5NHJBNWhWS1ZCTlo3MlZvTWZyQ2ZNdHJsMVhXb29rajRpazZmYklaelNnRzdiMTl6d2VEVU1aVW9ZYzBUR1BHTHJaUDZXb25mTV9QeFpR?oc=5",
-          "cat": "Tennis"
+          "title": "Week 4 Fantasy Football Wide Receiver Rankings: Parker Washington Enters Elite Status While CeeDee Lamb Drops",
+          "source": "si.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNUp1MGFTY092WkhYLTMxYVU4QVRsZU1wWFgzbUNhZV9xQmZXODRYczRBUXJDQV95MDhnVFcwSF9nQ2Z6QU9zRXpqN19URS16Tjl3Z3BMY2d4U2JjcTJaUDRzdEozNllHQWhrWDdHOFZOT2xVSTRNWFNaX2cxU1ZjQU1DOWFSM1liYWxLSy1NV0Y4U2JCY25MQnZRYTRfbkMtYTU3cXpSU0c0OHpFTlZlSXBNaGtlU0UyNzRvdV8yOVI4aUR2dUdGeGEwM2YzTTYzZkNoMXhhb1pvQVVIR0xFVEpvWQ?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $82,500 in September?",
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 31,
-      "change24h": -50,
-      "vol24h": 109192,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,600 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
-      "yes": 12,
-      "change24h": -34,
-      "vol24h": 47397,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,800 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-september-2026-from-september-22",
-      "yes": 39,
-      "change24h": 22,
-      "vol24h": 77540,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026-from-september-27",
-      "yes": 60,
-      "change24h": 22,
-      "vol24h": 28852,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-september-2026-from-september-18",
-      "yes": 4,
-      "change24h": -17,
-      "vol24h": 106443,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,900 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2900-in-september-2026",
-      "yes": 10,
-      "change24h": 6,
-      "vol24h": 109103,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-in-september-2026-from-september-18",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 64,
       "change24h": -6,
-      "vol24h": 69784,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in September?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-september-2026-from-september-18",
-      "yes": 1,
-      "change24h": -4,
-      "vol24h": 85620,
+      "vol24h": 16878,
       "headlines": []
     }
   ]
