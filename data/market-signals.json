@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T22:41:45.075Z",
+  "updated": "2026-09-29T03:01:01.902Z",
   "withNews": [
     {
       "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
@@ -10,9 +10,9 @@
       "vol24h": 11088,
       "headlines": [
         {
-          "title": "Bessent urges Fed to keep ‘open mind’ on rates as AI boosts productivity",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkQ2amN6X1R0bDlsWVFkUGdtMk5xbm4tWWliZFcxblRwR2o1NjNpTDBkb0V1M2pocUdVenFoeXNDS29DbzQ2X1dvTnB5Q0xWb28xTVFPNkJBWndsSHVSdHFiZjY1NFNYMXJUcUgzS1lROTc0ZlFYTlZjRlhnUFZWSC1uazhxZlVOZGdaMm1pU2U1YkdGMXZ4MGNxcWxPRjdNeFREbkltT1ppVU5J?oc=5",
+          "title": "October Fed rate hike hinges on two looming economic reports",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
           "cat": "Macro"
         }
       ]
@@ -21,14 +21,14 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 78,
+      "yes": 77,
       "change24h": 10,
-      "vol24h": 178474,
+      "vol24h": 178489,
       "headlines": [
         {
-          "title": "Bessent urges Fed to keep ‘open mind’ on rates as AI boosts productivity",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkQ2amN6X1R0bDlsWVFkUGdtMk5xbm4tWWliZFcxblRwR2o1NjNpTDBkb0V1M2pocUdVenFoeXNDS29DbzQ2X1dvTnB5Q0xWb28xTVFPNkJBWndsSHVSdHFiZjY1NFNYMXJUcUgzS1lROTc0ZlFYTlZjRlhnUFZWSC1uazhxZlVOZGdaMm1pU2U1YkdGMXZ4MGNxcWxPRjdNeFREbkltT1ppVU5J?oc=5",
+          "title": "October Fed rate hike hinges on two looming economic reports",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
           "cat": "Macro"
         }
       ]
@@ -39,51 +39,95 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 20,
       "change24h": -10,
-      "vol24h": 38908,
+      "vol24h": 38928,
       "headlines": [
         {
-          "title": "Bessent urges Fed to keep ‘open mind’ on rates as AI boosts productivity",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkQ2amN6X1R0bDlsWVFkUGdtMk5xbm4tWWliZFcxblRwR2o1NjNpTDBkb0V1M2pocUdVenFoeXNDS29DbzQ2X1dvTnB5Q0xWb28xTVFPNkJBWndsSHVSdHFiZjY1NFNYMXJUcUgzS1lROTc0ZlFYTlZjRlhnUFZWSC1uazhxZlVOZGdaMm1pU2U1YkdGMXZ4MGNxcWxPRjdNeFREbkltT1ppVU5J?oc=5",
+          "title": "October Fed rate hike hinges on two looming economic reports",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Caleb Williams win the 2026 NFL MVP?",
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-caleb-williams-win-the-2026-nfl-mvp",
-      "yes": 5,
-      "change24h": -1,
-      "vol24h": 21292,
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 2,
+      "vol24h": 14165,
       "headlines": [
         {
-          "title": "Eagles vs. Bears live updates, news, inactives: Case Keenum expected to start for Chicago over Tyson Bagent with Caleb Williams injured; Zach Ertz rejoins Philly",
+          "title": "Eagles vs. Bears score, live updates: Jalen Hurts evaluated for concussion, cleared to return",
           "source": "Yahoo Sports",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTDJTdzB4Y0NXWUZLWmxoMmpKQU9WU05JX3NleXZacDZRbHAzdkdSbVFMZ3dEMWJVNmZxbzcyaW8zcDZDbEd1aEdDU052eTFLM1RTSmxyY3JIbWp2T1JyUlhDSjFJODB2N2xFc1FsZEhfVDlyNnpITDYwRmFoVkpMc09sendJZnZTRFdXQWRnUzJzNDFkVmI1WnQ1YjRZSTBFVE5xM0RkMVFfSUNlcXByVTROdDhGLXdvT3c0SHJYSG9ZUWdhYVozVnNkbms3eUZwQk5TLTN4X1FOcGZa?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Bears vs. Eagles live updates: Score, highlights, how to watch Monday Night Football",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRl9hX0M1V25mYkZIbWVObjRmd2NQcXpPLVpGUl9pTWRReDQ1eTl0TEZMQnFjMGZCUlprMm5zcUJwdnJjMkF2OC13SWRJanYyVzhiMWRWemg2MkRqRXhINkVKOXhLS1hUU2pZaHhNU0NjcEpxX29nSkR2MTVJeklRZnA4ckwta3R2eVZLS2cyWGUwLTFOUGpTVHRPRjh2Y1l5WlZrUWJIQmQ2amtYa0ZfOW55ZXNadElLODBSQUNJMEg?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will New York Knicks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
-      "yes": 13,
-      "change24h": 1,
-      "vol24h": 14249,
+      "question": "Will the price of Bitcoin be above $78,000 on October 1?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-october-1-2026",
+      "yes": 97,
+      "change24h": -1,
+      "vol24h": 18493,
       "headlines": [
         {
-          "title": "UConn's Stephon Castle pans Knicks fans, 'underwhelming' NBA Finals crowd at MSG",
-          "source": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM2FxRDVyd3UtWk9FWllseUxSSE1PWWdRMm5ZWGpObFBrUXVtRF96Tlh6R2FZMXBWMGs2aGJ4aUZSb1h0Um5QSEV0THEwOFg3S2c5Q1IyeHdWRFdzRmsyU2g1TVQ2THpDOWJEOHhhem54UFQ0SVZjZEt0YzNnWFk1cFBpQ1BfR2FLSWdTSlFPU2dvbXhya0xQWnNfUW54Y3JRZUJhZmdDY3FvLUpxRGxaZ2lDdmVYdFdvcGc?oc=5",
-          "cat": "NBA"
+          "title": "October Fed rate hike hinges on two looming economic reports",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Japan Open Tennis Championships, Qualification: Stefanos Tsitsipas vs Rinky Hijikata",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-tsitsip-hijikat-2026-09-28",
+      "yes": 99,
+      "change24h": 0,
+      "vol24h": 163783,
+      "headlines": [
+        {
+          "title": "This Week in Tennis: Fernandez Triumphs in Singapore",
+          "source": "National Bank Open",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnV5WEs2M1pkcUxmdTdoM2JUYTkyM2tFaDY4TEdlazR6RV9kWjNrWkFQRmF4RHc0YkszdzJSN0x0UENCU0VIRlR3U3d2VENEQUl5VkZ2bkxpSXFkdG55RnJvTS1sbmVnNWpXRklVaFpDMkZ4cnBOZWhETXUySXVhSkp1Z2ZwR3ZRSjVGdzhDS3F4M01qalpnem5Xaw?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "USMNT Returns to St. Louis to Take on Chile in Impact Match, Presented By New York Life",
-          "source": "US Soccer",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1NReFNxWGpZNWVJSl9ZQ3F5MW04V1FFaENnQUlxcW1ZZzZhQzVvMmZoQkFGd1RpZTNDVXVYSHEzLWFXTmRibmZyeEhKTXkzSUNqdVVxRU5PVlpCdk9aWFFob0UyODBubHprSWFDclljQmNrRWJTc1dEdGR2cEMycjUyeXl1WkIzd0d4b2Zlaw?oc=5",
-          "cat": "World Cup"
+          "title": "Tennis Channel’s streaming future led by Jeff Blackburn",
+          "source": "Sports Business Journal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhsYl9VUW5XZjdnc1M1M01YNFRsOEhQcjRxUkhwTmU2cnN0bk1hdDFZUmNPZVhzcnItS0ZLRWg1d0JtQ2o4Y1FCeDc3UEtGTE84ZV8wUUpwekVOcU9zM0ZFaTlleElYUDdXdWZabHl3X0VhLWRVWEM3aHpMYjN6Y2MyM21UMm1hZV9OM0ZvZ2ZMLVJfbzc5bmpkQnljdlBPOTFlY2JvV0RrRTR1Ny1kcktJSQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Japan Open Tennis Championships, Qualification: Jaume Munar vs Aleksandar Kovacevic",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-munar-kovacev-2026-09-28",
+      "yes": 59,
+      "change24h": 0,
+      "vol24h": 27345,
+      "headlines": [
+        {
+          "title": "This Week in Tennis: Fernandez Triumphs in Singapore",
+          "source": "National Bank Open",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTnV5WEs2M1pkcUxmdTdoM2JUYTkyM2tFaDY4TEdlazR6RV9kWjNrWkFQRmF4RHc0YkszdzJSN0x0UENCU0VIRlR3U3d2VENEQUl5VkZ2bkxpSXFkdG55RnJvTS1sbmVnNWpXRklVaFpDMkZ4cnBOZWhETXUySXVhSkp1Z2ZwR3ZRSjVGdzhDS3F4M01qalpnem5Xaw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis Channel’s streaming future led by Jeff Blackburn",
+          "source": "Sports Business Journal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhsYl9VUW5XZjdnc1M1M01YNFRsOEhQcjRxUkhwTmU2cnN0bk1hdDFZUmNPZVhzcnItS0ZLRWg1d0JtQ2o4Y1FCeDc3UEtGTE84ZV8wUUpwekVOcU9zM0ZFaTlleElYUDdXdWZabHl3X0VhLWRVWEM3aHpMYjN6Y2MyM21UMm1hZV9OM0ZvZ2ZMLVJfbzc5bmpkQnljdlBPOTFlY2JvV0RrRTR1Ny1kcktJSQ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -93,11 +137,11 @@
       "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 27329,
+      "vol24h": 24769,
       "headlines": [
         {
           "title": "USMNT Returns to St. Louis to Take on Chile in Impact Match, Presented By New York Life",
-          "source": "US Soccer",
+          "source": "U.S. Soccer",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU1NReFNxWGpZNWVJSl9ZQ3F5MW04V1FFaENnQUlxcW1ZZzZhQzVvMmZoQkFGd1RpZTNDVXVYSHEzLWFXTmRibmZyeEhKTXkzSUNqdVVxRU5PVlpCdk9aWFFob0UyODBubHprSWFDclljQmNrRWJTc1dEdGR2cEMycjUyeXl1WkIzd0d4b2Zlaw?oc=5",
           "cat": "World Cup"
         }
@@ -109,13 +153,45 @@
       "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 22965,
+      "vol24h": 21029,
       "headlines": [
         {
           "title": "FIFA, Miami Host Committee hold groundbreaking ceremony for new soccer field at Walt Frazier Park",
           "source": "WSVN",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHB1N2NUUDNGVk1FcWxaelVLbWZTUDhsZjRkdEEwd3ZDN0FlaURzNmFlYUxYTmtPSXUxUVQ2YnEydVlmLUtfUEwwWF9SdW52VTY3VndHQ056cWNwUGtuZFBFdXZfNDNPRzRTNFdtQjB3MUU1VHVYcnJaVUMtd1p0R3U1OGpTOXVBZGwyVVFjQ094UzJXcE82RktfMXpWaDlfMjlLa2R3WEZqNF9SYUg1ckV3Mk5mREFYcUlYSGhn?oc=5",
           "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $76,000 September 28-October 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-september-28-october-4-2026",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 18823,
+      "headlines": [
+        {
+          "title": "October Fed rate hike hinges on two looming economic reports",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $74,000 September 28-October 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-september-28-october-4-2026",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 16079,
+      "headlines": [
+        {
+          "title": "October Fed rate hike hinges on two looming economic reports",
+          "source": "thestreet.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HVWM5XzMwczlXeU1TWVlTNmFscXk3cHdNYkw0OXlydjZBQTlmSkE4MWFQa2lIQ0pSVnVIUnNFdzBXbWhwV3ZwYmZvVXNncGFIU1JIVzE0WTBtbEdZdXZJZDNGSnZqWU5jUWxaZlVoaUNlc2s?oc=5",
+          "cat": "Macro"
         }
       ]
     }
@@ -125,54 +201,45 @@
       "question": "Will Bitcoin reach $85,000 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-september-2026-from-september-27",
-      "yes": 38,
-      "change24h": -29,
-      "vol24h": 27575,
+      "yes": 30,
+      "change24h": -19,
+      "vol24h": 20868,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $82,500 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026",
-      "yes": 67,
-      "change24h": 18,
-      "vol24h": 204823,
+      "yes": 81,
+      "change24h": 11,
+      "vol24h": 185263,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $87,500 in September?",
+      "question": "Will the price of Bitcoin be above $86,000 on September 30?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
-      "yes": 6,
-      "change24h": -13,
-      "vol24h": 86319,
+      "url": "https://polymarket.com/event/bitcoin-above-86k-on-september-30-2026",
+      "yes": 5,
+      "change24h": -9,
+      "vol24h": 8686,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,600 in September?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-in-september-2026-from-september-20",
-      "yes": 37,
+      "yes": 52,
       "change24h": -8,
-      "vol24h": 26320,
+      "vol24h": 25964,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $87,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 19,
-      "change24h": 6,
-      "vol24h": 58388,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Bitcoin be above $82,000 on September 30?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-82k-on-september-30-2026",
-      "yes": 81,
-      "change24h": -5,
-      "vol24h": 14559,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-september-2026",
+      "yes": 5,
+      "change24h": -7,
+      "vol24h": 77547,
       "headlines": []
     },
     {
@@ -181,16 +248,25 @@
       "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
       "yes": 85,
       "change24h": 5,
-      "vol24h": 14183,
+      "vol24h": 14061,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $90,000 in September?",
+      "question": "Will Ethereum dip to $2,500 in September?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-september-2026",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-in-september-2026-from-september-18",
+      "yes": 9,
       "change24h": -4,
-      "vol24h": 77654,
+      "vol24h": 63469,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,800 in September?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-september-2026-from-september-22",
+      "yes": 12,
+      "change24h": -4,
+      "vol24h": 53971,
       "headlines": []
     }
   ]
