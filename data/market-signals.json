@@ -1,18 +1,46 @@
 {
-  "updated": "2026-09-30T11:28:55.673Z",
+  "updated": "2026-09-30T17:06:47.312Z",
   "withNews": [
     {
-      "question": "Will Bia Kicis win the second-most votes in the 2026 Federal District Senate election?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
-      "yes": 74,
-      "change24h": 30,
-      "vol24h": 10324,
+      "question": "Will Bitcoin dip to $82,000 September 28-October 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-28-october-4-2026",
+      "yes": 38,
+      "change24h": -33,
+      "vol24h": 11329,
       "headlines": [
         {
-          "title": "US Federal Reserve’s Williams sees one more interest rate hike in late 2026",
-          "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjd0ZmJVVUc2YWhVUzFRb1hnLXZGOXdnejFreTNhRVRLbHZOZmxMUUhGc1FUUG9Pc081YXJjcnFEaC1nbVljdWdIVzgyUW5Cdjg1d3RSbUd6UElXZGhIR09LSEdJSDRVQTk5T1djYzB6YkhwNkptWWl0T01lTDJWTkJtV05IaWZ2ZnhKZ3B1OFdXT0M0Zm5JOXltUHpFRU5VSXFTekRFYUFncW1wbDR3ZTdPbTRHSGlDdDVQYQ?oc=5",
+          "title": "Emma Hayes on October Roster: ‘I Want to Prioritize the Development of Players’",
+          "source": "U.S. Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0NMY3hMNGFYaUs4bE1ZQTBULWYzQkRQUzBfeURTeWM0UEZlZlBzclA3U0Zaa3BQRmpZZUZ6TmktRUtXQ2duejYxSENOR1FzZUtsTDJVTXR2QnN4TFBUNnYya3JNV0FpcDJGNXMxbUE1MUdtN3V1djlta09VclB2MU1rallLczMxMjBaWWhrWDd3TDIyR1p3RjdJRWxzUmV0YjlLU3NPMFU5ZWVI?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Wall Street closes in on a winning September following an encouraging update on inflation",
+          "source": "bnnbloomberg.ca",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdEUwRG9rLVBsWnJxNm1OM19mU1JSVkYyQklVWHlseWZoWWU1N0UxUGU2d3NKT0o4TlBTWUhmS3F1YXZlWWpGdWQwNUZOeU13UmNRT0pRS3N1ak5LSGhtLVZORUdFRndzU1BvWnFhN0lwZ1NCbUJJX0RGeVAwbG10MzNyNVZVbmluNDlhOUNFOHBuaEJPd2N0clJyLVdraGJDaHRfbXZ6b3BTRnpsa20xZzkxYWxKeENfZ2o4SDNfYnJGV2pnUnN5VEpybW9HWGY2RWhF?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 37,
+      "change24h": -31,
+      "vol24h": 907915,
+      "headlines": [
+        {
+          "title": "Emma Hayes on October Roster: ‘I Want to Prioritize the Development of Players’",
+          "source": "U.S. Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0NMY3hMNGFYaUs4bE1ZQTBULWYzQkRQUzBfeURTeWM0UEZlZlBzclA3U0Zaa3BQRmpZZUZ6TmktRUtXQ2duejYxSENOR1FzZUtsTDJVTXR2QnN4TFBUNnYya3JNV0FpcDJGNXMxbUE1MUdtN3V1djlta09VclB2MU1rallLczMxMjBaWWhrWDd3TDIyR1p3RjdJRWxzUmV0YjlLU3NPMFU5ZWVI?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -21,70 +49,60 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 59,
-      "change24h": 28,
-      "vol24h": 790308,
+      "yes": 62,
+      "change24h": 30,
+      "vol24h": 1036637,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "abcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Emma Hayes on October Roster: ‘I Want to Prioritize the Development of Players’",
+          "source": "U.S. Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0NMY3hMNGFYaUs4bE1ZQTBULWYzQkRQUzBfeURTeWM0UEZlZlBzclA3U0Zaa3BQRmpZZUZ6TmktRUtXQ2duejYxSENOR1FzZUtsTDJVTXR2QnN4TFBUNnYya3JNV0FpcDJGNXMxbUE1MUdtN3V1djlta09VclB2MU1rallLczMxMjBaWWhrWDd3TDIyR1p3RjdJRWxzUmV0YjlLU3NPMFU5ZWVI?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Policy adjustments likely needed to lower inflation, Fed governor says",
-          "source": "The Detroit News",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTGhLYnBCVzA1VWJlS3gybWsxcnR5NUVXTGdVdzZIbGdLZGl1bWhNNFUzdlg5dEx2S0Fpc1RMR190Sjhfc1hjaDlhTnM3Q1BVQlJGVlhWclhNbUNqRGRBWlZBbnAtNkdaam1jVkZGTGxtbUpMdEcyVXFsVGJad3F6UUFqM0hZY1VwUzJ1NzdaOWRMTGZpa2VsRVkyMGhCQnVfTWZXUW8yUllGekdpZ2p5THpJcGdaNlhNYVdTZW90Y0hGNDRqN2xBZVlnYklteDdpZmc?oc=5",
+          "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will 3 Fed rate hikes happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 42,
-      "change24h": -27,
-      "vol24h": 488990,
+      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
+      "yes": 14,
+      "change24h": -28,
+      "vol24h": 10218,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "abcnews.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdXFFNHNQQUxXRkRPN3ZndG5TZS1PSGpvaFZPMG8zRU1oNFdrOUFZQnNsT183YWZ2R3NoNGNUX1NVdmtZNmxaYVc2X2c0Vm5tNWZjbEo1ZkYzNzVqeW1BS0VTaWZYc1hKRlRaRGxrQlk1aGlpQTROOV9mSDZldFlkejFZVGxKYmZzQ3czLUFPUDRBVmNJNWpuMnBPdE00QUlncU9EU2lXZw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Policy adjustments likely needed to lower inflation, Fed governor says",
-          "source": "The Detroit News",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTGhLYnBCVzA1VWJlS3gybWsxcnR5NUVXTGdVdzZIbGdLZGl1bWhNNFUzdlg5dEx2S0Fpc1RMR190Sjhfc1hjaDlhTnM3Q1BVQlJGVlhWclhNbUNqRGRBWlZBbnAtNkdaam1jVkZGTGxtbUpMdEcyVXFsVGJad3F6UUFqM0hZY1VwUzJ1NzdaOWRMTGZpa2VsRVkyMGhCQnVfTWZXUW8yUllGekdpZ2p5THpJcGdaNlhNYVdTZW90Y0hGNDRqN2xBZVlnYklteDdpZmc?oc=5",
+          "title": "The Fed isn’t fighting inflation. It’s bankrolling Wall Street",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdEFGa3FhZEYzLWJRQzk0UHo2ZDVYanBqU2YwWkZGcjBLVVRlMmZDRk8yblF2WEpkcFNDUjdyelQzbkczMzYtcUVoSkJ2eWNHR09nakRPMDFzTldMVkVKUFFyOHhnSG9qMTBfMDRsN0hDRVhEMGc4QjNUWkhGdUFHaGEzeWJTeVBXclZ4NW1IZURJT2lmYVE?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $86,000 September 28-October 4?",
+      "question": "Will the price of Bitcoin be above $82,000 on October 2?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-28-october-4-2026",
-      "yes": 46,
-      "change24h": -10,
-      "vol24h": 50982,
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-october-2-2026",
+      "yes": 89,
+      "change24h": 20,
+      "vol24h": 21039,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $88,000 September 28-October 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-28-october-4-2026",
-      "yes": 17,
-      "change24h": -7,
-      "vol24h": 11708,
-      "headlines": [
+          "title": "Emma Hayes on October Roster: ‘I Want to Prioritize the Development of Players’",
+          "source": "U.S. Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0NMY3hMNGFYaUs4bE1ZQTBULWYzQkRQUzBfeURTeWM0UEZlZlBzclA3U0Zaa3BQRmpZZUZ6TmktRUtXQ2duejYxSENOR1FzZUtsTDJVTXR2QnN4TFBUNnYya3JNV0FpcDJGNXMxbUE1MUdtN3V1djlta09VclB2MU1rallLczMxMjBaWWhrWDd3TDIyR1p3RjdJRWxzUmV0YjlLU3NPMFU5ZWVI?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -97,54 +115,67 @@
       "question": "Will Bitcoin dip to $80,000 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-september-28-october-4-2026",
-      "yes": 18,
-      "change24h": -4,
-      "vol24h": 12592,
+      "yes": 13,
+      "change24h": -18,
+      "vol24h": 22754,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
+          "title": "Emma Hayes on October Roster: ‘I Want to Prioritize the Development of Players’",
+          "source": "U.S. Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0NMY3hMNGFYaUs4bE1ZQTBULWYzQkRQUzBfeURTeWM0UEZlZlBzclA3U0Zaa3BQRmpZZUZ6TmktRUtXQ2duejYxSENOR1FzZUtsTDJVTXR2QnN4TFBUNnYya3JNV0FpcDJGNXMxbUE1MUdtN3V1djlta09VclB2MU1rallLczMxMjBaWWhrWDd3TDIyR1p3RjdJRWxzUmV0YjlLU3NPMFU5ZWVI?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Wall Street closes in on a winning September following an encouraging update on inflation",
+          "source": "bnnbloomberg.ca",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdEUwRG9rLVBsWnJxNm1OM19mU1JSVkYyQklVWHlseWZoWWU1N0UxUGU2d3NKT0o4TlBTWUhmS3F1YXZlWWpGdWQwNUZOeU13UmNRT0pRS3N1ak5LSGhtLVZORUdFRndzU1BvWnFhN0lwZ1NCbUJJX0RGeVAwbG10MzNyNVZVbmluNDlhOUNFOHBuaEJPd2N0clJyLVdraGJDaHRfbXZ6b3BTRnpsa20xZzkxYWxKeENfZ2o4SDNfYnJGV2pnUnN5VEpybW9HWGY2RWhF?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 19740,
+      "headlines": [
+        {
+          "title": "Philadelphia brings back USMNT D Mark McKenzie",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1ZOZGhsVnM3eDRMSGVocDF5eUl4bkdRYVVtQUJGWXRPWFJzMDlwRlphalU1WEVEOWRweU96TXFpSmpHMnMtQ3U5bDVMekt1dGpkbEg1eWRHVk53MUkxM0trMVA1VXFka09IVVVhYWhNTVhsMVJXeG91Q2xac09xT1g0cnJ6WHYwOFFOeE9lcG1sQWp5c0hEb3g0TnQ3cklScnVB?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Japan Open Tennis Championships: Matteo Arnaldi vs Rei Sakamoto",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-arnaldi-sakamot-2026-09-29",
-      "yes": 100,
-      "change24h": 54,
-      "vol24h": 506621,
-      "headlines": []
-    },
-    {
       "question": "Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/atp-lehecka-bergs-2026-09-29",
-      "yes": 85,
-      "change24h": 14,
-      "vol24h": 247589,
-      "headlines": []
-    },
-    {
-      "question": "Japan Open Tennis Championships: Tomas Etcheverry vs Stefanos Tsitsipas",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-etcheve-tsitsip-2026-09-29",
-      "yes": 28,
-      "change24h": -11,
-      "vol24h": 104673,
+      "yes": 86,
+      "change24h": 15,
+      "vol24h": 257285,
       "headlines": []
     },
     {
       "question": "Will Indiana Fever win the 2026 WNBA Finals?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-indiana-fever-win-the-2026-wnba-finals-186",
-      "yes": 10,
-      "change24h": 6,
-      "vol24h": 14122,
+      "yes": 12,
+      "change24h": 8,
+      "vol24h": 15339,
+      "headlines": []
+    },
+    {
+      "question": "Will Bia Kicis win the second-most votes in the 2026 Federal District Senate election?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
+      "yes": 79,
+      "change24h": 8,
+      "vol24h": 9035,
       "headlines": []
     }
   ]
