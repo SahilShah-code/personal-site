@@ -1,25 +1,19 @@
 {
-  "updated": "2026-10-01T11:57:14.886Z",
+  "updated": "2026-10-01T17:50:03.323Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $2,600 September 28-October 4?",
+      "question": "Will Bitcoin dip to $82,000 September 28-October 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-september-28-october-4-2026",
-      "yes": 32,
-      "change24h": -12,
-      "vol24h": 10607,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-28-october-4-2026",
+      "yes": 17,
+      "change24h": -26,
+      "vol24h": 15710,
       "headlines": [
         {
-          "title": "Every S&P Sector Fell in September Except One",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDN5b1BzRU1HUVhVeTdraU9tc1MwRTBHNy14Y2hRclNEZUg3S1BoQnVOaE1ydmo4NlBfaHJoVVdVMjBOeURSeGtzN3VQeUlXOUEyZFozb0JhM3hEazh2Zzh5cFNwTTVRaVNvbjdCbEJaLUZrcC1MTzBZM1J5SE82TFBXdmlYSWg1cnBWbUx5MHhDZw?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -27,59 +21,31 @@
       "question": "Will Bitcoin reach $86,000 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-28-october-4-2026",
-      "yes": 39,
-      "change24h": -10,
-      "vol24h": 90367,
+      "yes": 66,
+      "change24h": 22,
+      "vol24h": 27598,
       "headlines": [
         {
-          "title": "Every S&P Sector Fell in September Except One",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDN5b1BzRU1HUVhVeTdraU9tc1MwRTBHNy14Y2hRclNEZUg3S1BoQnVOaE1ydmo4NlBfaHJoVVdVMjBOeURSeGtzN3VQeUlXOUEyZFozb0JhM3hEazh2Zzh5cFNwTTVRaVNvbjdCbEJaLUZrcC1MTzBZM1J5SE82TFBXdmlYSWg1cnBWbUx5MHhDZw?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $82,000 September 28-October 4?",
+      "question": "Will the price of Bitcoin be above $84,000 on October 3?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-28-october-4-2026",
-      "yes": 40,
-      "change24h": -10,
-      "vol24h": 17391,
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-3-2026",
+      "yes": 73,
+      "change24h": 22,
+      "vol24h": 15202,
       "headlines": [
         {
-          "title": "Every S&P Sector Fell in September Except One",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDN5b1BzRU1HUVhVeTdraU9tc1MwRTBHNy14Y2hRclNEZUg3S1BoQnVOaE1ydmo4NlBfaHJoVVdVMjBOeURSeGtzN3VQeUlXOUEyZFozb0JhM3hEazh2Zzh5cFNwTTVRaVNvbjdCbEJaLUZrcC1MTzBZM1J5SE82TFBXdmlYSWg1cnBWbUx5MHhDZw?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bia Kicis win the second-most votes in the 2026 Federal District Senate election?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
-      "yes": 83,
-      "change24h": 9,
-      "vol24h": 36354,
-      "headlines": [
-        {
-          "title": "US Federal Reserve’s Kashkari says US central bank must lower inflation pressures",
-          "source": "The Straits Times",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEMzZjFINTZyTGhoQjMtUDNnUnZNRGZ3WW5mbFRpTTBERjVSZG9Uck4yXzFRZDd4T3Rnc29vcFNtREFPZGNfV2tNdFRQVXl1bkdWRk5UVXlQV2VZUnU5cWZfck9TZ2JidTVWeC1aUUFxd2QyREozTDhmUm5Sdzkzc3JsYng4R1lxTmJZOXBueS1hM1lFMHNvc2g5VldUMHV2dnEtZVBHNm9xTlZUbFVPTmVqZVgtT1NrVnIxM0lLVmZwZzVy?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -87,21 +53,21 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 36,
-      "change24h": -8,
-      "vol24h": 663430,
+      "yes": 25,
+      "change24h": -12,
+      "vol24h": 488142,
       "headlines": [
         {
-          "title": "US inflation cools to 3.4% in August as spending jumps 0.9%. What it means for Fed rates",
-          "source": "Firstpost",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGxVNGJBY1dNZ3lzVVViRkIwWFVDLUFpS3prZzZFVTUwOGVwUU8wRmttODZPTEdJNl8wUTNZWnBsRmpNdlZCZFdfc3VhOHhLTWFwSEl6LThYVVVnTURDTlQxVXlpYTh1YkR5V29LMlpCMGRfeXpmTGpqUG5fXzlZOFo2c3N4ZG9mQkxCbU5KR1JoX0VtcWpySDY5MkhDdWpqUHfSAacBQVVfeXFMUEhUY0hOZG1aLVpFNHZqV0ZpOWJMa19wX3BfZ2R1Tk1yQ01VaXRybFcxRkJhbGRiQnZVZktsTkU1OFdoRkhuNm9hWWpqa2pSQjgxRVcwT3BoeEFZZWlPVnRBYUlHcno0ZUhNZ0FVQl9LR2F3TlEzbEtKQVA1Q2pnR2VjQVR2c1IxWHpORU5nWkl3cG56cmlfTVkyTjlleW5ZUlQ4c1o3aVk?oc=5",
+          "title": "Kashkari says soft PCE data won't stop Fed from hiking rates",
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMnQxTDJJZjJsUVNfc2JoZXZTTHBlQ1VQRWhlZHVpeHlWSkF2QV9ETTRyeVBJbjlYVXJ6T1NKdVI2MU9sWXp2LXZIc0ktXzdmN2ZkLVpFTkZ5ZDJ4MXAwUVowb2g2c3JGT3hLaDZKYzBsQlJMSnJaLTBrNA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -109,42 +75,65 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 64,
-      "change24h": 8,
-      "vol24h": 568780,
+      "yes": 75,
+      "change24h": 11,
+      "vol24h": 635454,
       "headlines": [
         {
-          "title": "US inflation cools to 3.4% in August as spending jumps 0.9%. What it means for Fed rates",
-          "source": "Firstpost",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGxVNGJBY1dNZ3lzVVViRkIwWFVDLUFpS3prZzZFVTUwOGVwUU8wRmttODZPTEdJNl8wUTNZWnBsRmpNdlZCZFdfc3VhOHhLTWFwSEl6LThYVVVnTURDTlQxVXlpYTh1YkR5V29LMlpCMGRfeXpmTGpqUG5fXzlZOFo2c3N4ZG9mQkxCbU5KR1JoX0VtcWpySDY5MkhDdWpqUHfSAacBQVVfeXFMUEhUY0hOZG1aLVpFNHZqV0ZpOWJMa19wX3BfZ2R1Tk1yQ01VaXRybFcxRkJhbGRiQnZVZktsTkU1OFdoRkhuNm9hWWpqa2pSQjgxRVcwT3BoeEFZZWlPVnRBYUlHcno0ZUhNZ0FVQl9LR2F3TlEzbEtKQVA1Q2pnR2VjQVR2c1IxWHpORU5nWkl3cG56cmlfTVkyTjlleW5ZUlQ4c1o3aVk?oc=5",
+          "title": "Kashkari says soft PCE data won't stop Fed from hiking rates",
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMnQxTDJJZjJsUVNfc2JoZXZTTHBlQ1VQRWhlZHVpeHlWSkF2QV9ETTRyeVBJbjlYVXJ6T1NKdVI2MU9sWXp2LXZIc0ktXzdmN2ZkLVpFTkZ5ZDJ4MXAwUVowb2g2c3JGT3hLaDZKYzBsQlJMSnJaLTBrNA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 30,
+      "change24h": 6,
+      "vol24h": 14527,
+      "headlines": [
+        {
+          "title": "Kashkari says soft PCE data won't stop Fed from hiking rates",
+          "source": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMnQxTDJJZjJsUVNfc2JoZXZTTHBlQ1VQRWhlZHVpeHlWSkF2QV9ETTRyeVBJbjlYVXJ6T1NKdVI2MU9sWXp2LXZIc0ktXzdmN2ZkLVpFTkZ5ZDJ4MXAwUVowb2g2c3JGT3hLaDZKYzBsQlJMSnJaLTBrNA?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 41151,
+      "headlines": [
+        {
+          "title": "Eagles Undecided On S Setup; Latest On Kenny Moore",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRVNUN2lSZkladVdkcVpacWRWQ1VQeTJkYkJqWHhDYWc3THNfeHVNOFJ4OTJ5RWdMQ3pmMnZ2ZVFHNl9Ta3lVMHdTM0tNYURTaDdmejZHZGg0VnJUVy05aGlZMHRyZFloaE1GdjVsdmlkdnlfVlhyaTY0d1FDWG05SVpNM20takM4WjN3cS1tNXNISHloVkE?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-vallejo-jodar-2026-09-30",
-      "yes": 100,
-      "change24h": 81,
-      "vol24h": 385573,
-      "headlines": []
-    },
-    {
-      "question": "Japan Open Tennis Championships: Alejandro Davidovich Fokina vs Matteo Berrettini",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-fokina-berrett-2026-09-29",
-      "yes": 14,
-      "change24h": -43,
-      "vol24h": 279957,
+      "question": "Jingshan: Elias Ymer vs Federico Cina",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/atp-ymer-cina-2026-10-01",
+      "yes": 31,
+      "change24h": 6,
+      "vol24h": 23661,
       "headlines": []
     }
   ]
