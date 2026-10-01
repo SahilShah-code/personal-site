@@ -1,51 +1,25 @@
 {
-  "updated": "2026-10-01T02:47:45.518Z",
+  "updated": "2026-10-01T11:57:14.886Z",
   "withNews": [
     {
-      "question": "Japan Open Tennis Championships: Taylor Fritz vs Jaume Munar",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-fritz-munar-2026-09-30",
-      "yes": 45,
-      "change24h": -34,
-      "vol24h": 209884,
+      "question": "Will Ethereum dip to $2,600 September 28-October 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-september-28-october-4-2026",
+      "yes": 32,
+      "change24h": -12,
+      "vol24h": 10607,
       "headlines": [
         {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Japan Open Tennis Championships: Brandon Nakashima vs Ugo Humbert",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-nakashi-humbert-2026-09-29",
-      "yes": 50,
-      "change24h": -20,
-      "vol24h": 55134,
-      "headlines": [
+          "title": "Every S&P Sector Fell in September Except One",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDN5b1BzRU1HUVhVeTdraU9tc1MwRTBHNy14Y2hRclNEZUg3S1BoQnVOaE1ydmo4NlBfaHJoVVdVMjBOeURSeGtzN3VQeUlXOUEyZFozb0JhM3hEazh2Zzh5cFNwTTVRaVNvbjdCbEJaLUZrcC1MTzBZM1J5SE82TFBXdmlYSWg1cnBWbUx5MHhDZw?oc=5",
+          "cat": "Markets"
+        },
         {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-lehecka-bergs-2026-09-29",
-      "yes": 87,
-      "change24h": 14,
-      "vol24h": 143395,
-      "headlines": [
-        {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
+          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -53,87 +27,21 @@
       "question": "Will Bitcoin reach $86,000 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-28-october-4-2026",
-      "yes": 31,
-      "change24h": -11,
-      "vol24h": 88947,
-      "headlines": [
-        {
-          "title": "What October 2026 Will Reveal About MLB, The NFL And College Football",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3U1VHZkQmRpcDA4eXpkNHV0cTdtMFZIa2tOZmdfcTBKbjEwQmJjLWI0N09JNkYwQ2hZTFY3Q2MyR1dnTmVuSTNMdjN3YzRIQWpGNWlGaXpqT2IwZGpUYUdjcGxsU1BoWlIyMDFEOFJ4eVRhLXFzMXNPVGNyOGhqWC1YOTVSZHRWUHpJeGpiMmNMUE1Memc?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,600 on October 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2600-on-october-2-2026",
-      "yes": 89,
-      "change24h": 11,
-      "vol24h": 13464,
-      "headlines": [
-        {
-          "title": "What October 2026 Will Reveal About MLB, The NFL And College Football",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3U1VHZkQmRpcDA4eXpkNHV0cTdtMFZIa2tOZmdfcTBKbjEwQmJjLWI0N09JNkYwQ2hZTFY3Q2MyR1dnTmVuSTNMdjN3YzRIQWpGNWlGaXpqT2IwZGpUYUdjcGxsU1BoWlIyMDFEOFJ4eVRhLXFzMXNPVGNyOGhqWC1YOTVSZHRWUHpJeGpiMmNMUE1Memc?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 34,
+      "yes": 39,
       "change24h": -10,
-      "vol24h": 683522,
+      "vol24h": 90367,
       "headlines": [
         {
-          "title": "What October 2026 Will Reveal About MLB, The NFL And College Football",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3U1VHZkQmRpcDA4eXpkNHV0cTdtMFZIa2tOZmdfcTBKbjEwQmJjLWI0N09JNkYwQ2hZTFY3Q2MyR1dnTmVuSTNMdjN3YzRIQWpGNWlGaXpqT2IwZGpUYUdjcGxsU1BoWlIyMDFEOFJ4eVRhLXFzMXNPVGNyOGhqWC1YOTVSZHRWUHpJeGpiMmNMUE1Memc?oc=5",
-          "cat": "NFL"
+          "title": "Every S&P Sector Fell in September Except One",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDN5b1BzRU1HUVhVeTdraU9tc1MwRTBHNy14Y2hRclNEZUg3S1BoQnVOaE1ydmo4NlBfaHJoVVdVMjBOeURSeGtzN3VQeUlXOUEyZFozb0JhM3hEazh2Zzh5cFNwTTVRaVNvbjdCbEJaLUZrcC1MTzBZM1J5SE82TFBXdmlYSWg1cnBWbUx5MHhDZw?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 66,
-      "change24h": 10,
-      "vol24h": 542347,
-      "headlines": [
-        {
-          "title": "What October 2026 Will Reveal About MLB, The NFL And College Football",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3U1VHZkQmRpcDA4eXpkNHV0cTdtMFZIa2tOZmdfcTBKbjEwQmJjLWI0N09JNkYwQ2hZTFY3Q2MyR1dnTmVuSTNMdjN3YzRIQWpGNWlGaXpqT2IwZGpUYUdjcGxsU1BoWlIyMDFEOFJ4eVRhLXFzMXNPVGNyOGhqWC1YOTVSZHRWUHpJeGpiMmNMUE1Memc?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
+          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -141,31 +49,47 @@
       "question": "Will Bitcoin dip to $82,000 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-28-october-4-2026",
-      "yes": 55,
+      "yes": 40,
       "change24h": -10,
-      "vol24h": 14130,
+      "vol24h": 17391,
       "headlines": [
         {
-          "title": "What October 2026 Will Reveal About MLB, The NFL And College Football",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3U1VHZkQmRpcDA4eXpkNHV0cTdtMFZIa2tOZmdfcTBKbjEwQmJjLWI0N09JNkYwQ2hZTFY3Q2MyR1dnTmVuSTNMdjN3YzRIQWpGNWlGaXpqT2IwZGpUYUdjcGxsU1BoWlIyMDFEOFJ4eVRhLXFzMXNPVGNyOGhqWC1YOTVSZHRWUHpJeGpiMmNMUE1Memc?oc=5",
-          "cat": "NFL"
+          "title": "Every S&P Sector Fell in September Except One",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDN5b1BzRU1HUVhVeTdraU9tc1MwRTBHNy14Y2hRclNEZUg3S1BoQnVOaE1ydmo4NlBfaHJoVVdVMjBOeURSeGtzN3VQeUlXOUEyZFozb0JhM3hEazh2Zzh5cFNwTTVRaVNvbjdCbEJaLUZrcC1MTzBZM1J5SE82TFBXdmlYSWg1cnBWbUx5MHhDZw?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "China Open Tennis Draws and Schedule for Thursday, October 1, 2026",
-          "source": "10sBalls.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnp5Z0pFczl1RjZXVW1FbVI5UnhGYTRGbmZiRmpWU1ZuN2hULWFmUGlEQTRHa2p5VkNzNnJIMlAwaWM3OUlRZjlLY2xYR1ByRXNLQzVjTkxUWFFiemZoSEFKLWxCOThLQzNPSHhDTkhFSUJFcmJmT2hPbTl4ajQ1REpKSDg0NEMyMzkyUUMxYw?oc=5",
-          "cat": "Tennis"
+          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will 3 Fed rate hikes happen in 2026?",
+      "question": "Will Bia Kicis win the second-most votes in the 2026 Federal District Senate election?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
-      "yes": 18,
+      "url": "https://polymarket.com/event/will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
+      "yes": 83,
+      "change24h": 9,
+      "vol24h": 36354,
+      "headlines": [
+        {
+          "title": "US Federal Reserve’s Kashkari says US central bank must lower inflation pressures",
+          "source": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEMzZjFINTZyTGhoQjMtUDNnUnZNRGZ3WW5mbFRpTTBERjVSZG9Uck4yXzFRZDd4T3Rnc29vcFNtREFPZGNfV2tNdFRQVXl1bkdWRk5UVXlQV2VZUnU5cWZfck9TZ2JidTVWeC1aUUFxd2QyREozTDhmUm5Sdzkzc3JsYng4R1lxTmJZOXBueS1hM1lFMHNvc2g5VldUMHV2dnEtZVBHNm9xTlZUbFVPTmVqZVgtT1NrVnIxM0lLVmZwZzVy?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 36,
       "change24h": -8,
-      "vol24h": 9039,
+      "vol24h": 663430,
       "headlines": [
         {
           "title": "US inflation cools to 3.4% in August as spending jumps 0.9%. What it means for Fed rates",
@@ -174,31 +98,53 @@
           "cat": "Macro"
         },
         {
-          "title": "Stubborn inflation and consistent growth shift Fed debate to timing of next hike",
-          "source": "WBFF",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV2phSkdWc0hsVVFvLXFZQjBVTm5kT0RwYUM3aDhseFZtNUFLSk1zTlJSZGNaZ0EyMEVnRkdsUVdCTjR6Z1duUEo3Z1JLMzZ6alc5TmVLOEx6Sl8tZWJTVG1WTHRxYTU4MUFYb29vWDFJLUg5N3oyRjNIS3o4UmstMVRfY1lOS0JvLVZkZEpjOHRiRnVsZFBYcmtPZ0xVNkFIOGhtcjNGSmdMSjNJYkx2c3I3V2ZwclJibWU2ajl4LVZhNVo1eEZDUnNWNUlUdDVlbU5lZUlwYVRuSmZJcHdQUFN0X0g1dkxBa3BMczJWRUFzcVI1ZVFTeEg3enhuQQ?oc=5",
+          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 64,
+      "change24h": 8,
+      "vol24h": 568780,
+      "headlines": [
+        {
+          "title": "US inflation cools to 3.4% in August as spending jumps 0.9%. What it means for Fed rates",
+          "source": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGxVNGJBY1dNZ3lzVVViRkIwWFVDLUFpS3prZzZFVTUwOGVwUU8wRmttODZPTEdJNl8wUTNZWnBsRmpNdlZCZFdfc3VhOHhLTWFwSEl6LThYVVVnTURDTlQxVXlpYTh1YkR5V29LMlpCMGRfeXpmTGpqUG5fXzlZOFo2c3N4ZG9mQkxCbU5KR1JoX0VtcWpySDY5MkhDdWpqUHfSAacBQVVfeXFMUEhUY0hOZG1aLVpFNHZqV0ZpOWJMa19wX3BfZ2R1Tk1yQ01VaXRybFcxRkJhbGRiQnZVZktsTkU1OFdoRkhuNm9hWWpqa2pSQjgxRVcwT3BoeEFZZWlPVnRBYUlHcno0ZUhNZ0FVQl9LR2F3TlEzbEtKQVA1Q2pnR2VjQVR2c1IxWHpORU5nWkl3cG56cmlfTVkyTjlleW5ZUlQ4c1o3aVk?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "1 Vanguard ETF I'd Buy With $10,000 in October and Hold for 30 Years",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFYwSVFUMTlZa2xRMVZMdXVxRWVULXFQOHVMN0czaktNSjFQRzRVTDdXSmlsLXZXMWdCOFktLXdSVHAxX1NiUUxoMVBhS094ZEhBM3dNQnVnUWZibGNyWHNLcmhTR0pvZmtGMWQ3ejdxaVdxR0hrOEo3U2FtMkRaeDhmSlRES094SGl4bExkQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bia Kicis win the second-most votes in the 2026 Federal District Senate election?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
-      "yes": 83,
-      "change24h": 8,
-      "vol24h": 30514,
+      "question": "Japan Open Tennis Championships: Adolfo Vallejo vs Rafael Jodar",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-vallejo-jodar-2026-09-30",
+      "yes": 100,
+      "change24h": 81,
+      "vol24h": 385573,
       "headlines": []
     },
     {
-      "question": "Will Leila do Vôlei win the second-most votes in the 2026 Federal District Senate election?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-leila-do-volei-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
-      "yes": 11,
-      "change24h": -5,
-      "vol24h": 10364,
+      "question": "Japan Open Tennis Championships: Alejandro Davidovich Fokina vs Matteo Berrettini",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-fokina-berrett-2026-09-29",
+      "yes": 14,
+      "change24h": -43,
+      "vol24h": 279957,
       "headlines": []
     }
   ]
