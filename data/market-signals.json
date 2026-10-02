@@ -1,51 +1,85 @@
 {
-  "updated": "2026-10-02T02:51:04.707Z",
+  "updated": "2026-10-02T11:28:34.139Z",
   "withNews": [
+    {
+      "question": "Will the price of Bitcoin be above $84,000 on October 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-4-2026",
+      "yes": 93,
+      "change24h": 45,
+      "vol24h": 11061,
+      "headlines": [
+        {
+          "title": "SPYM ETF: S&P 500 Monthly Dashboard For October",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJWN0hJLThlZE1yVXBKYXI3SjRKSkdnb0hxT3RQV1N3bkNMSlZRR1JSSWdJemZzV0d4M2xQQVNXYkdNZ1RpUWhIZ3hoVzZUTE1BYklON1ZTX0hibTA5bUprcXRXaDBiNURwbEpjaE90SUppRG1SLXN3LWQyTHc2NllyZ1MydWlk?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "S&P 500 closes higher to start October as Treasury yields retreat from multiyear highs: Live updates",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZklidXJsMkhSOG1wdXNvSzlyV0pLZmFBcnd2WWdmQXhFSmxVYzVkM1lkeHI0d3pyQmxIZFBwSXBjeFctMHNGMUh5ZTNZT2RDTjF4RmFIamxETFZHdWpNRlVnSGhWQkY2Z1M4alRPV29IMXlnamVj0gF8QVVfeXFMTU13b1AxdktDTlg5TjFGdE1HTGhmU1kzOXlZWGhLN1pMLVZuLTR4WTRFME55ell3VjhhZEh1Y0JoUE8zejFxZHlLaDIxY25LcFFrQnVPWDlEU0d6TmlRUWpXMnRuTzAxQ0dleFIyM3FrR1RhMlAzSDVFSzFTaQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin dip to $82,000 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-28-october-4-2026",
-      "yes": 14,
-      "change24h": -39,
-      "vol24h": 14617,
+      "yes": 6,
+      "change24h": -37,
+      "vol24h": 38007,
       "headlines": [
         {
-          "title": "US Stock Market prediction for Friday: How will S&P 500, Dow Jones, Nasdaq perform on October 2? Factors t",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY0pZTUJ6WUk2NmpFa3JtNHZYQVo1Tkd5MzF3SmxtcVlqNEdEMF9qNDJJeU1sb0JiRmN0TmE1cF9DeUFMUlRVV0ltUjJvOF9haXRoWGJQSEZrWklkYTkwdFU5TUVzWDE0eDVqY2NoeldteEx4LXpiOGRjeHJkSVN0SHFWbmZReWk3aVdCSGZPT1RfTmx3VlJKN0JjeGZlbldEMF95cG92ODktWVZTTGlrZGdVckttX09hYkFEWUhDSHpvNGxFZDBEc1lKVVpRTTFkVXJyVzdlVmNOZEFmSFBMX3R0RlAyTzNmTVhHTUhwN0pqbHB4cnc1ajAwWF9xbmZmOVpJUVlBSnVpNDh0ZXBTSEYtRFc0YjJuV1Z3YnRYekk0MjlKOHVwQlJzd0hQX3pPdlJudVVBQ2NSUjDSAcACQVVfeXFMTWhpQXIwMjVGSnA4eURhVVVqX3VGdDhtVWZvTEFjLXI3Mm9fdk9zM1lUTnh2LU1kX1ByV01POTRVSFlBQlV5V3otTktyRi1mS1NtYWU2a1Q5eXRLUjBJRXM0MDJhbEIxQkEwODc2YnpSUzd1b0xFRWtQVUhTbmc2d3VCWGw3YXRrUjh0SG9MOXNfSFRxajRQYzJVdDI1cmxReXd1N0xVdzBrMUlLWkxQMHNtM0FZVG9KRnY4cHNqN2Q5SVdrUEoxREF6RkFFMVRnRnVOZFJzS09Ga2NwaC05U3poSFZlTzBXUWNPbVhSbFYxWkVMZXlKRWhkVW5wb0JMSkJaQV9WeVp4UTB3YlNIdWREZzdvWXJBZDA0VU91Y096RVpuYmZtODVCVnJaVWFfRW0yZjlRV3djajgyRWZ2SkY?oc=5",
+          "title": "SPYM ETF: S&P 500 Monthly Dashboard For October",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJWN0hJLThlZE1yVXBKYXI3SjRKSkdnb0hxT3RQV1N3bkNMSlZRR1JSSWdJemZzV0d4M2xQQVNXYkdNZ1RpUWhIZ3hoVzZUTE1BYklON1ZTX0hibTA5bUprcXRXaDBiNURwbEpjaE90SUppRG1SLXN3LWQyTHc2NllyZ1MydWlk?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "S&P 500's Trajectory Stayed Above Its Mean Trendline In September 2026",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXpBWmwzZWdNdEpPU2xiTjBLUi02bFpXeHRuT2RZb3hsaGpBUzJId1NHR1BMVHBFeVFHZ3ltQUJhLUpoYmRCMlRiRXV1TzhLVlBZb1BJODZ0bTRGWndQNUF0RkdMQ2NQRHhZcEFPYjREVzNVYTQtWjNmbm5WZG50THMtZ3FnSXRacFFDVlZnTUYzbzE2NkZFb0RYbmZlYjFLMzRiMg?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $86,000 September 28-October 4?",
+      "question": "Will Bitcoin reach $88,000 September 28-October 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-september-28-october-4-2026",
-      "yes": 62,
-      "change24h": 32,
-      "vol24h": 49396,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-28-october-4-2026",
+      "yes": 41,
+      "change24h": 30,
+      "vol24h": 51342,
       "headlines": [
         {
-          "title": "US Stock Market prediction for Friday: How will S&P 500, Dow Jones, Nasdaq perform on October 2? Factors t",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY0pZTUJ6WUk2NmpFa3JtNHZYQVo1Tkd5MzF3SmxtcVlqNEdEMF9qNDJJeU1sb0JiRmN0TmE1cF9DeUFMUlRVV0ltUjJvOF9haXRoWGJQSEZrWklkYTkwdFU5TUVzWDE0eDVqY2NoeldteEx4LXpiOGRjeHJkSVN0SHFWbmZReWk3aVdCSGZPT1RfTmx3VlJKN0JjeGZlbldEMF95cG92ODktWVZTTGlrZGdVckttX09hYkFEWUhDSHpvNGxFZDBEc1lKVVpRTTFkVXJyVzdlVmNOZEFmSFBMX3R0RlAyTzNmTVhHTUhwN0pqbHB4cnc1ajAwWF9xbmZmOVpJUVlBSnVpNDh0ZXBTSEYtRFc0YjJuV1Z3YnRYekk0MjlKOHVwQlJzd0hQX3pPdlJudVVBQ2NSUjDSAcACQVVfeXFMTWhpQXIwMjVGSnA4eURhVVVqX3VGdDhtVWZvTEFjLXI3Mm9fdk9zM1lUTnh2LU1kX1ByV01POTRVSFlBQlV5V3otTktyRi1mS1NtYWU2a1Q5eXRLUjBJRXM0MDJhbEIxQkEwODc2YnpSUzd1b0xFRWtQVUhTbmc2d3VCWGw3YXRrUjh0SG9MOXNfSFRxajRQYzJVdDI1cmxReXd1N0xVdzBrMUlLWkxQMHNtM0FZVG9KRnY4cHNqN2Q5SVdrUEoxREF6RkFFMVRnRnVOZFJzS09Ga2NwaC05U3poSFZlTzBXUWNPbVhSbFYxWkVMZXlKRWhkVW5wb0JMSkJaQV9WeVp4UTB3YlNIdWREZzdvWXJBZDA0VU91Y096RVpuYmZtODVCVnJaVWFfRW0yZjlRV3djajgyRWZ2SkY?oc=5",
+          "title": "SPYM ETF: S&P 500 Monthly Dashboard For October",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJWN0hJLThlZE1yVXBKYXI3SjRKSkdnb0hxT3RQV1N3bkNMSlZRR1JSSWdJemZzV0d4M2xQQVNXYkdNZ1RpUWhIZ3hoVzZUTE1BYklON1ZTX0hibTA5bUprcXRXaDBiNURwbEpjaE90SUppRG1SLXN3LWQyTHc2NllyZ1MydWlk?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "S&P 500's Trajectory Stayed Above Its Mean Trendline In September 2026",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXpBWmwzZWdNdEpPU2xiTjBLUi02bFpXeHRuT2RZb3hsaGpBUzJId1NHR1BMVHBFeVFHZ3ltQUJhLUpoYmRCMlRiRXV1TzhLVlBZb1BJODZ0bTRGWndQNUF0RkdMQ2NQRHhZcEFPYjREVzNVYTQtWjNmbm5WZG50THMtZ3FnSXRacFFDVlZnTUYzbzE2NkZFb0RYbmZlYjFLMzRiMg?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $84,000 on October 3?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-3-2026",
-      "yes": 73,
-      "change24h": 32,
-      "vol24h": 18476,
+      "question": "Japan Open Tennis Championships: Arthur Fils vs Frances Tiafoe",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-fils-tiafoe-2026-10-02",
+      "yes": 100,
+      "change24h": 29,
+      "vol24h": 376985,
       "headlines": [
         {
-          "title": "US Stock Market prediction for Friday: How will S&P 500, Dow Jones, Nasdaq perform on October 2? Factors t",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY0pZTUJ6WUk2NmpFa3JtNHZYQVo1Tkd5MzF3SmxtcVlqNEdEMF9qNDJJeU1sb0JiRmN0TmE1cF9DeUFMUlRVV0ltUjJvOF9haXRoWGJQSEZrWklkYTkwdFU5TUVzWDE0eDVqY2NoeldteEx4LXpiOGRjeHJkSVN0SHFWbmZReWk3aVdCSGZPT1RfTmx3VlJKN0JjeGZlbldEMF95cG92ODktWVZTTGlrZGdVckttX09hYkFEWUhDSHpvNGxFZDBEc1lKVVpRTTFkVXJyVzdlVmNOZEFmSFBMX3R0RlAyTzNmTVhHTUhwN0pqbHB4cnc1ajAwWF9xbmZmOVpJUVlBSnVpNDh0ZXBTSEYtRFc0YjJuV1Z3YnRYekk0MjlKOHVwQlJzd0hQX3pPdlJudVVBQ2NSUjDSAcACQVVfeXFMTWhpQXIwMjVGSnA4eURhVVVqX3VGdDhtVWZvTEFjLXI3Mm9fdk9zM1lUTnh2LU1kX1ByV01POTRVSFlBQlV5V3otTktyRi1mS1NtYWU2a1Q5eXRLUjBJRXM0MDJhbEIxQkEwODc2YnpSUzd1b0xFRWtQVUhTbmc2d3VCWGw3YXRrUjh0SG9MOXNfSFRxajRQYzJVdDI1cmxReXd1N0xVdzBrMUlLWkxQMHNtM0FZVG9KRnY4cHNqN2Q5SVdrUEoxREF6RkFFMVRnRnVOZFJzS09Ga2NwaC05U3poSFZlTzBXUWNPbVhSbFYxWkVMZXlKRWhkVW5wb0JMSkJaQV9WeVp4UTB3YlNIdWREZzdvWXJBZDA0VU91Y096RVpuYmZtODVCVnJaVWFfRW0yZjlRV3djajgyRWZ2SkY?oc=5",
-          "cat": "Markets"
+          "title": "Tennis antitrust lawsuit explained: Why ATP, WTA and Grand Slam dismissal attempts failed",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQThMVHZjNS1lSlBOUDdJQ3p6Y3IxS0ZhS2dCTWxmenBSVnhpNVl3WnBmQ0ZJRmxnQ3l1N1p1djhjZndDeEo2UlZCVEVEVjZUdGFvYzBpOWdncUU4Q2hLa1JkRTJibkZ4WTI1TnhNdWs0SFV6MmpZLURoYWI2cWItMGtzRWpsbnZXVmVvT3NvVWtTbmsyOEE?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -54,13 +88,19 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 75,
-      "change24h": 9,
-      "vol24h": 814022,
+      "change24h": 11,
+      "vol24h": 687551,
       "headlines": [
         {
-          "title": "US Stock Market prediction for Friday: How will S&P 500, Dow Jones, Nasdaq perform on October 2? Factors t",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY0pZTUJ6WUk2NmpFa3JtNHZYQVo1Tkd5MzF3SmxtcVlqNEdEMF9qNDJJeU1sb0JiRmN0TmE1cF9DeUFMUlRVV0ltUjJvOF9haXRoWGJQSEZrWklkYTkwdFU5TUVzWDE0eDVqY2NoeldteEx4LXpiOGRjeHJkSVN0SHFWbmZReWk3aVdCSGZPT1RfTmx3VlJKN0JjeGZlbldEMF95cG92ODktWVZTTGlrZGdVckttX09hYkFEWUhDSHpvNGxFZDBEc1lKVVpRTTFkVXJyVzdlVmNOZEFmSFBMX3R0RlAyTzNmTVhHTUhwN0pqbHB4cnc1ajAwWF9xbmZmOVpJUVlBSnVpNDh0ZXBTSEYtRFc0YjJuV1Z3YnRYekk0MjlKOHVwQlJzd0hQX3pPdlJudVVBQ2NSUjDSAcACQVVfeXFMTWhpQXIwMjVGSnA4eURhVVVqX3VGdDhtVWZvTEFjLXI3Mm9fdk9zM1lUTnh2LU1kX1ByV01POTRVSFlBQlV5V3otTktyRi1mS1NtYWU2a1Q5eXRLUjBJRXM0MDJhbEIxQkEwODc2YnpSUzd1b0xFRWtQVUhTbmc2d3VCWGw3YXRrUjh0SG9MOXNfSFRxajRQYzJVdDI1cmxReXd1N0xVdzBrMUlLWkxQMHNtM0FZVG9KRnY4cHNqN2Q5SVdrUEoxREF6RkFFMVRnRnVOZFJzS09Ga2NwaC05U3poSFZlTzBXUWNPbVhSbFYxWkVMZXlKRWhkVW5wb0JMSkJaQV9WeVp4UTB3YlNIdWREZzdvWXJBZDA0VU91Y096RVpuYmZtODVCVnJaVWFfRW0yZjlRV3djajgyRWZ2SkY?oc=5",
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "SPYM ETF: S&P 500 Monthly Dashboard For October",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJWN0hJLThlZE1yVXBKYXI3SjRKSkdnb0hxT3RQV1N3bkNMSlZRR1JSSWdJemZzV0d4M2xQQVNXYkdNZ1RpUWhIZ3hoVzZUTE1BYklON1ZTX0hibTA5bUprcXRXaDBiNURwbEpjaE90SUppRG1SLXN3LWQyTHc2NllyZ1MydWlk?oc=5",
           "cat": "Markets"
         }
       ]
@@ -70,30 +110,58 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 25,
-      "change24h": -9,
-      "vol24h": 567023,
+      "change24h": -11,
+      "vol24h": 445546,
       "headlines": [
         {
-          "title": "US Stock Market prediction for Friday: How will S&P 500, Dow Jones, Nasdaq perform on October 2? Factors t",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY0pZTUJ6WUk2NmpFa3JtNHZYQVo1Tkd5MzF3SmxtcVlqNEdEMF9qNDJJeU1sb0JiRmN0TmE1cF9DeUFMUlRVV0ltUjJvOF9haXRoWGJQSEZrWklkYTkwdFU5TUVzWDE0eDVqY2NoeldteEx4LXpiOGRjeHJkSVN0SHFWbmZReWk3aVdCSGZPT1RfTmx3VlJKN0JjeGZlbldEMF95cG92ODktWVZTTGlrZGdVckttX09hYkFEWUhDSHpvNGxFZDBEc1lKVVpRTTFkVXJyVzdlVmNOZEFmSFBMX3R0RlAyTzNmTVhHTUhwN0pqbHB4cnc1ajAwWF9xbmZmOVpJUVlBSnVpNDh0ZXBTSEYtRFc0YjJuV1Z3YnRYekk0MjlKOHVwQlJzd0hQX3pPdlJudVVBQ2NSUjDSAcACQVVfeXFMTWhpQXIwMjVGSnA4eURhVVVqX3VGdDhtVWZvTEFjLXI3Mm9fdk9zM1lUTnh2LU1kX1ByV01POTRVSFlBQlV5V3otTktyRi1mS1NtYWU2a1Q5eXRLUjBJRXM0MDJhbEIxQkEwODc2YnpSUzd1b0xFRWtQVUhTbmc2d3VCWGw3YXRrUjh0SG9MOXNfSFRxajRQYzJVdDI1cmxReXd1N0xVdzBrMUlLWkxQMHNtM0FZVG9KRnY4cHNqN2Q5SVdrUEoxREF6RkFFMVRnRnVOZFJzS09Ga2NwaC05U3poSFZlTzBXUWNPbVhSbFYxWkVMZXlKRWhkVW5wb0JMSkJaQV9WeVp4UTB3YlNIdWREZzdvWXJBZDA0VU91Y096RVpuYmZtODVCVnJaVWFfRW0yZjlRV3djajgyRWZ2SkY?oc=5",
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "SPYM ETF: S&P 500 Monthly Dashboard For October",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmJWN0hJLThlZE1yVXBKYXI3SjRKSkdnb0hxT3RQV1N3bkNMSlZRR1JSSWdJemZzV0d4M2xQQVNXYkdNZ1RpUWhIZ3hoVzZUTE1BYklON1ZTX0hibTA5bUprcXRXaDBiNURwbEpjaE90SUppRG1SLXN3LWQyTHc2NllyZ1MydWlk?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 481026,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 68,
+      "change24h": -7,
+      "vol24h": 31356,
       "headlines": [
         {
-          "title": "US Stock Market prediction for Friday: How will S&P 500, Dow Jones, Nasdaq perform on October 2? Factors t",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQY0pZTUJ6WUk2NmpFa3JtNHZYQVo1Tkd5MzF3SmxtcVlqNEdEMF9qNDJJeU1sb0JiRmN0TmE1cF9DeUFMUlRVV0ltUjJvOF9haXRoWGJQSEZrWklkYTkwdFU5TUVzWDE0eDVqY2NoeldteEx4LXpiOGRjeHJkSVN0SHFWbmZReWk3aVdCSGZPT1RfTmx3VlJKN0JjeGZlbldEMF95cG92ODktWVZTTGlrZGdVckttX09hYkFEWUhDSHpvNGxFZDBEc1lKVVpRTTFkVXJyVzdlVmNOZEFmSFBMX3R0RlAyTzNmTVhHTUhwN0pqbHB4cnc1ajAwWF9xbmZmOVpJUVlBSnVpNDh0ZXBTSEYtRFc0YjJuV1Z3YnRYekk0MjlKOHVwQlJzd0hQX3pPdlJudVVBQ2NSUjDSAcACQVVfeXFMTWhpQXIwMjVGSnA4eURhVVVqX3VGdDhtVWZvTEFjLXI3Mm9fdk9zM1lUTnh2LU1kX1ByV01POTRVSFlBQlV5V3otTktyRi1mS1NtYWU2a1Q5eXRLUjBJRXM0MDJhbEIxQkEwODc2YnpSUzd1b0xFRWtQVUhTbmc2d3VCWGw3YXRrUjh0SG9MOXNfSFRxajRQYzJVdDI1cmxReXd1N0xVdzBrMUlLWkxQMHNtM0FZVG9KRnY4cHNqN2Q5SVdrUEoxREF6RkFFMVRnRnVOZFJzS09Ga2NwaC05U3poSFZlTzBXUWNPbVhSbFYxWkVMZXlKRWhkVW5wb0JMSkJaQV9WeVp4UTB3YlNIdWREZzdvWXJBZDA0VU91Y096RVpuYmZtODVCVnJaVWFfRW0yZjlRV3djajgyRWZ2SkY?oc=5",
-          "cat": "Markets"
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 16316,
+      "headlines": [
+        {
+          "title": "Expert predictions for Cowboys-Texans: Can Dallas bounce back in Battle for Lone Star State?",
+          "source": "dallasnews.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2NOclVOQlMtX0h2eXBiUGYyNThZbXlNdTBxN09HTkFQZDYyX0UzZld5bklhell3dl83cWx3RW04b3ptN3psZ3o5cDFnd011MTF2MFpONTNYQUluZVVEcWUwc1hDSTFjX01fdkxTR0V2SlhYREdWOEFaRmtyUTRSWnFMRVpkdjB3YzgwOG1aaUpKNVdxbGdvaVdxTUZUSXlvY2Qza19Ta2RCRUYzbUFQbw?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "5 final thoughts about Cowboys-Texans: Pressuring C.J. Stroud, and will Joey Porter Jr. play?",
+          "source": "dallasnews.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDNHaTRLNXNES3BKazlmOUQ4WVdUN05HNnZFZWJ3T0pxakE4RnVpMnpBWGRCMFVpMHhVNVB6dHVPWjdCaktfMjlHcEdNd3dmWFF5RHNWalBNVXAxekRWVXprU3NNZXlCMTYwLVdTYTNRU1B4TGhVU05UWldGVVpITldZNHFRM1FkRW9CdlNmYUtFckNIYmF4bEtiT1NsYlNfTHdaX2lvSFhoa2Iw?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -103,133 +171,52 @@
       "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 179455,
+      "vol24h": 179806,
       "headlines": [
         {
-          "title": "Browns vs Steelers live updates: Score, highlights for Thursday Night Football",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSU9SekZudXN2QkktNENNZUpKMUtwaTA1Y2FCSjNGa1k4QUdGbW9jNm1ERDNhblY4WllQT3hxbEJ6V3lDU3E5OUx4SEVDcFhzSnZMejlQS09fYWFCd3lpeE8td3JHa2ZHaUo2SkFxSVhNY3JGalNJeE1VanlJT2xySlZQczd4NnB4ZFdWZHNEQXhlU3VnUmVIWXNBejBXV29DWi10T1lfY0wxTVU2d1Q2Rm9GaTZueWF4aXBFbk1sZXpsdXpVX1Jr?oc=5",
+          "title": "TJ Watt Had a Strong Response to Steelers’ Brutal Situation After Losing to Deshaun Watson’s Browns",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTlNaWEJoTVRkcVlIb0Q3aFdSZUVZM0NwZWFaSTZES042UTJqNVhqTHdWX1ZmOVp0VEM4dEdYV3NWRDRlNGFfT1BJUnotZ2Z4dVE1Si1pSnlBVG9qc2JhUC1nSVo1a0NnZTE3Zk5RYVhkcDVROUhSc0NhTmtEazVEZnNn?oc=5",
           "cat": "NFL"
-        },
-        {
-          "title": "‘Absolutely No Control Over His Emotions,’ ‘Terrible Teammate’ — NFL World Rips DK Metcalf After ‘Beyond Ridiculous’ Penalty vs. Browns",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWlA2dFM0ZkhmNjQtcVY3VlVKMVVWS2xlR2lXMllBbGZUOXlEVnBVMXdKd1pqNGFaRkdOV2FJOTZzdUxRT1NldXQwVlhJYXRxMWltTUxZa0dWQ1BHU3Q2MGF2ZG51RkpST3VEZ25BN2tCbTNSMDd5YW1zUndiNkstRHlSOVFKeHZjV0VPZg?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Japan Open Tennis Championships: Jaume Munar vs Jaime Faria",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-munar-faria-2026-10-01",
-      "yes": 90,
-      "change24h": 0,
-      "vol24h": 91626,
-      "headlines": [
-        {
-          "title": "Tennis antitrust lawsuit continues: Judge denies ATP, WTA and Grand Slam motions to dismiss",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3N0UTVONHlDUklrb1lHRVRtUEtqV0JiTjEyUURZVWtFcHBxUDB5aEFxaHlKN2xHNkdYOXRNVUlCTWZxb0U2eEx6TTU4TkNnQUZvZE1RYzBsaExJSnp4Qmktc1gzMjBIX1FqYm9LdnVUeGExZ09KVnVua0E3ZFRJcS1tZEFBbzNLR21zU09TRkNidl95dzlBTlNGRkhPMlZjSkFYWjZtRFNkd3FCb0ZV?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Tennis antitrust lawsuit continues: Judge denies ATP, WTA and Grand Slam motions to dismiss",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0xsS3Y0c1VLWjdpSWEtbmM1a0FGSjA5cU15c1o5RzdxX1ZvcllMRmJ2ejlEUDNYcmJ0ZjRGYnhhQTZCUWVlR2VNek0xWlhiR0hSa0V6X3JwcU9vSFpzdzdaN3E5TzUwUVpPUkZpZ3JJa2o4S0o2WWU1U1Rfc1p6UEY2UzJPWEstOU8xOExrY3dDU28?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Japan Open Tennis Championships: Valentin Vacherot vs Stefanos Tsitsipas",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-vachero-tsitsip-2026-10-01",
-      "yes": 39,
-      "change24h": 0,
-      "vol24h": 75941,
-      "headlines": [
-        {
-          "title": "Tennis antitrust lawsuit continues: Judge denies ATP, WTA and Grand Slam motions to dismiss",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3N0UTVONHlDUklrb1lHRVRtUEtqV0JiTjEyUURZVWtFcHBxUDB5aEFxaHlKN2xHNkdYOXRNVUlCTWZxb0U2eEx6TTU4TkNnQUZvZE1RYzBsaExJSnp4Qmktc1gzMjBIX1FqYm9LdnVUeGExZ09KVnVua0E3ZFRJcS1tZEFBbzNLR21zU09TRkNidl95dzlBTlNGRkhPMlZjSkFYWjZtRFNkd3FCb0ZV?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Tennis antitrust lawsuit continues: Judge denies ATP, WTA and Grand Slam motions to dismiss",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0xsS3Y0c1VLWjdpSWEtbmM1a0FGSjA5cU15c1o5RzdxX1ZvcllMRmJ2ejlEUDNYcmJ0ZjRGYnhhQTZCUWVlR2VNek0xWlhiR0hSa0V6X3JwcU9vSFpzdzdaN3E5TzUwUVpPUkZpZ3JJa2o4S0o2WWU1U1Rfc1p6UEY2UzJPWEstOU8xOExrY3dDU28?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Japan Open Tennis Championships: Completed Match: Jaume Munar vs Jaime Faria",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-munar-faria-2026-10-01-completed-match",
-      "yes": 100,
-      "change24h": 0,
-      "vol24h": 26048,
-      "headlines": [
-        {
-          "title": "Tennis antitrust lawsuit continues: Judge denies ATP, WTA and Grand Slam motions to dismiss",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa3N0UTVONHlDUklrb1lHRVRtUEtqV0JiTjEyUURZVWtFcHBxUDB5aEFxaHlKN2xHNkdYOXRNVUlCTWZxb0U2eEx6TTU4TkNnQUZvZE1RYzBsaExJSnp4Qmktc1gzMjBIX1FqYm9LdnVUeGExZ09KVnVua0E3ZFRJcS1tZEFBbzNLR21zU09TRkNidl95dzlBTlNGRkhPMlZjSkFYWjZtRFNkd3FCb0ZV?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Tennis antitrust lawsuit continues: Judge denies ATP, WTA and Grand Slam motions to dismiss",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0xsS3Y0c1VLWjdpSWEtbmM1a0FGSjA5cU15c1o5RzdxX1ZvcllMRmJ2ejlEUDNYcmJ0ZjRGYnhhQTZCUWVlR2VNek0xWlhiR0hSa0V6X3JwcU9vSFpzdzdaN3E5TzUwUVpPUkZpZ3JJa2o4S0o2WWU1U1Rfc1p6UEY2UzJPWEstOU8xOExrY3dDU28?oc=5",
-          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 68,
-      "change24h": -6,
-      "vol24h": 33442,
-      "headlines": []
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 30,
-      "change24h": 5,
-      "vol24h": 39100,
-      "headlines": []
-    },
-    {
       "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 73,
-      "change24h": 5,
-      "vol24h": 38652,
+      "yes": 78,
+      "change24h": 11,
+      "vol24h": 65782,
       "headlines": []
     },
     {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 76,
-      "change24h": -5,
-      "vol24h": 27941,
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 45,
+      "change24h": 10,
+      "vol24h": 13545,
       "headlines": []
     },
     {
-      "question": "Jingshan: Elias Ymer vs Federico Cina",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-ymer-cina-2026-10-01",
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 57,
+      "change24h": 9,
+      "vol24h": 35646,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
       "yes": 31,
-      "change24h": 4,
-      "vol24h": 26372,
+      "change24h": -4,
+      "vol24h": 131793,
       "headlines": []
     }
   ]
