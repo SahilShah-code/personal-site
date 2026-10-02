@@ -1,17 +1,25 @@
 {
-  "updated": "2026-10-02 01:00 UTC",
-  "net_return_pct": -100,
-  "realized_return_pct": -100,
+  "updated": "2026-10-02 06:56 UTC",
+  "net_return_pct": -8.2,
+  "realized_return_pct": -8.2,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 0,
-  "settled_total": 2,
+  "win_rate_pct": 33.3,
+  "settled_total": 3,
   "curve": [
     0,
     -100,
-    -100
+    -100,
+    -8.2
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Pittsburgh wins",
+      "ticker": "KXNFLGAME-26OCT01PITCLE-PIT",
+      "result": "no",
+      "date": "2026-10-02",
+      "return_pct": 92.2
+    },
     {
       "title": "Will LSU win the LSU vs Ole Miss college football game?",
       "ticker": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
