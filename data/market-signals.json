@@ -1,30 +1,20 @@
 {
-  "updated": "2026-10-02T16:56:05.579Z",
+  "updated": "2026-10-02T21:30:47.587Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $2,600 September 28-October 4?",
+      "question": "Will the price of Ethereum be above $2,700 on October 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2600-september-28-october-4-2026",
-      "yes": 7,
-      "change24h": -29,
-      "vol24h": 41650,
+      "url": "https://polymarket.com/event/ethereum-above-2700-on-october-4-2026",
+      "yes": 16,
+      "change24h": -31,
+      "vol24h": 11931,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $82,000 September 28-October 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-september-28-october-4-2026",
-      "yes": 6,
-      "change24h": -22,
-      "vol24h": 78764,
-      "headlines": [
+          "title": "The Month Ahead: U.S. Soccer Key Dates & Major Moments in October",
+          "source": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHROeVJFV1NUbVFJcVoybkJiRWxsbjdXc1dROGFGOEhxX0V6dGtTMEJ4X25qSHNUMmJZYmgxTEFsQ0YzNlpZMnUzc1A4NXQ1NlVhZVRZSTA1ZmQ0RGtpNHdyT1JCX3pldTk4YWl6U2doVlRDZ2tmTWNOX2VpUkF0bGxpSTlXdnFPczV6MUp0VzVIM0VNQTJCbUZHY1c4ZDRDYVBzaUQ1Rl9mQ2R6?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -37,10 +27,38 @@
       "question": "Will Ethereum reach $2,800 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-28-october-4-2026",
-      "yes": 3,
-      "change24h": -18,
-      "vol24h": 17069,
+      "yes": 4,
+      "change24h": -20,
+      "vol24h": 39883,
       "headlines": [
+        {
+          "title": "The Month Ahead: U.S. Soccer Key Dates & Major Moments in October",
+          "source": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHROeVJFV1NUbVFJcVoybkJiRWxsbjdXc1dROGFGOEhxX0V6dGtTMEJ4X25qSHNUMmJZYmgxTEFsQ0YzNlpZMnUzc1A4NXQ1NlVhZVRZSTA1ZmQ0RGtpNHdyT1JCX3pldTk4YWl6U2doVlRDZ2tmTWNOX2VpUkF0bGxpSTlXdnFPczV6MUp0VzVIM0VNQTJCbUZHY1c4ZDRDYVBzaUQ1Rl9mQ2R6?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $86,000 on October 4?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-86k-on-october-4-2026",
+      "yes": 7,
+      "change24h": -17,
+      "vol24h": 12667,
+      "headlines": [
+        {
+          "title": "The Month Ahead: U.S. Soccer Key Dates & Major Moments in October",
+          "source": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHROeVJFV1NUbVFJcVoybkJiRWxsbjdXc1dROGFGOEhxX0V6dGtTMEJ4X25qSHNUMmJZYmgxTEFsQ0YzNlpZMnUzc1A4NXQ1NlVhZVRZSTA1ZmQ0RGtpNHdyT1JCX3pldTk4YWl6U2doVlRDZ2tmTWNOX2VpUkF0bGxpSTlXdnFPczV6MUp0VzVIM0VNQTJCbUZHY1c4ZDRDYVBzaUQ1Rl9mQ2R6?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -53,20 +71,42 @@
       "question": "Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-hikepausehike-in-the-next-three-decisions-sepoctdec",
-      "yes": 66,
-      "change24h": 13,
-      "vol24h": 13525,
+      "yes": 68,
+      "change24h": 14,
+      "vol24h": 11546,
       "headlines": [
-        {
-          "title": "Stop squeezing Main Street: Washington spent the money, but the Fed is making small businesses pay the tab",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdmQjVCcjdWN3NzTm9oX1lFb2UxdGsxQm4xSjdwTmVjUTM0V2xpSUZJZDRTQkNuTE40eVpvMDlCTGxzRHQ4TmdmUWlWUS1kX0lTWjVjWXNIRXk5SVhfaHg4SE8yYk0zb2IxdnNDY3I0dXpLVWtxX19KdVByR2NVVVBvOU1vdWdUSGtNMGY4aVFvTzkxNThBME9n?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Another Fed Official Suggests Next Rate Increase Can Wait",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZnd1ZqTlhvYkRrdnA5dGxLSkU0LWozZzBWSFZFOVlMeU8tZ1FkdkdDYWY4Zk9UaGNaY3FERkNJQlhtZUlibnRNcHB6MXpGSHplSXBCLVRhOTBxdnY4MWVnaDkyY1ItZFJfcDVfZXpaZTJENGJmeW91d1B4WTF2RzBGN1NXVFVPWWFHNHE4MmxMRk1FNXBHbFpSU084TTZBZ2VSTmRLaDBXSTNu?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 20,
+      "change24h": -10,
+      "vol24h": 96616,
+      "headlines": [
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Another Fed Official Suggests Next Rate Increase Can Wait",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZnd1ZqTlhvYkRrdnA5dGxLSkU0LWozZzBWSFZFOVlMeU8tZ1FkdkdDYWY4Zk9UaGNaY3FERkNJQlhtZUlibnRNcHB6MXpGSHplSXBCLVRhOTBxdnY4MWVnaDkyY1ItZFJfcDVfZXpaZTJENGJmeW91d1B4WTF2RzBGN1NXVFVPWWFHNHE4MmxMRk1FNXBHbFpSU084TTZBZ2VSTmRLaDBXSTNu?oc=5",
           "cat": "Macro"
         }
       ]
@@ -75,15 +115,15 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 82,
-      "change24h": 12,
-      "vol24h": 1184910,
+      "yes": 83,
+      "change24h": 9,
+      "vol24h": 993672,
       "headlines": [
         {
-          "title": "Stop squeezing Main Street: Washington spent the money, but the Fed is making small businesses pay the tab",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdmQjVCcjdWN3NzTm9oX1lFb2UxdGsxQm4xSjdwTmVjUTM0V2xpSUZJZDRTQkNuTE40eVpvMDlCTGxzRHQ4TmdmUWlWUS1kX0lTWjVjWXNIRXk5SVhfaHg4SE8yYk0zb2IxdnNDY3I0dXpLVWtxX19KdVByR2NVVVBvOU1vdWdUSGtNMGY4aVFvTzkxNThBME9n?oc=5",
-          "cat": "Macro"
+          "title": "The Month Ahead: U.S. Soccer Key Dates & Major Moments in October",
+          "source": "US Soccer",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHROeVJFV1NUbVFJcVoybkJiRWxsbjdXc1dROGFGOEhxX0V6dGtTMEJ4X25qSHNUMmJZYmgxTEFsQ0YzNlpZMnUzc1A4NXQ1NlVhZVRZSTA1ZmQ0RGtpNHdyT1JCX3pldTk4YWl6U2doVlRDZ2tmTWNOX2VpUkF0bGxpSTlXdnFPczV6MUp0VzVIM0VNQTJCbUZHY1c4ZDRDYVBzaUQ1Rl9mQ2R6?oc=5",
+          "cat": "World Cup"
         },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -94,63 +134,96 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 19,
-      "change24h": -12,
-      "vol24h": 690584,
+      "question": "Japan Open Tennis Championships: Carlos Alcaraz vs Matteo Arnaldi",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-alcaraz-arnaldi-2026-10-02",
+      "yes": 92,
+      "change24h": -3,
+      "vol24h": 44859,
       "headlines": [
         {
-          "title": "Stop squeezing Main Street: Washington spent the money, but the Fed is making small businesses pay the tab",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaGdmQjVCcjdWN3NzTm9oX1lFb2UxdGsxQm4xSjdwTmVjUTM0V2xpSUZJZDRTQkNuTE40eVpvMDlCTGxzRHQ4TmdmUWlWUS1kX0lTWjVjWXNIRXk5SVhfaHg4SE8yYk0zb2IxdnNDY3I0dXpLVWtxX19KdVByR2NVVVBvOU1vdWdUSGtNMGY4aVFvTzkxNThBME9n?oc=5",
-          "cat": "Macro"
+          "title": "World Tennis Introduces Analytic Platform to 11,000 Active Players",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVjVxSU5zSFlUeVl6Qk1jZk5rY3RPVFR3Y1pNWDhqb3hLSVpUeXBoSkJ1VHZHVDdCMFowdENCWEF6c3NhUVdLMVVDT2hXYndxbXdqRWJacFF1emJWV2FXLXplT3A1RUZ2dUFXcF9LbWhzaWRSdEFRU19LSXc1RGdlZHhWVGpxSUY1M05CMWpSY3QtUQ?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "China Open and Japan Open: Novak Djokovic, Aryna Sabalenka and Naomi Osaka all advance, as Katie Boulter knocked out",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcXhvR1BDb2E2bGNQRmQzOFdLMWFwR25feG9aQ3NWMi12UnlsVjZnaEFlV2lGUVRLWERfMmRjSkhsc2dWLXNCdXBzN0NGX0ExVFVVbkhXLWgtVFRmSnRfQmlUUEtsUExBeEx5RElsbUx5aGljZVJZNDBoLUdjSXZTZnFHYWxpNVNnSjJDTkl0NkVOblJ5WEF2UzFDTGZIc1BnSjAydjFzMjdwYnMtcGptSUllaWE0S3h3d29pNzdQem92WWpjUXZOcnRaTTM1Q1Q5Q3lJajBLWVd3RUxkSVB4Mnpld0lza0JUYjJLY0ZLTFNyUQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-shapova-tabilo-2026-10-02",
+      "yes": 56,
+      "change24h": -2,
+      "vol24h": 24625,
+      "headlines": [
+        {
+          "title": "World Tennis Introduces Analytic Platform to 11,000 Active Players",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVjVxSU5zSFlUeVl6Qk1jZk5rY3RPVFR3Y1pNWDhqb3hLSVpUeXBoSkJ1VHZHVDdCMFowdENCWEF6c3NhUVdLMVVDT2hXYndxbXdqRWJacFF1emJWV2FXLXplT3A1RUZ2dUFXcF9LbWhzaWRSdEFRU19LSXc1RGdlZHhWVGpxSUY1M05CMWpSY3QtUQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "China Open and Japan Open: Novak Djokovic, Aryna Sabalenka and Naomi Osaka all advance, as Katie Boulter knocked out",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcXhvR1BDb2E2bGNQRmQzOFdLMWFwR25feG9aQ3NWMi12UnlsVjZnaEFlV2lGUVRLWERfMmRjSkhsc2dWLXNCdXBzN0NGX0ExVFVVbkhXLWgtVFRmSnRfQmlUUEtsUExBeEx5RElsbUx5aGljZVJZNDBoLUdjSXZTZnFHYWxpNVNnSjJDTkl0NkVOblJ5WEF2UzFDTGZIc1BnSjAydjFzMjdwYnMtcGptSUllaWE0S3h3d29pNzdQem92WWpjUXZOcnRaTTM1Q1Q5Q3lJajBLWVd3RUxkSVB4Mnpld0lza0JUYjJLY0ZLTFNyUQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 180387,
+      "headlines": [
+        {
+          "title": "Cavaliers teammate reveals how Donovan Mitchell really feels about Cleveland",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHBtOVpXTlRqWmhCS3YzdGFDaDgxT2JyZWFWTTUtY0pGSmxVSXd4Q1dlUVJwZXZYTkZFNzNwS2VsdHY3cHA5YlkteE1EbS1xb0JUR1JfSUpnUmwzTnJRRG5Vb3N6dVdwcjhyajdiQ2NPSjdUOHhOWnNmWnEyelNGeXdpR0tMZy16WS1Ua2l6UDE4Yy1PZVo0?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "‘Has the Chance To Be the Next (Luke) Kuechly’ — Ex-NFL DT Sees Rare Potential in Browns LB Carson Schwesinger",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNk5GamV6aVN0NDhnWlhXUGotN0FBM3pFRDNQTmhIT2MybVdkSEVBNUt6TmJxYnlZUXdqb01PQlFNMHN3RVFFWE9xX282WWo2OU1GUXl6TmNyUncxS3FfLVFRMms5TERhejFtckhwWl9tWEpPVGl3ZW9sQmUzRTFpNDBB?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 27859,
+      "headlines": [
+        {
+          "title": "Bulls' Caleb Wilson: Adjusting to NBA practices",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVnY5dDJRZDFFaXh3UHdBdjhzVnBVMFBVbHh0X0ZvZGMyeHVzVFMzM0ltSzhPWUlWTVAxZ0VaSFlrdklqSFRXOWd0dkpmbzh0T19XS094S0ZLaFhpV1lMQzZLU05uWkZvWENxN2licEtIc1otbmU4ZjZkakZfTU1kMUNlWS10V1VxRC1LZWctS0Q5dEhNeGR0WFhaVVk?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 54,
-      "change24h": 5,
-      "vol24h": 25968,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 31,
-      "change24h": -5,
-      "vol24h": 18632,
-      "headlines": []
-    },
-    {
       "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 71,
-      "change24h": 4,
-      "vol24h": 63101,
-      "headlines": []
-    },
-    {
-      "question": "Will Bia Kicis win the second-most votes in the 2026 Federal District Senate election?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-bia-kicis-win-the-second-most-votes-in-the-2026-federal-district-senate-election",
-      "yes": 79,
+      "yes": 68,
       "change24h": -4,
-      "vol24h": 14658,
+      "vol24h": 63118,
       "headlines": []
     }
   ]
