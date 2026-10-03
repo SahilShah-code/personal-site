@@ -1,341 +1,45 @@
 {
-  "updated": "2026-10-03T15:19:13.411Z",
+  "updated": "2026-10-03T20:18:33.281Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": [
-        {
-          "title": "Myron Gardner News: Moves past ankle injury",
-          "source": "RotoWire",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2VGYTFZWEJlc1V5ekZlT1ZFNklLbUw5RW45aWl4U1NHMG5FVEx4MnBjQVJPbkpsTFYxeHRValZ5QkdGdE9zaHhhYjZhOEtuSVMtam1yVVUxY0hnMjloYjJNOE5YbHhzc1NpVG42XzRtWlRFaEJjNHM3LXdhNXBHNDdyN1FtcDd2NFBDMmlzM1pDaFBYeElyWHkwdw?oc=5",
-          "ts": 1791040037000
-        },
-        {
-          "title": "\"I'm granted that privilege\" - When Kyle Korver addressed white privilege and racism in an open letter",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0pnYlU5LUhYM3g4OU9HV2pNY3Z4WmpkWHZUaUJ6UVBiMTJuazl6MldpSXNfaVB3V2RCREdwNTh0UlRvSU4tQlNuWjM4LUUwVFYzWTc2cmZYN21mRnNaTWxLdjRkTG5HX3B2d2U0SVh6NTgzYmx3OE5BbWNBR21LMFd3bVY2eGNRXzI0QnVGWlY3SFZjLWFZcXNUZ19kUTFURnc1bkpfS19ocFp2eHBqdTBNMWVhdWhYa1ZB?oc=5",
-          "ts": 1791038880000
-        },
-        {
-          "title": "LeBron James just changed the Sixers' championship outlook and the NBA is in trouble",
-          "source": "MARCA",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdWNadDNZLWJLaTI3WktkeXhNSGdDZXU1dktiMDJua1Jrb0V3MWt1Ry1OdjI5SmpKUEc2RFNtTXo4NENWUVRhNHRlb1lqaWJYUUZ2bE5hcnZmcDEtempyUnAzT25ocEwwYW1lX25EVTlVb2lEZTM5OS0ycXlBV0h2NURmY1hKLWlxSlF0eUtlRFpIY2dIMmlQM2szZ1puMndYU2V1Uk9ZQkYzM0JiS0hIY0M1aUdqOGZmaV9TRWRlTGY0TzlOcnRKRkt1Mm1pdjlBdmQ1UTNHaExhQmZiRExlTEpsLWJUbGZha1JpSXJxUdIB7wFBVV95cUxPOGgyaTZNM1B5WUFZdG1uR3YzUEtrQmtOSGczelBRc0FsYTFZSnhRaXN0ejBESDhyZTlxMlZ4LVJLMHM3UnFuTDBRUjEtcU9aWDBmYU9fcWJFQVRVTnhaZkI3X2k2TlBmeDBBQUZEMVp5TDVHc2pGWVdaY095VmZCMzV2eXY0Z1p1amQ4aExHd1ZEYmwxYkFZNjZiOVU3cHdsQUVmQU9EU19TaVN2alhabHFHaGJ0eXNKZHptYkM4S2xjQkJuMlVYbEoyWW9BNzBFWTRiNHZUZkhreHBOUXBLajJrMzdRc1hnYk5fbTRBNA?oc=5",
-          "ts": 1791037462000
-        },
-        {
-          "title": "Lakers 6’6″ Draft Flop Gets Harsh Bronny James Truth Ahead of Final Roster Cut",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81Y29Ec3dfUG9vTVVmQTczV2VkXzB5ZFZlVHdZUG5iVjhZMFhzcndFWWRONVVidXlJQWlxU3RWN1BEWG90WVk4SGNackg1YnQ3SlJSWmhlS3o2WGdXSEl3bEFNZDR0RlJuNkNXUHZCN2lhZTg5SE13dWtB?oc=5",
-          "ts": 1791037316000
-        },
-        {
-          "title": "Draymond Green addressed Kristaps Porziņģis’ indefinite absence following mysterious illness setback",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGlrUDFzcEpYTWxTYWlyUHVKUWNVLTJOSF9jbWxYeVdtdW9pbWxfWUlGckdtU0tSanlvZTNvOUtlcWxDU253V1VBNml1aWJIaXZlOHg4enBtbml4amthbUhNWkVJa21vR18xcmhFMFp5R3F2MjdsQ3hZVGVaYk1LUTJQUWx1bkVUeGRUaE1nZ3B4Zw?oc=5",
-          "ts": 1791037153000
-        },
-        {
-          "title": "Brian Windhorst explains the biggest problem with the Lakers' new-look roster: \"Every contract is a year too long\"",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWE1QYkVLaWlJWXRYc2lkak5NOEwyZ29lREtwXzNkNU5pT3ZEMU9jblowT1hXVzBldDZkR2MxZ1lROVdvTDZDUlFEYXpQTUs5ZzdJeUpxbVZMTnpzd3Q2alM1bWxvRjVFcEI0cFh5Qi1mazBHcmM3aXJvLVFTSVFRNHVQekNoYnZNejJnQ2dFMG9GUms5ZExRLVdIMTRISWxzN25yN19vN1ZGTXU4VHI5NkFfcW0zUkpDc3U0VFRkZw?oc=5",
-          "ts": 1791037133000
-        }
-      ]
+      "items": []
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": [
-        {
-          "title": "College Football 2026: Draft prospects for the NY Giants in Week 5",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMGs2Vm5yYlI4TUp1Q3MwYk0wc09INjJRUnJfSFlTZmd4X3ZhUmJLbUtPeVRPWFRJVlMzb0Q1NFZid2JHbWxJN0hvcWo2NTFleHBMMWZya2dBenpzOGJZR2kxU3BWN19TdEF6YUliYWRZeFZ3LVZPOXJ0NHE2TzFGOG9pNUdHbzZqMG9ockpRRQ?oc=5",
-          "ts": 1791039600000
-        },
-        {
-          "title": "Deshaun Watson seeks redemption without genuine remorse",
-          "source": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2FzMnF2MWpIa2RKN1RXa25PQy15SzlPVjRiLWlOYXBOMDVmd3hpeDZqUHhQN2duT3Vscm92eE54aWxDektRdHl1bXRER0FLODh5YXlJdFJaOTREZllsaXlUSEk4STQxZzNmX1FkcXhKUWhHQlVUZ1A2VjQ1Vjc1amhTdmhsRmFBeXRDWGtpbS1BYzczMTJ5OXdDb3ZOeE5B?oc=5",
-          "ts": 1791039245000
-        },
-        {
-          "title": "‘I Thought It Was Odd’ — 4-Time Pro Bowler Recalls ‘Weird’ Encounter With Mike Vrabel and Dianna Russini Before Scandal Came to Light",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcnBfM1BOMUU1NXFreFRueEd5MU1fcFEtdHo3QTBTS3ZHNFZNSUQwdkxMN0VOZHVGRU9TMnhqLTlGNnBoTE50aEwxYktGRFByZUlJbUdtVldyTFRZLXpTOG5DLUJ2RVhyWHZ6SEhCcnhPUVRpX0ZPcEJ4UQ?oc=5",
-          "ts": 1791038692000
-        },
-        {
-          "title": "Bears starting QB Tyson Bagent against the Jets: Sources",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0FCYWFZUWpJaGE0eG1RS3lBRmt2RDluOXptc1hEWGdvU3ZEcFdESS1mTUpTdGx2V3JpSnRWSVNKLXRic1hTdncxcWpCVjUxOUVNaGJpS2hvNmE4NzVUbWJLY2M5UUtDY3M2YzVoN2ViS1hzZ20wdFVLSVpRMWdjRklJU3NjQVcwTmVxWFl3?oc=5",
-          "ts": 1791038017000
-        },
-        {
-          "title": "Underdog Picks of the Week: Our top plays for college and NFL, Oct. 3-4",
-          "source": "Saturday Down South",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQmJqb2hkdGwzeFNGTFc4R1R2OFEtMXNRWjVsYUE3Ml9DVmExZTNvRl9ad1RTNVpURXVDQWg3U3hiY3dqN0R4Znh1c2VKdDlwbXpPWDJzdjFsUV8xcVZMdEpreEx3ZHdrWnY5TmtCTS1LVE9qSnQ2cHFjcFFGWFBLcmlIVE9pMzEwZy0za2NEa2ktdkVZblpfVmpzTE5CcjJXSFpWY2p4aWhialhySnVTc3VpWU9UYm1kSDVLQzFKMkU3M2c?oc=5",
-          "ts": 1791037560000
-        },
-        {
-          "title": "‘And I’m still here’ | Dorsey returns to where his NFL career changed for the better",
-          "source": "Detroit Lions",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmhVTkVWNldveWtyVHBoQ2lFU204Tmt2Y1dxWVhjdXIwQTEtOUZUQXJnQ2d3eklxUmJzekRsWUp5MUFTNDg4VzVFb1pzXzgwb0s3OXVseDZka01YTGhwM3JKTHV6aTNHLUR6MjU5Njd0QmpFc3FRM05VbHBDakNoSGRaWHZoSzZ4UExkdDlMdF9jVnQxbThOWkZPVWdNQzdLYmczYXhVRUVLX0RKYWpjWThfSzI?oc=5",
-          "ts": 1791037504000
-        }
-      ]
+      "items": []
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": [
-        {
-          "title": "Jannik Sinner: World No 1 withdraws from Rolex Shanghai Masters as knee injury forces him to skip China Open",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS2Q1Ujk1NjlTWVFSUVlnbS1QdkxmQXRKVVp1YjdBNnFzTFl6N1JHMFZWcC1NWUQzR3gtS1lQUjVOWUdSTGQwcDkxc3JsX3Y0WEFjZ1FVa1BtSlY3SGxTSVhJX2pwel9BNU5ySkdWSlVsV3d1dWVvUnZMMjhaX3BNUTg2MDh0dTE4RUJGZmlnTnZLUnRFVVduSjdRVHI0eW9LaVk2SnZYNkUxeml0YjRjdHFRdTB6WDlmY3liQW9PNTNwOXRBRWI4OF9JVW42MFVrWUVDU3I1LVlodlp6Rl9nVDdPQUNtRTh0WWVhOFpHNmdXUQ?oc=5",
-          "ts": 1791038543000
-        },
-        {
-          "title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
-          "ts": 1791035770000
-        },
-        {
-          "title": "Alcaraz Will Play Shapovalov in Tokyo Quarterfinals",
-          "source": "Tennis Now",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9scnFpN2luVm4yLTVGM194TmpOLTB4ZjBMbVJvVzNQYXJZd1NFeWxRUDdhbVRxVmZNUHgySlN0RVJBN1dqUUloc3A0R0pER3dBZWphcHVYTWdXc3VFU1ZucGxKVHBkQ2x5d3Bxa2NqbFlCeXoydUdEUGRIV2hwcUE?oc=5",
-          "ts": 1791033903000
-        },
-        {
-          "title": "Zverev Silences Shang, Sets Up Beijing QF Showdown vs. Djokovic",
-          "source": "Tennis Now",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa1hBcGk0UnBJUTJKQjNaMHVvUS1BTURhcE4xOXZrdk5pVlJZdU1vZU1raDJ2UFdKLWp5SVVLZlV4am84bmd4cjJCaW4ySUVqV0tNeHpRY2N6YnVrekZtdHBBcThORWJ1cUczS0o4XzZQd3JKaERnVzFSWFBWem53SUxENVBUY01rWFhjcg?oc=5",
-          "ts": 1791030941000
-        },
-        {
-          "title": "Carlos Alcaraz vs Denis Shapovalov · Quarterfinal · ATP Tokyo",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXl2NGlrUEVzMWxEX3ZqRVVUcmVoeGRWNE1jTkNObEZFMDhRbTFRQmVQMGlkUG1WbW1nbXFVbFVFajI1SndkSzFWT1FyR3hjZzFjeklycXVoZGRRSnNKdkRxcjQ5UXNoNkpOcmlKZV92dU1WSmVObUN6Y0M5RkM3M2syenB2MHg5YUYzTlNZbVNQWmQ1bVBiRWVNNWlLZUdzOTFoTHhfRFZLTF95b0s5Y2VkNHJMMXlvemVn?oc=5",
-          "ts": 1791030631000
-        },
-        {
-          "title": "Sports News, Transfers, Scores | Watch Live Sport",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRWJYaXd3a1laNlB3ODFZNW12WnQtcFl2a1Y4WUNkZi1jWnJHZklJdkV2TGxmeTNwVElIVzhGaGl0SE5PUDFJNFQtNkY5VVpBdFo1akFQTGhwT1hNZ1NIY3NHNjlXTFFUUTllTnB1Q1dlSVFUQWdsUEh2MHVvelU?oc=5",
-          "ts": 1791030302000
-        }
-      ]
+      "items": []
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": [
-        {
-          "title": "Cristiano Ronaldo’s conflict with Jorge Jesus takes dangerous turn for Portugal as 2030 FIFA World Cup thre...",
-          "source": "World Soccer Talk",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZGxkN2NLLUdiMUV6WnFWMzVmTVVqeEVMdXgyUnhZUDVkWV9MZjREVTNYa3RvVlQ0T0hTM3FVdm50b3FjVTM3dmdyS3h1aElzak1iRWhLZmpXck04X1ozNEhCeUJEanVBM2FKOGRPaHA4SkVTOGZGeENORWJaT2JqQlFuZnd3OHo3cGR1X3VTSjZrYnRtc0hLckdOZzl5eGFNc0JwSmlNVDRCTU5YQjZ6YU5ZZ3FNODJEVEFROVBzbHl3MTFzSmNjUlZFRUdaWlpLQ1owQjFQV2FzaEh4b1FneWJYM1RVRk8y0gHoAUFVX3lxTE1kbGQ3Y0stR2IxRXpacVYzNWZNVWp4RUx1eDJSeFlQNWRZX0xmNERVM1hrdG9WVDRPSFMzcVV2bnRvcWNVMzd2Z3JLeHVoSXNqTWJFaEtmaldyTThfWjM0SEJ5QkRqdUEzYUo4ZE9ocDhKRVM4ZkZ4Q05FYlpPYmpCUW5md3c4ejdwZHVfdVNKNmtidG1zSEtyR05nOXl4YU1zQnBKaU1UNEJNTlhCNnphTllncU04MkRUQVE5UHNseXcxMXNKY2NSVkVFR1paWktDWjBCMVBXYXNoSHhvUWd5YlgzVFVGTzI?oc=5",
-          "ts": 1791040113000
-        },
-        {
-          "title": "Bayern Munich’s Josip Stanišić lauds Harry Kane for Ballon d’Or, talks trouble with defending him",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOakE2Z0NYdm9JN0VSdVRNQTRsRzhxQmJNODVseDQyT1dPZU9nSW0tT1VhVlQ2dkhYM29yQjBXRWprOGRzQ3BxaWJmN2QxWkRWR1NwdC1vZ3hsOW55X2pUSG5ySm5NcFJhbzMwaVg5TWFrb1h3OHNxT2RuT2EybDY0QnBFVG14VUE?oc=5",
-          "ts": 1791037800000
-        },
-        {
-          "title": "How USMNT vs. Mexico became one of international soccer’s fiercest rivalries and why it matters",
-          "source": "Times Union",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0NnQzYwd3hoeVJpd0I4YURRdnc4bFVKWW9kUmZyUWo4ZTh2UC1qb3V0bDdIbThzM1JzVy1BajZuWkd1UUlzbHh3R1RCVHRmVVFtSHB5RnF2QzhpeUNGa1N6eU9zRlFFZXkxZmY3OGxEc0JsZDByQ0g4QkVQNC1neTJpNWR2NmJKYWtsOVY0N3YwaEhI?oc=5",
-          "ts": 1791036900000
-        },
-        {
-          "title": "Lionel Messi’s iconic No. 10 cannot be retired by Argentina under FIFA rules, but surprising workaround to ...",
-          "source": "World Soccer Talk",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRzlITmNINlFOQ0h2bGNhSlAyLWhoVnFxVF9Rd1lRc0QzcjRicWlLVzZfY2NtQWtUZGZXZnZZcko3eENjNWNxTVlJTWdxRkEtaUVPLUNQeVgzVGF0Yk9zVVc3dzJ5SkNtX1VfQ3RfUElCbzVnWGhDckd0eGFhOTlTbzFkMmZJMVJyZVhMZjZ3WXRXUjY0V01sakVYaXdwUklRLTFySUQ3bEwtdmd0RDlGOWtyR2hhX0h4TU5Jd0hzM0NVaVpNZXRJOWFXOGdtdm0ySkFOYy15NWlKWFhfSzJzYm5ibnJxZks3bkVRRXZHS1ZiZVEzQUVmSFVGZ9IB-wFBVV95cUxQRzlITmNINlFOQ0h2bGNhSlAyLWhoVnFxVF9Rd1lRc0QzcjRicWlLVzZfY2NtQWtUZGZXZnZZcko3eENjNWNxTVlJTWdxRkEtaUVPLUNQeVgzVGF0Yk9zVVc3dzJ5SkNtX1VfQ3RfUElCbzVnWGhDckd0eGFhOTlTbzFkMmZJMVJyZVhMZjZ3WXRXUjY0V01sakVYaXdwUklRLTFySUQ3bEwtdmd0RDlGOWtyR2hhX0h4TU5Jd0hzM0NVaVpNZXRJOWFXOGdtdm0ySkFOYy15NWlKWFhfSzJzYm5ibnJxZks3bkVRRXZHS1ZiZVEzQUVmSFVGZw?oc=5",
-          "ts": 1791032100000
-        },
-        {
-          "title": "Argentina vs. Burkina Faso friendly prediction, start time, how to watch",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOFJfRlVqU3p1WUU0NW4xQWJwUDFPYUd3RHpBYWhOVGNDZjVfUVJEaTBTR2ZSeUQ5Zm1tbU9WOGIxVVJvcFl0Wk9mNk5oRi1JWHI2RjlJdjFSRjRrNHVsU0s4aEVoQ0IwTEMwdVFCdzU0X3kxcWFvOTctZTk3SlFDWU1CUEFNSkpNM0JrcGdSWGtSTk40YkVKc0MzMHV2SjBmYkRMS0tfZVBzd0JabmdjTTJuM2xfRWZzdTNWOXVGY3VVSk9KTVE?oc=5",
-          "ts": 1791030480000
-        },
-        {
-          "title": "How & Where to Watch India vs. Brazil? Start Time, Live Stream & TV Channels",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTlvbFRMeXgwbGViY09JUlB1YVNDaFQ1V3FHaDlNNEZVMzFXUEtDRU16Q2lZMVpRelg1Nnp3bTJxWlV4bnlrLV9RUkdqWDliRUxzOEVqdFBRaF9Ec2ZRY284VnJmeHZsX0pzVUZoTEpSSVFxa3VfckNQRV91Ry1BejFB?oc=5",
-          "ts": 1791026100000
-        }
-      ]
+      "items": []
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": [
-        {
-          "title": "Trump scored three economic ‘own goals.’ Here’s his radical three-step fix",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXNTaTc0NlFNZnNnTGQ3cFV3b0tJNmdtTnhfOVc0WVlqTGowOE1VNXhQdGl6UFdMUEh5Q0duWE9ldmx5RXI4Q0hPVXdEU2VxWXZQcHVtZmZwWjlVNHhSbWRZeXZxRTFVN3F5ekVVdExjUTVUUGMzSy1FYWltOW53bHFJdWZrQzRoMGduYV9ydms2ZzA?oc=5",
-          "ts": 1791025200000
-        },
-        {
-          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
-          "ts": 1791022500000
-        },
-        {
-          "title": "The Bigger Economic Story Behind Higher Mortgage Rates",
-          "source": "observer.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TX1lSeGFFSGtpOG5sU0o2YkRPeE1QeEpOT09qRnF0SEFGVUR0R3IzVzdjTUhkOHd5V0ZkbG5zdTdUdjVSZkhDSWIyRE9XRUIwWDcxeWNMak9EY2EyUDMzMmlib3NhcHZDRVpnSVdjVHhhTncxZjYxTnl2bE0?oc=5",
-          "ts": 1790978039000
-        },
-        {
-          "title": "Opinion | Most of today’s higher prices are Biden-era inflation",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFNwQ01UMFo4bGxGYWh4Wk9ySUl1Y0lkdUlCZkowN01SbW1KYTJXSkxlUkdOSDBpM0tUNS1KSzhrMVRES3NZbU9jX3Nnek5IdmRQcTdlVExoY1lxSE4xSG1NX1AwWFpzNXpYZHpwbkZadU1tMi1NMC1PTzlxZHp2TlQyTzdVT3Q5dldYSkFXaTRTYWFMQ19ZckVmOU9nUTRYeHowcQ?oc=5",
-          "ts": 1790916422000
-        },
-        {
-          "title": "Another Fed Official Suggests Next Rate Increase Can Wait",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZnd1ZqTlhvYkRrdnA5dGxLSkU0LWozZzBWSFZFOVlMeU8tZ1FkdkdDYWY4Zk9UaGNaY3FERkNJQlhtZUlibnRNcHB6MXpGSHplSXBCLVRhOTBxdnY4MWVnaDkyY1ItZFJfcDVfZXpaZTJENGJmeW91d1B4WTF2RzBGN1NXVFVPWWFHNHE4MmxMRk1FNXBHbFpSU084TTZBZ2VSTmRLaDBXSTNu?oc=5",
-          "ts": 1790898120000
-        },
-        {
-          "title": "Fed's Logan calls for '50 bps or more' in rate hikes",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY25fbkF3U3FzTGZISkVoSW1IeGNCbXhTYUZIVWRzRkpIZGpWZ3FxWjNkS3c3d19fS2cyLTZHcnpVTUt3elpTQTdhMkxVd2VRM0JQaHRVOGVkV2FFS1RDc0FPbFZfcHpwNXNRUHEtcUx3VENpeWxiOWI2Q1lOb19kVFliWFptNXM1Y21rcw?oc=5",
-          "ts": 1790897586000
-        }
-      ]
+      "items": []
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": [
-        {
-          "title": "Does S&P Stand for SPooky During October?",
-          "source": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGJVNmY3VElOeG9lVjFsVF9wWktpWDNZOGpJa09UR3VtaERmMVkzX3JWN3gzQ2NpcGhkVlVnY25CTDVwWmxEdlA3RWtJTnhJR0xXcmlobWRzTVd1a3NJbHQ4bFE1aDFZeXVCMmMxakJNaTJwYkdTQ0tNeHdBaXFMT1R0TG14MG5vU2N0NA?oc=5",
-          "ts": 1791037735000
-        },
-        {
-          "title": "3 Reasons Why This Dividend King Yielding 4X the S&P 500 Looks Like a Buy Right Now",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1ZJY1pQSHo2TTRlNUNMb2l3Q0RycXlpYmI3UzRYYTg0YmFpdk02eFlTbWxtai0yelB5ZlFIcmJTZVNvUmd5Vl9SbWp1OXBFQVB0ZXZhbENMZ2xJbkthX0JRZ2lpVHl0cG1KOGtvOVdtaVh4VlJ1QnhoX2FDUnNxdFBjaXRvc0g1MWwwWmtOcEhfeGIxSWc?oc=5",
-          "ts": 1791034227000
-        },
-        {
-          "title": "Wall Street Expects S&P 500 Profit Growth to Collapse From 35% to 15% in 2027",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPblVqZkl3Vm9HQ2RHT1RHZFNjRWdla1B2dV9WVUFjZnlBSGpKREFIaU1lRXN4LWVXNW1LVmRTNVBaTWpXX25PSlcxZDE5YndROENMYjBuZks3Ri0wdk9NZDFmZ0h4M0lMcDVVTWVNbXhWSHBOaVltSjlPR3RveWRCcTVwQUFFM05pYVFFOEwxTEZRZjFG?oc=5",
-          "ts": 1791032924000
-        },
-        {
-          "title": "Wall Street Expects S&P 500 Profit Growth to Collapse From 35% to 15% in 2027",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IbjNLRDhqZ1dTUTExek1SZGwyTzRsUTN1S3dWeXAyQkUxN3BlZmZUcW5GVWVaTXdueS02TEt5RVJCSnBiZ25nUFY1SXAtTUlnczBFNmR0Si1jbTNaMHpJeFBsVjNmbEhFRUdaV200LVo3QzhKRm9JWQ?oc=5",
-          "ts": 1791032924000
-        },
-        {
-          "title": "History Says the Midterm Elections Make October & November a Great Time to Buy Stocks",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnlGVEVJc1FPZl9ZVTZTVkhpeUtFUmZObkhGel85R3c4X2dScGVYZ253OG90ODZoNWRWUjZsb2JKdXUwbE95Tk4wbU9Uc2lKTEZyYS1ta3BxQXpSX1ZEdm92aXE2ZmM4aFJ5SVQ0NEl1emI5ZU04aXROWV9aWURRV0c0andVWXdLMl83Y3FoS19zZnM5RngtbnpaVG4tVm41Q29MNGVn?oc=5",
-          "ts": 1791029100000
-        },
-        {
-          "title": "S&P 500 Snapshot: Stocks Rally to Close Out Flat Week",
-          "source": "Advisor Perspectives",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFNiekVwZkVNVzRtcm42ZmtIQXBRVzJaUnlDaHRwblpYbmUyejY3ZjhLa0FoVEFrZzBKR3Rnc0VTeGJJWUtMSFo1dDQ2VU1aVmpuamRFR0RRZUJsclVfWnljRkZGclV6bzM1N2NzakVaQ1U4YXRfbFZsbWdQaEt4YjVuRWN2blQ0QzAtOFl4ZlVuT0RkNHpWeHVENFc4Tm1RRlNUeTJLTzBwTmtFdV9wcTJ0eUI?oc=5",
-          "ts": 1791019756000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": [
-        {
-          "title": "Brazil Unlocked: Biotech Leaders and Investors Make the Case for Earlier Clinical Trial Planning",
-          "source": "oncodaily.com",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TkUyZ21SMGdhcFp0MEczVE9PaDU4SWlCWnRoSnBUMDNOXzFSUU54Q0M4eUVrNFlRWHBFWENiaF9yU0lUenhnbTR2ak9iU21oclNybDRfYmUyLWxhdnVVRTJ4X0xUUEk?oc=5",
-          "ts": 1790959497000
-        },
-        {
-          "title": "HHS announces new efforts to speed up, expand clinical trials with AI",
-          "source": "STAT",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmYwTTdOcmg5TjEzdGRfVlhHa2FIZzByaDI4U3NKUjdMdVFQLUwxQV9RUzU2eEJWd1NlaHZ6b0JBeWJJZ1FfRndGYWwzTHFpdURhRGs5TVJpb0RRUVhwelNGMThMdFY1MEIzM0hIYUR6UGNUMHNqWDA3MUVLUS1TWjd6RS1RcFQ0NW5fVDdDenJSM2tBbXRNNFM3RXk4SEVGN2k1OXp3?oc=5",
-          "ts": 1790799010000
-        },
-        {
-          "title": "AI biotech raises $75 million to push cancer drugs through clinical trials",
-          "source": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkgtUzlMY2hRT3FZUkRERWFLdmZkSU5hMGFpOWd3eDJONHRXRzJJSTVkV1BWUjlfSEIzQWJ5RmppUUVxOXMzdjBUSG5HeElXZlI3dktBOGkwWjBjamt4MVZQZDF4MUZtUndsZUtjZlJMU3VoNklXOG95NlpZelpLYzc5bDZlOHNPUHhLTHJDM0FBUHVvdnA1UFRvbjQwMFh5Wm5ESTdNY09uOG8?oc=5",
-          "ts": 1790256000000
-        },
-        {
-          "title": "Nominee to lead FDA aims to speed up medical research, combat China’s rise",
-          "source": "STAT",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjRzWmh2Qm9WcUE0SGUySV83WnlfZEhIZ2tYMlBfY3oxbGZaSTNjV3VUWXA0VndzRGc4X2RKNDUxLWViNEE5MS1GallnWi1IV2RtZUZMeFhDQklPbGgzMTNGcjBVS3NTeWdrRC1nN3pGSk9UWlEwWVZrOW04eHVUeTlUSGJYNzVfQ0JPTU10Q2o0eGRNSGI4Vnc4aTlGVGVmaTlGN0hacXJtMEYyN01CUA?oc=5",
-          "ts": 1790146800000
-        },
-        {
-          "title": "Virtual Biotech Company Puts 37,000 AI Agents to Work on Drug Discovery",
-          "source": "SingularityHub",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGs0Q0tOeEUtdFdBOWkzZFB6R25ubjBObVh5THE1RnBRZnZaTDJJcXpZZlFtQV9CQnpZc0VGX2NScDhTZzlBVURfd0FRaWxCS2NhM3Z2TGhkY1NSUkVXNnVpS0RTMmlVeE5VaUticnRZek1zTVM2b1JHQmEyeGlkOXExRTllRWF3eFQxLUZCWGNCOTluQ2o4S19kVm5DeEdSaHV2UzVPUjItVWt3dUE?oc=5",
-          "ts": 1789714800000
-        },
-        {
-          "title": "Virtual Biotech AI System Advances Drug Discovery with 37,000 Agents",
-          "source": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzVlZzdHUVRNYWVHSnVqaklHTDFEeU50dExxSDA2d25BelEwdGQyWklnZFVhMGxIWTlDWUs3Ykw4S3NmVHEwSEZhQ1JrYmlUX1BkTm42OFpJSzJvVklkV1FsUFQ5TXRJSm53dHRHeFU4d1RxTVczNmZJT25VM2VtbWpKdkV1d3Bj?oc=5",
-          "ts": 1789714800000
-        }
-      ]
+      "items": []
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": [
-        {
-          "title": "uniQure stock crashes as Huntington’s gene therapy data weaken",
-          "source": "fiercebiotech.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDlEZ0RrVWRaWGpCXzJmbkY2UlVaaXN2TDRjSHc1Sm1wdXIySkYzblQzakdhVWJ6emI0UV9RRndsbmR1TU5fVXM2Y1Fldi1WNEtHTHkwMkQxNW9uRkRsbHVnTUFQZXVsMXV4V21COThIaG5Vck5mTkduWWdjTmk1Wlp5bElfcWVzZkZCS1hQalV5S3ZodGRZQkNvZm0?oc=5",
-          "ts": 1790688522000
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "ts": 1790674380000
-        },
-        {
-          "title": "Kodiak's stock doubles as resurrected eye disease drug matches Eylea in phase 3",
-          "source": "fiercebiotech.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWlYcURKVmRrWjlhbklsQWxEM2dQV2drS0kwNUhVN3pYWFRXaVdaQ3h3Y0VQLXdrNlNsUURGVy1YUlB2U1B2RGZmMnF3N3lQLThvTzQtdHRVdE1IVFg1STYyVURyT2RxbDJlR21NZktDdjJGVlliNXI5UUZSbF9Cc0VtTlJWWnpkMHMza21oR2FzeDMzRW5yZXJnMG9jdnZtTkE?oc=5",
-          "ts": 1790599054000
-        },
-        {
-          "title": "Trump Administration Shift Puts This Corner of Biotech Back in Favor",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSExjdkVBQ0w2aHV4RW42UXpTMEhGc3hJUlhKV1I1akVDRm5PZENCcUZ2aUIydUV0cEd0Ml9DZEtJS0pxVURiTG9Vcl9RV0NpNC1jWkhCS3IxekM5UGF0VHdoa0VMcXBKQzVRbTZTOW5aUXVMa0FTQmtscXRCNzZmY0lITU5YUlBEaTA0T0FWZ3hqd0RqTlMwTVdvWmx5dGdHREZxazA0OWZtNlh1Z1VuNg?oc=5",
-          "ts": 1789542000000
-        },
-        {
-          "title": "ASX biotech expands diagnostics portfolio after FDA approval",
-          "source": "Morningstar Australia",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEpEZU4td2gwNnIyZW5zNWpfRGFiMjh1VGNGTTZMMWJIcjNzNUlRNG9ETUJsYVNmaXZWelRBaURSNDdORmo5emVtSzNYd0hrTTU5Q1IxYVFTU0hxTU1OX3BfSWt0dHAzbmNtc0xlMDdpajBaNnRoMVVQV3NSWmRjNlpydFQwNTNOTlA0OEtqV1hLcUJleWQ2ZVdCdWczYWM?oc=5",
-          "ts": 1789542000000
-        },
-        {
-          "title": "Biotech filed for bankruptcy 11 weeks before its big FDA decision",
-          "source": "thestreet.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2xWaDBQQTB0dk9zdGpMb0txTzFKMDMwcUFRSnFBRkc1bmU3MHZlLXhYQktHdlFfRlBydURqOWJ5aTFzZWNxQzc1a0s1SUlYdGI5YS15aUx0dG5aOFBxUzhfZEdXOGpPcVZJOThBNHlhUWF5OFAyWjlBLUdqc3FMMFQxTFV6ZXFhMUdBakdlUmtzNzM1c1lpN3puMVNtQVJMZm9r?oc=5",
-          "ts": 1788850800000
-        }
-      ]
+      "items": []
     }
   ]
 }

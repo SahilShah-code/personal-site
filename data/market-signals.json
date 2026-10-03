@@ -1,165 +1,41 @@
 {
-  "updated": "2026-10-03T15:19:13.920Z",
-  "withNews": [
+  "updated": "2026-10-03T20:18:34.419Z",
+  "withNews": [],
+  "moversOnly": [
     {
-      "question": "Will Bitcoin reach $88,000 September 28-October 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-28-october-4-2026",
-      "yes": 4,
-      "change24h": -7,
-      "vol24h": 102090,
-      "headlines": [
-        {
-          "title": "Does S&P Stand for SPooky During October?",
-          "source": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGJVNmY3VElOeG9lVjFsVF9wWktpWDNZOGpJa09UR3VtaERmMVkzX3JWN3gzQ2NpcGhkVlVnY25CTDVwWmxEdlA3RWtJTnhJR0xXcmlobWRzTVd1a3NJbHQ4bFE1aDFZeXVCMmMxakJNaTJwYkdTQ0tNeHdBaXFMT1R0TG14MG5vU2N0NA?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "History Says the Midterm Elections Make October & November a Great Time to Buy Stocks",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnlGVEVJc1FPZl9ZVTZTVkhpeUtFUmZObkhGel85R3c4X2dScGVYZ253OG90ODZoNWRWUjZsb2JKdXUwbE95Tk4wbU9Uc2lKTEZyYS1ta3BxQXpSX1ZEdm92aXE2ZmM4aFJ5SVQ0NEl1emI5ZU04aXROWV9aWURRV0c0andVWXdLMl83Y3FoS19zZnM5RngtbnpaVG4tVm41Q29MNGVn?oc=5",
-          "cat": "Markets"
-        }
-      ]
+      "question": "Will another city host the final of the 2030 FIFA World Cup?",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
+      "yes": 45,
+      "change24h": 7,
+      "vol24h": 36997,
+      "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $95,000 in October?",
+      "question": "Will Ethereum dip to $2,100 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95k-in-october-2026",
-      "yes": 22,
-      "change24h": -7,
-      "vol24h": 16331,
-      "headlines": [
-        {
-          "title": "Does S&P Stand for SPooky During October?",
-          "source": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGJVNmY3VElOeG9lVjFsVF9wWktpWDNZOGpJa09UR3VtaERmMVkzX3JWN3gzQ2NpcGhkVlVnY25CTDVwWmxEdlA3RWtJTnhJR0xXcmlobWRzTVd1a3NJbHQ4bFE1aDFZeXVCMmMxakJNaTJwYkdTQ0tNeHdBaXFMT1R0TG14MG5vU2N0NA?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "History Says the Midterm Elections Make October & November a Great Time to Buy Stocks",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnlGVEVJc1FPZl9ZVTZTVkhpeUtFUmZObkhGel85R3c4X2dScGVYZ253OG90ODZoNWRWUjZsb2JKdXUwbE95Tk4wbU9Uc2lKTEZyYS1ta3BxQXpSX1ZEdm92aXE2ZmM4aFJ5SVQ0NEl1emI5ZU04aXROWV9aWURRV0c0andVWXdLMl83Y3FoS19zZnM5RngtbnpaVG4tVm41Q29MNGVn?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 73,
-      "change24h": -6,
-      "vol24h": 45255,
-      "headlines": [
-        {
-          "title": "Does S&P Stand for SPooky During October?",
-          "source": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGJVNmY3VElOeG9lVjFsVF9wWktpWDNZOGpJa09UR3VtaERmMVkzX3JWN3gzQ2NpcGhkVlVnY25CTDVwWmxEdlA3RWtJTnhJR0xXcmlobWRzTVd1a3NJbHQ4bFE1aDFZeXVCMmMxakJNaTJwYkdTQ0tNeHdBaXFMT1R0TG14MG5vU2N0NA?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "History Says the Midterm Elections Make October & November a Great Time to Buy Stocks",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnlGVEVJc1FPZl9ZVTZTVkhpeUtFUmZObkhGel85R3c4X2dScGVYZ253OG90ODZoNWRWUjZsb2JKdXUwbE95Tk4wbU9Uc2lKTEZyYS1ta3BxQXpSX1ZEdm92aXE2ZmM4aFJ5SVQ0NEl1emI5ZU04aXROWV9aWURRV0c0andVWXdLMl83Y3FoS19zZnM5RngtbnpaVG4tVm41Q29MNGVn?oc=5",
-          "cat": "Markets"
-        }
-      ]
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2100-in-october-2026",
+      "yes": 14,
+      "change24h": 4,
+      "vol24h": 181948,
+      "headlines": []
     },
     {
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 24,
-      "change24h": -3,
-      "vol24h": 67192,
-      "headlines": [
-        {
-          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Another Fed Official Suggests Next Rate Increase Can Wait",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZnd1ZqTlhvYkRrdnA5dGxLSkU0LWozZzBWSFZFOVlMeU8tZ1FkdkdDYWY4Zk9UaGNaY3FERkNJQlhtZUlibnRNcHB6MXpGSHplSXBCLVRhOTBxdnY4MWVnaDkyY1ItZFJfcDVfZXpaZTJENGJmeW91d1B4WTF2RzBGN1NXVFVPWWFHNHE4MmxMRk1FNXBHbFpSU084TTZBZ2VSTmRLaDBXSTNu?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 74,
-      "change24h": 3,
-      "vol24h": 30288,
-      "headlines": [
-        {
-          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Another Fed Official Suggests Next Rate Increase Can Wait",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZnd1ZqTlhvYkRrdnA5dGxLSkU0LWozZzBWSFZFOVlMeU8tZ1FkdkdDYWY4Zk9UaGNaY3FERkNJQlhtZUlibnRNcHB6MXpGSHplSXBCLVRhOTBxdnY4MWVnaDkyY1ItZFJfcDVfZXpaZTJENGJmeW91d1B4WTF2RzBGN1NXVFVPWWFHNHE4MmxMRk1FNXBHbFpSU084TTZBZ2VSTmRLaDBXSTNu?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 28,
-      "change24h": 2,
-      "vol24h": 14323,
-      "headlines": [
-        {
-          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Another Fed Official Suggests Next Rate Increase Can Wait",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTZnd1ZqTlhvYkRrdnA5dGxLSkU0LWozZzBWSFZFOVlMeU8tZ1FkdkdDYWY4Zk9UaGNaY3FERkNJQlhtZUlibnRNcHB6MXpGSHplSXBCLVRhOTBxdnY4MWVnaDkyY1ItZFJfcDVfZXpaZTJENGJmeW91d1B4WTF2RzBGN1NXVFVPWWFHNHE4MmxMRk1FNXBHbFpSU084TTZBZ2VSTmRLaDBXSTNu?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    }
-  ],
-  "moversOnly": [
-    {
-      "question": "Will another city host the final of the 2030 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
-      "yes": 51,
-      "change24h": 13,
-      "vol24h": 23667,
+      "change24h": 4,
+      "vol24h": 23773,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "question": "Will Bitcoin reach $87,500 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "yes": 13,
-      "change24h": 6,
-      "vol24h": 35385,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $4,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-4000-by-december-31-2026",
-      "yes": 14,
-      "change24h": -4,
-      "vol24h": 21225,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 73,
+      "change24h": 4,
+      "vol24h": 18386,
       "headlines": []
     }
   ]
