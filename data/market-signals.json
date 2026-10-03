@@ -1,29 +1,13 @@
 {
-  "updated": "2026-10-03T02:37:37.443Z",
+  "updated": "2026-10-03T10:44:28.904Z",
   "withNews": [
-    {
-      "question": "Will the price of Ethereum be above $2,700 on October 4?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2700-on-october-4-2026",
-      "yes": 28,
-      "change24h": -32,
-      "vol24h": 12155,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will Ethereum reach $2,800 September 28-October 4?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2800-september-28-october-4-2026",
-      "yes": 6,
-      "change24h": -30,
-      "vol24h": 40233,
+      "yes": 3,
+      "change24h": -38,
+      "vol24h": 41411,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -34,12 +18,28 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $86,000 on October 4?",
+      "question": "Will Bitcoin reach $88,000 September 28-October 4?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-86k-on-october-4-2026",
-      "yes": 7,
-      "change24h": -26,
-      "vol24h": 15859,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-september-28-october-4-2026",
+      "yes": 2,
+      "change24h": -35,
+      "vol24h": 125163,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $88,000 on October 5?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-88k-on-october-5-2026",
+      "yes": 2,
+      "change24h": -20,
+      "vol24h": 14522,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -53,14 +53,14 @@
       "question": "Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-hikepausehike-in-the-next-three-decisions-sepoctdec",
-      "yes": 68,
-      "change24h": 14,
-      "vol24h": 11605,
+      "yes": 66,
+      "change24h": 13,
+      "vol24h": 12821,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
           "cat": "Macro"
         },
         {
@@ -77,12 +77,12 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 83,
       "change24h": 8,
-      "vol24h": 965462,
+      "vol24h": 954203,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
           "cat": "Macro"
         },
         {
@@ -99,12 +99,12 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 18,
       "change24h": -7,
-      "vol24h": 484848,
+      "vol24h": 452448,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
           "cat": "Macro"
         },
         {
@@ -114,6 +114,22 @@
           "cat": "Macro"
         }
       ]
+    },
+    {
+      "question": "Japan Open Tennis Championships: Ugo Humbert vs Jiri Lehecka",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-humbert-lehecka-2026-10-02",
+      "yes": 37,
+      "change24h": -1,
+      "vol24h": 170539,
+      "headlines": [
+        {
+          "title": "“IF YOU SAY IT NICELY, I WILL SIGN FOR YOU” Tennis superstar Alex Eala reminds fans to have proper etiquette when asking for autographs. Full story link in the comments section.",
+          "source": "facebook.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnFPTkhoUjZIY3lTRURVaEo2aVRUeExRU2tiWktmNHZTVHM2MWYxOEZSUEVIZU84ck1HaEdXMm5FVHZycEVXSm5NR2J2ZWdMVE9zVkdoMDByOElZa0dEQ0VzTXpPSU1yQmd0bTVKMEo0NFdfYnJKXzVWSEdQdWZqMFZBM1FBamlMOW5BLUVPeDcxdWdQVm1OZXFIdW5KOTEyMEsybHJHS0pyYjFLdFJXblJzQ2VqZ1AzVk1HOGM5RGRtbWtOT1QyME9KYlNvOGxzWDJtbmx6WQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
     }
   ],
   "moversOnly": [
@@ -121,18 +137,72 @@
       "question": "Will another city host the final of the 2030 FIFA World Cup?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
-      "yes": 47,
-      "change24h": 8,
-      "vol24h": 20225,
+      "yes": 51,
+      "change24h": 12,
+      "vol24h": 23375,
       "headlines": []
     },
     {
-      "question": "Japan Open Tennis Championships: Denis Shapovalov vs Alejandro Tabilo",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-shapova-tabilo-2026-10-02",
-      "yes": 54,
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 38,
+      "change24h": -7,
+      "vol24h": 31605,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 71,
+      "change24h": -7,
+      "vol24h": 20429,
+      "headlines": []
+    },
+    {
+      "question": "Will Golden State Valkyries win the 2026 WNBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-valkyries-win-the-2026-wnba-finals-945",
+      "yes": 22,
+      "change24h": 6,
+      "vol24h": 10168,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 51,
+      "change24h": -5,
+      "vol24h": 24129,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
+      "yes": 33,
+      "change24h": -5,
+      "vol24h": 10885,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $4,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-4000-by-december-31-2026",
+      "yes": 14,
       "change24h": -4,
-      "vol24h": 71132,
+      "vol24h": 31172,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $110,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-110000-by-december-31-2026-658-339-969",
+      "yes": 17,
+      "change24h": -4,
+      "vol24h": 10060,
       "headlines": []
     }
   ]
