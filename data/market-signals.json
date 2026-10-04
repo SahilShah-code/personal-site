@@ -1,41 +1,186 @@
 {
-  "updated": "2026-10-03T20:18:34.419Z",
-  "withNews": [],
-  "moversOnly": [
+  "updated": "2026-10-04T03:09:17.620Z",
+  "withNews": [
     {
-      "question": "Will another city host the final of the 2030 FIFA World Cup?",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
-      "yes": 45,
-      "change24h": 7,
-      "vol24h": 36997,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,100 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2100-in-october-2026",
-      "yes": 14,
-      "change24h": 4,
-      "vol24h": 181948,
-      "headlines": []
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 24,
-      "change24h": 4,
-      "vol24h": 23773,
-      "headlines": []
+      "question": "Japan Open Tennis Championships: Jaume Munar vs Kyrian Jacquet",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-munar-jacquet-2026-10-03",
+      "yes": 86,
+      "change24h": 27,
+      "vol24h": 102105,
+      "headlines": [
+        {
+          "title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
+          "cat": "Tennis"
+        }
+      ]
     },
     {
       "question": "Will Bitcoin reach $87,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
       "yes": 73,
+      "change24h": 2,
+      "vol24h": 10786,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $88,000 on October 6?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-88k-on-october-6-2026",
+      "yes": 6,
+      "change24h": 2,
+      "vol24h": 10517,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-october-2026",
+      "yes": 3,
+      "change24h": -1,
+      "vol24h": 30557,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Japan Open Tennis Championships: Completed Match: Jaume Munar vs Kyrian Jacquet",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-munar-jacquet-2026-10-03-completed-match",
+      "yes": 55,
+      "change24h": 1,
+      "vol24h": 14090,
+      "headlines": [
+        {
+          "title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Japan Open Tennis Championships: Completed Match: Jaume Munar vs Kyrian Jacquet",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-munar-jacquet-2026-10-03-completed-match",
+      "yes": 55,
+      "change24h": 1,
+      "vol24h": 12880,
+      "headlines": [
+        {
+          "title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 24,
+      "change24h": 1,
+      "vol24h": 12075,
+      "headlines": [
+        {
+          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 256224,
+      "headlines": [
+        {
+          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 93087,
+      "headlines": [
+        {
+          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "yes": 13,
       "change24h": 4,
-      "vol24h": 18386,
+      "vol24h": 32793,
+      "headlines": []
+    },
+    {
+      "question": "Will inflation reach more than 4.5% in 2026?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026",
+      "yes": 13,
+      "change24h": -4,
+      "vol24h": 10653,
       "headlines": []
     }
   ]
