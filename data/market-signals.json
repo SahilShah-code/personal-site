@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-04T03:09:17.620Z",
+  "updated": "2026-10-04T11:26:04.587Z",
   "withNews": [
-    {
-      "question": "Japan Open Tennis Championships: Jaume Munar vs Kyrian Jacquet",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-munar-jacquet-2026-10-03",
-      "yes": 86,
-      "change24h": 27,
-      "vol24h": 102105,
-      "headlines": [
-        {
-          "title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin reach $87,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 73,
-      "change24h": 2,
-      "vol24h": 10786,
+      "yes": 76,
+      "change24h": 5,
+      "vol24h": 11726,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
+      "yes": 54,
+      "change24h": 4,
+      "vol24h": 11370,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -37,9 +37,9 @@
       "question": "Will the price of Bitcoin be above $88,000 on October 6?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-88k-on-october-6-2026",
-      "yes": 6,
-      "change24h": 2,
-      "vol24h": 10517,
+      "yes": 8,
+      "change24h": 4,
+      "vol24h": 11252,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -50,60 +50,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-october-2026",
-      "yes": 3,
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 17,
       "change24h": -1,
-      "vol24h": 30557,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Japan Open Tennis Championships: Completed Match: Jaume Munar vs Kyrian Jacquet",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-munar-jacquet-2026-10-03-completed-match",
-      "yes": 55,
-      "change24h": 1,
-      "vol24h": 14090,
-      "headlines": [
-        {
-          "title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Japan Open Tennis Championships: Completed Match: Jaume Munar vs Kyrian Jacquet",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-munar-jacquet-2026-10-03-completed-match",
-      "yes": 55,
-      "change24h": 1,
-      "vol24h": 12880,
-      "headlines": [
-        {
-          "title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 24,
-      "change24h": 1,
-      "vol24h": 12075,
+      "vol24h": 47887,
       "headlines": [
         {
           "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
@@ -112,31 +64,9 @@
           "cat": "Macro"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 256224,
-      "headlines": [
-        {
-          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
           "cat": "Macro"
         }
       ]
@@ -147,7 +77,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 93087,
+      "vol24h": 294957,
       "headlines": [
         {
           "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
@@ -156,22 +86,60 @@
           "cat": "Macro"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 257536,
+      "headlines": [
+        {
+          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
+          "source": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed expected to raise interest rates again, against Trump’s wishes",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDV6MU83ak9wclpwNUJZOGVoSmo5SC10LURNOV9tMTlvTng0SkRRQzVpb2ZSc2ViQ1V4QkUyYS0tQUZ1T2tOdDJiRl93SVFfQlY0dXJLUFZYV3BhNElRMmtpSVZEQU5rNzdXczZLdF9VdU51eTkxOFphOG1HSnd3emoxR3FVdHdDX1pRVHJ6dzVrU1dZMmZUaFJtSVZwS0N5VnJfN1lFTjZxd1JMRUpjSzk1VGl0d3I5V01KZ2pwS1Q3TERiVUtvVWZSYzVQd3BXYlVR?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 10971,
+      "headlines": [
+        {
+          "title": "\"He checks his ego at the door\" - Draymond Green compares Wembanyama's leadership to Stephen Curry",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnhTTFB6OGFkUURmOEY1VnBNUUU3WW9tdTlHSmVkYkF3b0J1ZFhtb2RLLThjSVU0NkNGbGlYajlvbUN0cEhmSU1Ud1VkVjZWWWdUMV9SbGV6UEdURkVxdVRGcS1DRWFhNVBKY0FyYlZWakM0aTlza2g1c0pQMU1iWFdmb2ktTE5FVnFxYWhMSmRwRW5SVS1fVDdhN0Q5bmJsY256bVVYT3k3eWE1Z1E?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "question": "Will inflation reach more than 4.5% in 2026?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-inflation-reach-more-than-4pt5-in-2026",
       "yes": 13,
-      "change24h": 4,
-      "vol24h": 32793,
+      "change24h": -4,
+      "vol24h": 10653,
       "headlines": []
     },
     {
