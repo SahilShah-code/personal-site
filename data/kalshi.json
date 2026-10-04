@@ -1,18 +1,34 @@
 {
-  "updated": "2026-10-04 17:51 UTC",
-  "net_return_pct": -8.2,
-  "realized_return_pct": -8.2,
+  "updated": "2026-10-04 20:53 UTC",
+  "net_return_pct": -53.6,
+  "realized_return_pct": -53.6,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 33.3,
-  "settled_total": 3,
+  "win_rate_pct": 20,
+  "settled_total": 5,
   "curve": [
     0,
     -100,
     -100,
-    -8.2
+    -8.2,
+    -44.5,
+    -53.6
   ],
   "active": [],
   "settled": [
+    {
+      "title": "yes Houston,yes Philadelphia,yes Chicago",
+      "ticker": "KXMVECROSSCATEGORY0-S2026395CB64A82B-B28C0F6CE36",
+      "result": "no",
+      "date": "2026-10-04",
+      "return_pct": -100
+    },
+    {
+      "title": "Cincinnati wins",
+      "ticker": "KXNFLGAME-26OCT04JACCIN-CIN",
+      "result": "no",
+      "date": "2026-10-04",
+      "return_pct": -100
+    },
     {
       "title": "Pittsburgh wins",
       "ticker": "KXNFLGAME-26OCT01PITCLE-PIT",
