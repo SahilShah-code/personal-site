@@ -1,66 +1,82 @@
 {
-  "updated": "2026-10-05T12:51:34.460Z",
+  "updated": "2026-10-05T23:25:08.268Z",
   "withNews": [
+    {
+      "question": "Cricket World Cup League 2: USA vs UAE",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-usa-are-2026-10-05",
+      "yes": 99,
+      "change24h": 31,
+      "vol24h": 34937,
+      "headlines": [
+        {
+          "title": "Jesse Marsch Takes Dig at USA Before USMNT vs. Canada Game",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmJ3cnRwc285QlhWVV84Tk1Bb0hWUGw5OUd3azl3aHNnT0lMX3RVbjQyMWJYUDc3c29MWGRKOG5aQkVZMmQwM1ZpVDdNU3Q3ZGVfZTV2NVNyZGdxRVFTdDNqb3lpSTZVUkQ5eHR4bTYyUTc2c0NqSkhieU1MMXF1ag?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 81,
+      "change24h": -10,
+      "vol24h": 52507,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $90,000 on October 7?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-90k-on-october-7-2026",
+      "yes": 3,
+      "change24h": -9,
+      "vol24h": 13835,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "rttnews.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin reach $90,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
-      "yes": 63,
-      "change24h": 9,
-      "vol24h": 14401,
+      "yes": 60,
+      "change24h": -8,
+      "vol24h": 17417,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
+          "source": "rttnews.com",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $82,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-october-2026",
-      "yes": 64,
-      "change24h": -7,
-      "vol24h": 29490,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026",
-      "yes": 43,
-      "change24h": -7,
-      "vol24h": 20284,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 77,
-      "change24h": 4,
-      "vol24h": 31270,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 80,
+      "change24h": -3,
+      "vol24h": 343732,
       "headlines": [
         {
-          "title": "Kevin Warsh’s Fed has a rent problem: Higher rates could fuel a ‘doom loop’ in housing, top economist warns",
-          "source": "fortune.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXY5alBmU2F2UHhTS2tRN3hNZl9uOHRUTEZRdTBmTzR0RlhFZDQ3c0ZFWDRqYUhialBJeEhLbmFJQ2ZMaU5MdGtvR0RmcE1YRFdVa3QyRUtFUmpHUmZJbmtWbkZpNlFhZ1FpbjRUYW9pSzdLTjlGY254NUp5Y3lyZ3V4NnZ5aHhLYkd5b1lPc0Nfdw?oc=5",
+          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -72,17 +88,17 @@
       ]
     },
     {
-      "question": "Will 1 Fed rate hike happen in 2026?",
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 26,
-      "change24h": -2,
-      "vol24h": 8010,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 20,
+      "change24h": 3,
+      "vol24h": 300094,
       "headlines": [
         {
-          "title": "Kevin Warsh’s Fed has a rent problem: Higher rates could fuel a ‘doom loop’ in housing, top economist warns",
-          "source": "fortune.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXY5alBmU2F2UHhTS2tRN3hNZl9uOHRUTEZRdTBmTzR0RlhFZDQ3c0ZFWDRqYUhialBJeEhLbmFJQ2ZMaU5MdGtvR0RmcE1YRFdVa3QyRUtFUmpHUmZJbmtWbkZpNlFhZ1FpbjRUYW9pSzdLTjlGY254NUp5Y3lyZ3V4NnZ5aHhLYkd5b1lPc0Nfdw?oc=5",
+          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -94,17 +110,17 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "yes": 3,
-      "change24h": 1,
-      "vol24h": 9437,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 75,
+      "change24h": 3,
+      "vol24h": 19234,
       "headlines": [
         {
-          "title": "Kevin Warsh’s Fed has a rent problem: Higher rates could fuel a ‘doom loop’ in housing, top economist warns",
-          "source": "fortune.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXY5alBmU2F2UHhTS2tRN3hNZl9uOHRUTEZRdTBmTzR0RlhFZDQ3c0ZFWDRqYUhialBJeEhLbmFJQ2ZMaU5MdGtvR0RmcE1YRFdVa3QyRUtFUmpHUmZJbmtWbkZpNlFhZ1FpbjRUYW9pSzdLTjlGY254NUp5Y3lyZ3V4NnZ5aHhLYkd5b1lPc0Nfdw?oc=5",
+          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -116,65 +132,61 @@
       ]
     },
     {
-      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
-      "yes": 0,
+      "question": "Japan Open Tennis Championships: Carlos Alcaraz vs Jiri Lehecka",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-alcaraz-lehecka-2026-10-06",
+      "yes": 78,
       "change24h": 0,
-      "vol24h": 149379,
+      "vol24h": 64218,
       "headlines": [
         {
-          "title": "The novelty might be wearing off for the NFL in London. A dire game between the Colts and Commanders didn’t help",
-          "source": "CNN",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tWk9GRHBUVEJWZXFtelo5elJqWjJMc1UyZ09hQW0zYWtHYUt2WmRrbWcweTVjUVVrODBXRVlqdUdOQTkwWmZxN2FhcDRzbkhmWXZyejVKT1JzZ0tlYi1VSHZDR3drX1ct?oc=5",
+          "title": "The Samsun Open WTA 125 Tennis Tournament, featuring Bianca Andreescu, has begun",
+          "source": "Fanatik",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnVBYmFKNXFhanpWaHdUOXlreHZuS2RjR2ZzOXEtQzVid3VkcXk4OVNjbmM2RlFQWkVjZHFXS0pWYldOZTQyNzFNRnZ1WWdMbmRtRmNscmZLWWU1elpDN2Vqa2lsMFNZODUzbk9uNndPSUpJekdGZ09uOV9BcU5lR2VrRGs5OHdZYmRRQWFnWUJfMHhVTnVuejE2djVnWVZ1bGpBRm9VZGFDOTBDUjRnZkFpcDVnZWM?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "This Week in Tennis: Top-Ranked Rybakina Ousted in Beijing, Withdraws from Wuhan",
+          "source": "National Bank Open",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFZqUFNQU3FfM2g5bGZTdTJsaHNST2trZE1aRGtISkJwMkQxbl9vMHU0Ul9iYmNadndPbC1fVm53VXFYTlRia0wxeS0xTjRncEhIM0ZxWXBRclRiVWt0bDdxVFVGUmpfeHM1T0stMHMtN0Vhc3FaUHh6V3FlMW16N2RpMVFBVVdiVVZ0dzRqcDFGd3hkd0w0LVlZdDVjSjJpdkNISnViRHcyMFpzaHlNdmxxX3Z3TFYtc0xVOUJlVQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Atlanta Falcons win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 9046,
+      "headlines": [
+        {
+          "title": "Falcons vs. Saints score, live updates: NFL ‘Monday Night Football’ score, tv channel, odds and latest",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW1UNGVkZzJScXhJbUY5bXc3eVRfSG5nM2tqb0ZnS2VGLW1XWm9QY1dOak1vOE9QR0d0Q3VBVmVEakNPUFlYN0NDM1RhTjNrSlNxQVJxRTZ2cWdTakFQc25HMmNJb2JaUE1VRXNTdU82VG5FSkFLNUZKby03dUxfdnBDbURZVHNiOUVHNkxaTXZ1RTFHSmZEc0pFbDhSa2R4TjlTYVlOcmhvbzZvMWc?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Monday Night Football live updates: Saints vs Falcons stream, how to watch NFL game tonight",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTFDR3otakxGTUw0MENwc0lBVkVGZ0VRRzYzT0cyTC1zaUFjYlcxZXVTSkI1d0pGTkpJaW9BcHIySTllUmN4aVd0engwN0JvRzdHYXFUUFpvaHZORnFwYmxPbS1mQ2xBNkdSTHEtalFTSzVRcGxvY0JndlZFWFFpQThDT2FMbDZCY3JTRFhpN3R5MzN2a21TQmFtNEZ2cFNqcFl6d0dJQzZlTmNRaHJSNWRuNjU2Vjh5SnFXUmJNeHJYeWM?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will New York Knicks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
-      "yes": 13,
-      "change24h": 0,
-      "vol24h": 58888,
-      "headlines": [
-        {
-          "title": "Karl-Anthony Towns, Josh Hart & One More Knicks Star's Future Hangs in Balance as Insider Provides Grim Update",
-          "source": "basketballnews.com",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTTJaeWFydk9XYXE3YXE0ODBJQWhrMHVRaGlIckZUNFVWaDN1bGJFM3BELWpMNFRSWS1PNnE0TEE0WlZnMXBTaThXNXdmZy1iMk5CZ0V1TlBjUGg4Qmgxb3dGT0k0ZFpKZkczRnR5T0JYcWx5NDFqMFhRN183Q3pBa241OGxOR3Z6dUlGek1KRDc4S21vODZoM1pXN1A4RFpZNTBkRW5PVmwtaEZVbGNKQnBta18ydm9ZbjZLVktNS0xidDlHM3lYMUdhd3YydWFPSVRpekExcHk3NDloTS02aXg3bE1fdEp6LU9fSTFpUEhfSW9GQ0E5RDRySUM3b242T0puYw?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 0,
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 14215,
+      "vol24h": 8267,
       "headlines": [
         {
-          "title": "Mike McDaniel tried to change Justin Herbert, and now the Chargers are 0-4",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTzNvdTNZVHEtaWFNUkhPVWx1Zng0dVFjczFJdWZUQUlUdFhVWDN0YlRSTTFUeG9PU0ctLUwyQVQzcjV6WFVqOTBkRGN1QlloVGlwZEZqcVhDc3k4eElzOThIYjJvcXVwSmJnaEt3WEQxcjl6OFpvV1dNUmJQMGU5cmxIcHlrX1hfazlsYVFJbHRBYlhrS09LM1NoOUJTUWhk?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
-      "yes": 9,
-      "change24h": 0,
-      "vol24h": 10085,
-      "headlines": [
-        {
-          "title": "The Chiefs deserved to celebrate their big Week 4 win, but this one still hurt",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0xtc1U1c2lVMUUxN0xXMW9Gd25JLVoyUm93RExuWlhWSjNUbnhCWFJSbTR0X01iVlpleGRnQ0g0dUNLSDJPZWdjN2E4WElyN1I4b1NIYk15UjVaclB0NHFHQTM3aHhWSXd1b1cxR3VXV0hvalR5TzQ3UEEwdmRYRVd1WjdncUlWREdTRGxJS0FTOF83?oc=5",
+          "title": "Look familiar? Cowboys' offense is carrying the team as defense battles deficiencies",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFREVE42UnFjbEg4c0NRekdOcExxeEVHeW1COWlVRmNRb3RBZlJPSWJ5TENoVVpqX0poOS0tOUpqRlRRWWVRYm8zUXk1MGVlZGY5c0tfZEFwUmQtbHZHY0F5ZEtyTkRQT2dkUVlncnFzaXQ2WHRSZGtkaW1PQ0V6QnUxZFRVNVlGRnpRZkZQRFRYa2ZwUEFzNW0tMk5wYmYwOGZ3SjY4eVJpRWMtLWZaMnkxTQ?oc=5",
           "cat": "NFL"
         }
       ]
@@ -182,21 +194,21 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 23,
-      "change24h": -15,
-      "vol24h": 267421,
+      "question": "SC RASTA Vechta vs. Basketball Loewen Braunschweig",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/bkbbl-sc-loe-2026-10-05",
+      "yes": 0,
+      "change24h": -67,
+      "vol24h": 14054,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 24,
-      "change24h": -5,
-      "vol24h": 43315,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 78,
+      "change24h": -4,
+      "vol24h": 7876,
       "headlines": []
     }
   ]
