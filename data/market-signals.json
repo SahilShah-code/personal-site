@@ -1,35 +1,25 @@
 {
-  "updated": "2026-10-04T20:34:27.697Z",
+  "updated": "2026-10-05T02:42:50.148Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $87,500 in October?",
+      "question": "Will Bitcoin dip to $82,500 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 79,
-      "change24h": 7,
-      "vol24h": 17765,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-october-2026",
+      "yes": 61,
+      "change24h": -15,
+      "vol24h": 25345,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
-      "yes": 56,
-      "change24h": 4,
-      "vol24h": 13864,
-      "headlines": [
+          "title": "US Stock Market prediction for Monday, October 5: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye positive trading today, top stocks to watch out",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONTlSRHhweVBiRDNJQm9iMkhJZUtmRXBXWTVwcVF0aVZ5SEp0TThqWEw0OVhxVlY2NEp6QXl3YnYyZU42U2JaSjd2T3huQlhmMGxFdi14dk9OMmxGdTNNUnFKdklsUW1QMktoU2dnb21qY0NRVWdBRjJtU3BfZ3pTSWEzR3loNzYxLWtiT09YbU5HRHVJdEx0Y0JPZHYxYUs2TTc5OF8xeGlCR19XTndzNVQ2a1ZhMkYyUUJzV0JiUDVLb0FDSF9LZEdIdGdvdS1GbkdpaHNsRFA4TUNBZ25tYm9FTWdfdU1xcVRrUHRKQ3JPd0pKM0RvallrYjRKU25wVmpXbHQ0d0w1ZmdyM2t0QllneFZoMGtESTZJaTRiQUV6YlFmNDJVOWVycUtMNlZXSU9LNXU1MVdTTk1fNjJ5Zm91UQ?oc=5",
+          "cat": "Markets"
+        },
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
+          "title": "US Stock Market prediction for Monday, October 5: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye p",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYlFhOTAtX08tS3c1UVVyNENJbEJsZjBucHVOei0wU1ZuVl91bWpBQXRsbWhWaTlIUWRpYW9Wa0JIeng1bkZRVmJPa01KT3RPendqV0lJTVpwQXgwdE15b1FlTXM3czRzQk93UHJyYUotbG13MkRMRm9OaHNNZE8zdnRJcFQyVmZnaVVqUk5wOUVkcGdlME93UHhFb1U5VnQ3ZFhuQThKWG1PODFJQ0JaamxkOHVDRHZXUjhlT1c2d3dhZUl3V2xucGh6ZXo1V2RpV3Yyd0lHM0E1M1hmY1R2Vy1yUTdMUVhKOHpyeGZ5SmJHR3ZkbThGb3ZZZjA4UmMxMUsxUThZb1pLaUdpQkM2Umt0bXlIc29xSDhEbjFid1ZhcURaeUZmQ0t0SFlZd0Q2SFZLQWpncmVOeWtuUGphSGVOaXQtcVNo0gHIAkFVX3lxTFBiUWE5MC1fTy1LdzVRVXI0Q0lsQmxmMG5wdU56LTBTVm5WX3VtakFBdGxtaFZpOUhRZGlhb1ZrQkh6eDVuRlFWYk9rTUpPdE96d2pXSUlNWnBBeDB0TXlvUWVNczdzNHNCT3dQcnJhSi1sbXcyRExGb05oc01kTzN2dElwVDJWZmdpVWpSTnA5RWRwZ2UwT3dQeEVvVTlWdDdkWG5BOEpYbU84MUlDQlpqbGQ4dUNEdldSOGVPVzZ3d2FlSXdXbG5waHplejVXZGlXdjJ3SUczQTUzWGZjVHZXLXJRN0xRWEo4enJ4ZnlKYkdHdmRtOEZvdllmMDhSYzExSzFROFlvWktpR2lCQzZSa3RteUhzb3FIOERuMWJ3VmFxRFp5RmZDS3RIWVl3RDZIVktBamdyZU55a25QamFIZU5pdC1xU2g?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -37,81 +27,173 @@
       "question": "Will Bitcoin reach $92,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-92pt5k-in-october-2026",
-      "yes": 37,
+      "yes": 48,
+      "change24h": 14,
+      "vol24h": 59901,
+      "headlines": [
+        {
+          "title": "US Stock Market prediction for Monday, October 5: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye positive trading today, top stocks to watch out",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONTlSRHhweVBiRDNJQm9iMkhJZUtmRXBXWTVwcVF0aVZ5SEp0TThqWEw0OVhxVlY2NEp6QXl3YnYyZU42U2JaSjd2T3huQlhmMGxFdi14dk9OMmxGdTNNUnFKdklsUW1QMktoU2dnb21qY0NRVWdBRjJtU3BfZ3pTSWEzR3loNzYxLWtiT09YbU5HRHVJdEx0Y0JPZHYxYUs2TTc5OF8xeGlCR19XTndzNVQ2a1ZhMkYyUUJzV0JiUDVLb0FDSF9LZEdIdGdvdS1GbkdpaHNsRFA4TUNBZ25tYm9FTWdfdU1xcVRrUHRKQ3JPd0pKM0RvallrYjRKU25wVmpXbHQ0d0w1ZmdyM2t0QllneFZoMGtESTZJaTRiQUV6YlFmNDJVOWVycUtMNlZXSU9LNXU1MVdTTk1fNjJ5Zm91UQ?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "US Stock Market prediction for Monday, October 5: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye p",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYlFhOTAtX08tS3c1UVVyNENJbEJsZjBucHVOei0wU1ZuVl91bWpBQXRsbWhWaTlIUWRpYW9Wa0JIeng1bkZRVmJPa01KT3RPendqV0lJTVpwQXgwdE15b1FlTXM3czRzQk93UHJyYUotbG13MkRMRm9OaHNNZE8zdnRJcFQyVmZnaVVqUk5wOUVkcGdlME93UHhFb1U5VnQ3ZFhuQThKWG1PODFJQ0JaamxkOHVDRHZXUjhlT1c2d3dhZUl3V2xucGh6ZXo1V2RpV3Yyd0lHM0E1M1hmY1R2Vy1yUTdMUVhKOHpyeGZ5SmJHR3ZkbThGb3ZZZjA4UmMxMUsxUThZb1pLaUdpQkM2Umt0bXlIc29xSDhEbjFid1ZhcURaeUZmQ0t0SFlZd0Q2SFZLQWpncmVOeWtuUGphSGVOaXQtcVNo0gHIAkFVX3lxTFBiUWE5MC1fTy1LdzVRVXI0Q0lsQmxmMG5wdU56LTBTVm5WX3VtakFBdGxtaFZpOUhRZGlhb1ZrQkh6eDVuRlFWYk9rTUpPdE96d2pXSUlNWnBBeDB0TXlvUWVNczdzNHNCT3dQcnJhSi1sbXcyRExGb05oc01kTzN2dElwVDJWZmdpVWpSTnA5RWRwZ2UwT3dQeEVvVTlWdDdkWG5BOEpYbU84MUlDQlpqbGQ4dUNEdldSOGVPVzZ3d2FlSXdXbG5waHplejVXZGlXdjJ3SUczQTUzWGZjVHZXLXJRN0xRWEo4enJ4ZnlKYkdHdmRtOEZvdllmMDhSYzExSzFROFlvWktpR2lCQzZSa3RteUhzb3FIOERuMWJ3VmFxRFp5RmZDS3RIWVl3RDZIVktBamdyZU55a25QamFIZU5pdC1xU2g?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 88,
+      "change24h": 14,
+      "vol24h": 24317,
+      "headlines": [
+        {
+          "title": "US Stock Market prediction for Monday, October 5: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye positive trading today, top stocks to watch out",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxONTlSRHhweVBiRDNJQm9iMkhJZUtmRXBXWTVwcVF0aVZ5SEp0TThqWEw0OVhxVlY2NEp6QXl3YnYyZU42U2JaSjd2T3huQlhmMGxFdi14dk9OMmxGdTNNUnFKdklsUW1QMktoU2dnb21qY0NRVWdBRjJtU3BfZ3pTSWEzR3loNzYxLWtiT09YbU5HRHVJdEx0Y0JPZHYxYUs2TTc5OF8xeGlCR19XTndzNVQ2a1ZhMkYyUUJzV0JiUDVLb0FDSF9LZEdIdGdvdS1GbkdpaHNsRFA4TUNBZ25tYm9FTWdfdU1xcVRrUHRKQ3JPd0pKM0RvallrYjRKU25wVmpXbHQ0d0w1ZmdyM2t0QllneFZoMGtESTZJaTRiQUV6YlFmNDJVOWVycUtMNlZXSU9LNXU1MVdTTk1fNjJ5Zm91UQ?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "US Stock Market prediction for Monday, October 5: S&P 500, Nasdaq, Dow Jones, Russell 2000 investors eye p",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQYlFhOTAtX08tS3c1UVVyNENJbEJsZjBucHVOei0wU1ZuVl91bWpBQXRsbWhWaTlIUWRpYW9Wa0JIeng1bkZRVmJPa01KT3RPendqV0lJTVpwQXgwdE15b1FlTXM3czRzQk93UHJyYUotbG13MkRMRm9OaHNNZE8zdnRJcFQyVmZnaVVqUk5wOUVkcGdlME93UHhFb1U5VnQ3ZFhuQThKWG1PODFJQ0JaamxkOHVDRHZXUjhlT1c2d3dhZUl3V2xucGh6ZXo1V2RpV3Yyd0lHM0E1M1hmY1R2Vy1yUTdMUVhKOHpyeGZ5SmJHR3ZkbThGb3ZZZjA4UmMxMUsxUThZb1pLaUdpQkM2Umt0bXlIc29xSDhEbjFid1ZhcURaeUZmQ0t0SFlZd0Q2SFZLQWpncmVOeWtuUGphSGVOaXQtcVNo0gHIAkFVX3lxTFBiUWE5MC1fTy1LdzVRVXI0Q0lsQmxmMG5wdU56LTBTVm5WX3VtakFBdGxtaFZpOUhRZGlhb1ZrQkh6eDVuRlFWYk9rTUpPdE96d2pXSUlNWnBBeDB0TXlvUWVNczdzNHNCT3dQcnJhSi1sbXcyRExGb05oc01kTzN2dElwVDJWZmdpVWpSTnA5RWRwZ2UwT3dQeEVvVTlWdDdkWG5BOEpYbU84MUlDQlpqbGQ4dUNEdldSOGVPVzZ3d2FlSXdXbG5waHplejVXZGlXdjJ3SUczQTUzWGZjVHZXLXJRN0xRWEo4enJ4ZnlKYkdHdmRtOEZvdllmMDhSYzExSzFROFlvWktpR2lCQzZSa3RteUhzb3FIOERuMWJ3VmFxRFp5RmZDS3RIWVl3RDZIVktBamdyZU55a25QamFIZU5pdC1xU2g?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 76,
       "change24h": 3,
-      "vol24h": 28348,
+      "vol24h": 19361,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
+          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
+          "source": "theedgemalaysia.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 17,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "yes": 3,
+      "change24h": 2,
+      "vol24h": 12145,
+      "headlines": [
+        {
+          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
+          "source": "theedgemalaysia.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will 1 Fed rate hike happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 26,
+      "change24h": -2,
+      "vol24h": 8018,
+      "headlines": [
+        {
+          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
+          "source": "theedgemalaysia.com",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
+      "yes": 8,
       "change24h": -1,
-      "vol24h": 13847,
+      "vol24h": 27515,
       "headlines": [
         {
-          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "David Marquez San Roman on a New Approach to Evaluating Soccer Talent",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVBPeVlwSnZwZzlhMVkzU0JHWWRJMGNleUJ2VHhLYXBaZTZrR0MwNXUxTlY2OHJyNzEtekpIYko5bmE4S2FmOGNmSkJaS1JJazJXazFnbEN6R3pCLU9HeXljeXhLWXJBdktLTUx5cnUtT3JXUUdUWGdkTkNrOHZJMlRMLTI0bDZj?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 441563,
+      "question": "Will the Houston Texans win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": -1,
+      "vol24h": 27096,
       "headlines": [
         {
-          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Kevin Sherrington's Cowboys-Texans report card: Coaching, secondary woes, but they're 2-2",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWVOTWN4NWtWdEtTUmRzdmp1MGhreEFiRUFaNVRBVjZMdzNvQXFVTHJuR2QxZmxyRzFCNXUxWWNyMm0zT09BbjhBSlVVRHM1eW1PWDVsMWFFUjNSWk5UdnZEdTE2TVJTTXNQc1ExbWJjVkFTal9RV0FHTThKbXdFUno1N0tEeEZoOUE5Y3JPRk1uTFk?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 297300,
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 14179,
       "headlines": [
         {
-          "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
-          "source": "The Edge Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWFnbVp4aHNab3FEajB4R2Q1ckdHcDlqVmZ6OHJoVElCSXExSjZMaUtfNGExLUx4TldxckJpOGY4OHJUS3BDNGJRY2RwRXMx?oc=5",
-          "cat": "Macro"
-        },
+          "title": "Kevin Sherrington's Cowboys-Texans report card: Coaching, secondary woes, but they're 2-2",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWVOTWN4NWtWdEtTUmRzdmp1MGhreEFiRUFaNVRBVjZMdzNvQXFVTHJuR2QxZmxyRzFCNXUxWWNyMm0zT09BbjhBSlVVRHM1eW1PWDVsMWFFUjNSWk5UdnZEdTE2TVJTTXNQc1ExbWJjVkFTal9RV0FHTThKbXdFUno1N0tEeEZoOUE5Y3JPRk1uTFk?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Japan Open Tennis Championships: Carlos Alcaraz vs Jaume Munar",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-alcaraz-munar-2026-10-05",
+      "yes": 88,
+      "change24h": 0,
+      "vol24h": 50075,
+      "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Carlos Alcaraz vs Denis Shapovalov · Quarterfinal · ATP Tokyo",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXl2NGlrUEVzMWxEX3ZqRVVUcmVoeGRWNE1jTkNObEZFMDhRbTFRQmVQMGlkUG1WbW1nbXFVbFVFajI1SndkSzFWT1FyR3hjZzFjeklycXVoZGRRSnNKdkRxcjQ5UXNoNkpOcmlKZV92dU1WSmVObUN6Y0M5RkM3M2syenB2MHg5YUYzTlNZbVNQWmQ1bVBiRWVNNWlLZUdzOTFoTHhfRFZLTF95b0s5Y2VkNHJMMXlvemVn?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
@@ -121,9 +203,27 @@
       "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 27,
-      "change24h": -11,
-      "vol24h": 87701,
+      "yes": 28,
+      "change24h": -10,
+      "vol24h": 86934,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 57,
+      "change24h": 4,
+      "vol24h": 18345,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 26,
+      "change24h": -4,
+      "vol24h": 15910,
       "headlines": []
     }
   ]
