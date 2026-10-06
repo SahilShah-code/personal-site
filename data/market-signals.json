@@ -1,19 +1,69 @@
 {
-  "updated": "2026-10-06T12:19:28.855Z",
+  "updated": "2026-10-06T21:57:22.398Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $92,000 October 5-11?",
+      "question": "Will Ethereum dip to $2,500 October 5-11?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-92k-october-5-11-2026",
-      "yes": 11,
-      "change24h": -11,
-      "vol24h": 39311,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-october-5-11-2026",
+      "yes": 8,
+      "change24h": -6,
+      "vol24h": 15432,
       "headlines": [
+        {
+          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
+      "yes": 92,
+      "change24h": 6,
+      "vol24h": 14067,
+      "headlines": [
+        {
+          "title": "Declan Rice's England place at risk as Gary Lineker backs youngster after Croatia win",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGlvUXcwMXcyWTE3MHpaaWNMY1lIMXVhWXNXOTFtYVg3ajdzN1dVdVo0cmtfUHRYWE1jRHZrRjRWWnh5VDZRTmt2LXQweE9hdFE4VzR6RWN2LVNJVDQ0VFEzOXNaY0FvSVlGQXNkcXhldGRyTXRpVENPZGtkUnQ4SDdqR1VoYXc?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "England 3 Czech Republic 0: Harry Kane crowns record 125th cap with two goals but what did Tuchel learn?",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpSSEFBVWJBZ2lGak1velZlX2RacXAwYWpGWkdZenZjaWxaLVlkTWZaZlh4UGd6ZWpqcnY2aVdRY0JUb2FoVklSTHl3dmxWUFVaOG5qSnZhR3M2a20yZjIwQjdOV2hYSU5hb3VVRldESHlPSFFhMEZraDN4UFdVd08ydU11cDF6eEQ2bDMwMmhCVFRuN2c?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 17,
+      "change24h": -4,
+      "vol24h": 57114,
+      "headlines": [
+        {
+          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "SF Fed president: AI demand could extend energy shock",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -21,75 +71,21 @@
       "question": "Will Bitcoin dip to $84,000 October 5-11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-84k-october-5-11-2026",
-      "yes": 47,
-      "change24h": -11,
-      "vol24h": 13943,
+      "yes": 61,
+      "change24h": 4,
+      "vol24h": 15781,
       "headlines": [
+        {
+          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $82,000 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-october-5-11-2026",
-      "yes": 20,
-      "change24h": -8,
-      "vol24h": 11497,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 75,
-      "change24h": 3,
-      "vol24h": 19283,
-      "headlines": [
-        {
-          "title": "Fed Effect To Rupee Jitters: Five Triggers Building The Case For An RBI Rate Hike Tomorrow",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbW8tSlFpYzVGQ2s2S2xVNUpjYmxaaG5oR1AxdzlwN1JMMFZTM3djWVNLQno5NTRJUjQ1eE1DdUxhc2VITGFDWmhlUmRWWVVvR1F6bG0xWUVHTkYydGN6eldDREtuYkV5TjVsRkZ3bzFLRkRUUHdYdHRVTDlHbmRKTlpHUWd0d0FVNDlXSFZMOHUtMmV5dmZXcU5hSDc2LXNtbGVUcnlEckV5dGpiLVBjODAzMkxIUGNQWUVCcWlXZWZ2ZDJQU0VGZXUtZGhZd9IB1gFBVV95cUxPSTBldWMyQmNoZ1hpOTNwQm9LQmVnbm9hQnpGY3Nsbk5BOEVaeUc1Nk9obHZGdEhyS2dfNGRRbU9Ob3J4TmpqS05DMXU2dl9fZ3gtcXhES1VSV0RrdEJTYjZjV0hFOVhLZVJocU83b0NrZnRqam5qTld3SnUta3JmT1pCSlNBLTNRRHdaNUI3N0hnY01xUnp6SmxDekwtYS1KMmhQRGNmcFRpSk1KX1lTVC05VlVnSW96Mk9DWUFRMzNYbTNPVFM5NktGRzdDejJIUHBza3F3?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 23,
-      "change24h": -3,
-      "vol24h": 11882,
-      "headlines": [
-        {
-          "title": "Fed Effect To Rupee Jitters: Five Triggers Building The Case For An RBI Rate Hike Tomorrow",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbW8tSlFpYzVGQ2s2S2xVNUpjYmxaaG5oR1AxdzlwN1JMMFZTM3djWVNLQno5NTRJUjQ1eE1DdUxhc2VITGFDWmhlUmRWWVVvR1F6bG0xWUVHTkYydGN6eldDREtuYkV5TjVsRkZ3bzFLRkRUUHdYdHRVTDlHbmRKTlpHUWd0d0FVNDlXSFZMOHUtMmV5dmZXcU5hSDc2LXNtbGVUcnlEckV5dGpiLVBjODAzMkxIUGNQWUVCcWlXZWZ2ZDJQU0VGZXUtZGhZd9IB1gFBVV95cUxPSTBldWMyQmNoZ1hpOTNwQm9LQmVnbm9hQnpGY3Nsbk5BOEVaeUc1Nk9obHZGdEhyS2dfNGRRbU9Ob3J4TmpqS05DMXU2dl9fZ3gtcXhES1VSV0RrdEJTYjZjV0hFOVhLZVJocU83b0NrZnRqam5qTld3SnUta3JmT1pCSlNBLTNRRHdaNUI3N0hnY01xUnp6SmxDekwtYS1KMmhQRGNmcFRpSk1KX1lTVC05VlVnSW96Mk9DWUFRMzNYbTNPVFM5NktGRzdDejJIUHBza3F3?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -97,59 +93,65 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 82,
-      "change24h": -2,
-      "vol24h": 337763,
+      "yes": 83,
+      "change24h": 3,
+      "vol24h": 135347,
       "headlines": [
         {
-          "title": "Fed Effect To Rupee Jitters: Five Triggers Building The Case For An RBI Rate Hike Tomorrow",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbW8tSlFpYzVGQ2s2S2xVNUpjYmxaaG5oR1AxdzlwN1JMMFZTM3djWVNLQno5NTRJUjQ1eE1DdUxhc2VITGFDWmhlUmRWWVVvR1F6bG0xWUVHTkYydGN6eldDREtuYkV5TjVsRkZ3bzFLRkRUUHdYdHRVTDlHbmRKTlpHUWd0d0FVNDlXSFZMOHUtMmV5dmZXcU5hSDc2LXNtbGVUcnlEckV5dGpiLVBjODAzMkxIUGNQWUVCcWlXZWZ2ZDJQU0VGZXUtZGhZd9IB1gFBVV95cUxPSTBldWMyQmNoZ1hpOTNwQm9LQmVnbm9hQnpGY3Nsbk5BOEVaeUc1Nk9obHZGdEhyS2dfNGRRbU9Ob3J4TmpqS05DMXU2dl9fZ3gtcXhES1VSV0RrdEJTYjZjV0hFOVhLZVJocU83b0NrZnRqam5qTld3SnUta3JmT1pCSlNBLTNRRHdaNUI3N0hnY01xUnp6SmxDekwtYS1KMmhQRGNmcFRpSk1KX1lTVC05VlVnSW96Mk9DWUFRMzNYbTNPVFM5NktGRzdDejJIUHBza3F3?oc=5",
-          "cat": "Macro"
+          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
+          "title": "SF Fed president: AI demand could extend energy shock",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 19523,
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 79,
+      "change24h": -2,
+      "vol24h": 20814,
       "headlines": [
         {
-          "title": "Penn State tight ends took NFL by storm in Week 4",
-          "source": "Nittany Lions Wire",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSWJNZkRWa2lSNnZEc1dDOVQ0dXFrbENqN3phSUpUR3hBOEt3WUYtTmp2NVhmV25IQ0dXSVI1VDZQbWxBZzRVQXE4ZDlGTkpNUEJOV2Q0U1ZrWUYxV216RVNwaGZlV1N3WmR0QVkxQ05wLUtsRHFlb0JxZ25UZngybXYtUXNXaXFfUzg3MW9zdV9SaEVxNE5VcFoyaUZCTi1vdjhRT2VPN0VUM20yN1lDTGgyUjYyZ0g0ajFTSjRXQWZQZURlN2VHSzhNR2k3ZGpiVUM4clJwbkdCY3lyTlRiTkkwY01OT05VSkhsWkpxZXk0dw?oc=5",
+          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": -1,
+      "vol24h": 22251,
+      "headlines": [
+        {
+          "title": "Eagles owner Jeffrey Lurie sends classy message to Lane Johnson after stunning retirement",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmkyUTBqemt1bm9RV0p1ckVnR2pJWGVKOG5ROVlhOUx0S0lTb2txOHB0bkFKaXd4bkVpMVpNNXRORGxqcG5XOXAyRkFuYWF6Znp1amg2dGpabm9JV29LaEN2ZkFCbFRxN1JNckUxal9HVDBVSF82NDVTZmxsMjIzV3dJZVJOR3ph?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "America's Favorite Index Is Misleading Investors About the State of the Stock Market",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNF9CSFROMFJEd2Q0cGc1OUVLQ3Bwdk45anNOYXdUbEJuLWR1RGJnNExKSkgwbUo0Z29zZklxNjluc1VyX0k4RDJQYmZOa2djdFJsc2QzM0h5QkxtSW9lVUlaUExnaTVoUWV6TW56SzJHWnBvX2RQY1gxZHBINWdHbVNFclhrSktvTmJMeFRsRFZZQ2lhUDZPUDlLSUtWLXVLczhubF9COGFVdkJa?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Philadelphia 76ers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-philadelphia-76ers-win-the-2027-nba-finals",
-      "yes": 11,
-      "change24h": 0,
-      "vol24h": 8399,
-      "headlines": [
-        {
-          "title": "\"Can't spend more than 30 seconds in the city\" - Dave Portnoy says LeBron James hates Philadelphia",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3RpQUkzZlc5SEJSclhTNzVjbXhjQkZZMHdUa0dzMFhkRlRLR1hWR21IOUFnNG93M05raXBYbGdHN2gxQnNiWjhmdVhBQmFrZllpbk13ZGw5R3ZySjFtcWZtSzBpbmxmNk5yd3dXanQ5M3FBYWJBUHpwT25qLU1RcA?oc=5",
-          "cat": "NBA"
+          "title": "Eagles All-Pro offensive lineman Lane Johnson retires after 14 seasons",
+          "source": "WRIC ABC 8News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG43aUdRMUcyZERXSWZrRGU0MXl5OTNVeGRnZTNHM0RaS2FCZGEwX2pRbHVndHZTTmJnLUtGWjgzY2Q4alR1QWExay1DNEttbUFvNFozeWF1QmlFc3BEVXJHdmxLU3JJSENEM0dhSXNCNHVfakVueWlIZ19ieTBZYWNMWnYtcUdNQjkzbmpBU3U3MHhMZ0RsRGV4R1NMVE00b2tmdGlUM29YTFRBMmd3Sm1TTnNnMXNVdXRR0gHAAUFVX3lxTFA5Y0xaNFp2NWFZLXNfbWpaSjg3V0hpVUZyR1R4WEFHYWtEYlF6RHFmdE1mUUVNakF6OURwYXFuT3ZNSDJkR3ZMMFVFTTN5SUlQWXFuM3doYkJVbVBUVGNVNUZvaDBsVEFKMTQxdnVPOXNxSmJCbWpMNjVDUzVYa1JZZFBKTTItNmh6MFBfWHF1aFQ5eVFOVGVVb2FNZmVVdkdLVnBzemhTT1pBYzZuQkZHdVhuODZfMFJBODRhYVFEQQ?oc=5",
+          "cat": "NFL"
         }
       ]
     }
