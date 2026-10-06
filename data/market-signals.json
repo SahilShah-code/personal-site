@@ -1,49 +1,23 @@
 {
-  "updated": "2026-10-05T23:25:08.268Z",
+  "updated": "2026-10-06T03:34:39.627Z",
   "withNews": [
-    {
-      "question": "Cricket World Cup League 2: USA vs UAE",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-usa-are-2026-10-05",
-      "yes": 99,
-      "change24h": 31,
-      "vol24h": 34937,
-      "headlines": [
-        {
-          "title": "Jesse Marsch Takes Dig at USA Before USMNT vs. Canada Game",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdmJ3cnRwc285QlhWVV84Tk1Bb0hWUGw5OUd3azl3aHNnT0lMX3RVbjQyMWJYUDc3c29MWGRKOG5aQkVZMmQwM1ZpVDdNU3Q3ZGVfZTV2NVNyZGdxRVFTdDNqb3lpSTZVUkQ5eHR4bTYyUTc2c0NqSkhieU1MMXF1ag?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin reach $87,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 81,
+      "yes": 78,
       "change24h": -10,
-      "vol24h": 52507,
+      "vol24h": 46274,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "rttnews.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $90,000 on October 7?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-90k-on-october-7-2026",
-      "yes": 3,
-      "change24h": -9,
-      "vol24h": 13835,
-      "headlines": [
+          "title": "October 7, 2026: Zhizhen Zhang vs Tomas Machac Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUxKcElRVDB5VHU1djNQWEh6c0UyeWF3M3VTemFieWFVUjBtc09UeWI4c0hDLTQwZFAyR3UwWTI4MndSVlRFTzlqbkZhVnZQX1l5VG9ZbFRtZHp0LU1QWXdIdFNtRV81TkI1c1k0R0tLTEQ4Mzh5cTdPdnd6SnBSVWZGZ0EwdTNfZWpqX1UzUmN1T0lhTDFJY1RxZ2NZd3RtNjQ4NWl1XzNjMlVEZTBHUExocWdRMHJLZHI0eDBoYw?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "rttnews.com",
+          "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
         }
@@ -53,37 +27,43 @@
       "question": "Will Bitcoin reach $90,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
-      "yes": 60,
-      "change24h": -8,
-      "vol24h": 17417,
+      "yes": 56,
+      "change24h": -10,
+      "vol24h": 16759,
       "headlines": [
         {
+          "title": "October 7, 2026: Zhizhen Zhang vs Tomas Machac Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUxKcElRVDB5VHU1djNQWEh6c0UyeWF3M3VTemFieWFVUjBtc09UeWI4c0hDLTQwZFAyR3UwWTI4MndSVlRFTzlqbkZhVnZQX1l5VG9ZbFRtZHp0LU1QWXdIdFNtRV81TkI1c1k0R0tLTEQ4Mzh5cTdPdnd6SnBSVWZGZ0EwdTNfZWpqX1UzUmN1T0lhTDFJY1RxZ2NZd3RtNjQ4NWl1XzNjMlVEZTBHUExocWdRMHJLZHI0eDBoYw?oc=5",
+          "cat": "Tennis"
+        },
+        {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "rttnews.com",
+          "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 80,
-      "change24h": -3,
-      "vol24h": 343732,
+      "question": "Will Bitcoin reach $92,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-92pt5k-in-october-2026",
+      "yes": 39,
+      "change24h": -8,
+      "vol24h": 56753,
       "headlines": [
         {
-          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-          "cat": "Macro"
+          "title": "October 7, 2026: Zhizhen Zhang vs Tomas Machac Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUxKcElRVDB5VHU1djNQWEh6c0UyeWF3M3VTemFieWFVUjBtc09UeWI4c0hDLTQwZFAyR3UwWTI4MndSVlRFTzlqbkZhVnZQX1l5VG9ZbFRtZHp0LU1QWXdIdFNtRV81TkI1c1k0R0tLTEQ4Mzh5cTdPdnd6SnBSVWZGZ0EwdTNfZWpqX1UzUmN1T0lhTDFJY1RxZ2NZd3RtNjQ4NWl1XzNjMlVEZTBHUExocWdRMHJLZHI0eDBoYw?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Everyday Economics: Oil Is taxing the economy. The Fed should Be patient.",
-          "source": "The Center Square",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWhYWE9VRHhYOW1uMHFxS3YwNWF3b2VObGwxWHhPSER2d282YUZ1dEI4QktjTk0wVXc2eFhhNDZIcmRHbXFQWVdkVElDQkpMNF9KMUlyV3lpVTM4MWxuZ1Z0ck5uZF96X1ZidS04eHZSdlYyQkNPNEZweWNTNlg4VUNZVVl1d1VqNHNUbDAwSFFvQkh4?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -93,18 +73,18 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 20,
       "change24h": 3,
-      "vol24h": 300094,
+      "vol24h": 300350,
       "headlines": [
+        {
+          "title": "October 7, 2026: Zhizhen Zhang vs Tomas Machac Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUxKcElRVDB5VHU1djNQWEh6c0UyeWF3M3VTemFieWFVUjBtc09UeWI4c0hDLTQwZFAyR3UwWTI4MndSVlRFTzlqbkZhVnZQX1l5VG9ZbFRtZHp0LU1QWXdIdFNtRV81TkI1c1k0R0tLTEQ4Mzh5cTdPdnd6SnBSVWZGZ0EwdTNfZWpqX1UzUmN1T0lhTDFJY1RxZ2NZd3RtNjQ4NWl1XzNjMlVEZTBHUExocWdRMHJLZHI0eDBoYw?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
           "source": "The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Everyday Economics: Oil Is taxing the economy. The Fed should Be patient.",
-          "source": "The Center Square",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWhYWE9VRHhYOW1uMHFxS3YwNWF3b2VObGwxWHhPSER2d282YUZ1dEI4QktjTk0wVXc2eFhhNDZIcmRHbXFQWVdkVElDQkpMNF9KMUlyV3lpVTM4MWxuZ1Z0ck5uZF96X1ZidS04eHZSdlYyQkNPNEZweWNTNlg4VUNZVVl1d1VqNHNUbDAwSFFvQkh4?oc=5",
           "cat": "Macro"
         }
       ]
@@ -132,24 +112,24 @@
       ]
     },
     {
-      "question": "Japan Open Tennis Championships: Carlos Alcaraz vs Jiri Lehecka",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-alcaraz-lehecka-2026-10-06",
-      "yes": 78,
-      "change24h": 0,
-      "vol24h": 64218,
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 23,
+      "change24h": -3,
+      "vol24h": 11371,
       "headlines": [
         {
-          "title": "The Samsun Open WTA 125 Tennis Tournament, featuring Bianca Andreescu, has begun",
-          "source": "Fanatik",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnVBYmFKNXFhanpWaHdUOXlreHZuS2RjR2ZzOXEtQzVid3VkcXk4OVNjbmM2RlFQWkVjZHFXS0pWYldOZTQyNzFNRnZ1WWdMbmRtRmNscmZLWWU1elpDN2Vqa2lsMFNZODUzbk9uNndPSUpJekdGZ09uOV9BcU5lR2VrRGs5OHdZYmRRQWFnWUJfMHhVTnVuejE2djVnWVZ1bGpBRm9VZGFDOTBDUjRnZkFpcDVnZWM?oc=5",
-          "cat": "Tennis"
+          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "This Week in Tennis: Top-Ranked Rybakina Ousted in Beijing, Withdraws from Wuhan",
-          "source": "National Bank Open",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFZqUFNQU3FfM2g5bGZTdTJsaHNST2trZE1aRGtISkJwMkQxbl9vMHU0Ul9iYmNadndPbC1fVm53VXFYTlRia0wxeS0xTjRncEhIM0ZxWXBRclRiVWt0bDdxVFVGUmpfeHM1T0stMHMtN0Vhc3FaUHh6V3FlMW16N2RpMVFBVVdiVVZ0dzRqcDFGd3hkd0w0LVlZdDVjSjJpdkNISnViRHcyMFpzaHlNdmxxX3Z3TFYtc0xVOUJlVQ?oc=5",
-          "cat": "Tennis"
+          "title": "Everyday Economics: Oil Is taxing the economy. The Fed should Be patient.",
+          "source": "The Center Square",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWhYWE9VRHhYOW1uMHFxS3YwNWF3b2VObGwxWHhPSER2d282YUZ1dEI4QktjTk0wVXc2eFhhNDZIcmRHbXFQWVdkVElDQkpMNF9KMUlyV3lpVTM4MWxuZ1Z0ck5uZF96X1ZidS04eHZSdlYyQkNPNEZweWNTNlg4VUNZVVl1d1VqNHNUbDAwSFFvQkh4?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -158,35 +138,63 @@
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-atlanta-falcons-win-the-2027-nfl-league-championship",
       "yes": 1,
-      "change24h": 0,
-      "vol24h": 9046,
+      "change24h": 1,
+      "vol24h": 15715,
       "headlines": [
         {
-          "title": "Falcons vs. Saints score, live updates: NFL ‘Monday Night Football’ score, tv channel, odds and latest",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdW1UNGVkZzJScXhJbUY5bXc3eVRfSG5nM2tqb0ZnS2VGLW1XWm9QY1dOak1vOE9QR0d0Q3VBVmVEakNPUFlYN0NDM1RhTjNrSlNxQVJxRTZ2cWdTakFQc25HMmNJb2JaUE1VRXNTdU82VG5FSkFLNUZKby03dUxfdnBDbURZVHNiOUVHNkxaTXZ1RTFHSmZEc0pFbDhSa2R4TjlTYVlOcmhvbzZvMWc?oc=5",
+          "title": "New Orleans Saints inactives for Atlanta Falcons game | 2026 NFL Week 4",
+          "source": "New Orleans Saints | NewOrleansSaints.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnk0OXRXUmswck1zckthNzQ0bjZ5VFVqeUhzcTRxMHdER1JZRF9LRGl3UkJJOU44ZUNuUnRiR0hYcFVVakhoSEtNUDV4STJPRm9ucnozWVBsVDZwQi10V0prbGJMbjU0Mm5GN0VReS1JNGx2c0hhX3haUkdDWkk5Zmx0eW9YZlJ0RXp0SzJXOFI5dUhpczJPa2ZvdnMwR3BRVXpGSUFZUy1jUQ?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Monday Night Football live updates: Saints vs Falcons stream, how to watch NFL game tonight",
-          "source": "USA Today",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTFDR3otakxGTUw0MENwc0lBVkVGZ0VRRzYzT0cyTC1zaUFjYlcxZXVTSkI1d0pGTkpJaW9BcHIySTllUmN4aVd0engwN0JvRzdHYXFUUFpvaHZORnFwYmxPbS1mQ2xBNkdSTHEtalFTSzVRcGxvY0JndlZFWFFpQThDT2FMbDZCY3JTRFhpN3R5MzN2a21TQmFtNEZ2cFNqcFl6d0dJQzZlTmNRaHJSNWRuNjU2Vjh5SnFXUmJNeHJYeWM?oc=5",
+          "title": "Monday Night Football: Bijan Robinson has Falcons leading 24-7 at halftime",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVdNQjlCeDE5YU5takR4R0RJMnRRZ21sVHRyVTRNVHVLclNRUVJOcTBUV3JQd0dFYWRVRmFrYV94YkV1WVhWazFxaTRJUmgzT2RKOGJnWmVqTWFtNkVIVUlrWjJnMFhSNllIZkM3NlZCUlVSaDBjdGFKd3hZcWVTMVlJLUpEVnNrX1FhLWV3?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 4,
+      "question": "Japan Open Tennis Championships: Carlos Alcaraz vs Jiri Lehecka",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-alcaraz-lehecka-2026-10-06",
+      "yes": 76,
       "change24h": 0,
-      "vol24h": 8267,
+      "vol24h": 119223,
       "headlines": [
         {
-          "title": "Look familiar? Cowboys' offense is carrying the team as defense battles deficiencies",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFREVE42UnFjbEg4c0NRekdOcExxeEVHeW1COWlVRmNRb3RBZlJPSWJ5TENoVVpqX0poOS0tOUpqRlRRWWVRYm8zUXk1MGVlZGY5c0tfZEFwUmQtbHZHY0F5ZEtyTkRQT2dkUVlncnFzaXQ2WHRSZGtkaW1PQ0V6QnUxZFRVNVlGRnpRZkZQRFRYa2ZwUEFzNW0tMk5wYmYwOGZ3SjY4eVJpRWMtLWZaMnkxTQ?oc=5",
+          "title": "October 7, 2026: Zhizhen Zhang vs Tomas Machac Round of 128 match Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUxKcElRVDB5VHU1djNQWEh6c0UyeWF3M3VTemFieWFVUjBtc09UeWI4c0hDLTQwZFAyR3UwWTI4MndSVlRFTzlqbkZhVnZQX1l5VG9ZbFRtZHp0LU1QWXdIdFNtRV81TkI1c1k0R0tLTEQ4Mzh5cTdPdnd6SnBSVWZGZ0EwdTNfZWpqX1UzUmN1T0lhTDFJY1RxZ2NZd3RtNjQ4NWl1XzNjMlVEZTBHUExocWdRMHJLZHI0eDBoYw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "The Samsun Open WTA 125 Tennis Tournament, featuring Bianca Andreescu, has begun",
+          "source": "fanatik.com.tr",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnVBYmFKNXFhanpWaHdUOXlreHZuS2RjR2ZzOXEtQzVid3VkcXk4OVNjbmM2RlFQWkVjZHFXS0pWYldOZTQyNzFNRnZ1WWdMbmRtRmNscmZLWWU1elpDN2Vqa2lsMFNZODUzbk9uNndPSUpJekdGZ09uOV9BcU5lR2VrRGs5OHdZYmRRQWFnWUJfMHhVTnVuejE2djVnWVZ1bGpBRm9VZGFDOTBDUjRnZkFpcDVnZWM?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the New Orleans Saints win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 18752,
+      "headlines": [
+        {
+          "title": "New Orleans Saints inactives for Atlanta Falcons game | 2026 NFL Week 4",
+          "source": "New Orleans Saints | NewOrleansSaints.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnk0OXRXUmswck1zckthNzQ0bjZ5VFVqeUhzcTRxMHdER1JZRF9LRGl3UkJJOU44ZUNuUnRiR0hYcFVVakhoSEtNUDV4STJPRm9ucnozWVBsVDZwQi10V0prbGJMbjU0Mm5GN0VReS1JNGx2c0hhX3haUkdDWkk5Zmx0eW9YZlJ0RXp0SzJXOFI5dUhpczJPa2ZvdnMwR3BRVXpGSUFZUy1jUQ?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Falcons vs. Saints Live Updates, Score: Atlanta Leads In The Third",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUQ3WWJ1c1JzcVpkUkJ4eFlRS2hEX1lmRHp3QVpWc1BXRmlTSXYxMVAyNXZBRlllTlpiUjJMZ2UyUE5wM1pKWnVaelYwUnZodjBjZ0lRNlEyTm9yclBoeXNVV2piVGdrT2xLZVpMRVFMM0xCdmRYVVZSS3RtWlRxSGVQaVFleUhBMkEwS291WmFOMW9ZY2FGTG1YbG10eVN2QlBoN05Nc0NuMWpKVlVWaUdR?oc=5",
           "cat": "NFL"
         }
       ]
@@ -194,21 +202,30 @@
   ],
   "moversOnly": [
     {
-      "question": "SC RASTA Vechta vs. Basketball Loewen Braunschweig",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/bkbbl-sc-loe-2026-10-05",
-      "yes": 0,
-      "change24h": -67,
-      "vol24h": 14054,
+      "question": "T20 World Cup Asia Sub-Regional Qualifier A: Qatar vs Thailand",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-qat-tha-2026-10-05",
+      "yes": 100,
+      "change24h": 18,
+      "vol24h": 22781,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 78,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
+      "yes": 23,
+      "change24h": -6,
+      "vol24h": 183186,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 36,
       "change24h": -4,
-      "vol24h": 7876,
+      "vol24h": 12081,
       "headlines": []
     }
   ]
