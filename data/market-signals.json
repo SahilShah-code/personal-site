@@ -1,196 +1,77 @@
 {
-  "updated": "2026-10-07T12:11:19.783Z",
-  "withNews": [
+  "updated": "2026-10-07T22:22:52.833Z",
+  "withNews": [],
+  "moversOnly": [
     {
-      "question": "Will Bitcoin reach $88,000 October 5-11?",
+      "question": "Will the price of Ethereum be above $2,600 on October 10?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-october-5-11-2026",
-      "yes": 11,
-      "change24h": -46,
-      "vol24h": 14563,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
+      "url": "https://polymarket.com/event/ethereum-above-2600-on-october-10-2026",
+      "yes": 35,
+      "change24h": -50,
+      "vol24h": 11351,
+      "headlines": []
     },
     {
-      "question": "Will Ethereum reach $2,800 October 5-11?",
+      "question": "Will the price of Ethereum be above $2,700 on October 9?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-october-5-11-2026",
-      "yes": 4,
-      "change24h": -44,
-      "vol24h": 12089,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
+      "url": "https://polymarket.com/event/ethereum-above-2700-on-october-9-2026",
+      "yes": 3,
+      "change24h": -45,
+      "vol24h": 15334,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,500 October 5-11?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-october-5-11-2026",
+      "yes": 45,
+      "change24h": 38,
+      "vol24h": 58586,
+      "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $82,000 October 5-11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-october-5-11-2026",
-      "yes": 54,
-      "change24h": 34,
-      "vol24h": 16039,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 83,
-      "change24h": 1,
-      "vol24h": 154620,
-      "headlines": [
-        {
-          "title": "SF Fed president: AI demand could extend energy shock",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 17,
-      "change24h": -1,
-      "vol24h": 90655,
-      "headlines": [
-        {
-          "title": "SF Fed president: AI demand could extend energy shock",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 24,
-      "change24h": 1,
-      "vol24h": 12087,
-      "headlines": [
-        {
-          "title": "SF Fed president: AI demand could extend energy shock",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 22729,
-      "headlines": [
-        {
-          "title": "NFL Responds to Eagles Star Lane Johnson’s Shocking Retirement Announcement",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnlnRTBsMHkzOHBhMTVMeHNpNVpNcEh2U0xfZDhiWFY0Z0Q0M1RlNU00WlVFNl9pRjhnT1hvV1NGdjhxTUh0VlRVMFR5R09DRWVNbW10NXVVZmVQREIzaEdnOGxBYWpnQlFoZEtjODloUTFNM1dYWmRZVGQ5cWxpaGdKNzY?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Eagles Football",
-          "source": "chronicleonline.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSkN3U09XZEE0clA2V25OdG0wV2lhQ2ptOG9rQlBheWpmVmptTGNtUENmMlRWYWtCZ3VubDNRLUZQTUE1b0gyMGJzQ1MycExldzJuVDdOSnlpdDRrNHBtR19pNG5BZHY5N01heUdjYlR2TzVnOHd3WW93R29NcFJuYW9hR0ZNdWttN1l0MHd3ZFhDY25PZ2hEdVViaUpHMHd5bUdTbWs5ZVRFTUhTeF93NllSejlMQQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    }
-  ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum reach $3,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8",
-      "yes": 52,
-      "change24h": -14,
-      "vol24h": 30408,
+      "yes": 60,
+      "change24h": 38,
+      "vol24h": 15055,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "question": "Will Bitcoin reach $88,000 October 5-11?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 34,
-      "change24h": 12,
-      "vol24h": 11588,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-october-5-11-2026",
+      "yes": 7,
+      "change24h": -37,
+      "vol24h": 14045,
       "headlines": []
     },
     {
-      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
-      "yes": 92,
-      "change24h": 8,
-      "vol24h": 13470,
+      "question": "Cricket World Cup League 2: USA vs Namibia",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-usa-nam-2026-10-07",
+      "yes": 98,
+      "change24h": 35,
+      "vol24h": 63670,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "question": "Will the price of Bitcoin be above $86,000 on October 9?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 32,
-      "change24h": 7,
-      "vol24h": 25551,
+      "url": "https://polymarket.com/event/bitcoin-above-86k-on-october-9-2026",
+      "yes": 8,
+      "change24h": -33,
+      "vol24h": 10685,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,800 October 5-11?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 32,
-      "change24h": -5,
-      "vol24h": 22040,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
-      "yes": 26,
-      "change24h": -4,
-      "vol24h": 12374,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-october-5-11-2026",
+      "yes": 3,
+      "change24h": -32,
+      "vol24h": 26559,
       "headlines": []
     }
   ]
