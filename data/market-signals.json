@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-06T21:57:22.398Z",
+  "updated": "2026-10-07T03:00:27.691Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $2,500 October 5-11?",
+      "question": "Will the price of Bitcoin be above $84,000 on October 8?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-october-5-11-2026",
-      "yes": 8,
-      "change24h": -6,
-      "vol24h": 15432,
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-8-2026",
+      "yes": 47,
+      "change24h": -30,
+      "vol24h": 9774,
       "headlines": [
         {
-          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
-          "cat": "Tennis"
+          "title": "Los Angeles Lakers vs. Golden State Warriors Live Score and Stats - October 6, 2026 Gametracker",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fSUlWSjNjWWsyVXM3U3BwSm1uX2QzWVF2WWgxRjctU1dLZlRvTzJkVDZ1ZkIwUUZ6ZHFCajU5eDdUNFBuYTZjN0VyT2JmLW0xUFJrUzUzUnBvTGdiLUdVdWlXMktzSTJVUHpCTEY2S1BEZ1ZBS1pCV1FTSQ?oc=5",
+          "cat": "NBA"
         },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -24,24 +24,46 @@
       ]
     },
     {
-      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
-      "yes": 92,
-      "change24h": 6,
-      "vol24h": 14067,
+      "question": "Will the price of Bitcoin be above $86,000 on October 8?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-86k-on-october-8-2026",
+      "yes": 14,
+      "change24h": -27,
+      "vol24h": 11644,
       "headlines": [
         {
-          "title": "Declan Rice's England place at risk as Gary Lineker backs youngster after Croatia win",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGlvUXcwMXcyWTE3MHpaaWNMY1lIMXVhWXNXOTFtYVg3ajdzN1dVdVo0cmtfUHRYWE1jRHZrRjRWWnh5VDZRTmt2LXQweE9hdFE4VzR6RWN2LVNJVDQ0VFEzOXNaY0FvSVlGQXNkcXhldGRyTXRpVENPZGtkUnQ4SDdqR1VoYXc?oc=5",
-          "cat": "World Cup"
+          "title": "Los Angeles Lakers vs. Golden State Warriors Live Score and Stats - October 6, 2026 Gametracker",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fSUlWSjNjWWsyVXM3U3BwSm1uX2QzWVF2WWgxRjctU1dLZlRvTzJkVDZ1ZkIwUUZ6ZHFCajU5eDdUNFBuYTZjN0VyT2JmLW0xUFJrUzUzUnBvTGdiLUdVdWlXMktzSTJVUHpCTEY2S1BEZ1ZBS1pCV1FTSQ?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "England 3 Czech Republic 0: Harry Kane crowns record 125th cap with two goals but what did Tuchel learn?",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmpSSEFBVWJBZ2lGak1velZlX2RacXAwYWpGWkdZenZjaWxaLVlkTWZaZlh4UGd6ZWpqcnY2aVdRY0JUb2FoVklSTHl3dmxWUFVaOG5qSnZhR3M2a20yZjIwQjdOV2hYSU5hb3VVRldESHlPSFFhMEZraDN4UFdVd08ydU11cDF6eEQ2bDMwMmhCVFRuN2c?oc=5",
-          "cat": "World Cup"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,800 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2800-in-october-2026",
+      "yes": 55,
+      "change24h": -24,
+      "vol24h": 12704,
+      "headlines": [
+        {
+          "title": "Los Angeles Lakers vs. Golden State Warriors Live Score and Stats - October 6, 2026 Gametracker",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fSUlWSjNjWWsyVXM3U3BwSm1uX2QzWVF2WWgxRjctU1dLZlRvTzJkVDZ1ZkIwUUZ6ZHFCajU5eDdUNFBuYTZjN0VyT2JmLW0xUFJrUzUzUnBvTGdiLUdVdWlXMktzSTJVUHpCTEY2S1BEZ1ZBS1pCV1FTSQ?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -49,43 +71,21 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 17,
+      "yes": 16,
       "change24h": -4,
-      "vol24h": 57114,
+      "vol24h": 43426,
       "headlines": [
         {
-          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
-          "cat": "Tennis"
+          "title": "Los Angeles Lakers vs. Golden State Warriors Live Score and Stats - October 6, 2026 Gametracker",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fSUlWSjNjWWsyVXM3U3BwSm1uX2QzWVF2WWgxRjctU1dLZlRvTzJkVDZ1ZkIwUUZ6ZHFCajU5eDdUNFBuYTZjN0VyT2JmLW0xUFJrUzUzUnBvTGdiLUdVdWlXMktzSTJVUHpCTEY2S1BEZ1ZBS1pCV1FTSQ?oc=5",
+          "cat": "NBA"
         },
         {
           "title": "SF Fed president: AI demand could extend energy shock",
           "source": "Axios",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $84,000 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-84k-october-5-11-2026",
-      "yes": 61,
-      "change24h": 4,
-      "vol24h": 15781,
-      "headlines": [
-        {
-          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
@@ -93,15 +93,15 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 83,
+      "yes": 84,
       "change24h": 3,
-      "vol24h": 135347,
+      "vol24h": 126895,
       "headlines": [
         {
-          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
-          "cat": "Tennis"
+          "title": "Los Angeles Lakers vs. Golden State Warriors Live Score and Stats - October 6, 2026 Gametracker",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fSUlWSjNjWWsyVXM3U3BwSm1uX2QzWVF2WWgxRjctU1dLZlRvTzJkVDZ1ZkIwUUZ6ZHFCajU5eDdUNFBuYTZjN0VyT2JmLW0xUFJrUzUzUnBvTGdiLUdVdWlXMktzSTJVUHpCTEY2S1BEZ1ZBS1pCV1FTSQ?oc=5",
+          "cat": "NBA"
         },
         {
           "title": "SF Fed president: AI demand could extend energy shock",
@@ -112,49 +112,64 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 79,
-      "change24h": -2,
-      "vol24h": 20814,
-      "headlines": [
-        {
-          "title": "October 7, 2026: Rinky Hijikata vs Roman Safiullin Round of 128 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1VGVWVyZWRxaDJ2QTVCU0JYOURuMF9kZEcxeFg4YU83UUNIUkdzNFFHNGp5d2dudV91RlMyYU1OUmxyN0xiMURCbHlwVkZjQ3VFTldmVFBFUi1jZDN3TlBxSktxWkw3dUtWc3FBX3U4RzQySHJlXzRMQkxTM2NhY2RJd3ZsTDJUeGVWbGZ3Ymg5dkxDcGRXVHVwdjBpcjRPUTRxcGVDMjEtbkg0c01hNV9lc0dLTXVQV01CNXZELTlxYnRh?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 2,
+      "question": "Fed rate cut by December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/fed-rate-cut-by-december-2026-meeting",
+      "yes": 4,
       "change24h": -1,
-      "vol24h": 22251,
+      "vol24h": 11159,
       "headlines": [
         {
-          "title": "Eagles owner Jeffrey Lurie sends classy message to Lane Johnson after stunning retirement",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmkyUTBqemt1bm9RV0p1ckVnR2pJWGVKOG5ROVlhOUx0S0lTb2txOHB0bkFKaXd4bkVpMVpNNXRORGxqcG5XOXAyRkFuYWF6Znp1amg2dGpabm9JV29LaEN2ZkFCbFRxN1JNckUxal9HVDBVSF82NDVTZmxsMjIzV3dJZVJOR3ph?oc=5",
-          "cat": "NFL"
+          "title": "SF Fed president: AI demand could extend energy shock",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hTXg1dF82bUVSZnlrcl9QVFhsTGY5WXU5UGZUa3BFazM1Nm9ETkljMWdnY01hUGgxMG1Ba1VESXhhMDhXSmoxOGVMaUIwNWpncTkxYjdpTmZoUUM4XzRaRGlvcmo5aG5KVDJwYw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Eagles All-Pro offensive lineman Lane Johnson retires after 14 seasons",
-          "source": "WRIC ABC 8News",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG43aUdRMUcyZERXSWZrRGU0MXl5OTNVeGRnZTNHM0RaS2FCZGEwX2pRbHVndHZTTmJnLUtGWjgzY2Q4alR1QWExay1DNEttbUFvNFozeWF1QmlFc3BEVXJHdmxLU3JJSENEM0dhSXNCNHVfakVueWlIZ19ieTBZYWNMWnYtcUdNQjkzbmpBU3U3MHhMZ0RsRGV4R1NMVE00b2tmdGlUM29YTFRBMmd3Sm1TTnNnMXNVdXRR0gHAAUFVX3lxTFA5Y0xaNFp2NWFZLXNfbWpaSjg3V0hpVUZyR1R4WEFHYWtEYlF6RHFmdE1mUUVNakF6OURwYXFuT3ZNSDJkR3ZMMFVFTTN5SUlQWXFuM3doYkJVbVBUVGNVNUZvaDBsVEFKMTQxdnVPOXNxSmJCbWpMNjVDUzVYa1JZZFBKTTItNmh6MFBfWHF1aFQ5eVFOVGVVb2FNZmVVdkdLVnBzemhTT1pBYzZuQkZHdVhuODZfMFJBODRhYVFEQQ?oc=5",
-          "cat": "NFL"
+          "title": "High Interest Rates Aren’t Slowing the A.I. Boom. That’s a Problem for the Fed.",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX21iaktYMmNNQ0pVZllMTXgyVVRoV1hSYTZaNUNsVkdSX1k2WmVYRmZNckNZMVFIZzZZa1RZRVZMSHQ5MHBqbmUyd2ZJV0pRVW9fSWFLOWhvdkVEZDhPTlgzSEhJX0ZiekV4S0ppOC1JSDgteHdWWVdZN09Kd2ZRNQ?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Ethereum reach $3,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8",
+      "yes": 56,
+      "change24h": -11,
+      "vol24h": 30218,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
+      "yes": 28,
+      "change24h": 6,
+      "vol24h": 10561,
+      "headlines": []
+    },
+    {
+      "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/bank-of-england-increases-interest-rates-by-25-bps-after-november-2026-meeting-20260730150602310",
+      "yes": 92,
+      "change24h": 5,
+      "vol24h": 14121,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 89,
+      "change24h": 4,
+      "vol24h": 10058,
+      "headlines": []
+    }
+  ]
 }
