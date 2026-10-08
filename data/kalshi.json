@@ -1,17 +1,16 @@
 {
-  "updated": "2026-10-08 01:34 UTC",
-  "net_return_pct": -53.6,
-  "realized_return_pct": -53.6,
+  "updated": "2026-10-08 07:59 UTC",
+  "net_return_pct": -45.2,
+  "realized_return_pct": -45.2,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 20,
-  "settled_total": 5,
+  "win_rate_pct": 25,
+  "settled_total": 4,
   "curve": [
     0,
     -100,
-    -100,
-    -8.2,
-    -44.5,
-    -53.6
+    32,
+    -31.9,
+    -45.2
   ],
   "active": [],
   "settled": [
@@ -41,13 +40,6 @@
       "ticker": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
       "result": "no",
       "date": "2026-09-20",
-      "return_pct": -100
-    },
-    {
-      "title": "Will Rinky Hijikata win the Munar vs Hijikata: Round Of 128 match?",
-      "ticker": "KXATPMATCH-26AUG01MUNHIJ-HIJ",
-      "result": "no",
-      "date": "2026-08-02",
       "return_pct": -100
     }
   ]
