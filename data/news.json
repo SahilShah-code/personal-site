@@ -1,45 +1,341 @@
 {
-  "updated": "2026-10-07T22:22:51.920Z",
+  "updated": "2026-10-08T03:17:09.321Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": []
+      "items": [
+        {
+          "title": "Dillon Brooks News: Scores 24 points with full line",
+          "source": "RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXVzWVNUaWlDeUl2MHcyN09OOFZhLXNXZzdrZGRxLW14dV9CWlRfdW1MR19TNXEwOXpucjEtMDBia2F5LTd1bkRpT0RsT2VPdE5MbDFfQlVfN0lVTzY5aGNmSDFVaVhwbFN6VVNlQkx3U3YybWhhT3ZERklpb015R1VsdUxVemFFLV9Yc1N4MHAyNG1tQk5tV1RCSDk0YUxMbVAwdzNR?oc=5",
+          "ts": 1791427902000
+        },
+        {
+          "title": "Kel'el Ware News: Double-doubles in preseason win",
+          "source": "RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcFNSVE9mMTZQUkJqLUVBcWVuVHJiOWZOTEQ3Z3h6WXNhVjNpdlBFa2YzSUJsQTd4REF5RXM3NDJZblBORmNuWE05WThhdHRCOUFLOU1LdWhQbWdjbGlSblBkOE1HVkJ3VWpMdzhiNENSa201Tm9OZjJJRXZlN0JKdU9ZTUJEWV9XaFZMRW9rbDJ3MFNRMno4eVlhZTJvWVBPaXc?oc=5",
+          "ts": 1791427871000
+        },
+        {
+          "title": "Box score: Magic 122, Grizzlies 118",
+          "source": "Daily Memphian",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0J5dS1rd1VIT0xBMFhGRktxNUJYdXNxd2xRYm5VVDJPekp5QzRTVFdvQ0tTYnR2NExacVpSUHJjRnVaV1I1bFJHNUpnelcyeHBUWUsxSnY3bW1vZXZnVXY0NFVhOFA2dHI1b1J3VTRuZ19qdFZsVzFvUGNNLUZyc3VIZ3EtXzE1WDloMXZwNXlJRUQ1ZE91MEhlRURKaHNnY0F6dlNqWUJ1MExfb25QUThvanJhQ2xnWUxua19jaGdKYzFOR2c4?oc=5",
+          "ts": 1791427260000
+        },
+        {
+          "title": "Tristan da Silva News: Drops 19 points in preseason win",
+          "source": "RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2drSTZuYS1zaFpDTERvQnRxMVZFM2E0TklLT2hVT3RzMEdXWTFEVm1oQ2hJdkNsTERDd242eHNhOTJOWkhVYTZDUHpQbzY2akVKdkZpWF93QzFIdm5NTl9iRktmRlYtWjljRmFZMzZPRE1CS2xHUW9BdXJwRHF3NkRkVF8yVU9nVjg5RUNRWXBYTklra1ByX1JSUXBwR1ZvMDBoOUtfUGpJM0E?oc=5",
+          "ts": 1791427158000
+        },
+        {
+          "title": "Ty Jerome News: Nets 17 points with four assists",
+          "source": "RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjFaVjNwcmROZGJ2dWRtaHdlZmlRaHhJOEdsN2ZMMUJGYjVTZ3BrWk9RbUdVZ3JGOEI0bkY1eFBLR1Y5RVQ4REdnb2cwSnc5Y1A0ajdjS0k0QWp4UU04MHBaWklaM29vYXFSNGJmWkh6S01WaHpNVGNqQ0ttRGlaNzRjZG5JNHdONzZlcmJGakw5b0wwaG9WUE1Qb3UwdUhyeUE?oc=5",
+          "ts": 1791427117000
+        },
+        {
+          "title": "\"He can get you nine points and still dominate\" - Kobe Bryant on what made Jason Kidd so difficult to guard",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTRMZmlQb2pkbDNnRlVaMEZSLTJBWkluc25NRWpic3pJcWhjMkp6cHZ2US1jcFk1ODlGUFVYYS16YTQtd3g1MW1wWGc1ajEtbHJvLTc4MWRaclF2ay1fQXZoeHFhYkM5bHBrQkY1S21YVGUySm9VRUpwUURiOEFXT3h3c0UwMVE?oc=5",
+          "ts": 1791426485000
+        }
+      ]
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": []
+      "items": [
+        {
+          "title": "NFL Team Performance Trends: Week 5 (Fantasy Football)",
+          "source": "Fantasy Footballers Podcast",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHVZMTlqeHFpU184VU0tMXQwTkxESVB3VzBjZkNodGJCOGVkRXo0azRvTnBtdFRhTFg4Qi1taHhhdHUyX211cXU4QXBRY0g1LWFodzlXZmE4VFVaUVkwTHRxNXdFRmtIVDk0WEtreFM2YjhNdmJocTZ6bTBoQlZSV20yRmJkcEpxeVhpWG5xYmlMMHI2UEktRXNJclJXN1hzSGtN?oc=5",
+          "ts": 1791429198000
+        },
+        {
+          "title": "Patriots Work Out RB Jamaal Williams, OT Cody Ford",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOam02UkZUamRKTnNfcS1GV0M3WXZPcmZibVhHMzE2VzlfaGpVUHR5cEE5TlZXVmp5Z1JFM0hnNWU2QklfN1dlSUhHUkJNbmJBMUdPeGtKY3JLbUMtVGNKVFdhVFVDZ0JDTlgxb1EtUFoxQnNmTVo1aGdNd1gwTzcySlAyQ2w2YWpRNFZBbHhZMEl4WDlJZFE?oc=5",
+          "ts": 1791428812000
+        },
+        {
+          "title": "Houston Texans great Glover Quin enjoy new career in life after football",
+          "source": "Click2Houston",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1Q3bXpDeGxVSERNRVYtdWpGQjRoOUQ3eldDU1lfcW1UbkxMOFAtTUc2ZzRKMmJaUFhUWDFYb0RfeEZqaGpsc0Ita0UwcUdLdHVfS0ZHdjJOeWlXUFFESXVBX1RTaE9zeTY1VXo4T3ZmZWtfRXZ6RktwQ3IxZU5kQWlZWEw2dG9PMDNVSGYyU1FSWTlUTl9JTmtrVWJSanJ6S2FpQmI5UFcxc2QwUFRjWUFFMU0yN1pJNEgtc3pB?oc=5",
+          "ts": 1791428513000
+        },
+        {
+          "title": "Week 5 Fantasy Football Start ‘Em, Sit ‘Em: Emeka Egbuka vs. Keon Coleman",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3JoZTZtWlFwQ3I5ck9nVkw3U05TdUg5VzZ1Rm55eDhQX2JxZXMxb2NsdlZCSmlhOVc3WXNHdnJNZnE2MVhHZ2dxYnJsZEFHb1I0R3VJLTR5UENuRjVJeGdHVndDV0g5U0tuZWR0anh1YlR0SkR1cFRrZ2d2MWFCVW1ieWtRekFkVHJFVzZzcVZXOXpsdTNVSG93dlVpamI3ZUJkaHZnVWxTUEFWbjBHQ1BIY2t6S3M?oc=5",
+          "ts": 1791427606000
+        },
+        {
+          "title": "Week 5 Fantasy Football Start ‘Em, Sit ‘Em: Chris Godwin Jr. vs. Makai Lemon",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2k3NXhxbGV2UmcyVzVPb0Uwa3ZWOEd6MlBZOHZEWkphTUR2c3U2aXZpbWJIdGNwR214WDFDLVFjMG9QUDJyUGctZGJXY2t2Vnpac3V2SnNOejN5Z0swN0I4ZkNVNFRTM1FRcE9ZYno5aldHNU4xbUZrR3QxeEdvelp0QVBQWGFPdkVVSExLLXoxeG5XYWJ3Sk9TX1F6eTN3UEVKbkp0dDNvV1M1LXpNQk51NHc3RU0zN2c?oc=5",
+          "ts": 1791426415000
+        },
+        {
+          "title": "Jets Open WR Tim Patrick’s Practice Window",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQnRzOXkxZm1HcnRodEctb3NNODlWS0tpdE8yNnQ0bWhpcDNrQTBSaXVfbTYxM05EUm8tUXNxSWFTdEw5aWdxLXlDTGU4VXpXaVllVmtXQTY0NU9lQ3AtMFBkY3lRN3gxZzNXNDBQdHlZT1RRUUhUZjl0WXp6dkJRMWNnVmhGczF1RUJV?oc=5",
+          "ts": 1791425033000
+        }
+      ]
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": []
+      "items": [
+        {
+          "title": "Coco Gauff vs Elise Mertens · Round 4 · WTA Beijing",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWtLSkZJeHd4eXBvby1mUXlyUGhWdWpleXF2ZzJNdmFUemFPalNxTEktZnNjUVV2aFZRdXN5WkNwOUExVklVdkx1OXQydVB6bGlGYWZNR3d5WllYVjJyWmQwa3RpcXRGRHFSS3dNVWxEdHhmWFN5a0xaQW02Y01fd3h4RDZ6bE5wdkNoLS1yMWZBMEk?oc=5",
+          "ts": 1791414373000
+        },
+        {
+          "title": "Gauff Withdraws from Wuhan, Where She’s Defending Champ, Citing Fatigue",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY2dENzMxQjU4TjBCTTNZRVpDTmV2b3h4cjlybzVGYnpHUGtFM3Rfel9JbVJVZ1dSQlA3UXpuZ21JbWdmZ3J4M0l3SGFvaVZ0aG9KTm1yOHR2RUwtYTQ1UDBFQ0l4N3o5WS1xMTh6ZVpuNzJ6QVB3X1lBcTB6UjExbFMzX3JOUGpUMmhZdm83QnpIVHY1RXc?oc=5",
+          "ts": 1791387955000
+        },
+        {
+          "title": "Zverev Will Cap Strange ATP Season as No.1",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGUzdTVF9uWFNMbE01RmppOEZKUXBDU3BpWGczM1ZaSzNTUkZyR2o2UzlpWjVuWlJCQnV5ZlUta2Jrd2hKRTJVMlh1aDI1OEZ3T3Jlbkw5b2JfTDVTdDhpNXhBQ1gwLUpreHVpN0dtMHNBUEk?oc=5",
+          "ts": 1791386429000
+        },
+        {
+          "title": "Homecoming: Gauff to Lead USA in BJK Cup Tie v. Hungary Next Month",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanRKckR2bU02ZWdJUm9pcVNGVHYyN2VsVWdRMzZrY1ItV2VoQVIzS0Zwbk1tdkRFZWR2QjlXeFNiUkhJTVI1ZWREUEYzX1dZUmNxR080SENMWGpha3FWWWRQWktCc0dYYjh4cVF6d2RqOF9xV0I4WmlmeEowVmNqRnZ4bUtIMmc1elFVWnBTaGw?oc=5",
+          "ts": 1791383729000
+        },
+        {
+          "title": "‘Supply chain’ key to China’s tennis ambitions, ATP Tour CEO tells GT",
+          "source": "Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42TFR1dldVdDdFdE4xN3RhNEVjZkotVmNSdjNhMHdQTi1qSXFBQ2FXUHVCeGZDZGJTdEZLUUVyYlpiYXluWDIzZGRtcW9MQWpmZTduZGRJZ0dnQ0U2RlZJSjZn?oc=5",
+          "ts": 1791382200000
+        },
+        {
+          "title": "Mertens Beats Weary Gauff for First Time, Charges into Beijing Quarterfinals",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXN0RG44RHFkUlBYb3JBdkdJdjRueEQ1Mm5Gc3NIRUdFZlFpNFZvV2Z1WTRiRkJfcFItSEZyNzJYXzRCaWhUQnMwcWRRZzdoU3hYV0RVNFlweGs4TVhQYWkyZ0tBdmtZMGFMUkUxc0QwSmJpMnU0MnBUOUZDWGV1UTNWWk51SHVxR2J6alRTU3pmcUpQLURONGxkb1RyVW8?oc=5",
+          "ts": 1791375289000
+        }
+      ]
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": []
+      "items": [
+        {
+          "title": "FIRST CHALLENGER: Report: Ex-Swiss international Vega says he plans to take on Infantino for FIFA presidency",
+          "source": "Front Row Soccer",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY2F0a2kyNllCaUxheE04YkdVUFVhR1pfMnI0Tjg1WlhOVEs0V3hEUk1UTkxGZmN2aUdOSmNSYkNsaHJLVFU0UjJBS0xGcGRJdGxxTUFxX1B0N2tEaWctc1V2NUNka1JSd0lBTzg2TUVZUmNHZ3B0ektrb3RKYjlPVzhYX2swUTZwNzZTY3ktbFhMM3JKNHZyNU5PRmU4ekhXMFpaR2Y4anJTYjNieEg5ekpHRk9ULWItMFJEZmc2SmJyUFFwZkZVOEFaeFJvVWpwVS0wZ1Q5NzFILXVMeUljRk5IYw?oc=5",
+          "ts": 1791413177000
+        },
+        {
+          "title": "Ramon Vega: Ex-Tottenham defender says he will run against Gianni Infantino for FIFA presidency - The Athletic",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWlDYzdyS29HR05KTUNldVBGYzUxamNZSmpFeXcxT3l3OGY0RklHTVV2c0R6RWU3S3EwLXUwWWhXNHdIRkUzVUJtTDhsclAwTkt5T0cxNDNsZWc4UGFtbWhtRGdtQWZMQ1laRVVXeTZLbWtYWVRsT29VUDJQU0NzazdXZ1o5aTlVS2xBNkh5SmN0X3Zmam5iQmhTRQ?oc=5",
+          "ts": 1791410347000
+        },
+        {
+          "title": "FIFA ranking: Argentina stays steady after Messi’s farewell, Portugal climbs two spots amid Cristiano Ronal...",
+          "source": "World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbzI2SWpvSEx0ZGZLRk83MWFKVmpLWWZtZ3R0a0VYNnFyRWxSQkFyMnRReUVHZlM3ZzNhdUJEUXZyTEZiN2IwNzBsWU1ITkdCRnhnMERkLTdsTTBMQlpMNl9tdC1FR2hpeGo5ZEMyd0pyYnJuemhURjllSzB4Q0lRd1VRTnFoNE5hbGxMRTZhTlp2eWJMQklwUl8tcGV2RDdpOHdTXzRheUMwQktZSGNHNlRoOWhlSnhUbDMzbWpla0ZkcU5kOENCX1A3OU9oUUdsTmF6YU02dVRtOThoX0tiTVdn0gHmAUFVX3lxTFBjcm1QMWV5YzBISGJWZFlHVi1iOWE3MHZNdmxLMHZ2MWZrNlBrem9ub3pkbkxlU1ZxbWhtWnZyQ3k3UUtLenZkUEZpdFR5OFlmVGkwVVctQk5aTWN6MVJZSDBlNERDUkhZZ1o5cTNyVEhiS3FqeE1kOExMMHNnTk9UYkdpckJmSnhFakN2elhRcnVnZlBEYWVzUVBDVURaV1Ewcmd1TlUzTlVGZ0NreUU4MUt1WHdQU01VdHp1dHJBSkVnbUF6U3lDaHNSQzJFcXBmOHpRTF9ua3ZRd2gwb1U2N3Ezak9B?oc=5",
+          "ts": 1791407848000
+        },
+        {
+          "title": "The Moment Lionel Messi's Homecoming Felt More Than Just A Farewell",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFBDbEU2MVZnTGxpLXFhZVR1VUNVZWFCNFBUcUJDMVQxQTA4TGJNdTBoNnFINVZpM0QwRXpFLWNRbllOdG1KdVhUSXFBdXNNdG5mU0JXZjV2SmIwZjBlQWROQVFHSzVESmhaQThyUWUyMHJlYWtKMWJVbGYzU0hkVGhYZno5RndqMHZRYVB1N3Zwc3BaeGfSAZYBQVVfeXFMT2RkV2lBZmc0Z0lfNGpfNVpVZ3dmemNBMlZ5VHVfR2c2d2pDUnFfLWM4WkNxZGdJbHRDcl9XMl9ScHNES25YNHVrX2Q5X0pQWjdMVjN5c1pSSUhUM3J6VDFtOWFPdTlid09qSVpkaHl2YjBrWURtUUcwN0w4amUxYlhMVmtfWkhQeDNyOUh4WXpQbVkxNUZB?oc=5",
+          "ts": 1791407733000
+        },
+        {
+          "title": "How USWNT coach Emma Hayes is rebuilding U.S. Soccer's women's program ahead of World Cup",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXdQSEZBOERkMUQ4eDNHbERUdHNHdW9XNVM3cHJxaFhhdkVvSkFkSmhqZmZEdUdCTnJWclJhRW5rZldpYlhuX095SzhUc2Y2RmZsMVNpRm1MVFBuSW9rT1JXdF9zdkU4eTlOa3BBa0ItRUI5b3ZoY1cyamMtbnBLeUJEaEVpYVhqSUdUY1h6emFqNXBkeEZGYUJBRktWY2lNMk1XTHdVbHBhUlBsa3ZwVU1IZUcwVkE?oc=5",
+          "ts": 1791405360000
+        },
+        {
+          "title": "Ronaldo hails Messi after Argentina great says he already misses national team",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNalNWOE1hbkJobGRBX2s1UGJncUplMHlJYXZGWnlSMEp5UzBILVpQWnNmcUMzaTFkQ3lxNkhpVjVmUG5NYzM4UWdtS1JQUzJfWXkzSnNkQmpCNHg4WkZQdGZibXJWRVNXRWtkWTNiaVJPMXJfUGNYYjZ5RU1wZ3h3Uk1JZF9sOTVoN0tyY0lSR0FpdU5TLXBxRFlsRElaUFppTEFkUWxmQy1RdkVCeUxZNG5vcllCUEQ1TWRKNUFRYWVxMk9CMU1J?oc=5",
+          "ts": 1791404246000
+        }
+      ]
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": []
+      "items": [
+        {
+          "title": "What “Real” Interest Rates Are Telling Us",
+          "source": "ETF Database",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnM2aVMweDBaaGJGVGFFZ09qd3pDd09SZlNVWkpQSzhjQTByQXBXZU1NMjZkelhTMmFsSHh2bk1sc3NzcWh3clphT1dkVWN0Qm5OOTZPSlc0dDlLcmlxNmpsQzBqRjgzbmczNjdkT2RFcmNLN2tpNmVLMlB4MFdEVjBLa1NPRU5R?oc=5",
+          "ts": 1791408609000
+        },
+        {
+          "title": "Are Rising Inflation Fears A Self-Fulfilling Prophecy?",
+          "source": "Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1U4NmVMNzJEcV9UcVp1cUJBWjRuN0g3RkFtOTgxVVNtQ2pzQXpKMWtNNXBNaW5jTWhoR09tZVVYMTZMZmJDZWwteDlTQk1vc25TUnZ4VXdTN2JKM01tSlNiaDNIZjdMS2JkRjNfenlPRlB1OG5pczR0bVdhU2I4YWd4NkQzeGRpdmNxaFkyWUcxSHFpeVE?oc=5",
+          "ts": 1791407899000
+        },
+        {
+          "title": "Fed Telegraphs Another Interest Rate Hike This Year | Economy | U.S. News",
+          "source": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEhjMDU4NFJob2h1bXdWZUlrRE52N190X0FXTnpUQ3JYZU16dWNYYVhyOWdHTF9TZE50VXR0X0otWHlBdklleVJlNmh4aWdYWXBLYXF0QkM2MHZtSFpLTmM1Zl9KS1FkRF9uQms1SlF5Y19ScmZSbnFJbHhxZEx0NlVRSDlOYkpFblhCMkZHVUNzWGZtdkJuNGhuZjhPV0JYUGVWeXNmdjV6WlU?oc=5",
+          "ts": 1791406921000
+        },
+        {
+          "title": "Fed’s minutes show no appetite for a series of interest-rate hikes",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaF9QQWc3MVFwTXJjNGdBRjd0NUZ6aExkdFpqRkxBSThxMUZteXNiSWJDak1qdTdwRXBkNkdQdDRfekQzN243ODFqNUhBQllGV0pQS3pWY090WThXMTVzZmFnc3pBbENCMGJLaVRXSF9zRUZtZ2dzZE0zelF5dzBadldsZm51dVNVaVpHQTNvVHA3Q2wzQWFmemJIOEs1RzZmQUp5N1hKZzJ1Umc?oc=5",
+          "ts": 1791401700000
+        },
+        {
+          "title": "Fed officials feared inflation pressures could spread, minutes show",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMlA2bG5CYS1MbGxWZE5Ja1EyRllGTFU4aVlscndFU09MSEhJNGRPVVZONllkb3ZSa29vMHNkaERCYjgzZjVieHMyMVVyQVZjRHhWTlJ2Q2NjeV9DM3F4cVdtc0xMR3c?oc=5",
+          "ts": 1791400365000
+        },
+        {
+          "title": "The Fed was unanimous about raising rates in September. Economic signals have since changed.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQTlWVlVDb2E1VWpneHhHanhPR1l4MS1DWndsWXhiNGtNQlhmSkppSFhqMy1kZkItaFFTSGpyMXBlT3ZDMUpiQ0xqaVBEZUpIajhtSW02UE03cGJGQWNreFNVaU5UekVvWGtiOGZyYmg3SFJjUEVRakhQV1U2WklZOVFTQXNaSHFpRlFfWVBfeWZPLUVQcGdCNmEtbFpNc29heUE2VTdzclNQdjlqZWRBeVVYQzJ6TDRGVU1jMXo1azFwcjl1eGRZcHRQVVBIbmpzdGpVQllGZjFaTTB4b0NBM1o4YlVJZGlfY3c?oc=5",
+          "ts": 1791398919000
+        }
+      ]
     },
     {
       "key": "markets",
       "label": "Markets",
-      "items": []
+      "items": [
+        {
+          "title": "Stock futures are little changed after S&P 500 retreats from record: Live updates",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZnFqRjRicl9Hc3lSeXlCQV9SS3QzVl83MFlGaUU5dDI5TFlWNWNmTktaTUtmLTJyNE5FQ3A2dE1lMU5pdk5IN21odldNeXlMemZpZEJuWFdVcHlWa21WaVBQOVRzNE9lR2dyOWhOOUF0amdINVkxStIBfkFVX3lxTFAxOVBHNFJ3UUZ5NXVkME1WOWpYZXZqSVpndGFCRUtTS2JJYnI3eVR6eXBDQjBkODBxYzdlOUFDaU5qMjQyS3J4b25sVmNtUlRmd0NBbGdOcjFMOHFGTEtWZkJzaU9ibXdWZjB4M2tpdWVIZi1vTS1lU19pUGk4QQ?oc=5",
+          "ts": 1791426635000
+        },
+        {
+          "title": "Stock Market News, Oct. 7, 2026: Treasury Yields Retreat After Strong Auction, Dow Slips",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2lHZVNpMXR1TEt6VjhHNTZqbldCdmJncHA1WDZ1TXJ2TUdSbklFTmlVWnFoODM2Yy05RTJBVUQ0QU5VeG1zZlVTRFczSkdtVVlTNzRfNkpXWXBLQ2JwQ2FNVUVRUGZyTjJ3djdaUGgtdGhPOW9LVHZJcHVRMDhpVjhKUFEtV1U?oc=5",
+          "ts": 1791422040000
+        },
+        {
+          "title": "S&P 500 and Nasdaq-100: Rising Treasury Yields Trigger Pullback From Records",
+          "source": "FXEmpire",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0k2Z3B0MGIxZTNGT3ZkNkh0TmU2VlV4YllGZU53X3lWb1czSHRQTW5HM0ZrR05Gb1A3QnRrdWgxOWZiQWxqTlJtSDREVlc3MkN3clZMM0ZaQWd4SzAyUFJ4SE1JbmpudUhQZDN6aFhjOElrY1MxRzVpYUFsMU1fMFBaUkNubm9jQVBnX2M5V05BOHB2R3ZTYW5Kamg2eUw1Rk5MTUtWRk5oNlR4aVA0cnB5VmtKYzY4a3JzQ0JBX01GY00?oc=5",
+          "ts": 1791419440000
+        },
+        {
+          "title": "Wall Street ends lower, off record highs, as Treasury yields climb",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlBxMHUzb2ZDaHpMY3JBZUl2Rk9XSE94bjQ2aFVndHhYeU4zS1Rwb2I1SlFJWjVpaE9sS0V4c2ZiQ2JsMzd0R0lydzlFejhJVkNYbU5ZTGVjeW9tWUJtTmUzX2VwY0N1SnpLVmdvQWRvM20xS25hRmhXRDdHVUppRk9hS2JhVExxdVUtX0hfQlNqWnd0OUhHWEpaa2w1Z3hXNVRkaw?oc=5",
+          "ts": 1791414857000
+        },
+        {
+          "title": "The S&P 500 Just Reached a New Record. Here’s What History Says About Buying Stocks Now.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNjhtQ0dxODdGT0lMUUYtekFPNENhSE5OUURxSV91alhEc3ZSNlJzbDJhTngtY01QR2RTSmR0Q1JRM3laUTZiUmtVSEpBNThibmNESWhZbTJodHM3cXBRakY1OXBEeTNtU0pWTldic2E2Y25VVkpoTXJIMUYzeF9fV0hLWXJ5V1lnNS1JaklrSFJrRHE0bW5rcWhZOV95b1M2M3hRQ2dqV2FpTTFVZEtfUzJLMkFycGlBSzFVNFRFS3FmQjZuQUZicVJiYkJWQQ?oc=5",
+          "ts": 1791414600000
+        },
+        {
+          "title": "The S&P 500 Just Reached a New Record. Here’s What History Says About Buying Stocks Now.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGczeXR3YnhTNUdmV2x5SkNLaFB2aWQ0UWJYMkIzdFFOVDdjY0E2dGNpaE5wak15a3VlazhkNGdtTF8zVUpka19DMHY1N252YnF4Q185Y0NZMHJ4eWpxODlHclhMVmd0cGZRc2tfOWJFTzYtNGU2cGVRc3FWVzBpd1ZISXRIdkxSaFZsU1NSVGtkR21x?oc=5",
+          "ts": 1791412202000
+        }
+      ]
     },
     {
       "key": "biotech",
       "label": "Biotech",
-      "items": []
+      "items": [
+        {
+          "title": "Phase 1, 2, And 3 Clinical Trials Explained: What Every Biotech Investor Needs To Know",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXFEVmJrUWg5dHFkd2loVmxfZXhsWjlrTXczX3h4ZTNSb1BINFRHSGlzZS15dTFyQ1RYaFF6N2g3SGlKLWM5cmdXbXFEMmdUTF9HWUFVVG5HVnlKVFZFclktZDhqR0F1QWhad0RIU1BWcjJmbXpTUU15b3ZiQ3RnMVMxMndjc1RMREw5V2J6aUpxZ3FuaERlTWZBS3RMQzZUQVN2emNMTlJ3eFdYcEpDak1yOXJrQkllUXU2OA?oc=5",
+          "ts": 1791387840000
+        },
+        {
+          "title": "ARPA-H unveils Surpass program to accelerate and expand clinical trials",
+          "source": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTl5ZGhVQ3dmMUlfUDFqejlBR2lIOXFuVTBfTDVwMVowMlVwOXNHQ2x6UUI3aVIydURWemR1MFF5SDc5Mld4ZFY2TkEyN2hHUVhkYXJjbTJiOEN0dXFLUXdzV3FkdV9CTzc1MzlKZjRLdlV3aXlxZjdtTndIczdiY1FJT0N5SUVINXAyTHA2TUpxMmp1d28zRm5Gb0JLN2NreVZIUw?oc=5",
+          "ts": 1791386725000
+        },
+        {
+          "title": "China’s Pharma Industry Goes Global: From Low-Cost Generics to Innovative Biotech- Expert View by Spherical Insights",
+          "source": "Spherical Insights",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUl3cXhCVDJ5V003clJLTVQ3b3A3X3VkVXNQaEY3Y0FhWE9hcWhST25VTl9mcGRXQ1ZNOEN0Z2xSUHFaRjltZHZ3d2FBTkpCOF9YVG1xNFlnakkzR0Q4X0QydURybFNSN3U1cGRIcGdFZE9pZkgydzFMN215TmlFc1RXaFQ5YXdGV1hxRGV6QXJNNk1TQWdZYlZ1MDAzSTgtVzhaWndaSlctc0IzbHNmWXRZeTZodEFFSEFnNQ?oc=5",
+          "ts": 1791354062000
+        },
+        {
+          "title": "Thermo Fisher Scientific Showcases New Solutions and Expanded Capabilities to Accelerate Drug Development at CPHI Milan 2026",
+          "source": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTXlwSnVRTkY5b0RfRUhQeEpac0hkYTI0RGlmejM0N2Z3V05mQ3BBVEw4NDJrVUg2RzZEZ2JGdHJnQnY5X0ZjQi1FeFFIV3N1RzROQ2tRT2RUWWNoMTdBN0FVczhuUjlZSTNvaXY1ck5ZRmduaW5iTGxPSjl6NGFsOGx1V19SVV9ndVJsSm1oQTV2S0pnRE5rcmJYam5KTEVoZkFQaUtuWmgxWlZkejdxTHhER0Zvbm9KeTJ6bkdydlZJeXcxSEx3TGRSQThSWmQybjBDM0xpbXhMVlQySi1Ibi1DdC03ekNyWXU1M1R2MUhXMDhfV1Uw?oc=5",
+          "ts": 1791279929000
+        },
+        {
+          "title": "AI biotech raises $75 million to design cancer drugs - Bizwomen",
+          "source": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU1g2UE94b0hzd2pHTFlzMWN4VnVvUGl0U3JpTkV6dGRJcUpySG13QnBlcjZMZG9mTFhNenJaRndVbW16c3NKSTJQc3NSTjVaeFZ0THdtenpvak1Vd3FOeUpzYndTMExfS2xYSEJ5Nkoxd3d3UDdkOVFyYkJoTlA5eml2OWFtejdfT2VfdkJaS2hFMjlMRWZDVldVUVZ3ZVR4WGxvakp0Q1d0UklBRlJVcWs3a0gxM2ZlYmlvMUwzam52bUYwcEthOFNNMU8zdw?oc=5",
+          "ts": 1791266520000
+        },
+        {
+          "title": "Brazil Unlocked: Biotech Leaders and Investors Make the Case for Earlier Clinical Trial Planning",
+          "source": "Oncodaily",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96TkUyZ21SMGdhcFp0MEczVE9PaDU4SWlCWnRoSnBUMDNOXzFSUU54Q0M4eUVrNFlRWHBFWENiaF9yU0lUenhnbTR2ak9iU21oclNybDRfYmUyLWxhdnVVRTJ4X0xUUEk?oc=5",
+          "ts": 1790959497000
+        }
+      ]
     },
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": []
+      "items": [
+        {
+          "title": "This buzzy biotech stock is up 60% this year. Cramer's advice on building a stake",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1puRm1ub180Z05YSFJZa2NWOV9CUmVqbkFLS04zbHlCYTRlQkpoYzhQY3pwOHRabGxOcXBucWxzd2xJSmZlc1hnQjF5c2NHQmFRcG9JOFllVVplQU1TLUV0V1JweGlGQmJBQ3pxXy1FNnBvNWRDVWJvS1E3R1VUTXVR?oc=5",
+          "ts": 1791327026000
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "ts": 1790674380000
+        },
+        {
+          "title": "uniQure stock crashes as Huntington’s gene therapy data weaken",
+          "source": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDlEZ0RrVWRaWGpCXzJmbkY2UlVaaXN2TDRjSHc1Sm1wdXIySkYzblQzakdhVWJ6emI0UV9RRndsbmR1TU5fVXM2Y1Fldi1WNEtHTHkwMkQxNW9uRkRsbHVnTUFQZXVsMXV4V21COThIaG5Vck5mTkduWWdjTmk1Wlp5bElfcWVzZkZCS1hQalV5S3ZodGRZQkNvZm0?oc=5",
+          "ts": 1790665200000
+        },
+        {
+          "title": "Kodiak's stock doubles as resurrected eye disease drug matches Eylea in phase 3",
+          "source": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWlYcURKVmRrWjlhbklsQWxEM2dQV2drS0kwNUhVN3pYWFRXaVdaQ3h3Y0VQLXdrNlNsUURGVy1YUlB2U1B2RGZmMnF3N3lQLThvTzQtdHRVdE1IVFg1STYyVURyT2RxbDJlR21NZktDdjJGVlliNXI5UUZSbF9Cc0VtTlJWWnpkMHMza21oR2FzeDMzRW5yZXJnMG9jdnZtTkE?oc=5",
+          "ts": 1790578800000
+        },
+        {
+          "title": "Biotech Stock Decoy Therapeutics (NASDAQ: DCOY) Leads Nasdaq Top Gainers on News of FDA Animal Rule Pathway",
+          "source": "Investorideas.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZFN2SUx3QXREdmRiYjFNdnVRY1EtdkROZmw3TWJYOFdOV1ZUVjl3NlViY1J4RTNPcndFRGo1UE5hRi1uTDg0TnZDb2JyMlpUalhMVEdTRmlwMEpCWWZIUFZkV1RBYjhzQWdLdF9teDV2OUxrTHJRVS00Sm5HV3lOaVhjX2lhdjRtVTVnSDVEUExwUDVldVU2VUVOdllscXBQdWpEZ0lzRU5HajFDY2NJNE1zTnY3aGoxWlctU1cybXRXRmJLN2lldGNUS1dzZTVZaFFCaEo4Nm9nSVRFc1VYTE5ZMTU5c0N0YWJfZmplcWg2QVBS?oc=5",
+          "ts": 1790094480000
+        },
+        {
+          "title": "ASX biotech expands diagnostics portfolio after FDA approval",
+          "source": "Morningstar Australia",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEpEZU4td2gwNnIyZW5zNWpfRGFiMjh1VGNGTTZMMWJIcjNzNUlRNG9ETUJsYVNmaXZWelRBaURSNDdORmo5emVtSzNYd0hrTTU5Q1IxYVFTU0hxTU1OX3BfSWt0dHAzbmNtc0xlMDdpajBaNnRoMVVQV3NSWmRjNlpydFQwNTNOTlA0OEtqV1hLcUJleWQ2ZVdCdWczYWM?oc=5",
+          "ts": 1789542000000
+        }
+      ]
     }
   ]
 }

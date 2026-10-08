@@ -1,77 +1,179 @@
 {
-  "updated": "2026-10-07T22:22:52.833Z",
-  "withNews": [],
-  "moversOnly": [
+  "updated": "2026-10-08T03:17:09.803Z",
+  "withNews": [
     {
-      "question": "Will the price of Ethereum be above $2,600 on October 10?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2600-on-october-10-2026",
-      "yes": 35,
-      "change24h": -50,
-      "vol24h": 11351,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,700 on October 9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2700-on-october-9-2026",
-      "yes": 3,
-      "change24h": -45,
-      "vol24h": 15334,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,500 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2500-october-5-11-2026",
-      "yes": 45,
-      "change24h": 38,
-      "vol24h": 58586,
-      "headlines": []
+      "question": "Cricket World Cup League 2: USA vs Namibia",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-usa-nam-2026-10-07",
+      "yes": 100,
+      "change24h": 34,
+      "vol24h": 74321,
+      "headlines": [
+        {
+          "title": "Homecoming: Gauff to Lead USA in BJK Cup Tie v. Hungary Next Month",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanRKckR2bU02ZWdJUm9pcVNGVHYyN2VsVWdRMzZrY1ItV2VoQVIzS0Zwbk1tdkRFZWR2QjlXeFNiUkhJTVI1ZWREUEYzX1dZUmNxR080SENMWGpha3FWWWRQWktCc0dYYjh4cVF6d2RqOF9xV0I4WmlmeEowVmNqRnZ4bUtIMmc1elFVWnBTaGw?oc=5",
+          "cat": "Tennis"
+        }
+      ]
     },
     {
       "question": "Will Bitcoin dip to $82,000 October 5-11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-82k-october-5-11-2026",
-      "yes": 60,
-      "change24h": 38,
-      "vol24h": 15055,
-      "headlines": []
+      "yes": 67,
+      "change24h": 18,
+      "vol24h": 14605,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Ethereum be above $2,600 on October 10?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2600-on-october-10-2026",
+      "yes": 37,
+      "change24h": -17,
+      "vol24h": 11953,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
       "question": "Will Bitcoin reach $88,000 October 5-11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-88k-october-5-11-2026",
-      "yes": 7,
-      "change24h": -37,
-      "vol24h": 14045,
-      "headlines": []
+      "yes": 6,
+      "change24h": -15,
+      "vol24h": 13667,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
-      "question": "Cricket World Cup League 2: USA vs Namibia",
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 78,
+      "change24h": 1,
+      "vol24h": 9568,
+      "headlines": [
+        {
+          "title": "Fed Telegraphs Another Interest Rate Hike This Year | Economy | U.S. News",
+          "source": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEhjMDU4NFJob2h1bXdWZUlrRE52N190X0FXTnpUQ3JYZU16dWNYYVhyOWdHTF9TZE50VXR0X0otWHlBdklleVJlNmh4aWdYWXBLYXF0QkM2MHZtSFpLTmM1Zl9KS1FkRF9uQms1SlF5Y19ScmZSbnFJbHhxZEx0NlVRSDlOYkpFblhCMkZHVUNzWGZtdkJuNGhuZjhPV0JYUGVWeXNmdjV6WlU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed officials feared inflation pressures could spread, minutes show",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMlA2bG5CYS1MbGxWZE5Ja1EyRllGTFU4aVlscndFU09MSEhJNGRPVVZONllkb3ZSa29vMHNkaERCYjgzZjVieHMyMVVyQVZjRHhWTlJ2Q2NjeV9DM3F4cVdtc0xMR3c?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 437346,
+      "headlines": [
+        {
+          "title": "Fed Telegraphs Another Interest Rate Hike This Year | Economy | U.S. News",
+          "source": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEhjMDU4NFJob2h1bXdWZUlrRE52N190X0FXTnpUQ3JYZU16dWNYYVhyOWdHTF9TZE50VXR0X0otWHlBdklleVJlNmh4aWdYWXBLYXF0QkM2MHZtSFpLTmM1Zl9KS1FkRF9uQms1SlF5Y19ScmZSbnFJbHhxZEx0NlVRSDlOYkpFblhCMkZHVUNzWGZtdkJuNGhuZjhPV0JYUGVWeXNmdjV6WlU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed officials feared inflation pressures could spread, minutes show",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMlA2bG5CYS1MbGxWZE5Ja1EyRllGTFU4aVlscndFU09MSEhJNGRPVVZONllkb3ZSa29vMHNkaERCYjgzZjVieHMyMVVyQVZjRHhWTlJ2Q2NjeV9DM3F4cVdtc0xMR3c?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 365555,
+      "headlines": [
+        {
+          "title": "Fed Telegraphs Another Interest Rate Hike This Year | Economy | U.S. News",
+          "source": "U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEhjMDU4NFJob2h1bXdWZUlrRE52N190X0FXTnpUQ3JYZU16dWNYYVhyOWdHTF9TZE50VXR0X0otWHlBdklleVJlNmh4aWdYWXBLYXF0QkM2MHZtSFpLTmM1Zl9KS1FkRF9uQms1SlF5Y19ScmZSbnFJbHhxZEx0NlVRSDlOYkpFblhCMkZHVUNzWGZtdkJuNGhuZjhPV0JYUGVWeXNmdjV6WlU?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed officials feared inflation pressures could spread, minutes show",
+          "source": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMlA2bG5CYS1MbGxWZE5Ja1EyRllGTFU4aVlscndFU09MSEhJNGRPVVZONllkb3ZSa29vMHNkaERCYjgzZjVieHMyMVVyQVZjRHhWTlJ2Q2NjeV9DM3F4cVdtc0xMR3c?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Orlando Magic win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 14900,
+      "headlines": [
+        {
+          "title": "Box score: Magic 122, Grizzlies 118",
+          "source": "Daily Memphian",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0J5dS1rd1VIT0xBMFhGRktxNUJYdXNxd2xRYm5VVDJPekp5QzRTVFdvQ0tTYnR2NExacVpSUHJjRnVaV1I1bFJHNUpnelcyeHBUWUsxSnY3bW1vZXZnVXY0NFVhOFA2dHI1b1J3VTRuZ19qdFZsVzFvUGNNLUZyc3VIZ3EtXzE1WDloMXZwNXlJRUQ1ZE91MEhlRURKaHNnY0F6dlNqWUJ1MExfb25QUThvanJhQ2xnWUxua19jaGdKYzFOR2c4?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "T20 World Cup Asia Sub-Regional Qualifier A: Kuwait vs Thailand",
       "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-usa-nam-2026-10-07",
-      "yes": 98,
-      "change24h": 35,
-      "vol24h": 63670,
+      "url": "https://polymarket.com/event/crint-kwt-tha-2026-10-07",
+      "yes": 99,
+      "change24h": 6,
+      "vol24h": 28187,
       "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $86,000 on October 9?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-86k-on-october-9-2026",
-      "yes": 8,
-      "change24h": -33,
-      "vol24h": 10685,
+      "question": "T20 World Cup Asia Sub-Regional Qualifier A: Bhutan vs Mongolia",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-btn-mng-2026-10-07",
+      "yes": 99,
+      "change24h": 4,
+      "vol24h": 11315,
       "headlines": []
     },
     {
-      "question": "Will Ethereum reach $2,800 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2800-october-5-11-2026",
-      "yes": 3,
-      "change24h": -32,
-      "vol24h": 26559,
+      "question": "T20 World Cup Asia Sub-Regional Qualifier A: Bahrain vs Myanmar",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-bhr-mmr-2026-10-07",
+      "yes": 99,
+      "change24h": 4,
+      "vol24h": 9160,
       "headlines": []
     }
   ]
