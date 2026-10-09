@@ -1,35 +1,19 @@
 {
-  "updated": "2026-10-09T12:11:51.431Z",
+  "updated": "2026-10-09T21:56:38.652Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $80,000 October 5-11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-5-11-2026",
       "yes": 12,
-      "change24h": -23,
-      "vol24h": 98827,
+      "change24h": -31,
+      "vol24h": 71855,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-october-decision",
-      "yes": 83,
-      "change24h": 17,
-      "vol24h": 8981,
-      "headlines": [
-        {
-          "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month",
+          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
           "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckNMd0xCc1RMemJpSlNXQVBEeVFKUktQWmFwTlBZWTFrM19DWTA1d1dtN3djS0tSbTY3VzhWYlp2NEdpQ1RIdUthT2xGMVhPNmxqRXFyUEloVVNRQWZ6S3VQeHlZaklEbGh2SWRmckNONnZXaV81TjItOTAwZlBPakZsTzRoVHpMUDVEYlFpbTJraXM?oc=5",
-          "cat": "Macro"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
+          "cat": "World Cup"
         },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -40,13 +24,19 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $80,000 in October?",
+      "question": "Will Ethereum dip to $2,400 October 5-11?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026",
-      "yes": 63,
-      "change24h": -12,
-      "vol24h": 68082,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-october-5-11-2026",
+      "yes": 11,
+      "change24h": -25,
+      "vol24h": 14613,
       "headlines": [
+        {
+          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -59,10 +49,16 @@
       "question": "Will the price of Bitcoin be above $80,000 on October 11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-11-2026",
-      "yes": 97,
-      "change24h": 12,
-      "vol24h": 12988,
+      "yes": 98,
+      "change24h": 17,
+      "vol24h": 13077,
       "headlines": [
+        {
+          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -75,64 +71,125 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 85,
-      "change24h": 1,
-      "vol24h": 167744,
+      "yes": 84,
+      "change24h": -1,
+      "vol24h": 163011,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSG0xUFNIdm82OHhNV0dBcmdJUG0wVlNaWDcybzl2cS16T3hnS291b2tUWG5rNVl2RUR0NDJMTGR0eHFIT1E5TzJpbVpyOEFNREl0RHhPeEZ0TGZJVmhIZXFLSHRma3dqVXlLU1piRFRwYTRiWGx0RHpOR1BrRzZudUNZcFM3d9IBiwFBVV95cUxOWlBpbVpLWTRVOUUwdkhYa3RNSzhYbnBXNW5iWFJCR3VEQzE5LUMyd3NVdHUxenpLbnlBdW4xUS1ZdXBOZDNQdS01TVdudDJ4SEdVVl85bkxPSzBVMW5qdjFUdU1fSkQyMWhjaWZOSEc5ZVYzYUlwUkNqMmdLMjg4UUpQdWZjUUpVRHNR?oc=5",
+          "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 23,
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 6,
       "change24h": 1,
-      "vol24h": 12861,
+      "vol24h": 13071,
       "headlines": [
+        {
+          "title": "Bears legend Mike Ditka passes away at 86",
+          "source": "Chicago Bears",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWRBX2pFcWRoUHVCc1ZJLTJXQy1odTE4WHpoT25Gb3loTU9jcmk3RnRWZzM1MXl3VTVubm9zN2hhVF9YOWtjUF9vNmZFYkR0TElvbHZ0UzBIU1FMR0J0bGNtWFp3MDh4T3RHZUkwOUNiRC1qWnpvT3ZxejZiSUZZLQ?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 77,
+      "change24h": -1,
+      "vol24h": 10983,
+      "headlines": [
+        {
+          "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 355540,
+      "headlines": [
+        {
+          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSG0xUFNIdm82OHhNV0dBcmdJUG0wVlNaWDcybzl2cS16T3hnS291b2tUWG5rNVl2RUR0NDJMTGR0eHFIT1E5TzJpbVpyOEFNREl0RHhPeEZ0TGZJVmhIZXFLSHRma3dqVXlLU1piRFRwYTRiWGx0RHpOR1BrRzZudUNZcFM3d9IBiwFBVV95cUxOWlBpbVpLWTRVOUUwdkhYa3RNSzhYbnBXNW5iWFJCR3VEQzE5LUMyd3NVdHUxenpLbnlBdW4xUS1ZdXBOZDNQdS01TVdudDJ4SEdVVl85bkxPSzBVMW5qdjFUdU1fSkQyMWhjaWZOSEc5ZVYzYUlwUkNqMmdLMjg4UUpQdWZjUUpVRHNR?oc=5",
+          "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 31978,
+      "headlines": [
+        {
+          "title": "The road to the Eagles began in England for Joshua Weru",
+          "source": "Philadelphia Eagles",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVVjT2pVQ3o4amlYQTR1Q1Jua1ZOSDNsOHZBQklmTGVRMjVGeHlRVjRXaUhBSUdOWHRSYnZycUt6OFpZWEJqODdrUkZGTVVnazk2SWNFMThTNHh5dWZTd011Y1hrS3NUZTcydVhZY243NXktYVE3bnVDWkdULVo0MWFjRGhNMTdaVDh5UUd0SnlWa0YzM1FrMTBhajZaRHNKdGRDcER6cy1NbmNNaS1yMURvTkN5YlFaV3lva1hpdGNyb2JV?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Washington Wizards win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 10141,
+      "headlines": [
+        {
+          "title": "How ‘Mount Washington’ has become a key landmark in the Steelers offense",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0tMTF9vWE5md1NJaUZfaFc3SGhINFkzR0haVjNFaUt0V0tOaF9NNG05dmc3eHBMdHROY1BOUVppcjhVM1lzSEhQY3FjLXJiRndKUFoyMnBmTVNjalB1OEpHOEVyUVhmU3BXbWlVOTVndzB0RVB2SXdUM2ZfbDdYZHlVWW1PMDFUUjYxdWs0VDZ1QUt6UDJxTUZYTlp0OUNxU2hLV2VPa1V4aWwx?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 44,
-      "change24h": 5,
-      "vol24h": 24995,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 30,
-      "change24h": 5,
-      "vol24h": 10413,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 63,
+      "change24h": 4,
+      "vol24h": 19039,
       "headlines": []
     }
   ]
