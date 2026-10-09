@@ -1,20 +1,14 @@
 {
-  "updated": "2026-10-09T03:23:15.654Z",
+  "updated": "2026-10-09T12:11:51.431Z",
   "withNews": [
     {
-      "question": "Will the price of Ethereum be above $2,600 on October 10?",
+      "question": "Will Bitcoin dip to $80,000 October 5-11?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2600-on-october-10-2026",
-      "yes": 4,
-      "change24h": -33,
-      "vol24h": 20896,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-5-11-2026",
+      "yes": 12,
+      "change24h": -23,
+      "vol24h": 98827,
       "headlines": [
-        {
-          "title": "October 9, 2026: Luciano Darderi vs Stefanos Tsitsipas Round of 64 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXRSZmVXdFF1emdiSVdqVXliV3hacnBwX25TQkZKei1aUlhnLXlDYmtaUGZwUXZySUdaSVZpWVRfeUxKekZnWUVjNzJuSk94MVNId0hRdEZQZW1GUUtSclR6RVNCNDhQaEZ1Y251bENUOVpDMjFoUkNYTDdSUUVMX1pKMnJRRm1SNGlYelRxR0Utc1NSWmVKVWNzbFRaT19WMDZ3Y0c2bldoRkdpbk1VVlZrQkZnajdaZWFxeFRKYjBNVGRBdGxkRA?oc=5",
-          "cat": "Tennis"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -24,83 +18,71 @@
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,400 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-october-2026",
-      "yes": 74,
-      "change24h": 20,
-      "vol24h": 37560,
-      "headlines": [
-        {
-          "title": "October 9, 2026: Luciano Darderi vs Stefanos Tsitsipas Round of 64 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXRSZmVXdFF1emdiSVdqVXliV3hacnBwX25TQkZKei1aUlhnLXlDYmtaUGZwUXZySUdaSVZpWVRfeUxKekZnWUVjNzJuSk94MVNId0hRdEZQZW1GUUtSclR6RVNCNDhQaEZ1Y251bENUOVpDMjFoUkNYTDdSUUVMX1pKMnJRRm1SNGlYelRxR0Utc1NSWmVKVWNzbFRaT19WMDZ3Y0c2bldoRkdpbk1VVlZrQkZnajdaZWFxeFRKYjBNVGRBdGxkRA?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,400 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-october-5-11-2026",
-      "yes": 27,
-      "change24h": 20,
-      "vol24h": 19612,
-      "headlines": [
-        {
-          "title": "October 9, 2026: Luciano Darderi vs Stefanos Tsitsipas Round of 64 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXRSZmVXdFF1emdiSVdqVXliV3hacnBwX25TQkZKei1aUlhnLXlDYmtaUGZwUXZySUdaSVZpWVRfeUxKekZnWUVjNzJuSk94MVNId0hRdEZQZW1GUUtSclR6RVNCNDhQaEZ1Y251bENUOVpDMjFoUkNYTDdSUUVMX1pKMnJRRm1SNGlYelRxR0Utc1NSWmVKVWNzbFRaT19WMDZ3Y0c2bldoRkdpbk1VVlZrQkZnajdaZWFxeFRKYjBNVGRBdGxkRA?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?",
+      "question": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-hikepausehike-in-the-next-three-decisions-sepoctdec",
-      "yes": 65,
-      "change24h": 6,
-      "vol24h": 9704,
+      "url": "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-october-decision",
+      "yes": 83,
+      "change24h": 17,
+      "vol24h": 8981,
       "headlines": [
         {
-          "title": "Photo Gallery: Miami Heat vs. New Orleans Pelicans | Thursday, Oct. 8, 2026",
-          "source": "Miami Herald",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKYWhkZWJVdkMwMzdpYk5ab2dyZ0NJbWl6XzAtanpsUXJEWTg5REtjZGU4SlkzMGktWndCNFh1VkRQSERiN1RiQ0lpeS1rWl83d0dnZ09Kdl93V1VManJuS0kxOHg3dDBmNUczZnJCYjlVM1lGUHFkaVRwWQ?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
-          "source": "WKRC",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVZycGxDaUpSVHk4ZTF6Z0dPMmU0ek5GWEp5Q1FCMVlFSTFPalVRTFdNU0t0QnRBWGtNeXpYUG1vRmd6c2t5TkE3SjRMWnh3MHFlOG5lOG9ad0NvS2IxeUpYNFFHU184eVpDemxfMjdMblU1NUxldDVHOFd6SXdxTG1XNkJZa1g1X1hRVVY4Yk1CdTYySFJiLXRRSTNLcHpUUDlQMUJvZTcwc2N2SlE?oc=5",
+          "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckNMd0xCc1RMemJpSlNXQVBEeVFKUktQWmFwTlBZWTFrM19DWTA1d1dtN3djS0tSbTY3VzhWYlp2NEdpQ1RIdUthT2xGMVhPNmxqRXFyUEloVVNRQWZ6S3VQeHlZaklEbGh2SWRmckNONnZXaV81TjItOTAwZlBPakZsTzRoVHpMUDVEYlFpbTJraXM?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 80,
-      "change24h": 2,
-      "vol24h": 14999,
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026",
+      "yes": 63,
+      "change24h": -12,
+      "vol24h": 68082,
       "headlines": [
         {
-          "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
-          "source": "WKRC",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVZycGxDaUpSVHk4ZTF6Z0dPMmU0ek5GWEp5Q1FCMVlFSTFPalVRTFdNU0t0QnRBWGtNeXpYUG1vRmd6c2t5TkE3SjRMWnh3MHFlOG5lOG9ad0NvS2IxeUpYNFFHU184eVpDemxfMjdMblU1NUxldDVHOFd6SXdxTG1XNkJZa1g1X1hRVVY4Yk1CdTYySFJiLXRRSTNLcHpUUDlQMUJvZTcwc2N2SlE?oc=5",
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $80,000 on October 11?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-11-2026",
+      "yes": 97,
+      "change24h": 12,
+      "vol24h": 12988,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 85,
+      "change24h": 1,
+      "vol24h": 167744,
+      "headlines": [
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
           "cat": "Macro"
         },
         {
@@ -112,94 +94,24 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Will 1 Fed rate hike happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 85,
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 23,
       "change24h": 1,
-      "vol24h": 453053,
+      "vol24h": 12861,
       "headlines": [
         {
-          "title": "October 9, 2026: Luciano Darderi vs Stefanos Tsitsipas Round of 64 match Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXRSZmVXdFF1emdiSVdqVXliV3hacnBwX25TQkZKei1aUlhnLXlDYmtaUGZwUXZySUdaSVZpWVRfeUxKekZnWUVjNzJuSk94MVNId0hRdEZQZW1GUUtSclR6RVNCNDhQaEZ1Y251bENUOVpDMjFoUkNYTDdSUUVMX1pKMnJRRm1SNGlYelRxR0Utc1NSWmVKVWNzbFRaT19WMDZ3Y0c2bldoRkdpbk1VVlZrQkZnajdaZWFxeFRKYjBNVGRBdGxkRA?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
-          "source": "WKRC",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcVZycGxDaUpSVHk4ZTF6Z0dPMmU0ek5GWEp5Q1FCMVlFSTFPalVRTFdNU0t0QnRBWGtNeXpYUG1vRmd6c2t5TkE3SjRMWnh3MHFlOG5lOG9ad0NvS2IxeUpYNFFHU184eVpDemxfMjdMblU1NUxldDVHOFd6SXdxTG1XNkJZa1g1X1hRVVY4Yk1CdTYySFJiLXRRSTNLcHpUUDlQMUJvZTcwc2N2SlE?oc=5",
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": -1,
-      "vol24h": 15313,
-      "headlines": [
-        {
-          "title": "Buccaneers vs. Cowboys live updates, inactives, news: Joey Porter Jr. a late scratch; Dak Prescott, CeeDee Lamb host rookie QB Jalon Daniels & Co. on 'Thursday Night Football'",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONWlLSmtaemhnczBCVjY1c29NckUwU0w2ODVGOVJTcDRFeGxJTlRwcUZOdVJCWXVJclM2eG5nQTZkd25MVUd4VnR2X3p6WC1wbWdDMVY3QzFwbmlyYTl4RjVzU3NzVVhMUTJxRGJXYUxGV3l1amlIRzJoZlRyRmxrNDJGbG1zMHdpQXNidkxtMko2S0VqQ0Z1dlJUa2ZZT0UzSm1xeGJqclV2UlprSzRnTGVRQXVBQzNFMllPOU9NUzlfSXFFR2lodGI2R1dWc0J1YlVBMzZmV0ZjVXpodGI1VjZWV2xkQTRlUGY2ejVnbnc?oc=5",
-          "cat": "NFL"
         },
         {
-          "title": "Turnover on downs: Prescott's incompletion to Ferguson gives Bucs the ball in Dallas' territory",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUNIRmo1QWdhZ0JWUVJkSk9Wakh3eFJ4TUhNREp2VkIzV1NGT2lteVF2WFRmNTlicERNbC1RTjNsVDBXX0dWZHMtVUVoc1ljX2RHa2dmZ21pSTVfTUY1UFdJWmNoUE9xZmhEcWFZUjhTNkhERGtwaDlRRTZGWjJKUU9VclZoWmpXLUpBNEpidVFzV0kySGRBcVVTWG10dm91S3FXOHItSExZOWRPcE4zN2FiRjRURS13U3FaUg?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 31535,
-      "headlines": [
-        {
-          "title": "Philadelphia newlyweds tour Croatia after World Cup fans photobomb their wedding shoot",
-          "source": "CBS News",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaGplS01BN1FTZUxmTHhud1lkVVhVeVVnQUkxZ3ZtcHNGUWF6VDFnM1dXcjBlV2VYSUQ4cXhPODJweXFKTi1zbHZsXzZ1U2NHcVExVjF6NXNmZXYwNTYxTVdVVmpwT096U2J5ZldWUDlQZUtuZjU5cEY2MG1OSUtJSXNnRF9jUDg?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Washington Wizards win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 17357,
-      "headlines": [
-        {
-          "title": "NBA Preseason Highlights: Wizards at Knicks (10/8) Stream of National Basketball Association",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeXRON2xZUkRXRzM2eGM1UklKVURVMG5lNTJpQm93UGJDdndsTXpKb3N5Vkt4ajZPVkJSdFFYNG1kSHR5SlVycHBtN3hLaFpkVlBONjU2eVBWNGdYMWZTQXBmVFY3MUZ4V3pzUWJNSlM5NUE3ek1wUXZDRXVQNlZNMmg3YkE?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 9848,
-      "headlines": [
-        {
-          "title": "Turnover on downs: Prescott's incompletion to Ferguson gives Bucs the ball in Dallas' territory",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUNIRmo1QWdhZ0JWUVJkSk9Wakh3eFJ4TUhNREp2VkIzV1NGT2lteVF2WFRmNTlicERNbC1RTjNsVDBXX0dWZHMtVUVoc1ljX2RHa2dmZ21pSTVfTUY1UFdJWmNoUE9xZmhEcWFZUjhTNkhERGtwaDlRRTZGWjJKUU9VclZoWmpXLUpBNEpidVFzV0kySGRBcVVTWG10dm91S3FXOHItSExZOWRPcE4zN2FiRjRURS13U3FaUg?oc=5",
-          "cat": "NFL"
+          "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSG0xUFNIdm82OHhNV0dBcmdJUG0wVlNaWDcybzl2cS16T3hnS291b2tUWG5rNVl2RUR0NDJMTGR0eHFIT1E5TzJpbVpyOEFNREl0RHhPeEZ0TGZJVmhIZXFLSHRma3dqVXlLU1piRFRwYTRiWGx0RHpOR1BrRzZudUNZcFM3d9IBiwFBVV95cUxOWlBpbVpLWTRVOUUwdkhYa3RNSzhYbnBXNW5iWFJCR3VEQzE5LUMyd3NVdHUxenpLbnlBdW4xUS1ZdXBOZDNQdS01TVdudDJ4SEdVVl85bkxPSzBVMW5qdjFUdU1fSkQyMWhjaWZOSEc5ZVYzYUlwUkNqMmdLMjg4UUpQdWZjUUpVRHNR?oc=5",
+          "cat": "Macro"
         }
       ]
     }
@@ -209,45 +121,18 @@
       "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 39,
-      "change24h": -5,
-      "vol24h": 27814,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 83,
-      "change24h": -5,
-      "vol24h": 12630,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 39,
-      "change24h": 4,
-      "vol24h": 20195,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 22,
-      "change24h": 4,
-      "vol24h": 19588,
+      "yes": 44,
+      "change24h": 5,
+      "vol24h": 24995,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 27,
-      "change24h": -4,
-      "vol24h": 15125,
+      "yes": 30,
+      "change24h": 5,
+      "vol24h": 10413,
       "headlines": []
     }
   ]
