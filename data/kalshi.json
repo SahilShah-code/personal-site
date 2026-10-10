@@ -1,19 +1,27 @@
 {
-  "updated": "2026-10-10 19:32 UTC",
-  "net_return_pct": -45.2,
-  "realized_return_pct": -45.2,
+  "updated": "2026-10-10 22:57 UTC",
+  "net_return_pct": -51.5,
+  "realized_return_pct": -51.5,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 25,
-  "settled_total": 4,
+  "win_rate_pct": 20,
+  "settled_total": 5,
   "curve": [
     0,
     -100,
     32,
     -31.9,
-    -45.2
+    -45.2,
+    -51.5
   ],
   "active": [],
   "settled": [
+    {
+      "title": "UCLA wins 3Q by over 2.5 points",
+      "ticker": "KXNCAAF3QSPREAD-26OCT10UCLAORE-UCLA3",
+      "result": "no",
+      "date": "2026-10-10",
+      "return_pct": -100
+    },
     {
       "title": "yes Houston,yes Philadelphia,yes Chicago",
       "ticker": "KXMVECROSSCATEGORY0-S2026395CB64A82B-B28C0F6CE36",
