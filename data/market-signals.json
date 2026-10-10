@@ -1,20 +1,14 @@
 {
-  "updated": "2026-10-09T21:56:38.652Z",
+  "updated": "2026-10-10T03:02:48.849Z",
   "withNews": [
     {
       "question": "Will Bitcoin dip to $80,000 October 5-11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-5-11-2026",
-      "yes": 12,
-      "change24h": -31,
-      "vol24h": 71855,
+      "yes": 7,
+      "change24h": -22,
+      "vol24h": 66952,
       "headlines": [
-        {
-          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -27,16 +21,10 @@
       "question": "Will Ethereum dip to $2,400 October 5-11?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-october-5-11-2026",
-      "yes": 11,
-      "change24h": -25,
-      "vol24h": 14613,
+      "yes": 5,
+      "change24h": -20,
+      "vol24h": 14331,
       "headlines": [
-        {
-          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -46,19 +34,13 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $80,000 on October 11?",
+      "question": "Will Ethereum reach $2,600 October 5-11?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-11-2026",
-      "yes": 98,
-      "change24h": 17,
-      "vol24h": 13077,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2600-october-5-11-2026",
+      "yes": 6,
+      "change24h": -15,
+      "vol24h": 15756,
       "headlines": [
-        {
-          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -73,19 +55,35 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 84,
       "change24h": -1,
-      "vol24h": 163011,
+      "vol24h": 180965,
       "headlines": [
-        {
-          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
           "source": "Norada Real Estate Investments",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": -1,
+      "vol24h": 23338,
+      "headlines": [
+        {
+          "title": "Despite Cowboys' defensive struggles, Stephen Jones said the team will 'stick with where we're headed'",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOai14d1RCUm5mRHUtYkZISVkzS0g4VjEwRWE0TTM1UUhOcW9hLXNhRnRFRzBmUjZQTmZRMjI1ZGJxaFRWUmVudHFiSjEwdm81anV4djQ3STFrMGczWGp6M0s4UEhlSVFleHpBM0hpaWZwcTRKY1J1a2RPQnFpeUVuXzNFcy1HeW9nenRuRm9JTURIUHdtRG1qMDl0a1ZDLU90QzJCOHdLajZsSEpxc3J6YQ?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -95,23 +93,23 @@
       "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
       "yes": 6,
       "change24h": 1,
-      "vol24h": 13071,
+      "vol24h": 14393,
       "headlines": [
         {
-          "title": "Bears legend Mike Ditka passes away at 86",
-          "source": "Chicago Bears",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWRBX2pFcWRoUHVCc1ZJLTJXQy1odTE4WHpoT25Gb3loTU9jcmk3RnRWZzM1MXl3VTVubm9zN2hhVF9YOWtjUF9vNmZFYkR0TElvbHZ0UzBIU1FMR0J0bGNtWFp3MDh4T3RHZUkwOUNiRC1qWnpvT3ZxejZiSUZZLQ?oc=5",
+          "title": "Mike Ditka's defining coaching moments: Remembering the Bears legend",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONG9kbnhiU3N5TDZmdFRUd3p2WUVncXFRUWQ3VzRzb21xREFJNWQ4S1F6UHoyZmVYNDZPNnpQRFdEb0NuY0NmWDRYT2haRm5fb19fYVVibzFwWnZKczVIWjNUVXd1Ni1HbW91QkFaaFlkTHRxenc2UHRWYnlVcml5bXlmZk1RdkMwX0lGMk9YeHl2QkFsYkhGWTNkdEJYNVdJeTJzZFQwV3BzRkhqcGhzcE4xY3c3clRXMnc?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Another Fed rate hike in 2026?",
+      "question": "Will 1 Fed rate hike happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 77,
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 22,
       "change24h": -1,
-      "vol24h": 10983,
+      "vol24h": 8615,
       "headlines": [
         {
           "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
@@ -133,35 +131,51 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 355540,
+      "vol24h": 351909,
       "headlines": [
-        {
-          "title": "How to watch Werder Bremen vs. Borussia Dortmund in the U.S.: TV channel and streaming options for October 9",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWJpWkhNa3RtVjF6RmdXTkpsOUFTQTVsZllCZnJJQ2ZobzhBeXNYOTNOckRkWXBGZWtXZHpmeGpHZ3Q5ZEJlZVgwOWFSSF9YdkVET2dhOWE1eFk3NndxWUU1VDlLTEplSUJtSXpjVmxQb1Z4Yzg5aXNOeGZHOXRaVU5XQjNRVFVYbFlkSWNScDZqRmJBMXZKbE1rel93X2FyWmhudjlqMkZuZE1qcnU5MWxjakFVSV9mUlJ5d2dDejB1UQ?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
           "source": "Norada Real Estate Investments",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 2,
+      "question": "Will Brooklyn Nets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-brooklyn-nets-win-the-2027-nba-finals",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 31978,
+      "vol24h": 207377,
       "headlines": [
         {
-          "title": "The road to the Eagles began in England for Joshua Weru",
-          "source": "Philadelphia Eagles",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVVjT2pVQ3o4amlYQTR1Q1Jua1ZOSDNsOHZBQklmTGVRMjVGeHlRVjRXaUhBSUdOWHRSYnZycUt6OFpZWEJqODdrUkZGTVVnazk2SWNFMThTNHh5dWZTd011Y1hrS3NUZTcydVhZY243NXktYVE3bnVDWkdULVo0MWFjRGhNMTdaVDh5UUd0SnlWa0YzM1FrMTBhajZaRHNKdGRDcER6cy1NbmNNaS1yMURvTkN5YlFaV3lva1hpdGNyb2JV?oc=5",
-          "cat": "NFL"
+          "title": "Zach Edey News: Nets 10 points with three stocks",
+          "source": "RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNrTmx3cUd3amQ1ZjV1M1lmYV9oSDM2aWVoOENmdGVNcUotd0ZuVVdwaV9yX25waTUyQm1IOVI4LWVxa0Y4NzVSRHQ1aFlmc0FCRmtfQk1Cb3UyamJHTS1vOFl2bXNQWHJ0bldPYTRkU3l2NWJOR0t4SjRELXNZUlZwaU1YbWlOOGgtVjZZdUdFR3ZIN3ltem5VSjU5WjlOa0E?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open, Qualification: Aoi Ito vs Alycia Parks",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-ito-parks-2026-10-09",
+      "yes": 40,
+      "change24h": 0,
+      "vol24h": 22630,
+      "headlines": [
+        {
+          "title": "Aoi Ito vs Alycia Parks - Match WTA - Dongfeng Voyah Wuhan Open 1970 - qualifying-1st-round",
+          "source": "tennismajors.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFZXbGxpYjVabVVITGtBQTdEai1Sc0x2WFN1QmpKNG5iSkk0R0ZQOENHX3locGtzNmx4clUyYUhheHowZ3VyNVJsTFdFb1lRTi03emV2SnFjcXVmbGJvd0VHb2plUmE5QjVMRlAwcHZValh0Tk1PR2NaNlJ6Z0hWckhEVnZ0NlhmRjVjYWIzZ212NFhTTDZPcQ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -171,7 +185,7 @@
       "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 10141,
+      "vol24h": 10669,
       "headlines": [
         {
           "title": "How ‘Mount Washington’ has become a key landmark in the Steelers offense",
@@ -180,16 +194,32 @@
           "cat": "NFL"
         }
       ]
+    },
+    {
+      "question": "Wuhan Tennis Open, Qualification: Sinja Kraus vs Magda Linette",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-kraus-linette-2026-10-10",
+      "yes": 48,
+      "change24h": 0,
+      "vol24h": 10332,
+      "headlines": [
+        {
+          "title": "Aoi Ito vs Alycia Parks - Match WTA - Dongfeng Voyah Wuhan Open 1970 - qualifying-1st-round",
+          "source": "tennismajors.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFZXbGxpYjVabVVITGtBQTdEai1Sc0x2WFN1QmpKNG5iSkk0R0ZQOENHX3locGtzNmx4clUyYUhheHowZ3VyNVJsTFdFb1lRTi03emV2SnFjcXVmbGJvd0VHb2plUmE5QjVMRlAwcHZValh0Tk1PR2NaNlJ6Z0hWckhEVnZ0NlhmRjVjYWIzZ212NFhTTDZPcQ?oc=5",
+          "cat": "Tennis"
+        }
+      ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 63,
-      "change24h": 4,
-      "vol24h": 19039,
+      "question": "Will New York Liberty win the 2026 WNBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-liberty-win-the-2026-wnba-finals-453",
+      "yes": 0,
+      "change24h": -6,
+      "vol24h": 22907,
       "headlines": []
     }
   ]
