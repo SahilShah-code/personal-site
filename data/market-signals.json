@@ -1,61 +1,13 @@
 {
-  "updated": "2026-10-10T11:29:10.643Z",
+  "updated": "2026-10-10T16:29:03.750Z",
   "withNews": [
-    {
-      "question": "Will Bitcoin dip to $80,000 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-5-11-2026",
-      "yes": 3,
-      "change24h": -16,
-      "vol24h": 47921,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,400 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-october-5-11-2026",
-      "yes": 3,
-      "change24h": -16,
-      "vol24h": 9319,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,600 October 5-11?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-october-5-11-2026",
-      "yes": 5,
-      "change24h": -10,
-      "vol24h": 16616,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 84,
       "change24h": -1,
-      "vol24h": 174768,
+      "vol24h": 131288,
       "headlines": [
         {
           "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
@@ -72,12 +24,60 @@
       ]
     },
     {
+      "question": "Will Bitcoin dip to $70,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-october-2026",
+      "yes": 9,
+      "change24h": -1,
+      "vol24h": 21867,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $65,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-october-2026",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 74694,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $62,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-october-2026",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 56534,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
       "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 299215,
+      "vol24h": 56342,
       "headlines": [
         {
           "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
@@ -99,7 +99,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 122803,
+      "vol24h": 17376,
       "headlines": [
         {
           "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
@@ -116,31 +116,27 @@
       ]
     },
     {
-      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
+      "question": "NBA: Stephen Curry to leave Warriors?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
-      "yes": 2,
+      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 12487,
+      "vol24h": 14470,
       "headlines": [
         {
-          "title": "Israeli basketball player signs with Cleveland Cavaliers for NBA preseason",
-          "source": "Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOVRhZXVNN2pKamdRZGZFdFpVa0ZWb3Fjb0FyWlh2dDNHZndpWGMtUE5QWFdIeEdTNnJQcHgxcU4xS1Axc2h2bGFXYlZtT0tId3kySC1vX3MzQzJEU1RHOWR6VkZCOUgtY1BjaXBCS0JqRXJtUUl4TW5BRWdhMDd3czY1blVfSHJ5S0NNT2xyaGlNNG1Ib1c5NnZyN3g0Wmk2U3dYWWdpUmlnYkxOX2I3bS0xSjhqcXBPUld0WUpVYW9wRXgxTEUwa0oxWGlrSzFuNnByQVFsZUNEMTVPcF9fSWFCZzhyYlJhUGhUVjVFQllnTjF4SFE5c2Iya05ZZkNfWXdV?oc=5",
+          "title": "Stephen Curry gets real about how tough it is to win in the era of parity in the NBA",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW1JNExOZkZWZ0ZodjF4LU4zWjBKOHF3RDIxbTJxUmlKaFdXZHlIZnphYzBkRHFnSXQyVXZjTm9TdWViUF9SQzlzU0QxSFFGQVZzbmNFeG9FZWlhN1gxTDNrb1ZRbEZmQWFwbzh4LU9OYjBMcHhmM203V1FfR011TWhpREc?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "NBA insider reveals potential Warriors' Kristaps Porzingis return timeline for unknown health issue",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHdVT0ZJYnJDZjFBYXdrM0owWWJ1a1llTGJwbjgwSGV5cUx2MVJLdUtVbFpObHl1Tm1VanJwbW53VFlrS2JDQU9fWVh1YmVoUFpSWkpKR282WENyTXE3YjdYN3BidllrVXgyVlYzQU1iVlpLQU1TQTZuZkZZRHFUQ3plQm9LQUg1VEhnV0I4dEg?oc=5",
           "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 84,
-      "change24h": -4,
-      "vol24h": 12006,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
