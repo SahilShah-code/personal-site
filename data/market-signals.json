@@ -1,35 +1,13 @@
 {
-  "updated": "2026-10-10T16:29:03.750Z",
+  "updated": "2026-10-10T20:47:54.725Z",
   "withNews": [
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 84,
-      "change24h": -1,
-      "vol24h": 131288,
-      "headlines": [
-        {
-          "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 in October?",
+      "question": "Will the price of Bitcoin be above $80,000 on October 12?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-october-2026",
-      "yes": 9,
-      "change24h": -1,
-      "vol24h": 21867,
+      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-12-2026",
+      "yes": 98,
+      "change24h": 5,
+      "vol24h": 12261,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -44,8 +22,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-october-2026",
       "yes": 2,
-      "change24h": 0,
-      "vol24h": 74694,
+      "change24h": -1,
+      "vol24h": 74656,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -56,13 +34,51 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $62,500 in October?",
+      "question": "Will Bitcoin dip to $70,000 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-october-2026",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 56534,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-october-2026",
+      "yes": 9,
+      "change24h": -1,
+      "vol24h": 24685,
       "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 159052,
+      "headlines": [
+        {
+          "title": "Matchday Guide: USWNT vs. Spain at Audi Field in Washington, D.C.",
+          "source": "U.S. Soccer",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdERoY0hnTVlwR0l0YUhBOUgtaEJCUmVEY1pfQnZpUVF0WjNKSVc5ZVpCb2NnOUJDdGJfUzNibEY2RzUzY2RZSjB2Qlp3SWtxNU5IVFltTUhkR3gxcHczU2h1TllJUGh1VXh2MGFyVkZiTXFDTzZsUzVvdzYza1VJRWpqbjdXZnEwQmNoRTIyX2FudFo1UnMw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 84,
+      "change24h": 0,
+      "vol24h": 98875,
+      "headlines": [
+        {
+          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
+          "source": "Media Matters for America",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -77,63 +93,105 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 56342,
+      "vol24h": 52632,
       "headlines": [
         {
-          "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
+          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
+          "source": "Media Matters for America",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 17376,
+      "vol24h": 46822,
       "headlines": [
         {
-          "title": "Fed Interest Rate Forecast for the Next 5 Years: 2026 to 2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnFWOWJRSThWYmhuZmU3VWU2UVRiVUF1a3JQNGV2Z3NFXzRNTmoxRHFTVWFjYkJodnh3Z0RYeUFIWF9CeUdUWlNpMXEwZ0Z3S1RNRk1NNjRoWkFMaU9jMEdpdXpnbGFQNkQxUE8tNG9NZnI2dUJCSjNoUHhIZnB1Q0NTWjFudEhhSXViX2ZRU1hpSzhnWnlaZ2V1OGdBbWJh?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Chargers Place QB Trey Lance, T Trevor Penning On IR; Activate Two From IR",
+          "source": "NFL Rumors - ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVI5UXRWWmpNd0N5b0RLSHhhUk56ZXlQY1JLdWEzTjVqaG9waUZpRS1mbVV1ZmxwbEZSb1dtR3hGZjRNQ0IyZjJURTQtTjRVVmVoWnJRNnVZQzVMRnhhNngwVGY3Y0hEY0FPcHEyNmt5UXBNbHVxYmJtZVJUa2VZRlFaZTFWa09USE5vWmE5bjExR09RYk1NMWEwd2ZSQm5OcVpVa01IakZ0QXdEOFBibUU2VmM?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "NBA: Stephen Curry to leave Warriors?",
+      "question": "Will New Orleans Pelicans win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
+      "url": "https://polymarket.com/event/will-new-orleans-pelicans-win-the-2027-nba-finals",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 14470,
+      "vol24h": 44604,
       "headlines": [
         {
-          "title": "Stephen Curry gets real about how tough it is to win in the era of parity in the NBA",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW1JNExOZkZWZ0ZodjF4LU4zWjBKOHF3RDIxbTJxUmlKaFdXZHlIZnphYzBkRHFnSXQyVXZjTm9TdWViUF9SQzlzU0QxSFFGQVZzbmNFeG9FZWlhN1gxTDNrb1ZRbEZmQWFwbzh4LU9OYjBMcHhmM203V1FfR011TWhpREc?oc=5",
+          "title": "Jamahl Mosley on preseason games, roster depth | Pelicans Preseason 2026",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGtZVnBUV25Vb21Nb3QtZUN0c3BHdnBqamZZZ0h4UDFuRmt1bDJMZDRhZzhHaUV5eVgyOFg5U3laWk0xWEc1cHlaczUwMEVRcEQ5bXpKMWctOWVFVDlldy1HSEpWQlRUUHRKbTdmUnljTU9ZMWJoYmNMbGdFR3cyX0pOZUE0NU9TX3IxcHZ5VmFrY2s?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "NBA insider reveals potential Warriors' Kristaps Porzingis return timeline for unknown health issue",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHdVT0ZJYnJDZjFBYXdrM0owWWJ1a1llTGJwbjgwSGV5cUx2MVJLdUtVbFpObHl1Tm1VanJwbW53VFlrS2JDQU9fWVh1YmVoUFpSWkpKR282WENyTXE3YjdYN3BidllrVXgyVlYzQU1iVlpLQU1TQTZuZkZZRHFUQ3plQm9LQUg1VEhnV0I4dEg?oc=5",
+          "title": "Jordan Poole on lineups, depth | Pelicans Preseason 2026",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmwzb0dqUnRfSE5iamZMM1M4dnpfS1dIODVvN2hMcGxNTlpBNWxmVDE5bU5UZWFNeUxOdW5NeVFYWWxEZXlPUnN6dkFLM0FuMUh4NS03TzlVRHRCVWZWbFBma2k3cl9rcVE0aVctOE5nX292WmZWTzVocFVCd01Vek9ENDVZMTFEaTh4Z0ptTTBLUQ?oc=5",
           "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will 3 Fed rate cuts happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 17340,
+      "headlines": [
+        {
+          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
+          "source": "Media Matters for America",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Washington Wizards win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 12251,
+      "headlines": [
+        {
+          "title": "Matchday Guide: USWNT vs. Spain at Audi Field in Washington, D.C.",
+          "source": "U.S. Soccer",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdERoY0hnTVlwR0l0YUhBOUgtaEJCUmVEY1pfQnZpUVF0WjNKSVc5ZVpCb2NnOUJDdGJfUzNibEY2RzUzY2RZSjB2Qlp3SWtxNU5IVFltTUhkR3gxcHczU2h1TllJUGh1VXh2MGFyVkZiTXFDTzZsUzVvdzYza1VJRWpqbjdXZnEwQmNoRTIyX2FudFo1UnMw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Charlotte Hornets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-charlotte-hornets-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 11733,
+      "headlines": [
+        {
+          "title": "Charlotte FC sign Premier League veteran Abdoulaye Doucouré",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1c1TXk0cGJuSjA4NGk5YjI5VEhwX0pxZ3hKXzdwRlB3aW1sbzN0R1o3WExPajN4MXVMdlFDNHFXWFdjYWxlcU5YVi1nMk1talpPam1UWWFxeTVNb0JZMjBFOW9XM0gxQWRZbWVXNmtIRmg2NGNubkEwRHFJaUZJRTFpTHhCb2Vi?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
