@@ -1,14 +1,20 @@
 {
-  "updated": "2026-10-11T11:42:43.218Z",
+  "updated": "2026-10-11T16:54:01.701Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $62,500 in October?",
+      "question": "Will Bitcoin reach $87,500 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-october-2026",
-      "yes": 1,
-      "change24h": -1,
-      "vol24h": 49035,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 57,
+      "change24h": 9,
+      "vol24h": 19646,
       "headlines": [
+        {
+          "title": "Pokémon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjBKZUJ5cnBva0txbkRFbkR5bnVOMVpUYks5SzJQTnhtZUZ3WUttejRxOUFaS1V4S0RoTXR3TFlHbDJEc3FmS0pjeXcxcXNaT3JqRDJ2YlNuWU9LSHdFa3l3c2tqYUVRb3IzaUUyODhMc1dKRE9HVjVGeno2OUFaNk41ejFiX2Vt?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -18,34 +24,84 @@
       ]
     },
     {
-      "question": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship",
+      "question": "Will the price of Bitcoin be above $80,000 on October 13?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-13-2026",
+      "yes": 98,
+      "change24h": 4,
+      "vol24h": 14648,
+      "headlines": [
+        {
+          "title": "Pokémon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcjBKZUJ5cnBva0txbkRFbkR5bnVOMVpUYks5SzJQTnhtZUZ3WUttejRxOUFaS1V4S0RoTXR3TFlHbDJEc3FmS0pjeXcxcXNaT3JqRDJ2YlNuWU9LSHdFa3l3c2tqYUVRb3IzaUUyODhMc1dKRE9HVjVGeno2OUFaNk41ejFiX2Vt?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $3,200 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-3200-in-october-2026",
       "yes": 7,
-      "change24h": 1,
-      "vol24h": 38593,
-      "headlines": [
-        {
-          "title": "NFL Week 5 live scores and updates: Eagles vs. Jaguars in London, highlights and analysis from Sunday’s games",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUhhOXJYSnJpeTIxREdvdl9MMndMQzdIS1RZMGZUbUpTRGp3VkhTYjRhQWdyckNkWWd0aXFmdDdlUGxieERUOHJNNzZmUnpwUnIyM0xQUjVleVNZRGNKYjlfNGR1YVVQV1dmWEdrRHRkZUh0cV9MNnZRcVJkYU01eG1fVmNySlNpYU41ZjhMZXY3YjdMaXRFcVQta1NxZG4zLWU2ZE40RVc5blZGMUtzMzg4OVBZQ2tG?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-october-2026",
-      "yes": 9,
-      "change24h": -1,
-      "vol24h": 11872,
+      "change24h": 3,
+      "vol24h": 11707,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 76,
+      "change24h": -2,
+      "vol24h": 26838,
+      "headlines": [
+        {
+          "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+          "source": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHlQNXlaNFg3ZGsyMGpTX0dQbmtKQUNES3NyLU9ZVkl3ck1iSUVTZkxTZlZMbnUzR0k2WkdtUFlSbXNJN2dlNGotMDZyRjVGTTFmZmsyMTdoMUtRaTFRVEgwQUV4TWlTZGJ6SktuODhadmYwYWw3NmU0UkltZ25QbHotek56Ti1icHc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
+          "source": "Media Matters for America",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 17,
+      "change24h": 1,
+      "vol24h": 80058,
+      "headlines": [
+        {
+          "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+          "source": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHlQNXlaNFg3ZGsyMGpTX0dQbmtKQUNES3NyLU9ZVkl3ck1iSUVTZkxTZlZMbnUzR0k2WkdtUFlSbXNJN2dlNGotMDZyRjVGTTFmZmsyMTdoMUtRaTFRVEgwQUV4TWlTZGJ6SktuODhadmYwYWw3NmU0UkltZ25QbHotek56Ti1icHc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
+          "source": "Media Matters for America",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -53,159 +109,65 @@
       "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 138256,
-      "headlines": [
-        {
-          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
-          "source": "Media Matters for America",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 109158,
-      "headlines": [
-        {
-          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
-          "source": "Media Matters for America",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 103181,
-      "headlines": [
-        {
-          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
-          "source": "Media Matters for America",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $105,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-105k-in-october-2026",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 72135,
+      "vol24h": 208584,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Wuhan Tennis Open: Janice Tjen vs Oleksandra Oliynykova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-tjen-oliynyk-2026-10-11",
-      "yes": 51,
-      "change24h": 0,
-      "vol24h": 20409,
-      "headlines": [
-        {
-          "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlNPdWhUcDBxWjNCZGZBV1pIMENZclVuR1JtZk5GMmFTRG5Rby1sYzM5X1gxd0k2RXhMNzJJOXMzUUlsNHE1M0RUSmtBZVBWSmM0dmFUbVdIN3Jia3JMRGxXeGxQemtFTXFlSHU3eXRJNkVuc2lWeGZuRWpPV29SM0tJXzdYdGQ2VHkxaVVfYlcyX1JfWTBUSGRKWHpnMXdKSkE?oc=5",
-          "cat": "Tennis"
+          "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+          "source": "CryptoSlate",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHlQNXlaNFg3ZGsyMGpTX0dQbmtKQUNES3NyLU9ZVkl3ck1iSUVTZkxTZlZMbnUzR0k2WkdtUFlSbXNJN2dlNGotMDZyRjVGTTFmZmsyMTdoMUtRaTFRVEgwQUV4TWlTZGJ6SktuODhadmYwYWw3NmU0UkltZ25QbHotek56Ti1icHc?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Tennis ATP & WTA Live Scores",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fbm9obXluaUY1b1pDODRQdlc1XzJsY0dBbTAxODJmTlFwRmxpUUQxT1IxMjBsb2N0Nl82TTVMcVhOYW94YWVvcjJFVzJ1N2ZvdmdoU2gyNA?oc=5",
-          "cat": "Tennis"
+          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
+          "source": "Media Matters for America",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 18851,
+      "vol24h": 52884,
       "headlines": [
         {
-          "title": "John Harbaugh’s first-place Giants know Sunday isn’t just another game",
-          "source": "New York Daily News",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOG9Xbl9yM0k4Q1N4QUxmMWtGR3dydkhZZEo2UXlhYlZpU3BaN2JBS1FGTVNGaG54NkZlbUN2Zl9DZWtkci1UejlpS2dDbFZ6TVY5cjJ3M3c5U1MzZmFwRWZWMktBRl9TNXdNRHBhNXd5YThvNFJ1bGUwM3pRTnZqTTgxLWJPVHA4ZTl2NVI5ZThwNjV1VWYwc0pfZ2o?oc=5",
+          "title": "Just 8: Hall of Famers with Cowboys connections",
+          "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXRjaGNfYXQ1RF96bHhielBTT012RzdPb0RqNDdJZGlYdEl3RkgxS0pyd2hEdmk4djZOQS02SkZkcHh1SjJoQnlYTjNWZDlkcnNzTndpUzJBcnRkRU5RMXBaekw3X2dOeURBRGtGQ3NaQ19vMnlodTJxSHcwS2FoaFlDY0tOSWR1?oc=5",
           "cat": "NFL"
-        },
-        {
-          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
-          "source": "Media Matters for America",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Belinda Bencic vs Shuai Zhang",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-bencic-zhang-2026-10-11",
-      "yes": 51,
+      "question": "Will the New Orleans Saints win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 18194,
+      "vol24h": 14275,
       "headlines": [
         {
-          "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlNPdWhUcDBxWjNCZGZBV1pIMENZclVuR1JtZk5GMmFTRG5Rby1sYzM5X1gxd0k2RXhMNzJJOXMzUUlsNHE1M0RUSmtBZVBWSmM0dmFUbVdIN3Jia3JMRGxXeGxQemtFTXFlSHU3eXRJNkVuc2lWeGZuRWpPV29SM0tJXzdYdGQ2VHkxaVVfYlcyX1JfWTBUSGRKWHpnMXdKSkE?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Tennis ATP & WTA Live Scores",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fbm9obXluaUY1b1pDODRQdlc1XzJsY0dBbTAxODJmTlFwRmxpUUQxT1IxMjBsb2N0Nl82TTVMcVhOYW94YWVvcjJFVzJ1N2ZvdmdoU2gyNA?oc=5",
-          "cat": "Tennis"
+          "title": "Saints Pregame Huddle vs. Vikings | 2026 NFL Week 5",
+          "source": "New Orleans Saints",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0kyR0lnRVJPY2FZcjZKTnNBZ2ZmSWdlb1VvUDNTb0JxbGxydC0weExlWVVCRWRLcVBtTVlwaHh1c0NZOFlkZ0pQX0NDY3pRWEFOMDRlZ18yWW1KblBsay1qYjFudUxGMElWUlUzZHFPR3lDZzVPaGgxbmxUUlczSjRIMEl2NjFMQ3dTQ2lJRGRKanhoMTNPdXF2S1dOV2dmdjhUTWQyMWo1OFRvUlBF?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Cricket World Cup League 2: Canada vs Nepal",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-can-npl-2026-10-11",
-      "yes": 34,
-      "change24h": -6,
-      "vol24h": 15770,
+      "question": "Basketball Loewen Braunschweig vs. Riesen Ludwigsburg",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/bkbbl-loe-rie-2026-10-11",
+      "yes": 1,
+      "change24h": -52,
+      "vol24h": 43584,
       "headlines": []
     }
   ]
