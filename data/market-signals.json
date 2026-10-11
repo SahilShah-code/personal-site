@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-10T20:47:54.725Z",
+  "updated": "2026-10-11T02:33:34.463Z",
   "withNews": [
     {
       "question": "Will the price of Bitcoin be above $80,000 on October 12?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-12-2026",
       "yes": 98,
-      "change24h": 5,
-      "vol24h": 12261,
+      "change24h": 3,
+      "vol24h": 14946,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $65,000 in October?",
+      "question": "Will the price of Bitcoin be above $86,000 on October 12?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-october-2026",
-      "yes": 2,
+      "url": "https://polymarket.com/event/bitcoin-above-86k-on-october-12-2026",
+      "yes": 3,
       "change24h": -1,
-      "vol24h": 74656,
+      "vol24h": 20254,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -34,56 +34,34 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $70,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-october-2026",
-      "yes": 9,
-      "change24h": -1,
-      "vol24h": 24685,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 159052,
-      "headlines": [
-        {
-          "title": "Matchday Guide: USWNT vs. Spain at Audi Field in Washington, D.C.",
-          "source": "U.S. Soccer",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdERoY0hnTVlwR0l0YUhBOUgtaEJCUmVEY1pfQnZpUVF0WjNKSVc5ZVpCb2NnOUJDdGJfUzNibEY2RzUzY2RZSjB2Qlp3SWtxNU5IVFltTUhkR3gxcHczU2h1TllJUGh1VXh2MGFyVkZiTXFDTzZsUzVvdzYza1VJRWpqbjdXZnEwQmNoRTIyX2FudFo1UnMw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Will 3 Fed rate cuts happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 84,
-      "change24h": 0,
-      "vol24h": 98875,
+      "url": "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026",
+      "yes": 1,
+      "change24h": 1,
+      "vol24h": 17309,
       "headlines": [
         {
           "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
           "source": "Media Matters for America",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will 3 Fed rate cuts happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026",
+      "yes": 1,
+      "change24h": 1,
+      "vol24h": 17309,
+      "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
+          "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
+          "source": "Media Matters for America",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1U4dk1DNElUdHZ4WHZlTzhmempYMFRlMFVCcnVadGVITW9Pc0RENzhPRFdKY1dRWXNEZTAzb2k5UnVRbHNSaXN4SWd2VjBpOUw3bDBWMHVuWnhHMEM2VjNlTlVRNWxic0Z0WkZwejdHeU93RExGdVdzNkJqVk94YUNnb2FoOTl1TU1pZEowc2JoOWpIVUdxazMtUVFGNEplQVVKUEVGNUhhOGRXUUhYbVp2Z29Ma1BOWDg3TEloaEZtVEE?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -93,7 +71,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 52632,
+      "vol24h": 96922,
       "headlines": [
         {
           "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
@@ -110,50 +88,28 @@
       ]
     },
     {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 46822,
-      "headlines": [
-        {
-          "title": "Chargers Place QB Trey Lance, T Trevor Penning On IR; Activate Two From IR",
-          "source": "NFL Rumors - ProFootballRumors.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVI5UXRWWmpNd0N5b0RLSHhhUk56ZXlQY1JLdWEzTjVqaG9waUZpRS1mbVV1ZmxwbEZSb1dtR3hGZjRNQ0IyZjJURTQtTjRVVmVoWnJRNnVZQzVMRnhhNngwVGY3Y0hEY0FPcHEyNmt5UXBNbHVxYmJtZVJUa2VZRlFaZTFWa09USE5vWmE5bjExR09RYk1NMWEwd2ZSQm5OcVpVa01IakZ0QXdEOFBibUU2VmM?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will New Orleans Pelicans win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-orleans-pelicans-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 44604,
-      "headlines": [
-        {
-          "title": "Jamahl Mosley on preseason games, roster depth | Pelicans Preseason 2026",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGtZVnBUV25Vb21Nb3QtZUN0c3BHdnBqamZZZ0h4UDFuRmt1bDJMZDRhZzhHaUV5eVgyOFg5U3laWk0xWEc1cHlaczUwMEVRcEQ5bXpKMWctOWVFVDlldy1HSEpWQlRUUHRKbTdmUnljTU9ZMWJoYmNMbGdFR3cyX0pOZUE0NU9TX3IxcHZ5VmFrY2s?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Jordan Poole on lineups, depth | Pelicans Preseason 2026",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmwzb0dqUnRfSE5iamZMM1M4dnpfS1dIODVvN2hMcGxNTlpBNWxmVDE5bU5UZWFNeUxOdW5NeVFYWWxEZXlPUnN6dkFLM0FuMUh4NS03TzlVRHRCVWZWbFBma2k3cl9rcVE0aVctOE5nX292WmZWTzVocFVCd01Vek9ENDVZMTFEaTh4Z0ptTTBLUQ?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will 3 Fed rate cuts happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-3-fed-rate-cuts-happen-in-2026",
+      "question": "Will Bitcoin reach $105,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-105k-in-october-2026",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 17340,
+      "vol24h": 58804,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Giants win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 18801,
       "headlines": [
         {
           "title": "New York Fed research found that if not for Trump's tariffs, goods prices would have declined. Many news outlets haven't yet covered it.",
@@ -164,37 +120,122 @@
       ]
     },
     {
-      "question": "Will Washington Wizards win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
-      "yes": 1,
+      "question": "Wuhan Tennis Open, Qualification: Yulia Putintseva vs Ashlyn Krueger",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-putints-krueger-2026-10-10",
+      "yes": 52,
       "change24h": 0,
-      "vol24h": 12251,
+      "vol24h": 17475,
       "headlines": [
         {
-          "title": "Matchday Guide: USWNT vs. Spain at Audi Field in Washington, D.C.",
-          "source": "U.S. Soccer",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdERoY0hnTVlwR0l0YUhBOUgtaEJCUmVEY1pfQnZpUVF0WjNKSVc5ZVpCb2NnOUJDdGJfUzNibEY2RzUzY2RZSjB2Qlp3SWtxNU5IVFltTUhkR3gxcHczU2h1TllJUGh1VXh2MGFyVkZiTXFDTzZsUzVvdzYza1VJRWpqbjdXZnEwQmNoRTIyX2FudFo1UnMw?oc=5",
-          "cat": "World Cup"
+          "title": "Tennis Résultats, Nouvelles & Faits Saillants",
+          "source": "RDS",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBRRkNLdWRsUTNHd1o1SHc0RnpfSEw5YTh6T24yaURELXJnd0NOR09RamstYkMtUmFBZUZiUWFhOA?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis ATP & WTA Live Scores",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fbm9obXluaUY1b1pDODRQdlc1XzJsY0dBbTAxODJmTlFwRmxpUUQxT1IxMjBsb2N0Nl82TTVMcVhOYW94YWVvcjJFVzJ1N2ZvdmdoU2gyNA?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will Charlotte Hornets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-charlotte-hornets-win-the-2027-nba-finals",
-      "yes": 1,
+      "question": "Wuhan Tennis Open, Qualification: Yulia Putintseva vs Ashlyn Krueger",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-putints-krueger-2026-10-10",
+      "yes": 52,
       "change24h": 0,
-      "vol24h": 11733,
+      "vol24h": 17475,
       "headlines": [
         {
-          "title": "Charlotte FC sign Premier League veteran Abdoulaye Doucouré",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1c1TXk0cGJuSjA4NGk5YjI5VEhwX0pxZ3hKXzdwRlB3aW1sbzN0R1o3WExPajN4MXVMdlFDNHFXWFdjYWxlcU5YVi1nMk1talpPam1UWWFxeTVNb0JZMjBFOW9XM0gxQWRZbWVXNmtIRmg2NGNubkEwRHFJaUZJRTFpTHhCb2Vi?oc=5",
-          "cat": "World Cup"
+          "title": "Tennis Résultats, Nouvelles & Faits Saillants",
+          "source": "RDS",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBRRkNLdWRsUTNHd1o1SHc0RnpfSEw5YTh6T24yaURELXJnd0NOR09RamstYkMtUmFBZUZiUWFhOA?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis ATP & WTA Live Scores",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fbm9obXluaUY1b1pDODRQdlc1XzJsY0dBbTAxODJmTlFwRmxpUUQxT1IxMjBsb2N0Nl82TTVMcVhOYW94YWVvcjJFVzJ1N2ZvdmdoU2gyNA?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open, Qualification: Han Shi vs Kamilla Rakhimova",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-shi-rakhimo-2026-10-10",
+      "yes": 28,
+      "change24h": 0,
+      "vol24h": 16810,
+      "headlines": [
+        {
+          "title": "Tennis Résultats, Nouvelles & Faits Saillants",
+          "source": "RDS",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBRRkNLdWRsUTNHd1o1SHc0RnpfSEw5YTh6T24yaURELXJnd0NOR09RamstYkMtUmFBZUZiUWFhOA?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis ATP & WTA Live Scores",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Fbm9obXluaUY1b1pDODRQdlc1XzJsY0dBbTAxODJmTlFwRmxpUUQxT1IxMjBsb2N0Nl82TTVMcVhOYW94YWVvcjJFVzJ1N2ZvdmdoU2gyNA?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "NBA: Stephen Curry to leave Warriors?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/nba-stephen-curry-to-leave-warriors",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 14470,
+      "headlines": [
+        {
+          "title": "Warriors sign Brandin Podziemski to reported 5-year rookie scale contract extension",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcUdiaGt6QWcwMlRaWVpqeTdsSm54T0pwaVZoOE0xdlNZUm9YQ1g2cVFZc1NqVzJzdUhkYkZoVXEwY1V5V1N5ZGtrM2hJVXN3VUFmcTZoN2J2VEprMkdYNXZienRwdWRSajVXNDE0MV9FMk82QUZGMkNMV1FQcjBVSQ?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Toronto Raptors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-toronto-raptors-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 12187,
+      "headlines": [
+        {
+          "title": "Gradey Dick calls facing Raptors after blockbuster trade 'bittersweet'",
+          "source": "Sportsnet.ca",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZENrcWFCWmowMW5WY1NxN1Y0ODQ4V0ZqYW1MNjd1c3FWTXplaGhqNVlIM3ZlNDhpQkNwMTV0WHFWYXNQd1JUN1BzdXdIOVBnVUF6dF9hWjYycjdTZGgtcVJ4OGQ5U3pTVjRoMDFmbURyOEZuc2JWNWxseVYzQkVrbzRSNHYzQ25Zb1ZpVmhIaUl6aXdQUkZMTXVET0VqQ1dxc3lMeUljSER6aXdFUzJXZjRHUEd5WUZ2N3c?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "T20 World Cup Asia Sub-Regional Qualifier B: Malaysia vs Maldives",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-mys-mdv-2026-10-10",
+      "yes": 85,
+      "change24h": -9,
+      "vol24h": 15259,
+      "headlines": []
+    },
+    {
+      "question": "Will annual inflation be 3.6% in September?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-annual-inflation-be-3pt6-in-september-2026",
+      "yes": 41,
+      "change24h": -5,
+      "vol24h": 11064,
+      "headlines": []
+    }
+  ]
 }
