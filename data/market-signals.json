@@ -1,182 +1,178 @@
 {
-  "updated": "2026-10-12T13:43:00.774Z",
+  "updated": "2026-10-12T23:53:21.083Z",
   "withNews": [
+    {
+      "question": "Will the price of Bitcoin be above $84,000 on October 14?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-14-2026",
+      "yes": 13,
+      "change24h": -33,
+      "vol24h": 12455,
+      "headlines": [
+        {
+          "title": "【LIVESTREAMS】FREE]Hawks vs Thunder Live Free NBA Basketball October 12, 2026",
+          "source": "Hong Kong International Airport",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUThDd0tncU9selRlWGQwTVYwYVhodmo5cXpkZG0wRXdteHJQVElYby05ZTRZY3NuZjZqYWYxYlFOQTA2ZGZhdkFIUDB3QU5XU2pNR2JwY3EtZ2w0cXBrb0Vsb1JIbTh1WGtYajJxTDBUb0E4Uk9aSVQwWkNoYnIydV9Na2RaSWp2WTZhVW1kcjdfRkNPcDlLYVVGN3JYNXY3SXphbS05dTJZNTFuUTlQVzk0d3hnM25LMHh3QlhDWXhhYkt3b3NMdF93TDl5Q1NWSnRGUEhWRjUxbVZCZmdMQ0RfaEY3RkQ3bWs5bmF5OVoyNkhXZDdSYjk0WGNFTUd4eGw2UkFCS0hCMUZ2NHcxekppNVowTllkRU9vZXprOEl6QWZJMFU0ZTlFNnExNDM1MzUtdEgtV2ttYnlTR2ZPdk5xU29yYWpzUHdjYUZHVmZiVUFXN29SS2l6c2puMHMtNU1KaDR0UkFDRnczc1V1T2RabXpCVXY0QUMxZFlyQWlSQ28?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 71,
-      "change24h": -6,
-      "vol24h": 32540,
+      "yes": 61,
+      "change24h": -23,
+      "vol24h": 13644,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 12 October By Investing.com",
-          "source": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEpNT0pBaDVCTVhDa2hXbUxkTHA3dmZrOWxBRmJmNjJUb2g5aHdFZjlsMkNaNjByM2M4aU1hSFFEOVlETXYtbTlRRVRVYThockR6Zk5vcl9EemRrQmI0cktoQ1ZmY1JQNUo2T1E0XzNMU0tmYjltNS1VZF9EeUY3a211VmRPdm9id2d3el8yWlpiakxhS0laZEd2UGQwVkY3T09PemNDOA?oc=5",
-          "cat": "Markets"
+          "title": "【LIVESTREAMS】FREE]Hawks vs Thunder Live Free NBA Basketball October 12, 2026",
+          "source": "Hong Kong International Airport",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUThDd0tncU9selRlWGQwTVYwYVhodmo5cXpkZG0wRXdteHJQVElYby05ZTRZY3NuZjZqYWYxYlFOQTA2ZGZhdkFIUDB3QU5XU2pNR2JwY3EtZ2w0cXBrb0Vsb1JIbTh1WGtYajJxTDBUb0E4Uk9aSVQwWkNoYnIydV9Na2RaSWp2WTZhVW1kcjdfRkNPcDlLYVVGN3JYNXY3SXphbS05dTJZNTFuUTlQVzk0d3hnM25LMHh3QlhDWXhhYkt3b3NMdF93TDl5Q1NWSnRGUEhWRjUxbVZCZmdMQ0RfaEY3RkQ3bWs5bmF5OVoyNkhXZDdSYjk0WGNFTUd4eGw2UkFCS0hCMUZ2NHcxekppNVowTllkRU9vZXprOEl6QWZJMFU0ZTlFNnExNDM1MzUtdEgtV2ttYnlTR2ZPdk5xU29yYWpzUHdjYUZHVmZiVUFXN29SS2l6c2puMHMtNU1KaDR0UkFDRnczc1V1T2RabXpCVXY0QUMxZFlyQWlSQ28?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lWlJFN0Q2UWdsalJLV1RGdC10cHF2cC12NTZxNU9tMFdjUGEySklSVFpmeERuaXRlc1NuQlk0MDF1WHJoME1xWUE1QnhQU1lWM2dSYU5IVWNCT3BtUFgzNG43NWo5STNkS3pIVlVTS2dObDA?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $90,000 in October?",
+      "question": "Will Bitcoin dip to $80,000 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
-      "yes": 30,
-      "change24h": -4,
-      "vol24h": 26068,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026",
+      "yes": 75,
+      "change24h": 20,
+      "vol24h": 11471,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 12 October By Investing.com",
-          "source": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEpNT0pBaDVCTVhDa2hXbUxkTHA3dmZrOWxBRmJmNjJUb2g5aHdFZjlsMkNaNjByM2M4aU1hSFFEOVlETXYtbTlRRVRVYThockR6Zk5vcl9EemRrQmI0cktoQ1ZmY1JQNUo2T1E0XzNMU0tmYjltNS1VZF9EeUY3a211VmRPdm9id2d3el8yWlpiakxhS0laZEd2UGQwVkY3T09PemNDOA?oc=5",
-          "cat": "Markets"
+          "title": "【LIVESTREAMS】FREE]Hawks vs Thunder Live Free NBA Basketball October 12, 2026",
+          "source": "Hong Kong International Airport",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUThDd0tncU9selRlWGQwTVYwYVhodmo5cXpkZG0wRXdteHJQVElYby05ZTRZY3NuZjZqYWYxYlFOQTA2ZGZhdkFIUDB3QU5XU2pNR2JwY3EtZ2w0cXBrb0Vsb1JIbTh1WGtYajJxTDBUb0E4Uk9aSVQwWkNoYnIydV9Na2RaSWp2WTZhVW1kcjdfRkNPcDlLYVVGN3JYNXY3SXphbS05dTJZNTFuUTlQVzk0d3hnM25LMHh3QlhDWXhhYkt3b3NMdF93TDl5Q1NWSnRGUEhWRjUxbVZCZmdMQ0RfaEY3RkQ3bWs5bmF5OVoyNkhXZDdSYjk0WGNFTUd4eGw2UkFCS0hCMUZ2NHcxekppNVowTllkRU9vZXprOEl6QWZJMFU0ZTlFNnExNDM1MzUtdEgtV2ttYnlTR2ZPdk5xU29yYWpzUHdjYUZHVmZiVUFXN29SS2l6c2puMHMtNU1KaDR0UkFDRnczc1V1T2RabXpCVXY0QUMxZFlyQWlSQ28?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lWlJFN0Q2UWdsalJLV1RGdC10cHF2cC12NTZxNU9tMFdjUGEySklSVFpmeERuaXRlc1NuQlk0MDF1WHJoME1xWUE1QnhQU1lWM2dSYU5IVWNCT3BtUFgzNG43NWo5STNkS3pIVlVTS2dObDA?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 46,
-      "change24h": -4,
-      "vol24h": 18101,
-      "headlines": [
-        {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 12 October By Investing.com",
-          "source": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEpNT0pBaDVCTVhDa2hXbUxkTHA3dmZrOWxBRmJmNjJUb2g5aHdFZjlsMkNaNjByM2M4aU1hSFFEOVlETXYtbTlRRVRVYThockR6Zk5vcl9EemRrQmI0cktoQ1ZmY1JQNUo2T1E0XzNMU0tmYjltNS1VZF9EeUY3a211VmRPdm9id2d3el8yWlpiakxhS0laZEd2UGQwVkY3T09PemNDOA?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "S&P 500 Just Hit Record High in October. History Stands Ready to Repeat Itself.",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lWlJFN0Q2UWdsalJLV1RGdC10cHF2cC12NTZxNU9tMFdjUGEySklSVFpmeERuaXRlc1NuQlk0MDF1WHJoME1xWUE1QnhQU1lWM2dSYU5IVWNCT3BtUFgzNG43NWo5STNkS3pIVlVTS2dObDA?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Wuhan Tennis Open: Alexandra Eala vs Han Shi",
+      "question": "Wuhan Tennis Open: Yulia Putintseva vs Zeynep Sonmez",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-eala-shi-2026-10-12",
-      "yes": 83,
-      "change24h": 3,
-      "vol24h": 147824,
+      "url": "https://polymarket.com/event/wta-putints-sonmez-2026-10-12",
+      "yes": 56,
+      "change24h": 5,
+      "vol24h": 7285,
       "headlines": [
         {
           "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
           "source": "Tennis.com",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlNPdWhUcDBxWjNCZGZBV1pIMENZclVuR1JtZk5GMmFTRG5Rby1sYzM5X1gxd0k2RXhMNzJJOXMzUUlsNHE1M0RUSmtBZVBWSmM0dmFUbVdIN3Jia3JMRGxXeGxQemtFTXFlSHU3eXRJNkVuc2lWeGZuRWpPV29SM0tJXzdYdGQ2VHkxaVVfYlcyX1JfWTBUSGRKWHpnMXdKSkE?oc=5",
           "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 78,
-      "change24h": 3,
-      "vol24h": 14084,
-      "headlines": [
-        {
-          "title": "Philadelphia Eagles Rumors: Team Could Deal Another Top Starter at 2026 NFL Trade Deadline",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjZxejJ3T19mSFJFWVpScVhfNVhqdkpKLS05amlnOUQ5VE9sVDRtUlpKSXhjQ29CT2hUTW1xYlg4enJkWFluWlpZLVpQTmxyOWliOEpkLUNrMUtWY1hhaTJjUXRVREpGRTJPaFM1UVd0X2M3TFlEZlBDLUxRNTlGcXlFRlluSC1OeG04dzhsNA?oc=5",
-          "cat": "NFL"
         },
         {
-          "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
-          "source": "ABC7 Chicago",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBTXdSZ0JnWHVYYlhKNkVHZlMxS3ZpX3dBbGY4QW0zelBMZEVXSkhxRGV3N2dSNVZ6dDNKTy1PVEJXcEd4d2FLdDZ1anVmNkFXb3h5eDQ1T3lBdlp3bU1Sc0RWbjl2VmpjcHpFb1h3a2dHYXNKelkzd3N1Ym9oR1ZNVEpXZF9TalJrWDlQaGFFVWxvYkJDaFBsa2p6dkZIeTg4U3BzMDV0SEE2b1E?oc=5",
-          "cat": "Macro"
+          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?",
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-november-2026-meeting-1786388202572",
-      "yes": 17,
-      "change24h": 3,
-      "vol24h": 8273,
-      "headlines": [
-        {
-          "title": "US Stock Market Today: S&P 500, Dow Edge Higher As Investors Eye Bank Earnings, Inflation Data; Nasdaq Dips",
-          "source": "NDTV Profit",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORnlTNXllOTlkalItMlNYQ19XTWJtM2JGb1AtZmNmcHNLZElfVFBzTW1MdWloSElJWGR4OU5jREhzdG02SGNqUFVGRFlmZjBlRTQ3LTdLNi13ajVNOWVUdUhUSWRaT2VJMUNtamR0VEN3c2FSSmFwSDBuZk9LMncyZU1mZzdlV3hqYUUtekJXaFNEWnZQZVo2RUFscGMta2F6Y0xadGw3MElROE5zbWhBMjkxZEI4em5GYzlxWFNTcXFXX1UxNDFrYkdqWjNzNTc2cDNwNllERm5pcnhXNXB1NNIB6AFBVV95cUxPUTlXamdhSVBSMFZ1M0xsY3pLOF9LTDlCQ3hqM0tTdk0zNzZKOUp2YlJWSjFqdVFFbkdwb2p4N2o1NUNiVzJsajNXNklxQmJHNHJLVHJXWVdGYV85M1VpdFdCbmxOb3VnckFZQTI1dUtwbmhESkRTQ0dvSDdxVW13MXV3UHlZaV9ZYUZUWVo1bnVxTGtwTFIxdFhfWkoyZ2FNMHliODBlbTF0RDBuSUxiWkRtWXIxSzdDNTFEQ04yT3VHLUd3cVhFeWNkUVlzQUhLM19hN0x5SHhGUWt5bWxXZEJOOFd4aDNl?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
-      "yes": 9,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 81,
       "change24h": -3,
-      "vol24h": 8034,
+      "vol24h": 302892,
       "headlines": [
         {
-          "title": "ESPN Analyst Chase Daniels previews the Buffalo Bills-Los Angeles Rams 'MNF' Week 5 matchup | 'GMFB'",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHJLbmtnQjk4Z1FUaVZNMk1WdlZFalVUaFdtNGpVdnZ1Zk5qTFdoNUpaZ0J1WU5xTFNDUUs1alAzQU5ad2lRRjVadmo5Q1pWV05qazZhZHlucFRBMjF4MjVmdW5ER1lrcFZnaGNWUnk2RzVHS0xscXpaaHVVdnhZWjVjWGl3bHN5NXhNbDluRnBlZw?oc=5",
-          "cat": "NFL"
+          "title": "【LIVESTREAMS】FREE]Hawks vs Thunder Live Free NBA Basketball October 12, 2026",
+          "source": "Hong Kong International Airport",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUThDd0tncU9selRlWGQwTVYwYVhodmo5cXpkZG0wRXdteHJQVElYby05ZTRZY3NuZjZqYWYxYlFOQTA2ZGZhdkFIUDB3QU5XU2pNR2JwY3EtZ2w0cXBrb0Vsb1JIbTh1WGtYajJxTDBUb0E4Uk9aSVQwWkNoYnIydV9Na2RaSWp2WTZhVW1kcjdfRkNPcDlLYVVGN3JYNXY3SXphbS05dTJZNTFuUTlQVzk0d3hnM25LMHh3QlhDWXhhYkt3b3NMdF93TDl5Q1NWSnRGUEhWRjUxbVZCZmdMQ0RfaEY3RkQ3bWs5bmF5OVoyNkhXZDdSYjk0WGNFTUd4eGw2UkFCS0hCMUZ2NHcxekppNVowTllkRU9vZXprOEl6QWZJMFU0ZTlFNnExNDM1MzUtdEgtV2ttYnlTR2ZPdk5xU29yYWpzUHdjYUZHVmZiVUFXN29SS2l6c2puMHMtNU1KaDR0UkFDRnczc1V1T2RabXpCVXY0QUMxZFlyQWlSQ28?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "NFL DFS, Bills vs. Rams: Top daily Fantasy football picks, lineups, strategy for 'Monday Night Football'",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObHJkRnlkUXhGVVVoS2J5SWhFaEk3TTRRNTBqeVRGd3VlZ2xURXFpVUxfTGJDLUZlQl9ocHdTQlRsd3ZkZnpSX3ltNVN1aEo4QVBOX1lhbDlLWFZodHNMRVItRnoyNGo2MmdXR0J6bVBMdV82VE93S19tcDRVUVpQeDcyREtNQVFaYXNUYzdteFdodGpqWFZ1bDFlRkxfX1ZwcGNaMkRGeDlzVnZNQTdDRmpxZVV6WFByTEw0cTZWMVNpZW1taU9nYkp2N3lweDl0T0ZCenRkcU0yb1lBUWc?oc=5",
-          "cat": "NFL"
+          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-      "yes": 11,
-      "change24h": 2,
-      "vol24h": 14630,
+      "question": "Wuhan Tennis Open: Mayar Sherif vs Maja Chwalinska",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-sherif-chwalin-2026-10-11",
+      "yes": 18,
+      "change24h": -3,
+      "vol24h": 24497,
       "headlines": [
         {
-          "title": "What do you make of San Francisco 49ers Week 5 win vs. Seahawks? | 'GMFB'",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHk2azJtZHBBa1doMzVVQ3BJN3lfRVhMbFZaUkZkQ2dzMFhPR2wtZ1VYams4Q2s3eGlkbWpFR3BBQ2Z2MlBLa0pUWkFrZWxPbktaSEN2T3NaaW1DbE45VnNoTFgtc01qZG1jZEY1b0toY2stREtTdEl4VkdqSkgwc3BKRlB3TVk?oc=5",
-          "cat": "NFL"
+          "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlNPdWhUcDBxWjNCZGZBV1pIMENZclVuR1JtZk5GMmFTRG5Rby1sYzM5X1gxd0k2RXhMNzJJOXMzUUlsNHE1M0RUSmtBZVBWSmM0dmFUbVdIN3Jia3JMRGxXeGxQemtFTXFlSHU3eXRJNkVuc2lWeGZuRWpPV29SM0tJXzdYdGQ2VHkxaVVfYlcyX1JfWTBUSGRKWHpnMXdKSkE?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 34,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 19,
       "change24h": 2,
-      "vol24h": 11447,
+      "vol24h": 420886,
       "headlines": [
         {
-          "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
-          "source": "ABC7 Chicago",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNmZBTXdSZ0JnWHVYYlhKNkVHZlMxS3ZpX3dBbGY4QW0zelBMZEVXSkhxRGV3N2dSNVZ6dDNKTy1PVEJXcEd4d2FLdDZ1anVmNkFXb3h5eDQ1T3lBdlp3bU1Sc0RWbjl2VmpjcHpFb1h3a2dHYXNKelkzd3N1Ym9oR1ZNVEpXZF9TalJrWDlQaGFFVWxvYkJDaFBsa2p6dkZIeTg4U3BzMDV0SEE2b1E?oc=5",
+          "title": "【LIVESTREAMS】FREE]Hawks vs Thunder Live Free NBA Basketball October 12, 2026",
+          "source": "Hong Kong International Airport",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUThDd0tncU9selRlWGQwTVYwYVhodmo5cXpkZG0wRXdteHJQVElYby05ZTRZY3NuZjZqYWYxYlFOQTA2ZGZhdkFIUDB3QU5XU2pNR2JwY3EtZ2w0cXBrb0Vsb1JIbTh1WGtYajJxTDBUb0E4Uk9aSVQwWkNoYnIydV9Na2RaSWp2WTZhVW1kcjdfRkNPcDlLYVVGN3JYNXY3SXphbS05dTJZNTFuUTlQVzk0d3hnM25LMHh3QlhDWXhhYkt3b3NMdF93TDl5Q1NWSnRGUEhWRjUxbVZCZmdMQ0RfaEY3RkQ3bWs5bmF5OVoyNkhXZDdSYjk0WGNFTUd4eGw2UkFCS0hCMUZ2NHcxekppNVowTllkRU9vZXprOEl6QWZJMFU0ZTlFNnExNDM1MzUtdEgtV2ttYnlTR2ZPdk5xU29yYWpzUHdjYUZHVmZiVUFXN29SS2l6c2puMHMtNU1KaDR0UkFDRnczc1V1T2RabXpCVXY0QUMxZFlyQWlSQ28?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "yes": 20,
+      "change24h": -2,
+      "vol24h": 8787,
+      "headlines": [
+        {
+          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
+          "source": "Norada Real Estate Investments",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXNtSmVTVTk4YjRiVWRoSVNXLVBaMWZjZ09xT0Jtd2xXazY4MThaVU01WGtMUVFPb2tFbG1jY0Z4SGs5cEhEWWJBWERTaEFMemlLc3NQVmFpVGhDdGw0U05oS3BDbVRETHpZclJXVWI2VzFWV3ptVXNYQ2E3Ui1RYUVLU3N1cUx6aUxz?oc=5",
+          "title": "Fed officials are warning of more pain. Many Americans are already feeling it",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -187,44 +183,84 @@
       "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
       "yes": 20,
       "change24h": 1,
-      "vol24h": 24388,
+      "vol24h": 24600,
       "headlines": [
         {
-          "title": "Manchester City have punched a hole in the Premier League’s ball game. It needs fixing, fast",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV05jSTZQQTk1UmZMT1l5a0JGWDJFTEQxZ29lNVlqalVGSUNzODdjcGJpNTd1SUZsM1FTWjQ3bjZfbkxLbC1DVW9GUGJXLWxjVVNFckxxYzEtZ0dHWExOVU1Cb0lxMWZhS29QOEU2NjV4dTFISFpNWmFRQ0owRWkwN0xuNG5acDJCeVdqYlJQSXphOE9xU1RiSjQwek1BMXlSUGZIUjR3?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will LeBron James retire before next NBA season?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-lebron-james-retire-before-next-nba-season",
-      "yes": 0,
-      "change24h": -1,
-      "vol24h": 12353,
-      "headlines": [
+          "title": "【LIVESTREAMS】FREE]Hawks vs Thunder Live Free NBA Basketball October 12, 2026",
+          "source": "Hong Kong International Airport",
+          "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUThDd0tncU9selRlWGQwTVYwYVhodmo5cXpkZG0wRXdteHJQVElYby05ZTRZY3NuZjZqYWYxYlFOQTA2ZGZhdkFIUDB3QU5XU2pNR2JwY3EtZ2w0cXBrb0Vsb1JIbTh1WGtYajJxTDBUb0E4Uk9aSVQwWkNoYnIydV9Na2RaSWp2WTZhVW1kcjdfRkNPcDlLYVVGN3JYNXY3SXphbS05dTJZNTFuUTlQVzk0d3hnM25LMHh3QlhDWXhhYkt3b3NMdF93TDl5Q1NWSnRGUEhWRjUxbVZCZmdMQ0RfaEY3RkQ3bWs5bmF5OVoyNkhXZDdSYjk0WGNFTUd4eGw2UkFCS0hCMUZ2NHcxekppNVowTllkRU9vZXprOEl6QWZJMFU0ZTlFNnExNDM1MzUtdEgtV2ttYnlTR2ZPdk5xU29yYWpzUHdjYUZHVmZiVUFXN29SS2l6c2puMHMtNU1KaDR0UkFDRnczc1V1T2RabXpCVXY0QUMxZFlyQWlSQ28?oc=5",
+          "cat": "NBA"
+        },
         {
-          "title": "James Harden Scores 24 Points in Preseason Debut - NBA News | Fantasy Basketball",
-          "source": "RotoBaller",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkpzVmFyNDZBT2JIa05HSHE1STE4bGZqY0c5dDZmczNpYUgydDJJUlNRUTViV3dsZTdJNUNGWGdYdkR5WG5pbkVIMklWNXpSR2VyQm1kaUxLY0JPWjg1dUJ0VkloVklrTFpoTGZYRmN4aURmWjNibkprUXVMOXhaX3JKX1hvd1N6WWR2eEQ2MHVNNVBKd1QtT3B3MA?oc=5",
+          "title": "HERE’S!* WAY TO WATCH Hawks vs Thunder LIVE STREAMS NBA Basketball ON TV CHANNEL",
+          "source": "Hong Kong International Airport",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNc1dxOWpnUk11MGNrUXFDRVQtYVlVa2oxZTgtWXNLbWVXY1YyUkNXYi1XZ3E2dkU0LW9HcXhadFFrZVE5b1F5X0dsTGxNb0o0VEsxZnBoLUphYmltdzRDc2l4QWtGQUJuWlZCNms3REdwcnNERWxpbzVYYThaYm00aEpYaXNjZ0ZmbmRDWGxlZWJKRWJYdjFBRWJDZWZxdXYxUXNpOW52YzdrTEw4TzllQ01WVmc2d2t5QTNDUEktb2VJV1l5VEw1ZzRwVG8xaEJCaWt2b1NRdlZ5Z1NEMlB5Rmc1b1pGaGQyOE9haE1faTFUMmluWkVqQlNsOFQ2TFFvX3JJUzU3NDNOM0U2Y21CYVkxelN0c191anc3ZC1rZzRRRTExUVBRMl9yYXZJd19fTTcyMkZLeHNKYkFvZ1hkVFhzQ1hadjY2UjZvRWh3SDI1UXFINEgyRUR0R0NkNnJoZGxyYWlQMmFEX1BXRXI2czAtd2lfN3FwWEtSSkFxRWs2blRfOE1B?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Los Angeles Chargers win the 2027 NFL league championship?",
+      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-chargers-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 220993,
+      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
+      "yes": 11,
+      "change24h": -1,
+      "vol24h": 16916,
       "headlines": [
         {
-          "title": "ESPN Analyst Chase Daniels previews the Buffalo Bills-Los Angeles Rams 'MNF' Week 5 matchup | 'GMFB'",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHJLbmtnQjk4Z1FUaVZNMk1WdlZFalVUaFdtNGpVdnZ1Zk5qTFdoNUpaZ0J1WU5xTFNDUUs1alAzQU5ad2lRRjVadmo5Q1pWV05qazZhZHlucFRBMjF4MjVmdW5ER1lrcFZnaGNWUnk2RzVHS0xscXpaaHVVdnhZWjVjWGl3bHN5NXhNbDluRnBlZw?oc=5",
+          "title": "BetMGM bonus code CBSSPORTS: Pocket up to $1,500 in bonus bets for Rams vs. Bills on Monday Night Football",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanRYNGZ4VFQ5Q2h2TjZQVDVlODAzbVFsZDh4RUNlbUU1cXRrQ21YUVFFN0pJbmlEVDVBUUFBdGpmaGp5VUhQQk9Rb3ZMWW1SWGJFQnNkWU5PbU5yc282dHpkMi1wU1U5OVVHM1BveTdUZlhLUkF0bDNqVTM1QjFIdjBWWDk3bGVPbThmRkdkaFNNdHhRak4waEhjN0ZfRWRBWkRWNG00UHBqaVJRbGNkVWpNNmRnYU5ydGpSalJtZWJPdHRBQ25CNXZHYzY?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Risers and fallers after almost all of Week 5, plus a Bills-Rams preview",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkw0a1pUWGZDS2RGVFBNVXVib0lPOHh6TmFEY1pSU2s4WHdLYkN2NzNNOWEzdEZ4dTAwUl9mSnhWZUJaVTZWaFBYMm1mMGVOX0gyWDAwQjJXbTNfT0VremhUU3I1dEhhZTVQa1QyOWp5ckI0VlVRSDhFaDBIZ1B1bUxIdEtPVWxOYkIzaHdCbDNSQlZSdHN5V2hNOUdsbmUweF9lRFFScGdQMjhMLVhyT016bEpZUUR0THhlMk9EMVNxQQ?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Daria Kasatkina vs Jelena Ostapenko",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-kasatki-ostapen-2026-10-12",
+      "yes": 45,
+      "change24h": 1,
+      "vol24h": 13954,
+      "headlines": [
+        {
+          "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlNPdWhUcDBxWjNCZGZBV1pIMENZclVuR1JtZk5GMmFTRG5Rby1sYzM5X1gxd0k2RXhMNzJJOXMzUUlsNHE1M0RUSmtBZVBWSmM0dmFUbVdIN3Jia3JMRGxXeGxQemtFTXFlSHU3eXRJNkVuc2lWeGZuRWpPV29SM0tJXzdYdGQ2VHkxaVVfYlcyX1JfWTBUSGRKWHpnMXdKSkE?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 13,
+      "change24h": 0,
+      "vol24h": 13655,
+      "headlines": [
+        {
+          "title": "BetMGM bonus code CBSSPORTS: Pocket up to $1,500 in bonus bets for Rams vs. Bills on Monday Night Football",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanRYNGZ4VFQ5Q2h2TjZQVDVlODAzbVFsZDh4RUNlbUU1cXRrQ21YUVFFN0pJbmlEVDVBUUFBdGpmaGp5VUhQQk9Rb3ZMWW1SWGJFQnNkWU5PbU5yc282dHpkMi1wU1U5OVVHM1BveTdUZlhLUkF0bDNqVTM1QjFIdjBWWDk3bGVPbThmRkdkaFNNdHhRak4waEhjN0ZfRWRBWkRWNG00UHBqaVJRbGNkVWpNNmRnYU5ydGpSalJtZWJPdHRBQ25CNXZHYzY?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Risers and fallers after almost all of Week 5, plus a Bills-Rams preview",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkw0a1pUWGZDS2RGVFBNVXVib0lPOHh6TmFEY1pSU2s4WHdLYkN2NzNNOWEzdEZ4dTAwUl9mSnhWZUJaVTZWaFBYMm1mMGVOX0gyWDAwQjJXbTNfT0VremhUU3I1dEhhZTVQa1QyOWp5ckI0VlVRSDhFaDBIZ1B1bUxIdEtPVWxOYkIzaHdCbDNSQlZSdHN5V2hNOUdsbmUweF9lRFFScGdQMjhMLVhyT016bEpZUUR0THhlMk9EMVNxQQ?oc=5",
           "cat": "NFL"
         }
       ]
@@ -232,12 +268,57 @@
   ],
   "moversOnly": [
     {
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 57,
+      "change24h": -8,
+      "vol24h": 18271,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 24,
+      "change24h": -7,
+      "vol24h": 8094,
+      "headlines": []
+    },
+    {
+      "question": "Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-november-2026-meeting-1786388202572",
+      "yes": 22,
+      "change24h": 7,
+      "vol24h": 7962,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 78,
+      "change24h": -6,
+      "vol24h": 11877,
+      "headlines": []
+    },
+    {
       "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 44,
-      "change24h": 4,
-      "vol24h": 9858,
+      "yes": 38,
+      "change24h": -6,
+      "vol24h": 11754,
+      "headlines": []
+    },
+    {
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 9,
+      "change24h": -4,
+      "vol24h": 9086,
       "headlines": []
     }
   ]
