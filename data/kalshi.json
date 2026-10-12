@@ -1,20 +1,36 @@
 {
-  "updated": "2026-10-12 02:05 UTC",
-  "net_return_pct": -51.5,
-  "realized_return_pct": -51.5,
+  "updated": "2026-10-12 09:11 UTC",
+  "net_return_pct": -31.9,
+  "realized_return_pct": -31.9,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 20,
-  "settled_total": 5,
+  "win_rate_pct": 28.6,
+  "settled_total": 7,
   "curve": [
     0,
     -100,
     32,
     -31.9,
     -45.2,
-    -51.5
+    -51.5,
+    -53.6,
+    -31.9
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Baltimore wins",
+      "ticker": "KXNFLGAME-26OCT11BALATL-BAL",
+      "result": "yes",
+      "date": "2026-10-12",
+      "return_pct": 34
+    },
+    {
+      "title": "Atlanta wins",
+      "ticker": "KXNFLGAME-26OCT11BALATL-ATL",
+      "result": "no",
+      "date": "2026-10-12",
+      "return_pct": -100
+    },
     {
       "title": "UCLA wins 3Q by over 2.5 points",
       "ticker": "KXNCAAF3QSPREAD-26OCT10UCLAORE-UCLA3",
