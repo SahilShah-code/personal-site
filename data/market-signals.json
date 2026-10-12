@@ -1,95 +1,19 @@
 {
-  "updated": "2026-10-11T21:09:11.652Z",
+  "updated": "2026-10-12T02:58:02.913Z",
   "withNews": [
     {
-      "question": "Will the price of Bitcoin be above $82,000 on October 13?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-82k-on-october-13-2026",
-      "yes": 83,
-      "change24h": 10,
-      "vol24h": 17292,
+      "question": "Wuhan Tennis Open: Iva Jovic vs Mia Pohankova",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-jovic-pohanko-2026-10-11",
+      "yes": 51,
+      "change24h": -33,
+      "vol24h": 114496,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 83,
-      "change24h": 6,
-      "vol24h": 21827,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 56,
-      "change24h": 6,
-      "vol24h": 20400,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 17,
-      "change24h": 1,
-      "vol24h": 79377,
-      "headlines": [
-        {
-          "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
-          "source": "ABC11 News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0tqSVcwZHVFTDQ2RWZzaUVodkpkS3B6TzZvS0VrM2FQZ0UyT19qVGdhZWstN0hMVU5DYS1yQ2FqUlRmUHZ2Y3ZKZzB3UWNDbGxXQUg3RkVKM0FUdGpITnZCNlRsWE43ZlNZYjk4REVhMWdfdlo5eEFDQzRLX054bjJuRUJLRjR4b29BX1ZvZFZYa0tjRW8xUEp4T3pLNkJjZThCRzJn?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 77,
-      "change24h": -1,
-      "vol24h": 29296,
-      "headlines": [
-        {
-          "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
-          "source": "ABC11 News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0tqSVcwZHVFTDQ2RWZzaUVodkpkS3B6TzZvS0VrM2FQZ0UyT19qVGdhZWstN0hMVU5DYS1yQ2FqUlRmUHZ2Y3ZKZzB3UWNDbGxXQUg3RkVKM0FUdGpITnZCNlRsWE43ZlNZYjk4REVhMWdfdlo5eEFDQzRLX054bjJuRUJLRjR4b29BX1ZvZFZYa0tjRW8xUEp4T3pLNkJjZThCRzJn?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
+          "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlNPdWhUcDBxWjNCZGZBV1pIMENZclVuR1JtZk5GMmFTRG5Rby1sYzM5X1gxd0k2RXhMNzJJOXMzUUlsNHE1M0RUSmtBZVBWSmM0dmFUbVdIN3Jia3JMRGxXeGxQemtFTXFlSHU3eXRJNkVuc2lWeGZuRWpPV29SM0tJXzdYdGQ2VHkxaVVfYlcyX1JfWTBUSGRKWHpnMXdKSkE?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -97,9 +21,9 @@
       "question": "Wuhan Tennis Open: Ann Li vs Qinwen Zheng",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-annli-zhen-2026-10-11",
-      "yes": 32,
-      "change24h": 1,
-      "vol24h": 16502,
+      "yes": 50,
+      "change24h": 19,
+      "vol24h": 44977,
       "headlines": [
         {
           "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
@@ -116,12 +40,110 @@
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will the price of Bitcoin be above $82,000 on October 13?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-october-13-2026",
+      "yes": 89,
+      "change24h": 15,
+      "vol24h": 19817,
+      "headlines": [
+        {
+          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 11 October By Investing.com",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFotejBBOExwdHVPX1JuYVB2NUtNX0hOUTRiVjBZdTBlZnl1Rks4TEZPWW9ta3YzTFhpMGZhVmNpaVcwX2FwM0RQUm5GQVQ3WnVjdEFuQXlvWldsa0wtTjByY2pmcTFYcWhMdEh6dEg2OGhjcXhna29tYXAyYjVOMExQMmtDaGwxS20zMlB4Tk5rOUhyVl9xdTAycDNUUHFPS3E3dTNWOA?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $82,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-october-2026-from-october-10",
+      "yes": 82,
+      "change24h": -9,
+      "vol24h": 8860,
+      "headlines": [
+        {
+          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 11 October By Investing.com",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFotejBBOExwdHVPX1JuYVB2NUtNX0hOUTRiVjBZdTBlZnl1Rks4TEZPWW9ta3YzTFhpMGZhVmNpaVcwX2FwM0RQUm5GQVQ3WnVjdEFuQXlvWldsa0wtTjByY2pmcTFYcWhMdEh6dEg2OGhjcXhna29tYXAyYjVOMExQMmtDaGwxS20zMlB4Tk5rOUhyVl9xdTAycDNUUHFPS3E3dTNWOA?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 57,
+      "change24h": 8,
+      "vol24h": 14222,
+      "headlines": [
+        {
+          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 11 October By Investing.com",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeFotejBBOExwdHVPX1JuYVB2NUtNX0hOUTRiVjBZdTBlZnl1Rks4TEZPWW9ta3YzTFhpMGZhVmNpaVcwX2FwM0RQUm5GQVQ3WnVjdEFuQXlvWldsa0wtTjByY2pmcTFYcWhMdEh6dEg2OGhjcXhna29tYXAyYjVOMExQMmtDaGwxS20zMlB4Tk5rOUhyVl9xdTAycDNUUHFPS3E3dTNWOA?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "T20 World Cup Asia Sub-Regional Qualifier B: China vs Saudi Arabia",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-chn-sau-2026-10-11",
+      "yes": 29,
+      "change24h": 8,
+      "vol24h": 11356,
+      "headlines": [
+        {
+          "title": "China Open: Qinwen Zheng stuns Mirra Andreeva to make history as first Chinese winner of WTA event in Beijing",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMzZPeUtOY2JLRWVMcFpNaGpMQ2EwTjNVRkl4bDRBNWlJVldpVzNheGJ4eHR1X004R1hsWnVCQ1A3b01jc3N5LTVaZDhHU2dKWWlHTmpUb05uR2dXa19RR1Q2aG1rSWpCNW13U2N1ZDVKN3drbVdhdGJjQ3k4SExkNFJRVE5aWS1pR292UlVIS2hmU1ZBcG9HempldG5YVG56bUFmSUY0MWhaZEdueC0tUjRZbDRGMjRpd21QNWtiMnhERDA0aTZITVJaaVhYT0F5dWhtQTlWQ0lzLXI0U3M4SjdZWFhubnFsUGdN?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Anhelina Kalinina vs Sonay Kartal",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-kalinin-kartal-2026-10-11",
+      "yes": 39,
+      "change24h": 3,
+      "vol24h": 18314,
+      "headlines": [
+        {
+          "title": "Maria Sakkari vs Donna Vekić · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlNPdWhUcDBxWjNCZGZBV1pIMENZclVuR1JtZk5GMmFTRG5Rby1sYzM5X1gxd0k2RXhMNzJJOXMzUUlsNHE1M0RUSmtBZVBWSmM0dmFUbVdIN3Jia3JMRGxXeGxQemtFTXFlSHU3eXRJNkVuc2lWeGZuRWpPV29SM0tJXzdYdGQ2VHkxaVVfYlcyX1JfWTBUSGRKWHpnMXdKSkE?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 152149,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 17,
+      "change24h": 1,
+      "vol24h": 79606,
       "headlines": [
         {
           "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
@@ -130,70 +152,116 @@
           "cat": "Macro"
         },
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXNtSmVTVTk4YjRiVWRoSVNXLVBaMWZjZ09xT0Jtd2xXazY4MThaVU01WGtMUVFPb2tFbG1jY0Z4SGs5cEhEWWJBWERTaEFMemlLc3NQVmFpVGhDdGw0U05oS3BDbVRETHpZclJXVWI2VzFWV3ptVXNYQ2E3Ui1RYUVLU3N1cUx6aUxz?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the New York Giants win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 66737,
+      "vol24h": 146890,
       "headlines": [
         {
-          "title": "Giants vs. Commanders live updates: Game ends in tie after Cam Skattebo fumble",
-          "source": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZm91UzlmWkgwQ0RULXNPd1hJWG9jaER0VXNaMTUycURWajh0bUEzNFB4UVlYeGxfdHBnUmJHY0w2MDhZNm0zd05zYTlTN3VsSTY3YTVsQ3c2cVhMWmRPSHcxay1pWnNfTFE0ckdyQldjV0dzcWR1czBfLV9neEt3dVlKVWlmNWZ0cDFqemZ6a182WE1KbzduRXVSQnRyUkVqaUtTVEEwLWVleVRLOUE?oc=5",
-          "cat": "NFL"
+          "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
+          "source": "ABC11 News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0tqSVcwZHVFTDQ2RWZzaUVodkpkS3B6TzZvS0VrM2FQZ0UyT19qVGdhZWstN0hMVU5DYS1yQ2FqUlRmUHZ2Y3ZKZzB3UWNDbGxXQUg3RkVKM0FUdGpITnZCNlRsWE43ZlNZYjk4REVhMWdfdlo5eEFDQzRLX054bjJuRUJLRjR4b29BX1ZvZFZYa0tjRW8xUEp4T3pLNkJjZThCRzJn?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXNtSmVTVTk4YjRiVWRoSVNXLVBaMWZjZ09xT0Jtd2xXazY4MThaVU01WGtMUVFPb2tFbG1jY0Z4SGs5cEhEWWJBWERTaEFMemlLc3NQVmFpVGhDdGw0U05oS3BDbVRETHpZclJXVWI2VzFWV3ptVXNYQ2E3Ui1RYUVLU3N1cUx6aUxz?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the New Orleans Saints win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
+      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 60638,
+      "vol24h": 94965,
       "headlines": [
         {
-          "title": "NFL Week 5 Highlights: Vikings at Saints Stream of National Football League",
-          "source": "CBS Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGZXZlZSWVl5dUV3d2Q2R2xGaW5oTGw0bU5DeVBZU1pSQmdlWFl3LXJOemZQWnM1ZWpxMXE3cllSMHZSWFl2b3VKU0ozSFNLT2U1YmVpYmJNRXNRRHJRdGJtU3FLNUJGLUdINmFmRU1FTWxRNDB1YjNiZWJQTFFSTnRiZ252MUg2em9kUS1B?oc=5",
-          "cat": "NFL"
+          "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
+          "source": "ABC11 News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0tqSVcwZHVFTDQ2RWZzaUVodkpkS3B6TzZvS0VrM2FQZ0UyT19qVGdhZWstN0hMVU5DYS1yQ2FqUlRmUHZ2Y3ZKZzB3UWNDbGxXQUg3RkVKM0FUdGpITnZCNlRsWE43ZlNZYjk4REVhMWdfdlo5eEFDQzRLX054bjJuRUJLRjR4b29BX1ZvZFZYa0tjRW8xUEp4T3pLNkJjZThCRzJn?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "When Companies Stop Driving a Hard Bargain, This Fed Official Starts Worrying",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXNtSmVTVTk4YjRiVWRoSVNXLVBaMWZjZ09xT0Jtd2xXazY4MThaVU01WGtMUVFPb2tFbG1jY0Z4SGs5cEhEWWJBWERTaEFMemlLc3NQVmFpVGhDdGw0U05oS3BDbVRETHpZclJXVWI2VzFWV3ptVXNYQ2E3Ui1RYUVLU3N1cUx6aUxz?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "question": "Will Houston Rockets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 28075,
+      "vol24h": 43527,
       "headlines": [
         {
-          "title": "Giants vs. Commanders live updates: Game ends in tie after Cam Skattebo fumble",
-          "source": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZm91UzlmWkgwQ0RULXNPd1hJWG9jaER0VXNaMTUycURWajh0bUEzNFB4UVlYeGxfdHBnUmJHY0w2MDhZNm0zd05zYTlTN3VsSTY3YTVsQ3c2cVhMWmRPSHcxay1pWnNfTFE0ckdyQldjV0dzcWR1czBfLV9neEt3dVlKVWlmNWZ0cDFqemZ6a182WE1KbzduRXVSQnRyUkVqaUtTVEEwLWVleVRLOUE?oc=5",
-          "cat": "NFL"
+          "title": "Houston Rockets jersey history No. 33 - Anthony Lamb (2021)",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXJWcVA1YUppWEZ0X2NHSlZWSnZaMS14U0ozby1QWnQyalBpMExOVndZVUxJX2tDWFFMc0ppRlR3Q1JfX0FwQ3hPUXdJaTlsenVWcHZYN2tMdlliQ2E4MkVjal9MMDdaS1ZWNEw3eU1yNG5ndE9zb08wRzhwcFFDeXE3SlFHVGhTcEE?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Houston Texans win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 27620,
+      "headlines": [
+        {
+          "title": "Houston Rockets jersey history No. 33 - Anthony Lamb (2021)",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXJWcVA1YUppWEZ0X2NHSlZWSnZaMS14U0ozby1QWnQyalBpMExOVndZVUxJX2tDWFFMc0ppRlR3Q1JfX0FwQ3hPUXdJaTlsenVWcHZYN2tMdlliQ2E4MkVjal9MMDdaS1ZWNEw3eU1yNG5ndE9zb08wRzhwcFFDeXE3SlFHVGhTcEE?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Cricket World Cup League 2: USA vs UAE",
+      "question": "M15 Offenbach: Pierre Antoine Tailleu vs Attila Hueller-Varga",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/itf-taille1-huelle1-2026-10-11",
+      "yes": 50,
+      "change24h": -8,
+      "vol24h": 7213,
+      "headlines": []
+    },
+    {
+      "question": "T20 World Cup Asia Sub-Regional Qualifier B: Malaysia vs Singapore",
       "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-usa-are-2026-10-11",
-      "yes": 98,
-      "change24h": 29,
-      "vol24h": 13021,
+      "url": "https://polymarket.com/event/crint-mys-sgp-2026-10-11",
+      "yes": 73,
+      "change24h": 6,
+      "vol24h": 7677,
+      "headlines": []
+    },
+    {
+      "question": "T20 World Cup Asia Sub-Regional Qualifier B: Hong Kong vs Maldives",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-hkg-mdv-2026-10-11",
+      "yes": 81,
+      "change24h": 5,
+      "vol24h": 8244,
       "headlines": []
     }
   ]
