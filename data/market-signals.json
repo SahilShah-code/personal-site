@@ -1,35 +1,13 @@
 {
-  "updated": "2026-10-13T13:03:48.886Z",
+  "updated": "2026-10-13T22:01:35.341Z",
   "withNews": [
-    {
-      "question": "Wuhan Tennis Open: Ashlyn Krueger vs Shuai Zhang",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-krueger-zhang-2026-10-13",
-      "yes": 100,
-      "change24h": 39,
-      "vol24h": 119537,
-      "headlines": [
-        {
-          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "The Wuhan tournament is left without Spanish players on the second day of competition",
-          "source": "Puntodebreak",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX042ZmtlQVBBOS1wZXB6UElSaThMSHJHazBDbDQ5ZHQwUnp0US1jYWw5TTFKSWh6YlU2ZFN1S2JlM3lab09wU3VycFU5VG1YeFlCUkpxV2RSWlZJSlpfU05ldjF2WnpxamllTXdYdEZzczBERUN6WkM1TnJRdjlFZjNQdDB6VWNvOEg5OHZkb3o4MmhaeWlIRGN2OWphcmpGVXZibXhQOFpwMGs5YU5ncGp1aVRHYUo5Sm56dG0zSGhRaG9ZX1Bz?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin dip to $80,000 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-12-18-2026",
-      "yes": 30,
-      "change24h": -16,
-      "vol24h": 18052,
+      "yes": 26,
+      "change24h": -18,
+      "vol24h": 18716,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -43,9 +21,9 @@
       "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 79,
-      "change24h": 8,
-      "vol24h": 24998,
+      "yes": 81,
+      "change24h": 14,
+      "vol24h": 27642,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -56,12 +34,12 @@
       ]
     },
     {
-      "question": "Will the price of Ethereum be above $2,600 on October 16?",
+      "question": "Will the price of Bitcoin be above $84,000 on October 15?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2600-on-october-16-2026",
-      "yes": 18,
-      "change24h": -8,
-      "vol24h": 10497,
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-15-2026",
+      "yes": 41,
+      "change24h": 14,
+      "vol24h": 20704,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -72,24 +50,40 @@
       ]
     },
     {
-      "question": "Will 2 Fed rate hikes happen in 2026?",
+      "question": "Ilhan Omar federally charged by October 31?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
-      "yes": 66,
-      "change24h": -4,
-      "vol24h": 9984,
+      "url": "https://polymarket.com/event/ilhan-omar-federally-charged-by-october-31-2026",
+      "yes": 4,
+      "change24h": -3,
+      "vol24h": 10082,
       "headlines": [
         {
-          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 11,
+      "change24h": -2,
+      "vol24h": 22760,
+      "headlines": [
+        {
+          "title": "NFL: LA Rams' Alaric Jackson given ban for punching opponent while kicker Harrison Mevis is released.",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10a1lJVzRockltSU1KTTE1c2JkZS1heTV3bV9aYkZ4dzVwS1licHhOQmhvN0hJYjhqNS12OW9kYzBZb25hbGNndFRlUVVleGZFN2FLVWdRYVdkamUyLVFDUjlZelNyUk9nNkZJNklHQjBUOHpy?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "Hammack says Fed rate hikes are unlikely to mitigate key inflation drivers",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2pRTUluYl94OHBEREw5NDJCT2NOUnVXSFpLemJaUlBVbFJWWTlPUEVMU1IxandIaVlpN2xGNlhHMHoxaEdFM2hRZThhQTFQR3pnS00xS0pKcVRyZlRoZFRGbm1lSUVMTDZ5OXBxVFVnbjQzNVRDbFJOeURGdWhfQ2R2QUlyRGxQQm5xR1pRVFNVdGNJamRYUGUwbzRGNWVnTlY1WTVTRXNaX292cS1j?oc=5",
-          "cat": "Macro"
+          "title": "The World Cup was bad for some businesses in Los Angeles",
+          "source": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmVWYUVOZjdoX1JUNWlzYVpxYm1TNUc1MDFxaHJMeDFwQTVwUHlfNUNqekxuZWhpVTIzdEE3eG9ZYkpqTmlMeEFCSEl5dXhwMjNrcEwtbGpFNkNmbVI3LTN1Y055M3ljU210bTJvdlE5S0JmUzZXM1YybFNRajJEbFp2dnNpdXUyeC1HQ0RabXNTMHEwS2cxWXZjMjJhbnpEZTB3bQ?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -98,20 +92,14 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 81,
-      "change24h": -3,
-      "vol24h": 347517,
+      "change24h": 1,
+      "vol24h": 523809,
       "headlines": [
         {
-          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Hammack says Fed rate hikes are unlikely to mitigate key inflation drivers",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2pRTUluYl94OHBEREw5NDJCT2NOUnVXSFpLemJaUlBVbFJWWTlPUEVMU1IxandIaVlpN2xGNlhHMHoxaEdFM2hRZThhQTFQR3pnS00xS0pKcVRyZlRoZFRGbm1lSUVMTDZ5OXBxVFVnbjQzNVRDbFJOeURGdWhfQ2R2QUlyRGxQQm5xR1pRVFNVdGNJamRYUGUwbzRGNWVnTlY1WTVTRXNaX292cS1j?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -120,42 +108,52 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 19,
-      "change24h": 2,
-      "vol24h": 473344,
+      "change24h": -1,
+      "vol24h": 320686,
       "headlines": [
         {
-          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Hammack says Fed rate hikes are unlikely to mitigate key inflation drivers",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc2pRTUluYl94OHBEREw5NDJCT2NOUnVXSFpLemJaUlBVbFJWWTlPUEVMU1IxandIaVlpN2xGNlhHMHoxaEdFM2hRZThhQTFQR3pnS00xS0pKcVRyZlRoZFRGbm1lSUVMTDZ5OXBxVFVnbjQzNVRDbFJOeURGdWhfQ2R2QUlyRGxQQm5xR1pRVFNVdGNJamRYUGUwbzRGNWVnTlY1WTVTRXNaX292cS1j?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Mia Pohankova vs Xiyu Wang",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-pohanko-wan-2026-10-13",
-      "yes": 32,
-      "change24h": 0,
-      "vol24h": 102106,
+      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
+      "yes": 12,
+      "change24h": 1,
+      "vol24h": 13355,
       "headlines": [
         {
-          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
-          "cat": "Tennis"
+          "title": "Bills' Brady warns RB Cook of 'consequences' for costly fumbles",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTDhvSy0yUkJlalNwZFZxbmVRUjQ5QjNFTnpua0w1WmhMYXIzYmoxZ1VtUldrVXQzVlNPQTBWbHZrWHowblMyN3RlSnFUVUNxdEJ2RGhhZW1UYi0yMEppX3g3R21LYThrV2x2djNnUXVaOUlZeVI5UVBFemhFaEZMSE5IRFZBZ2s3LXlYLVA0MXF2LUZDZ21yYlVjaTc5OFE?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "The Wuhan tournament is left without Spanish players on the second day of competition",
-          "source": "Puntodebreak",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX042ZmtlQVBBOS1wZXB6UElSaThMSHJHazBDbDQ5ZHQwUnp0US1jYWw5TTFKSWh6YlU2ZFN1S2JlM3lab09wU3VycFU5VG1YeFlCUkpxV2RSWlZJSlpfU05ldjF2WnpxamllTXdYdEZzczBERUN6WkM1TnJRdjlFZjNQdDB6VWNvOEg5OHZkb3o4MmhaeWlIRGN2OWphcmpGVXZibXhQOFpwMGs5YU5ncGp1aVRHYUo5Sm56dG0zSGhRaG9ZX1Bz?oc=5",
-          "cat": "Tennis"
+          "title": "Josh Allen carries the Bills with his improvisational skills, covering up for struggling defense",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFV4OXQ1cFgxek1sN1hNQ0xxVDUxSmJpcGQ2NUstTFRBT0h1NHByelBvMVYwRkhnMkNUQWRONW4tcDViazVaRFZzX3FNVER0SVo3REZOZlNnbWdZdC0wNk1hcm1MdEFMVDJ4eTJzbXZZSnZHQVR2cVBCT19XMHRCM3hYTQ?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Indianapolis Colts win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 28452,
+      "headlines": [
+        {
+          "title": "Steelers Week 5 grades: Elite outings for Aaron Rodgers, six others against the Colts",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDNOSnJIRXViQkt5M3NBWjUyWlUtM1RDNmpGOWZFeEcwMWo1cEhuRFRSZlFKc2xkV1VxRno4eG5kUms4VFVwQVFNRnhRcGZsWEhYZnR6djhNM3cxUkF0NVUzOTlpTzBidUlIUjM1YVNHa0FGQnNucGJnNUNuMlBxVFM0eGRDSnJTcHRDNmhUYWZyZXlxWFRCM21DY0xtQlFwbE91Z1dyN2tKdw?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -165,61 +163,43 @@
       "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
       "yes": 5,
       "change24h": 0,
-      "vol24h": 52465,
+      "vol24h": 24689,
       "headlines": [
         {
-          "title": "NBA Legend Blamed for Jayson Tatum and Jaylen Brown's Celtics Fallout",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVW5PYUw0R0JNQ3FyOUNpUDBjdV9PT1VhaENzS0RsekdVc2JlcHI1bDZvTEx4QjZTSWc5bU5KSkhqVi10a3ZLMUw2bFBoa0I3RGtCc3g4aFRfTUp3dmU4Qnk0b0Y5YVoyM2x0SThjZkVhbG5vYXVoc2ZlWC1ReTJUVjRaYlJCQQ?oc=5",
-          "cat": "NBA"
+          "title": "Inflation likely to spark more rate hikes: Boston Fed's Collins",
+          "source": "American Banker",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmxsVEEySFFJU0JydFB1Y0U1RXdhX0NocGpMeGhNZ3NkZGNsNjVpOXdnYmM5TzAtVEk0TURGLWNRbnB3QmxIaUdMcEM5bnJfTllWVUJrN29WRFNLaF92VkFPMTFyazdEMnhVYklVUWU5bGoyV2NzOXE1TkJTZ3BlY0tDWS0teF9DX0JTb0hkdXp1V1NLYnVPc2ljcGV6UQ?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Cricket World Cup League 2: Oman vs Nepal",
+      "question": "Cricket World Cup League 2: USA vs Namibia",
       "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-omn-npl-2026-10-13",
-      "yes": 0,
-      "change24h": -41,
-      "vol24h": 19358,
+      "url": "https://polymarket.com/event/crint-usa-nam-2026-10-13",
+      "yes": 6,
+      "change24h": -58,
+      "vol24h": 42072,
       "headlines": []
     },
     {
       "question": "Will the upper bound of the target federal funds rate be 4.25% at the end of 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-4pt25-at-the-end-of-2026-984",
-      "yes": 49,
-      "change24h": -18,
-      "vol24h": 73905,
-      "headlines": []
-    },
-    {
-      "question": "Catania: Enrico Dalla Valle vs Federico Bondioli",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-valle-bondiol-2026-10-12",
-      "yes": 56,
-      "change24h": -9,
-      "vol24h": 147515,
+      "yes": 57,
+      "change24h": -11,
+      "vol24h": 127526,
       "headlines": []
     },
     {
       "question": "Will the Washington Wizards make the 2027 NBA Playoffs?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-the-washington-wizards-make-the-2027-nba-playoffs-20260708210742402",
-      "yes": 30,
+      "yes": 31,
       "change24h": -6,
-      "vol24h": 9357,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 79,
-      "change24h": -4,
-      "vol24h": 13777,
+      "vol24h": 9267,
       "headlines": []
     }
   ]
