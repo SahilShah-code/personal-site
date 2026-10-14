@@ -1,127 +1,67 @@
 {
-  "updated": "2026-10-14T02:25:57.656Z",
+  "updated": "2026-10-14T10:45:10.722Z",
   "withNews": [
+    {
+      "question": "Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-ostapen-pegula-2026-10-13",
+      "yes": 92,
+      "change24h": 75,
+      "vol24h": 831101,
+      "headlines": [
+        {
+          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV Channels",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTZzWURsdUJQM3pJaDQ1N1dQNkRzWW1PcjZUUjVyZ1dxTk9YYXpIVlZFNFZCbTFlQXMyWVRvSUUwSG9OWEVwaWtycmd0Zjl5bW1Ya0oya0s3ckFOakNpbVloWnlqZVUxTUpXc3ZpUUdJZGxHa0lDeTVIeXZ2SXNHT0dKOVczMHc?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,600 October 12-18?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2600-october-12-18-2026",
+      "yes": 36,
+      "change24h": -7,
+      "vol24h": 12877,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin dip to $80,000 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-12-18-2026",
-      "yes": 27,
-      "change24h": -13,
-      "vol24h": 12491,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 79,
-      "change24h": 10,
-      "vol24h": 20724,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $84,000 on October 15?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-15-2026",
-      "yes": 38,
-      "change24h": 8,
-      "vol24h": 10658,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will 2 Fed rate hikes happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
-      "yes": 64,
-      "change24h": -6,
-      "vol24h": 13995,
-      "headlines": [
-        {
-          "title": "Fed Governor Admits Policy Reversal as Inflation Proves Stickier Than Hoped",
-          "source": "SchiffGold.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDUyalZoM2RPZ29rQ25YMWpRRFQ4RlF5Qms0dnJyclBnVmV2RkYxaWQzRTVZNWpfS1ZTQjhVb1dlY09CeW84c0kxaHhmYTE3cXk1TDJ0bHdmRXVBdjJydzBvNkxmOUpybTA0R0Z0TVlOd2dnQnBFSk12U0tCRHpITFVqUmFieVlCb3Itd1pueXNIY09jSXhHbHZyWGM1MDQ3REFFaXZPdS1DSExlTnIwSmgyWE1sUQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-shi-fernand-2026-10-13",
       "yes": 23,
-      "change24h": -4,
-      "vol24h": 9424,
+      "change24h": -6,
+      "vol24h": 11518,
       "headlines": [
         {
-          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "This Week in Tennis: Zheng Makes History With China Open Triumph",
-          "source": "National Bank Open",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3A2a0Z6czBwcFB1TlJYaWFjdk1ZVEMtbjg3Mzdxc1kwck9xUmZXUkJYR2JCUGtVZTREZDl1VUNkYWF6VjZISmRxQjhtT0ZXT1lOaG9PaFNybnE3OGEwbWJtZVNDWnFyNVFtVVBxWm5VQjdiWjRuem5xSVJZSURjTDVydXVmVnlxOHdBbzBNZ1B3aUZmRkVXT0ZOdGJsUnZBNFNaQlB1S0syaFk?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 30,
-      "change24h": -3,
-      "vol24h": 24490,
-      "headlines": [
-        {
-          "title": "Fed Governor Admits Policy Reversal as Inflation Proves Stickier Than Hoped",
-          "source": "SchiffGold.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDUyalZoM2RPZ29rQ25YMWpRRFQ4RlF5Qms0dnJyclBnVmV2RkYxaWQzRTVZNWpfS1ZTQjhVb1dlY09CeW84c0kxaHhmYTE3cXk1TDJ0bHdmRXVBdjJydzBvNkxmOUpybTA0R0Z0TVlOd2dnQnBFSk12U0tCRHpITFVqUmFieVlCb3Itd1pueXNIY09jSXhHbHZyWGM1MDQ3REFFaXZPdS1DSExlTnIwSmgyWE1sUQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Wuhan Tennis Open: Sonay Kartal vs Belinda Bencic",
+      "question": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-kartal-bencic-2026-10-13",
-      "yes": 35,
-      "change24h": 3,
-      "vol24h": 13130,
+      "url": "https://polymarket.com/event/wta-volynet-guo-2026-10-13",
+      "yes": 79,
+      "change24h": -4,
+      "vol24h": 1023043,
       "headlines": [
         {
           "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
@@ -130,32 +70,74 @@
           "cat": "Tennis"
         },
         {
-          "title": "This Week in Tennis: Zheng Makes History With China Open Triumph",
-          "source": "National Bank Open",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3A2a0Z6czBwcFB1TlJYaWFjdk1ZVEMtbjg3Mzdxc1kwck9xUmZXUkJYR2JCUGtVZTREZDl1VUNkYWF6VjZISmRxQjhtT0ZXT1lOaG9PaFNybnE3OGEwbWJtZVNDWnFyNVFtVVBxWm5VQjdiWjRuem5xSVJZSURjTDVydXVmVnlxOHdBbzBNZ1B3aUZmRkVXT0ZOdGJsUnZBNFNaQlB1S0syaFk?oc=5",
+          "title": "How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV Channels",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTZzWURsdUJQM3pJaDQ1N1dQNkRzWW1PcjZUUjVyZ1dxTk9YYXpIVlZFNFZCbTFlQXMyWVRvSUUwSG9OWEVwaWtycmd0Zjl5bW1Ya0oya0s3ckFOakNpbVloWnlqZVUxTUpXc3ZpUUdJZGxHa0lDeTVIeXZ2SXNHT0dKOVczMHc?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "question": "Ilhan Omar federally charged by October 31?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 67,
-      "change24h": 2,
-      "vol24h": 18332,
+      "url": "https://polymarket.com/event/ilhan-omar-federally-charged-by-october-31-2026",
+      "yes": 5,
+      "change24h": -4,
+      "vol24h": 15460,
       "headlines": [
         {
-          "title": "Fed Governor Admits Policy Reversal as Inflation Proves Stickier Than Hoped",
-          "source": "SchiffGold.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDUyalZoM2RPZ29rQ25YMWpRRFQ4RlF5Qms0dnJyclBnVmV2RkYxaWQzRTVZNWpfS1ZTQjhVb1dlY09CeW84c0kxaHhmYTE3cXk1TDJ0bHdmRXVBdjJydzBvNkxmOUpybTA0R0Z0TVlOd2dnQnBFSk12U0tCRHpITFVqUmFieVlCb3Itd1pueXNIY09jSXhHbHZyWGM1MDQ3REFFaXZPdS1DSExlTnIwSmgyWE1sUQ?oc=5",
-          "cat": "Macro"
-        },
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 79,
+      "change24h": -2,
+      "vol24h": 795361,
+      "headlines": [
         {
-          "title": "Fed Interest Rate Predictions for the Next 5 Years: 2026–2031",
-          "source": "Norada Real Estate Investments",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnNLbEdDMDl2NDJPZmxGbXR0YmlhUkloX201TUJrQ3JQcXpVWlN3SENVVnJTOEw4dENwc2lzT3hHUjJiT0o3RGtFdEVTelpRUmdpYUxxU2NpdWlqc0xHZ3JKVGRYRXdsZkFiNjVaYi02UExPZXBBaTM1RTJBal8zMjJRcFJCNnVfaUhQREZyUG9zZDNnZ3A0Ymc0b1RpWkFs?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 21,
+      "change24h": 2,
+      "vol24h": 226476,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "yes": 94,
+      "change24h": 2,
+      "vol24h": 13933,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -165,14 +147,8 @@
       "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
       "yes": 6,
       "change24h": 1,
-      "vol24h": 25502,
+      "vol24h": 27477,
       "headlines": [
-        {
-          "title": "Boston Fed’s Collins Says Another Rate Hike This Year Is Likely as Inflation Pressures Persist",
-          "source": "bloomingbit",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJRVdNekx0N25vSTNpRmo2YjI4dVBuMUw4OGxjN2pNeU8tQ01jUW9QRzZGWGIzcjVVWDhwZUpTQ2tnZ2lwUUZzVlpYMEt1ektjbGc5SQ?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Inflation likely to spark more rate hikes: Boston Fed's Collins",
           "source": "American Banker",
@@ -182,12 +158,12 @@
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Jasmine Paolini vs Nikola Bartunkova",
+      "question": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-paolini-bartunk-2026-10-13",
-      "yes": 44,
-      "change24h": 0,
-      "vol24h": 35256,
+      "url": "https://polymarket.com/event/wta-shi-fernand-2026-10-13",
+      "yes": 23,
+      "change24h": -1,
+      "vol24h": 11763,
       "headlines": [
         {
           "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
@@ -196,9 +172,9 @@
           "cat": "Tennis"
         },
         {
-          "title": "This Week in Tennis: Zheng Makes History With China Open Triumph",
-          "source": "National Bank Open",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd3A2a0Z6czBwcFB1TlJYaWFjdk1ZVEMtbjg3Mzdxc1kwck9xUmZXUkJYR2JCUGtVZTREZDl1VUNkYWF6VjZISmRxQjhtT0ZXT1lOaG9PaFNybnE3OGEwbWJtZVNDWnFyNVFtVVBxWm5VQjdiWjRuem5xSVJZSURjTDVydXVmVnlxOHdBbzBNZ1B3aUZmRkVXT0ZOdGJsUnZBNFNaQlB1S0syaFk?oc=5",
+          "title": "How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV Channels",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTZzWURsdUJQM3pJaDQ1N1dQNkRzWW1PcjZUUjVyZ1dxTk9YYXpIVlZFNFZCbTFlQXMyWVRvSUUwSG9OWEVwaWtycmd0Zjl5bW1Ya0oya0s3ckFOakNpbVloWnlqZVUxTUpXc3ZpUUdJZGxHa0lDeTVIeXZ2SXNHT0dKOVczMHc?oc=5",
           "cat": "Tennis"
         }
       ]
@@ -209,7 +185,7 @@
       "url": "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 33946,
+      "vol24h": 31463,
       "headlines": [
         {
           "title": "Steelers Week 5 grades: Elite outings for Aaron Rodgers, six others against the Colts",
@@ -220,48 +196,57 @@
       ]
     },
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 20,
+      "question": "Will the New England Patriots win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 11935,
+      "vol24h": 16789,
       "headlines": [
         {
-          "title": "Tyrese Haliburton shines in emotional NBA preseason return to Oklahoma City",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLTY1a3djSFE0akJRVzRRUFRwLWtCYzdIU1JuYWNWNHBzMG5ZYVdGbzIxcDBSM2dQcXVQLThOT2QtN2puTUpmQnJZbW40R1NwX2pVMXhFelM2czZwQTh1T1NPMThVVF9semFHdTZvaUFDSjg0ZURCbnVtZ1RnVFFiVmw1UzhybTdMdnEzdi1ybG8?oc=5",
-          "cat": "NBA"
+          "title": "England squad ladder: Ranking Sarina Wiegman’s players from 1-35",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1lCX21LV29GTDBiaEhvcDlCMjItaG1LUkFIR0FXbmlRZHVhMXV1blBxczVMQ3NROE1aLUlUcV9McVN6ZktOUmRKS21CZkd0a0VqX2xfOS1HX29YdDhRbi0xd0ppc0p4WTRxTzZlaTU2UWs1R2pKakVFTE81Mmp5Wk1MaVJGblE5T2c?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Cricket World Cup League 2: USA vs Namibia",
+      "question": "T20 World Cup Asia Sub-Regional Qualifier A: Bhutan vs Thailand",
       "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-usa-nam-2026-10-13",
+      "url": "https://polymarket.com/event/crint-btn-tha-2026-10-14",
       "yes": 0,
-      "change24h": -63,
-      "vol24h": 59549,
+      "change24h": -25,
+      "vol24h": 9196,
       "headlines": []
     },
     {
-      "question": "Will the Washington Wizards make the 2027 NBA Playoffs?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-the-washington-wizards-make-the-2027-nba-playoffs-20260708210742402",
-      "yes": 31,
-      "change24h": -6,
-      "vol24h": 9265,
+      "question": "T20 World Cup Asia Sub-Regional Qualifier B: Maldives vs Saudi Arabia",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-mdv-sau-2026-10-14",
+      "yes": 0,
+      "change24h": -12,
+      "vol24h": 18348,
+      "headlines": []
+    },
+    {
+      "question": "T20 World Cup Asia Sub-Regional Qualifier B: Hong Kong vs Singapore",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-hkg-sgp-2026-10-14",
+      "yes": 100,
+      "change24h": 11,
+      "vol24h": 15079,
       "headlines": []
     },
     {
       "question": "Will the upper bound of the target federal funds rate be 4.25% at the end of 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-4pt25-at-the-end-of-2026-984",
-      "yes": 63,
-      "change24h": -4,
-      "vol24h": 127667,
+      "yes": 62,
+      "change24h": 9,
+      "vol24h": 59059,
       "headlines": []
     }
   ]
