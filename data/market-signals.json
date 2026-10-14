@@ -1,36 +1,20 @@
 {
-  "updated": "2026-10-14T10:45:10.722Z",
+  "updated": "2026-10-14T16:04:09.473Z",
   "withNews": [
-    {
-      "question": "Wuhan Tennis Open: Jelena Ostapenko vs Jessica Pegula",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-ostapen-pegula-2026-10-13",
-      "yes": 92,
-      "change24h": 75,
-      "vol24h": 831101,
-      "headlines": [
-        {
-          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV Channels",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTZzWURsdUJQM3pJaDQ1N1dQNkRzWW1PcjZUUjVyZ1dxTk9YYXpIVlZFNFZCbTFlQXMyWVRvSUUwSG9OWEVwaWtycmd0Zjl5bW1Ya0oya0s3ckFOakNpbVloWnlqZVUxTUpXc3ZpUUdJZGxHa0lDeTVIeXZ2SXNHT0dKOVczMHc?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
     {
       "question": "Will Ethereum reach $2,600 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-october-12-18-2026",
-      "yes": 36,
-      "change24h": -7,
-      "vol24h": 12877,
+      "yes": 13,
+      "change24h": -39,
+      "vol24h": 17309,
       "headlines": [
+        {
+          "title": "Hotter inflation could force Fed to move rate hike plans to October",
+          "source": "HousingWire",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -43,10 +27,16 @@
       "question": "Will Bitcoin dip to $80,000 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-12-18-2026",
-      "yes": 23,
-      "change24h": -6,
-      "vol24h": 11518,
+      "yes": 54,
+      "change24h": 28,
+      "vol24h": 13837,
       "headlines": [
+        {
+          "title": "Hotter inflation could force Fed to move rate hike plans to October",
+          "source": "HousingWire",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -56,17 +46,17 @@
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Katie Volynets vs Hanyu Guo",
+      "question": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-volynet-guo-2026-10-13",
-      "yes": 79,
-      "change24h": -4,
-      "vol24h": 1023043,
+      "url": "https://polymarket.com/event/wta-shi-fernand-2026-10-13",
+      "yes": 0,
+      "change24h": -23,
+      "vol24h": 671246,
       "headlines": [
         {
-          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
+          "title": "Tennis players who compete in, have competed in, or will compete in any ATP-sanctioned or WTA-sanctioned tennis tournaments or any of the four Grand Slams may be members of a class action settlement.",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTjhHaXdNdWJjWUNHWnM3MDF4ZncxalVBVmI5aVRqYVV6SVl3RHhVQkI5c0d6cVdXS2xHYk5PYzhlRkZ3blotVGhwUGRLZlRkUkJxYV9iSktITkptMUpaN2RnZ21GSlJ3RmZPaUN1NmF4M04xNWJYaDNZdUpWUUlteFJDRUx5LXFpcU9pZTkxeXI2R19SclZwLW1vdmVWM3JIYUcyZDNaV2c5UVBUbzFxWG00X0J4X1oxbG96Q1hVSVhuMjExUnZWMVdjclJzTkJaeXF1UGxzZ3NNbmFoTFVnVm5yTEhmTVR4Zk9hdG9hc1hlQzEtcXAxVEs3empYdV9KLU81Y2hyS3ZXWHNpMHJwTDZoeU9PODZoSE10X0tSNGlpdzR3eEROTE5pTG5YUFFMeTlJcGNjRUtiUnBxUkJJWDdDT3laQVk1YldTRmcwbjlqVnJRdGs2ZFQ4a2NCdEpBX3JUZGRGejYwUTlzbXJrbUJIWl9HQmcwSk5BdDBOdEhoUdIBhwNBVV95cUxOZElMak9LQ3JtbHBXQXpRT1hDekVQSy1YaGo3Ul81VVlxMGxaWG5Tamx3a3JrX2FQYWhCSXc0NTQwd1BOR2NsSFZMYlYyUDNQbXVxUzRyUUpJNU5WVjNvTnBZMUxwa2FIQXk3WllBOXJlWDJJaHM5emdDYmZfeG9GTHE2ampvV3lvLXljTWZYUmZscm5KQzNkSmFjRHZSaTNBR3lLdWlJdXFKYmRTUG9DQUxmR0I2S1RHYXRoNWtVNDFHWTRfaE5DWEVLelNvcnNPUFd3czN1WDhHYWtaRllqNXpBUUJaaTFuVmZINEI4c2ZramNNbHlxaDd5UU00Q3VvenJyOEdiaHpsRWtiWWl6dWFHSldreWFNcGZMa2xtV1h6LUNYN0ZvakJLLXdPYnd1YVJWRzFRUmt1ZDFzcFB3ZExLWDliRFR5ZVdFckVTLWZmYndKSTVOM2FIVnJ1U1FTeUg4X2FHdDhlME9oX3BfazJnNklLVUpzNG11V3Z3SWprVG5FaHBr?oc=5",
           "cat": "Tennis"
         },
         {
@@ -78,13 +68,19 @@
       ]
     },
     {
-      "question": "Ilhan Omar federally charged by October 31?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/ilhan-omar-federally-charged-by-october-31-2026",
-      "yes": 5,
-      "change24h": -4,
-      "vol24h": 15460,
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026",
+      "yes": 77,
+      "change24h": 22,
+      "vol24h": 12959,
       "headlines": [
+        {
+          "title": "Hotter inflation could force Fed to move rate hike plans to October",
+          "source": "HousingWire",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -97,10 +93,16 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 79,
-      "change24h": -2,
-      "vol24h": 795361,
+      "yes": 63,
+      "change24h": -17,
+      "vol24h": 2117021,
       "headlines": [
+        {
+          "title": "Hotter inflation could force Fed to move rate hike plans to October",
+          "source": "HousingWire",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -113,69 +115,37 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 21,
-      "change24h": 2,
-      "vol24h": 226476,
+      "yes": 37,
+      "change24h": 17,
+      "vol24h": 1213106,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "yes": 94,
-      "change24h": 2,
-      "vol24h": 13933,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
-      "yes": 6,
-      "change24h": 1,
-      "vol24h": 27477,
-      "headlines": [
-        {
-          "title": "Inflation likely to spark more rate hikes: Boston Fed's Collins",
-          "source": "American Banker",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmxsVEEySFFJU0JydFB1Y0U1RXdhX0NocGpMeGhNZ3NkZGNsNjVpOXdnYmM5TzAtVEk0TURGLWNRbnB3QmxIaUdMcEM5bnJfTllWVUJrN29WRFNLaF92VkFPMTFyazdEMnhVYklVUWU5bGoyV2NzOXE1TkJTZ3BlY0tDWS0teF9DX0JTb0hkdXp1V1NLYnVPc2ljcGV6UQ?oc=5",
+          "title": "Hotter inflation could force Fed to move rate hike plans to October",
+          "source": "HousingWire",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Wuhan Tennis Open: Han Shi vs Leylah Fernandez",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-shi-fernand-2026-10-13",
-      "yes": 23,
-      "change24h": -1,
-      "vol24h": 11763,
-      "headlines": [
-        {
-          "title": "Kimberly Birrell vs Katie Volynets · Round 1 · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRThjQ1g2bFd1NTRhZEgxaWVCdHdheWpUczI5anJxM0RSVEduRzdqYjZjVEkzS2RiNjNBSXRTWlZoYVdoVmtUWXNnY2FfemktYWFOVG42RzFFc1FKM3BtTjZST2QyOEpfTDRXaTRyTWRkS21rZFdMZFdBRFJyZnFuQ1Y2SGY2LVNhNXpPVHNXeTNSTlN0OXVfUjhwNlNZSVIwTlZwbVFB?oc=5",
-          "cat": "Tennis"
         },
         {
-          "title": "How & Where to Watch Jelena Ostapenko vs. Jessica Pegula at WTA Wuhan Open? Start Time, Live Streaming, and TV Channels",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTZzWURsdUJQM3pJaDQ1N1dQNkRzWW1PcjZUUjVyZ1dxTk9YYXpIVlZFNFZCbTFlQXMyWVRvSUUwSG9OWEVwaWtycmd0Zjl5bW1Ya0oya0s3ckFOakNpbVloWnlqZVUxTUpXc3ZpUUdJZGxHa0lDeTVIeXZ2SXNHT0dKOVczMHc?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 43,
+      "change24h": 10,
+      "vol24h": 42553,
+      "headlines": [
+        {
+          "title": "Hotter inflation could force Fed to move rate hike plans to October",
+          "source": "HousingWire",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FZG5ja19PajNwd0ZuN0hfc0t4cUR4bkk1aThKcFVKXzc1aWs3SGFITUNYRTNtcVRtTjhNSEVubG15eUxDR2doQnZDT05Gc3RYUWFoam16RWlHVjZUcU5CdGtPQ0FVNDlOTU9OZg?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -185,68 +155,41 @@
       "url": "https://polymarket.com/event/will-the-indianapolis-colts-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 31463,
+      "vol24h": 31518,
       "headlines": [
         {
-          "title": "Steelers Week 5 grades: Elite outings for Aaron Rodgers, six others against the Colts",
+          "title": "Steelers film study: Mike McCarthy’s third-down fixes worked against the Colts",
           "source": "Pittsburgh Post-Gazette",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDNOSnJIRXViQkt5M3NBWjUyWlUtM1RDNmpGOWZFeEcwMWo1cEhuRFRSZlFKc2xkV1VxRno4eG5kUms4VFVwQVFNRnhRcGZsWEhYZnR6djhNM3cxUkF0NVUzOTlpTzBidUlIUjM1YVNHa0FGQnNucGJnNUNuMlBxVFM0eGRDSnJTcHRDNmhUYWZyZXlxWFRCM21DY0xtQlFwbE91Z1dyN2tKdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRjVXa0F6NVNHTXlkT3lUV0tyR0RrbEoxRWI0Q3BhOUptMHloWm9tT2IzQ1NBUno1dHpXQTJDcTFTMlRVaUNxTk5VdlBvYzRPX0hkRWpzRmQ5Zm9LeGVpMHBuQTBRSTc2eFdnNEEyZ0kwY2lDUHRreTF3eFdCajd4NW84MzNQMUx5OV9zVF9UUGRDV24xLW5mU3pJTW4xTkFUZkdMSFFIUUQzQ1hqYXFoQjBybk4ydXhFenc?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the New England Patriots win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
-      "yes": 4,
+      "question": "Will Portland Trail Blazers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-portland-trail-blazers-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 16789,
+      "vol24h": 15842,
       "headlines": [
         {
-          "title": "England squad ladder: Ranking Sarina Wiegman’s players from 1-35",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1lCX21LV29GTDBiaEhvcDlCMjItaG1LUkFIR0FXbmlRZHVhMXV1blBxczVMQ3NROE1aLUlUcV9McVN6ZktOUmRKS21CZkd0a0VqX2xfOS1HX29YdDhRbi0xd0ppc0p4WTRxTzZlaTU2UWs1R2pKakVFTE81Mmp5Wk1MaVJGblE5T2c?oc=5",
-          "cat": "World Cup"
+          "title": "Blazers hope to build on last season with Damian Lillard returning and addition of Ja Morant",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPT3BmNEVENUctV25CcWlGT2ZXbVhnU01HMzZuVWVXWk1lVHVuSUJaSmprZWNFSVA5YkNkSzlDTGdCdnZFc3M5bXJjOHFxNUVfVTFWamdUbHNlZ2t2aWRkcjBGZE1zai1vSHZqdXVKaU1pVmJqVnhLTjBvTUhpMWhNYm5HUGJtNXBidjNaT3BFUnk0dVplUFBTTDdvMklySGFEUHVYUVZuTVhGVVE1aEx6UHZEMTdSelRCNk42NFl1ckxjU0kxVDBTQ2h3WWFtVnlUQV80d0htUnM3TldHOUc1ZTZGZHpCTVU?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "T20 World Cup Asia Sub-Regional Qualifier A: Bhutan vs Thailand",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-btn-tha-2026-10-14",
-      "yes": 0,
-      "change24h": -25,
-      "vol24h": 9196,
-      "headlines": []
-    },
-    {
-      "question": "T20 World Cup Asia Sub-Regional Qualifier B: Maldives vs Saudi Arabia",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-mdv-sau-2026-10-14",
-      "yes": 0,
-      "change24h": -12,
-      "vol24h": 18348,
-      "headlines": []
-    },
-    {
-      "question": "T20 World Cup Asia Sub-Regional Qualifier B: Hong Kong vs Singapore",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-hkg-sgp-2026-10-14",
-      "yes": 100,
-      "change24h": 11,
-      "vol24h": 15079,
-      "headlines": []
-    },
-    {
       "question": "Will the upper bound of the target federal funds rate be 4.25% at the end of 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-upper-bound-of-the-target-federal-funds-rate-be-4pt25-at-the-end-of-2026-984",
-      "yes": 62,
-      "change24h": 9,
-      "vol24h": 59059,
+      "yes": 60,
+      "change24h": 11,
+      "vol24h": 35858,
       "headlines": []
     }
   ]
