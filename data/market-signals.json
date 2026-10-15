@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-15T10:28:02.736Z",
+  "updated": "2026-10-15T15:52:25.540Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $80,000 October 12-18?",
+      "question": "Will Bitcoin dip to $78,000 October 12-18?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-12-18-2026",
-      "yes": 68,
-      "change24h": 45,
-      "vol24h": 28320,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-12-18-2026",
+      "yes": 8,
+      "change24h": -15,
+      "vol24h": 45718,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,600 in October?",
+      "question": "Will Ethereum dip to $2,300 October 12-18?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-october-2026",
-      "yes": 34,
-      "change24h": -34,
-      "vol24h": 61709,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-12-18-2026",
+      "yes": 13,
+      "change24h": -12,
+      "vol24h": 13043,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -34,49 +34,39 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $85,000 in October?",
+      "question": "Will Bitcoin dip to $77,500 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 49,
-      "change24h": -31,
-      "vol24h": 14452,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 41,
-      "change24h": 10,
-      "vol24h": 20560,
-      "headlines": [
-        {
-          "title": "Hot inflation data puts Fed in complicated spot",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 56,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 39,
       "change24h": -10,
-      "vol24h": 12870,
+      "vol24h": 100105,
       "headlines": [
         {
-          "title": "Hot inflation data puts Fed in complicated spot",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 72,
+      "change24h": 9,
+      "vol24h": 1445054,
+      "headlines": [
+        {
+          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
+          "source": "SchiffGold.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Billionaire John Arnold Warns Fed Rate Hikes ‘May Be Counterproductive,’ Says ‘Will Do Little to Lower Inflation’",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnhfQzdtUzZVWkUwM2hPNk1rcGQ4NC1lRVFMcGpnSkVWcllzajhMVkFDcDZyMTBWWExLX29sWHprWFFGYlVadXI3MXYwdzhiam5tS3VvM1JtLVpCdVJ3QUIyeElsS2dTYUhpNHJPT1dQMy0xMXJUV2ZUS2VORm5XbHRuYlVIOTZaMExQYVlhaUI2X1dmM2ZUX2ViN2podlZhOWI3aEVrNG5waGxabEVwdTNUTUx1STRxRTNFbWZ0UzhnNXotWkF4UFVOVlVUY01MYk9nMHAxWGhIUDkwOVdvbUpFUkp0QlR4eG5pSlZEZ3ZoUENsd3A0WV9BUDZfRWs?oc=5",
           "cat": "Macro"
         }
       ]
@@ -85,21 +75,59 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 25,
-      "change24h": 5,
-      "vol24h": 1585544,
+      "yes": 28,
+      "change24h": -9,
+      "vol24h": 671139,
       "headlines": [
         {
-          "title": "Hot inflation data puts Fed in complicated spot",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
+          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
+          "source": "SchiffGold.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
+          "title": "Billionaire John Arnold Warns Fed Rate Hikes ‘May Be Counterproductive,’ Says ‘Will Do Little to Lower Inflation’",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnhfQzdtUzZVWkUwM2hPNk1rcGQ4NC1lRVFMcGpnSkVWcllzajhMVkFDcDZyMTBWWExLX29sWHprWFFGYlVadXI3MXYwdzhiam5tS3VvM1JtLVpCdVJ3QUIyeElsS2dTYUhpNHJPT1dQMy0xMXJUV2ZUS2VORm5XbHRuYlVIOTZaMExQYVlhaUI2X1dmM2ZUX2ViN2podlZhOWI3aEVrNG5waGxabEVwdTNUTUx1STRxRTNFbWZ0UzhnNXotWkF4UFVOVlVUY01MYk9nMHAxWGhIUDkwOVdvbUpFUkp0QlR4eG5pSlZEZ3ZoUENsd3A0WV9BUDZfRWs?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "yes": 12,
+      "change24h": 3,
+      "vol24h": 13926,
+      "headlines": [
+        {
+          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
+          "source": "SchiffGold.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Billionaire John Arnold Warns Fed Rate Hikes ‘May Be Counterproductive,’ Says ‘Will Do Little to Lower Inflation’",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnhfQzdtUzZVWkUwM2hPNk1rcGQ4NC1lRVFMcGpnSkVWcllzajhMVkFDcDZyMTBWWExLX29sWHprWFFGYlVadXI3MXYwdzhiam5tS3VvM1JtLVpCdVJ3QUIyeElsS2dTYUhpNHJPT1dQMy0xMXJUV2ZUS2VORm5XbHRuYlVIOTZaMExQYVlhaUI2X1dmM2ZUX2ViN2podlZhOWI3aEVrNG5waGxabEVwdTNUTUx1STRxRTNFbWZ0UzhnNXotWkF4UFVOVlVUY01MYk9nMHAxWGhIUDkwOVdvbUpFUkp0QlR4eG5pSlZEZ3ZoUENsd3A0WV9BUDZfRWs?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 291503,
+      "headlines": [
+        {
+          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
+          "source": "SchiffGold.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -109,12 +137,12 @@
       "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 11117,
+      "vol24h": 11137,
       "headlines": [
         {
           "title": "LeBron James leaves Lakers and loaded Western Conference for Philly, Warriors try to contend again",
-          "source": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUNmQkFEVVNCMng4aHpTeUNFcF9Kc3NkLWUyLXVfdEUySjlWcDRTNlNhZmt4WWxLOHl4OFB6MVNUVXp2TUNYQklsX3lXRnF0b3hUTkJpbkFjSE53SU1WZ2lXNzNzYmVZTDV1ZW1yR1JsRHE0eXBJRk80cm9tQ1p2SW5BY3VvZDkwNUtLRw?oc=5",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYVBVWHg3d1MxTy03Q0U0dXdLTFFsTkVXem5tWEJNVC1CZ0FjUVR5QzNTaWlTaEl0bWJSSVA4aDFaV1hicjV4UzBaLVlmTkJ4VmpaZm54a0NSek1GUHRWTl9OZGV0bVVKX05KYmV3OEhEWUxhWmwwWGlCYnNtT1dWTVFtbDBPdWFMU2hzVC00UHdHc1BucG1CMWJlNEt5WDhHc3Nqc2NKNWltZXF5czJQY01XOEJiZFR3YUR6QXBZcUliVm9WOEVUczFscVJ6RC1BYnc?oc=5",
           "cat": "NBA"
         }
       ]
@@ -122,12 +150,12 @@
   ],
   "moversOnly": [
     {
-      "question": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-paolini-kartal-2026-10-14",
-      "yes": 26,
-      "change24h": -26,
-      "vol24h": 301300,
+      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
+      "yes": 24,
+      "change24h": 9,
+      "vol24h": 25227,
       "headlines": []
     },
     {
@@ -135,35 +163,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
       "yes": 65,
-      "change24h": -16,
-      "vol24h": 12479,
-      "headlines": []
-    },
-    {
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 26,
-      "change24h": 11,
-      "vol24h": 23517,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 55,
-      "change24h": -10,
-      "vol24h": 33473,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $3,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-3500-by-december-31-2026",
-      "yes": 14,
-      "change24h": -4,
-      "vol24h": 19060,
+      "change24h": -8,
+      "vol24h": 11097,
       "headlines": []
     }
   ]
