@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-14T21:03:01.098Z",
+  "updated": "2026-10-15T02:06:48.178Z",
   "withNews": [
     {
       "question": "Will Ethereum reach $2,600 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-reach-2600-october-12-18-2026",
-      "yes": 10,
-      "change24h": -36,
-      "vol24h": 15054,
+      "yes": 9,
+      "change24h": -35,
+      "vol24h": 15408,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -21,9 +21,9 @@
       "question": "Will Bitcoin dip to $80,000 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-12-18-2026",
-      "yes": 53,
-      "change24h": 25,
-      "vol24h": 31304,
+      "yes": 56,
+      "change24h": 30,
+      "vol24h": 30823,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -34,62 +34,18 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,600 in October?",
+      "question": "Will Ethereum dip to $2,400 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-october-2026",
-      "yes": 52,
-      "change24h": -20,
-      "vol24h": 47877,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-october-2026",
+      "yes": 97,
+      "change24h": 30,
+      "vol24h": 16079,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 69,
-      "change24h": -12,
-      "vol24h": 2341367,
-      "headlines": [
-        {
-          "title": "Hot inflation data puts Fed in complicated spot",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Higher Fuel Costs Lead to Price Increases for Consumers, Businesses Warn the Fed",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEtGajM4UlJ1RWRDcjZzYUhySjFvbXVwaGZmUE1xVkM3eV94ZkpOQ3lFUkdkU2ZoTW02eWxjSjlSa2ktd3FWUktVaGdDTDlISGZlUkFuNTdlaF83bmVzSEJhMDE4RW1uUzBFUVp4YjBId1cwRzU4NTBxV3QzMjlaUE12M3JCVDd5bE50UV9zVWhkOTBpLUxRVmJ3VzlFQlRDVENYdGoyMTYtMzVualV5M2ZBbkJ3UEg0?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 31,
-      "change24h": 12,
-      "vol24h": 1361871,
-      "headlines": [
-        {
-          "title": "Hot inflation data puts Fed in complicated spot",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Higher Fuel Costs Lead to Price Increases for Consumers, Businesses Warn the Fed",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEtGajM4UlJ1RWRDcjZzYUhySjFvbXVwaGZmUE1xVkM3eV94ZkpOQ3lFUkdkU2ZoTW02eWxjSjlSa2ktd3FWUktVaGdDTDlISGZlUkFuNTdlaF83bmVzSEJhMDE4RW1uUzBFUVp4YjBId1cwRzU4NTBxV3QzMjlaUE12M3JCVDd5bE50UV9zVWhkOTBpLUxRVmJ3VzlFQlRDVENYdGoyMTYtMzVualV5M2ZBbkJ3UEg0?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -99,29 +55,73 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
       "yes": 41,
       "change24h": 11,
-      "vol24h": 20616,
+      "vol24h": 20610,
       "headlines": [
         {
-          "title": "Hot inflation data puts Fed in complicated spot",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03N0JPOGNhMEFKWFVlZUItY3hsNWZlMkdSbEQ4dTF1cEJvNTN2MUtJcFZzM1duYlE2aU5FRnR0Nm5iZXpCNzJNV1VLTzJId09IZDc2N1M1bWpiU25DVUY0Yk1VakM1RGd6SmRiQThlUE5EVDRuYzBTZEdxcDlTUkk?oc=5",
+          "title": "CPI Report Live Updates: New Insights on Inflation, U.S. Economy and the Fed",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Higher Fuel Costs Lead to Price Increases for Consumers, Businesses Warn the Fed",
-          "source": "Investopedia",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTEtGajM4UlJ1RWRDcjZzYUhySjFvbXVwaGZmUE1xVkM3eV94ZkpOQ3lFUkdkU2ZoTW02eWxjSjlSa2ktd3FWUktVaGdDTDlISGZlUkFuNTdlaF83bmVzSEJhMDE4RW1uUzBFUVp4YjBId1cwRzU4NTBxV3QzMjlaUE12M3JCVDd5bE50UV9zVWhkOTBpLUxRVmJ3VzlFQlRDVENYdGoyMTYtMzVualV5M2ZBbkJ3UEg0?oc=5",
+          "title": "Hot September CPI numbers, possible Fed rate hikes spark anxiety for midterm voters",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdTk2TGxkdzVVZ05oLUhrZGZPUUwwVXJpTnV3Q0htYlBjNXEwb0xrSy1GNkJORjM3NGtzM2ZDTzhqWHV3RXlOODN1OThLT0pjdzc0N2FHZUZvYk9GanBTOHNkZlZLNkctTGw5cUhqQmVXMkZRWnM5TVFzc1pCc05wSVNB?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
+      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "yes": 12,
+      "change24h": -8,
+      "vol24h": 11430,
+      "headlines": [
+        {
+          "title": "CPI Report Live Updates: New Insights on Inflation, U.S. Economy and the Fed",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Hot September CPI numbers, possible Fed rate hikes spark anxiety for midterm voters",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdTk2TGxkdzVVZ05oLUhrZGZPUUwwVXJpTnV3Q0htYlBjNXEwb0xrSy1GNkJORjM3NGtzM2ZDTzhqWHV3RXlOODN1OThLT0pjdzc0N2FHZUZvYk9GanBTOHNkZlZLNkctTGw5cUhqQmVXMkZRWnM5TVFzc1pCc05wSVNB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 77,
+      "change24h": -4,
+      "vol24h": 2612970,
+      "headlines": [
+        {
+          "title": "CPI Report Live Updates: New Insights on Inflation, U.S. Economy and the Fed",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Hot September CPI numbers, possible Fed rate hikes spark anxiety for midterm voters",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdTk2TGxkdzVVZ05oLUhrZGZPUUwwVXJpTnV3Q0htYlBjNXEwb0xrSy1GNkJORjM3NGtzM2ZDTzhqWHV3RXlOODN1OThLT0pjdzc0N2FHZUZvYk9GanBTOHNkZlZLNkctTGw5cUhqQmVXMkZRWnM5TVFzc1pCc05wSVNB?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Elina Svitolina vs Hanyu Guo",
       "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-paolini-kartal-2026-10-14",
-      "yes": 53,
+      "url": "https://polymarket.com/event/wta-svitoli-guo-2026-10-15",
+      "yes": 88,
       "change24h": 0,
-      "vol24h": 29297,
+      "vol24h": 48639,
       "headlines": [
         {
           "title": "Aryna Sabalenka’s loss means Wuhan Open will crown maiden champion",
@@ -136,6 +136,98 @@
           "cat": "Tennis"
         }
       ]
+    },
+    {
+      "question": "Will Orlando Magic win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 46956,
+      "headlines": [
+        {
+          "title": "Orlando submits bid to host major global soccer tournament",
+          "source": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnNMSTBGRVpfQ1QzSHV4TUt5VkdCVnRUdmJ5QWdvZDhMWTY3VTh0dEFocmhSNm1kU1B6Q1VkRE5meXJkRDNjMUx3ckJHVUJudmZ5S3VvZXMxWHQybXpBSkw0WVNtVGt5eENrX19DRFE1VnRoMHZuXzdfN244TW9MazNNdWVKSmRRWEpJY2JiNHgyV0NnR1kzcnRPZXN6MGZfWnh3?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 11,
+      "change24h": 0,
+      "vol24h": 45121,
+      "headlines": [
+        {
+          "title": "Rams lineman Alaric Jackson has suspension reduced to 1 game for punching Bills' Chubb",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcTRZaVJmbWw5ZHVDbmFocmt2d0tYUF9vWHhYdXgzMFV4VGN4ZHNLSlN5UGFnSHJJODluZkhJOXQ0OU5wSE9sSVdFQTk5ZTdvaTBsWUozVEl2T3ZyM0VGblZQeEF6S2ktRi1DMXRGS0l4cFQ0eFNlLXVQLW9Kck13em9lQXpyNWlsYWc?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Jasmine Paolini vs Sonay Kartal",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-paolini-kartal-2026-10-14",
+      "yes": 55,
+      "change24h": 0,
+      "vol24h": 44512,
+      "headlines": [
+        {
+          "title": "Aryna Sabalenka’s loss means Wuhan Open will crown maiden champion",
+          "source": "The Big Lead",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0o3M2xfRWluaVpKTDFPUTh1dmVhOVk5T3FnbVZPTTJ2YWxBY1JhelhXVzhxRm9Yakd0X1ZEQ2pKemhzaG1PV3NoakFCdS1aTHhJUW9uaGtMZjIwQkFjdGloc19SbzVITHBDMU5GaEN0WmI5OW1FWGhCWTE1d212akV0aHJ2aUpYZ3pGdXJB?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis players who compete in, have competed in, or will compete in any ATP-sanctioned or WTA-sanctioned tennis tournaments or any of the four Grand Slams may be members of a class action settlement.",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTjhHaXdNdWJjWUNHWnM3MDF4ZncxalVBVmI5aVRqYVV6SVl3RHhVQkI5c0d6cVdXS2xHYk5PYzhlRkZ3blotVGhwUGRLZlRkUkJxYV9iSktITkptMUpaN2RnZ21GSlJ3RmZPaUN1NmF4M04xNWJYaDNZdUpWUUlteFJDRUx5LXFpcU9pZTkxeXI2R19SclZwLW1vdmVWM3JIYUcyZDNaV2c5UVBUbzFxWG00X0J4X1oxbG96Q1hVSVhuMjExUnZWMVdjclJzTkJaeXF1UGxzZ3NNbmFoTFVnVm5yTEhmTVR4Zk9hdG9hc1hlQzEtcXAxVEs3empYdV9KLU81Y2hyS3ZXWHNpMHJwTDZoeU9PODZoSE10X0tSNGlpdzR3eEROTE5pTG5YUFFMeTlJcGNjRUtiUnBxUkJJWDdDT3laQVk1YldTRmcwbjlqVnJRdGs2ZFQ4a2NCdEpBX3JUZGRGejYwUTlzbXJrbUJIWl9HQmcwSk5BdDBOdEhoUdIBhwNBVV95cUxOZElMak9LQ3JtbHBXQXpRT1hDekVQSy1YaGo3Ul81VVlxMGxaWG5Tamx3a3JrX2FQYWhCSXc0NTQwd1BOR2NsSFZMYlYyUDNQbXVxUzRyUUpJNU5WVjNvTnBZMUxwa2FIQXk3WllBOXJlWDJJaHM5emdDYmZfeG9GTHE2ampvV3lvLXljTWZYUmZscm5KQzNkSmFjRHZSaTNBR3lLdWlJdXFKYmRTUG9DQUxmR0I2S1RHYXRoNWtVNDFHWTRfaE5DWEVLelNvcnNPUFd3czN1WDhHYWtaRllqNXpBUUJaaTFuVmZINEI4c2ZramNNbHlxaDd5UU00Q3VvenJyOEdiaHpsRWtiWWl6dWFHSldreWFNcGZMa2xtV1h6LUNYN0ZvakJLLXdPYnd1YVJWRzFRUmt1ZDFzcFB3ZExLWDliRFR5ZVdFckVTLWZmYndKSTVOM2FIVnJ1U1FTeUg4X2FHdDhlME9oX3BfazJnNklLVUpzNG11V3Z3SWprVG5FaHBr?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Karolina Muchova vs Diana Shnaider",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-muchova-shnaide-2026-10-14",
+      "yes": 49,
+      "change24h": 0,
+      "vol24h": 34856,
+      "headlines": [
+        {
+          "title": "Aryna Sabalenka’s loss means Wuhan Open will crown maiden champion",
+          "source": "The Big Lead",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0o3M2xfRWluaVpKTDFPUTh1dmVhOVk5T3FnbVZPTTJ2YWxBY1JhelhXVzhxRm9Yakd0X1ZEQ2pKemhzaG1PV3NoakFCdS1aTHhJUW9uaGtMZjIwQkFjdGloc19SbzVITHBDMU5GaEN0WmI5OW1FWGhCWTE1d212akV0aHJ2aUpYZ3pGdXJB?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis players who compete in, have competed in, or will compete in any ATP-sanctioned or WTA-sanctioned tennis tournaments or any of the four Grand Slams may be members of a class action settlement.",
+          "source": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPTjhHaXdNdWJjWUNHWnM3MDF4ZncxalVBVmI5aVRqYVV6SVl3RHhVQkI5c0d6cVdXS2xHYk5PYzhlRkZ3blotVGhwUGRLZlRkUkJxYV9iSktITkptMUpaN2RnZ21GSlJ3RmZPaUN1NmF4M04xNWJYaDNZdUpWUUlteFJDRUx5LXFpcU9pZTkxeXI2R19SclZwLW1vdmVWM3JIYUcyZDNaV2c5UVBUbzFxWG00X0J4X1oxbG96Q1hVSVhuMjExUnZWMVdjclJzTkJaeXF1UGxzZ3NNbmFoTFVnVm5yTEhmTVR4Zk9hdG9hc1hlQzEtcXAxVEs3empYdV9KLU81Y2hyS3ZXWHNpMHJwTDZoeU9PODZoSE10X0tSNGlpdzR3eEROTE5pTG5YUFFMeTlJcGNjRUtiUnBxUkJJWDdDT3laQVk1YldTRmcwbjlqVnJRdGs2ZFQ4a2NCdEpBX3JUZGRGejYwUTlzbXJrbUJIWl9HQmcwSk5BdDBOdEhoUdIBhwNBVV95cUxOZElMak9LQ3JtbHBXQXpRT1hDekVQSy1YaGo3Ul81VVlxMGxaWG5Tamx3a3JrX2FQYWhCSXc0NTQwd1BOR2NsSFZMYlYyUDNQbXVxUzRyUUpJNU5WVjNvTnBZMUxwa2FIQXk3WllBOXJlWDJJaHM5emdDYmZfeG9GTHE2ampvV3lvLXljTWZYUmZscm5KQzNkSmFjRHZSaTNBR3lLdWlJdXFKYmRTUG9DQUxmR0I2S1RHYXRoNWtVNDFHWTRfaE5DWEVLelNvcnNPUFd3czN1WDhHYWtaRllqNXpBUUJaaTFuVmZINEI4c2ZramNNbHlxaDd5UU00Q3VvenJyOEdiaHpsRWtiWWl6dWFHSldreWFNcGZMa2xtV1h6LUNYN0ZvakJLLXdPYnd1YVJWRzFRUmt1ZDFzcFB3ZExLWDliRFR5ZVdFckVTLWZmYndKSTVOM2FIVnJ1U1FTeUg4X2FHdDhlME9oX3BfazJnNklLVUpzNG11V3Z3SWprVG5FaHBr?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 12868,
+      "headlines": [
+        {
+          "title": "Warriors center Kristaps Porzingis remains out indefinitely",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OU0dhekc0SFU0d0sybWZyNTN1bm10MGdJVUFYOF8tby1BLVI2NWJIMkN2R01WUGJjYjA4bGpPX1JwY0JXVzBCWW1HRlZ0Szh6Vnk2d3NkNTNuTFBJU1RkY212cGdFZXhpNFRVYlkyR0M2bFVWYVgwSw?oc=5",
+          "cat": "NBA"
+        }
+      ]
     }
   ],
   "moversOnly": [
@@ -143,9 +235,9 @@
       "question": "Tesla and SpaceX merger officially announced by December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 23,
-      "change24h": 8,
-      "vol24h": 18890,
+      "yes": 25,
+      "change24h": 11,
+      "vol24h": 21276,
       "headlines": []
     }
   ]
