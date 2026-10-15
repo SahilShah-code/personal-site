@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-15T15:52:25.540Z",
+  "updated": "2026-10-15T20:37:31.767Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $78,000 October 12-18?",
+      "question": "Will Ethereum dip to $2,300 October 12-18?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-12-18-2026",
-      "yes": 8,
-      "change24h": -15,
-      "vol24h": 45718,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-12-18-2026",
+      "yes": 7,
+      "change24h": -22,
+      "vol24h": 21604,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,300 October 12-18?",
+      "question": "Will Bitcoin dip to $78,000 October 12-18?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-12-18-2026",
-      "yes": 13,
-      "change24h": -12,
-      "vol24h": 13043,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-12-18-2026",
+      "yes": 8,
+      "change24h": -13,
+      "vol24h": 49970,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -37,9 +37,9 @@
       "question": "Will Bitcoin dip to $77,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 39,
-      "change24h": -10,
-      "vol24h": 100105,
+      "yes": 37,
+      "change24h": -9,
+      "vol24h": 220182,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -53,14 +53,14 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 72,
-      "change24h": 9,
-      "vol24h": 1445054,
+      "yes": 73,
+      "change24h": 4,
+      "vol24h": 1106653,
       "headlines": [
         {
-          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
-          "source": "SchiffGold.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
+          "title": "The Fed still has little control over the 2 biggest inflation drivers",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVdBUTNZWFdzN18za0drN0dZUDZXU1ZaSVpXd1RqS0d1aENfb0xHMHl4VnRiS3g3SXVSVHpGT04xNzgyU3o1aWdfa1FETnp5bThVVXBsdTJaaDRONDgyNkRhRmRoVk41TDFCMDJjbzBGWTl4NUFhWkFjYWo1eVNwcG90OFc1R0hGS3k5dkRzQThQbUtyQlBCTWJ4YmhDNzRfN1FFVGwxbEtBa2c3STQ3dndMUDhvZHVLZl8tX3M3b3NBd2Vl?oc=5",
           "cat": "Macro"
         },
         {
@@ -75,14 +75,14 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 28,
-      "change24h": -9,
-      "vol24h": 671139,
+      "yes": 27,
+      "change24h": -4,
+      "vol24h": 530984,
       "headlines": [
         {
-          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
-          "source": "SchiffGold.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
+          "title": "The Fed still has little control over the 2 biggest inflation drivers",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVdBUTNZWFdzN18za0drN0dZUDZXU1ZaSVpXd1RqS0d1aENfb0xHMHl4VnRiS3g3SXVSVHpGT04xNzgyU3o1aWdfa1FETnp5bThVVXBsdTJaaDRONDgyNkRhRmRoVk41TDFCMDJjbzBGWTl4NUFhWkFjYWo1eVNwcG90OFc1R0hGS3k5dkRzQThQbUtyQlBCTWJ4YmhDNzRfN1FFVGwxbEtBa2c3STQ3dndMUDhvZHVLZl8tX3M3b3NBd2Vl?oc=5",
           "cat": "Macro"
         },
         {
@@ -94,17 +94,17 @@
       ]
     },
     {
-      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
+      "question": "Will 1 Fed rate cut happen in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
-      "yes": 12,
-      "change24h": 3,
-      "vol24h": 13926,
+      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
+      "yes": 0,
+      "change24h": -1,
+      "vol24h": 43749,
       "headlines": [
         {
-          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
-          "source": "SchiffGold.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
+          "title": "The Fed still has little control over the 2 biggest inflation drivers",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVdBUTNZWFdzN18za0drN0dZUDZXU1ZaSVpXd1RqS0d1aENfb0xHMHl4VnRiS3g3SXVSVHpGT04xNzgyU3o1aWdfa1FETnp5bThVVXBsdTJaaDRONDgyNkRhRmRoVk41TDFCMDJjbzBGWTl4NUFhWkFjYWo1eVNwcG90OFc1R0hGS3k5dkRzQThQbUtyQlBCTWJ4YmhDNzRfN1FFVGwxbEtBa2c3STQ3dndMUDhvZHVLZl8tX3M3b3NBd2Vl?oc=5",
           "cat": "Macro"
         },
         {
@@ -112,60 +112,9 @@
           "source": "Benzinga",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnhfQzdtUzZVWkUwM2hPNk1rcGQ4NC1lRVFMcGpnSkVWcllzajhMVkFDcDZyMTBWWExLX29sWHprWFFGYlVadXI3MXYwdzhiam5tS3VvM1JtLVpCdVJ3QUIyeElsS2dTYUhpNHJPT1dQMy0xMXJUV2ZUS2VORm5XbHRuYlVIOTZaMExQYVlhaUI2X1dmM2ZUX2ViN2podlZhOWI3aEVrNG5waGxabEVwdTNUTUx1STRxRTNFbWZ0UzhnNXotWkF4UFVOVlVUY01MYk9nMHAxWGhIUDkwOVdvbUpFUkp0QlR4eG5pSlZEZ3ZoUENsd3A0WV9BUDZfRWs?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 291503,
-      "headlines": [
-        {
-          "title": "Cleveland Fed Chief Acts Like an Inflation Hawk in Latest Speech",
-          "source": "SchiffGold.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelQxdWNwQmVaazkwaGlhemZFYkVGT1h1em14SFJyX1pKQ0NZNEJpOGJQOU0tUkhkRVF0QnZlNW5fWDlULWZFVjBtbWNJay1SVFNJMWpicW54dy1yOVNOcUhKOEdfNDNLZ3d2bVNJWExSWjdLY0ZyMmZxNDc5NXhjRFhtZDBiRFpvdi1PMklKV0ozZllTS0pjcENBMXFFNTJiLURmbzBFZw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 11137,
-      "headlines": [
-        {
-          "title": "LeBron James leaves Lakers and loaded Western Conference for Philly, Warriors try to contend again",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYVBVWHg3d1MxTy03Q0U0dXdLTFFsTkVXem5tWEJNVC1CZ0FjUVR5QzNTaWlTaEl0bWJSSVA4aDFaV1hicjV4UzBaLVlmTkJ4VmpaZm54a0NSek1GUHRWTl9OZGV0bVVKX05KYmV3OEhEWUxhWmwwWGlCYnNtT1dWTVFtbDBPdWFMU2hzVC00UHdHc1BucG1CMWJlNEt5WDhHc3Nqc2NKNWltZXF5czJQY01XOEJiZFR3YUR6QXBZcUliVm9WOEVUczFscVJ6RC1BYnc?oc=5",
-          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 24,
-      "change24h": 9,
-      "vol24h": 25227,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 65,
-      "change24h": -8,
-      "vol24h": 11097,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
