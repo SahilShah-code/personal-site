@@ -1,110 +1,24 @@
 {
-  "updated": "2026-10-16T10:15:34.523Z",
+  "updated": "2026-10-16T15:40:39.620Z",
   "withNews": [
-    {
-      "question": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-chwalin-sakkari-2026-10-15",
-      "yes": 100,
-      "change24h": 55,
-      "vol24h": 847315,
-      "headlines": [
-        {
-          "title": "Sonay Kartal: Brit breaks new ground by upsetting Elina Svitolina to reach Wuhan Open semi-finals",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT29vaTlLeTRBQ0N1RG4xZWdrNTM0X1M2T1JPeG9jdGFjUFB5R1RfOUwwZmZjcVAwbGFsRUVNaEJST3RYQi1mbjhHX0czeUkwRTM4Q2E4MGRBR01PRVFZeWNSbVQyWkxCUGxtOTVNUE1Md2w2Uzc2N2c1ZXpTVE5UMkN5NXV1UFhsNHQ2bWFhWEV2T24xeGZUdzJ6Y0d6d3RoLXBRREJhcU1aVEFWTEZqYW81NUFaWlZWdFZ0TVJ0S2lNQkN6c0Z1em9kam5kUGRnM1AtQk5SZ0QtRk0?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,300 October 12-18?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-12-18-2026",
-      "yes": 3,
-      "change24h": -46,
-      "vol24h": 20678,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,300 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
-      "yes": 49,
-      "change24h": -28,
-      "vol24h": 18865,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,300 on October 20?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2300-on-october-20-2026",
-      "yes": 96,
-      "change24h": 24,
-      "vol24h": 10459,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-october-decision",
-      "yes": 77,
-      "change24h": -20,
-      "vol24h": 13571,
-      "headlines": [
-        {
-          "title": "Stock Market Today: Investors Pare Rate-Hike Bets After Warsh Declines to Guide on Next Move",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMERxbFBScllCdzNxWmI5WFdkbE53aHVIa0ZaNm9oUUpnbGtCX2hKYThEd0hPd25RR0RvbXo2VFpVN0ZJcXBKTUVQT2IzQ3NVTkdnOHNCX2VWeVo1TW0taFhSX3hFUlRsdVQ2YVI2cVZkUV9DbE9oNUZMVTZLN29Tc1RPMkp1cnI5SS12OGo3WEhRT0ZwRGtZVQ?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
     {
       "question": "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the October decision?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-october-decision",
-      "yes": 22,
-      "change24h": 19,
-      "vol24h": 10237,
+      "yes": 21,
+      "change24h": 17,
+      "vol24h": 10545,
       "headlines": [
         {
-          "title": "Stock Market Today: Investors Pare Rate-Hike Bets After Warsh Declines to Guide on Next Move",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5",
-          "cat": "Markets"
+          "title": "Warsh: Inflation Still Weighs on Economy as Fed Eyes Oct. 28 Rate Decision - News and Statistics",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHcxYUVWRVdmSGZBSk50cGhhRTRiaEN4dHlOVUxuM055MXNsRTluR25wSTNxOURLQVpBSnFRSG12YWozWE1nNFNXN0tvN1pob1pwSTU1MWlCS3Q3YlYwQ1RxamxwZmpVS0E2Z25iUU9pMUhaZlc2U3BkY1JuaFNkTlVlU0F4TWlMaF90UWpuRVItU3g0MEV4cGllM2d2d1hSQlpBV2lzbkVxajBVM1BORnc0UV9wX2Rmam9UUjk1N3lpRHRkcFIw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMERxbFBScllCdzNxWmI5WFdkbE53aHVIa0ZaNm9oUUpnbGtCX2hKYThEd0hPd25RR0RvbXo2VFpVN0ZJcXBKTUVQT2IzQ3NVTkdnOHNCX2VWeVo1TW0taFhSX3hFUlRsdVQ2YVI2cVZkUV9DbE9oNUZMVTZLN29Tc1RPMkp1cnI5SS12OGo3WEhRT0ZwRGtZVQ?oc=5",
+          "title": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTBnUUY3T1FscmtYQWNCWm5IUXZvNTlySmVnYWg2cVpjV2hpUEtZV1FtU1I3bVd4RThPNG03VWN6cmt5emZ1THdHN0lCYkc4STE3eXZXLUdFWGlWSnRqbVM3SkgySmVXYkYybFNCUVgwVVJaTExxSHBmcHdKSGh2S1RRTmR5ejZKOUNJdkpHeC1NcThtb1VhLUJzV0t2cndzUHZKSzFjZTJJZnB2enprREx3?oc=5",
           "cat": "Markets"
         }
       ]
@@ -114,118 +28,159 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 87,
-      "change24h": 12,
-      "vol24h": 851732,
+      "change24h": 15,
+      "vol24h": 463868,
       "headlines": [
         {
-          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOU1vcUw0THNGVzNzanp4bkxhODR6c1Z2ejRiTXB0SXdJcE1YYVJJOGN1Qm9WRG1TVUYydnloWWYxZnpTNUJBRzI0eW8zRjdIZG1RTzhueEZsc0lESnRYa1lVMW9FYWR2a0pjZG00RUN5cDJQSHRuajlNZG5BdVdQS2RrdldBTkVFWWYySi16UXZRYW5LQ05LZUxUcmgtbjRGTHNPdXJyYlozU2NlY2JjTFU2VzFNdTZ1cnlocENzc2pxdGw2?oc=5",
+          "title": "Warsh: Inflation Still Weighs on Economy as Fed Eyes Oct. 28 Rate Decision - News and Statistics",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHcxYUVWRVdmSGZBSk50cGhhRTRiaEN4dHlOVUxuM055MXNsRTluR25wSTNxOURLQVpBSnFRSG12YWozWE1nNFNXN0tvN1pob1pwSTU1MWlCS3Q3YlYwQ1RxamxwZmpVS0E2Z25iUU9pMUhaZlc2U3BkY1JuaFNkTlVlU0F4TWlMaF90UWpuRVItU3g0MEV4cGllM2d2d1hSQlpBV2lzbkVxajBVM1BORnc0UV9wX2Rmam9UUjk1N3lpRHRkcFIw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-          "source": "Bozeman Daily Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQb0kyc21QeURsNjVFQzJ0YVM3X3YxVTZTbThqbHNIZGRTcFYxRjctVjZtSWZVUW13cWQwS2pjQW9sTnNWbGJJLUVrMFZmNEZiTWZmeG1tTGdEN1Q4OVlOVFM0NV9YRTRQX0tyQ1kwTUhfdnF6Y2FUWU9LaEdxN0h3WjhFeHBwbk03RTZzRnNRNkloaVRIZ0VvUk5YZTMyVlc0OGxQazMzcnpZNjZTdXNIM2lNcnBGSDNaMGVmSVdXRnlBWTZtM3RxNkplUF9lWXd6Q0llS3VzYnliamgtVUNEY1BNZ1hoTFNWYzVqVEFkM2FKNVZHX0c4VmZUNXp0c0Z3VUpQb1RiQWRjUXJSRGl6XzJEZw?oc=5",
+          "title": "What's next for interest rates? Fed Chair Warsh wants price stability",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFh2RDJiZ3J6czBZYk9ITmFXaDczMjJ6ZVlZaVUyUkV3X3ZDbGxKWDhNUVlROE5mVWFjbjVVbktaN2JnNF95NzBtWUxCMkZrT2ZiREdteDduNEVkQzJnNzFBZmdsb01DNnpKTjJNUl96dnpuakg1TDVJU2ZLM1pDZ09mVE5sMDlDM2JkaXZZakxrVTJMZmZEOVJYOTZramZTNkNnY2pEMWRPdEhwWlFPMUZPcVhrc1o3cmlXRVRKSQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 6,
-      "change24h": -2,
-      "vol24h": 21669,
+      "question": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-october-decision",
+      "yes": 79,
+      "change24h": -15,
+      "vol24h": 13853,
       "headlines": [
         {
-          "title": "Seattle Seahawks vs. Denver Broncos Week 6 TNF Recap | NFL Daily",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Td1UxWWpHWGkzN3J1UHIxNEpDRUVBR1dLMDhLcm1ucXZtNlpOUXdaN2RmVm93NFlIZ2libVpHSGRXQnlyREdST3JmODFscEdhdVBWY3hsSndKUGlFd0I3OWhPcWlhODd3QkpHeEY5WmlONktsd3U5RnFKYmJyUQ?oc=5",
-          "cat": "NFL"
+          "title": "Warsh: Inflation Still Weighs on Economy as Fed Eyes Oct. 28 Rate Decision - News and Statistics",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZHcxYUVWRVdmSGZBSk50cGhhRTRiaEN4dHlOVUxuM055MXNsRTluR25wSTNxOURLQVpBSnFRSG12YWozWE1nNFNXN0tvN1pob1pwSTU1MWlCS3Q3YlYwQ1RxamxwZmpVS0E2Z25iUU9pMUhaZlc2U3BkY1JuaFNkTlVlU0F4TWlMaF90UWpuRVItU3g0MEV4cGllM2d2d1hSQlpBV2lzbkVxajBVM1BORnc0UV9wX2Rmam9UUjk1N3lpRHRkcFIw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "NFL Week 6 Recap: Immediate fantasy football takeaways from Seahawks-Broncos",
-          "source": "PFF",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjRHS0IxVlhYM1lfMFZYQmRvQTFRZktUcmQ1Vkw3ZEpxMGR5Uy1RWHZ6dU92elhGWXpnNmVFbXFhaUgyVC1JZmpGdXEzbTBRWFdxRDRRTHUtWkRmU29TUEVGOEVBWmtpNnk5QmdFcjZvS2Y0Q3FtTHpkVDVKa0V3SHRZNGMtUjYtLTZqRktRX0E0ZGpqM2hCalAxX0hfM0tUdHc?oc=5",
-          "cat": "NFL"
+          "title": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTBnUUY3T1FscmtYQWNCWm5IUXZvNTlySmVnYWg2cVpjV2hpUEtZV1FtU1I3bVd4RThPNG03VWN6cmt5emZ1THdHN0lCYkc4STE3eXZXLUdFWGlWSnRqbVM3SkgySmVXYkYybFNCUVgwVVJaTExxSHBmcHdKSGh2S1RRTmR5ejZKOUNJdkpHeC1NcThtb1VhLUJzV0t2cndzUHZKSzFjZTJJZnB2enprREx3?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Completed Match: Maja Chwalinska vs Maria Sakkari",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-chwalin-sakkari-2026-10-15-completed-match",
-      "yes": 53,
-      "change24h": 2,
-      "vol24h": 11880,
+      "question": "Will Bitcoin reach $86,000 October 12-18?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-october-12-18-2026",
+      "yes": 1,
+      "change24h": -13,
+      "vol24h": 11944,
       "headlines": [
         {
-          "title": "Sonay Kartal: Brit breaks new ground by upsetting Elina Svitolina to reach Wuhan Open semi-finals",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT29vaTlLeTRBQ0N1RG4xZWdrNTM0X1M2T1JPeG9jdGFjUFB5R1RfOUwwZmZjcVAwbGFsRUVNaEJST3RYQi1mbjhHX0czeUkwRTM4Q2E4MGRBR01PRVFZeWNSbVQyWkxCUGxtOTVNUE1Md2w2Uzc2N2c1ZXpTVE5UMkN5NXV1UFhsNHQ2bWFhWEV2T24xeGZUdzJ6Y0d6d3RoLXBRREJhcU1aVEFWTEZqYW81NUFaWlZWdFZ0TVJ0S2lNQkN6c0Z1em9kam5kUGRnM1AtQk5SZ0QtRk0?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 1,
-      "vol24h": 11178,
-      "headlines": [
-        {
-          "title": "‘Sean (Payton) Doesn’t Deserve Praise,’ ‘Hardest Schedule in the NFL So Far’ — Fans Divided As Chase Daniel Credits Broncos HC for TNF Win",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWJjLXpuVmdDVkxHcmtFb210aFhvX3hXaDJuODR5a1RhNVdJSDZ6RS1iZC1Ja1UzRDlITnhyWmJfRm9tMGxMT2Q3NnlhRkNDd3g4VFcwU0xuSjFBSml5TzUzdDVuRXFzMDVDcGRrbVl3dDdjSE9ocms2VEg0Zzcxa1d3?oc=5",
-          "cat": "NFL"
+          "title": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTBnUUY3T1FscmtYQWNCWm5IUXZvNTlySmVnYWg2cVpjV2hpUEtZV1FtU1I3bVd4RThPNG03VWN6cmt5emZ1THdHN0lCYkc4STE3eXZXLUdFWGlWSnRqbVM3SkgySmVXYkYybFNCUVgwVVJaTExxSHBmcHdKSGh2S1RRTmR5ejZKOUNJdkpHeC1NcThtb1VhLUJzV0t2cndzUHZKSzFjZTJJZnB2enprREx3?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "Seattle Seahawks vs. Denver Broncos Week 6 TNF Recap | NFL Daily",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Td1UxWWpHWGkzN3J1UHIxNEpDRUVBR1dLMDhLcm1ucXZtNlpOUXdaN2RmVm93NFlIZ2libVpHSGRXQnlyREdST3JmODFscEdhdVBWY3hsSndKUGlFd0I3OWhPcWlhODd3QkpHeEY5WmlONktsd3U5RnFKYmJyUQ?oc=5",
-          "cat": "NFL"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Ann Li vs Iga Swiatek",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-annli-swiatek-2026-10-16",
-      "yes": 21,
+      "question": "Will the price of Bitcoin be above $84,000 on October 21?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-21-2026",
+      "yes": 20,
+      "change24h": -12,
+      "vol24h": 23888,
+      "headlines": [
+        {
+          "title": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTBnUUY3T1FscmtYQWNCWm5IUXZvNTlySmVnYWg2cVpjV2hpUEtZV1FtU1I3bVd4RThPNG03VWN6cmt5emZ1THdHN0lCYkc4STE3eXZXLUdFWGlWSnRqbVM3SkgySmVXYkYybFNCUVgwVVJaTExxSHBmcHdKSGh2S1RRTmR5ejZKOUNJdkpHeC1NcThtb1VhLUJzV0t2cndzUHZKSzFjZTJJZnB2enprREx3?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $82,000 on October 21?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-october-21-2026",
+      "yes": 47,
+      "change24h": -9,
+      "vol24h": 26856,
+      "headlines": [
+        {
+          "title": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTBnUUY3T1FscmtYQWNCWm5IUXZvNTlySmVnYWg2cVpjV2hpUEtZV1FtU1I3bVd4RThPNG03VWN6cmt5emZ1THdHN0lCYkc4STE3eXZXLUdFWGlWSnRqbVM3SkgySmVXYkYybFNCUVgwVVJaTExxSHBmcHdKSGh2S1RRTmR5ejZKOUNJdkpHeC1NcThtb1VhLUJzV0t2cndzUHZKSzFjZTJJZnB2enprREx3?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 20866,
+      "vol24h": 77732,
       "headlines": [
         {
-          "title": "Sonay Kartal: Brit breaks new ground by upsetting Elina Svitolina to reach Wuhan Open semi-finals",
-          "source": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT29vaTlLeTRBQ0N1RG4xZWdrNTM0X1M2T1JPeG9jdGFjUFB5R1RfOUwwZmZjcVAwbGFsRUVNaEJST3RYQi1mbjhHX0czeUkwRTM4Q2E4MGRBR01PRVFZeWNSbVQyWkxCUGxtOTVNUE1Md2w2Uzc2N2c1ZXpTVE5UMkN5NXV1UFhsNHQ2bWFhWEV2T24xeGZUdzJ6Y0d6d3RoLXBRREJhcU1aVEFWTEZqYW81NUFaWlZWdFZ0TVJ0S2lNQkN6c0Z1em9kam5kUGRnM1AtQk5SZ0QtRk0?oc=5",
+          "title": "NFL injury tracker Week 6: Latest news, fantasy implications as Caleb Williams (hamstring) returns to practice, Lamar Jackson (ankle) remains out, injuries pile up for Eagles",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPdnhhZFZ0eXV4SU43eFQ1M0JPMlhNU09CU2tQWnJuaklOZFdGby1FSFBaV0Q5d1RJN1JiblBJemdQeXlGZ190c1ctUUtaNjVraDVNV1NLZ3EzV3h3WlRmVzA2eFh3N2Q2M29YSUIza1NBR2QtZ2E3ZXRENFllUEZuWHZXcFpuVnhpRHcwME84aXNUc050Mld6RHA1TDhtTTBZTFJOVXN2NWNSc3RYeUVkWWVIVllPMW9vSDgwYzVtcExTVkNRUFlFX3NqaDFGZ0pmd3pEcmpyMUFWUEZNOEo4b1phUm9vdkVIRU0zOWpTNmc2YTZ0VFR4T2h5clNoZFd0cEwxeWNzb2JuWW1wcGYxaUktNFF6YnNWXzdZRXd3SldKU1J2SzZhcjUxcG1GS053Uzhpa051TXJWelgtd1ZFVg?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Tennessee Titans win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-tennessee-titans-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 21907,
+      "headlines": [
+        {
+          "title": "Analyst says start Titans WR vs. Colts defense in fantasy football Week 6",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkplOEVXM0RQVUxraWpnSFJ3Z3FBZkhLUm1Ld1RSa2RjT2RScnBGMy1rME1tc0Y2UFM2cnp5LVZ5NVRsUTRUYThUQ0ljT3lwTzgzYVFMMUt4U3k0Y0o1cHhrOVRpVFA3YXFlRkExeEZGaE5fSmFhX21ZTmJjU3dFTGNsSQ?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-kartal-ostapen-2026-10-16",
+      "yes": 56,
+      "change24h": 0,
+      "vol24h": 13432,
+      "headlines": [
+        {
+          "title": "Iga Swiatek vs Maja Chwalinska - Match WTA - Dongfeng Voyah Wuhan Open 1970 - Semi-final",
+          "source": "tennismajors.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzZoYjNhWkpCcDVlWmtfMkg2eXo4djIxSXE3TWN5aEtJc0dEQXZ2ek5zSzI3N1VvTTdiYVFqRTRobndPLWRlYVpkOERUaEdvMUhOajRHSWNtaGU5U3UyVlI1X1BPcHRTT2RndTljaU5mM3hMeWFwNTA4cnNGTkMxOHdzYXkzejUzUEh5M3NGc3lyMnR6Q1ZDQ3JtZnFpQQ?oc=5",
           "cat": "Tennis"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum dip to $1,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1000-by-december-31-2026-273-175",
-      "yes": 2,
-      "change24h": -4,
-      "vol24h": 97556,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 39,
-      "change24h": -4,
-      "vol24h": 13543,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
