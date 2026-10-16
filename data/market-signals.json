@@ -1,14 +1,20 @@
 {
-  "updated": "2026-10-15T20:37:31.767Z",
+  "updated": "2026-10-16T01:57:05.741Z",
   "withNews": [
     {
       "question": "Will Ethereum dip to $2,300 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-12-18-2026",
-      "yes": 7,
-      "change24h": -22,
-      "vol24h": 21604,
+      "yes": 9,
+      "change24h": -21,
+      "vol24h": 21743,
       "headlines": [
+        {
+          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
+          "source": "Real Salt Lake",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -21,10 +27,16 @@
       "question": "Will Bitcoin dip to $78,000 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-12-18-2026",
-      "yes": 8,
-      "change24h": -13,
-      "vol24h": 49970,
+      "yes": 6,
+      "change24h": -15,
+      "vol24h": 56332,
       "headlines": [
+        {
+          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
+          "source": "Real Salt Lake",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -34,13 +46,19 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $77,500 in October?",
+      "question": "Will the price of Bitcoin be above $80,000 on October 17?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 37,
-      "change24h": -9,
-      "vol24h": 220182,
+      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-17-2026",
+      "yes": 92,
+      "change24h": 14,
+      "vol24h": 17072,
       "headlines": [
+        {
+          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
+          "source": "Real Salt Lake",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -53,20 +71,20 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 73,
-      "change24h": 4,
-      "vol24h": 1106653,
+      "yes": 71,
+      "change24h": -6,
+      "vol24h": 885170,
       "headlines": [
         {
-          "title": "The Fed still has little control over the 2 biggest inflation drivers",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVdBUTNZWFdzN18za0drN0dZUDZXU1ZaSVpXd1RqS0d1aENfb0xHMHl4VnRiS3g3SXVSVHpGT04xNzgyU3o1aWdfa1FETnp5bThVVXBsdTJaaDRONDgyNkRhRmRoVk41TDFCMDJjbzBGWTl4NUFhWkFjYWo1eVNwcG90OFc1R0hGS3k5dkRzQThQbUtyQlBCTWJ4YmhDNzRfN1FFVGwxbEtBa2c3STQ3dndMUDhvZHVLZl8tX3M3b3NBd2Vl?oc=5",
-          "cat": "Macro"
+          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
+          "source": "Real Salt Lake",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Billionaire John Arnold Warns Fed Rate Hikes ‘May Be Counterproductive,’ Says ‘Will Do Little to Lower Inflation’",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnhfQzdtUzZVWkUwM2hPNk1rcGQ4NC1lRVFMcGpnSkVWcllzajhMVkFDcDZyMTBWWExLX29sWHprWFFGYlVadXI3MXYwdzhiam5tS3VvM1JtLVpCdVJ3QUIyeElsS2dTYUhpNHJPT1dQMy0xMXJUV2ZUS2VORm5XbHRuYlVIOTZaMExQYVlhaUI2X1dmM2ZUX2ViN2podlZhOWI3aEVrNG5waGxabEVwdTNUTUx1STRxRTNFbWZ0UzhnNXotWkF4UFVOVlVUY01MYk9nMHAxWGhIUDkwOVdvbUpFUkp0QlR4eG5pSlZEZ3ZoUENsd3A0WV9BUDZfRWs?oc=5",
+          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVlQb19XRzVXQnN4YzlxVDgzZTdVWmNJNzRJS3lTTUh0U3QtZXNlbGlpWkU0QlBmRm9oS1d3MnhCVThsZUdQT3p6Q0I0bXk5WTVfOTJOem1uWkhFcTVSOWxWQkxiTDlLVVJ1blVQUHlneGdyaVFHaEZEYnptM3hQbnhIN1AyWHM?oc=5",
           "cat": "Macro"
         }
       ]
@@ -75,43 +93,103 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 27,
-      "change24h": -4,
-      "vol24h": 530984,
+      "yes": 28,
+      "change24h": 5,
+      "vol24h": 412487,
       "headlines": [
         {
-          "title": "The Fed still has little control over the 2 biggest inflation drivers",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVdBUTNZWFdzN18za0drN0dZUDZXU1ZaSVpXd1RqS0d1aENfb0xHMHl4VnRiS3g3SXVSVHpGT04xNzgyU3o1aWdfa1FETnp5bThVVXBsdTJaaDRONDgyNkRhRmRoVk41TDFCMDJjbzBGWTl4NUFhWkFjYWo1eVNwcG90OFc1R0hGS3k5dkRzQThQbUtyQlBCTWJ4YmhDNzRfN1FFVGwxbEtBa2c3STQ3dndMUDhvZHVLZl8tX3M3b3NBd2Vl?oc=5",
-          "cat": "Macro"
+          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
+          "source": "Real Salt Lake",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Billionaire John Arnold Warns Fed Rate Hikes ‘May Be Counterproductive,’ Says ‘Will Do Little to Lower Inflation’",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnhfQzdtUzZVWkUwM2hPNk1rcGQ4NC1lRVFMcGpnSkVWcllzajhMVkFDcDZyMTBWWExLX29sWHprWFFGYlVadXI3MXYwdzhiam5tS3VvM1JtLVpCdVJ3QUIyeElsS2dTYUhpNHJPT1dQMy0xMXJUV2ZUS2VORm5XbHRuYlVIOTZaMExQYVlhaUI2X1dmM2ZUX2ViN2podlZhOWI3aEVrNG5waGxabEVwdTNUTUx1STRxRTNFbWZ0UzhnNXotWkF4UFVOVlVUY01MYk9nMHAxWGhIUDkwOVdvbUpFUkp0QlR4eG5pSlZEZ3ZoUENsd3A0WV9BUDZfRWs?oc=5",
+          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVlQb19XRzVXQnN4YzlxVDgzZTdVWmNJNzRJS3lTTUh0U3QtZXNlbGlpWkU0QlBmRm9oS1d3MnhCVThsZUdQT3p6Q0I0bXk5WTVfOTJOem1uWkhFcTVSOWxWQkxiTDlLVVJ1blVQUHlneGdyaVFHaEZEYnptM3hQbnhIN1AyWHM?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will 1 Fed rate cut happen in 2026?",
+      "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-cut-happen-in-2026",
-      "yes": 0,
-      "change24h": -1,
-      "vol24h": 43749,
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 87,
+      "change24h": 5,
+      "vol24h": 25822,
       "headlines": [
         {
-          "title": "The Fed still has little control over the 2 biggest inflation drivers",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVdBUTNZWFdzN18za0drN0dZUDZXU1ZaSVpXd1RqS0d1aENfb0xHMHl4VnRiS3g3SXVSVHpGT04xNzgyU3o1aWdfa1FETnp5bThVVXBsdTJaaDRONDgyNkRhRmRoVk41TDFCMDJjbzBGWTl4NUFhWkFjYWo1eVNwcG90OFc1R0hGS3k5dkRzQThQbUtyQlBCTWJ4YmhDNzRfN1FFVGwxbEtBa2c3STQ3dndMUDhvZHVLZl8tX3M3b3NBd2Vl?oc=5",
+          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVlQb19XRzVXQnN4YzlxVDgzZTdVWmNJNzRJS3lTTUh0U3QtZXNlbGlpWkU0QlBmRm9oS1d3MnhCVThsZUdQT3p6Q0I0bXk5WTVfOTJOem1uWkhFcTVSOWxWQkxiTDlLVVJ1blVQUHlneGdyaVFHaEZEYnptM3hQbnhIN1AyWHM?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Billionaire John Arnold Warns Fed Rate Hikes ‘May Be Counterproductive,’ Says ‘Will Do Little to Lower Inflation’",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTnhfQzdtUzZVWkUwM2hPNk1rcGQ4NC1lRVFMcGpnSkVWcllzajhMVkFDcDZyMTBWWExLX29sWHprWFFGYlVadXI3MXYwdzhiam5tS3VvM1JtLVpCdVJ3QUIyeElsS2dTYUhpNHJPT1dQMy0xMXJUV2ZUS2VORm5XbHRuYlVIOTZaMExQYVlhaUI2X1dmM2ZUX2ViN2podlZhOWI3aEVrNG5waGxabEVwdTNUTUx1STRxRTNFbWZ0UzhnNXotWkF4UFVOVlVUY01MYk9nMHAxWGhIUDkwOVdvbUpFUkp0QlR4eG5pSlZEZ3ZoUENsd3A0WV9BUDZfRWs?oc=5",
+          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTdEcEQtWlZIWGJINW9KWDlhUG1LRDBTckEyNlgySlpwZ0NnQllVQmp3U25PYVN5Y3pjdk5hVUk2VXM5eWVra2Q4OG1GOEtzQ3Bta0JGbWFlellkc3B5Uy1VLW5GX2RjV1NabEFHQWp3eVo4SEJ5cVIwdjMxSkhDekRZM0w?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-shnaide-ostapen-2026-10-15",
+      "yes": 68,
+      "change24h": 0,
+      "vol24h": 35008,
+      "headlines": [
+        {
+          "title": "Elina Svitolina vs Sonay Kartal · Quarterfinal · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmNtNm8zMTZCR0UybXhhLVNiZk85NmJKem0wSVJKc3hRMXEyRjRKTXNQQ29OU183cG8yYVY4VHJIdWk4NGd3eWtxVHlRUHgzTm12dDkzbnBoUklwMzJzQkpTN1UxYlA2MjVfd0YwZ05PenlxNVlJcmhjbHp6MWJMa3dLV2FFVmdZMWtHYURaZGUzWmJJZTNxS3NxYl95OUhzQkI2QXBB?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Aryna Sabalenka’s loss means Wuhan Open will crown maiden champion",
+          "source": "The Big Lead",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0o3M2xfRWluaVpKTDFPUTh1dmVhOVk5T3FnbVZPTTJ2YWxBY1JhelhXVzhxRm9Yakd0X1ZEQ2pKemhzaG1PV3NoakFCdS1aTHhJUW9uaGtMZjIwQkFjdGloc19SbzVITHBDMU5GaEN0WmI5OW1FWGhCWTE1d212akV0aHJ2aUpYZ3pGdXJB?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-chwalin-sakkari-2026-10-15",
+      "yes": 46,
+      "change24h": 0,
+      "vol24h": 18311,
+      "headlines": [
+        {
+          "title": "Elina Svitolina vs Sonay Kartal · Quarterfinal · WTA Wuhan",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmNtNm8zMTZCR0UybXhhLVNiZk85NmJKem0wSVJKc3hRMXEyRjRKTXNQQ29OU183cG8yYVY4VHJIdWk4NGd3eWtxVHlRUHgzTm12dDkzbnBoUklwMzJzQkpTN1UxYlA2MjVfd0YwZ05PenlxNVlJcmhjbHp6MWJMa3dLV2FFVmdZMWtHYURaZGUzWmJJZTNxS3NxYl95OUhzQkI2QXBB?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Aryna Sabalenka’s loss means Wuhan Open will crown maiden champion",
+          "source": "The Big Lead",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0o3M2xfRWluaVpKTDFPUTh1dmVhOVk5T3FnbVZPTTJ2YWxBY1JhelhXVzhxRm9Yakd0X1ZEQ2pKemhzaG1PV3NoakFCdS1aTHhJUW9uaGtMZjIwQkFjdGloc19SbzVITHBDMU5GaEN0WmI5OW1FWGhCWTE1d212akV0aHJ2aUpYZ3pGdXJB?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 13561,
+      "headlines": [
+        {
+          "title": "Amar'e Stoudemire, Naismith Basketball Hall of Famer, graduates from Miami police academy",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVBZRnhvSUV0a0NQaW5OLXhPTlZCQWZLUDNWN1d4MDBFWGxRMzJWZVkwaVhwdTJ5UDlyMC1DZGR3LUxRc2hOT3N2VVplZ1JmVkpkQXJzdnRIazZqNUJkdGpkUm5pWjBwUzVWc1dUSlg1bU5YUHVJc005U01MYV9VUnNEdmRPaXA2a2s2ZGNxZ2tWZEoyRmlPZE03cFdkbUxWbnVPN1hRUWxFLV92RXJjbUhyZENIY2lOZjVBdHZtR1BTbTNlRGhpcFo5dFFvQmtBVVJNRg?oc=5",
+          "cat": "NBA"
         }
       ]
     }
