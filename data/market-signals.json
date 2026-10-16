@@ -1,20 +1,30 @@
 {
-  "updated": "2026-10-16T01:57:05.741Z",
+  "updated": "2026-10-16T10:15:34.523Z",
   "withNews": [
+    {
+      "question": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-chwalin-sakkari-2026-10-15",
+      "yes": 100,
+      "change24h": 55,
+      "vol24h": 847315,
+      "headlines": [
+        {
+          "title": "Sonay Kartal: Brit breaks new ground by upsetting Elina Svitolina to reach Wuhan Open semi-finals",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT29vaTlLeTRBQ0N1RG4xZWdrNTM0X1M2T1JPeG9jdGFjUFB5R1RfOUwwZmZjcVAwbGFsRUVNaEJST3RYQi1mbjhHX0czeUkwRTM4Q2E4MGRBR01PRVFZeWNSbVQyWkxCUGxtOTVNUE1Md2w2Uzc2N2c1ZXpTVE5UMkN5NXV1UFhsNHQ2bWFhWEV2T24xeGZUdzJ6Y0d6d3RoLXBRREJhcU1aVEFWTEZqYW81NUFaWlZWdFZ0TVJ0S2lNQkN6c0Z1em9kam5kUGRnM1AtQk5SZ0QtRk0?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
     {
       "question": "Will Ethereum dip to $2,300 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-12-18-2026",
-      "yes": 9,
-      "change24h": -21,
-      "vol24h": 21743,
+      "yes": 3,
+      "change24h": -46,
+      "vol24h": 20678,
       "headlines": [
-        {
-          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
-          "source": "Real Salt Lake",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -24,19 +34,13 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $78,000 October 12-18?",
+      "question": "Will Ethereum dip to $2,300 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-12-18-2026",
-      "yes": 6,
-      "change24h": -15,
-      "vol24h": 56332,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
+      "yes": 49,
+      "change24h": -28,
+      "vol24h": 18865,
       "headlines": [
-        {
-          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
-          "source": "Real Salt Lake",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -46,24 +50,62 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $80,000 on October 17?",
+      "question": "Will the price of Ethereum be above $2,300 on October 20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-17-2026",
-      "yes": 92,
-      "change24h": 14,
-      "vol24h": 17072,
+      "url": "https://polymarket.com/event/ethereum-above-2300-on-october-20-2026",
+      "yes": 96,
+      "change24h": 24,
+      "vol24h": 10459,
       "headlines": [
-        {
-          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
-          "source": "Real Salt Lake",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
-          "cat": "World Cup"
-        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Bank of Israel make no change to the Bank of Israel Interest Rate after the October decision?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-bank-of-israel-make-no-change-to-the-bank-of-israel-interest-rate-after-the-october-decision",
+      "yes": 77,
+      "change24h": -20,
+      "vol24h": 13571,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Investors Pare Rate-Hike Bets After Warsh Declines to Guide on Next Move",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMERxbFBScllCdzNxWmI5WFdkbE53aHVIa0ZaNm9oUUpnbGtCX2hKYThEd0hPd25RR0RvbXo2VFpVN0ZJcXBKTUVQT2IzQ3NVTkdnOHNCX2VWeVo1TW0taFhSX3hFUlRsdVQ2YVI2cVZkUV9DbE9oNUZMVTZLN29Tc1RPMkp1cnI5SS12OGo3WEhRT0ZwRGtZVQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Bank of Israel decrease the Bank of Israel Interest Rate after the October decision?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-bank-of-israel-decrease-the-bank-of-israel-interest-rate-after-the-october-decision",
+      "yes": 22,
+      "change24h": 19,
+      "vol24h": 10237,
+      "headlines": [
+        {
+          "title": "Stock Market Today: Investors Pare Rate-Hike Bets After Warsh Declines to Guide on Next Move",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOWtEQ1dWcXo2OG1zSkt0d3hELWZsX2ZhOE1adzdRdDdPM2VOZElCdXVhNHFETGtPeUwxUnRtc1R1TFVtY2l0M042c0xnWjdzRzhndjBJUmtHdXVhby11YkFYOERsSUhueU9jYTRCMFJJa3lxSGFjaWJrcUR0SllhWXJ4cURuUkU?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMERxbFBScllCdzNxWmI5WFdkbE53aHVIa0ZaNm9oUUpnbGtCX2hKYThEd0hPd25RR0RvbXo2VFpVN0ZJcXBKTUVQT2IzQ3NVTkdnOHNCX2VWeVo1TW0taFhSX3hFUlRsdVQ2YVI2cVZkUV9DbE9oNUZMVTZLN29Tc1RPMkp1cnI5SS12OGo3WEhRT0ZwRGtZVQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -71,128 +113,119 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 71,
-      "change24h": -6,
-      "vol24h": 885170,
-      "headlines": [
-        {
-          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
-          "source": "Real Salt Lake",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVlQb19XRzVXQnN4YzlxVDgzZTdVWmNJNzRJS3lTTUh0U3QtZXNlbGlpWkU0QlBmRm9oS1d3MnhCVThsZUdQT3p6Q0I0bXk5WTVfOTJOem1uWkhFcTVSOWxWQkxiTDlLVVJ1blVQUHlneGdyaVFHaEZEYnptM3hQbnhIN1AyWHM?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 28,
-      "change24h": 5,
-      "vol24h": 412487,
-      "headlines": [
-        {
-          "title": "International Break Recap: 8 URFC Players Represented Respective Nations During Busy October FIFA International Window",
-          "source": "Real Salt Lake",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2VBSFpuR1lsbWR0bFl4VHU1anZ1RXdSeEdfQTUzSGxxUEJjanNoaEhBeWJXTkV4RzBubEpzTjc2aEdBNFphSU9PQjJsdW9YN3M1WE1ON1ppaE9UQnRmVmlzRENjTGJ2MmlTbEZfVjF2emxYTl9oRl9VZk1BUFNrN0Z0VzJSa0dXOWxxRUdTNnhzejZxVnBJOFJYcW9JenVnMHUyc1pTR09zWWtuSXdIMHNMOWxFQ2xSMF9ZRmpzclM1Z0F1T012MnJvUGJqMnZYcGhpeEVBX0tEdE9Qd2dzMWlqcE0zVVJf?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVlQb19XRzVXQnN4YzlxVDgzZTdVWmNJNzRJS3lTTUh0U3QtZXNlbGlpWkU0QlBmRm9oS1d3MnhCVThsZUdQT3p6Q0I0bXk5WTVfOTJOem1uWkhFcTVSOWxWQkxiTDlLVVJ1blVQUHlneGdyaVFHaEZEYnptM3hQbnhIN1AyWHM?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
       "yes": 87,
-      "change24h": 5,
-      "vol24h": 25822,
+      "change24h": 12,
+      "vol24h": 851732,
       "headlines": [
         {
-          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVlQb19XRzVXQnN4YzlxVDgzZTdVWmNJNzRJS3lTTUh0U3QtZXNlbGlpWkU0QlBmRm9oS1d3MnhCVThsZUdQT3p6Q0I0bXk5WTVfOTJOem1uWkhFcTVSOWxWQkxiTDlLVVJ1blVQUHlneGdyaVFHaEZEYnptM3hQbnhIN1AyWHM?oc=5",
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOU1vcUw0THNGVzNzanp4bkxhODR6c1Z2ejRiTXB0SXdJcE1YYVJJOGN1Qm9WRG1TVUYydnloWWYxZnpTNUJBRzI0eW8zRjdIZG1RTzhueEZsc0lESnRYa1lVMW9FYWR2a0pjZG00RUN5cDJQSHRuajlNZG5BdVdQS2RrdldBTkVFWWYySi16UXZRYW5LQ05LZUxUcmgtbjRGTHNPdXJyYlozU2NlY2JjTFU2VzFNdTZ1cnlocENzc2pxdGw2?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed Is Fighting Inflation Again. History Says Trouble, but This Time Might Be Different.",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTdEcEQtWlZIWGJINW9KWDlhUG1LRDBTckEyNlgySlpwZ0NnQllVQmp3U25PYVN5Y3pjdk5hVUk2VXM5eWVra2Q4OG1GOEtzQ3Bta0JGbWFlellkc3B5Uy1VLW5GX2RjV1NabEFHQWp3eVo4SEJ5cVIwdjMxSkhDekRZM0w?oc=5",
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "Bozeman Daily Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQb0kyc21QeURsNjVFQzJ0YVM3X3YxVTZTbThqbHNIZGRTcFYxRjctVjZtSWZVUW13cWQwS2pjQW9sTnNWbGJJLUVrMFZmNEZiTWZmeG1tTGdEN1Q4OVlOVFM0NV9YRTRQX0tyQ1kwTUhfdnF6Y2FUWU9LaEdxN0h3WjhFeHBwbk03RTZzRnNRNkloaVRIZ0VvUk5YZTMyVlc0OGxQazMzcnpZNjZTdXNIM2lNcnBGSDNaMGVmSVdXRnlBWTZtM3RxNkplUF9lWXd6Q0llS3VzYnliamgtVUNEY1BNZ1hoTFNWYzVqVEFkM2FKNVZHX0c4VmZUNXp0c0Z3VUpQb1RiQWRjUXJSRGl6XzJEZw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Diana Shnaider vs Jelena Ostapenko",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-shnaide-ostapen-2026-10-15",
-      "yes": 68,
-      "change24h": 0,
-      "vol24h": 35008,
+      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
+      "yes": 6,
+      "change24h": -2,
+      "vol24h": 21669,
       "headlines": [
         {
-          "title": "Elina Svitolina vs Sonay Kartal · Quarterfinal · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmNtNm8zMTZCR0UybXhhLVNiZk85NmJKem0wSVJKc3hRMXEyRjRKTXNQQ29OU183cG8yYVY4VHJIdWk4NGd3eWtxVHlRUHgzTm12dDkzbnBoUklwMzJzQkpTN1UxYlA2MjVfd0YwZ05PenlxNVlJcmhjbHp6MWJMa3dLV2FFVmdZMWtHYURaZGUzWmJJZTNxS3NxYl95OUhzQkI2QXBB?oc=5",
-          "cat": "Tennis"
+          "title": "Seattle Seahawks vs. Denver Broncos Week 6 TNF Recap | NFL Daily",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Td1UxWWpHWGkzN3J1UHIxNEpDRUVBR1dLMDhLcm1ucXZtNlpOUXdaN2RmVm93NFlIZ2libVpHSGRXQnlyREdST3JmODFscEdhdVBWY3hsSndKUGlFd0I3OWhPcWlhODd3QkpHeEY5WmlONktsd3U5RnFKYmJyUQ?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "Aryna Sabalenka’s loss means Wuhan Open will crown maiden champion",
-          "source": "The Big Lead",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0o3M2xfRWluaVpKTDFPUTh1dmVhOVk5T3FnbVZPTTJ2YWxBY1JhelhXVzhxRm9Yakd0X1ZEQ2pKemhzaG1PV3NoakFCdS1aTHhJUW9uaGtMZjIwQkFjdGloc19SbzVITHBDMU5GaEN0WmI5OW1FWGhCWTE1d212akV0aHJ2aUpYZ3pGdXJB?oc=5",
+          "title": "NFL Week 6 Recap: Immediate fantasy football takeaways from Seahawks-Broncos",
+          "source": "PFF",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObjRHS0IxVlhYM1lfMFZYQmRvQTFRZktUcmQ1Vkw3ZEpxMGR5Uy1RWHZ6dU92elhGWXpnNmVFbXFhaUgyVC1JZmpGdXEzbTBRWFdxRDRRTHUtWkRmU29TUEVGOEVBWmtpNnk5QmdFcjZvS2Y0Q3FtTHpkVDVKa0V3SHRZNGMtUjYtLTZqRktRX0E0ZGpqM2hCalAxX0hfM0tUdHc?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Completed Match: Maja Chwalinska vs Maria Sakkari",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-chwalin-sakkari-2026-10-15-completed-match",
+      "yes": 53,
+      "change24h": 2,
+      "vol24h": 11880,
+      "headlines": [
+        {
+          "title": "Sonay Kartal: Brit breaks new ground by upsetting Elina Svitolina to reach Wuhan Open semi-finals",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT29vaTlLeTRBQ0N1RG4xZWdrNTM0X1M2T1JPeG9jdGFjUFB5R1RfOUwwZmZjcVAwbGFsRUVNaEJST3RYQi1mbjhHX0czeUkwRTM4Q2E4MGRBR01PRVFZeWNSbVQyWkxCUGxtOTVNUE1Md2w2Uzc2N2c1ZXpTVE5UMkN5NXV1UFhsNHQ2bWFhWEV2T24xeGZUdzJ6Y0d6d3RoLXBRREJhcU1aVEFWTEZqYW81NUFaWlZWdFZ0TVJ0S2lNQkN6c0Z1em9kam5kUGRnM1AtQk5SZ0QtRk0?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Maja Chwalinska vs Maria Sakkari",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-chwalin-sakkari-2026-10-15",
-      "yes": 46,
-      "change24h": 0,
-      "vol24h": 18311,
-      "headlines": [
-        {
-          "title": "Elina Svitolina vs Sonay Kartal · Quarterfinal · WTA Wuhan",
-          "source": "Tennis.com",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmNtNm8zMTZCR0UybXhhLVNiZk85NmJKem0wSVJKc3hRMXEyRjRKTXNQQ29OU183cG8yYVY4VHJIdWk4NGd3eWtxVHlRUHgzTm12dDkzbnBoUklwMzJzQkpTN1UxYlA2MjVfd0YwZ05PenlxNVlJcmhjbHp6MWJMa3dLV2FFVmdZMWtHYURaZGUzWmJJZTNxS3NxYl95OUhzQkI2QXBB?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Aryna Sabalenka’s loss means Wuhan Open will crown maiden champion",
-          "source": "The Big Lead",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0o3M2xfRWluaVpKTDFPUTh1dmVhOVk5T3FnbVZPTTJ2YWxBY1JhelhXVzhxRm9Yakd0X1ZEQ2pKemhzaG1PV3NoakFCdS1aTHhJUW9uaGtMZjIwQkFjdGloc19SbzVITHBDMU5GaEN0WmI5OW1FWGhCWTE1d212akV0aHJ2aUpYZ3pGdXJB?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Miami Heat win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
       "yes": 4,
-      "change24h": 0,
-      "vol24h": 13561,
+      "change24h": 1,
+      "vol24h": 11178,
       "headlines": [
         {
-          "title": "Amar'e Stoudemire, Naismith Basketball Hall of Famer, graduates from Miami police academy",
+          "title": "‘Sean (Payton) Doesn’t Deserve Praise,’ ‘Hardest Schedule in the NFL So Far’ — Fans Divided As Chase Daniel Credits Broncos HC for TNF Win",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSVBZRnhvSUV0a0NQaW5OLXhPTlZCQWZLUDNWN1d4MDBFWGxRMzJWZVkwaVhwdTJ5UDlyMC1DZGR3LUxRc2hOT3N2VVplZ1JmVkpkQXJzdnRIazZqNUJkdGpkUm5pWjBwUzVWc1dUSlg1bU5YUHVJc005U01MYV9VUnNEdmRPaXA2a2s2ZGNxZ2tWZEoyRmlPZE03cFdkbUxWbnVPN1hRUWxFLV92RXJjbUhyZENIY2lOZjVBdHZtR1BTbTNlRGhpcFo5dFFvQmtBVVJNRg?oc=5",
-          "cat": "NBA"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQWJjLXpuVmdDVkxHcmtFb210aFhvX3hXaDJuODR5a1RhNVdJSDZ6RS1iZC1Ja1UzRDlITnhyWmJfRm9tMGxMT2Q3NnlhRkNDd3g4VFcwU0xuSjFBSml5TzUzdDVuRXFzMDVDcGRrbVl3dDdjSE9ocms2VEg0Zzcxa1d3?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Seattle Seahawks vs. Denver Broncos Week 6 TNF Recap | NFL Daily",
+          "source": "NFL.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Td1UxWWpHWGkzN3J1UHIxNEpDRUVBR1dLMDhLcm1ucXZtNlpOUXdaN2RmVm93NFlIZ2libVpHSGRXQnlyREdST3JmODFscEdhdVBWY3hsSndKUGlFd0I3OWhPcWlhODd3QkpHeEY5WmlONktsd3U5RnFKYmJyUQ?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Wuhan Tennis Open: Ann Li vs Iga Swiatek",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-annli-swiatek-2026-10-16",
+      "yes": 21,
+      "change24h": 0,
+      "vol24h": 20866,
+      "headlines": [
+        {
+          "title": "Sonay Kartal: Brit breaks new ground by upsetting Elina Svitolina to reach Wuhan Open semi-finals",
+          "source": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT29vaTlLeTRBQ0N1RG4xZWdrNTM0X1M2T1JPeG9jdGFjUFB5R1RfOUwwZmZjcVAwbGFsRUVNaEJST3RYQi1mbjhHX0czeUkwRTM4Q2E4MGRBR01PRVFZeWNSbVQyWkxCUGxtOTVNUE1Md2w2Uzc2N2c1ZXpTVE5UMkN5NXV1UFhsNHQ2bWFhWEV2T24xeGZUdzJ6Y0d6d3RoLXBRREJhcU1aVEFWTEZqYW81NUFaWlZWdFZ0TVJ0S2lNQkN6c0Z1em9kam5kUGRnM1AtQk5SZ0QtRk0?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Ethereum dip to $1,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1000-by-december-31-2026-273-175",
+      "yes": 2,
+      "change24h": -4,
+      "vol24h": 97556,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 39,
+      "change24h": -4,
+      "vol24h": 13543,
+      "headlines": []
+    }
+  ]
 }
