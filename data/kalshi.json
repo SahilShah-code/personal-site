@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-17 17:53 UTC",
-  "net_return_pct": -31.9,
-  "realized_return_pct": -31.9,
+  "updated": "2026-10-17 20:10 UTC",
+  "net_return_pct": -14.5,
+  "realized_return_pct": -14.5,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 28.6,
-  "settled_total": 7,
+  "win_rate_pct": 37.5,
+  "settled_total": 8,
   "curve": [
     0,
     -100,
@@ -13,10 +13,18 @@
     -45.2,
     -51.5,
     -53.6,
-    -31.9
+    -31.9,
+    -14.5
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Ohio St. wins",
+      "ticker": "KXNCAAFGAME-26OCT17OSUIND-OSU",
+      "result": "yes",
+      "date": "2026-10-17",
+      "return_pct": 91
+    },
     {
       "title": "Baltimore wins",
       "ticker": "KXNFLGAME-26OCT11BALATL-BAL",
