@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-16T20:10:13.404Z",
+  "updated": "2026-10-17T01:51:52.375Z",
   "withNews": [
     {
-      "question": "Will Ethereum reach $2,500 in October?",
+      "question": "Will Bitcoin reach $84,000 October 12-18?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-october-2026-from-october-14",
-      "yes": 68,
-      "change24h": -17,
-      "vol24h": 11695,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-12-18-2026-from-october-14",
+      "yes": 8,
+      "change24h": -32,
+      "vol24h": 15922,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -22,13 +22,13 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 87,
-      "change24h": 14,
-      "vol24h": 480666,
+      "change24h": 16,
+      "vol24h": 504193,
       "headlines": [
         {
-          "title": "Warsh signals steady Fed outlook despite inflation jump",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -44,13 +44,13 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 14,
-      "change24h": -13,
-      "vol24h": 325426,
+      "change24h": -14,
+      "vol24h": 400366,
       "headlines": [
         {
-          "title": "Warsh signals steady Fed outlook despite inflation jump",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -62,12 +62,12 @@
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,300 in October?",
+      "question": "Will the price of Bitcoin be above $84,000 on October 19?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
-      "yes": 60,
-      "change24h": 13,
-      "vol24h": 13473,
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-19-2026",
+      "yes": 8,
+      "change24h": -12,
+      "vol24h": 10564,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -78,12 +78,12 @@
       ]
     },
     {
-      "question": "Will Ethereum reach $2,600 October 12-18?",
+      "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-october-12-18-2026",
-      "yes": 3,
-      "change24h": -10,
-      "vol24h": 50425,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
+      "yes": 54,
+      "change24h": -9,
+      "vol24h": 12955,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -97,14 +97,14 @@
       "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 78,
+      "yes": 80,
       "change24h": -7,
-      "vol24h": 53525,
+      "vol24h": 52765,
       "headlines": [
         {
-          "title": "Warsh signals steady Fed outlook despite inflation jump",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
           "cat": "Macro"
         },
         {
@@ -116,18 +116,24 @@
       ]
     },
     {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 6,
-      "change24h": -2,
-      "vol24h": 22204,
+      "question": "Will Detroit Pistons win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 30398,
       "headlines": [
         {
-          "title": "‘It’s the Whole Totality of the Offense’ — Broncos Legend Defends Bo Nix After QB’s Concerning Display vs. Seahawks",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeW11ci0wa0R6Q2kyQmtwclIySkUyWkVpNVVmdHRZMjdGdzJKazFHM1FwRlhIVGFMOEN0VmtjMWQ1UElTcFotZUlLS0ZjTnFYTFBKVU5xNnktanBEc3FjZTJ5cTVnSm9XRHB6Q2FGNkloeFA5WUswd0dmZ2ZXeW4zQzBNOGtHeDBtME1KbWFZMA?oc=5",
-          "cat": "NFL"
+          "title": "Raptors Pistons Basketball",
+          "source": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHVfOGxiSHJxOG5CYWZxMTlKZUNJNHBHTXhjci02eTlBaDVrMmJXVlBoTXkzM2J6S2VNVFQ1M3RRbnZ5VXBmWFkxVVVjQjVMRnZ0VFZ3QXVBZHRCQzNMUWV6R1h2dFQtT0pfb1VPbVBZMThTWGN5VHNlZnBQekFZWnlHbWEydHVrZFNtSjFJVllyVzY4akNJY0Q5bVJWMWxkUXdhN0VaYUZzdm5l?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Raptors Pistons Basketball",
+          "source": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0FtXy1leG9DN04xLTNzYmFaMlhNRGxCY2RGY01vRkNMY3c1amszODNZczZVdGR4b1B5dWJ6LWxMdUU2bU5Qak5zOS1mY3ctbzE2c1dWSWJ0R1VzbmRLQ1BPQk1zcEI4Y2JIUGdpTE9DS19kZlczWGVEcjNCQk5OUUNkd2FnNk1RWDRQSWV3OTVQVGc5VUluSVRLd2VYT2RGel9HTWk2RlBNWDZf?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -137,13 +143,57 @@
       "url": "https://polymarket.com/event/wta-kartal-ostapen-2026-10-16",
       "yes": 56,
       "change24h": 0,
-      "vol24h": 15498,
+      "vol24h": 26066,
       "headlines": [
+        {
+          "title": "Sonay Kartal vs Jelena Ostapenko - Match WTA - Dongfeng Voyah Wuhan Open 1970 - Semi-final",
+          "source": "tennismajors.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFNlTXJTOXB4Y1Q4ZzNncEE4VEtjN2xtcGR4VFNvT3N5U3dPOUZkOE45bXhjb053emJsU3NxUXZjLVZLbUM0bF96c2h2ek5xcFhLa3NJcG5jaGxLVk5Md3EwZjN0LUNCdm9GSk9ueGF4RjQ3cnJRcVI1Slh2dmM4M2djOVdsamloa1Exa2NXLU8tbFN4RE14N0tSeWFqeVAyX0NB?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Iga Swiatek vs Maja Chwalinska - Match WTA - Dongfeng Voyah Wuhan Open 1970 - Semi-final",
           "source": "tennismajors.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzZoYjNhWkpCcDVlWmtfMkg2eXo4djIxSXE3TWN5aEtJc0dEQXZ2ek5zSzI3N1VvTTdiYVFqRTRobndPLWRlYVpkOERUaEdvMUhOajRHSWNtaGU5U3UyVlI1X1BPcHRTT2RndTljaU5mM3hMeWFwNTA4cnNGTkMxOHdzYXkzejUzUEh5M3NGc3lyMnR6Q1ZDQ3JtZnFpQQ?oc=5",
           "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
+      "yes": 7,
+      "change24h": 0,
+      "vol24h": 10603,
+      "headlines": [
+        {
+          "title": "Timberwolves Bulls Basketball",
+          "source": "Idaho State Journal",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNXktSnVRZGozYUtuSnVBTWxCQ2N3YW1xRnRjNEl1ZDRwX3psQlk3LVdtdnRWQ3pvc0pNWXJqV0dZWE1xckRSQS01aUdsc2xQMG9nX2JQUWhfMTZ1UDgtZmJqeEN2YTR5SkZsTTR1MTlxWlJiZU1pbzh0Mk1XYWs0YlNBMXV4R3VXclV0WS1WSE9PVVo2bEo4NmFNdFcyWHhEbEVRN2pfU0FRMldjcG9BbnhsZGt6d3pXem5wdGc2QWIxdUFMZWc?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Timberwolves Bulls Basketball",
+          "source": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbE0zNVNjOVYwZ3gyQS0tQmVsbl9HZkV3MHJCN2xmLWNBMUNkMFpIQ3oxM0d2ZDgza0ZwbTR2RXlGUnhSUEQ5SFgteTlSRVZ6T19Yc05RckNKbzE4bTRuU1ZtVnBmeE5TTmlrWWxsVEZGbTdIWFcxbXRzQlZOdUR0dHN6cGdoZU95Z215V2ZKb0ZmYmNDdjZTQzJMU3pGcENQcncyS1hvXzhpSmNENFhIMw?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 10475,
+      "headlines": [
+        {
+          "title": "5 Things to Know: 49ers Week 6 'Monday Night Football' Matchup vs. Commanders & Alumni Weekend",
+          "source": "San Francisco 49ers",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUdxaEZTcmh4c1FaMzdReU4wUDVleDh6eTV2QnptVVhHNjlhcmdpZ3hQMUVHMnJyN3J3NUhXT1NtYlJvYTBZMWptRl96WlYzSTdXRTc3TnVIa1hYMkZHbGl0U2hFbmdZQjRNSHpaYWoyZ0ZVNUJkNGE0cWJkSGM3LWVKb3pxb2d6bXhsdEE4U0FZVWlacVR5S3RNN2dxTGtfTndwSjAwZXpTaHVfc0JzQg?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -154,8 +204,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
       "yes": 20,
-      "change24h": -5,
-      "vol24h": 48348,
+      "change24h": -4,
+      "vol24h": 46242,
       "headlines": []
     }
   ]
