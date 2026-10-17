@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-17T01:51:52.375Z",
+  "updated": "2026-10-17T09:49:11.187Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $84,000 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-12-18-2026-from-october-14",
-      "yes": 8,
-      "change24h": -32,
-      "vol24h": 15922,
+      "yes": 6,
+      "change24h": -13,
+      "vol24h": 15698,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -18,46 +18,18 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 87,
-      "change24h": 16,
-      "vol24h": 504193,
+      "question": "Will the price of Ethereum be above $2,400 on October 19?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2400-on-october-19-2026",
+      "yes": 73,
+      "change24h": -7,
+      "vol24h": 17995,
       "headlines": [
         {
-          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 14,
-      "change24h": -14,
-      "vol24h": 400366,
-      "headlines": [
-        {
-          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -65,75 +37,81 @@
       "question": "Will the price of Bitcoin be above $84,000 on October 19?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-19-2026",
-      "yes": 8,
-      "change24h": -12,
-      "vol24h": 10564,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 54,
-      "change24h": -9,
-      "vol24h": 12955,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 80,
+      "yes": 6,
       "change24h": -7,
-      "vol24h": 52765,
+      "vol24h": 11675,
       "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+      "yes": 62,
+      "change24h": 4,
+      "vol24h": 9980,
+      "headlines": [
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
           "source": "PBS",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 21,
+      "change24h": 2,
+      "vol24h": 54480,
+      "headlines": [
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Detroit Pistons win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-detroit-pistons-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 30398,
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 77,
+      "change24h": -2,
+      "vol24h": 17442,
       "headlines": [
         {
-          "title": "Raptors Pistons Basketball",
-          "source": "WV News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHVfOGxiSHJxOG5CYWZxMTlKZUNJNHBHTXhjci02eTlBaDVrMmJXVlBoTXkzM2J6S2VNVFQ1M3RRbnZ5VXBmWFkxVVVjQjVMRnZ0VFZ3QXVBZHRCQzNMUWV6R1h2dFQtT0pfb1VPbVBZMThTWGN5VHNlZnBQekFZWnlHbWEydHVrZFNtSjFJVllyVzY4akNJY0Q5bVJWMWxkUXdhN0VaYUZzdm5l?oc=5",
-          "cat": "NBA"
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Raptors Pistons Basketball",
-          "source": "WV News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0FtXy1leG9DN04xLTNzYmFaMlhNRGxCY2RGY01vRkNMY3c1amszODNZczZVdGR4b1B5dWJ6LWxMdUU2bU5Qak5zOS1mY3ctbzE2c1dWSWJ0R1VzbmRLQ1BPQk1zcEI4Y2JIUGdpTE9DS19kZlczWGVEcjNCQk5OUUNkd2FnNk1RWDRQSWV3OTVQVGc5VUluSVRLd2VYT2RGel9HTWk2RlBNWDZf?oc=5",
-          "cat": "NBA"
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -141,14 +119,14 @@
       "question": "Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-kartal-ostapen-2026-10-16",
-      "yes": 56,
+      "yes": 35,
       "change24h": 0,
-      "vol24h": 26066,
+      "vol24h": 98041,
       "headlines": [
         {
-          "title": "Sonay Kartal vs Jelena Ostapenko - Match WTA - Dongfeng Voyah Wuhan Open 1970 - Semi-final",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFNlTXJTOXB4Y1Q4ZzNncEE4VEtjN2xtcGR4VFNvT3N5U3dPOUZkOE45bXhjb053emJsU3NxUXZjLVZLbUM0bF96c2h2ek5xcFhLa3NJcG5jaGxLVk5Md3EwZjN0LUNCdm9GSk9ueGF4RjQ3cnJRcVI1Slh2dmM4M2djOVdsamloa1Exa2NXLU8tbFN4RE14N0tSeWFqeVAyX0NB?oc=5",
+          "title": "The International Tennis Integrity Agency handed Serbia’s Stefan Milićević a 24-year suspension for match-fixing, as announced on Oct. 15, 2026. Link to the full story in comment section.",
+          "source": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFBXQlpZNVVJVG5zSDl1MXBZZ2VUOHA4UXZKTnFtNndUYkRQeFF3d2ZzdS0tbjhEbGUzWHhLM2Q2VTFic2FydkV5TDJaTjNoeUFWUENhM2lYMWtBbUVKdDVJMG5zZGxuTUhnc1dmcjJGQlFzbDZxNjI4aHVwLUFQSjFxV0ZDQ3A4UXdFT0c1WUtJY3hwR2cxSDYzRkdLVXVJVVAxeHFHMXQ5a1lfdFpfa05kZWJjVHpSRGloUGt5NktrdTU4VTB4MlBQX2pCakpINzhsLU1QRWtSY0E2bUZQZVhjSGl6SjZQaGZZ?oc=5",
           "cat": "Tennis"
         },
         {
@@ -160,52 +138,36 @@
       ]
     },
     {
-      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
-      "yes": 7,
+      "question": "Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-swiatek-chwalin-2026-10-17",
+      "yes": 85,
       "change24h": 0,
-      "vol24h": 10603,
+      "vol24h": 71523,
       "headlines": [
         {
-          "title": "Timberwolves Bulls Basketball",
-          "source": "Idaho State Journal",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNXktSnVRZGozYUtuSnVBTWxCQ2N3YW1xRnRjNEl1ZDRwX3psQlk3LVdtdnRWQ3pvc0pNWXJqV0dZWE1xckRSQS01aUdsc2xQMG9nX2JQUWhfMTZ1UDgtZmJqeEN2YTR5SkZsTTR1MTlxWlJiZU1pbzh0Mk1XYWs0YlNBMXV4R3VXclV0WS1WSE9PVVo2bEo4NmFNdFcyWHhEbEVRN2pfU0FRMldjcG9BbnhsZGt6d3pXem5wdGc2QWIxdUFMZWc?oc=5",
-          "cat": "NBA"
+          "title": "The International Tennis Integrity Agency handed Serbia’s Stefan Milićević a 24-year suspension for match-fixing, as announced on Oct. 15, 2026. Link to the full story in comment section.",
+          "source": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFBXQlpZNVVJVG5zSDl1MXBZZ2VUOHA4UXZKTnFtNndUYkRQeFF3d2ZzdS0tbjhEbGUzWHhLM2Q2VTFic2FydkV5TDJaTjNoeUFWUENhM2lYMWtBbUVKdDVJMG5zZGxuTUhnc1dmcjJGQlFzbDZxNjI4aHVwLUFQSjFxV0ZDQ3A4UXdFT0c1WUtJY3hwR2cxSDYzRkdLVXVJVVAxeHFHMXQ5a1lfdFpfa05kZWJjVHpSRGloUGt5NktrdTU4VTB4MlBQX2pCakpINzhsLU1QRWtSY0E2bUZQZVhjSGl6SjZQaGZZ?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Timberwolves Bulls Basketball",
-          "source": "WV News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbE0zNVNjOVYwZ3gyQS0tQmVsbl9HZkV3MHJCN2xmLWNBMUNkMFpIQ3oxM0d2ZDgza0ZwbTR2RXlGUnhSUEQ5SFgteTlSRVZ6T19Yc05RckNKbzE4bTRuU1ZtVnBmeE5TTmlrWWxsVEZGbTdIWFcxbXRzQlZOdUR0dHN6cGdoZU95Z215V2ZKb0ZmYmNDdjZTQzJMU3pGcENQcncyS1hvXzhpSmNENFhIMw?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 10475,
-      "headlines": [
-        {
-          "title": "5 Things to Know: 49ers Week 6 'Monday Night Football' Matchup vs. Commanders & Alumni Weekend",
-          "source": "San Francisco 49ers",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdUdxaEZTcmh4c1FaMzdReU4wUDVleDh6eTV2QnptVVhHNjlhcmdpZ3hQMUVHMnJyN3J3NUhXT1NtYlJvYTBZMWptRl96WlYzSTdXRTc3TnVIa1hYMkZHbGl0U2hFbmdZQjRNSHpaYWoyZ0ZVNUJkNGE0cWJkSGM3LWVKb3pxb2d6bXhsdEE4U0FZVWlacVR5S3RNN2dxTGtfTndwSjAwZXpTaHVfc0JzQg?oc=5",
-          "cat": "NFL"
+          "title": "Iga Swiatek delivers ‘honest’ opinion on whether she prefers the two-week WTA 1000 tournaments",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUlRb19QeG5EZ25xXzgtZTNIV0xQY3QtOUNycmxwRDJWbTVXRWlFRGxQa0YycFBGMTVVUVRTV2x3emt3dDJDNmw4RzgzWEFYVW8ycGNxLUJyZWRycEcyVnlmcFo2VXpEVF9NazlrNmdYN2VGc255bmMxMGU2aGNyR2tBUjl1NHktZFBsVA?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 20,
-      "change24h": -4,
-      "vol24h": 46242,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "yes": 17,
+      "change24h": 7,
+      "vol24h": 8846,
       "headlines": []
     }
   ]
