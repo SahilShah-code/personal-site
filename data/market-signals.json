@@ -1,14 +1,36 @@
 {
-  "updated": "2026-10-17T09:49:11.187Z",
+  "updated": "2026-10-17T14:32:15.637Z",
   "withNews": [
+    {
+      "question": "Cricket World Cup League 2: Canada vs Nepal",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-can-npl-2026-10-17",
+      "yes": 100,
+      "change24h": 66,
+      "vol24h": 25753,
+      "headlines": [
+        {
+          "title": "Canada end world champions England’s 41-game unbeaten run in women’s rugby",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGxZU19FOG1MX1UxWnpidXgtRDVBTm5RMEFSSzFBb3hDUmRtM0FZMzVRYmljMktPaWM5N3hjMVRtaktsaDliWW9OOV9WcW1VWHRrendKMEVyNFJ5QldJOGNtZ2luLXNNMXpiOGZ6MWxDV2Y3MjJlaUw2Q1dqTXE3Ul8wYlFZeFB2SnV5RlF3dWFxeE1pX1VuZg?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin reach $84,000 October 12-18?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-12-18-2026-from-october-14",
-      "yes": 6,
-      "change24h": -13,
-      "vol24h": 15698,
+      "yes": 4,
+      "change24h": -22,
+      "vol24h": 15320,
       "headlines": [
+        {
+          "title": "[Analysis] Bitcoin Seen Unlikely to Fall to $10,000 Even if S&P 500 Corrects 20%",
+          "source": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CRUlhN1VSUk1SUzJIVHd1aV9NZk5fNFFwY1pOOUJhMmRvdnJQR3huUmFZYi1kdF9VM1ZZdlo4YlJCcmxodDNyRXNfejRlWjFYTGhwNQ?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -21,9 +43,9 @@
       "question": "Will the price of Ethereum be above $2,400 on October 19?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/ethereum-above-2400-on-october-19-2026",
-      "yes": 73,
-      "change24h": -7,
-      "vol24h": 17995,
+      "yes": 67,
+      "change24h": -19,
+      "vol24h": 17220,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
@@ -38,9 +60,15 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-19-2026",
       "yes": 6,
-      "change24h": -7,
-      "vol24h": 11675,
+      "change24h": -12,
+      "vol24h": 21828,
       "headlines": [
+        {
+          "title": "[Analysis] Bitcoin Seen Unlikely to Fall to $10,000 Even if S&P 500 Corrects 20%",
+          "source": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CRUlhN1VSUk1SUzJIVHd1aV9NZk5fNFFwY1pOOUJhMmRvdnJQR3huUmFZYi1kdF9VM1ZZdlo4YlJCcmxodDNyRXNfejRlWjFYTGhwNQ?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
@@ -50,34 +78,12 @@
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 62,
-      "change24h": 4,
-      "vol24h": 9980,
-      "headlines": [
-        {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-          "source": "PBS",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 21,
       "change24h": 2,
-      "vol24h": 54480,
+      "vol24h": 52133,
       "headlines": [
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -98,8 +104,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 77,
-      "change24h": -2,
-      "vol24h": 17442,
+      "change24h": -1,
+      "vol24h": 15071,
       "headlines": [
         {
           "title": "Fed holds interest rates steady as inflation hits 3-year high",
@@ -116,46 +122,24 @@
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Sonay Kartal vs Jelena Ostapenko",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-kartal-ostapen-2026-10-16",
-      "yes": 35,
-      "change24h": 0,
-      "vol24h": 98041,
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 78,
+      "change24h": -1,
+      "vol24h": 12729,
       "headlines": [
         {
-          "title": "The International Tennis Integrity Agency handed Serbia’s Stefan Milićević a 24-year suspension for match-fixing, as announced on Oct. 15, 2026. Link to the full story in comment section.",
-          "source": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFBXQlpZNVVJVG5zSDl1MXBZZ2VUOHA4UXZKTnFtNndUYkRQeFF3d2ZzdS0tbjhEbGUzWHhLM2Q2VTFic2FydkV5TDJaTjNoeUFWUENhM2lYMWtBbUVKdDVJMG5zZGxuTUhnc1dmcjJGQlFzbDZxNjI4aHVwLUFQSjFxV0ZDQ3A4UXdFT0c1WUtJY3hwR2cxSDYzRkdLVXVJVVAxeHFHMXQ5a1lfdFpfa05kZWJjVHpSRGloUGt5NktrdTU4VTB4MlBQX2pCakpINzhsLU1QRWtSY0E2bUZQZVhjSGl6SjZQaGZZ?oc=5",
-          "cat": "Tennis"
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Iga Swiatek vs Maja Chwalinska - Match WTA - Dongfeng Voyah Wuhan Open 1970 - Semi-final",
-          "source": "tennismajors.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdzZoYjNhWkpCcDVlWmtfMkg2eXo4djIxSXE3TWN5aEtJc0dEQXZ2ek5zSzI3N1VvTTdiYVFqRTRobndPLWRlYVpkOERUaEdvMUhOajRHSWNtaGU5U3UyVlI1X1BPcHRTT2RndTljaU5mM3hMeWFwNTA4cnNGTkMxOHdzYXkzejUzUEh5M3NGc3lyMnR6Q1ZDQ3JtZnFpQQ?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Wuhan Tennis Open: Iga Swiatek vs Maja Chwalinska",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-swiatek-chwalin-2026-10-17",
-      "yes": 85,
-      "change24h": 0,
-      "vol24h": 71523,
-      "headlines": [
-        {
-          "title": "The International Tennis Integrity Agency handed Serbia’s Stefan Milićević a 24-year suspension for match-fixing, as announced on Oct. 15, 2026. Link to the full story in comment section.",
-          "source": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdFBXQlpZNVVJVG5zSDl1MXBZZ2VUOHA4UXZKTnFtNndUYkRQeFF3d2ZzdS0tbjhEbGUzWHhLM2Q2VTFic2FydkV5TDJaTjNoeUFWUENhM2lYMWtBbUVKdDVJMG5zZGxuTUhnc1dmcjJGQlFzbDZxNjI4aHVwLUFQSjFxV0ZDQ3A4UXdFT0c1WUtJY3hwR2cxSDYzRkdLVXVJVVAxeHFHMXQ5a1lfdFpfa05kZWJjVHpSRGloUGt5NktrdTU4VTB4MlBQX2pCakpINzhsLU1QRWtSY0E2bUZQZVhjSGl6SjZQaGZZ?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Iga Swiatek delivers ‘honest’ opinion on whether she prefers the two-week WTA 1000 tournaments",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUlRb19QeG5EZ25xXzgtZTNIV0xQY3QtOUNycmxwRDJWbTVXRWlFRGxQa0YycFBGMTVVUVRTV2x3emt3dDJDNmw4RzgzWEFYVW8ycGNxLUJyZWRycEcyVnlmcFo2VXpEVF9NazlrNmdYN2VGc255bmMxMGU2aGNyR2tBUjl1NHktZFBsVA?oc=5",
-          "cat": "Tennis"
+          "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
+          "cat": "Macro"
         }
       ]
     }
@@ -166,8 +150,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
       "yes": 17,
-      "change24h": 7,
-      "vol24h": 8846,
+      "change24h": 8,
+      "vol24h": 11941,
       "headlines": []
     }
   ]
