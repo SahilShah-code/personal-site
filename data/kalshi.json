@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18 04:32 UTC",
-  "net_return_pct": -19.6,
-  "realized_return_pct": -19.6,
+  "updated": "2026-10-18 09:06 UTC",
+  "net_return_pct": -16.5,
+  "realized_return_pct": -16.5,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 40,
-  "settled_total": 10,
+  "win_rate_pct": 45.5,
+  "settled_total": 11,
   "curve": [
     0,
     -100,
@@ -16,10 +16,18 @@
     -31.9,
     -14.5,
     -24.1,
-    -19.6
+    -19.6,
+    -16.5
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Utah wins",
+      "ticker": "KXNCAAFGAME-26OCT16UTAHCOLO-UTAH",
+      "result": "yes",
+      "date": "2026-10-18",
+      "return_pct": 9.2
+    },
     {
       "title": "BYU wins",
       "ticker": "KXNCAAFGAME-26OCT17NDBYU-BYU",
