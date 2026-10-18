@@ -1,18 +1,46 @@
 {
-  "updated": "2026-10-18T14:59:28.415Z",
+  "updated": "2026-10-18T19:47:07.802Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $77,500 in October?",
+      "question": "Will the price of Ethereum be above $2,300 on October 20?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 49,
-      "change24h": 7,
-      "vol24h": 14121,
+      "url": "https://polymarket.com/event/ethereum-above-2300-on-october-20-2026",
+      "yes": 67,
+      "change24h": -23,
+      "vol24h": 12358,
       "headlines": [
         {
-          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "title": "WATCH TODAY Carolina Panthers vs Philadelphia Eagles NFL Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 October",
           "source": "Universidad de Córdoba (UCO)",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMmk0MTNoN21CSnlkUGk4bEdKQ1I0T01YQkZndFhfYWpoY2hST2RaVzFDYlF6U2laZWJmTHhWc1BzNHBuLUlFVFoxZUkwaG5qSU9veGNBQWRydmJfYWJmeVQzc01POWdqMmdNeUlEeEpidWtqUTVaZnhBZmVJblhMV0VxY0lnVWYwUVdTcnR1cE84czI1Ty1jcll0WmZ3aWhQbFY3WmZzYmdYcUZ2RTZwV0toeVdCVUVrTnJjYjRPdVVUUEl4c0k4NXE1WnR0dGlRaVczMHQ5ZUVoWTJKTEUxYnZfaFZwNV8wTlpmRTBEWElSbUE2eWZZRHZkLW5EWVFveXp4QjQ5bGZzX00zNkNyNkkzdm5hZGtRa2NZSlJOc2RJYUVnNm9nbnZCdTJ5YXRIWTBxSUpqM28xMEhoNkMzNlJUMzg2dw?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "!+【LIVESTREAMS】 Chicago Bears vs Atlanta Falcons Live Free NFL Football On 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUJ3MmtjWTBiNXkwZ3FXaUJtYmNjZmp1WkhNMjBTai1JUngzMDhxdjVXV295WThlcGh0Zmd1c1Vzck9sOGp3YjFSY1FHR2F0NG9GeEl1eWxHYTB4MjlMSVJScXhad3NxN0pvYlE0NkdRc2p3TnFoOEpxYVplekVqd0dUV0EtTXVGbm55UDdTcTdmd2thZ3RRY3E3SnV1UlBZVDVyRW1qa2wxRVkwYmROa3dZWVEtWmJMdlVQQXBxbmlxTVZmWXZsem9UYVNFUkh4WWVQMGp1TnZuRi1FdnF1WFFEVm9rekNpd0swVzVNaWd6bTdzT0gwcXhseU02M3NnbjdUb3F3dTlndUlMUXp6Q3hyZ3AtbkRhc0V3a0hKT3pCV0RDVUg0U2N4LXpUM2dGUW5wbjFJYndwVmk3TkRmbmtn?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $2,200 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-october-2026",
+      "yes": 55,
+      "change24h": 22,
+      "vol24h": 11358,
+      "headlines": [
+        {
+          "title": "WATCH TODAY Carolina Panthers vs Philadelphia Eagles NFL Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 October",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMmk0MTNoN21CSnlkUGk4bEdKQ1I0T01YQkZndFhfYWpoY2hST2RaVzFDYlF6U2laZWJmTHhWc1BzNHBuLUlFVFoxZUkwaG5qSU9veGNBQWRydmJfYWJmeVQzc01POWdqMmdNeUlEeEpidWtqUTVaZnhBZmVJblhMV0VxY0lnVWYwUVdTcnR1cE84czI1Ty1jcll0WmZ3aWhQbFY3WmZzYmdYcUZ2RTZwV0toeVdCVUVrTnJjYjRPdVVUUEl4c0k4NXE1WnR0dGlRaVczMHQ5ZUVoWTJKTEUxYnZfaFZwNV8wTlpmRTBEWElSbUE2eWZZRHZkLW5EWVFveXp4QjQ5bGZzX00zNkNyNkkzdm5hZGtRa2NZSlJOc2RJYUVnNm9nbnZCdTJ5YXRIWTBxSUpqM28xMEhoNkMzNlJUMzg2dw?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "!+【LIVESTREAMS】 Chicago Bears vs Atlanta Falcons Live Free NFL Football On 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUJ3MmtjWTBiNXkwZ3FXaUJtYmNjZmp1WkhNMjBTai1JUngzMDhxdjVXV295WThlcGh0Zmd1c1Vzck9sOGp3YjFSY1FHR2F0NG9GeEl1eWxHYTB4MjlMSVJScXhad3NxN0pvYlE0NkdRc2p3TnFoOEpxYVplekVqd0dUV0EtTXVGbm55UDdTcTdmd2thZ3RRY3E3SnV1UlBZVDVyRW1qa2wxRVkwYmROa3dZWVEtWmJMdlVQQXBxbmlxTVZmWXZsem9UYVNFUkh4WWVQMGp1TnZuRi1FdnF1WFFEVm9rekNpd0swVzVNaWd6bTdzT0gwcXhseU02M3NnbjdUb3F3dTlndUlMUXp6Q3hyZ3AtbkRhc0V3a0hKT3pCV0RDVUg0U2N4LXpUM2dGUW5wbjFJYndwVmk3TkRmbmtn?oc=5",
           "cat": "NFL"
         }
       ]
@@ -21,30 +49,36 @@
       "question": "Will Bitcoin reach $82,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-16",
-      "yes": 79,
-      "change24h": -6,
-      "vol24h": 32524,
+      "yes": 75,
+      "change24h": -11,
+      "vol24h": 34960,
       "headlines": [
         {
-          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "title": "WATCH TODAY Carolina Panthers vs Philadelphia Eagles NFL Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 October",
           "source": "Universidad de Córdoba (UCO)",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMmk0MTNoN21CSnlkUGk4bEdKQ1I0T01YQkZndFhfYWpoY2hST2RaVzFDYlF6U2laZWJmTHhWc1BzNHBuLUlFVFoxZUkwaG5qSU9veGNBQWRydmJfYWJmeVQzc01POWdqMmdNeUlEeEpidWtqUTVaZnhBZmVJblhMV0VxY0lnVWYwUVdTcnR1cE84czI1Ty1jcll0WmZ3aWhQbFY3WmZzYmdYcUZ2RTZwV0toeVdCVUVrTnJjYjRPdVVUUEl4c0k4NXE1WnR0dGlRaVczMHQ5ZUVoWTJKTEUxYnZfaFZwNV8wTlpmRTBEWElSbUE2eWZZRHZkLW5EWVFveXp4QjQ5bGZzX00zNkNyNkkzdm5hZGtRa2NZSlJOc2RJYUVnNm9nbnZCdTJ5YXRIWTBxSUpqM28xMEhoNkMzNlJUMzg2dw?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "!+【LIVESTREAMS】 Chicago Bears vs Atlanta Falcons Live Free NFL Football On 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUJ3MmtjWTBiNXkwZ3FXaUJtYmNjZmp1WkhNMjBTai1JUngzMDhxdjVXV295WThlcGh0Zmd1c1Vzck9sOGp3YjFSY1FHR2F0NG9GeEl1eWxHYTB4MjlMSVJScXhad3NxN0pvYlE0NkdRc2p3TnFoOEpxYVplekVqd0dUV0EtTXVGbm55UDdTcTdmd2thZ3RRY3E3SnV1UlBZVDVyRW1qa2wxRVkwYmROa3dZWVEtWmJMdlVQQXBxbmlxTVZmWXZsem9UYVNFUkh4WWVQMGp1TnZuRi1FdnF1WFFEVm9rekNpd0swVzVNaWd6bTdzT0gwcXhseU02M3NnbjdUb3F3dTlndUlMUXp6Q3hyZ3AtbkRhc0V3a0hKT3pCV0RDVUg0U2N4LXpUM2dGUW5wbjFJYndwVmk3TkRmbmtn?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 81,
-      "change24h": 5,
-      "vol24h": 20405,
+      "question": "Will the New England Patriots win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 18252,
       "headlines": [
         {
-          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "title": "Three key Patriots offensive cogs leave game vs. Jets with injuries",
+          "source": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEpXbzVraGo2OThzbDE4UHFHNklwT3B0VDBWQzdfTXU0MlNVRm1saFU5RmlwS0FaLWFyNlh0NUhINzFrMk4wNTFVMG9MaGxOMmhiU3NCQUJtZy1MLUc0dW04bzB3cElISmNYOU9STl9OdG1Bemp3cUM1UG5UMnFzNzh6dUY2bzZBR1ZBSDZHcjhGVzNxSmJlOVB3dVhIOUQwT2MzYmcwTWpVdEE?oc=5",
           "cat": "NFL"
         }
       ]
@@ -55,19 +89,19 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 147573,
+      "vol24h": 175344,
       "headlines": [
         {
-          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "title": "WATCH TODAY Carolina Panthers vs Philadelphia Eagles NFL Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 October",
           "source": "Universidad de Córdoba (UCO)",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMmk0MTNoN21CSnlkUGk4bEdKQ1I0T01YQkZndFhfYWpoY2hST2RaVzFDYlF6U2laZWJmTHhWc1BzNHBuLUlFVFoxZUkwaG5qSU9veGNBQWRydmJfYWJmeVQzc01POWdqMmdNeUlEeEpidWtqUTVaZnhBZmVJblhMV0VxY0lnVWYwUVdTcnR1cE84czI1Ty1jcll0WmZ3aWhQbFY3WmZzYmdYcUZ2RTZwV0toeVdCVUVrTnJjYjRPdVVUUEl4c0k4NXE1WnR0dGlRaVczMHQ5ZUVoWTJKTEUxYnZfaFZwNV8wTlpmRTBEWElSbUE2eWZZRHZkLW5EWVFveXp4QjQ5bGZzX00zNkNyNkkzdm5hZGtRa2NZSlJOc2RJYUVnNm9nbnZCdTJ5YXRIWTBxSUpqM28xMEhoNkMzNlJUMzg2dw?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
-          "cat": "Macro"
+          "title": "!+【LIVESTREAMS】 Chicago Bears vs Atlanta Falcons Live Free NFL Football On 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUJ3MmtjWTBiNXkwZ3FXaUJtYmNjZmp1WkhNMjBTai1JUngzMDhxdjVXV295WThlcGh0Zmd1c1Vzck9sOGp3YjFSY1FHR2F0NG9GeEl1eWxHYTB4MjlMSVJScXhad3NxN0pvYlE0NkdRc2p3TnFoOEpxYVplekVqd0dUV0EtTXVGbm55UDdTcTdmd2thZ3RRY3E3SnV1UlBZVDVyRW1qa2wxRVkwYmROa3dZWVEtWmJMdlVQQXBxbmlxTVZmWXZsem9UYVNFUkh4WWVQMGp1TnZuRi1FdnF1WFFEVm9rekNpd0swVzVNaWd6bTdzT0gwcXhseU02M3NnbjdUb3F3dTlndUlMUXp6Q3hyZ3AtbkRhc0V3a0hKT3pCV0RDVUg0U2N4LXpUM2dGUW5wbjFJYndwVmk3TkRmbmtn?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -77,41 +111,41 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 133220,
+      "vol24h": 130713,
       "headlines": [
         {
-          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "title": "WATCH TODAY Carolina Panthers vs Philadelphia Eagles NFL Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 October",
           "source": "Universidad de Córdoba (UCO)",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMmk0MTNoN21CSnlkUGk4bEdKQ1I0T01YQkZndFhfYWpoY2hST2RaVzFDYlF6U2laZWJmTHhWc1BzNHBuLUlFVFoxZUkwaG5qSU9veGNBQWRydmJfYWJmeVQzc01POWdqMmdNeUlEeEpidWtqUTVaZnhBZmVJblhMV0VxY0lnVWYwUVdTcnR1cE84czI1Ty1jcll0WmZ3aWhQbFY3WmZzYmdYcUZ2RTZwV0toeVdCVUVrTnJjYjRPdVVUUEl4c0k4NXE1WnR0dGlRaVczMHQ5ZUVoWTJKTEUxYnZfaFZwNV8wTlpmRTBEWElSbUE2eWZZRHZkLW5EWVFveXp4QjQ5bGZzX00zNkNyNkkzdm5hZGtRa2NZSlJOc2RJYUVnNm9nbnZCdTJ5YXRIWTBxSUpqM28xMEhoNkMzNlJUMzg2dw?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
-          "cat": "Macro"
+          "title": "!+【LIVESTREAMS】 Chicago Bears vs Atlanta Falcons Live Free NFL Football On 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUJ3MmtjWTBiNXkwZ3FXaUJtYmNjZmp1WkhNMjBTai1JUngzMDhxdjVXV295WThlcGh0Zmd1c1Vzck9sOGp3YjFSY1FHR2F0NG9GeEl1eWxHYTB4MjlMSVJScXhad3NxN0pvYlE0NkdRc2p3TnFoOEpxYVplekVqd0dUV0EtTXVGbm55UDdTcTdmd2thZ3RRY3E3SnV1UlBZVDVyRW1qa2wxRVkwYmROa3dZWVEtWmJMdlVQQXBxbmlxTVZmWXZsem9UYVNFUkh4WWVQMGp1TnZuRi1FdnF1WFFEVm9rekNpd0swVzVNaWd6bTdzT0gwcXhseU02M3NnbjdUb3F3dTlndUlMUXp6Q3hyZ3AtbkRhc0V3a0hKT3pCV0RDVUg0U2N4LXpUM2dGUW5wbjFJYndwVmk3TkRmbmtn?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
-      "yes": 0,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 14,
       "change24h": 0,
-      "vol24h": 65600,
+      "vol24h": 118736,
       "headlines": [
         {
-          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "title": "WATCH TODAY Carolina Panthers vs Philadelphia Eagles NFL Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 October",
           "source": "Universidad de Córdoba (UCO)",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMmk0MTNoN21CSnlkUGk4bEdKQ1I0T01YQkZndFhfYWpoY2hST2RaVzFDYlF6U2laZWJmTHhWc1BzNHBuLUlFVFoxZUkwaG5qSU9veGNBQWRydmJfYWJmeVQzc01POWdqMmdNeUlEeEpidWtqUTVaZnhBZmVJblhMV0VxY0lnVWYwUVdTcnR1cE84czI1Ty1jcll0WmZ3aWhQbFY3WmZzYmdYcUZ2RTZwV0toeVdCVUVrTnJjYjRPdVVUUEl4c0k4NXE1WnR0dGlRaVczMHQ5ZUVoWTJKTEUxYnZfaFZwNV8wTlpmRTBEWElSbUE2eWZZRHZkLW5EWVFveXp4QjQ5bGZzX00zNkNyNkkzdm5hZGtRa2NZSlJOc2RJYUVnNm9nbnZCdTJ5YXRIWTBxSUpqM28xMEhoNkMzNlJUMzg2dw?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
-          "cat": "Macro"
+          "title": "!+【LIVESTREAMS】 Chicago Bears vs Atlanta Falcons Live Free NFL Football On 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWUJ3MmtjWTBiNXkwZ3FXaUJtYmNjZmp1WkhNMjBTai1JUngzMDhxdjVXV295WThlcGh0Zmd1c1Vzck9sOGp3YjFSY1FHR2F0NG9GeEl1eWxHYTB4MjlMSVJScXhad3NxN0pvYlE0NkdRc2p3TnFoOEpxYVplekVqd0dUV0EtTXVGbm55UDdTcTdmd2thZ3RRY3E3SnV1UlBZVDVyRW1qa2wxRVkwYmROa3dZWVEtWmJMdlVQQXBxbmlxTVZmWXZsem9UYVNFUkh4WWVQMGp1TnZuRi1FdnF1WFFEVm9rekNpd0swVzVNaWd6bTdzT0gwcXhseU02M3NnbjdUb3F3dTlndUlMUXp6Q3hyZ3AtbkRhc0V3a0hKT3pCV0RDVUg0U2N4LXpUM2dGUW5wbjFJYndwVmk3TkRmbmtn?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -121,26 +155,32 @@
       "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 62121,
+      "vol24h": 63644,
       "headlines": [
         {
-          "title": "Tacko Fall Lands Two-Way Deal with Philadelphia - NBA News | Fantasy Basketball",
-          "source": "RotoBaller",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTE5UVlWdVdtR1NxOHM5ZjctVjhXdVFkWmVCMVBvelBFMUdjTWExTEc5bE11MmM4N0s0N3Y3S1htNVBDQnlmOS1lcXNkWF8ySmNrWjhPbkFZV2lETWpvanhFdDUwV2NQeEhsX05GbENoVGJMMU1tZXhLY1RLdm5GWHppak1BeEttY0dIYWViMmpvYzBsellHV1ZR?oc=5",
-          "cat": "NBA"
+          "title": "WATCH TODAY Carolina Panthers vs Philadelphia Eagles NFL Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 18 October",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMmk0MTNoN21CSnlkUGk4bEdKQ1I0T01YQkZndFhfYWpoY2hST2RaVzFDYlF6U2laZWJmTHhWc1BzNHBuLUlFVFoxZUkwaG5qSU9veGNBQWRydmJfYWJmeVQzc01POWdqMmdNeUlEeEpidWtqUTVaZnhBZmVJblhMV0VxY0lnVWYwUVdTcnR1cE84czI1Ty1jcll0WmZ3aWhQbFY3WmZzYmdYcUZ2RTZwV0toeVdCVUVrTnJjYjRPdVVUUEl4c0k4NXE1WnR0dGlRaVczMHQ5ZUVoWTJKTEUxYnZfaFZwNV8wTlpmRTBEWElSbUE2eWZZRHZkLW5EWVFveXp4QjQ5bGZzX00zNkNyNkkzdm5hZGtRa2NZSlJOc2RJYUVnNm9nbnZCdTJ5YXRIWTBxSUpqM28xMEhoNkMzNlJUMzg2dw?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 10550,
+      "headlines": [
+        {
+          "title": "Three key Patriots offensive cogs leave game vs. Jets with injuries",
+          "source": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEpXbzVraGo2OThzbDE4UHFHNklwT3B0VDBWQzdfTXU0MlNVRm1saFU5RmlwS0FaLWFyNlh0NUhINzFrMk4wNTFVMG9MaGxOMmhiU3NCQUJtZy1MLUc0dW04bzB3cElISmNYOU9STl9OdG1Bemp3cUM1UG5UMnFzNzh6dUY2bzZBR1ZBSDZHcjhGVzNxSmJlOVB3dVhIOUQwT2MzYmcwTWpVdEE?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Netflix (NFLX) Q3 operating margin 32% to 34%?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/netflix-nflx-q3-operating-margin-20261008120015000-32-to-34",
-      "yes": 63,
-      "change24h": 13,
-      "vol24h": 13211,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
