@@ -1,69 +1,95 @@
 {
-  "updated": "2026-10-17T19:46:14.600Z",
+  "updated": "2026-10-18T01:50:18.189Z",
   "withNews": [
-    {
-      "question": "Will the price of Bitcoin be above $84,000 on October 19?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-19-2026",
-      "yes": 6,
-      "change24h": -5,
-      "vol24h": 29678,
-      "headlines": [
-        {
-          "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1NYeFB6R3BmMHNWUVNPc0F4NEpkS2pWaHNSZEx3OUZtNjU2Z2tIVUtLQm5HQmxPZWdWVHNQVktURWU1ang5ZURxOXR0YXFfNmUyVkFPc2RWbmtSdkN4M3l1SzlweVphOWxWNHFieXpkX3ozS0hoOV9JX2NZTWxfeVA0VVRVV2dLR2Nwa0Rqc3VzUlBacTNN?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Stock market this week: Chip stocks fell 12% by October 16",
-          "source": "Opening Bell Daily",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtLUtfU1diRE03X0VXTF9GS1EtaXR3ZnU5YWZDbGpaWlhIZDNiRjBxZzZ1ZXhSOUZ3UDBIRVViUW5uOGtsOEJvVnRJZ1U3RUR4QnozQVkxWjYtZXhBZmEtS0ktWG9iLXRwNk55eXdsVnp1OVFmNEtHV2JoY1ZhUQ?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin dip to $72,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-october-2026",
       "yes": 12,
       "change24h": -3,
-      "vol24h": 26912,
+      "vol24h": 27120,
       "headlines": [
         {
-          "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1NYeFB6R3BmMHNWUVNPc0F4NEpkS2pWaHNSZEx3OUZtNjU2Z2tIVUtLQm5HQmxPZWdWVHNQVktURWU1ang5ZURxOXR0YXFfNmUyVkFPc2RWbmtSdkN4M3l1SzlweVphOWxWNHFieXpkX3ozS0hoOV9JX2NZTWxfeVA0VVRVV2dLR2Nwa0Rqc3VzUlBacTNN?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Stock market this week: Chip stocks fell 12% by October 16",
-          "source": "Opening Bell Daily",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtLUtfU1diRE03X0VXTF9GS1EtaXR3ZnU5YWZDbGpaWlhIZDNiRjBxZzZ1ZXhSOUZ3UDBIRVViUW5uOGtsOEJvVnRJZ1U3RUR4QnozQVkxWjYtZXhBZmEtS0ktWG9iLXRwNk55eXdsVnp1OVFmNEtHV2JoY1ZhUQ?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the price of Ethereum be above $2,400 on October 19?",
+      "question": "Will the price of Bitcoin be above $84,000 on October 19?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2400-on-october-19-2026",
-      "yes": 62,
-      "change24h": 3,
-      "vol24h": 14420,
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-19-2026",
+      "yes": 6,
+      "change24h": -2,
+      "vol24h": 24770,
       "headlines": [
         {
-          "title": "Should you Buy Amazon Stock Before October 29? History Has a Clear Answer.",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1NYeFB6R3BmMHNWUVNPc0F4NEpkS2pWaHNSZEx3OUZtNjU2Z2tIVUtLQm5HQmxPZWdWVHNQVktURWU1ang5ZURxOXR0YXFfNmUyVkFPc2RWbmtSdkN4M3l1SzlweVphOWxWNHFieXpkX3ozS0hoOV9JX2NZTWxfeVA0VVRVV2dLR2Nwa0Rqc3VzUlBacTNN?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "yes": 78,
+      "change24h": -2,
+      "vol24h": 10083,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 22,
+      "change24h": 1,
+      "vol24h": 13731,
+      "headlines": [
+        {
+          "title": "Another interest rate hike may be ahead as Fed battles inflation",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Ethereum Dramatically Outperformed the S&P 500 in Q3. Is It Finally Time to Load Up on Ethereum?",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZxczlrYmtIaVVVWlhGbDZJYk5UNFVCekhQUlBqS01QOEdvX0VOSXpQVVRuMGdHb3lsd0RxZTJPejBNUUFMYmt3anEwMHgzRkRyNHRmUVBrcE00eHd1aFlQanRkbzZOeDg4MnFvbHRESEJsM0RKay1SdWVmQUZtLThwRFo2M1psNzBNQmV6Sm9KQUxEVlF0RQ?oc=5",
-          "cat": "Markets"
+          "title": "US inflation complicates Fed policy outlook ahead of midterm elections",
+          "source": "CGTN",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1ZOVC1fQ3NFZkl5SlRfcFdjOWFrTEFPN3JxemQ2QWNKaFp1OHVJTzNkWVJId1FiUl9oXzB2UHhkLTFhY1VEMldnb0xoY3JLby16bTZqWlJ1MGpVbnVWLUU0QUg1SnFvbGthdEVFTjhieS1yT2ZqZ3Q3cnNNR3NHSkxVZWJzUnJUcmhSQ3dTRnlwaE5UMENmbXduR1FnaFo3MWJLWkhQckRmcWFfZ21mTG91OVh4Z0lxVWdZMkpGcDItYXFqc0E?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 76,
+      "change24h": -1,
+      "vol24h": 10280,
+      "headlines": [
+        {
+          "title": "Another interest rate hike may be ahead as Fed battles inflation",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "US inflation complicates Fed policy outlook ahead of midterm elections",
+          "source": "CGTN",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1ZOVC1fQ3NFZkl5SlRfcFdjOWFrTEFPN3JxemQ2QWNKaFp1OHVJTzNkWVJId1FiUl9oXzB2UHhkLTFhY1VEMldnb0xoY3JLby16bTZqWlJ1MGpVbnVWLUU0QUg1SnFvbGthdEVFTjhieS1yT2ZqZ3Q3cnNNR3NHSkxVZWJzUnJUcmhSQ3dTRnlwaE5UMENmbXduR1FnaFo3MWJLWkhQckRmcWFfZ21mTG91OVh4Z0lxVWdZMkpGcDItYXFqc0E?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -73,7 +99,7 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 159827,
+      "vol24h": 219345,
       "headlines": [
         {
           "title": "Another interest rate hike may be ahead as Fed battles inflation",
@@ -82,57 +108,54 @@
           "cat": "Macro"
         },
         {
-          "title": "Warsh signals steady Fed outlook despite inflation jump",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
+          "title": "US inflation complicates Fed policy outlook ahead of midterm elections",
+          "source": "CGTN",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1ZOVC1fQ3NFZkl5SlRfcFdjOWFrTEFPN3JxemQ2QWNKaFp1OHVJTzNkWVJId1FiUl9oXzB2UHhkLTFhY1VEMldnb0xoY3JLby16bTZqWlJ1MGpVbnVWLUU0QUg1SnFvbGthdEVFTjhieS1yT2ZqZ3Q3cnNNR3NHSkxVZWJzUnJUcmhSQ3dTRnlwaE5UMENmbXduR1FnaFo3MWJLWkhQckRmcWFfZ21mTG91OVh4Z0lxVWdZMkpGcDItYXFqc0E?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 87,
+      "question": "Wuhan Tennis Open: Maja Chwalinska vs Sonay Kartal",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-chwalin-kartal-2026-10-18",
+      "yes": 50,
       "change24h": 0,
-      "vol24h": 136846,
+      "vol24h": 19903,
       "headlines": [
         {
-          "title": "Another interest rate hike may be ahead as Fed battles inflation",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
-          "cat": "Macro"
+          "title": "Canada's Dabrowski and Brazil's Stefani win doubles semifinal at Wuhan Open",
+          "source": "Sportsnet.ca",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXBKU19DLW8zQXpSTlY5c1Qtek5NN3N0OW1Lb2o5WVpsY0NCb1JHNWh0UWFvNmoxdXJ1cExKTUExSzZSZTJ4RDg1RTZqcTBBVEZ5N0t6RDFiUEhtbHhhWmE3cEhIZ1FtZTBGeXhpcVBpOFdfOUt1RlBnNzFyTy1BTm1RRHlicTV3cy1CZHlTLXREclBoeDZ2M180UDdlQVhwYzZHLTBjRHB3YlJkOTNKdw?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Warsh signals steady Fed outlook despite inflation jump",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 14,
-      "change24h": 0,
-      "vol24h": 106785,
-      "headlines": [
-        {
-          "title": "Another interest rate hike may be ahead as Fed battles inflation",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Warsh signals steady Fed outlook despite inflation jump",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
-          "cat": "Macro"
+          "title": "The Rise of the Next Tennis Gen: Five Teenage Players to Watch",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQnVST2I0VEltWUE4ejhyamgtb0lmaTZGbFNpQnhIODdXMmxjRFMxMDlqbXowQkl1UnJMM0Rpa2xqUzRETGVVSElxTmlBNU5uY1RNLWRaNmU4RVI4MTRzdlhLS2NaRkgxaFBnRS1pZFVzODVpeTdIVXotZUYtMjMyODYtVW9mUS1pWnBVT05oMU1hTl9fRy02aFBkMA?oc=5",
+          "cat": "Tennis"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Golden State Valkyries win the 2026 WNBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-valkyries-win-the-2026-wnba-finals-945",
+      "yes": 65,
+      "change24h": 12,
+      "vol24h": 12034,
+      "headlines": []
+    },
+    {
+      "question": "Netflix (NFLX) Q3 operating margin 32% to 34%?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/netflix-nflx-q3-operating-margin-20261008120015000-32-to-34",
+      "yes": 54,
+      "change24h": 5,
+      "vol24h": 11702,
+      "headlines": []
+    }
+  ]
 }
