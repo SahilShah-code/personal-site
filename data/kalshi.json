@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18 18:57 UTC",
-  "net_return_pct": -16.5,
-  "realized_return_pct": -16.5,
+  "updated": "2026-10-18 21:21 UTC",
+  "net_return_pct": -11.7,
+  "realized_return_pct": -11.7,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 45.5,
-  "settled_total": 11,
+  "win_rate_pct": 53.8,
+  "settled_total": 13,
   "curve": [
     0,
     -100,
@@ -17,10 +17,26 @@
     -14.5,
     -24.1,
     -19.6,
-    -16.5
+    -16.5,
+    -12.6,
+    -11.7
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Tampa Bay wins",
+      "ticker": "KXNFLGAME-26OCT18PITTB-TB",
+      "result": "no",
+      "date": "2026-10-18",
+      "return_pct": 6.3
+    },
+    {
+      "title": "Tennessee wins",
+      "ticker": "KXNFLGAME-26OCT18TENIND-TEN",
+      "result": "yes",
+      "date": "2026-10-18",
+      "return_pct": 61.1
+    },
     {
       "title": "Utah wins",
       "ticker": "KXNCAAFGAME-26OCT16UTAHCOLO-UTAH",
