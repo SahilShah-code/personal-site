@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-17 22:17 UTC",
-  "net_return_pct": -14.5,
-  "realized_return_pct": -14.5,
+  "updated": "2026-10-18 00:09 UTC",
+  "net_return_pct": -24.1,
+  "realized_return_pct": -24.1,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 37.5,
-  "settled_total": 8,
+  "win_rate_pct": 33.3,
+  "settled_total": 9,
   "curve": [
     0,
     -100,
@@ -14,10 +14,18 @@
     -51.5,
     -53.6,
     -31.9,
-    -14.5
+    -14.5,
+    -24.1
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Alabama wins",
+      "ticker": "KXNCAAFGAME-26OCT17ALATENN-ALA",
+      "result": "no",
+      "date": "2026-10-17",
+      "return_pct": -100
+    },
     {
       "title": "Ohio St. wins",
       "ticker": "KXNCAAFGAME-26OCT17OSUIND-OSU",
