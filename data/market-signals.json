@@ -1,47 +1,51 @@
 {
-  "updated": "2026-10-18T10:01:02.971Z",
+  "updated": "2026-10-18T14:59:28.415Z",
   "withNews": [
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 75,
-      "change24h": -2,
-      "vol24h": 10225,
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 49,
+      "change24h": 7,
+      "vol24h": 14121,
       "headlines": [
         {
-          "title": "Another interest rate hike may be ahead as Fed battles inflation",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "High interest rates aren’t slowing the AI boom. That’s a problem for the Fed.",
-          "source": "Inquirer.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQjZrQnNsWF9Kd2x1X0dNUDFSOGU4Y1VvZHVDZnFOMm5MVl9XNTk4MHdrR3NVcTN4VWNSeFFlZUxoR1pfN1J5cENuX3YtTlJLZnYwdlJCY0Z3VXlVcG5udHRmZHpTMkdTZ1dWUkpid0YxRVJtWlk3UUlaZnVVZU5vcGVXMmQwdm1PT2lJa3lmcXFUNDZ6VGlaQlA1U3JUcjBBaTE2djFXZw?oc=5",
-          "cat": "Macro"
+          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 22,
-      "change24h": 1,
-      "vol24h": 11346,
+      "question": "Will Bitcoin reach $82,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-16",
+      "yes": 79,
+      "change24h": -6,
+      "vol24h": 32524,
       "headlines": [
         {
-          "title": "Another interest rate hike may be ahead as Fed battles inflation",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
-          "cat": "Macro"
-        },
+          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 81,
+      "change24h": 5,
+      "vol24h": 20405,
+      "headlines": [
         {
-          "title": "High interest rates aren’t slowing the AI boom. That’s a problem for the Fed.",
-          "source": "Inquirer.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQjZrQnNsWF9Kd2x1X0dNUDFSOGU4Y1VvZHVDZnFOMm5MVl9XNTk4MHdrR3NVcTN4VWNSeFFlZUxoR1pfN1J5cENuX3YtTlJLZnYwdlJCY0Z3VXlVcG5udHRmZHpTMkdTZ1dWUkpid0YxRVJtWlk3UUlaZnVVZU5vcGVXMmQwdm1PT2lJa3lmcXFUNDZ6VGlaQlA1U3JUcjBBaTE2djFXZw?oc=5",
-          "cat": "Macro"
+          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -51,41 +55,79 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 244545,
+      "vol24h": 147573,
       "headlines": [
         {
-          "title": "Another interest rate hike may be ahead as Fed battles inflation",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
-          "cat": "Macro"
+          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "High interest rates aren’t slowing the AI boom. That’s a problem for the Fed.",
-          "source": "Inquirer.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQjZrQnNsWF9Kd2x1X0dNUDFSOGU4Y1VvZHVDZnFOMm5MVl9XNTk4MHdrR3NVcTN4VWNSeFFlZUxoR1pfN1J5cENuX3YtTlJLZnYwdlJCY0Z3VXlVcG5udHRmZHpTMkdTZ1dWUkpid0YxRVJtWlk3UUlaZnVVZU5vcGVXMmQwdm1PT2lJa3lmcXFUNDZ6VGlaQlA1U3JUcjBBaTE2djFXZw?oc=5",
+          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Wuhan Tennis Open: Maja Chwalinska vs Sonay Kartal",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-chwalin-kartal-2026-10-18",
-      "yes": 50,
+      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 149721,
+      "vol24h": 133220,
       "headlines": [
         {
-          "title": "Canada's Dabrowski and Brazil's Stefani win doubles semifinal at Wuhan Open",
-          "source": "Sportsnet.ca",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXBKU19DLW8zQXpSTlY5c1Qtek5NN3N0OW1Lb2o5WVpsY0NCb1JHNWh0UWFvNmoxdXJ1cExKTUExSzZSZTJ4RDg1RTZqcTBBVEZ5N0t6RDFiUEhtbHhhWmE3cEhIZ1FtZTBGeXhpcVBpOFdfOUt1RlBnNzFyTy1BTm1RRHlicTV3cy1CZHlTLXREclBoeDZ2M180UDdlQVhwYzZHLTBjRHB3YlJkOTNKdw?oc=5",
-          "cat": "Tennis"
+          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "The Rise of the Next Tennis Gen: Five Teenage Players to Watch",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQnVST2I0VEltWUE4ejhyamgtb0lmaTZGbFNpQnhIODdXMmxjRFMxMDlqbXowQkl1UnJMM0Rpa2xqUzRETGVVSElxTmlBNU5uY1RNLWRaNmU4RVI4MTRzdlhLS2NaRkgxaFBnRS1pZFVzODVpeTdIVXotZUYtMjMyODYtVW9mUS1pWnBVT05oMU1hTl9fRy02aFBkMA?oc=5",
-          "cat": "Tennis"
+          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 65600,
+      "headlines": [
+        {
+          "title": "Houston Texans vs Jacksonville Jaguars Football Live free NFL Week 5 Football Games 18 October 2026",
+          "source": "Universidad de Córdoba (UCO)",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOeWR6bk5Vb3lVY1FZRjNyVkpvb2FfMFNlSlNZWXlUdFZlY1ZfZzRvb2NQSmlxcnM0NHlGOV9Tb3p6c3dYT05abkZ3X051LUZjZmgwYklnOGcwQ2EtLUR5c2kxS2ZZcVlrR0NxYTUzUDRYUzA3TnR4OU9OMkMwUWN2SzBVVEJGbFdSTWhEVVRSSWdyWDlDZGpOaHdXbzJBM1E0QkIzSnJYbkJEblFvRXUyQS1TODZ4M3dJeXh1OC1JbUxSVFB0UllRaDRJNjdNaTVoakJ6RUxzX3RIaEE4WHRRNHVoMEg3V1V5YXozbXRSZFc5QkpGVG1qM3psUnlWQ3JadFZpc3NxWEhzMXkwVEdEblZ3T1p6SVJDY19ySklUM01SU0VIUU1GWlFHTDJoV0ZrY3hrMHMzRG5IU21YYnc?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 62121,
+      "headlines": [
+        {
+          "title": "Tacko Fall Lands Two-Way Deal with Philadelphia - NBA News | Fantasy Basketball",
+          "source": "RotoBaller",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTTE5UVlWdVdtR1NxOHM5ZjctVjhXdVFkWmVCMVBvelBFMUdjTWExTEc5bE11MmM4N0s0N3Y3S1htNVBDQnlmOS1lcXNkWF8ySmNrWjhPbkFZV2lETWpvanhFdDUwV2NQeEhsX05GbENoVGJMMU1tZXhLY1RLdm5GWHppak1BeEttY0dIYWViMmpvYzBsellHV1ZR?oc=5",
+          "cat": "NBA"
         }
       ]
     }
@@ -95,45 +137,9 @@
       "question": "Netflix (NFLX) Q3 operating margin 32% to 34%?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/netflix-nflx-q3-operating-margin-20261008120015000-32-to-34",
-      "yes": 61,
-      "change24h": 11,
-      "vol24h": 13184,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-16",
-      "yes": 93,
-      "change24h": 6,
-      "vol24h": 8711,
-      "headlines": []
-    },
-    {
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 29,
-      "change24h": 6,
-      "vol24h": 8700,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 67,
-      "change24h": -4,
-      "vol24h": 21735,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 34,
-      "change24h": 4,
-      "vol24h": 10223,
+      "yes": 63,
+      "change24h": 13,
+      "vol24h": 13211,
       "headlines": []
     }
   ]
