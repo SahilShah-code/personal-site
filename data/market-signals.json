@@ -1,68 +1,24 @@
 {
-  "updated": "2026-10-19T11:25:00.914Z",
+  "updated": "2026-10-19T17:52:07.186Z",
   "withNews": [
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "yes": 87,
-      "change24h": 8,
-      "vol24h": 12612,
-      "headlines": [
-        {
-          "title": "Invesco S&P 500 Top 50 (XLG) Buys $18.1 Million More NVIDIA on Oct. 15",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQXVRTGJmRV9PakU0eWU1dXNVek5qV1E2dXFVVnE4VjlhdVE1Y2dBVnBYSXk3XzlOSHM0R1F5ck80SzUwRjZMamU5MEJiajZaMTRiX1liUjM3UUxDYnZIaXNrQ1Z3QWZlc0pPS0NDWkVBT25LZkdRYnFxSllNRVI2Z3R2TXFqUzZMTVNDbXhR?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "What State Street SPDR S&P 500 ETF (SPY) Sold: NVIDIA Leads on Thursday",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVlZMEh2X01LZjJrUG4wcmc3MEc2dE0xVGdQNGN3YUs0ZVJzbm1acEM2dFMtdTFnSWw2NFQ2Q0w3MVpLWC1qM1hpQVU2RFZkQTZ4eThUeGszRHpHeHRQOVI3MjVOY3hqMXVpaEFjTWkwSS03blBTcW0taS1POHFITFhQQ1hxVXJOMTU2VkNhSFZVUQ?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 89,
-      "change24h": 2,
-      "vol24h": 411866,
-      "headlines": [
-        {
-          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 12,
+      "yes": 85,
       "change24h": -2,
-      "vol24h": 254121,
+      "vol24h": 810032,
       "headlines": [
+        {
+          "title": "Another interest rate hike may be ahead as Fed battles inflation",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
           "cat": "Macro"
         }
       ]
@@ -73,105 +29,101 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 20,
       "change24h": -2,
-      "vol24h": 35774,
+      "vol24h": 73055,
       "headlines": [
+        {
+          "title": "Another interest rate hike may be ahead as Fed battles inflation",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+      "yes": 65,
+      "change24h": 2,
+      "vol24h": 15089,
+      "headlines": [
+        {
+          "title": "Another interest rate hike may be ahead as Fed battles inflation",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2M4VEVLazg3ZlVZLTUwRVBnYms2R3hKaVhGUzl6YURIY0tSQVVyc1Z4SDk4R2tERFAtbVh0dmsyYzI0ZVlTVzBWcXRsa0gxX0VKZVRuNktQUzRXZHY5MVRTZ3JSMU9IZkRqVzZGeHg5ZjJ5dEJSS0tpSWtXTDJ2eDhmX0tUSGRYZkpSZkhjcDhzdldseFdaS3FOdEV0UVYtdjBUR3BpbkxJMzkwaS1wSm91YVg?oc=5",
+          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the New England Patriots win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 1,
-      "vol24h": 19926,
-      "headlines": [
-        {
-          "title": "Sarina Wiegman extends England contract through to Euro 2029",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2ZWVDZTaVNnbVpuRzhiaEo2X1l3UFJWMFRUV2hOQTg1SXFId0lId1pFNG5QY3FrZnBoZEF5enc3Q09Bek0xaW1EQUtQNkwwcTJjU1hJOTJ4M3lDMlFXdURFaU5OYnVkUUtFcGxnOWppX2F3b0xUWVQ0N000cjNBdl8tQ1JWSXlnTndPMVJqU1R6bHFmYU5JU1gwUkRtak9CNUVkT3U5blU?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Sarina Wiegman signs new England contract until 2029",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ01hYlpUVUlLSDdOWmpuV1MwYVdtNVI4NGlSOHBObWZBTGh2dVJOZVE1UDZ6Q0JOcGNldUFoaUtyQjFjLTdtQkVlUWwtalpMSUFYT1pNdzVhTW1KQ05nb1FKMVRWc21VdHJfR0xlLWJFNXVSXzFndjZMOWZWWDljMmZnY0NQdXBxbUE2WDJjcXl1MHo5c0dLT0tFWm9QT1ND?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
-      "yes": 2,
-      "change24h": -1,
-      "vol24h": 9261,
-      "headlines": [
-        {
-          "title": "Jordan Love, Green Bay’s defense lead the way in Packers’ 23-13 victory over Cowboys",
-          "source": "The Press Democrat",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1lyZjQ5YXdpVzlmaTQ0dURENlNITktxMG84bXZxQUlKZUd0ZmxQbVdwZm1Eb1FrdjcxOG1TaUFRWWtCSVAtdFVpQV9EMXVaTUNWSUQ2Vk9IN2RwM29zLUdrd09JVERiYTVnZ245eXNoYm5FbUppZFVoZGJWcVIyVmJZR2NJdVdVS2FCRmdtNzFDZEJXeXlaeUJtTDNoSXFpeXNma0V6YjZodks0X29Ya2ozTWhlcWo4bDZlS2l4UEM?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "question": "Will LeBron James retire before next NBA season?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
-      "yes": 23,
-      "change24h": 0,
-      "vol24h": 15748,
-      "headlines": [
-        {
-          "title": "Washington Commanders vs. San Francisco 49ers: How to watch Monday Night Football, start time, where to stream free and more",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOUZ1bkgtSm9XbG5LTTNaN2ViNDc0N0lEZHdlUEQ3aWVrWmxtc05wdWRvVGowNTNtYUdRY2FmcVBrc3c5em4tZy1lSlZheTR2OUktc0dCNWxKWGJ0U3JsZ3EtdTNGZTJoZFZOcU1SRElCcW9SenY0NjZPVEIxLW0tZEMzWGVyR1RRRnVmRUxUMEZseGZCTVBNTnpVS2ZpbEx5bFVfVHZ2WGxTeW5fU0J5RnhzUWpkNFc2TW1xNEVISXdjOWtVY01SamZRTmpjdFF3bjR5bXZaRWp5bXVoMGEyWmxiZ1ktLXhEMVZEZGU5WGlQc05Hbjc4dmxxMWE4WlpxQ2c?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
-      "yes": 6,
-      "change24h": 0,
-      "vol24h": 13055,
-      "headlines": [
-        {
-          "title": "Best- and worst-case scenarios for every Timberwolves player this season",
-          "source": "Pioneer Press",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjVGZlFMMngzN1h0UFJrekJMSEotenJ2bDg2RndxV0tiNDJud3hzNmxkMEVjc2FBLWlHNEk0RkV0TTBKZ2VWQzdveTNJRk1PUHl5ODZERjNrS1J1OTQ5ejNzS1BDZW9uVkZYTUtiTWRzZTQxcHV1M2c5TWxTakQ1UnAySVI1QzZWUzFaTkNyd2NfZUEydktSVnk4QTFYM0VNZ1hHeXFELXhCOGlZemJV?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "NBA: LeBron James and Bronny James Jr. to Play Together in 2026-27?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/nba-lebron-james-and-bronny-james-jrpt-to-play-together-in-2026-27-20260630182039143",
+      "url": "https://polymarket.com/event/will-lebron-james-retire-before-next-nba-season",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 11683,
+      "vol24h": 21124,
       "headlines": [
         {
-          "title": "LeBron James, yearning to capture a fifth career NBA title, tips off his record 24th campaign on Tuesday at age 41 with his new Philadelphia 76ers teammates chasing a long-sought crown. Read more in the comments section.",
-          "source": "Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd1Y0V1lheHV3bUNSdTBYdEVFdWg2MjlQQjNiYkFwX2hvRmRmSVZPVkgybE8zLU1Fa0l5cXc1NGp0T2FUQ196blpraXU3MHNSVzhWc0ZYUmlIOUdnUk0td3hrVW1kWTViQm90WnBGU3VPd0JMMHctVm9FSTJvSDBzbHdwMWhXX3d2M1VQSEttOVhtRFdQZEh5aFlKbmtRQ3diY1c2UVNsYS1ob0RId1ZlUFJ5ZnVJTzNfekNRdGtMM0ZvMjRFVWJWRXVBRFJ2cDdLbmN0NHhlVQ?oc=5",
+          "title": "LeBron James, by the numbers going into Year 24 of his one-of-a-kind NBA career",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYaFBkVTdKVmlkdWhNeWQ5VExwWU5DU1QzbUstT0tKYWl4QW5kSkQzTjFuQmQtQS0tSGxmMkU2bC1YNG5LRnhJNjFPOUFHcXRDWFA3Z0tpb1JaM2RmNWtqZFFBYWRDV0RGbTVsMWR0UXA1MzhLZV9qX0VoMA?oc=5",
           "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 15184,
+      "headlines": [
+        {
+          "title": "Eagles QB Jalen Hurts expected to miss the rest of the season with blood clots, AP source says",
+          "source": "WBBJ-TV",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa01VaW8wd19IM0VWcU9ybk9RRXZVbzhXXzNtbjFma1FnaG9ETnNTTFdXU3I1eUNtMjNpc2NhRW90a1V2Y1dKRnhONU9pdHI1bVhDRG4wX0x6RzY3R05NeFlFNzcwU1FSdnQ1NE5xbnVYWkE0OXlMSV9XY3NRNEE4dlljTzB4S1ZYRWN3SmdWRVJ0ZVJYR3RhbE5RUVllcHotWFI2VTRwTU1zWUVCd2d3SDJRNHk?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Eagles QB Jalen Hurts out for the year with blood clots: Report",
+          "source": "NewsNation",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXdZTVhZTHJ1ZUs0dmlIVlVmc3FiOG02a1dBcXM4b2lzbnRTWlIzSmZWREo2RnFWNk9zYlk5QTFnOVctSXRpUjVwc0ZheWlxd1BEZFlEcjhCSzNnNVg0N01iaU1GMHQ5ZG43eTZvcGJkVGotR2lnazBndFJxVXNuSzVOTmQ5YnRQeEUtTi1OZ2l4RWFxaDE0Wk9SQVbSAaIBQVVfeXFMTU5yb296Zm9iNXF3ODdLZkd5eTY2elZ2RFR6UnJFU2dzR0V4eTRiaDJqQ3g4VlEwYkczbV93c192djZBWmI2N05uLWVhT0FqSzJUQ28xV240TUVxeTlIMXA5TEZIQzdxMHhCT09ReWx0MV9uSThHSFptaE5GVmdmOERDZ1loUTVHc3p1RUhqMk5QRXh1aDZ5dHE5NERZbmFienhR?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the New York Jets win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-york-jets-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 11848,
+      "headlines": [
+        {
+          "title": "NBA tips off, with many contenders in place to chase the champion New York Knicks",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSWJDLVFkdmNTRDlZNzBJTjVHSlg2ZnNfcUl6TUhxZENxRE5nOTktbE9FTEI2TWxnRlN4TVNVdVk3TnRsTWRkZHMyN1VDeWcyZjN3NC1tcFg5ZmV5ZUNMM3F2TGxxeTFrY0ZrVHdLLThxSWgtS3FaVUVfdFAzcTNtcnd0NVd4dFFueW92VlJkd2Q5MFJNY09aQWZTdnl4SUg2bk93c2VSS1FfWnpvZkEyMExfUmt1RjJ4YlFIRWFfdXBXWTdZM0I5RzFiaHJ1TmZMZGUwX3dHQUdQc3h1SEFj?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Jets must fix their alarming 2-minute execution issues after they flare up again in loss to Patriots",
+          "source": "LancasterOnline",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObW1veWNLWkwzQ2VlanZKV3p4YXhuVUViU1k4VWpDR2xsc1lUR18wS2ZUNVE4NVFNVG9WN1YwVDVMazlsSU51WGxISy00cmNlbXpVY3RMZlhENUxZZ1dsZ1pueHR6cnNMT0Z4bFNFc3NQcms5MFoyNDJMWFlEY1NwVHhzb29mNDNrNkhfS0MyVkswWWhOMzBNQmlDVHBCRWhMaXFDRUFQbFhnSHlLTFJwR1MwVXpVTEFQcFh2dEhhdzVlQTJHWnBUcGhhcl9iQU5sUzhMdHZYOVM4VzluQ2N2UmdQWGhLdDBkdWViY1ZSUVA2NkV6M0Y2TG9mejVrSTBlQWZPamJGM3JZNVg2YlE?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -181,36 +133,72 @@
       "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 37,
-      "change24h": 18,
-      "vol24h": 32542,
+      "yes": 69,
+      "change24h": 53,
+      "vol24h": 42474,
       "headlines": []
     },
     {
       "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
-      "yes": 64,
-      "change24h": -17,
-      "vol24h": 23138,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,500 on October 21?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2500-on-october-21-2026",
-      "yes": 17,
-      "change24h": -5,
-      "vol24h": 19234,
+      "yes": 29,
+      "change24h": -53,
+      "vol24h": 34432,
       "headlines": []
     },
     {
       "question": "Will the price of Bitcoin be above $80,000 on October 21?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-21-2026",
-      "yes": 88,
-      "change24h": 5,
-      "vol24h": 8965,
+      "yes": 87,
+      "change24h": 15,
+      "vol24h": 11949,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "yes": 89,
+      "change24h": 14,
+      "vol24h": 13029,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 68,
+      "change24h": -12,
+      "vol24h": 19433,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 37,
+      "change24h": -10,
+      "vol24h": 26003,
+      "headlines": []
+    },
+    {
+      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
+      "yes": 20,
+      "change24h": -9,
+      "vol24h": 32019,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $78,000 on October 21?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-october-21-2026",
+      "yes": 98,
+      "change24h": 8,
+      "vol24h": 21584,
       "headlines": []
     }
   ]
