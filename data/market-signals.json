@@ -1,63 +1,47 @@
 {
-  "updated": "2026-10-20T02:23:23.836Z",
+  "updated": "2026-10-20T10:31:42.202Z",
   "withNews": [
     {
-      "question": "Another Fed rate hike in 2026?",
+      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 81,
-      "change24h": 3,
-      "vol24h": 12827,
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
+      "yes": 55,
+      "change24h": -10,
+      "vol24h": 37736,
       "headlines": [
         {
-          "title": "UBS explains how a looming Fed rate hike could impact your investments",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg?oc=5",
-          "cat": "Macro"
+          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
+          "source": "Toronto Star",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcUJuZlIxNTJHeDhna1dGWnlhVWlmUmtkcVVXMkluWjJSN25RUkE0N0JxTHdWRmg4NXEzbmVYNnJUTloxY0RZVjNsYXp0eUg3WEE4ZTFraGxPcVdwV0p0NzdEYUlwSE5Db2Q0d3hWTHZodjBBRVU4eVF6bV9KLXMtcFdCMU9Gb0xSaTV2eVp4clphTGNtVzZhTDhIV250b0dLTkFvWmswdVBubjF2N2NpX1hzdUVxVUhUWExtVUNjMGQ5TlZQcnlkaDltcEdLMmxoQTBxcUFyb3hpV3hMX1QxSEV1UHgtWVg4Ym5KdmRfaGRady1PYUxfR3pzaFdOUlp1bXduNnFYZHBkMUU?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-          "cat": "Macro"
+          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLS1rakVRTUp2bkFVMDVaeFVYWVg5UUZfdzVYNkpJUktXN0Z2cWlFeHU3eXlBNHF1NUpyTDF2X3hSWnZNMFh2MTRQZ1p5ekpYVnM3THR3cFRhSlFPb2xFREJkTEZGOExGd1djZmd2UWNmSUUtQWVuel92OVE3TUVOTGtILXE3NWUz?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-      "yes": 16,
-      "change24h": 3,
-      "vol24h": 11946,
-      "headlines": [
-        {
-          "title": "Commanders vs. 49ers Score, Live Updates: San Francisco Adds Three More",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUWo3ZGItU0l5TWdVSHJ2RU55N1NRbG0xQjJpaTZMRTdXcTR3VFhrUlJsU3R4RFd3MnpMNld4b21KYnVXVmdxU2Z3R3lfbm9ZaUp3U0o1T2JkNjNYem9DQjJvYUZUMEVSUjN0MzFEYl82a1ZaNXpDa0luZEdjRnVGREQxM3lma0cxQ3BXS2QxMHRiWFowbDhGVUJNaUhfRmtMRnRGRzlXM2c2by1VcVJsNkZPY1pNUFYzRmlr?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 86,
-      "change24h": -2,
-      "vol24h": 765184,
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
+      "yes": 44,
+      "change24h": 7,
+      "vol24h": 28711,
       "headlines": [
         {
-          "title": "UBS explains how a looming Fed rate hike could impact your investments",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg?oc=5",
-          "cat": "Macro"
+          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
+          "source": "Toronto Star",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcUJuZlIxNTJHeDhna1dGWnlhVWlmUmtkcVVXMkluWjJSN25RUkE0N0JxTHdWRmg4NXEzbmVYNnJUTloxY0RZVjNsYXp0eUg3WEE4ZTFraGxPcVdwV0p0NzdEYUlwSE5Db2Q0d3hWTHZodjBBRVU4eVF6bV9KLXMtcFdCMU9Gb0xSaTV2eVp4clphTGNtVzZhTDhIV250b0dLTkFvWmswdVBubjF2N2NpX1hzdUVxVUhUWExtVUNjMGQ5TlZQcnlkaDltcEdLMmxoQTBxcUFyb3hpV3hMX1QxSEV1UHgtWVg4Ym5KdmRfaGRady1PYUxfR3pzaFdOUlp1bXduNnFYZHBkMUU?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-          "cat": "Macro"
+          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLS1rakVRTUp2bkFVMDVaeFVYWVg5UUZfdzVYNkpJUktXN0Z2cWlFeHU3eXlBNHF1NUpyTDF2X3hSWnZNMFh2MTRQZ1p5ekpYVnM3THR3cFRhSlFPb2xFREJkTEZGOExGd1djZmd2UWNmSUUtQWVuel92OVE3TUVOTGtILXE3NWUz?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -66,8 +50,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 14,
-      "change24h": 2,
-      "vol24h": 736253,
+      "change24h": 3,
+      "vol24h": 649664,
       "headlines": [
         {
           "title": "UBS explains how a looming Fed rate hike could impact your investments",
@@ -84,93 +68,91 @@
       ]
     },
     {
-      "question": "Will the Arizona Cardinals win the 2027 NFL league championship?",
+      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-arizona-cardinals-win-the-2027-nfl-league-championship",
+      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 21018,
+      "vol24h": 20623,
       "headlines": [
         {
-          "title": "Every player from Arizona to play for the Brooklyn Nets - Alan Williams",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEE2eEJGNXVaeTFMVmRFMWZVVTRsU2NHSVhpUXMtX3ZJcVk1WlpNYTFtWTVzS09HV3dNT0duSXk5YWNlWThHdGhfVkozQ1ZCRkZnY3lrYWdTZ1A0TzdnWG9YOFVZZW5PTVF2eTJwUlBSTENfUklYU3l3ZjN4MFlWcHl5UVgxUzlaQVVr?oc=5",
-          "cat": "NBA"
+          "title": "How RB Audric Estime delivered for the Browns after his whirlwind of a week",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3FJXzVna1RWQVFkQlJSY3pqTmR1TU5pXzVieDdZbmc2cVE4TkpHTkp6NjR6anBMb1drbjlkY0pLRTVTWi1QcWNfT0xlSXViY2ZQUkVscjlRZmR3ZDdrdVVoWXFKYTY4N2VNMGlBUDhxU01wcFNhdDFUakVTWllteW1lb05GYk14eW9HdXBvQVdnMGlK?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Carolina Panthers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-carolina-panthers-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 16310,
+      "headlines": [
+        {
+          "title": "Panthers soon could have a surplus of offensive tackles. Why that’s a good thing",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmdrQk5hMzV0R3BJdGNoOWpoNTRlczlSTTJZYk5EUDg0VGJ3YzQ2OUpIY294cWcyRXA1TXdud2ZxQzU5MkxTWDFzZzRlOHhFYzVIMEJoRDNCTi01SEp4LW0wc0ppMUxiTmZtSWl2RnJ6dlhjaERjZVNRVVU1MGZFNUIzUmw1d2tudTZOVlFnanpvajA1bjhucjlKbnhWT3RIcU1ZTm5XSkNxVFNjbTRhYlRLTVdfRmc?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 76,
-      "change24h": 61,
-      "vol24h": 48846,
-      "headlines": []
-    },
-    {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
-      "yes": 24,
-      "change24h": -60,
-      "vol24h": 47532,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,500 on October 21?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2500-on-october-21-2026",
-      "yes": 9,
-      "change24h": -11,
-      "vol24h": 22216,
-      "headlines": []
-    },
-    {
       "question": "Tesla and SpaceX merger officially announced by December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 18,
-      "change24h": -10,
-      "vol24h": 25441,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 52,
-      "change24h": -9,
-      "vol24h": 23425,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 27,
-      "change24h": -8,
-      "vol24h": 80115,
+      "yes": 16,
+      "change24h": -11,
+      "vol24h": 24974,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $80,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 72,
-      "change24h": 8,
-      "vol24h": 27344,
+      "yes": 74,
+      "change24h": 11,
+      "vol24h": 14779,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 26,
+      "change24h": -8,
+      "vol24h": 72627,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $90,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
-      "yes": 14,
-      "change24h": -6,
-      "vol24h": 34181,
+      "yes": 13,
+      "change24h": -7,
+      "vol24h": 29823,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 40,
+      "change24h": 5,
+      "vol24h": 20765,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $92,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-92pt5k-in-october-2026",
+      "yes": 6,
+      "change24h": -5,
+      "vol24h": 9191,
       "headlines": []
     }
   ]
