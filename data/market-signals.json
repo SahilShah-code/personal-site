@@ -1,158 +1,147 @@
 {
-  "updated": "2026-10-20T10:31:42.202Z",
+  "updated": "2026-10-20T15:55:53.592Z",
   "withNews": [
-    {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
-      "yes": 55,
-      "change24h": -10,
-      "vol24h": 37736,
-      "headlines": [
-        {
-          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
-          "source": "Toronto Star",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcUJuZlIxNTJHeDhna1dGWnlhVWlmUmtkcVVXMkluWjJSN25RUkE0N0JxTHdWRmg4NXEzbmVYNnJUTloxY0RZVjNsYXp0eUg3WEE4ZTFraGxPcVdwV0p0NzdEYUlwSE5Db2Q0d3hWTHZodjBBRVU4eVF6bV9KLXMtcFdCMU9Gb0xSaTV2eVp4clphTGNtVzZhTDhIV250b0dLTkFvWmswdVBubjF2N2NpX1hzdUVxVUhUWExtVUNjMGQ5TlZQcnlkaDltcEdLMmxoQTBxcUFyb3hpV3hMX1QxSEV1UHgtWVg4Ym5KdmRfaGRady1PYUxfR3pzaFdOUlp1bXduNnFYZHBkMUU?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
-          "source": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLS1rakVRTUp2bkFVMDVaeFVYWVg5UUZfdzVYNkpJUktXN0Z2cWlFeHU3eXlBNHF1NUpyTDF2X3hSWnZNMFh2MTRQZ1p5ekpYVnM3THR3cFRhSlFPb2xFREJkTEZGOExGd1djZmd2UWNmSUUtQWVuel92OVE3TUVOTGtILXE3NWUz?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
     {
       "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 44,
-      "change24h": 7,
-      "vol24h": 28711,
+      "yes": 68,
+      "change24h": 27,
+      "vol24h": 22993,
       "headlines": [
         {
-          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
-          "source": "Toronto Star",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcUJuZlIxNTJHeDhna1dGWnlhVWlmUmtkcVVXMkluWjJSN25RUkE0N0JxTHdWRmg4NXEzbmVYNnJUTloxY0RZVjNsYXp0eUg3WEE4ZTFraGxPcVdwV0p0NzdEYUlwSE5Db2Q0d3hWTHZodjBBRVU4eVF6bV9KLXMtcFdCMU9Gb0xSaTV2eVp4clphTGNtVzZhTDhIV250b0dLTkFvWmswdVBubjF2N2NpX1hzdUVxVUhUWExtVUNjMGQ5TlZQcnlkaDltcEdLMmxoQTBxcUFyb3hpV3hMX1QxSEV1UHgtWVg4Ym5KdmRfaGRady1PYUxfR3pzaFdOUlp1bXduNnFYZHBkMUU?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "NBA to open season with 125 international players on rosters. France, Canada lead the way",
-          "source": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLS1rakVRTUp2bkFVMDVaeFVYWVg5UUZfdzVYNkpJUktXN0Z2cWlFeHU3eXlBNHF1NUpyTDF2X3hSWnZNMFh2MTRQZ1p5ekpYVnM3THR3cFRhSlFPb2xFREJkTEZGOExGd1djZmd2UWNmSUUtQWVuel92OVE3TUVOTGtILXE3NWUz?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 14,
-      "change24h": 3,
-      "vol24h": 649664,
-      "headlines": [
-        {
-          "title": "UBS explains how a looming Fed rate hike could impact your investments",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
           "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 20623,
+      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
+      "yes": 32,
+      "change24h": -26,
+      "vol24h": 36112,
       "headlines": [
         {
-          "title": "How RB Audric Estime delivered for the Browns after his whirlwind of a week",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3FJXzVna1RWQVFkQlJSY3pqTmR1TU5pXzVieDdZbmc2cVE4TkpHTkp6NjR6anBMb1drbjlkY0pLRTVTWi1QcWNfT0xlSXViY2ZQUkVscjlRZmR3ZDdrdVVoWXFKYTY4N2VNMGlBUDhxU01wcFNhdDFUakVTWllteW1lb05GYk14eW9HdXBvQVdnMGlK?oc=5",
-          "cat": "NFL"
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Carolina Panthers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-carolina-panthers-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 16310,
+      "question": "Will Ethereum dip to $2,300 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
+      "yes": 49,
+      "change24h": -15,
+      "vol24h": 14853,
       "headlines": [
         {
-          "title": "Panthers soon could have a surplus of offensive tackles. Why that’s a good thing",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmdrQk5hMzV0R3BJdGNoOWpoNTRlczlSTTJZYk5EUDg0VGJ3YzQ2OUpIY294cWcyRXA1TXdud2ZxQzU5MkxTWDFzZzRlOHhFYzVIMEJoRDNCTi01SEp4LW0wc0ppMUxiTmZtSWl2RnJ6dlhjaERjZVNRVVU1MGZFNUIzUmw1d2tudTZOVlFnanpvajA1bjhucjlKbnhWT3RIcU1ZTm5XSkNxVFNjbTRhYlRLTVdfRmc?oc=5",
-          "cat": "NFL"
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 57,
+      "change24h": -11,
+      "vol24h": 17714,
+      "headlines": [
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 30,
+      "change24h": -8,
+      "vol24h": 18808,
+      "headlines": [
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+      "yes": 57,
+      "change24h": -5,
+      "vol24h": 30539,
+      "headlines": [
+        {
+          "title": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3JVblVkYXdTS3A3dDViLUhDTEc3S3hpeXcxdWw3cXBEZnRtOThJTEY4bVNDMmU0b0d5NllHTmFsaG1tQ1lCWE04VmM3dnA5S1lZSk40cXVXTnRZT05rQjMwbXBuTGRBT0ZkNHhXemlUSHZwRHZIR2xmbG8tdHVaNDBFNTB2c04wU3dGcF9fRnJUQ1g3aldMY1FEbFFJMTR0R1A1R3drOUdJUXQtM0txbzBzTzZ1WnptSllYU2c2VTh6MmtTSllkU0ZpZWRSVFhIWmxFQTIyakwzdw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Tesla and SpaceX merger officially announced by December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
-      "yes": 16,
-      "change24h": -11,
-      "vol24h": 24974,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 74,
-      "change24h": 11,
-      "vol24h": 14779,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 26,
-      "change24h": -8,
-      "vol24h": 72627,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
-      "yes": 13,
-      "change24h": -7,
-      "vol24h": 29823,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 40,
-      "change24h": 5,
-      "vol24h": 20765,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $92,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-92pt5k-in-october-2026",
-      "yes": 6,
-      "change24h": -5,
-      "vol24h": 9191,
+      "question": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Nigeria vs Gambia",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-nga-gmb-2026-10-20",
+      "yes": 100,
+      "change24h": 4,
+      "vol24h": 21252,
       "headlines": []
     }
   ]
