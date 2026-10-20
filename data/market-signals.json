@@ -1,122 +1,100 @@
 {
-  "updated": "2026-10-19T21:47:54.008Z",
+  "updated": "2026-10-20T02:23:23.836Z",
   "withNews": [
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 85,
-      "change24h": -2,
-      "vol24h": 813006,
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 81,
+      "change24h": 3,
+      "vol24h": 12827,
       "headlines": [
+        {
+          "title": "UBS explains how a looming Fed rate hike could impact your investments",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Will the Fed Raise Rates This Month? Here's What Markets Say.",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUW9FNFRjZFpiTjh5MHpZVWtBbjRQdlU4RWtManJTSmN4a3p0SmRjSWhPX2lUbUhEMkZIbWdxUFp0dldlQ1pmanRfWFRxNmI3LWEtM1VfN2prOWRVZHdRV2NOOEotOUo0OF8wX0xucG9oc0VGdU9kN3JlTUV4UnRZeVBDNDZhaG5zOHFmM1pmR2Fqdlc2Wkh3?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 20,
-      "change24h": -2,
-      "vol24h": 73054,
+      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
+      "yes": 16,
+      "change24h": 3,
+      "vol24h": 11946,
       "headlines": [
         {
-          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Will the Fed Raise Rates This Month? Here's What Markets Say.",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUW9FNFRjZFpiTjh5MHpZVWtBbjRQdlU4RWtManJTSmN4a3p0SmRjSWhPX2lUbUhEMkZIbWdxUFp0dldlQ1pmanRfWFRxNmI3LWEtM1VfN2prOWRVZHdRV2NOOEotOUo0OF8wX0xucG9oc0VGdU9kN3JlTUV4UnRZeVBDNDZhaG5zOHFmM1pmR2Fqdlc2Wkh3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 65,
-      "change24h": 2,
-      "vol24h": 18013,
-      "headlines": [
-        {
-          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Will the Fed Raise Rates This Month? Here's What Markets Say.",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUW9FNFRjZFpiTjh5MHpZVWtBbjRQdlU4RWtManJTSmN4a3p0SmRjSWhPX2lUbUhEMkZIbWdxUFp0dldlQ1pmanRfWFRxNmI3LWEtM1VfN2prOWRVZHdRV2NOOEotOUo0OF8wX0xucG9oc0VGdU9kN3JlTUV4UnRZeVBDNDZhaG5zOHFmM1pmR2Fqdlc2Wkh3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 38039,
-      "headlines": [
-        {
-          "title": "Caleb Williams provides another reminder of his importance to the Chicago Bears",
-          "source": "LancasterOnline",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdHo5T0tKYVVxbVgxaDhwVENnSUtGcVk3d1hmeHZCM1lPcjl4TThRcVk0SEVTX0Q3UnVoSzV2MnpVVjU1dmNjYWxZR01XV3RIU1FleUhUbk10TU9HQS1KdlRESmw5azF2NURJMmNadF9hUk94cS1Ldnl4Sjg4dXJaQjY3MUtqa3lsQkJjLWxiM3hmaHJ1RnpncGJHWUEyYkhPVW9oMTdPSXNwZWFtYUZFTU9jQlRTSVpTSE1jZ2RyMF93ejhjTU5nUTRHSW1mVFRvdVNwdVM3SFduWUd0bTlJWWs5dVBCekxIdjU2YjB0TFhmbjg3cC1MQ2dGbDczS3N3MHF2QzNidk0?oc=5",
+          "title": "Commanders vs. 49ers Score, Live Updates: San Francisco Adds Three More",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUWo3ZGItU0l5TWdVSHJ2RU55N1NRbG0xQjJpaTZMRTdXcTR3VFhrUlJsU3R4RFd3MnpMNld4b21KYnVXVmdxU2Z3R3lfbm9ZaUp3U0o1T2JkNjNYem9DQjJvYUZUMEVSUjN0MzFEYl82a1ZaNXpDa0luZEdjRnVGREQxM3lma0cxQ3BXS2QxMHRiWFowbDhGVUJNaUhfRmtMRnRGRzlXM2c2by1VcVJsNkZPY1pNUFYzRmlr?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will LeBron James retire before next NBA season?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-lebron-james-retire-before-next-nba-season",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 21124,
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 86,
+      "change24h": -2,
+      "vol24h": 765184,
       "headlines": [
         {
-          "title": "LeBron James' move to Philadelphia makes 76ers the betting favorite out of the East",
-          "source": "Seattlepi.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3d1ZXp0M0EyNml3RlVyZEZZNHVQS3loQ3RVNURfWHprRzJTZ3FIWWk5cmxiTzJlUkxCZTRWZ0dPZkZxcDNZS1F6LW54YjNJdjUyUjYtR2hvV1JFcE8xWjJLMlVxTnIzaWQxTFdmZ3Q2a3ZWVjRVcFJRMUxvWVRRSVVMdktKdWE3dzdJdWlCVWd1QQ?oc=5",
-          "cat": "NBA"
+          "title": "UBS explains how a looming Fed rate hike could impact your investments",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Lakers waive Dalton Knecht, will retain Bronny James",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3pMSUNtdDVuNy11T0M2eVpfS05XcWtfMmM2MURVWVFBLUFMMkVtSV9EeEc2VDF3U0E0cE5FZzV2TnViS0xqUHAwMHBMRTc4eTBYVC1MVGRfYjhvYktLbGNUTW1EOHl3Z1ByU2Rzc0FvOVNTMWJCYmpiLVlXMERxS0RKeVRITGxtVTRpVmI0LU91MWRmZUctUnQ3RnA5SzBGcXVlSg?oc=5",
-          "cat": "NBA"
+          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 14875,
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 14,
+      "change24h": 2,
+      "vol24h": 736253,
       "headlines": [
         {
-          "title": "LeBron James' move to Philadelphia makes 76ers the betting favorite out of the East",
-          "source": "Seattlepi.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3d1ZXp0M0EyNml3RlVyZEZZNHVQS3loQ3RVNURfWHprRzJTZ3FIWWk5cmxiTzJlUkxCZTRWZ0dPZkZxcDNZS1F6LW54YjNJdjUyUjYtR2hvV1JFcE8xWjJLMlVxTnIzaWQxTFdmZ3Q2a3ZWVjRVcFJRMUxvWVRRSVVMdktKdWE3dzdJdWlCVWd1QQ?oc=5",
+          "title": "UBS explains how a looming Fed rate hike could impact your investments",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmJYb0p3dGtPM05jNU0zczRGdGdlQnZDMk9ubktRMXJCcWNrbHdYQjlYY01rVjBKeFB2SmJxOG14QXBmbS0yQ1hscnFmb2NjTXQxRXpHUE9MQkNGV3pUZzY1YWNfaG1MMEFqTjJlMUxrYkE0cW5LdVJrSmYyTGV2Sg?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Arizona Cardinals win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-arizona-cardinals-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 21018,
+      "headlines": [
+        {
+          "title": "Every player from Arizona to play for the Brooklyn Nets - Alan Williams",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWEE2eEJGNXVaeTFMVmRFMWZVVTRsU2NHSVhpUXMtX3ZJcVk1WlpNYTFtWTVzS09HV3dNT0duSXk5YWNlWThHdGhfVkozQ1ZCRkZnY3lrYWdTZ1A0TzdnWG9YOFVZZW5PTVF2eTJwUlBSTENfUklYU3l3ZjN4MFlWcHl5UVgxUzlaQVVr?oc=5",
           "cat": "NBA"
         }
       ]
@@ -127,36 +105,27 @@
       "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 72,
-      "change24h": 57,
-      "vol24h": 42715,
+      "yes": 76,
+      "change24h": 61,
+      "vol24h": 48846,
       "headlines": []
     },
     {
       "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
-      "yes": 27,
-      "change24h": -57,
-      "vol24h": 39481,
+      "yes": 24,
+      "change24h": -60,
+      "vol24h": 47532,
       "headlines": []
     },
     {
-      "question": "Will the price of Bitcoin be above $80,000 on October 21?",
+      "question": "Will the price of Ethereum be above $2,500 on October 21?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-october-21-2026",
-      "yes": 90,
-      "change24h": 19,
-      "vol24h": 10415,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 66,
-      "change24h": -13,
-      "vol24h": 20621,
+      "url": "https://polymarket.com/event/ethereum-above-2500-on-october-21-2026",
+      "yes": 9,
+      "change24h": -11,
+      "vol24h": 22216,
       "headlines": []
     },
     {
@@ -164,35 +133,44 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
       "yes": 18,
-      "change24h": -11,
-      "vol24h": 32741,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 36,
-      "change24h": -11,
-      "vol24h": 20884,
+      "change24h": -10,
+      "vol24h": 25441,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 56,
-      "change24h": 9,
-      "vol24h": 27308,
+      "yes": 52,
+      "change24h": -9,
+      "vol24h": 23425,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $75,000 in October?",
+      "question": "Will Bitcoin reach $87,500 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-october-2026",
-      "yes": 19,
-      "change24h": -9,
-      "vol24h": 23415,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 27,
+      "change24h": -8,
+      "vol24h": 80115,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 72,
+      "change24h": 8,
+      "vol24h": 27344,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
+      "yes": 14,
+      "change24h": -6,
+      "vol24h": 34181,
       "headlines": []
     }
   ]
