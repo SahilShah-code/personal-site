@@ -1,25 +1,69 @@
 {
-  "updated": "2026-10-20T15:55:53.592Z",
+  "updated": "2026-10-20T20:57:33.093Z",
   "withNews": [
     {
-      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 68,
-      "change24h": 27,
-      "vol24h": 22993,
+      "question": "Will Ethereum dip to $2,300 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
+      "yes": 45,
+      "change24h": -16,
+      "vol24h": 15173,
       "headlines": [
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
+          "source": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed to skip October but raise rates again in December, nearly all economists say",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 54,
+      "change24h": -14,
+      "vol24h": 16633,
+      "headlines": [
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
+          "source": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $84,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-19-25-2026",
+      "yes": 68,
+      "change24h": 13,
+      "vol24h": 16388,
+      "headlines": [
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
+          "source": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -28,121 +72,67 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
       "yes": 32,
-      "change24h": -26,
-      "vol24h": 36112,
+      "change24h": 5,
+      "vol24h": 28509,
       "headlines": [
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
+          "source": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Fed to skip October but raise rates again in December, nearly all economists say",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,300 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
-      "yes": 49,
-      "change24h": -15,
-      "vol24h": 14853,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 57,
-      "change24h": -11,
-      "vol24h": 17714,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 30,
-      "change24h": -8,
-      "vol24h": 18808,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 57,
-      "change24h": -5,
-      "vol24h": 30539,
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
+      "yes": 67,
+      "change24h": -3,
+      "vol24h": 21701,
       "headlines": [
         {
-          "title": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3JVblVkYXdTS3A3dDViLUhDTEc3S3hpeXcxdWw3cXBEZnRtOThJTEY4bVNDMmU0b0d5NllHTmFsaG1tQ1lCWE04VmM3dnA5S1lZSk40cXVXTnRZT05rQjMwbXBuTGRBT0ZkNHhXemlUSHZwRHZIR2xmbG8tdHVaNDBFNTB2c04wU3dGcF9fRnJUQ1g3aldMY1FEbFFJMTR0R1A1R3drOUdJUXQtM0txbzBzTzZ1WnptSllYU2c2VTh6MmtTSllkU0ZpZWRSVFhIWmxFQTIyakwzdw?oc=5",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
+          "source": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
           "cat": "Macro"
         },
         {
           "title": "Fed to skip October but raise rates again in December, nearly all economists say",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 86,
+      "change24h": 1,
+      "vol24h": 628937,
+      "headlines": [
+        {
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
+          "source": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
           "cat": "Macro"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Nigeria vs Gambia",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-nga-gmb-2026-10-20",
-      "yes": 100,
-      "change24h": 4,
-      "vol24h": 21252,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
