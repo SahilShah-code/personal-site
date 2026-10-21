@@ -1,112 +1,50 @@
 {
-  "updated": "2026-10-21T10:44:31.722Z",
+  "updated": "2026-10-21T16:12:43.191Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $84,000 October 19-25?",
+      "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-19-25-2026",
-      "yes": 80,
-      "change24h": 36,
-      "vol24h": 18560,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
+      "yes": 91,
+      "change24h": 34,
+      "vol24h": 59898,
       "headlines": [
         {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
-          "source": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Rate Decision: 94 of 100 Economists Expect October Pause, December Hike Looms",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczc3WUUxUFFkRXdIYXA2UWR3VmVVS20xeExYcFF6S3lkMUtRLTJ4WkMtU0xCT1p2Q3hCaXBRRnQ2QzczMHRPRXlrZkVTcHpVWDdoZEhTNndOLWtTb2d4ek9QbUdkTnE4eFBBdmRZQ2NLcUV4eUV3azFQdWVSRU5rX0NjR25aUTdtbjl2VW13RUxtZ2N4LVdpV2NpbkZpQjRwbDFYY1ZUeWRWTlE?oc=5",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,300 in October?",
+      "question": "Will Bitcoin reach $86,000 October 19-25?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-in-october-2026",
-      "yes": 41,
-      "change24h": -26,
-      "vol24h": 15009,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-october-19-25-2026",
+      "yes": 56,
+      "change24h": 32,
+      "vol24h": 29143,
       "headlines": [
         {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
-          "source": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Rate Decision: 94 of 100 Economists Expect October Pause, December Hike Looms",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczc3WUUxUFFkRXdIYXA2UWR3VmVVS20xeExYcFF6S3lkMUtRLTJ4WkMtU0xCT1p2Q3hCaXBRRnQ2QzczMHRPRXlrZkVTcHpVWDdoZEhTNndOLWtTb2d4ek9QbUdkTnE4eFBBdmRZQ2NLcUV4eUV3azFQdWVSRU5rX0NjR25aUTdtbjl2VW13RUxtZ2N4LVdpV2NpbkZpQjRwbDFYY1ZUeWRWTlE?oc=5",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $77,500 in October?",
+      "question": "Will Bitcoin dip to $80,000 October 19-25?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 21,
-      "change24h": -20,
-      "vol24h": 16389,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
+      "yes": 11,
+      "change24h": -29,
+      "vol24h": 22327,
       "headlines": [
         {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
-          "source": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Rate Decision: 94 of 100 Economists Expect October Pause, December Hike Looms",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczc3WUUxUFFkRXdIYXA2UWR3VmVVS20xeExYcFF6S3lkMUtRLTJ4WkMtU0xCT1p2Q3hCaXBRRnQ2QzczMHRPRXlrZkVTcHpVWDdoZEhTNndOLWtTb2d4ek9QbUdkTnE4eFBBdmRZQ2NLcUV4eUV3azFQdWVSRU5rX0NjR25aUTdtbjl2VW13RUxtZ2N4LVdpV2NpbkZpQjRwbDFYY1ZUeWRWTlE?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 72,
-      "change24h": 19,
-      "vol24h": 23536,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
-          "source": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Rate Decision: 94 of 100 Economists Expect October Pause, December Hike Looms",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczc3WUUxUFFkRXdIYXA2UWR3VmVVS20xeExYcFF6S3lkMUtRLTJ4WkMtU0xCT1p2Q3hCaXBRRnQ2QzczMHRPRXlrZkVTcHpVWDdoZEhTNndOLWtTb2d4ek9QbUdkTnE4eFBBdmRZQ2NLcUV4eUV3azFQdWVSRU5rX0NjR25aUTdtbjl2VW13RUxtZ2N4LVdpV2NpbkZpQjRwbDFYY1ZUeWRWTlE?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
-      "yes": 28,
-      "change24h": -17,
-      "vol24h": 19169,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
-          "source": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Rate Decision: 94 of 100 Economists Expect October Pause, December Hike Looms",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczc3WUUxUFFkRXdIYXA2UWR3VmVVS20xeExYcFF6S3lkMUtRLTJ4WkMtU0xCT1p2Q3hCaXBRRnQ2QzczMHRPRXlrZkVTcHpVWDdoZEhTNndOLWtTb2d4ek9QbUdkTnE4eFBBdmRZQ2NLcUV4eUV3azFQdWVSRU5rX0NjR25aUTdtbjl2VW13RUxtZ2N4LVdpV2NpbkZpQjRwbDFYY1ZUeWRWTlE?oc=5",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -115,42 +53,36 @@
       "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
       "topic": "Biotech",
       "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 53,
-      "change24h": -14,
-      "vol24h": 10864,
+      "yes": 63,
+      "change24h": -4,
+      "vol24h": 17824,
       "headlines": [
         {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
-          "source": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Rate Decision: 94 of 100 Economists Expect October Pause, December Hike Looms",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczc3WUUxUFFkRXdIYXA2UWR3VmVVS20xeExYcFF6S3lkMUtRLTJ4WkMtU0xCT1p2Q3hCaXBRRnQ2QzczMHRPRXlrZkVTcHpVWDdoZEhTNndOLWtTb2d4ek9QbUdkTnE4eFBBdmRZQ2NLcUV4eUV3azFQdWVSRU5rX0NjR25aUTdtbjl2VW13RUxtZ2N4LVdpV2NpbkZpQjRwbDFYY1ZUeWRWTlE?oc=5",
-          "cat": "Macro"
+          "title": "Jemperli FDA Approval Could Expand AnaptysBio Stock Royalty Potential",
+          "source": "Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVVoyekYwNnctS0RKQUFLUm84dWFoTHVaY01XU1BxT1BNbWZiX21CdVRrbmV2MTRoZEEwa3RIZHFwM01xb05vMWoxUENkTDI5NlFlV3g5VllDbURTSmh4ZS1PX2l6Q0hjb0hYcWlTNzhsOVNRYVZBWUJrU0hHNEZka0NVMktfWjI4SXpzbERCNDZaWkZvMzJrVGhxSzVBWnN5UEFHZWtib1RMZnFiWTZGVm5Fc1lLRmRCb1lhUm16eTM0YmJ3Ukw2dWxXNnZ1MU91SjFQVWc0VWJlaG_SAeABQVVfeXFMTVFqSm9rYnNGQlZENGVxRkNrRkZmRG5sdWx5bGVlV2hoVDRTT2NFWlBNcVFjTWYwMmhKNzF3R2c5VzhTUmRURGduUk44bHU2UkNrem9jdThEY19hczBpOTlXdWItX2pDR2FpbWNFTGhZU0JEemQ5cDBVOTNIblpKdU9GZ0VVWjJvT0Q0MzcxeEM0Zk5xTDJqdkZCNVp6N2hTWEZyZ0xxRkdCYV9aWUFNSEhqWG8tQ0JSX1JSOUxmcE9KR1NkZ1lpR1FoLWNVbmN6cmdHOWg5NlBsN3ZXalNFeUE?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 60,
-      "change24h": -4,
-      "vol24h": 13619,
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
+      "yes": 72,
+      "change24h": 4,
+      "vol24h": 15667,
       "headlines": [
         {
-          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
-          "source": "Forex Factory",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONWVoMXRWaEQtV2FwZDRva3VnemxBWEMyTk5nT21PQUFxQ1hMWFFzdGdrSDR3V2VEV0M0bk52VVhTeHZWQnR1YXBzSkcyV2czWi1SMW00ei1lZkVLZEY0M3dTdzVBVnctRkFoQVRCb1Z2YWJVOU5nUWFNSVJkMEUzdEVhTWZfMG1mSzhn0gGQAUFVX3lxTE1EcmI2aURCVFVQZ3NtdWx2S20tMmJkcjNNRVF6cDFuZi1LaXR4UjR0cXprT2VOWjM1VzBicklYaHJCOG5YRVJUWTlZTmZPSGtZM1FmMWxMZ292Rk1OUGxhcHk2YTRQdFVfRFlmYVFwR3hjU3hJdWxwOHhXS20temtzbk5vaEp2OFZwbW9YclpTeA?oc=5",
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -161,61 +93,111 @@
       "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
       "yes": 23,
       "change24h": 3,
-      "vol24h": 106994,
+      "vol24h": 144666,
       "headlines": [
         {
-          "title": "\"If he was 6'5,'' he'd be looting stores in France\" - NBA fans show no mercy to Victor Wembanyama after nightmare performance against Thunder",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbTBISnJva1hsTFpSMVlCd0JzQ2JJYTJfXzV4WDVvckV2QjNFWmN5cFNrLURVOVFzVEFvZXhJZmJZX2VXd0Z5VE8wOXhScHR3U083NnlWTG5ZN1JxUWU2WVlwcFJEeFN1YTJNR1UxbEctMXRybWhKRl9sRi13WWJYWkItUW54VFVGVmRMcDFIbU0xYlVQcmFaTUdQdlZXVEhpMEloc0J5LV9LSWx4TFZTRE9mQ0F4UW1ySnVkbUU0RUdnRnR5Y1U1aUcwRWF0Zw?oc=5",
+          "title": "7-foot-3 Aday Mara had eye-opening NBA debut as Thunder hold Victor Wembanyama to career-worst game",
+          "source": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZU11WGE4VUFiZjBkc2JucG53bWdrSHY4QzdhTWRKeXdRU2w1dVl6a0M2ZWoyUHVjM3ZyLUVpeGlVMUc4LXNjZnBBTGEtY3V4Q19rOUwzaks0UXFYMkNFQTZiMlRXRmUxR0VKMU9hRTlUWjdydmYtUEdpcG5YRXNyd3FaN0NRMEdXOUIyWEp1TVA2NDdmc1lDeC1PN2U5SFJSUW91Um55VHhIMVpNTUJmN3hHTU41Vml6RzhWclZmTkM4NnB3UXZB?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "PATRICK MAHOMES AND UNDEFEATED KANSAS CITY CHIEFS VISIT SAM DARNOLD AND SEATTLE SEAHAWKS IN WEEK 7 EDITION OF SUNDAY NIGHT FOOTBALL ON NBC, PEACOCK AND UNIVERSO",
+          "source": "NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXIwdTc1SDh2em9Fbk9XVVgyLUdTTUVhaUhBUDBSV3RvTVFUUVRCR2Rac3BYa3pxbXpUdU41eV9rR0d0VGdTNmZha20xc3pVSklUVGw4N0RvdTJrOWRMRER5TWlVMUlMY3FIenM4WWpCU2JEakJhWmpiNFhZTXJpUXdPSjMzbkQtNUwtclBESkV1cXYtRm5Lb1JSVlJQLWlVM0lLQ3VYNFJLNE9XdnVZemdlUlBqM2M5aUVkc0VPUEEwdDU4ZHJPZXVnXzFVdUdaZ2FUbWRLMXItaWNubzNjWXBLY05MQWRiV0VhUWZnWC01Vk1sU2kxa0RZTE12MFAwTWY3UVdSVTZsLTJfWXFoT0ROOG42ZVg0VXpmQUJORjhtMjVZenpnc2N5WncwVDRBc3E0?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 79,
+      "change24h": 1,
+      "vol24h": 23862,
+      "headlines": [
+        {
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3JVblVkYXdTS3A3dDViLUhDTEc3S3hpeXcxdWw3cXBEZnRtOThJTEY4bVNDMmU0b0d5NllHTmFsaG1tQ1lCWE04VmM3dnA5S1lZSk40cXVXTnRZT05rQjMwbXBuTGRBT0ZkNHhXemlUSHZwRHZIR2xmbG8tdHVaNDBFNTB2c04wU3dGcF9fRnJUQ1g3aldMY1FEbFFJMTR0R1A1R3drOUdJUXQtM0txbzBzTzZ1WnptSllYU2c2VTh6MmtTSllkU0ZpZWRSVFhIWmxFQTIyakwzdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 19,
+      "change24h": -1,
+      "vol24h": 21048,
+      "headlines": [
+        {
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3JVblVkYXdTS3A3dDViLUhDTEc3S3hpeXcxdWw3cXBEZnRtOThJTEY4bVNDMmU0b0d5NllHTmFsaG1tQ1lCWE04VmM3dnA5S1lZSk40cXVXTnRZT05rQjMwbXBuTGRBT0ZkNHhXemlUSHZwRHZIR2xmbG8tdHVaNDBFNTB2c04wU3dGcF9fRnJUQ1g3aldMY1FEbFFJMTR0R1A1R3drOUdJUXQtM0txbzBzTzZ1WnptSllYU2c2VTh6MmtTSllkU0ZpZWRSVFhIWmxFQTIyakwzdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 52018,
+      "headlines": [
+        {
+          "title": "Cleveland Cavaliers ranked last in NBA for TV broadcast accessibility",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTZiSWVJb05mV3dwdHFyV0I5SkpMYUNqbzVVajF5RDF3clpfT0ljSzdGai1wQ0VPWVExNUlETElzdW1FUHhOTGowN3FFYTZIcFlVX0dvaTloZFB3Q3FOYmZsQ1dKTlZaUDRvZlEwZWhpUXRESmc2UzhyTUJCVW9qUDhVUWZzbHhkMXJXdQ?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Orlando Magic win the 2027 NBA Finals?",
+      "question": "Will Washington Wizards win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 87833,
+      "vol24h": 19627,
       "headlines": [
         {
-          "title": "Orlando Pride’s playoff hopes are over. Can they regroup and rediscover their 2024 winning formula?",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOT0hsWHd2aTM3YzI3NlE1dDMtcExmUEVTYUVLeGpjUWx5eU9aTVZ6d0FsRDZ0c3ZNTF9HSml2YXRWN3V5NktvQjl4X1FFR1hEdDFaNGZ1blpIMmhOenEtd1JzRFh1ZHBIUU9PZ2tRdDFzeF80MWZIZEV5eUdpdnJYNVhTcTM4UWM?oc=5",
-          "cat": "World Cup"
+          "title": "Washington Wizards to kick off basketball season against Milwaukee Bucks",
+          "source": "DC News Now",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUllPR1lyLW9pNGV4amFNTHdZRFhPOEo3d0pEMWVYNHZldTQ1MVVZWTl6Q2lnaFlYT3pzNERGcDFUbG11bGJtRFhjaWVpLVpfa0JLRExDWTZKd2pwb055TjhKclZJLTd1WGYzdFdEZWJCMGMxZzgxNXVjZnBibHJTQmtramo3RGI0MUU1T1BaOGd0MDBGQkhkMUVoZ0VKUzYyZUFDYjVQUExFVHlGaVhZZUs0VmRBaHZxZ0c0RDF1eWNDUVdPMFN5d2NsM3FMZWZkOHB6SnNNaFdUYnEteVJ6aGNvTdIB6AFBVV95cUxNUDRYeXdnN3JFXzdFT1JVRnNMRkZ2OGE3Y3A4WEVFUkx6Wm9uWmt5Nl9wc0FsOS1jNkdZWTduR2ZrQmtlRkxBN2loMm10QUF6Y3RSODA0c21DTEN3c3pIMnZzUUR4MHpJcGJJWVNVSWFzcFQyZnFETnhqNFJzaWNiSTFJc1dGZHpjTVdQRGRyYjF1Y0hRQ2pObG1xb2ZLV2tBLUpscGhCNlZjNGVpRmpMM2RScTg5T2ZRbkxCSzZaNEltcEV2SXY5cFVZb1hGaTlTTXF0b1VSQk51WGlRNXJKN1h5SGN6TnFs?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 77421,
-      "headlines": [
-        {
-          "title": "‘I Don’t Know That He Could Be Great There,’ ‘Ceiling’s Low’ — Denver Columnist Identifies One Major Roadblock to Peyton Manning Becoming Colts GM",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56RVRVSHhBQUtNTnRKS1I4c01GazF1YjJlaVhWOUplUVVwM1BrRkhRNTRsanpDWTVkVkloX29zdzViUjNJMlY0UmlDSEVIb2ItVXRDeXBEMzdLZ2FPYk9xVDh6VDR5VUVDZHFqLUFLbGg3d1pRUXNTZ2VBYw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Philadelphia Eagles win the 2027 NFL league championship?",
+      "question": "Will the Cleveland Browns win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-philadelphia-eagles-win-the-2027-nfl-league-championship",
+      "url": "https://polymarket.com/event/will-the-cleveland-browns-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 29890,
+      "vol24h": 18935,
       "headlines": [
         {
-          "title": "Jalen Hurts’ recovery comes first. What’s next for his Eagles future?",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlZJS3JPRUhlamZyejZ0V3BrVllxMXprV2lYNmMzUjNFOFRPa0RxTm1lTHBMd1o2VTVxUi1QdkxrbnRlTjZEWWZreXJSZjk2QjhfTmM2ZlYzQjQ2eGRIM3FpRVBxN09oZzFySU5fU1VwdF9pLUp3S3lnVEVXSDJUX2RvNGlzbFBKMUJ1S3Y1M3k4WFdC?oc=5",
-          "cat": "NFL"
+          "title": "Cleveland Cavaliers ranked last in NBA for TV broadcast accessibility",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTZiSWVJb05mV3dwdHFyV0I5SkpMYUNqbzVVajF5RDF3clpfT0ljSzdGai1wQ0VPWVExNUlETElzdW1FUHhOTGowN3FFYTZIcFlVX0dvaTloZFB3Q3FOYmZsQ1dKTlZaUDRvZlEwZWhpUXRESmc2UzhyTUJCVW9qUDhVUWZzbHhkMXJXdQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
@@ -225,9 +207,18 @@
       "question": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Mozambique vs Gambia",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/crint-moz-gmb-2026-10-21",
-      "yes": 88,
-      "change24h": 20,
-      "vol24h": 12361,
+      "yes": 100,
+      "change24h": 38,
+      "vol24h": 16452,
+      "headlines": []
+    },
+    {
+      "question": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Zambia vs Nigeria",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-zmb-nga-2026-10-21",
+      "yes": 0,
+      "change24h": -17,
+      "vol24h": 14212,
       "headlines": []
     }
   ]
