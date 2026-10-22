@@ -1,13 +1,29 @@
 {
-  "updated": "2026-10-22T16:11:08.232Z",
+  "updated": "2026-10-22T20:55:59.583Z",
   "withNews": [
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 57,
+      "change24h": -16,
+      "vol24h": 19590,
+      "headlines": [
+        {
+          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 94,
-      "change24h": 7,
-      "vol24h": 865889,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 28,
+      "change24h": -12,
+      "vol24h": 44168,
       "headlines": [
         {
           "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
@@ -24,12 +40,12 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 7,
-      "change24h": -7,
-      "vol24h": 502406,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+      "yes": 68,
+      "change24h": 12,
+      "vol24h": 31570,
       "headlines": [
         {
           "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
@@ -50,8 +66,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
       "yes": 36,
-      "change24h": 6,
-      "vol24h": 67762,
+      "change24h": 8,
+      "vol24h": 69558,
       "headlines": [
         {
           "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
@@ -62,12 +78,12 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 74,
-      "change24h": -5,
-      "vol24h": 53469,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 94,
+      "change24h": 7,
+      "vol24h": 1242079,
       "headlines": [
         {
           "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
@@ -84,12 +100,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 14,
-      "change24h": 3,
-      "vol24h": 18156,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 8,
+      "change24h": 2,
+      "vol24h": 253009,
       "headlines": [
         {
           "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
@@ -100,81 +116,17 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 22,
-      "change24h": -3,
-      "vol24h": 15885,
-      "headlines": [
-        {
-          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
-      "yes": 6,
-      "change24h": -1,
-      "vol24h": 42470,
-      "headlines": [
-        {
-          "title": "Mitchell Robinson rips own performance in Celtics debut: ‘I played like a–‘",
-          "source": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0xtYVhPZWxEMTBYVW5oYWRIMXA3eTBRYkdaSFdvRnNGQXVvejlfTGdHdWhIeDBpc3VMNHk0cVF6V2IzTUhxR3B4NHd6SXFDWnFLM1RMbDJlaHpQcnZwX2lzODJfSFNneDFJWm9YZ0RGblRtR1BpU1ZaZWFlUTRnVVpHSHJyNmtkV0s1MjZnaEhtMDVSbC1CQ0FJS0JWMzJZWkJ3NUdZTEJnaGxreVF6WFBn?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Houston Rockets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
-      "yes": 3,
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 27954,
+      "vol24h": 42828,
       "headlines": [
         {
-          "title": "Spurs vs. Rockets: How to watch the game, who's starting, who's out",
-          "source": "San Antonio Express-News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWh4MkFYQWpSb19TSWlHZ042V0hnUUxxRTV5ci0xc0FlSTA4RWVHN0k2ZVpkbmFhZ1RfeklxT2xQdy1qREFVclBMbm50Y0IwX2xXQVl0V0VrcGJ5SmJrQ0FseXNTdWV4YzdWNDFHQzdvV2pEOGw1RWxfajBsdEZlcEgtS3FlSTl5ZE5UeXktWnFkWWxqdUNsM0pBTVJ0Z2s?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the New England Patriots win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 23608,
-      "headlines": [
-        {
-          "title": "What channel is Thursday Night Football on? Patriots vs Bears TV, time",
+          "title": "Warriors Rookie Yaxel Lendeborg Sparks Drama With Luka Doncic After Heated NBA Debut",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ2RKM3Y0OVNFNkZibHJXM253bllncVlkUWRBTHVTTmpuRk8wZXBDRHFBdmNnbC1ZN1d3QTRmRE5kdW5SRFdzVncxNkdwejI5eGRxSXFMZjZMR3VaRGZHckU2YmlBTzRqMzFOa2xpcmNYWDRfbWVKT1l0TGdaUmpPTERsUHk3SkdnRGs1cndobThoeEk?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
-      "yes": 20,
-      "change24h": 0,
-      "vol24h": 21314,
-      "headlines": [
-        {
-          "title": "Spurs vs. Rockets: How to watch the game, who's starting, who's out",
-          "source": "San Antonio Express-News",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWh4MkFYQWpSb19TSWlHZ042V0hnUUxxRTV5ci0xc0FlSTA4RWVHN0k2ZVpkbmFhZ1RfeklxT2xQdy1qREFVclBMbm50Y0IwX2xXQVl0V0VrcGJ5SmJrQ0FseXNTdWV4YzdWNDFHQzdvV2pEOGw1RWxfajBsdEZlcEgtS3FlSTl5ZE5UeXktWnFkWWxqdUNsM0pBTVJ0Z2s?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGpNZ2hEY3pneDNaNGhsdFB2NjNWbVAtR0EzR0VJZFFBTUd4XzZZSXBraFp5M0JRaXBWMVA4bzllVFJZUUxTTWUydExNSUYycHp0OXhCMnJlVnYxVnRSQ0EyN0pkc1JGNU1jX1daa3JaR1BuemhTSURDdjdtT0xyamhYeWNfNmNCdFhoNXZFaUk?oc=5",
           "cat": "NBA"
         }
       ]
@@ -182,75 +134,75 @@
   ],
   "moversOnly": [
     {
-      "question": "ICC Cricket World Cup Challenge League A: Qatar vs Kuwait",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-qat-kwt-2026-10-22",
-      "yes": 100,
-      "change24h": 60,
-      "vol24h": 27042,
-      "headlines": []
-    },
-    {
       "question": "Will Bitcoin reach $86,000 October 19-25?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-october-19-25-2026",
-      "yes": 7,
-      "change24h": -54,
-      "vol24h": 29959,
+      "yes": 4,
+      "change24h": -55,
+      "vol24h": 30943,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 45,
-      "change24h": -48,
-      "vol24h": 111506,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 68,
-      "change24h": 36,
-      "vol24h": 23755,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $87,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 21,
-      "change24h": -34,
-      "vol24h": 49665,
+      "yes": 40,
+      "change24h": -53,
+      "vol24h": 99456,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $80,000 October 19-25?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
-      "yes": 44,
-      "change24h": 33,
-      "vol24h": 65985,
+      "yes": 54,
+      "change24h": 45,
+      "vol24h": 65467,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $88,000 October 19-25?",
+      "question": "Will Bitcoin dip to $80,000 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-october-19-25-2026",
-      "yes": 3,
-      "change24h": -20,
-      "vol24h": 31840,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 74,
+      "change24h": 45,
+      "vol24h": 27291,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 19,
+      "change24h": -35,
+      "vol24h": 56408,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $77,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 34,
-      "change24h": 19,
-      "vol24h": 23085,
+      "yes": 39,
+      "change24h": 25,
+      "vol24h": 25322,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
+      "yes": 8,
+      "change24h": -19,
+      "vol24h": 31283,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $88,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-october-19-25-2026",
+      "yes": 1,
+      "change24h": -18,
+      "vol24h": 25368,
       "headlines": []
     }
   ]
