@@ -1,66 +1,24 @@
 {
-  "updated": "2026-10-22T02:11:08.545Z",
+  "updated": "2026-10-22T10:45:37.126Z",
   "withNews": [
     {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
-      "yes": 13,
-      "change24h": -16,
-      "vol24h": 27161,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 88,
+      "change24h": -1,
+      "vol24h": 481672,
       "headlines": [
         {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming",
+          "source": "Cabot Wealth Network",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,400 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-october-2026-from-october-20",
-      "yes": 69,
-      "change24h": -15,
-      "vol24h": 52744,
-      "headlines": [
+        },
         {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 84,
-      "change24h": 13,
-      "vol24h": 21163,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $82,000 on October 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-82k-on-october-23-2026",
-      "yes": 77,
-      "change24h": 12,
-      "vol24h": 24491,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
           "cat": "Macro"
         }
       ]
@@ -69,122 +27,215 @@
       "question": "Tesla and SpaceX merger officially announced by January 31, 2027?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-january-31-2027",
-      "yes": 21,
-      "change24h": -12,
-      "vol24h": 21999,
+      "yes": 30,
+      "change24h": -1,
+      "vol24h": 24729,
       "headlines": [
         {
-          "title": "S&P 500 notches 3-day win streak, Nasdaq jumps 1% as SpaceX and Tesla rally",
+          "title": "Stock futures sell off as Meta and Tesla lead AI trade lower; oil rises: Live updates",
           "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44andoMWc1UnV1MnYtOVNwMFJxU3dmRFhYVEFlWEg5c0NTblp5VmJZNDR2TW5jRUdISW5pUmRsTVFmWjlXS0lMUTNOM0NEZV8zeldYOEVYelVaYzMtMGJxaW0tWnZZSUhEU2FxeEppUzVWTnpyY2Y00gF8QVVfeXFMTlFJSF8yb09HR2JyVExWTG9XUTFYeWVyaGpad2ktb2FXTGZ0WnpHcF9hNzlnd1RBVGs0MXpXLXplRVNaWXo3a1d6OUd3U0x0ZVR2ZWI4N1RvVktDY1hYaDR3ZTlVUnhsM1pfT2Q2eDNPQUFHT242QmVUZDdGMg?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjQyd3F1UEZZNnhKMnA3YmhnSmxHWjlGQmpfcVRXZlFlaHVFMG5ySk1oRkQ3YWtPbmdLaVpTNkZLQnIteXBiU1hIa2xibUFwZ2xiTEsyaXlZN3htczcteEdYQ1pLN0J1WjlzSDFBbzFON2p5QVhURXNyUkV0aU1BSWRCWF9jekNidXY4Nkdvdm5YMmpQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROG52YzhPZGZHbTVQQjVmSGxSeHJoRlA0UW90MkdwNFR0ZThOQzFhSDBhMUFmNWpxSGo1RG9nU2FOZ1VTUGN2VjNieDNOT0M4bDB0Qlg5NVkwMHV3cy00VGxhQTNqQzg3a3FwUFB4Vy1lR3BlM1dV0gF8QVVfeXFMTjlVakFKZGpLV0RGRVNiaGUxMWdVcHJtSGlWdXNtYkJqUmhXbHM5S3dLcFgzdTZMRGx0OG9LZE40eTVsaDZ5WWRKTGZSMVN5OWptaXk4Qk5EZGNJTmZYdzBVUVRER3NVOW4xWllXa2k0RXFGWmhTcEw5QTZ2Ug?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Skin cancer vaccine FDA approved by December 31, 2027?",
-      "topic": "Biotech",
-      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
-      "yes": 64,
-      "change24h": -3,
-      "vol24h": 19066,
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 38,
+      "change24h": 1,
+      "vol24h": 24243,
       "headlines": [
         {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming",
+          "source": "Cabot Wealth Network",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n?oc=5",
           "cat": "Macro"
         },
-        {
-          "title": "Jemperli FDA Approval Could Expand AnaptysBio Stock Royalty Potential",
-          "source": "Simply Wall Street",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVVoyekYwNnctS0RKQUFLUm84dWFoTHVaY01XU1BxT1BNbWZiX21CdVRrbmV2MTRoZEEwa3RIZHFwM01xb05vMWoxUENkTDI5NlFlV3g5VllDbURTSmh4ZS1PX2l6Q0hjb0hYcWlTNzhsOVNRYVZBWUJrU0hHNEZka0NVMktfWjI4SXpzbERCNDZaWkZvMzJrVGhxSzVBWnN5UEFHZWtib1RMZnFiWTZGVm5Fc1lLRmRCb1lhUm16eTM0YmJ3Ukw2dWxXNnZ1MU91SjFQVWc0VWJlaG_SAeABQVVfeXFMTVFqSm9rYnNGQlZENGVxRkNrRkZmRG5sdWx5bGVlV2hoVDRTT2NFWlBNcVFjTWYwMmhKNzF3R2c5VzhTUmRURGduUk44bHU2UkNrem9jdThEY19hczBpOTlXdWItX2pDR2FpbWNFTGhZU0JEemQ5cDBVOTNIblpKdU9GZ0VVWjJvT0Q0MzcxeEM0Zk5xTDJqdkZCNVp6N2hTWEZyZ0xxRkdCYV9aWUFNSEhqWG8tQ0JSX1JSOUxmcE9KR1NkZ1lpR1FoLWNVbmN6cmdHOWg5NlBsN3ZXalNFeUE?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 88,
-      "change24h": 1,
-      "vol24h": 494867,
-      "headlines": [
         {
           "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
           "source": "CNBC",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 79,
+      "change24h": 1,
+      "vol24h": 21660,
+      "headlines": [
+        {
+          "title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming",
+          "source": "Cabot Wealth Network",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "The $1 Trillion AI Spending Boom Could Force the Fed to Raise Rates - and You and I May Pay the Price",
-          "source": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3JVblVkYXdTS3A3dDViLUhDTEc3S3hpeXcxdWw3cXBEZnRtOThJTEY4bVNDMmU0b0d5NllHTmFsaG1tQ1lCWE04VmM3dnA5S1lZSk40cXVXTnRZT05rQjMwbXBuTGRBT0ZkNHhXemlUSHZwRHZIR2xmbG8tdHVaNDBFNTB2c04wU3dGcF9fRnJUQ1g3aldMY1FEbFFJMTR0R1A1R3drOUdJUXQtM0txbzBzTzZ1WnptSllYU2c2VTh6MmtTSllkU0ZpZWRSVFhIWmxFQTIyakwzdw?oc=5",
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 48543,
+      "question": "Tesla and SpaceX merger officially announced by June 30, 2027?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30-2027",
+      "yes": 56,
+      "change24h": -1,
+      "vol24h": 15665,
       "headlines": [
         {
-          "title": "Walter Clayton Jr. signs two-way deal with Dallas Mavericks",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDNHZU13NUxGNE5sYU53ZlpOVHFqc1VTc3l3RU9uaW5xRlNqTjBlcGxCSzlXMVExNHlKMm0yUTBHN2xvdnhtMjlENEVMdVF6UDlYZ0ppWWhfR2x5QWF0MVRzaHJJQWF3aGhZblJmYUNtLURaS2QxVVFoZk5HclJvalNRbnZNV25tYnNhNWsycWNMb1czVTRuUmVhZlczaEt4X3otNE50aUpHRlZzWnc?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
-      "yes": 7,
-      "change24h": 0,
-      "vol24h": 41221,
-      "headlines": [
-        {
-          "title": "Can Boston Scientific Stock Bounce Off This Support Again?",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaURGZFFSdENTOEppVG5tRWhvZWNHd0pGUjlpUERCTWxzc3ZMdENOTzVubFNIOG43MkNpSTVnZDVSdG1VX3lPTjFFamN4ZWFFN0JfQXprWURKYmY4dVBvclE1eGRMUTFxVElxd2gzSm5rWlk3aXZFUlBUT1JkbHR5eExDenJfX08wbjc4eDNvNnBwQjZhR0M0WTNKYWlMbGZ6?oc=5",
+          "title": "Stock futures sell off as Meta and Tesla lead AI trade lower; oil rises: Live updates",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROG52YzhPZGZHbTVQQjVmSGxSeHJoRlA0UW90MkdwNFR0ZThOQzFhSDBhMUFmNWpxSGo1RG9nU2FOZ1VTUGN2VjNieDNOT0M4bDB0Qlg5NVkwMHV3cy00VGxhQTNqQzg3a3FwUFB4Vy1lR3BlM1dV0gF8QVVfeXFMTjlVakFKZGpLV0RGRVNiaGUxMWdVcHJtSGlWdXNtYkJqUmhXbHM5S3dLcFgzdTZMRGx0OG9LZE40eTVsaDZ5WWRKTGZSMVN5OWptaXk4Qk5EZGNJTmZYdzBVUVRER3NVOW4xWllXa2k0RXFGWmhTcEw5QTZ2Ug?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Washington Wizards win the 2027 NBA Finals?",
+      "question": "Will Utah Jazz win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-utah-jazz-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 23173,
+      "vol24h": 159762,
       "headlines": [
         {
-          "title": "Davis scores 34 points in his Washington debut, leading the Wizards over Milwaukee 128-116",
-          "source": "WRAL",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXdtT2p6a3M0d0R0bUxKUU1xR2JGTzk4R19jRUhIYmNqSnZZSThmVXBqTEMwOFhNTmJMOWxkMmxDRkE5Ymh0RnFYTjVtQXlRQWZFZTl4Xy00TkEtMDRHcUNxVmstelpiRlVoWC1iTERGLXNiQ2Z1VkNCSm9Pb2hJWjFnV0xwczg4Mm9iSUk1RzV2Nkh5aWhPVXVBV1NtY0FTUGZUY0RrYzhnLTZnTTRfVEgxczJqUkZWazgwR1ZaLWxRTms?oc=5",
+          "title": "NBA basketball: Jerome torches Utah Jazz in opening win for Memphis",
+          "source": "Standard-Examiner",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjV2aktPRHA3NEZYclhHNWFDNFlMdFJqa01uYUFQSFpjOU5EQVRwLWtocDBiQW1aR29wQkFqRjl5YUxXaXJET2JScVRFN0QyRjdlSFhEX1FxRUF0UHFyVDItRlQ3WlYyaFRUWFZkQjhQeEMxaVdoaW1CVzhnLUk3LTV0SWRRdExfbUJWdkZDMjJxcV9rZjBTbGZ0dTVOclowSnNvbXRPMHhzdHItbEwtNGNxS1VWeXBEX2UwUmxfX1dIMzdI?oc=5",
           "cat": "NBA"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 23,
+      "change24h": 0,
+      "vol24h": 89340,
+      "headlines": [
         {
-          "title": "Davis scores 34 points in his Washington debut, leading the Wizards over Milwaukee 128-116",
-          "source": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3AtWmEtcXdKNEItVV9WMTdVM09OcWtWamRfb3VXUW9vUU9tWUQ5RVJZWDN3dXhpMWEySDdTQmF1eGxkbUZsOWVYX1VRVXZyaDlOMnNRNGdmRWFRdHJDMFBYblJkREV3U09xRnhrdHFkZm5OMU5uWU1IbTNEMEZxUUFrTTlLenhRVmc?oc=5",
-          "cat": "NBA"
+          "title": "Girls' soccer state championships return to the Scenic City",
+          "source": "Local 3 News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPalJvSTZqRE5RT0ZzcHZDM2ZnSGVZdk1jZFVjSEM4UjltcF9DUXVVLUppQU5aVEh0MGdiTkllVVRvUHZVWTZEbkZUdWhqOGV6dEU4b2d3ZjZvRjZPRnRjWE5adVRoekw3RDNyWlRkaFRQanZVLXhGaEpjNDFTdXNrS3RFSVo5dmVjOC1mclFPMVNoYVFUelNLRGEtS2FWYmlJVTZWaUxDRF9kYnMzbDB3QnhjbjlzaVFNUm56WmRVNWtNSW9zZEM3em5Mb202U2drWE4tS3l6eVQxUGdocEo4?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Portland Trail Blazers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-portland-trail-blazers-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 50355,
+      "headlines": [
+        {
+          "title": "Portland wants to host 2031 Women’s World Cup games. The Bhathal family is helping lead the charge",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1lhRjM5MlE3WHNxaG5sQmJGLS1QM2pvRUxDX1g0TDl0Q1JSc1ppVTNZamFaMThKenRxcTlwOXFra2k0QlE5OFp0ekFvZFVFX0llVm4xSzFSMTZYaE9SN2ZISUxGSmFQYzlxZWhZNzU3UjBOWGNNZ1pyYVN0eW9XVjVFWWJXUzFMM3ZOcWtKWjFPUG9lc1dDQVY5Z0hJUTRaUFE?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will the New England Patriots win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 23746,
+      "headlines": [
+        {
+          "title": "How to bet Patriots-Bears: Analysis, tips and top prop plays for the game",
+          "source": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUZDRHVHM05hbk5jTXdxeGtOVEdFbmNST3FHRlpQOGFZVnRvb3pfdVMxTHNoMFZ1QTlGRlBfWWtrb1RPME51WldqTDc0bFZuVVNzeHJFd1FQQWpHWjhVajY2QWNZWURmbG5xYzZ0TTEwQ3gxek9vY3pTUEluLVFOQjhfc0pRYjNjLTNDX3Q2RWdyb3owUm5COHJRandKN3NmQWhSdE5B?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will the price of Ethereum be above $2,500 on October 24?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2500-on-october-24-2026",
+      "yes": 10,
+      "change24h": -22,
+      "vol24h": 12483,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $86,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-october-19-25-2026",
+      "yes": 11,
+      "change24h": -20,
+      "vol24h": 33757,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
+      "yes": 52,
+      "change24h": -18,
+      "vol24h": 126702,
+      "headlines": []
+    },
+    {
+      "question": "Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-november-2026-meeting-1786388202572",
+      "yes": 62,
+      "change24h": 18,
+      "vol24h": 14197,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,600 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-october-2026",
+      "yes": 31,
+      "change24h": -17,
+      "vol24h": 17777,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 60,
+      "change24h": 16,
+      "vol24h": 23391,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
+      "yes": 36,
+      "change24h": 15,
+      "vol24h": 72580,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 25,
+      "change24h": -14,
+      "vol24h": 35958,
+      "headlines": []
+    }
+  ]
 }
