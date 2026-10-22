@@ -1,29 +1,13 @@
 {
-  "updated": "2026-10-21T20:57:38.521Z",
+  "updated": "2026-10-22T02:11:08.545Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $86,000 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-86k-october-19-25-2026",
-      "yes": 60,
-      "change24h": 32,
-      "vol24h": 27870,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 94,
-      "change24h": 31,
-      "vol24h": 86679,
+      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
+      "yes": 13,
+      "change24h": -16,
+      "vol24h": 27161,
       "headlines": [
         {
           "title": "Fed to skip October but raise rates again in December, nearly all economists say",
@@ -37,37 +21,15 @@
       "question": "Will Ethereum dip to $2,400 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2400-in-october-2026-from-october-20",
-      "yes": 54,
-      "change24h": -29,
-      "vol24h": 49815,
+      "yes": 69,
+      "change24h": -15,
+      "vol24h": 52744,
       "headlines": [
         {
           "title": "Fed to skip October but raise rates again in December, nearly all economists say",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the October interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-october-interest-rate-announcement-20260715203359317",
-      "yes": 20,
-      "change24h": -12,
-      "vol24h": 25302,
-      "headlines": [
-        {
-          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.60%",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXBTV2xMb3VMdlBxMERWVnhGaVNLdGlaOWh0aklpQzBYY1RTQWRzeXRPTWxueE5qWHRJNkp6VnJqeVVqeXZ4bEp0aU13YTREWkdlV1hzN3NyeEwxMTdBWVRKdUZ1Rm1lb0lFbXpnNF9mbWQ2aHkwWTVNX2ZEZERfNVp5dGN1VlNzQ0hsYjZiZHpqYmRVQXl0dHI0dWp1VTA4RTNrZ2d4dERoVGluOEhTblYzWGs2d0FIalE?oc=5",
-          "cat": "Markets"
         }
       ]
     },
@@ -75,20 +37,52 @@
       "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the October interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-october-interest-rate-announcement-20260715203359316",
-      "yes": 79,
-      "change24h": 11,
-      "vol24h": 20022,
+      "yes": 84,
+      "change24h": 13,
+      "vol24h": 21163,
       "headlines": [
         {
           "title": "Fed to skip October but raise rates again in December, nearly all economists say",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $82,000 on October 23?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-82k-on-october-23-2026",
+      "yes": 77,
+      "change24h": 12,
+      "vol24h": 24491,
+      "headlines": [
+        {
+          "title": "Fed to skip October but raise rates again in December, nearly all economists say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Tesla and SpaceX merger officially announced by January 31, 2027?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-january-31-2027",
+      "yes": 21,
+      "change24h": -12,
+      "vol24h": 21999,
+      "headlines": [
+        {
+          "title": "S&P 500 notches 3-day win streak, Nasdaq jumps 1% as SpaceX and Tesla rally",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44andoMWc1UnV1MnYtOVNwMFJxU3dmRFhYVEFlWEg5c0NTblp5VmJZNDR2TW5jRUdISW5pUmRsTVFmWjlXS0lMUTNOM0NEZV8zeldYOEVYelVaYzMtMGJxaW0tWnZZSUhEU2FxeEppUzVWTnpyY2Y00gF8QVVfeXFMTlFJSF8yb09HR2JyVExWTG9XUTFYeWVyaGpad2ktb2FXTGZ0WnpHcF9hNzlnd1RBVGs0MXpXLXplRVNaWXo3a1d6OUd3U0x0ZVR2ZWI4N1RvVktDY1hYaDR3ZTlVUnhsM1pfT2Q2eDNPQUFHT242QmVUZDdGMg?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.60%",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXBTV2xMb3VMdlBxMERWVnhGaVNLdGlaOWh0aklpQzBYY1RTQWRzeXRPTWxueE5qWHRJNkp6VnJqeVVqeXZ4bEp0aU13YTREWkdlV1hzN3NyeEwxMTdBWVRKdUZ1Rm1lb0lFbXpnNF9mbWQ2aHkwWTVNX2ZEZERfNVp5dGN1VlNzQ0hsYjZiZHpqYmRVQXl0dHI0dWp1VTA4RTNrZ2d4dERoVGluOEhTblYzWGs2d0FIalE?oc=5",
+          "title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjQyd3F1UEZZNnhKMnA3YmhnSmxHWjlGQmpfcVRXZlFlaHVFMG5ySk1oRkQ3YWtPbmdLaVpTNkZLQnIteXBiU1hIa2xibUFwZ2xiTEsyaXlZN3htczcteEdYQ1pLN0J1WjlzSDFBbzFON2p5QVhURXNyUkV0aU1BSWRCWF9jekNidXY4Nkdvdm5YMmpQ?oc=5",
           "cat": "Markets"
         }
       ]
@@ -99,7 +93,7 @@
       "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-december-31-2027",
       "yes": 64,
       "change24h": -3,
-      "vol24h": 18919,
+      "vol24h": 19066,
       "headlines": [
         {
           "title": "Fed to skip October but raise rates again in December, nearly all economists say",
@@ -119,9 +113,9 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 87,
-      "change24h": 2,
-      "vol24h": 475473,
+      "yes": 88,
+      "change24h": 1,
+      "vol24h": 494867,
       "headlines": [
         {
           "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
@@ -138,17 +132,55 @@
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 65797,
+      "vol24h": 48543,
       "headlines": [
         {
-          "title": "Kristaps Porziņģis weighing NBA future amid recurring health condition, Warriors exploring trades: report",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbTBxY09EenFXOU5wWkVLVDk0LWlNa2tBa1ZwanFnTXF1cE5RUHJKaFBKUGw0eUl3WHJ1c1hhTE1VSzR0RGx4V2JjU2dCdXhabm1yNDJDcnljNFI1WEJicjFyM3hFZ3R2UEthTU16dWNNa1RWek1rQ0pUS1o0cVpoSmlNdEZycVBBQmlwTFBlWTZMYWxwZHJETzFITDcyempDeXBsU25EMXFIZk93QjgtbW1zR2JvUUI2RklJRGhySW9CRUpsZjJRYXJ3NklBczg4TDh0MXZNblRTbGtBMlB5ZmJQN0Nja1k?oc=5",
+          "title": "Walter Clayton Jr. signs two-way deal with Dallas Mavericks",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbDNHZU13NUxGNE5sYU53ZlpOVHFqc1VTc3l3RU9uaW5xRlNqTjBlcGxCSzlXMVExNHlKMm0yUTBHN2xvdnhtMjlENEVMdVF6UDlYZ0ppWWhfR2x5QWF0MVRzaHJJQWF3aGhZblJmYUNtLURaS2QxVVFoZk5HclJvalNRbnZNV25tYnNhNWsycWNMb1czVTRuUmVhZlczaEt4X3otNE50aUpHRlZzWnc?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Boston Celtics win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
+      "yes": 7,
+      "change24h": 0,
+      "vol24h": 41221,
+      "headlines": [
+        {
+          "title": "Can Boston Scientific Stock Bounce Off This Support Again?",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaURGZFFSdENTOEppVG5tRWhvZWNHd0pGUjlpUERCTWxzc3ZMdENOTzVubFNIOG43MkNpSTVnZDVSdG1VX3lPTjFFamN4ZWFFN0JfQXprWURKYmY4dVBvclE1eGRMUTFxVElxd2gzSm5rWlk3aXZFUlBUT1JkbHR5eExDenJfX08wbjc4eDNvNnBwQjZhR0M0WTNKYWlMbGZ6?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Washington Wizards win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 23173,
+      "headlines": [
+        {
+          "title": "Davis scores 34 points in his Washington debut, leading the Wizards over Milwaukee 128-116",
+          "source": "WRAL",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQXdtT2p6a3M0d0R0bUxKUU1xR2JGTzk4R19jRUhIYmNqSnZZSThmVXBqTEMwOFhNTmJMOWxkMmxDRkE5Ymh0RnFYTjVtQXlRQWZFZTl4Xy00TkEtMDRHcUNxVmstelpiRlVoWC1iTERGLXNiQ2Z1VkNCSm9Pb2hJWjFnV0xwczg4Mm9iSUk1RzV2Nkh5aWhPVXVBV1NtY0FTUGZUY0RrYzhnLTZnTTRfVEgxczJqUkZWazgwR1ZaLWxRTms?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Davis scores 34 points in his Washington debut, leading the Wizards over Milwaukee 128-116",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3AtWmEtcXdKNEItVV9WMTdVM09OcWtWamRfb3VXUW9vUU9tWUQ5RVJZWDN3dXhpMWEySDdTQmF1eGxkbUZsOWVYX1VRVXZyaDlOMnNRNGdmRWFRdHJDMFBYblJkREV3U09xRnhrdHFkZm5OMU5uWU1IbTNEMEZxUUFrTTlLenhRVmc?oc=5",
           "cat": "NBA"
         }
       ]
