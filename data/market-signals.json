@@ -1,62 +1,62 @@
 {
-  "updated": "2026-10-22T10:45:37.126Z",
+  "updated": "2026-10-22T16:11:08.232Z",
   "withNews": [
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 88,
-      "change24h": -1,
-      "vol24h": 481672,
+      "yes": 94,
+      "change24h": 7,
+      "vol24h": 865889,
       "headlines": [
+        {
+          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming",
           "source": "Cabot Wealth Network",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Tesla and SpaceX merger officially announced by January 31, 2027?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-january-31-2027",
-      "yes": 30,
-      "change24h": -1,
-      "vol24h": 24729,
-      "headlines": [
-        {
-          "title": "Stock futures sell off as Meta and Tesla lead AI trade lower; oil rises: Live updates",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROG52YzhPZGZHbTVQQjVmSGxSeHJoRlA0UW90MkdwNFR0ZThOQzFhSDBhMUFmNWpxSGo1RG9nU2FOZ1VTUGN2VjNieDNOT0M4bDB0Qlg5NVkwMHV3cy00VGxhQTNqQzg3a3FwUFB4Vy1lR3BlM1dV0gF8QVVfeXFMTjlVakFKZGpLV0RGRVNiaGUxMWdVcHJtSGlWdXNtYkJqUmhXbHM5S3dLcFgzdTZMRGx0OG9LZE40eTVsaDZ5WWRKTGZSMVN5OWptaXk4Qk5EZGNJTmZYdzBVUVRER3NVOW4xWllXa2k0RXFGWmhTcEw5QTZ2Ug?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 38,
-      "change24h": 1,
-      "vol24h": 24243,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 7,
+      "change24h": -7,
+      "vol24h": 502406,
       "headlines": [
+        {
+          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming",
           "source": "Cabot Wealth Network",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 36,
+      "change24h": 6,
+      "vol24h": 67762,
+      "headlines": [
         {
-          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
+          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
           "cat": "Macro"
         }
       ]
@@ -65,85 +65,85 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 79,
-      "change24h": 1,
-      "vol24h": 21660,
+      "yes": 74,
+      "change24h": -5,
+      "vol24h": 53469,
       "headlines": [
+        {
+          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Inflation Nemesis—More Fed Rate Hikes Are Coming",
           "source": "Cabot Wealth Network",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkdNWlNnTHI1dUJKWTBnaG9PbVl0dXpkVW8tcjJsS3Y5S1hGVlR5Ukh1d3JBVEQ4ajE5aVEybDhyMkVYbVhUT3NJSTQwUVRwUkI3WVZkMHRJSGtCYWpsR2RaaEJZZlQ4VnVZY2NfaG9XR3FqQTJOWVpDZlBab19UeE1n?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 14,
+      "change24h": 3,
+      "vol24h": 18156,
+      "headlines": [
         {
-          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
+          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Tesla and SpaceX merger officially announced by June 30, 2027?",
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-june-30-2027",
-      "yes": 56,
-      "change24h": -1,
-      "vol24h": 15665,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 22,
+      "change24h": -3,
+      "vol24h": 15885,
       "headlines": [
         {
-          "title": "Stock futures sell off as Meta and Tesla lead AI trade lower; oil rises: Live updates",
-          "source": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ROG52YzhPZGZHbTVQQjVmSGxSeHJoRlA0UW90MkdwNFR0ZThOQzFhSDBhMUFmNWpxSGo1RG9nU2FOZ1VTUGN2VjNieDNOT0M4bDB0Qlg5NVkwMHV3cy00VGxhQTNqQzg3a3FwUFB4Vy1lR3BlM1dV0gF8QVVfeXFMTjlVakFKZGpLV0RGRVNiaGUxMWdVcHJtSGlWdXNtYkJqUmhXbHM5S3dLcFgzdTZMRGx0OG9LZE40eTVsaDZ5WWRKTGZSMVN5OWptaXk4Qk5EZGNJTmZYdzBVUVRER3NVOW4xWllXa2k0RXFGWmhTcEw5QTZ2Ug?oc=5",
-          "cat": "Markets"
+          "title": "Rob Kaplan Sees Fed Hike Likely In December — Warns Aggressive Tightening May Hurt Jobs Without Taming Inflation",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQY3dZYmtNSThJUVdDU0NxeC10MExrN1RVUHBCdEZWMF9sTUQycTY5OURObGNBcXphbDB0Qm5KejdnVXlUTFg1OE43Z2RNLWtvRzU0WkFFdVdoRkFSdXVqUkh1MldGRVprWUxzaWZGOUpLOHJKOEdKRHdrTXJfNExxOE9XYngzSzhNOW1OaTB2SlozeXZ2Zm51TUROLUhudThfSzFhOTB3cnlSTmpGYm9sOFJqY2dmdUk5aVZqVm1lUm1DbDU1eDJfQVJ3MzJ6MWYybW1jUklDMmYzNGNNaGdGREpNQjBONGxPeWd4Y2g1THIxV0h3YnN2SFltTmVTVXpO?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Utah Jazz win the 2027 NBA Finals?",
+      "question": "Will Boston Celtics win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-utah-jazz-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 159762,
+      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
+      "yes": 6,
+      "change24h": -1,
+      "vol24h": 42470,
       "headlines": [
         {
-          "title": "NBA basketball: Jerome torches Utah Jazz in opening win for Memphis",
-          "source": "Standard-Examiner",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjV2aktPRHA3NEZYclhHNWFDNFlMdFJqa01uYUFQSFpjOU5EQVRwLWtocDBiQW1aR29wQkFqRjl5YUxXaXJET2JScVRFN0QyRjdlSFhEX1FxRUF0UHFyVDItRlQ3WlYyaFRUWFZkQjhQeEMxaVdoaW1CVzhnLUk3LTV0SWRRdExfbUJWdkZDMjJxcV9rZjBTbGZ0dTVOclowSnNvbXRPMHhzdHItbEwtNGNxS1VWeXBEX2UwUmxfX1dIMzdI?oc=5",
+          "title": "Mitchell Robinson rips own performance in Celtics debut: ‘I played like a–‘",
+          "source": "Boston Herald",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0xtYVhPZWxEMTBYVW5oYWRIMXA3eTBRYkdaSFdvRnNGQXVvejlfTGdHdWhIeDBpc3VMNHk0cVF6V2IzTUhxR3B4NHd6SXFDWnFLM1RMbDJlaHpQcnZwX2lzODJfSFNneDFJWm9YZ0RGblRtR1BpU1ZaZWFlUTRnVVpHSHJyNmtkV0s1MjZnaEhtMDVSbC1CQ0FJS0JWMzJZWkJ3NUdZTEJnaGxreVF6WFBn?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "question": "Will Houston Rockets win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 23,
+      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 89340,
+      "vol24h": 27954,
       "headlines": [
         {
-          "title": "Girls' soccer state championships return to the Scenic City",
-          "source": "Local 3 News",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPalJvSTZqRE5RT0ZzcHZDM2ZnSGVZdk1jZFVjSEM4UjltcF9DUXVVLUppQU5aVEh0MGdiTkllVVRvUHZVWTZEbkZUdWhqOGV6dEU4b2d3ZjZvRjZPRnRjWE5adVRoekw3RDNyWlRkaFRQanZVLXhGaEpjNDFTdXNrS3RFSVo5dmVjOC1mclFPMVNoYVFUelNLRGEtS2FWYmlJVTZWaUxDRF9kYnMzbDB3QnhjbjlzaVFNUm56WmRVNWtNSW9zZEM3em5Mb202U2drWE4tS3l6eVQxUGdocEo4?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Portland Trail Blazers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-portland-trail-blazers-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 50355,
-      "headlines": [
-        {
-          "title": "Portland wants to host 2031 Women’s World Cup games. The Bhathal family is helping lead the charge",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU1lhRjM5MlE3WHNxaG5sQmJGLS1QM2pvRUxDX1g0TDl0Q1JSc1ppVTNZamFaMThKenRxcTlwOXFra2k0QlE5OFp0ekFvZFVFX0llVm4xSzFSMTZYaE9SN2ZISUxGSmFQYzlxZWhZNzU3UjBOWGNNZ1pyYVN0eW9XVjVFWWJXUzFMM3ZOcWtKWjFPUG9lc1dDQVY5Z0hJUTRaUFE?oc=5",
-          "cat": "World Cup"
+          "title": "Spurs vs. Rockets: How to watch the game, who's starting, who's out",
+          "source": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWh4MkFYQWpSb19TSWlHZ042V0hnUUxxRTV5ci0xc0FlSTA4RWVHN0k2ZVpkbmFhZ1RfeklxT2xQdy1qREFVclBMbm50Y0IwX2xXQVl0V0VrcGJ5SmJrQ0FseXNTdWV4YzdWNDFHQzdvV2pEOGw1RWxfajBsdEZlcEgtS3FlSTl5ZE5UeXktWnFkWWxqdUNsM0pBTVJ0Z2s?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -153,88 +153,104 @@
       "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 23746,
+      "vol24h": 23608,
       "headlines": [
         {
-          "title": "How to bet Patriots-Bears: Analysis, tips and top prop plays for the game",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUZDRHVHM05hbk5jTXdxeGtOVEdFbmNST3FHRlpQOGFZVnRvb3pfdVMxTHNoMFZ1QTlGRlBfWWtrb1RPME51WldqTDc0bFZuVVNzeHJFd1FQQWpHWjhVajY2QWNZWURmbG5xYzZ0TTEwQ3gxek9vY3pTUEluLVFOQjhfc0pRYjNjLTNDX3Q2RWdyb3owUm5COHJRandKN3NmQWhSdE5B?oc=5",
+          "title": "What channel is Thursday Night Football on? Patriots vs Bears TV, time",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ2RKM3Y0OVNFNkZibHJXM253bllncVlkUWRBTHVTTmpuRk8wZXBDRHFBdmNnbC1ZN1d3QTRmRE5kdW5SRFdzVncxNkdwejI5eGRxSXFMZjZMR3VaRGZHckU2YmlBTzRqMzFOa2xpcmNYWDRfbWVKT1l0TGdaUmpPTERsUHk3SkdnRGs1cndobThoeEk?oc=5",
           "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
+      "yes": 20,
+      "change24h": 0,
+      "vol24h": 21314,
+      "headlines": [
+        {
+          "title": "Spurs vs. Rockets: How to watch the game, who's starting, who's out",
+          "source": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWh4MkFYQWpSb19TSWlHZ042V0hnUUxxRTV5ci0xc0FlSTA4RWVHN0k2ZVpkbmFhZ1RfeklxT2xQdy1qREFVclBMbm50Y0IwX2xXQVl0V0VrcGJ5SmJrQ0FseXNTdWV4YzdWNDFHQzdvV2pEOGw1RWxfajBsdEZlcEgtS3FlSTl5ZE5UeXktWnFkWWxqdUNsM0pBTVJ0Z2s?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the price of Ethereum be above $2,500 on October 24?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2500-on-october-24-2026",
-      "yes": 10,
-      "change24h": -22,
-      "vol24h": 12483,
+      "question": "ICC Cricket World Cup Challenge League A: Qatar vs Kuwait",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-qat-kwt-2026-10-22",
+      "yes": 100,
+      "change24h": 60,
+      "vol24h": 27042,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $86,000 October 19-25?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-86k-october-19-25-2026",
-      "yes": 11,
-      "change24h": -20,
-      "vol24h": 33757,
+      "yes": 7,
+      "change24h": -54,
+      "vol24h": 29959,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 52,
-      "change24h": -18,
-      "vol24h": 126702,
-      "headlines": []
-    },
-    {
-      "question": "Reserve Bank of Australia increases interest rates by 25 bps at the November 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/reserve-bank-of-australia-increases-interest-rates-by-25-bps-at-the-november-2026-meeting-1786388202572",
-      "yes": 62,
-      "change24h": 18,
-      "vol24h": 14197,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,600 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-october-2026",
-      "yes": 31,
-      "change24h": -17,
-      "vol24h": 17777,
+      "yes": 45,
+      "change24h": -48,
+      "vol24h": 111506,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $80,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 60,
-      "change24h": 16,
-      "vol24h": 23391,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
-      "yes": 36,
-      "change24h": 15,
-      "vol24h": 72580,
+      "yes": 68,
+      "change24h": 36,
+      "vol24h": 23755,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $87,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "yes": 25,
-      "change24h": -14,
-      "vol24h": 35958,
+      "yes": 21,
+      "change24h": -34,
+      "vol24h": 49665,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
+      "yes": 44,
+      "change24h": 33,
+      "vol24h": 65985,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $88,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-october-19-25-2026",
+      "yes": 3,
+      "change24h": -20,
+      "vol24h": 31840,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 34,
+      "change24h": 19,
+      "vol24h": 23085,
       "headlines": []
     }
   ]
