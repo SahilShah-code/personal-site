@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23 01:13 UTC",
-  "net_return_pct": -11.7,
-  "realized_return_pct": -11.7,
+  "updated": "2026-10-23 06:03 UTC",
+  "net_return_pct": -10.6,
+  "realized_return_pct": -10.6,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 53.8,
-  "settled_total": 13,
+  "win_rate_pct": 56.3,
+  "settled_total": 16,
   "curve": [
     0,
     -100,
@@ -19,10 +19,34 @@
     -19.6,
     -16.5,
     -12.6,
-    -11.7
+    -11.7,
+    -8.7,
+    -5.1,
+    -10.6
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Denver wins",
+      "ticker": "KXNBAGAME-26OCT22DENOKC-DEN",
+      "result": "no",
+      "date": "2026-10-23",
+      "return_pct": -57.5
+    },
+    {
+      "title": "Chicago wins",
+      "ticker": "KXNFLGAME-26OCT22NECHI-CHI",
+      "result": "yes",
+      "date": "2026-10-23",
+      "return_pct": 34.1
+    },
+    {
+      "title": "Philadelphia wins",
+      "ticker": "KXNBAGAME-26OCT22CLEPHI-PHI",
+      "result": "yes",
+      "date": "2026-10-23",
+      "return_pct": 45
+    },
     {
       "title": "Tampa Bay wins",
       "ticker": "KXNFLGAME-26OCT18PITTB-TB",
