@@ -1,130 +1,120 @@
 {
-  "updated": "2026-10-23T16:01:09.430Z",
+  "updated": "2026-10-23T20:43:29.243Z",
   "withNews": [
-    {
-      "question": "Will Bitcoin dip to $80,000 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
-      "yes": 25,
-      "change24h": -18,
-      "vol24h": 23001,
-      "headlines": [
-        {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 23 October By Investing.com",
-          "source": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJiemlTRk1vVkNDT3ZqTkdtTV9VaDVSYTJOOEdtdlNnclRQc0RCbkI1VUJaaFpuOFBZUG5sRVR0d2ViSE11Sno5N3M3dUNld3I4NjFNd0xrcUhCa3J2X2UwZ1l1Zng1TXFyZm1uOS1Kc29FTkZPVzBwSUFqa24xa2ZOOElCSVVtZUlqZTBianR2VmNNQzVPSklPRVFOaVlrSUpGbWhuZw?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
     {
       "question": "Will Ethereum dip to $2,300 October 19-25?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-19-25-2026",
-      "yes": 9,
-      "change24h": -18,
-      "vol24h": 20951,
+      "yes": 10,
+      "change24h": -27,
+      "vol24h": 19378,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 23 October By Investing.com",
-          "source": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJiemlTRk1vVkNDT3ZqTkdtTV9VaDVSYTJOOEdtdlNnclRQc0RCbkI1VUJaaFpuOFBZUG5sRVR0d2ViSE11Sno5N3M3dUNld3I4NjFNd0xrcUhCa3J2X2UwZ1l1Zng1TXFyZm1uOS1Kc29FTkZPVzBwSUFqa24xa2ZOOElCSVVtZUlqZTBianR2VmNNQzVPSklPRVFOaVlrSUpGbWhuZw?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $78,000 October 19-25?",
+      "question": "Will Bitcoin dip to $80,000 October 19-25?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-19-25-2026",
-      "yes": 5,
-      "change24h": -10,
-      "vol24h": 34654,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
+      "yes": 27,
+      "change24h": -26,
+      "vol24h": 35131,
       "headlines": [
         {
-          "title": "Form 4 SPDR® S&P 500® ETF Trust For: 23 October By Investing.com",
-          "source": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXJiemlTRk1vVkNDT3ZqTkdtTV9VaDVSYTJOOEdtdlNnclRQc0RCbkI1VUJaaFpuOFBZUG5sRVR0d2ViSE11Sno5N3M3dUNld3I4NjFNd0xrcUhCa3J2X2UwZ1l1Zng1TXFyZm1uOS1Kc29FTkZPVzBwSUFqa24xa2ZOOElCSVVtZUlqZTBianR2VmNNQzVPSklPRVFOaVlrSUpGbWhuZw?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 68,
-      "change24h": 5,
-      "vol24h": 16709,
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "yes": 62,
+      "change24h": -11,
+      "vol24h": 24979,
       "headlines": [
         {
-          "title": "Commentary: The economy, not the Fed",
-          "source": "Pensions & Investments",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed Can Pause, But Inflation Won’t",
-          "source": "The Daily Economy",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ibDMwcWoyUzg1bTQ2bmFubkJtMXlON0h6ZjNlSTgzSzE0OEZpYkd4cXlvbmxEakp5T2hTNldwcmY5RWVJQW45QnJ3VDRpNjVQNU5kMkRLcEM0WmhraUZucmdmM3VvVnI3UFJzOUpOang0cnNzWGcyT0YzQU9UUQ?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 30,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 21,
       "change24h": -4,
-      "vol24h": 43900,
+      "vol24h": 16711,
       "headlines": [
         {
-          "title": "Commentary: The economy, not the Fed",
-          "source": "Pensions & Investments",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5",
+          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed Can Pause, But Inflation Won’t",
-          "source": "The Daily Economy",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ibDMwcWoyUzg1bTQ2bmFubkJtMXlON0h6ZjNlSTgzSzE0OEZpYkd4cXlvbmxEakp5T2hTNldwcmY5RWVJQW45QnJ3VDRpNjVQNU5kMkRLcEM0WmhraUZucmdmM3VvVnI3UFJzOUpOang0cnNzWGcyT0YzQU9UUQ?oc=5",
+          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 92,
-      "change24h": -2,
-      "vol24h": 1569990,
+      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "yes": 21,
+      "change24h": -3,
+      "vol24h": 15028,
       "headlines": [
         {
-          "title": "Commentary: The economy, not the Fed",
-          "source": "Pensions & Investments",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5",
+          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Fed Can Pause, But Inflation Won’t",
-          "source": "The Daily Economy",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ibDMwcWoyUzg1bTQ2bmFubkJtMXlON0h6ZjNlSTgzSzE0OEZpYkd4cXlvbmxEakp5T2hTNldwcmY5RWVJQW45QnJ3VDRpNjVQNU5kMkRLcEM0WmhraUZucmdmM3VvVnI3UFJzOUpOang0cnNzWGcyT0YzQU9UUQ?oc=5",
+          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 8,
+      "change24h": 2,
+      "vol24h": 1120608,
+      "headlines": [
+        {
+          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
           "cat": "Macro"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 57,
-      "change24h": -9,
-      "vol24h": 21974,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
