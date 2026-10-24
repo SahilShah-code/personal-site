@@ -1,62 +1,50 @@
 {
-  "updated": "2026-10-24T09:55:19.572Z",
+  "updated": "2026-10-24T14:58:39.936Z",
   "withNews": [
     {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 74,
-      "change24h": -2,
-      "vol24h": 45211,
+      "question": "Will Ethereum dip to $2,300 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-19-25-2026",
+      "yes": 48,
+      "change24h": 37,
+      "vol24h": 22371,
       "headlines": [
         {
-          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
+          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
           "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Commentary: The economy, not the Fed",
-          "source": "Pensions & Investments",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Houston Rockets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 1,
-      "vol24h": 32412,
+      "question": "Will Bitcoin reach $82,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
+      "yes": 59,
+      "change24h": -25,
+      "vol24h": 28679,
       "headlines": [
         {
-          "title": "4 Takeaways: Amen Thompson block seals Rockets' win over Spurs in Austin",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWXhvd2xuNHVvMEVxZ2M5MEQwOWVrWE9tTlAzQWpKRnl0U3hNdE9rQThPTWdfQjZNUHlpdHFodzBCZFMwUmJ0MVhJblFkLVJuNHJuSmF4cUpNZzlHbGpmVnl3X0dxREw5?oc=5",
-          "cat": "NBA"
+          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "question": "Will Bitcoin reach $85,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
       "yes": 23,
-      "change24h": -1,
-      "vol24h": 16307,
+      "change24h": -20,
+      "vol24h": 19909,
       "headlines": [
         {
-          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
+          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
           "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Commentary: The economy, not the Fed",
-          "source": "Pensions & Investments",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
           "cat": "Macro"
         }
       ]
@@ -65,52 +53,80 @@
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 94,
-      "change24h": 0,
-      "vol24h": 1365066,
+      "yes": 95,
+      "change24h": 3,
+      "vol24h": 658990,
       "headlines": [
         {
-          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
+          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Commentary: The economy, not the Fed",
-          "source": "Pensions & Investments",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlT1pFd1VEUVpmRTJ5WjRfUmxaWVhtVWp2ck5ITEtxMlByWG5hQlNVZ0MtS0tKS0VyckpZOFQxT0dkZkVhR0hMSHRubzM5b1FKeWQyTkhLT21wTGZaVWpqSGpSTllfUGxKS3BkS2ItMDBld2puc2hYb3RHSzNtdw?oc=5",
+          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 59529,
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 6,
+      "change24h": -2,
+      "vol24h": 791649,
       "headlines": [
         {
-          "title": "Warriors implode late as Grizzlies' 17-0 run caps stunning comeback",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWluNmx6dEZkdUlJUkJic210eHhkczNxYkRzcElPR3dVMHNZRVQzYW9iTmpxN3hfeUhCWGs4RGVxV1M4ZW1LUmU1akRsNUNzb2M0WnVxOWFHX2NYeGpGVzBCWDJQdDhxUWVJWHBJSGtQdTlsSm1pMnlBQWY2dElIVHFDMHIyNVpGME02Ui00aEV2MF9yWWh6cVJHa1c2MjZtUHZ0SjBn?oc=5",
-          "cat": "NBA"
+          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 43207,
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 75,
+      "change24h": -2,
+      "vol24h": 43815,
       "headlines": [
         {
-          "title": "Mavericks lose Cooper Flagg with shoulder injury following hard foul in 1st half against Pacers",
-          "source": "News4JAX",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHB5aTBqVERVUm8tQ0JwMk5MYmtQU1dnX1NuTWFkTXB2X2tYdlhsaG9wQjR5ckE0aEFuLWNPZmpDN2t1RUg2cHNyaW05V29HenZTR09RcXdtRURvTjdZeEwyVFNieGZMY2tsTWd3b1RsZzRacVc4ZmdTT2lJSGh5TzMzSjZLSldKN3VONmhUbDdiWkJDVFF0RnpiajF0bDZ5MHlac1BuWml6ejVKTGU2ZTVxTXNOV2Q3M0JtX3hraFpJaGNudjZfWjVFRlBsYUlqN3ZtNThB?oc=5",
+          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 17036,
+      "headlines": [
+        {
+          "title": "“90 percent of the team were doing drugs” – Spencer Haywood exposed cocaine culture behind 1980 Lakers championship",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2o0QmJEcU9zZzdtdTZzSFBTcVpDQkZNYnNJVEFnaEdEUWw3Z1lLbVJLckRHb1JPc2FaZWUweHF4VlVEaHkxcjAxM2lMRmhtVVFVRHBnTXJpYWp5ZlJ0ZEo3dEF1NnM1M0xiSV9LM0FlSkRzUUtEczZjWTRDQzl3VnVXd0RPZE0zd1k1bzhoWGUyb05kZVZ3QzE2UEVxdm1GNG9RVzg2c01VYlVYaGRLSExnZ2RPeXljRE04?oc=5",
           "cat": "NBA"
         }
       ]
@@ -118,75 +134,21 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $80,000 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
-      "yes": 61,
-      "change24h": 29,
-      "vol24h": 80618,
+      "question": "ICC Cricket World Cup Challenge League A: Qatar vs Kenya",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-qat-ken-2026-10-24",
+      "yes": 100,
+      "change24h": 54,
+      "vol24h": 21205,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $82,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 59,
-      "change24h": -24,
-      "vol24h": 14380,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 60,
-      "change24h": -23,
-      "vol24h": 24984,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
-      "yes": 86,
-      "change24h": 20,
-      "vol24h": 21867,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "yes": 61,
-      "change24h": -19,
-      "vol24h": 28579,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 25,
-      "change24h": -18,
-      "vol24h": 10996,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $84,000 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-19-25-2026-from-october-22",
-      "yes": 2,
-      "change24h": -15,
-      "vol24h": 27392,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,300 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-19-25-2026",
-      "yes": 28,
-      "change24h": 12,
-      "vol24h": 20047,
+      "question": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Gambia vs Zambia",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-gmb-zmb-2026-10-24",
+      "yes": 5,
+      "change24h": -11,
+      "vol24h": 22343,
       "headlines": []
     }
   ]
