@@ -1,19 +1,47 @@
 {
-  "updated": "2026-10-24T14:58:39.936Z",
+  "updated": "2026-10-24T19:54:57.956Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $2,300 October 19-25?",
+      "question": "Will Ethereum dip to $2,200 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-19-25-2026",
-      "yes": 48,
-      "change24h": 37,
-      "vol24h": 22371,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-october-2026",
+      "yes": 39,
+      "change24h": 15,
+      "vol24h": 26128,
       "headlines": [
         {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
+          "title": "H2H, prediction of Dayana Yastremska vs Emerson Jones in Guangzhou with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX2dQM01VYkVfVEhFQnJWM2ZMX3R3cTVIWHJZbmROOEU1My04R1lvMlplOEp1TG1CQ0FvV1Q5WjRVWnh2ZjNoOC1POFZXbV9zR2hHdHZvdFU0ajRLNGt0TnoyY0RFaEJlVkxET0JCWkdwc09zZ1pkSGdSZlRkcUZHSU0xZkJDNXg1ZHpxdzMzQ2d2TUFGcXRYN25jRml3dDY4OHdrMmJpbzRmWkhGR3piTFNKMFdpcmRBWW9EWkpaODRpdlFVUjljLV9ScE9EYkJjVEdBTUswZmRkZ3I2cW13c1BSNlQ4UQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Maya Joint vs Mai Hontama in Tokyo with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHp5M2pILTNkbTgxZzlMSnNMRDZMSFd1cmVua3FvZEcxci0yMU1aYlRHcDR1ZnhZbE5yZ0N3VE9tUEFxQVNmZkhoUGFRYWNvVS1GR2w4Y2l6dEJSLWc5RHpGWnA4ejRTakZoQUs1RnR5NVE1TG1HU3JHOEN1ZG5IVlVvczd1Y1B4NFJWV1VpZ3NyNloxVmtOeGdPUE11TnFwalJKMjUxd1kzOGFwWGNlQWwtU0RzSTluUkNaMkh6cjZNY0l0cVdBcFkyOExZejVKcF9uUw?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 44,
+      "change24h": 11,
+      "vol24h": 54418,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Dayana Yastremska vs Emerson Jones in Guangzhou with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX2dQM01VYkVfVEhFQnJWM2ZMX3R3cTVIWHJZbmROOEU1My04R1lvMlplOEp1TG1CQ0FvV1Q5WjRVWnh2ZjNoOC1POFZXbV9zR2hHdHZvdFU0ajRLNGt0TnoyY0RFaEJlVkxET0JCWkdwc09zZ1pkSGdSZlRkcUZHSU0xZkJDNXg1ZHpxdzMzQ2d2TUFGcXRYN25jRml3dDY4OHdrMmJpbzRmWkhGR3piTFNKMFdpcmRBWW9EWkpaODRpdlFVUjljLV9ScE9EYkJjVEdBTUswZmRkZ3I2cW13c1BSNlQ4UQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Maya Joint vs Mai Hontama in Tokyo with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHp5M2pILTNkbTgxZzlMSnNMRDZMSFd1cmVua3FvZEcxci0yMU1aYlRHcDR1ZnhZbE5yZ0N3VE9tUEFxQVNmZkhoUGFRYWNvVS1GR2w4Y2l6dEJSLWc5RHpGWnA4ejRTakZoQUs1RnR5NVE1TG1HU3JHOEN1ZG5IVlVvczd1Y1B4NFJWV1VpZ3NyNloxVmtOeGdPUE11TnFwalJKMjUxd1kzOGFwWGNlQWwtU0RzSTluUkNaMkh6cjZNY0l0cVdBcFkyOExZejVKcF9uUw?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -21,30 +49,64 @@
       "question": "Will Bitcoin reach $82,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 59,
-      "change24h": -25,
-      "vol24h": 28679,
+      "yes": 63,
+      "change24h": -11,
+      "vol24h": 27779,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Dayana Yastremska vs Emerson Jones in Guangzhou with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX2dQM01VYkVfVEhFQnJWM2ZMX3R3cTVIWHJZbmROOEU1My04R1lvMlplOEp1TG1CQ0FvV1Q5WjRVWnh2ZjNoOC1POFZXbV9zR2hHdHZvdFU0ajRLNGt0TnoyY0RFaEJlVkxET0JCWkdwc09zZ1pkSGdSZlRkcUZHSU0xZkJDNXg1ZHpxdzMzQ2d2TUFGcXRYN25jRml3dDY4OHdrMmJpbzRmWkhGR3piTFNKMFdpcmRBWW9EWkpaODRpdlFVUjljLV9ScE9EYkJjVEdBTUswZmRkZ3I2cW13c1BSNlQ4UQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Maya Joint vs Mai Hontama in Tokyo with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHp5M2pILTNkbTgxZzlMSnNMRDZMSFd1cmVua3FvZEcxci0yMU1aYlRHcDR1ZnhZbE5yZ0N3VE9tUEFxQVNmZkhoUGFRYWNvVS1GR2w4Y2l6dEJSLWc5RHpGWnA4ejRTakZoQUs1RnR5NVE1TG1HU3JHOEN1ZG5IVlVvczd1Y1B4NFJWV1VpZ3NyNloxVmtOeGdPUE11TnFwalJKMjUxd1kzOGFwWGNlQWwtU0RzSTluUkNaMkh6cjZNY0l0cVdBcFkyOExZejVKcF9uUw?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 77,
+      "change24h": 4,
+      "vol24h": 83352,
       "headlines": [
         {
           "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
           "source": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 23,
-      "change24h": -20,
-      "vol24h": 19909,
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 74,
+      "change24h": -4,
+      "vol24h": 44721,
       "headlines": [
         {
           "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
           "source": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
           "cat": "Macro"
         }
       ]
@@ -55,78 +117,66 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 95,
       "change24h": 3,
-      "vol24h": 658990,
+      "vol24h": 595529,
       "headlines": [
         {
-          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
-          "cat": "Macro"
+          "title": "H2H, prediction of Dayana Yastremska vs Emerson Jones in Guangzhou with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX2dQM01VYkVfVEhFQnJWM2ZMX3R3cTVIWHJZbmROOEU1My04R1lvMlplOEp1TG1CQ0FvV1Q5WjRVWnh2ZjNoOC1POFZXbV9zR2hHdHZvdFU0ajRLNGt0TnoyY0RFaEJlVkxET0JCWkdwc09zZ1pkSGdSZlRkcUZHSU0xZkJDNXg1ZHpxdzMzQ2d2TUFGcXRYN25jRml3dDY4OHdrMmJpbzRmWkhGR3piTFNKMFdpcmRBWW9EWkpaODRpdlFVUjljLV9ScE9EYkJjVEdBTUswZmRkZ3I2cW13c1BSNlQ4UQ?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
+          "title": "H2H, prediction of Maya Joint vs Mai Hontama in Tokyo with odds, preview, pick | 25th October 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHp5M2pILTNkbTgxZzlMSnNMRDZMSFd1cmVua3FvZEcxci0yMU1aYlRHcDR1ZnhZbE5yZ0N3VE9tUEFxQVNmZkhoUGFRYWNvVS1GR2w4Y2l6dEJSLWc5RHpGWnA4ejRTakZoQUs1RnR5NVE1TG1HU3JHOEN1ZG5IVlVvczd1Y1B4NFJWV1VpZ3NyNloxVmtOeGdPUE11TnFwalJKMjUxd1kzOGFwWGNlQWwtU0RzSTluUkNaMkh6cjZNY0l0cVdBcFkyOExZejVKcF9uUw?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 6,
-      "change24h": -2,
-      "vol24h": 791649,
-      "headlines": [
-        {
-          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 75,
-      "change24h": -2,
-      "vol24h": 43815,
-      "headlines": [
-        {
-          "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "question": "Will Houston Rockets win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 1,
+      "vol24h": 26424,
+      "headlines": [
+        {
+          "title": "Pat McAfee upsets Utah fans with Houston football prediction in front of Dalton Kincaid",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWtyTGY5dUxwUjlUWjU1WDN5S3NvWlltQjVnUl9XU2lMbGVsZFV5azI4NzFta0pkZWJ3V2NndWNQMXU2aHN4ZjBVdEtrWHN0NzEyOEp5dzZQdmhneENmWUF6OFlQckJzdG5iTnFaZ1l1VmpyQzlwekVHZHhRekpZMVNR?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Utah Jazz win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-utah-jazz-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 19158,
+      "headlines": [
+        {
+          "title": "Pat McAfee upsets Utah fans with Houston football prediction in front of Dalton Kincaid",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWtyTGY5dUxwUjlUWjU1WDN5S3NvWlltQjVnUl9XU2lMbGVsZFV5azI4NzFta0pkZWJ3V2NndWNQMXU2aHN4ZjBVdEtrWHN0NzEyOEp5dzZQdmhneENmWUF6OFlQckJzdG5iTnFaZ1l1VmpyQzlwekVHZHhRekpZMVNR?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 17036,
+      "vol24h": 14562,
       "headlines": [
         {
-          "title": "“90 percent of the team were doing drugs” – Spencer Haywood exposed cocaine culture behind 1980 Lakers championship",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ2o0QmJEcU9zZzdtdTZzSFBTcVpDQkZNYnNJVEFnaEdEUWw3Z1lLbVJLckRHb1JPc2FaZWUweHF4VlVEaHkxcjAxM2lMRmhtVVFVRHBnTXJpYWp5ZlJ0ZEo3dEF1NnM1M0xiSV9LM0FlSkRzUUtEczZjWTRDQzl3VnVXd0RPZE0zd1k1bzhoWGUyb05kZVZ3QzE2UEVxdm1GNG9RVzg2c01VYlVYaGRLSExnZ2RPeXljRE04?oc=5",
+          "title": "Pelicans vs. Nuggets: Injury Report, Game Preview 10/24/2026",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMXl5R1VXeG1VR0FhSVU2eC1CTEtWQ253dFMtNUU0TVRTd2c4WGZnVVFCbGFDQWQ1STFZM2xVcGlrVlB6Uy00WTdZX2pWenptZ1hDc1dnRW1JTF94eTBXLXZXTFB2eFJfSjBPYUtBY2haOTJaMGpoRWhvR0tiZmloR1pjV1gxMEI3ZFlONC1DdVlkd3dqZHc?oc=5",
           "cat": "NBA"
         }
       ]
@@ -134,21 +184,39 @@
   ],
   "moversOnly": [
     {
-      "question": "ICC Cricket World Cup Challenge League A: Qatar vs Kenya",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-qat-ken-2026-10-24",
-      "yes": 100,
-      "change24h": 54,
-      "vol24h": 21205,
+      "question": "Ilhan Omar federally charged by December 31?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/ilhan-omar-federally-charged-by-december-31-2026",
+      "yes": 27,
+      "change24h": -11,
+      "vol24h": 16654,
       "headlines": []
     },
     {
-      "question": "ICC Men's T20 World Cup Africa Sub Regional Qualifier C: Gambia vs Zambia",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-gmb-zmb-2026-10-24",
-      "yes": 5,
-      "change24h": -11,
-      "vol24h": 22343,
+      "question": "Will Ethereum reach $3,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8",
+      "yes": 24,
+      "change24h": -7,
+      "vol24h": 35028,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 41,
+      "change24h": 6,
+      "vol24h": 170165,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 47,
+      "change24h": -6,
+      "vol24h": 28263,
       "headlines": []
     }
   ]
