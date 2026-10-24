@@ -1,83 +1,13 @@
 {
-  "updated": "2026-10-23T20:43:29.243Z",
+  "updated": "2026-10-24T02:14:56.855Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $2,300 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2300-october-19-25-2026",
-      "yes": 10,
-      "change24h": -27,
-      "vol24h": 19378,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $80,000 October 19-25?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
-      "yes": 27,
-      "change24h": -26,
-      "vol24h": 35131,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "yes": 62,
-      "change24h": -11,
-      "vol24h": 24979,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In October 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 21,
-      "change24h": -4,
-      "vol24h": 16711,
-      "headlines": [
-        {
-          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
-      "yes": 21,
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 74,
       "change24h": -3,
-      "vol24h": 15028,
+      "vol24h": 13983,
       "headlines": [
         {
           "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
@@ -86,9 +16,9 @@
           "cat": "Macro"
         },
         {
-          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+          "title": "The Fed Faces Its Most Confusing Economy Yet",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWtTcnB5VzZ4eWIwQV9sRU5BWmxDNXU3a1MyYm9MNEdvSXM4cjA0THVHMWVfT29lTnp2RDdXSG5JOERnci1iNjZCRWp2MkhYV1N4LXB3b0pILVVGc1c1d3RJWUNDSzFnS0dDRURUNTNCX3VmTWQ0djBYXy0wV0IwQ0xIVFByRGtJSUtSSDdPWkNBckhtTm1GbXktcmx6X3ZZY1dYbzlCTHZFcW9iMVM1dGlLWmpva3lzWUhTUHJqNC1fallTRzJZ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -99,7 +29,7 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 8,
       "change24h": 2,
-      "vol24h": 1120608,
+      "vol24h": 1264111,
       "headlines": [
         {
           "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
@@ -108,13 +38,162 @@
           "cat": "Macro"
         },
         {
-          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+          "title": "The Fed Faces Its Most Confusing Economy Yet",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWtTcnB5VzZ4eWIwQV9sRU5BWmxDNXU3a1MyYm9MNEdvSXM4cjA0THVHMWVfT29lTnp2RDdXSG5JOERnci1iNjZCRWp2MkhYV1N4LXB3b0pILVVGc1c1d3RJWUNDSzFnS0dDRURUNTNCX3VmTWQ0djBYXy0wV0IwQ0xIVFByRGtJSUtSSDdPWkNBckhtTm1GbXktcmx6X3ZZY1dYbzlCTHZFcW9iMVM1dGlLWmpva3lzWUhTUHJqNC1fallTRzJZ?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 74,
+      "change24h": 2,
+      "vol24h": 13287,
+      "headlines": [
+        {
+          "title": "The Fed Can Pause, But Inflation Won’t (null:SPX)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMDF5NmY2MlVQb3FfU19qOVI5ZmY4ZWlERjlfcU1icjNqTWlFejlTay1SVkd4WjBYQWxDUmhtMzg0QlBpMVNodGdLaDluOGNVeFhiTXoySVNCN3dnYWI5VmN4RllZd2JFR0poWkZtZlpwbjRXeGw2cA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed Faces Its Most Confusing Economy Yet",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWtTcnB5VzZ4eWIwQV9sRU5BWmxDNXU3a1MyYm9MNEdvSXM4cjA0THVHMWVfT29lTnp2RDdXSG5JOERnci1iNjZCRWp2MkhYV1N4LXB3b0pILVVGc1c1d3RJWUNDSzFnS0dDRURUNTNCX3VmTWQ0djBYXy0wV0IwQ0xIVFByRGtJSUtSSDdPWkNBckhtTm1GbXktcmx6X3ZZY1dYbzlCTHZFcW9iMVM1dGlLWmpva3lzWUhTUHJqNC1fallTRzJZ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 38843,
+      "headlines": [
+        {
+          "title": "Mavericks lose Flagg to injury, and ruin Haliburton's home return with 121-105 win over Pacers",
+          "source": "WRAL",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmlMTW4tNXd2SkthVktHQi0yNmRleTJLYTQyckxlSWFXaDgtMjIwTEx4aGlpUW1kVjRyYjd0aS1aOVpjOXd0YjJRY01FbTgzTmMyWFA5Q3RFeWp1cGtvVXFmU09KSGxTbE8wVXFIX19Xa19nWEVyd1c3alRnaGhYR0Y5M2lCNlNUOS1oaUVLYzZ1bERyODBCcm5Xby1PMG9IMm5VTmFSZWJVTkcySEotb1Y3X3RldnY0amVzUlRucVNiWEEyVmFJ?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Mavericks lose Flagg to injury, and ruin Haliburton's home return with 121-105 win over Pacers",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVJZRjJlUGU2LUMtYzc4T3A1d1VRcFZxaDNvVFI1Wkh2cG1uV1JUWlJmVGU3WUUxQ3JoczJoNjNrYTZObmdlUXNJUVF3X3Z3N2JmdWZBTl9veUR0eW5SWkxuQzN4UGdkUm9odmhpdzQyWTZuQk1lZTN1ZFlHcGVLdW1kcTJEQk1GMk13WmhGNA?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Orlando Magic win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 33655,
+      "headlines": [
+        {
+          "title": "Despite low output from Anthony Edwards, Timberwolves dominate glass and roll Magic 115-93",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTkkxZVFPMDZXcVNJX3BsdDlwZUFpWDM5X0FXdVQ4bWFsa3ZGRWdLaWxpUVpfckxRZjNndWpOT3lVVHptLVhzcUt5ZGJCeDZWNTVIdk9qQmJMbWM5ZDhxVjdRNG5XMmQyQ3dsY3ByYURPby1UN19QRm5icHo0dw?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 26091,
+      "headlines": [
+        {
+          "title": "Despite low output from Anthony Edwards, Timberwolves dominate glass and roll Magic 115-93",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTkkxZVFPMDZXcVNJX3BsdDlwZUFpWDM5X0FXdVQ4bWFsa3ZGRWdLaWxpUVpfckxRZjNndWpOT3lVVHptLVhzcUt5ZGJCeDZWNTVIdk9qQmJMbWM5ZDhxVjdRNG5XMmQyQ3dsY3ByYURPby1UN19QRm5icHo0dw?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Bitcoin reach $84,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-19-25-2026-from-october-22",
+      "yes": 3,
+      "change24h": -20,
+      "vol24h": 12023,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $2,500 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-october-19-25-2026-from-october-22",
+      "yes": 5,
+      "change24h": -17,
+      "vol24h": 15234,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "yes": 56,
+      "change24h": -13,
+      "vol24h": 25594,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-in-october-2026-from-october-15",
+      "yes": 77,
+      "change24h": 10,
+      "vol24h": 16629,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $80,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-80k-october-19-25-2026",
+      "yes": 45,
+      "change24h": 6,
+      "vol24h": 74663,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum reach $3,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-3000-by-december-31-2026-from-june-8",
+      "yes": 25,
+      "change24h": -6,
+      "vol24h": 30816,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 13,
+      "change24h": -6,
+      "vol24h": 22672,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $78,000 October 19-25?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-19-25-2026",
+      "yes": 7,
+      "change24h": -5,
+      "vol24h": 62031,
+      "headlines": []
+    }
+  ]
 }
