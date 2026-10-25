@@ -1,94 +1,24 @@
 {
-  "updated": "2026-10-25T02:01:17.302Z",
+  "updated": "2026-10-25T10:17:05.771Z",
   "withNews": [
-    {
-      "question": "Will the price of Ethereum be above $2,400 on October 26?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2400-on-october-26-2026",
-      "yes": 31,
-      "change24h": -11,
-      "vol24h": 25417,
-      "headlines": [
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "yes": 61,
-      "change24h": 6,
-      "vol24h": 13605,
-      "headlines": [
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,200 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-october-2026",
-      "yes": 32,
-      "change24h": 5,
-      "vol24h": 26279,
-      "headlines": [
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 5,
-      "change24h": -3,
-      "vol24h": 548612,
-      "headlines": [
-        {
-          "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
     {
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 77,
       "change24h": 3,
-      "vol24h": 86334,
+      "vol24h": 71710,
       "headlines": [
         {
-          "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5",
+          "title": "US Fed set to lead G7 trio in hawkish rate pause",
+          "source": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1RIXy1YOGN3bklYZmtrZTJUZGI4LVQwVHoxN0ZLbWRIRHhfN0F5SzgtR2tVcDBVNHNuM3dLV2VpMWZESmdPcG1GOE5rZ2YxT3pJQW1ET1N3WldTTzJvS1BxbUVNbDJjYUoybVd6bTZwbTI4eHZFVTZVMXVzNzh5WDF5V3RiN1o5dXRfNlRsZk9od0k?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
+          "title": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1JicDg2NWJQMmptNFJkTHh4SUFWM213b0dOYk0yT3hXemFCNGExb25rellPRFVaajNDWmxNR09KMVVLSE92M3J6WXRyMk9wSlY4ZE5sODk0N3QyMlhQUkpFRVFfTEFCQThVYnhPcXZwUmFxQW5XYjN3Zm1IeTBnSkFLalJGMzZ5VjdBQnpaN0l2eXM3SUM2NE5SVzhVXzJjVmZodG91YmJoUTRTVFNiMEVRdGpmcnR5b1V1X2JhdVNuZzV1WmdVRW9waE5iYkYyNGFFWVZVeUtveVEzbXBmTVNKeTF0TlpKbVJXVktoNmV3a2xDVTRBRHdzV3VDbFFuZ3hB0gGIAkFVX3lxTE1xN1dqM0U0Q2R4RmVrNWt2ODhHYUVUZm1NRTRFZDhsYVVyQURLWEVHY3BCTDRQVWFaenloZ1BwWnAyc0habjNzZ0l5TzBfN0JjZDI5d2FlZzBmbXQtT0FpREVySkxhYTNlYVNhUnlvV1hpYUVRZHFwaHFLRlNkbm9iR20wRU5KdGUwU2ZSYWctVjRWRGpZdWVweVZ6VE5VSTdVbW5Lak9xU2FxWWVJbzNveGl5aVVBRU5HUVBKOGJlNDk2MlZzM0ZXTzhoR3FSbnNTUl9Yb0Y2ejNRQ2pnUXNUc1BYbjZLUWNGRnZtRGltanYwSGdIWWpSaTJ0TmZDWFdWN0lSLVdPdQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -99,50 +29,88 @@
       "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
       "yes": 77,
       "change24h": 3,
-      "vol24h": 49754,
+      "vol24h": 18463,
       "headlines": [
         {
-          "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFg3ZkV4QzdBaTNjLTU0N3lHTUpMWEFETVhtYU9NS2l5QlhfMU0zeV9SLTd4ZTFwbnBGUGFOa29IQ25VMmQ3aXotU1hPRkZHR0szdFQ2RzRCemE4SzNVYS1GRG5oZjh0RHVIU2FiUzJLemdEdlk3TGF3SWdKQi1ZZGk5SFNwS2ZKTU1HNzJZSk85T0tiTlU4VXVVVlVsVkE2R2VlSGIxOVd1MUpjY1U2cA?oc=5",
+          "title": "US Fed set to lead G7 trio in hawkish rate pause",
+          "source": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1RIXy1YOGN3bklYZmtrZTJUZGI4LVQwVHoxN0ZLbWRIRHhfN0F5SzgtR2tVcDBVNHNuM3dLV2VpMWZESmdPcG1GOE5rZ2YxT3pJQW1ET1N3WldTTzJvS1BxbUVNbDJjYUoybVd6bTZwbTI4eHZFVTZVMXVzNzh5WDF5V3RiN1o5dXRfNlRsZk9od0k?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
+          "title": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1JicDg2NWJQMmptNFJkTHh4SUFWM213b0dOYk0yT3hXemFCNGExb25rellPRFVaajNDWmxNR09KMVVLSE92M3J6WXRyMk9wSlY4ZE5sODk0N3QyMlhQUkpFRVFfTEFCQThVYnhPcXZwUmFxQW5XYjN3Zm1IeTBnSkFLalJGMzZ5VjdBQnpaN0l2eXM3SUM2NE5SVzhVXzJjVmZodG91YmJoUTRTVFNiMEVRdGpmcnR5b1V1X2JhdVNuZzV1WmdVRW9waE5iYkYyNGFFWVZVeUtveVEzbXBmTVNKeTF0TlpKbVJXVktoNmV3a2xDVTRBRHdzV3VDbFFuZ3hB0gGIAkFVX3lxTE1xN1dqM0U0Q2R4RmVrNWt2ODhHYUVUZm1NRTRFZDhsYVVyQURLWEVHY3BCTDRQVWFaenloZ1BwWnAyc0habjNzZ0l5TzBfN0JjZDI5d2FlZzBmbXQtT0FpREVySkxhYTNlYVNhUnlvV1hpYUVRZHFwaHFLRlNkbm9iR20wRU5KdGUwU2ZSYWctVjRWRGpZdWVweVZ6VE5VSTdVbW5Lak9xU2FxWWVJbzNveGl5aVVBRU5HUVBKOGJlNDk2MlZzM0ZXTzhoR3FSbnNTUl9Yb0Y2ejNRQ2pnUXNUc1BYbjZLUWNGRnZtRGltanYwSGdIWWpSaTJ0TmZDWFdWN0lSLVdPdQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 52600,
+      "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "yes": 96,
+      "change24h": 2,
+      "vol24h": 695201,
       "headlines": [
         {
-          "title": "Philip Rivers emerges as possible NC State HC replacement after Dave Doeren firing",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVkVfVWVtTUVkS3Z2c25VVDFlTXNfdlJzT3pPOGY4UUVKTEZ3OG95T1BXSXdOT2dHWHdHVXF4RF90QlM5TUdxLVVVVDM3R0ZCVzhrSmtaUjRHV3RPc2I2bjJUcExKUEJrRkgzcFlVOE50eUJXUFdDZ1M3V0w4OWZqc3k5TVRkTF83b2c?oc=5",
-          "cat": "NFL"
+          "title": "US Fed set to lead G7 trio in hawkish rate pause",
+          "source": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1RIXy1YOGN3bklYZmtrZTJUZGI4LVQwVHoxN0ZLbWRIRHhfN0F5SzgtR2tVcDBVNHNuM3dLV2VpMWZESmdPcG1GOE5rZ2YxT3pJQW1ET1N3WldTTzJvS1BxbUVNbDJjYUoybVd6bTZwbTI4eHZFVTZVMXVzNzh5WDF5V3RiN1o5dXRfNlRsZk9od0k?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV1JicDg2NWJQMmptNFJkTHh4SUFWM213b0dOYk0yT3hXemFCNGExb25rellPRFVaajNDWmxNR09KMVVLSE92M3J6WXRyMk9wSlY4ZE5sODk0N3QyMlhQUkpFRVFfTEFCQThVYnhPcXZwUmFxQW5XYjN3Zm1IeTBnSkFLalJGMzZ5VjdBQnpaN0l2eXM3SUM2NE5SVzhVXzJjVmZodG91YmJoUTRTVFNiMEVRdGpmcnR5b1V1X2JhdVNuZzV1WmdVRW9waE5iYkYyNGFFWVZVeUtveVEzbXBmTVNKeTF0TlpKbVJXVktoNmV3a2xDVTRBRHdzV3VDbFFuZ3hB0gGIAkFVX3lxTE1xN1dqM0U0Q2R4RmVrNWt2ODhHYUVUZm1NRTRFZDhsYVVyQURLWEVHY3BCTDRQVWFaenloZ1BwWnAyc0habjNzZ0l5TzBfN0JjZDI5d2FlZzBmbXQtT0FpREVySkxhYTNlYVNhUnlvV1hpYUVRZHFwaHFLRlNkbm9iR20wRU5KdGUwU2ZSYWctVjRWRGpZdWVweVZ6VE5VSTdVbW5Lak9xU2FxWWVJbzNveGl5aVVBRU5HUVBKOGJlNDk2MlZzM0ZXTzhoR3FSbnNTUl9Yb0Y2ejNRQ2pnUXNUc1BYbjZLUWNGRnZtRGltanYwSGdIWWpSaTJ0TmZDWFdWN0lSLVdPdQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
+      "question": "Will Orlando Magic win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
-      "yes": 3,
+      "url": "https://polymarket.com/event/will-orlando-magic-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 13666,
+      "vol24h": 57462,
       "headlines": [
         {
-          "title": "Cavaliers Nets Basketball",
-          "source": "The Herald Journal",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVE2Z2Z5cFR0WmpWSGlNMjA1OGdwWW1la21maHJhdXItQmdHejJldTh5N3pvNnQ4Z0sxWlpFcV9KWjdYeUNGc3MxX1RheU1jcHRWeUlKT0lvN3RtcEw1R01zZXo5cndJdllnc0x1N1pGdnBMTnE5dXBIazh4SGpOSmhzOGlEcEpkZmtrcHFFNDVKbllzU2xqZkx0bEV0MmtsRkl1a1JaQkJySWZmVUVB?oc=5",
+          "title": "Orlando Magic vs New York Knicks Prediction, Picks & Odds | NBA Sunday",
+          "source": "Sportsgambler",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHZ1TllhRy03Q3ZHVXBZM2ExbFMxWXNuQVJqTkx0VnBxYmRCVnAyeTltdFZCbkxVanlfZFk0Z1BRZ01XemtadFYzMWVxUDIwZzlLMFhDV3BwdXBDTVVSWXdkVTlZbndhMGhZa2swNjVlcVhIVFZSLWlpUTluczc2LWRUcTJyaTA4SW4xMzlDa1R3M1NpR2lxd05sdFM0TjFPN1RhYVFoS05ZYS1nWlZScg?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 39990,
+      "headlines": [
+        {
+          "title": "Memphis Grizzlies vs Sacramento Kings Prediction, Picks & Odds | NBA Sunday",
+          "source": "Sportsgambler",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVo4M2VoWllLZVQ3TXoxZHdvcE5WaEZvSUZkMkZjQ05QSkhITnJzT3Z4ZldSNzJTay1ONlVJX0V5Q2RFMFpsYVY3aVAyMXFkZjd3QzZRVlZicHJhdDJMNUk1ZE1lbmRUSlVROTFvckRsWGNZdkpJZHNZYTRCY25Yd0QzQWFzOXctUGFseF9lY0lHQlMyeXZIbjlyVlZycEFUUFpJV01fUGlObUFaYnZuNGxLWFFKQUE?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 24,
+      "change24h": 0,
+      "vol24h": 18578,
+      "headlines": [
+        {
+          "title": "LA Clippers vs Oklahoma City Thunder Prediction, Picks & Odds | NBA Sunday",
+          "source": "Sportsgambler",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZHV4RjBXME5DMGNnM3l1R05LN3k5U2g0RjR1UHZGWjRyU1V0QzBNZFUybDRhMXpqRXoxb05YdU5fTEppNGl2a0RlUTAwUlF2V1ROZ0c0OGcyOEtsSkpqbGt3TVQ3NVRsWURVTHNQY3NFeVFmUlVFSGpLN0FXS3pFOURpMW1yX2RGN1FyWEpYQjhicTVRTDc2cmRwRkc4UU92TzBXd05SemhxbjVOWEJNbVVhd2djQQ?oc=5",
           "cat": "NBA"
         }
       ]
@@ -150,21 +118,30 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,500 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 40,
-      "change24h": 4,
-      "vol24h": 159194,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-october-2026-from-october-22",
+      "yes": 30,
+      "change24h": -10,
+      "vol24h": 20409,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $2,200 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-october-2026",
+      "yes": 39,
+      "change24h": 9,
+      "vol24h": 27025,
       "headlines": []
     },
     {
       "question": "Ilhan Omar federally charged by December 31?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/ilhan-omar-federally-charged-by-december-31-2026",
-      "yes": 32,
+      "yes": 33,
       "change24h": -4,
-      "vol24h": 16534,
+      "vol24h": 16532,
       "headlines": []
     }
   ]
