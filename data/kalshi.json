@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-24 22:14 UTC",
-  "net_return_pct": -8.2,
-  "realized_return_pct": -8.2,
+  "updated": "2026-10-25 00:22 UTC",
+  "net_return_pct": -6.8,
+  "realized_return_pct": -6.8,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 57.9,
-  "settled_total": 19,
+  "win_rate_pct": 60,
+  "settled_total": 20,
   "curve": [
     0,
     -100,
@@ -24,24 +24,32 @@
     -5.1,
     -10.6,
     1.2,
-    3.5,
-    -8.2
+    -10.6,
+    -8.2,
+    -6.8
   ],
   "active": [],
   "settled": [
+    {
+      "title": "BYU wins",
+      "ticker": "KXNCAAFGAME-26OCT23BYUUCF-BYU",
+      "result": "no",
+      "date": "2026-10-24",
+      "return_pct": 5.4
+    },
+    {
+      "title": "Tennessee wins",
+      "ticker": "KXNCAAFGAME-26OCT23TENNSCAR-TENN",
+      "result": "no",
+      "date": "2026-10-24",
+      "return_pct": 68.4
+    },
     {
       "title": "Oregon wins",
       "ticker": "KXNCAAFGAME-26OCT23OREILL-ORE",
       "result": "no",
       "date": "2026-10-24",
       "return_pct": -100
-    },
-    {
-      "title": "Tennessee wins",
-      "ticker": "KXNCAAFGAME-26OCT23TENNSCAR-TENN",
-      "result": "closed",
-      "date": "2026-10-24",
-      "return_pct": 68.4
     },
     {
       "title": "Michigan wins",
