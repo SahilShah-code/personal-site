@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25 19:57 UTC",
-  "net_return_pct": -4.8,
-  "realized_return_pct": -4.8,
+  "updated": "2026-10-25 22:23 UTC",
+  "net_return_pct": 8,
+  "realized_return_pct": 8,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 61.9,
-  "settled_total": 21,
+  "win_rate_pct": 65.2,
+  "settled_total": 23,
   "curve": [
     0,
     -100,
@@ -27,14 +27,30 @@
     -10.6,
     -8.2,
     -6.8,
-    -4.8
+    -4.8,
+    -4.1,
+    8
   ],
   "active": [],
   "settled": [
     {
+      "title": "yes Utah,yes Miami",
+      "ticker": "KXMVECROSSCATEGORY-S2026FWYMYKYFNK6TUGRK-QBCKIJESW",
+      "result": "closed",
+      "date": "2026-10-25",
+      "return_pct": 238.9
+    },
+    {
+      "title": "Houston wins",
+      "ticker": "KXNFLGAME-26OCT25NYGHOU-HOU",
+      "result": "no",
+      "date": "2026-10-25",
+      "return_pct": 44.5
+    },
+    {
       "title": "Cincinnati wins",
       "ticker": "KXNFLGAME-26OCT25CINBAL-CIN",
-      "result": "closed",
+      "result": "yes",
       "date": "2026-10-25",
       "return_pct": 59.4
     },
@@ -156,20 +172,6 @@
       "result": "no",
       "date": "2026-10-04",
       "return_pct": -100
-    },
-    {
-      "title": "Cincinnati wins",
-      "ticker": "KXNFLGAME-26OCT04JACCIN-CIN",
-      "result": "no",
-      "date": "2026-10-04",
-      "return_pct": -100
-    },
-    {
-      "title": "Pittsburgh wins",
-      "ticker": "KXNFLGAME-26OCT01PITCLE-PIT",
-      "result": "no",
-      "date": "2026-10-02",
-      "return_pct": 92.2
     }
   ]
 }
