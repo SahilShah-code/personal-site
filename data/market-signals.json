@@ -1,91 +1,19 @@
 {
-  "updated": "2026-10-25T15:09:30.336Z",
+  "updated": "2026-10-25T20:05:09.211Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $77,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 38,
-      "change24h": -26,
-      "vol24h": 58140,
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": -1,
+      "vol24h": 35284,
       "headlines": [
         {
-          "title": "NBA DFS First Look: Basketball Odds, Salaries, & Stats for Sunday, October 25th",
-          "source": "RotoGrinders",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTV3NXVjX2ZXWklHLUlsZXJFbGdvbFFxUGVVU0F2R3lFOG9LUjNrYmItdXBadTRqWlp3N25VTEZUUk94ZjlKRzAwb3JadmxEd1EyaFExTk5zS2t3V08wazBVa0F6Y3lWTGtUYVhZZkFlZVdxQjB0RUZUN2NGZTlFUHAwWjhJWWRleGE2MkFyUDh5RWxWY2F3Z1g3V0pmcGl1a09JUmE2SzNhSEdVNkNEby0xWjM?oc=5",
+          "title": "Magic Johnson reveals Lakers players used to bet on how many words Kareem would give reporters: \"One or none?\"",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1IzZXA4NUVROGoxS3dHekNGN0dQeFVDSllCeVVqUkg4TzdHWHk1cVZHM0pRXzZERzZFZnZPbk9pQ1pCQzd0aUx2Q01Xc2xXWGU2aUJLcjJCRkxOSkR4OTkzRy1hV25GYnRLTVZucUI4ai1EVV9XaXZpclhZZnpOdklmMXVnOHF2Nmp2ZElB?oc=5",
           "cat": "NBA"
-        },
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,200 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-october-2026",
-      "yes": 38,
-      "change24h": -22,
-      "vol24h": 27197,
-      "headlines": [
-        {
-          "title": "NBA DFS First Look: Basketball Odds, Salaries, & Stats for Sunday, October 25th",
-          "source": "RotoGrinders",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTV3NXVjX2ZXWklHLUlsZXJFbGdvbFFxUGVVU0F2R3lFOG9LUjNrYmItdXBadTRqWlp3N25VTEZUUk94ZjlKRzAwb3JadmxEd1EyaFExTk5zS2t3V08wazBVa0F6Y3lWTGtUYVhZZkFlZVdxQjB0RUZUN2NGZTlFUHAwWjhJWWRleGE2MkFyUDh5RWxWY2F3Z1g3V0pmcGl1a09JUmE2SzNhSEdVNkNEby0xWjM?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 64,
-      "change24h": 19,
-      "vol24h": 47225,
-      "headlines": [
-        {
-          "title": "NBA DFS First Look: Basketball Odds, Salaries, & Stats for Sunday, October 25th",
-          "source": "RotoGrinders",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTV3NXVjX2ZXWklHLUlsZXJFbGdvbFFxUGVVU0F2R3lFOG9LUjNrYmItdXBadTRqWlp3N25VTEZUUk94ZjlKRzAwb3JadmxEd1EyaFExTk5zS2t3V08wazBVa0F6Y3lWTGtUYVhZZkFlZVdxQjB0RUZUN2NGZTlFUHAwWjhJWWRleGE2MkFyUDh5RWxWY2F3Z1g3V0pmcGl1a09JUmE2SzNhSEdVNkNEby0xWjM?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "October Fed Meeting Preview: A Pause Is Still A Recalibration",
-          "source": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdEJ6U0E1WFhDeF9MSU14c3Flbnk3Tkc5TXhZbWs4bk9RLUdVWjg3WXFVR3hSRGlhaEkzQThqQmh6MDNwUGZIcFVmZFFHTGlady1XM0V5YldLakhGZllWcTYzTXRJZkNnSUgwY3liRVhiVC1uSDJJT0IyV0x6QnhwZXJzNkttLWJDZ0JyYjFRQndEZHhtZHNVMnd3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 77,
-      "change24h": 3,
-      "vol24h": 74296,
-      "headlines": [
-        {
-          "title": "Brent crude, Fed rates and global economy: Three key numbers to post-midterm elections 2026",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02amE1ZVA4VHhyOXJYaXFmbFRVZzlqS0dldGZpNmZCZGliU0djWGRiZFpFLTZrOU5MUk8xRGRwRHN5X05DVUtGX1QtdmJXTzZobzRN?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "US Fed set to lead G7 trio in hawkish rate pause",
-          "source": "The Business Times",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1RIXy1YOGN3bklYZmtrZTJUZGI4LVQwVHoxN0ZLbWRIRHhfN0F5SzgtR2tVcDBVNHNuM3dLV2VpMWZESmdPcG1GOE5rZ2YxT3pJQW1ET1N3WldTTzJvS1BxbUVNbDJjYUoybVd6bTZwbTI4eHZFVTZVMXVzNzh5WDF5V3RiN1o5dXRfNlRsZk9od0k?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -95,13 +23,35 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 580640,
+      "vol24h": 565557,
       "headlines": [
         {
-          "title": "NBA DFS First Look: Basketball Odds, Salaries, & Stats for Sunday, October 25th",
-          "source": "RotoGrinders",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTV3NXVjX2ZXWklHLUlsZXJFbGdvbFFxUGVVU0F2R3lFOG9LUjNrYmItdXBadTRqWlp3N25VTEZUUk94ZjlKRzAwb3JadmxEd1EyaFExTk5zS2t3V08wazBVa0F6Y3lWTGtUYVhZZkFlZVdxQjB0RUZUN2NGZTlFUHAwWjhJWWRleGE2MkFyUDh5RWxWY2F3Z1g3V0pmcGl1a09JUmE2SzNhSEdVNkNEby0xWjM?oc=5",
-          "cat": "NBA"
+          "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1RVQzhCY3dfS0dqb0VnaTFaN01KNkx1aTVlOTV2RWVXUTN1QmVLajFiWmhqR040QXIxQWhVaUhBakI2eVFpSFpOQ0lDVEZvUUhPbzU4RWlyaFV1cFdnREpNX1JJY0tpNTlLcEc4SEk1QktfVnFCN0JUakRHbGRQQlZqTnI5WDM2VnI3cVJ2dUxCRl92R2o3U3dpUjlCWEk?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Brent crude, Fed rates and global economy: Three key numbers to post-midterm elections 2026",
+          "source": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02amE1ZVA4VHhyOXJYaXFmbFRVZzlqS0dldGZpNmZCZGliU0djWGRiZFpFLTZrOU5MUk8xRGRwRHN5X05DVUtGX1QtdmJXTzZobzRN?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 558144,
+      "headlines": [
+        {
+          "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1RVQzhCY3dfS0dqb0VnaTFaN01KNkx1aTVlOTV2RWVXUTN1QmVLajFiWmhqR040QXIxQWhVaUhBakI2eVFpSFpOQ0lDVEZvUUhPbzU4RWlyaFV1cFdnREpNX1JJY0tpNTlLcEc4SEk1QktfVnFCN0JUakRHbGRQQlZqTnI5WDM2VnI3cVJ2dUxCRl92R2o3U3dpUjlCWEk?oc=5",
+          "cat": "Macro"
         },
         {
           "title": "Brent crude, Fed rates and global economy: Three key numbers to post-midterm elections 2026",
@@ -117,13 +67,13 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 95,
       "change24h": 0,
-      "vol24h": 541617,
+      "vol24h": 510805,
       "headlines": [
         {
-          "title": "NBA DFS First Look: Basketball Odds, Salaries, & Stats for Sunday, October 25th",
-          "source": "RotoGrinders",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOTV3NXVjX2ZXWklHLUlsZXJFbGdvbFFxUGVVU0F2R3lFOG9LUjNrYmItdXBadTRqWlp3N25VTEZUUk94ZjlKRzAwb3JadmxEd1EyaFExTk5zS2t3V08wazBVa0F6Y3lWTGtUYVhZZkFlZVdxQjB0RUZUN2NGZTlFUHAwWjhJWWRleGE2MkFyUDh5RWxWY2F3Z1g3V0pmcGl1a09JUmE2SzNhSEdVNkNEby0xWjM?oc=5",
-          "cat": "NBA"
+          "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1RVQzhCY3dfS0dqb0VnaTFaN01KNkx1aTVlOTV2RWVXUTN1QmVLajFiWmhqR040QXIxQWhVaUhBakI2eVFpSFpOQ0lDVEZvUUhPbzU4RWlyaFV1cFdnREpNX1JJY0tpNTlLcEc4SEk1QktfVnFCN0JUakRHbGRQQlZqTnI5WDM2VnI3cVJ2dUxCRl92R2o3U3dpUjlCWEk?oc=5",
+          "cat": "Macro"
         },
         {
           "title": "Brent crude, Fed rates and global economy: Three key numbers to post-midterm elections 2026",
@@ -132,34 +82,88 @@
           "cat": "Macro"
         }
       ]
+    },
+    {
+      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 18166,
+      "headlines": [
+        {
+          "title": "Caleb Wilson delivers loud introduction in Chicago Bulls' home opener",
+          "source": "Tar Heels Wire",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeW5sRFpwTW9sRGdYVDJlZ3I3UXlOYW1JUnlPX1k3YUtnLUROYVRhQ01GZUVDZUhIaHM4MS1LVHdjclh2MGNoR3FNc2lrQjFjM0p2eEZoYTU4YUhWc1FrLTgxZXRMUTJiQlpHdnZ0elRlVWpmS1MxU01BdGxkWFA3aUxSallKa3FTN1E3V3hSYnZyOFdINjJtWHNDZmppLXdSa2FYQlFobDc5Qld3UGxCYzRxQUNuZE9kVEdFMEpPQjluak5WTEw1TmVuQjluZHRpTmg1dUNKM3MwaFRuQWJMYS13dDc5WGJHaFVLcFdUUExpSTNJVUhya3Z6SmI?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
+      "yes": 20,
+      "change24h": 0,
+      "vol24h": 16934,
+      "headlines": [
+        {
+          "title": "How three Tarris Reed minutes gave the Spurs their first win",
+          "source": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWtOd0ktMHRualEyZUg1VGpfeng5WkZSeHVRZEEtdGNhek83Ti1DUTkzV01yNV83QVZWeXBQRWlLQmQtZ2x0NG45VjFlcjVLSjQzM2pocDlIMTducjlOMW5UbURERDlTbk1MUDBvUlZPNnVXUVUxRjV1UUxoUTA3ZjNMSWJPSS00SUhEVHAzWmhUNkh5b3dEbk8wZ0pDUE9uTDV0bTFEcWlyNVgy?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Why Mitch Johnson wouldn't let Spurs celebrate their first win",
+          "source": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3lIbHI0NFhMVGlTNVpaN1B0akpoV2JkTjZsREZfRDVXWkR4M3JiWnVndERfNkNwYzJOYlpfTjFWU3MyOEhTOUtxcjlLeThrV3M3UXRiNnRXYWtRUy1mSWhZY0p1ZWlQNGQ4dmhEUHhXMnJyYzluZVgxZmdidXlSNVByR0RwYlhDREp5T2lEYjNqVWJvcG9leEt5YWc0akhpM2x6dEExNEpjQzJoMHNN?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the New Orleans Saints win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 16404,
+      "headlines": [
+        {
+          "title": "The surging Steelers smother the Saints in Paris to earn their third straight win",
+          "source": "Pittsburgh Post-Gazette",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbm43UjFSMml1azlvWFZER0hsaGJQYTBuU19aa2dQQnhtd3EwckJPdDRxWlk4b0dRUGE0OFBjQXNtNzNjTU8ybHl3emJWTjRjbE5MeUtjeVVlcG5sQ3BKVTBqRl9ZTkMxZ1p6WWRsQkVsYmNZU2haaWd5c2hwQmIzWThBa1dWYXZRUXZtVkxqUjhtamJRQ1VrVjI5bmRHREFYaTlyQ2N5Tm5xYXM?oc=5",
+          "cat": "NFL"
+        }
+      ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Cricket World Cup League 2: UAE vs Netherlands",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-are-nld-2026-10-25",
-      "yes": 0,
-      "change24h": -37,
-      "vol24h": 25114,
+      "question": "Will Bitcoin reach $82,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
+      "yes": 60,
+      "change24h": -4,
+      "vol24h": 45760,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 48,
-      "change24h": 8,
-      "vol24h": 25162,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
+      "yes": 24,
+      "change24h": -4,
+      "vol24h": 34645,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "question": "Will Ethereum reach $2,500 in October?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 40,
-      "change24h": -7,
-      "vol24h": 20617,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-october-2026-from-october-22",
+      "yes": 35,
+      "change24h": -4,
+      "vol24h": 18840,
       "headlines": []
     }
   ]
