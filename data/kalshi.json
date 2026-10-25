@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25 17:38 UTC",
-  "net_return_pct": -6.8,
-  "realized_return_pct": -6.8,
+  "updated": "2026-10-25 19:57 UTC",
+  "net_return_pct": -4.8,
+  "realized_return_pct": -4.8,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 60,
-  "settled_total": 20,
+  "win_rate_pct": 61.9,
+  "settled_total": 21,
   "curve": [
     0,
     -100,
@@ -26,10 +26,18 @@
     1.2,
     -10.6,
     -8.2,
-    -6.8
+    -6.8,
+    -4.8
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Cincinnati wins",
+      "ticker": "KXNFLGAME-26OCT25CINBAL-CIN",
+      "result": "closed",
+      "date": "2026-10-25",
+      "return_pct": 59.4
+    },
     {
       "title": "BYU wins",
       "ticker": "KXNCAAFGAME-26OCT23BYUUCF-BYU",
@@ -162,13 +170,6 @@
       "result": "no",
       "date": "2026-10-02",
       "return_pct": 92.2
-    },
-    {
-      "title": "Will LSU win the LSU vs Ole Miss college football game?",
-      "ticker": "KXNCAAFGAME-26SEP19LSUMISS-LSU",
-      "result": "no",
-      "date": "2026-09-20",
-      "return_pct": -100
     }
   ]
 }
