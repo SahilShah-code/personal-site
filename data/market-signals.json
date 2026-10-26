@@ -1,41 +1,25 @@
 {
-  "updated": "2026-10-25T20:05:09.211Z",
+  "updated": "2026-10-26T02:02:40.579Z",
   "withNews": [
     {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": -1,
-      "vol24h": 35284,
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 20,
+      "change24h": -4,
+      "vol24h": 50574,
       "headlines": [
         {
-          "title": "Magic Johnson reveals Lakers players used to bet on how many words Kareem would give reporters: \"One or none?\"",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ1IzZXA4NUVROGoxS3dHekNGN0dQeFVDSllCeVVqUkg4TzdHWHk1cVZHM0pRXzZERzZFZnZPbk9pQ1pCQzd0aUx2Q01Xc2xXWGU2aUJLcjJCRkxOSkR4OTkzRy1hV25GYnRLTVZucUI4ai1EVV9XaXZpclhZZnpOdklmMXVnOHF2Nmp2ZElB?oc=5",
+          "title": "Clippers Thunder Basketball",
+          "source": "Corsicana Daily Sun",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUxBNkkwRGtQeXVVMFJyREljRi0tUmZTcGJjMXcxNUNQcXNMUDNnUjJuYU94OWFDVm1LdzNLYlBHRHQwNkx1LUo2cFg0ZVFVZjBLLTItX19najdVdFlMUzBDbDl5U1BCTHVSNHlYTXpQV053aDU4eXdMQ1RiOGhVaFhwUlllQXNZZGdJRkJ2UU9VR2REZlVDa3IzS1FBNjQxUGptREt3S211TzJGcnEyMlBxMEdoakt1VDFsNlFCQS1CcVhUVzJvakpSc2U?oc=5",
           "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 565557,
-      "headlines": [
-        {
-          "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
-          "source": "Washington Examiner",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1RVQzhCY3dfS0dqb0VnaTFaN01KNkx1aTVlOTV2RWVXUTN1QmVLajFiWmhqR040QXIxQWhVaUhBakI2eVFpSFpOQ0lDVEZvUUhPbzU4RWlyaFV1cFdnREpNX1JJY0tpNTlLcEc4SEk1QktfVnFCN0JUakRHbGRQQlZqTnI5WDM2VnI3cVJ2dUxCRl92R2o3U3dpUjlCWEk?oc=5",
-          "cat": "Macro"
         },
         {
-          "title": "Brent crude, Fed rates and global economy: Three key numbers to post-midterm elections 2026",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02amE1ZVA4VHhyOXJYaXFmbFRVZzlqS0dldGZpNmZCZGliU0djWGRiZFpFLTZrOU5MUk8xRGRwRHN5X05DVUtGX1QtdmJXTzZobzRN?oc=5",
-          "cat": "Macro"
+          "title": "Chiefs vs. Seahawks score, live updates: Jaxon Smith-Njigba, Seattle lead Kansas City in third quarter",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTZMTGpTWmg0cjQtSFRJUlRqenNmSWIyeVJQUWhpT3Qwb0Nvd2ZrTWNoSndVWERUTDBCOXJpQmxJcDhqem9qNzVfb3ZBS0NNamJIUXZTQm1vSkx6ZUtEZzQxd25LNHNiUmwyNnB4dmVGdXI3RkRQTERwSEo3NmtKTWY0OThlUjAzZUtNaUR2cEN0bUxFeldhTEFUaTFsNE9GNDZuYVo0eWhUcXRqbXRF?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -44,20 +28,36 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "yes": 6,
-      "change24h": 0,
-      "vol24h": 558144,
+      "change24h": 1,
+      "vol24h": 982143,
       "headlines": [
+        {
+          "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
           "source": "Washington Examiner",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1RVQzhCY3dfS0dqb0VnaTFaN01KNkx1aTVlOTV2RWVXUTN1QmVLajFiWmhqR040QXIxQWhVaUhBakI2eVFpSFpOQ0lDVEZvUUhPbzU4RWlyaFV1cFdnREpNX1JJY0tpNTlLcEc4SEk1QktfVnFCN0JUakRHbGRQQlZqTnI5WDM2VnI3cVJ2dUxCRl92R2o3U3dpUjlCWEk?oc=5",
           "cat": "Macro"
-        },
+        }
+      ]
+    },
+    {
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
+      "yes": 6,
+      "change24h": 1,
+      "vol24h": 32837,
+      "headlines": [
         {
-          "title": "Brent crude, Fed rates and global economy: Three key numbers to post-midterm elections 2026",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02amE1ZVA4VHhyOXJYaXFmbFRVZzlqS0dldGZpNmZCZGliU0djWGRiZFpFLTZrOU5MUk8xRGRwRHN5X05DVUtGX1QtdmJXTzZobzRN?oc=5",
-          "cat": "Macro"
+          "title": "Timberwolves stay unbeaten with 117-94 win over Raptors in home opener",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWld5SF9TZGZRZEZNaGU5aGRvMURlZHpEY2xwLUlOejA1VzhZQjREcHVuSVFOYU4tcTc0RkZ0akVydzNWcjQwT2I5ems2UWd0Z05QSmRtUnpqcGxHYVRhNGtwMExkdlFULTFxQkpPNURlN1VDREwzd1NZZ2F3anU5eQ?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -67,56 +67,56 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "yes": 95,
       "change24h": 0,
-      "vol24h": 510805,
+      "vol24h": 1681135,
       "headlines": [
+        {
+          "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
           "source": "Washington Examiner",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1RVQzhCY3dfS0dqb0VnaTFaN01KNkx1aTVlOTV2RWVXUTN1QmVLajFiWmhqR040QXIxQWhVaUhBakI2eVFpSFpOQ0lDVEZvUUhPbzU4RWlyaFV1cFdnREpNX1JJY0tpNTlLcEc4SEk1QktfVnFCN0JUakRHbGRQQlZqTnI5WDM2VnI3cVJ2dUxCRl92R2o3U3dpUjlCWEk?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 641571,
+      "headlines": [
+        {
+          "title": "Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1NyNS1zejVOVGJGN2lpNFRDbnRBajBKbi10NDFjNWtKWWJjNUpYdzNVTjB2cl9Cd0ZyLXJkS0tfTzFlTjBaT0YyS1d0YnJ0Q3RLYnNyaFZUd3QwS3V5Q3g1cWNrRmdEVXhobElocmVwbUg0c0FGTld3ZE53N2FqcVRfcWFMb1pVZTd5U3I2X1hVTkJIX20yOXdscGNIV21IRzNheXFtRENiZ2lhSTFQaFZzMDdILUZGWkc2NWYwOTNPcWlfbnU5SzJmUWtXMlJLTktfMVh1bzZLU0FXRHl1VHZCLWlzb0Z4RTRaMnp5MmY2eU9KSk5j?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Brent crude, Fed rates and global economy: Three key numbers to post-midterm elections 2026",
-          "source": "شبكة تواصل الإخبارية",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02amE1ZVA4VHhyOXJYaXFmbFRVZzlqS0dldGZpNmZCZGliU0djWGRiZFpFLTZrOU5MUk8xRGRwRHN5X05DVUtGX1QtdmJXTzZobzRN?oc=5",
+          "title": "The Fed thinks it’s fighting inflation. It’s starving the cure",
+          "source": "Washington Examiner",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY1RVQzhCY3dfS0dqb0VnaTFaN01KNkx1aTVlOTV2RWVXUTN1QmVLajFiWmhqR040QXIxQWhVaUhBakI2eVFpSFpOQ0lDVEZvUUhPbzU4RWlyaFV1cFdnREpNX1JJY0tpNTlLcEc4SEk1QktfVnFCN0JUakRHbGRQQlZqTnI5WDM2VnI3cVJ2dUxCRl92R2o3U3dpUjlCWEk?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
+      "question": "Will Toronto Raptors win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
-      "yes": 0,
+      "url": "https://polymarket.com/event/will-toronto-raptors-win-the-2027-nba-finals",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 18166,
+      "vol24h": 35330,
       "headlines": [
         {
-          "title": "Caleb Wilson delivers loud introduction in Chicago Bulls' home opener",
-          "source": "Tar Heels Wire",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeW5sRFpwTW9sRGdYVDJlZ3I3UXlOYW1JUnlPX1k3YUtnLUROYVRhQ01GZUVDZUhIaHM4MS1LVHdjclh2MGNoR3FNc2lrQjFjM0p2eEZoYTU4YUhWc1FrLTgxZXRMUTJiQlpHdnZ0elRlVWpmS1MxU01BdGxkWFA3aUxSallKa3FTN1E3V3hSYnZyOFdINjJtWHNDZmppLXdSa2FYQlFobDc5Qld3UGxCYzRxQUNuZE9kVEdFMEpPQjluak5WTEw1TmVuQjluZHRpTmg1dUNKM3MwaFRuQWJMYS13dDc5WGJHaFVLcFdUUExpSTNJVUhya3Z6SmI?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
-      "yes": 20,
-      "change24h": 0,
-      "vol24h": 16934,
-      "headlines": [
-        {
-          "title": "How three Tarris Reed minutes gave the Spurs their first win",
-          "source": "San Antonio Express-News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWtOd0ktMHRualEyZUg1VGpfeng5WkZSeHVRZEEtdGNhek83Ti1DUTkzV01yNV83QVZWeXBQRWlLQmQtZ2x0NG45VjFlcjVLSjQzM2pocDlIMTducjlOMW5UbURERDlTbk1MUDBvUlZPNnVXUVUxRjV1UUxoUTA3ZjNMSWJPSS00SUhEVHAzWmhUNkh5b3dEbk8wZ0pDUE9uTDV0bTFEcWlyNVgy?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "Why Mitch Johnson wouldn't let Spurs celebrate their first win",
-          "source": "San Antonio Express-News",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3lIbHI0NFhMVGlTNVpaN1B0akpoV2JkTjZsREZfRDVXWkR4M3JiWnVndERfNkNwYzJOYlpfTjFWU3MyOEhTOUtxcjlLeThrV3M3UXRiNnRXYWtRUy1mSWhZY0p1ZWlQNGQ4dmhEUHhXMnJyYzluZVgxZmdidXlSNVByR0RwYlhDREp5T2lEYjNqVWJvcG9leEt5YWc0akhpM2x6dEExNEpjQzJoMHNN?oc=5",
+          "title": "Timberwolves stay unbeaten with 117-94 win over Raptors in home opener",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWld5SF9TZGZRZEZNaGU5aGRvMURlZHpEY2xwLUlOejA1VzhZQjREcHVuSVFOYU4tcTc0RkZ0akVydzNWcjQwT2I5ems2UWd0Z05QSmRtUnpqcGxHYVRhNGtwMExkdlFULTFxQkpPNURlN1VDREwzd1NZZ2F3anU5eQ?oc=5",
           "cat": "NBA"
         }
       ]
@@ -127,10 +127,10 @@
       "url": "https://polymarket.com/event/will-the-new-orleans-saints-win-the-2027-nfl-league-championship",
       "yes": 0,
       "change24h": 0,
-      "vol24h": 16404,
+      "vol24h": 28902,
       "headlines": [
         {
-          "title": "The surging Steelers smother the Saints in Paris to earn their third straight win",
+          "title": "The surging Steelers take down the Saints in Paris to earn their third straight win",
           "source": "Pittsburgh Post-Gazette",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbm43UjFSMml1azlvWFZER0hsaGJQYTBuU19aa2dQQnhtd3EwckJPdDRxWlk4b0dRUGE0OFBjQXNtNzNjTU8ybHl3emJWTjRjbE5MeUtjeVVlcG5sQ3BKVTBqRl9ZTkMxZ1p6WWRsQkVsYmNZU2haaWd5c2hwQmIzWThBa1dWYXZRUXZtVkxqUjhtamJRQ1VrVjI5bmRHREFYaTlyQ2N5Tm5xYXM?oc=5",
           "cat": "NFL"
@@ -143,27 +143,72 @@
       "question": "Will Bitcoin reach $82,500 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 60,
-      "change24h": -4,
-      "vol24h": 45760,
+      "yes": 45,
+      "change24h": -23,
+      "vol24h": 44875,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $77,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "yes": 53,
+      "change24h": 15,
+      "vol24h": 45405,
       "headlines": []
     },
     {
       "question": "Will Bitcoin reach $85,000 in October?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 24,
-      "change24h": -4,
-      "vol24h": 34645,
+      "yes": 18,
+      "change24h": -13,
+      "vol24h": 32698,
       "headlines": []
     },
     {
-      "question": "Will Ethereum reach $2,500 in October?",
+      "question": "Will the price of Bitcoin be above $78,000 on October 28?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-october-2026-from-october-22",
-      "yes": 35,
-      "change24h": -4,
-      "vol24h": 18840,
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-october-28-2026",
+      "yes": 77,
+      "change24h": -11,
+      "vol24h": 32642,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $75,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-october-2026",
+      "yes": 22,
+      "change24h": 8,
+      "vol24h": 11391,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $87,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "yes": 6,
+      "change24h": -6,
+      "vol24h": 20724,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $84,000 on October 28?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-84k-on-october-28-2026",
+      "yes": 5,
+      "change24h": -6,
+      "vol24h": 14715,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $72,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-october-2026",
+      "yes": 9,
+      "change24h": 4,
+      "vol24h": 20450,
       "headlines": []
     }
   ]
