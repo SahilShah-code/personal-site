@@ -1,24 +1,132 @@
 {
-  "updated": "2026-10-26T17:46:10.365Z",
+  "updated": "2026-10-26T21:59:37.896Z",
   "withNews": [
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "yes": 93,
+      "change24h": 28,
+      "vol24h": 30373,
+      "headlines": [
+        {
+          "title": "Tennis | The Weekly Watch 26 October 2026 | Novak Djokovic aims to continue ATP Finals push in Basel",
+          "source": "Britwatch Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanU5VDJiQ0dRWnUwTUNvM2d6OThOYjFBWVV6VzFfYk5waHNFZUllX0o5aURydVQ3eU5sMnJTZUN1cEpBT2lnS0xkVXBMU09UY3hPZlFlREt5Vm05SlVvZ1Q1YldpNGYwblNGa1liY0RxejZNbk1vMzJiUU9aRkFDTzlPNldPMlQ3S1NRZHQ3MkQ5Ukk5dE4yVk81bDBxZGNKSzRmVk1aOHdyTEJIbzBpcUlLa3pMYVc1VXhCM2gxd2hjTjg?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 18,
+      "change24h": -6,
+      "vol24h": 83375,
+      "headlines": [
+        {
+          "title": "OKC Thunder remains an NBA championship team despite Jalen Williams injury | Mussatto",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2NvY1J4WkhBRndaVkpfSXhSWkk0UkhMU01nT3hqZU5KbmRjRWc4Wm54NXhzLTY5QkxWbm9PWkRXWk11WG9uSC1GUUtMaHJZQzkzMEJpS2NqY0xRTXluRXNhWWpHc2NETnhVYWp1ZlZjazZCX0xPUlJ5VWtXMVFGTXRqcnVaQUZpNmlTcDNB?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Thursday at 10AM: FIFA World Cup 2026™ Miami Host Committee, City of Miami Beach and Griffin Catalyst Celebrate ONE GAME ONE FUTURE Legacy Investment at Normandy Isle Park",
+          "source": "Miami’s Community News",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxObUdjNFgzVF9GYmRveDc0Y3kzOWFCT19kZEZiUUVWSmM2Z1ZlbW5uRWRGeEpmd1hvaEdERHk2cTV4Q1VNLVM3SldXcURrN3ByaWpVdmhIZlAzMHJzVXFibklKczU5Z0xmNm1Ibm9ja2xXT3BnY2pORkhUT0lfRms2WkhKQTJTSllYV0o1YnhBSENDYWVvWVd2NFpoeFMtamE4TnI3bWVYSW1jUDNCTnRac2tCcXJaT3lUM0tWN29GbHlqRXlVX25NVkg5MVBCeDczWDlPbmNFcTdjdHlhT0o0SzItRXBuMmROaUFtTVJTcVRLMzRzTUstZ25tS003N0hOdTNnQndBNlRHbE5qbmxJc0ZMbjV4MHA4Tk9mTHRJUGpHMWtqTXFJLUIxVU1yRUJsUGRZVDgwbjhhS2NqRmpZSTJoQ2ZrQ1RwQlE?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
+      "yes": 49,
+      "change24h": -5,
+      "vol24h": 42750,
+      "headlines": [
+        {
+          "title": "Tennis | The Weekly Watch 26 October 2026 | Novak Djokovic aims to continue ATP Finals push in Basel",
+          "source": "Britwatch Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanU5VDJiQ0dRWnUwTUNvM2d6OThOYjFBWVV6VzFfYk5waHNFZUllX0o5aURydVQ3eU5sMnJTZUN1cEpBT2lnS0xkVXBMU09UY3hPZlFlREt5Vm05SlVvZ1Q1YldpNGYwblNGa1liY0RxejZNbk1vMzJiUU9aRkFDTzlPNldPMlQ3S1NRZHQ3MkQ5Ukk5dE4yVk81bDBxZGNKSzRmVk1aOHdyTEJIbzBpcUlLa3pMYVc1VXhCM2gxd2hjTjg?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $85,000 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
+      "yes": 16,
+      "change24h": -5,
+      "vol24h": 34598,
+      "headlines": [
+        {
+          "title": "Tennis | The Weekly Watch 26 October 2026 | Novak Djokovic aims to continue ATP Finals push in Basel",
+          "source": "Britwatch Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanU5VDJiQ0dRWnUwTUNvM2d6OThOYjFBWVV6VzFfYk5waHNFZUllX0o5aURydVQ3eU5sMnJTZUN1cEpBT2lnS0xkVXBMU09UY3hPZlFlREt5Vm05SlVvZ1Q1YldpNGYwblNGa1liY0RxejZNbk1vMzJiUU9aRkFDTzlPNldPMlQ3S1NRZHQ3MkQ5Ukk5dE4yVk81bDBxZGNKSzRmVk1aOHdyTEJIbzBpcUlLa3pMYVc1VXhCM2gxd2hjTjg?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
+      "yes": 8,
+      "change24h": 4,
+      "vol24h": 84106,
+      "headlines": [
+        {
+          "title": "‘This Offense Will Hold the Minnesota Vikings Back’ — Hall of Famer Calls for Kevin O’Connell To Bench Kyler Murray in Favor of Carson Wentz",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS13bWVrMy1jRkdIdmZhdTJzUVBNOHNFQ0hTclAwZS1GWnFFU0t2NjRoVXYtVU5WRjdFNEMtb2pEbXZBZk9OUEEwTU50dVNYQlctWms5amg2bFBMeHE2SG9Gb1VlazdlNmRLaG4tLVFBaVUwVXVkQ0MtVmFyTUs5U0hJM1pGa2JBUmsydA?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 75,
+      "change24h": -2,
+      "vol24h": 24888,
+      "headlines": [
+        {
+          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed Rate Hikes In 2027 What You Should Know",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjBfRl9BdjJ4TE9UMk9BY1NmYWp3MFVuNWkwYnIweWpuRldsZU8zQk9rWFBTRUhpVXQyYW9WZWFXd0EzVWZ2VnZwdUljYmFuQmE1QmstWXpmcUZOaDVlZ1pJbnB6anFMUEZIdnU2S1loUGtnV2Z3R2ktbkgtek5VNThFUnFVUHhpbGF5NEEyd1dIR0p6X0tGc0tuYUY?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
     {
       "question": "Will there be no change in Fed interest rates after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
-      "yes": 92,
-      "change24h": -3,
-      "vol24h": 4333817,
+      "yes": 93,
+      "change24h": -1,
+      "vol24h": 4605605,
       "headlines": [
         {
-          "title": "Fed expected to hold rates amid accelerating inflation ahead of November US midterms",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUxmUEFvRzBiRzF2LXoycXVCUVZVb1dleHI5M2pIRzhXSmZMYXV2MDY5YmtxMDdfX2k5bXMtRE1NQzJjTmQtNUdxLWJwMWk1emJkZWpPZGoyV1B1RUFwX0JXTEo1NVc1ZVR1TjlKWXlXM1dDMEtrTE1ZeDgzaVZxbDVVS3dKVkgwQ1EyX21OQ1dpVGJhR0NQeFFZUDZIV0ZRejZ2SkhNVkZtYVJOaGNsUjJ2M2pWSnkzamVaRktIaFJBUVE?oc=5",
-          "cat": "Macro"
+          "title": "Tennis | The Weekly Watch 26 October 2026 | Novak Djokovic aims to continue ATP Finals push in Basel",
+          "source": "Britwatch Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanU5VDJiQ0dRWnUwTUNvM2d6OThOYjFBWVV6VzFfYk5waHNFZUllX0o5aURydVQ3eU5sMnJTZUN1cEpBT2lnS0xkVXBMU09UY3hPZlFlREt5Vm05SlVvZ1Q1YldpNGYwblNGa1liY0RxejZNbk1vMzJiUU9aRkFDTzlPNldPMlQ3S1NRZHQ3MkQ5Ukk5dE4yVk81bDBxZGNKSzRmVk1aOHdyTEJIbzBpcUlLa3pMYVc1VXhCM2gxd2hjTjg?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Mark Zandi Warns Fed Rate Hike Would Be a Policy 'Misstep' as 'Growing' Economic Risks Mount Ahead of This Week’s Meeting",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZnFXQS1NRXo2bDQ5UHFLZWdYb0tRaGQtYk50SlNGRWlXY2VNcEJBZkhYSEdWbC1KTE53Nmx0N3MzSTRWN2FsMDRUZlVuRkdXWEl1NmZGNVRlQlU3TWI4ZDNJcVduWnNfS0xpQm5YQmFrcFNpMDM5ZGRwWk5rN3g1dm5YamVGT0stc2ttdXgxTFhYUlN1SWtNTzVMYWdVQ1doOUxQZWNkajFkU1JhWGFCcnZUSDVhZkt1cFpSZG82M1VPakx5UXFIOW1zM29uS095Qy1Tb21Oa2pKNG5oZEE2R2gtWWRBMzBSa3JGODVtWGU2NHRyVmFMYW1kYVZmOWFyT1JXcnRVMA?oc=5",
+          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
           "cat": "Macro"
         }
       ]
@@ -27,133 +135,56 @@
       "question": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
-      "yes": 8,
-      "change24h": 2,
-      "vol24h": 1784813,
+      "yes": 7,
+      "change24h": 1,
+      "vol24h": 1638632,
       "headlines": [
         {
-          "title": "Fed expected to hold rates amid accelerating inflation ahead of November US midterms",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUxmUEFvRzBiRzF2LXoycXVCUVZVb1dleHI5M2pIRzhXSmZMYXV2MDY5YmtxMDdfX2k5bXMtRE1NQzJjTmQtNUdxLWJwMWk1emJkZWpPZGoyV1B1RUFwX0JXTEo1NVc1ZVR1TjlKWXlXM1dDMEtrTE1ZeDgzaVZxbDVVS3dKVkgwQ1EyX21OQ1dpVGJhR0NQeFFZUDZIV0ZRejZ2SkhNVkZtYVJOaGNsUjJ2M2pWSnkzamVaRktIaFJBUVE?oc=5",
-          "cat": "Macro"
+          "title": "Tennis | The Weekly Watch 26 October 2026 | Novak Djokovic aims to continue ATP Finals push in Basel",
+          "source": "Britwatch Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNanU5VDJiQ0dRWnUwTUNvM2d6OThOYjFBWVV6VzFfYk5waHNFZUllX0o5aURydVQ3eU5sMnJTZUN1cEpBT2lnS0xkVXBMU09UY3hPZlFlREt5Vm05SlVvZ1Q1YldpNGYwblNGa1liY0RxejZNbk1vMzJiUU9aRkFDTzlPNldPMlQ3S1NRZHQ3MkQ5Ukk5dE4yVk81bDBxZGNKSzRmVk1aOHdyTEJIbzBpcUlLa3pMYVc1VXhCM2gxd2hjTjg?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Mark Zandi Warns Fed Rate Hike Would Be a Policy 'Misstep' as 'Growing' Economic Risks Mount Ahead of This Week’s Meeting",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZnFXQS1NRXo2bDQ5UHFLZWdYb0tRaGQtYk50SlNGRWlXY2VNcEJBZkhYSEdWbC1KTE53Nmx0N3MzSTRWN2FsMDRUZlVuRkdXWEl1NmZGNVRlQlU3TWI4ZDNJcVduWnNfS0xpQm5YQmFrcFNpMDM5ZGRwWk5rN3g1dm5YamVGT0stc2ttdXgxTFhYUlN1SWtNTzVMYWdVQ1doOUxQZWNkajFkU1JhWGFCcnZUSDVhZkt1cFpSZG82M1VPakx5UXFIOW1zM29uS095Qy1Tb21Oa2pKNG5oZEE2R2gtWWRBMzBSa3JGODVtWGU2NHRyVmFMYW1kYVZmOWFyT1JXcnRVMA?oc=5",
+          "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 76,
-      "change24h": -1,
-      "vol24h": 22101,
-      "headlines": [
-        {
-          "title": "Fed expected to hold rates amid accelerating inflation ahead of November US midterms",
-          "source": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUxmUEFvRzBiRzF2LXoycXVCUVZVb1dleHI5M2pIRzhXSmZMYXV2MDY5YmtxMDdfX2k5bXMtRE1NQzJjTmQtNUdxLWJwMWk1emJkZWpPZGoyV1B1RUFwX0JXTEo1NVc1ZVR1TjlKWXlXM1dDMEtrTE1ZeDgzaVZxbDVVS3dKVkgwQ1EyX21OQ1dpVGJhR0NQeFFZUDZIV0ZRejZ2SkhNVkZtYVJOaGNsUjJ2M2pWSnkzamVaRktIaFJBUVE?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Mark Zandi Warns Fed Rate Hike Would Be a Policy 'Misstep' as 'Growing' Economic Risks Mount Ahead of This Week’s Meeting",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZnFXQS1NRXo2bDQ5UHFLZWdYb0tRaGQtYk50SlNGRWlXY2VNcEJBZkhYSEdWbC1KTE53Nmx0N3MzSTRWN2FsMDRUZlVuRkdXWEl1NmZGNVRlQlU3TWI4ZDNJcVduWnNfS0xpQm5YQmFrcFNpMDM5ZGRwWk5rN3g1dm5YamVGT0stc2ttdXgxTFhYUlN1SWtNTzVMYWdVQ1doOUxQZWNkajFkU1JhWGFCcnZUSDVhZkt1cFpSZG82M1VPakx5UXFIOW1zM29uS095Qy1Tb21Oa2pKNG5oZEE2R2gtWWRBMzBSa3JGODVtWGU2NHRyVmFMYW1kYVZmOWFyT1JXcnRVMA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Tampa Bay Buccaneers win the 2027 NFL league championship?",
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-tampa-bay-buccaneers-win-the-2027-nfl-league-championship",
-      "yes": 0,
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 4,
       "change24h": 0,
-      "vol24h": 53149,
+      "vol24h": 56365,
       "headlines": [
         {
-          "title": "Green Bay Packers: Micah Parsons sounds off on NFL officials following team’s Week 7 loss to Lions",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0FoYTlCNWg5aFFiOTVtb1hvVDhXc2ZVeUJJdmxwZEw3NlJfb05xRFU1b1l3RDZxd2NQbHRIUTdMZ19WRGZZUE1PUXpuUGY1MEFaVk5qVzVGUC1jcmZSR2VZVFpJdVhqaXhCcjV5TjBDMjNGSWduSE5KaGhXSm96bVg1cHNzTkk?oc=5",
+          "title": "Broncos’ Que Robinson brings the juice in disruptive outing for OLBs against Cardinals",
+          "source": "The Denver Post",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNFFBaElxdVFRVlRVb0pHVlp2Uy1SZFByVjZPUDh4SC1PQmFPTjYwbHc3eEE2NHNzdmlGa3dyRmFIOVlwSjRHWVBMZ1BwMHFjcXN1d3l2aG54cW5mRGFfa1hPZHNubTZ1MWJNSWxRd19PMktqRy1RV2wwejBwSzlRZFV4RXM?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
-      "yes": 2,
+      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
+      "yes": 3,
       "change24h": 0,
-      "vol24h": 18018,
+      "vol24h": 37559,
       "headlines": [
         {
-          "title": "Green Bay Packers: Micah Parsons sounds off on NFL officials following team’s Week 7 loss to Lions",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0FoYTlCNWg5aFFiOTVtb1hvVDhXc2ZVeUJJdmxwZEw3NlJfb05xRFU1b1l3RDZxd2NQbHRIUTdMZ19WRGZZUE1PUXpuUGY1MEFaVk5qVzVGUC1jcmZSR2VZVFpJdVhqaXhCcjV5TjBDMjNGSWduSE5KaGhXSm96bVg1cHNzTkk?oc=5",
-          "cat": "NFL"
+          "title": "DeAndre Jordan on starting vs. Nuggets, confidence | Pelicans Practice 10/26/2026",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaVZ2SFZEVEpmREd1NWJNbXdxTlR4bnZjWDZfLWlIVXZ5alFHX1o4SFVDM3VyWGtNMGdRNlZ6WDd4M1RucV9uYnNBWGhWcjBkX3F4UDZ2RXk0UjBqcjFscGhPN1NCallDb2NpY05Fb2t0MGN0LVQ3OTlTYTZqT1ZsSy1GUTdLY2dTMXo4S3pCaTB3Vm8?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "yes": 88,
-      "change24h": 14,
-      "vol24h": 15843,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 52,
-      "change24h": -12,
-      "vol24h": 43138,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 20,
-      "change24h": -8,
-      "vol24h": 34820,
-      "headlines": []
-    },
-    {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 18,
-      "change24h": -7,
-      "vol24h": 72037,
-      "headlines": []
-    },
-    {
-      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
-      "yes": 10,
-      "change24h": 5,
-      "vol24h": 60592,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $77,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 42,
-      "change24h": 5,
-      "vol24h": 37376,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
