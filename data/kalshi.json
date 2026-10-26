@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-26 00:33 UTC",
-  "net_return_pct": 5.6,
-  "realized_return_pct": 5.6,
+  "updated": "2026-10-26 05:19 UTC",
+  "net_return_pct": 2.4,
+  "realized_return_pct": 2.4,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 62.5,
-  "settled_total": 24,
+  "win_rate_pct": 60,
+  "settled_total": 25,
   "curve": [
     0,
     -100,
@@ -30,10 +30,18 @@
     -4.8,
     -4.1,
     -6.4,
-    5.6
+    5.6,
+    2.4
   ],
   "active": [],
   "settled": [
+    {
+      "title": "yes Jaden McDaniels: 2+,yes New York,yes Minnesota,yes Jalen Brunson: 30+,yes Karl-Anthony Towns: 15+,yes Rudy Gobert: 8+",
+      "ticker": "KXMVECROSSCATEGORY-S2026UJDB4LLPNKWTM55A-73Y4NVN3I",
+      "result": "no",
+      "date": "2026-10-26",
+      "return_pct": -100
+    },
     {
       "title": "yes Utah,yes Miami",
       "ticker": "KXMVECROSSCATEGORY-S2026FWYMYKYFNK6TUGRK-QBCKIJESW",
@@ -165,13 +173,6 @@
       "ticker": "KXNFLGAME-26OCT11BALATL-ATL",
       "result": "no",
       "date": "2026-10-12",
-      "return_pct": -100
-    },
-    {
-      "title": "UCLA wins 3Q by over 2.5 points",
-      "ticker": "KXNCAAF3QSPREAD-26OCT10UCLAORE-UCLA3",
-      "result": "no",
-      "date": "2026-10-10",
       "return_pct": -100
     }
   ]
