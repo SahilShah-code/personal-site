@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-27 01:09 UTC",
-  "net_return_pct": 2.4,
-  "realized_return_pct": 2.4,
+  "updated": "2026-10-27 06:16 UTC",
+  "net_return_pct": 0.3,
+  "realized_return_pct": 0.3,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 60,
-  "settled_total": 25,
+  "win_rate_pct": 57.7,
+  "settled_total": 26,
   "curve": [
     0,
     -100,
@@ -31,10 +31,18 @@
     -4.1,
     -6.4,
     5.6,
-    2.4
+    2.4,
+    0.3
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Philadelphia wins",
+      "ticker": "KXNFLGAME-26OCT26DALPHI-PHI",
+      "result": "no",
+      "date": "2026-10-27",
+      "return_pct": -100
+    },
     {
       "title": "yes Jaden McDaniels: 2+,yes New York,yes Minnesota,yes Jalen Brunson: 30+,yes Karl-Anthony Towns: 15+,yes Rudy Gobert: 8+",
       "ticker": "KXMVECROSSCATEGORY-S2026UJDB4LLPNKWTM55A-73Y4NVN3I",
@@ -167,13 +175,6 @@
       "result": "yes",
       "date": "2026-10-12",
       "return_pct": 34
-    },
-    {
-      "title": "Atlanta wins",
-      "ticker": "KXNFLGAME-26OCT11BALATL-ATL",
-      "result": "no",
-      "date": "2026-10-12",
-      "return_pct": -100
     }
   ]
 }
