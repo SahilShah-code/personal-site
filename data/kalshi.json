@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-27 22:28 UTC",
-  "net_return_pct": 0.3,
-  "realized_return_pct": 0.3,
+  "updated": "2026-10-28 01:35 UTC",
+  "net_return_pct": -0.3,
+  "realized_return_pct": -0.3,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 57.7,
-  "settled_total": 26,
+  "win_rate_pct": 55.6,
+  "settled_total": 27,
   "curve": [
     0,
     -100,
@@ -32,10 +32,18 @@
     -6.4,
     5.6,
     2.4,
-    0.3
+    0.3,
+    -0.3
   ],
   "active": [],
   "settled": [
+    {
+      "title": "yes New York,yes Karl-Anthony Towns: 35+,no Karl-Anthony Towns: 12+",
+      "ticker": "KXMVECROSSCATEGORY-S2026ML7R7PA5O5WTJ7CS-2O2XR2UUA",
+      "result": "closed",
+      "date": "2026-10-27",
+      "return_pct": -24.3
+    },
     {
       "title": "Philadelphia wins",
       "ticker": "KXNFLGAME-26OCT26DALPHI-PHI",
@@ -168,13 +176,6 @@
       "result": "yes",
       "date": "2026-10-17",
       "return_pct": 91
-    },
-    {
-      "title": "Baltimore wins",
-      "ticker": "KXNFLGAME-26OCT11BALATL-BAL",
-      "result": "yes",
-      "date": "2026-10-12",
-      "return_pct": 34
     }
   ]
 }
