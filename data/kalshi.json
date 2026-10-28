@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 01:35 UTC",
+  "updated": "2026-10-28 07:26 UTC",
   "net_return_pct": -0.3,
   "realized_return_pct": -0.3,
   "unrealized_return_pct": 0,
@@ -40,8 +40,8 @@
     {
       "title": "yes New York,yes Karl-Anthony Towns: 35+,no Karl-Anthony Towns: 12+",
       "ticker": "KXMVECROSSCATEGORY-S2026ML7R7PA5O5WTJ7CS-2O2XR2UUA",
-      "result": "closed",
-      "date": "2026-10-27",
+      "result": "no",
+      "date": "2026-10-28",
       "return_pct": -24.3
     },
     {
