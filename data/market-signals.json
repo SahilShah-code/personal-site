@@ -1,73 +1,69 @@
 {
-  "updated": "2026-10-28T11:44:52.349Z",
+  "updated": "2026-10-28T17:31:24.216Z",
   "withNews": [
+    {
+      "question": "Will Ethereum reach $2,400 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2400-in-october-2026-from-october-24",
+      "yes": 51,
+      "change24h": -11,
+      "vol24h": 29063,
+      "headlines": [
+        {
+          "title": "No Ceilings NBA Fantasy: October roundtable part 1",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcU11NHg1NXVKREpFNnA3cW81MU1iUmo1WFBFbkp5aHVQcVBxRDNodWc0eTIzeWRwTXRGUVVWY0hWcXZJRjRsQTBPUXRiNkFhR090Z3JnMktRU092UlA5S3VYTGxRejY0clZ0YlJBY2dpM3NVejh2MUJTTlpXQ2c?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,500 October 26-November 1?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-october-26-november-1-2026",
+      "yes": 14,
+      "change24h": -10,
+      "vol24h": 17664,
+      "headlines": [
+        {
+          "title": "No Ceilings NBA Fantasy: October roundtable part 1",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcU11NHg1NXVKREpFNnA3cW81MU1iUmo1WFBFbkp5aHVQcVBxRDNodWc0eTIzeWRwTXRGUVVWY0hWcXZJRjRsQTBPUXRiNkFhR090Z3JnMktRU092UlA5S3VYTGxRejY0clZ0YlJBY2dpM3NVejh2MUJTTlpXQ2c?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "\"Unfiltered Soccer\" with Landon Donovan and Tim Howard Returns for Season 3 on November 2",
+          "source": "Sinclair, Inc",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFdLdHhia0tPU3J6SmtWVmxkR2J0TWZFNjNsaExrb1VjOFFUYVpySlprbDl4c0xZZHBXU2V5S2JEV0doaWVmOFlLdkx4dTVrcTRzWEtDOE5XbjRHbGREVDkzMWxCREJ5WXZpSERoYmtFTzVYeWV4Y3F4QU01UmJhalhVNmhJNWgwTnBYLWRBUEd5RGlKWDYtbGMtTk5jV2I4VG5MbFNyYTA?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
     {
       "question": "Will Bitcoin dip to $78,000 October 26-November 1?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-26-november-1-2026",
-      "yes": 22,
-      "change24h": -35,
-      "vol24h": 33796,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Elise Mertens vs Leylah Annie Fernandez in Tokyo with odds, preview, pick | 29th October 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS3ltdzVTS1hXZEU0WDZqdlpMWXlDN3hJX0pYMXRBMlRrS1ctbVZCaVZVLUx1VXFBcDhScEdJb2NXMzJkcXVpSjJab1cteGx6Z25OdmZjclVnLXNhTTdXUzJOTnBTWndYMmllakt0NjZzYlA4S3ladmZMbHB5Y3RGcjItSFo3RHFoY1VCU3VNalV6X1owamRPV3dWdzJRVGNUeUpZUDFjMEpGeTB0UW1BVi1pRmZwTVRsNVVUZ01mX2JFd05Fc1BQZFRIR2h2Y3pTYmRVQ3NBeGY5ckpWeS1FS1VUVENLRkk?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 66,
-      "change24h": 29,
-      "vol24h": 96056,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Elise Mertens vs Leylah Annie Fernandez in Tokyo with odds, preview, pick | 29th October 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS3ltdzVTS1hXZEU0WDZqdlpMWXlDN3hJX0pYMXRBMlRrS1ctbVZCaVZVLUx1VXFBcDhScEdJb2NXMzJkcXVpSjJab1cteGx6Z25OdmZjclVnLXNhTTdXUzJOTnBTWndYMmllakt0NjZzYlA4S3ladmZMbHB5Y3RGcjItSFo3RHFoY1VCU3VNalV6X1owamRPV3dWdzJRVGNUeUpZUDFjMEpGeTB0UW1BVi1pRmZwTVRsNVVUZ01mX2JFd05Fc1BQZFRIR2h2Y3pTYmRVQ3NBeGY5ckpWeS1FS1VUVENLRkk?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $82,000 October 26-November 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-october-26-november-1-2026",
-      "yes": 83,
-      "change24h": 29,
-      "vol24h": 12318,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Elise Mertens vs Leylah Annie Fernandez in Tokyo with odds, preview, pick | 29th October 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOS3ltdzVTS1hXZEU0WDZqdlpMWXlDN3hJX0pYMXRBMlRrS1ctbVZCaVZVLUx1VXFBcDhScEdJb2NXMzJkcXVpSjJab1cteGx6Z25OdmZjclVnLXNhTTdXUzJOTnBTWndYMmllakt0NjZzYlA4S3ladmZMbHB5Y3RGcjItSFo3RHFoY1VCU3VNalV6X1owamRPV3dWdzJRVGNUeUpZUDFjMEpGeTB0UW1BVi1pRmZwTVRsNVVUZ01mX2JFd05Fc1BQZFRIR2h2Y3pTYmRVQ3NBeGY5ckpWeS1FS1VUVENLRkk?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
       "yes": 34,
-      "change24h": 5,
-      "vol24h": 28446,
+      "change24h": -9,
+      "vol24h": 36111,
       "headlines": [
         {
-          "title": "Fed likely to hold rates steady ahead of midterms",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pPeHlGNkV2VUoyUlVodUxxdnV5Q0pRc2VUNDRINmYyN2lxdlRnMVBfc281cksycXVhYWVXTnR0ZHBMeVFJclVWTWV5Q3VOSzlQUFQwTkMwNkpxRDFaVXZocWxYc2tSTDY3dHR3MUJYZUV4a0N6RDB1YXMyRlhWetIBhgFBVV95cUxORmNwQXRxNnQ0bHpMV2JKUEJPdmdUcHBFdTJVTU9uS1N3dUhqNDlsR0tXTGxnTVV1MEZnVjFBM3pEODdydHBpWXJOY09leTdBdFBvWWhpak5ZT2FycVliZkNIekFuRTktUWdxczVqemE2VjdtLWFORDczenFzUjQzdGhoaGVodw?oc=5",
-          "cat": "Macro"
+          "title": "No Ceilings NBA Fantasy: October roundtable part 1",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mcU11NHg1NXVKREpFNnA3cW81MU1iUmo1WFBFbkp5aHVQcVBxRDNodWc0eTIzeWRwTXRGUVVWY0hWcXZJRjRsQTBPUXRiNkFhR090Z3JnMktRU092UlA5S3VYTGxRejY0clZ0YlJBY2dpM3NVejh2MUJTTlpXQ2c?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Fed set to hold interest rates steady in last decision before midterms",
-          "source": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXpNWFREek1pS2Etd19yTGZPODI1YktUbHdXRVBub0lWS1NLZ0xGRGRMNzZDV3lzUVdvVWU5cVEzWERhcUJielk5OERUYzFXVGpJTUk1WWxMaG9wUU9qeF9HdkhfQ2EtYkN1RE9lbmo1US1tWW50T3FLdjJhZVB5a0F3?oc=5",
-          "cat": "Macro"
+          "title": "\"Unfiltered Soccer\" with Landon Donovan and Tim Howard Returns for Season 3 on November 2",
+          "source": "Sinclair, Inc",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFdLdHhia0tPU3J6SmtWVmxkR2J0TWZFNjNsaExrb1VjOFFUYVpySlprbDl4c0xZZHBXU2V5S2JEV0doaWVmOFlLdkx4dTVrcTRzWEtDOE5XbjRHbGREVDkzMWxCREJ5WXZpSERoYmtFTzVYeWV4Y3F4QU01UmJhalhVNmhJNWgwTnBYLWRBUEd5RGlKWDYtbGMtTk5jV2I4VG5MbFNyYTA?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -75,20 +71,20 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 77,
-      "change24h": 1,
-      "vol24h": 111071,
+      "yes": 78,
+      "change24h": 2,
+      "vol24h": 191299,
       "headlines": [
-        {
-          "title": "Fed likely to hold rates steady ahead of midterms",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pPeHlGNkV2VUoyUlVodUxxdnV5Q0pRc2VUNDRINmYyN2lxdlRnMVBfc281cksycXVhYWVXTnR0ZHBMeVFJclVWTWV5Q3VOSzlQUFQwTkMwNkpxRDFaVXZocWxYc2tSTDY3dHR3MUJYZUV4a0N6RDB1YXMyRlhWetIBhgFBVV95cUxORmNwQXRxNnQ0bHpMV2JKUEJPdmdUcHBFdTJVTU9uS1N3dUhqNDlsR0tXTGxnTVV1MEZnVjFBM3pEODdydHBpWXJOY09leTdBdFBvWWhpak5ZT2FycVliZkNIekFuRTktUWdxczVqemE2VjdtLWFORDczenFzUjQzdGhoaGVodw?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Fed set to hold interest rates steady in last decision before midterms",
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXpNWFREek1pS2Etd19yTGZPODI1YktUbHdXRVBub0lWS1NLZ0xGRGRMNzZDV3lzUVdvVWU5cVEzWERhcUJielk5OERUYzFXVGpJTUk1WWxMaG9wUU9qeF9HdkhfQ2EtYkN1RE9lbmo1US1tWW50T3FLdjJhZVB5a0F3?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDRabTk3MGZlX1gzSnlMWEhPLTczT3pUckE2Q3R4cUpHT0lfQnFKRHo1eWdiQ1FiVXBXQlV6RVhpSTROYUZoYlFzRVlxMWlGUFdZcW5jMXpKdlBiZHRJMzNSOGJMTUFMWVdDVS1sbkFNcy12TGlnVE5rclMyREY5SEl6dEEwVE1VdFMyX0V2VWtFLWVVQ05iUWJMT2M1blZPZkNOUi1xLVFCWi1WZGxsZFJhXzDSAboBQVVfeXFMTV9BakhETXRqMkhSSzY5V1hjVHZ2Y1VkVzFMX19ua1BLUTRGQWdLWTI3aEcwMkhROG5tSjlDMHRLbDAtczhuV2djeUl2VHVydUo2NGFxcVk3YmpkdDRNMndOYlRlVzA0X3Y0WWxLU3hTanFreDdqdXA4ZmJPWk1QWU1BbHdocmo4VmVwLXEtTU5GUFhsYkhUN1VmZXB4TnE2SmItLVMtang4Tmd2NDdwanpPVUVpczB5aFZn?oc=5",
           "cat": "Macro"
         }
       ]
@@ -98,116 +94,54 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 20,
-      "change24h": -1,
-      "vol24h": 81947,
+      "change24h": -2,
+      "vol24h": 110244,
       "headlines": [
-        {
-          "title": "Fed likely to hold rates steady ahead of midterms",
-          "source": "The Hill",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2pPeHlGNkV2VUoyUlVodUxxdnV5Q0pRc2VUNDRINmYyN2lxdlRnMVBfc281cksycXVhYWVXTnR0ZHBMeVFJclVWTWV5Q3VOSzlQUFQwTkMwNkpxRDFaVXZocWxYc2tSTDY3dHR3MUJYZUV4a0N6RDB1YXMyRlhWetIBhgFBVV95cUxORmNwQXRxNnQ0bHpMV2JKUEJPdmdUcHBFdTJVTU9uS1N3dUhqNDlsR0tXTGxnTVV1MEZnVjFBM3pEODdydHBpWXJOY09leTdBdFBvWWhpak5ZT2FycVliZkNIekFuRTktUWdxczVqemE2VjdtLWFORDczenFzUjQzdGhoaGVodw?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Fed set to hold interest rates steady in last decision before midterms",
           "source": "The Guardian",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXpNWFREek1pS2Etd19yTGZPODI1YktUbHdXRVBub0lWS1NLZ0xGRGRMNzZDV3lzUVdvVWU5cVEzWERhcUJielk5OERUYzFXVGpJTUk1WWxMaG9wUU9qeF9HdkhfQ2EtYkN1RE9lbmo1US1tWW50T3FLdjJhZVB5a0F3?oc=5",
           "cat": "Macro"
+        },
+        {
+          "title": "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDRabTk3MGZlX1gzSnlMWEhPLTczT3pUckE2Q3R4cUpHT0lfQnFKRHo1eWdiQ1FiVXBXQlV6RVhpSTROYUZoYlFzRVlxMWlGUFdZcW5jMXpKdlBiZHRJMzNSOGJMTUFMWVdDVS1sbkFNcy12TGlnVE5rclMyREY5SEl6dEEwVE1VdFMyX0V2VWtFLWVVQ05iUWJMT2M1blZPZkNOUi1xLVFCWi1WZGxsZFJhXzDSAboBQVVfeXFMTV9BakhETXRqMkhSSzY5V1hjVHZ2Y1VkVzFMX19ua1BLUTRGQWdLWTI3aEcwMkhROG5tSjlDMHRLbDAtczhuV2djeUl2VHVydUo2NGFxcVk3YmpkdDRNMndOYlRlVzA0X3Y0WWxLU3hTanFreDdqdXA4ZmJPWk1QWU1BbHdocmo4VmVwLXEtTU5GUFhsYkhUN1VmZXB4TnE2SmItLVMtang4Tmd2NDdwanpPVUVpczB5aFZn?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 18,
-      "change24h": 1,
-      "vol24h": 70329,
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 78,
+      "change24h": 2,
+      "vol24h": 45025,
       "headlines": [
         {
-          "title": "How OKC Thunder is 'built for' overcoming Jalen Williams, Cason Wallace injuries",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNjNhQXljek9wV1VJYlAwcmtqNmJNbkhfS0d2eFZraGxGZXNFYXo1TnM5Y29UZmNScXJ4aTJkalRNMTNITmlRampQcGNBUUZUYk43eU1nbkU4d21RTzZrSHVqTW5xTTRBMm5DRU0tcTlQcWZVcjFnMGY0QTFLaFI4NGNBa2FrLXNVV0tn?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
-      "yes": 8,
-      "change24h": 0,
-      "vol24h": 23525,
-      "headlines": [
+          "title": "Fed set to hold interest rates steady in last decision before midterms",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbXpNWFREek1pS2Etd19yTGZPODI1YktUbHdXRVBub0lWS1NLZ0xGRGRMNzZDV3lzUVdvVWU5cVEzWERhcUJielk5OERUYzFXVGpJTUk1WWxMaG9wUU9qeF9HdkhfQ2EtYkN1RE9lbmo1US1tWW50T3FLdjJhZVB5a0F3?oc=5",
+          "cat": "Macro"
+        },
         {
-          "title": "Chiefs have pressing concerns after loss to Seahawks. Which can be fixed?",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTW5fZ0J0T0RJcmtqcjN5bWtYcEw3MHM0NHJGTkNPUjRZOHFETVZkejc2aEpvTW44a1d0VHhaeFhTdEVvMDQ0cUQtUzZGRE1teHQtc1hQM3BCQkQyc2FqWmVJR21HZHJoOFVEUGpJSkN5S1g5NGd6cXJWcExHVVFFNGkwNW9tR3hiZHdFSVlzM1d2SWNVd1FkTGIzSXU?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 13079,
-      "headlines": [
-        {
-          "title": "Ja Morant to appeal as three flopping techs given at end of Blazers-Lakers",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjB0RXR0Tm10cEpwcnZEQ2ZOVGVtV0FEQ1ZyY3Rvd1VHVlZuUk0xaHkzbW1LWnE1Y3pJUzU1TmhDTHhLcVkxaVJuNWpFZUJOQXNTazZ4R0lLNU1fdjZaeUZaWjc5VnV4dGU0dUtDVjBvQWcxRTlrVlBEbzlETlJTLV9YNGxNZDAyS3ZSODNB?oc=5",
-          "cat": "NBA"
+          "title": "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision",
+          "source": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDRabTk3MGZlX1gzSnlMWEhPLTczT3pUckE2Q3R4cUpHT0lfQnFKRHo1eWdiQ1FiVXBXQlV6RVhpSTROYUZoYlFzRVlxMWlGUFdZcW5jMXpKdlBiZHRJMzNSOGJMTUFMWVdDVS1sbkFNcy12TGlnVE5rclMyREY5SEl6dEEwVE1VdFMyX0V2VWtFLWVVQ05iUWJMT2M1blZPZkNOUi1xLVFCWi1WZGxsZFJhXzDSAboBQVVfeXFMTV9BakhETXRqMkhSSzY5V1hjVHZ2Y1VkVzFMX19ua1BLUTRGQWdLWTI3aEcwMkhROG5tSjlDMHRLbDAtczhuV2djeUl2VHVydUo2NGFxcVk3YmpkdDRNMndOYlRlVzA0X3Y0WWxLU3hTanFreDdqdXA4ZmJPWk1QWU1BbHdocmo4VmVwLXEtTU5GUFhsYkhUN1VmZXB4TnE2SmItLVMtang4Tmd2NDdwanpPVUVpczB5aFZn?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "ICC Cricket World Cup Challenge League A: Qatar vs Denmark",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-qat-dnk-2026-10-28",
-      "yes": 0,
-      "change24h": -47,
-      "vol24h": 27234,
-      "headlines": []
-    },
-    {
-      "question": "ICC Cricket World Cup Challenge League A: Kuwait vs Kenya",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-kwt-ken-2026-10-28",
-      "yes": 83,
-      "change24h": 25,
-      "vol24h": 18306,
-      "headlines": []
-    },
-    {
-      "question": "Will the price of Ethereum be above $2,200 on November 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2200-on-november-2-2026",
-      "yes": 91,
-      "change24h": 12,
-      "vol24h": 14252,
-      "headlines": []
-    },
-    {
       "question": "Will Anthony Edwards win the 2026-27 NBA MVP?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-anthony-edwards-win-the-2026-27-nba-mvp",
       "yes": 1,
-      "change24h": -11,
-      "vol24h": 17895,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 47,
-      "change24h": 8,
-      "vol24h": 31803,
+      "change24h": -13,
+      "vol24h": 17950,
       "headlines": []
     },
     {
@@ -216,16 +150,7 @@
       "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
       "yes": 4,
       "change24h": -4,
-      "vol24h": 47714,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 28,
-      "change24h": 4,
-      "vol24h": 13428,
+      "vol24h": 48541,
       "headlines": []
     }
   ]
