@@ -1,25 +1,57 @@
 {
-  "updated": "2026-10-29T03:10:53.686Z",
+  "updated": "2026-10-29T11:53:40.379Z",
   "withNews": [
     {
-      "question": "Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-hikepausehike-in-the-next-three-decisions-sepoctdec",
-      "yes": 79,
-      "change24h": 4,
-      "vol24h": 15147,
+      "question": "Will Bitcoin reach $82,500 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
+      "yes": 21,
+      "change24h": -44,
+      "vol24h": 81244,
       "headlines": [
         {
-          "title": "US Fed holds interest rates steady as inflation runs hot",
-          "source": "The National",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2ZqOUNVTnhtaHN0OWIxcmhYeUNvTWhXVlF4MzdIT2ZYa1U5enBYMlFoZFVuZm9RRy1vejl5T1VXOHBwUHNTV294OFBzWGxHTTRGTFVYUXNiTGFuaG9sSDNoSEFnbXc5akR0RjJKZWd6NlBwb2VoT2tzd2ZYdGlUanQ5MUFnc0FwTEVQR0J3MnFjdzVvZkZwS25rQUNCYXV5R2c?oc=5",
-          "cat": "Macro"
+          "title": "3 Unstoppable S&P 500 Stocks to Buy Before October Ends",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlJCMWNBbER2d25PQ3dQU0hkT3FGX005cjZoOEhEQi0zVmVUT2xJSHJoWWhUZjA5b3AzVHhGLUt4Yk1SN2s5X2x0Z0ZLN01Sd0pmaHJ6WTAwVEVBZXpvd1NTVDVhQU92QUU1S1ZKLVJrb3IyODdyaGlmS0lQQTdDUWdqOGdUTkM4ZC0tM0Q2SldNbDJtNFVmNGJJNm01NExWSjhaTGc1cTgwNHg5NVc4V0hwazI4QkRkelpVcjkxRWcxRWtMWVM5elR6TG9Vdw?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,000 October 26-November 1?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-october-26-november-1-2026",
+      "yes": 37,
+      "change24h": -44,
+      "vol24h": 74881,
+      "headlines": [
+        {
+          "title": "3 Unstoppable S&P 500 Stocks to Buy Before October Ends",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlJCMWNBbER2d25PQ3dQU0hkT3FGX005cjZoOEhEQi0zVmVUT2xJSHJoWWhUZjA5b3AzVHhGLUt4Yk1SN2s5X2x0Z0ZLN01Sd0pmaHJ6WTAwVEVBZXpvd1NTVDVhQU92QUU1S1ZKLVJrb3IyODdyaGlmS0lQQTdDUWdqOGdUTkM4ZC0tM0Q2SldNbDJtNFVmNGJJNm01NExWSjhaTGc1cTgwNHg5NVc4V0hwazI4QkRkelpVcjkxRWcxRWtMWVM5elR6TG9Vdw?oc=5",
+          "cat": "Markets"
         },
         {
-          "title": "‘Politics played no role’: Fed hits pause button ahead of midterms",
-          "source": "SMH.com.au",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE1nYUZEQTc2MmxjemIxS3I2MUFMdWgycDFMY1FWTnpEbjZCelRFVjRUVHBXTlVOelk2RlJqSnc3aUNxVUxkcXpjWTVIdGU5MkE3dmFOUS1VRnBRaGpQejB0U1VKRmZtQU9GWlI2eUd4ZXZfS09vTzRXNnFBUndCLXBsSDBfQl9VLUJFU3FtcmhhLXBtLWxnbmZJaUJXOXk0enVDT2F5Wm42aGtIaVdHUk80UGNXbUJzRlEzc3RYN2JBM2dhTFp3?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,400 in October?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2400-in-october-2026-from-october-24",
+      "yes": 32,
+      "change24h": -39,
+      "vol24h": 46557,
+      "headlines": [
+        {
+          "title": "3 Unstoppable S&P 500 Stocks to Buy Before October Ends",
+          "source": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlJCMWNBbER2d25PQ3dQU0hkT3FGX005cjZoOEhEQi0zVmVUT2xJSHJoWWhUZjA5b3AzVHhGLUt4Yk1SN2s5X2x0Z0ZLN01Sd0pmaHJ6WTAwVEVBZXpvd1NTVDVhQU92QUU1S1ZKLVJrb3IyODdyaGlmS0lQQTdDUWdqOGdUTkM4ZC0tM0Q2SldNbDJtNFVmNGJJNm01NExWSjhaTGc1cTgwNHg5NVc4V0hwazI4QkRkelpVcjkxRWcxRWtMWVM5elR6TG9Vdw?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -27,118 +59,127 @@
       "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 67,
-      "change24h": 2,
-      "vol24h": 14373,
+      "yes": 68,
+      "change24h": 4,
+      "vol24h": 15711,
       "headlines": [
         {
-          "title": "US Fed holds interest rates steady as inflation runs hot",
-          "source": "The National",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2ZqOUNVTnhtaHN0OWIxcmhYeUNvTWhXVlF4MzdIT2ZYa1U5enBYMlFoZFVuZm9RRy1vejl5T1VXOHBwUHNTV294OFBzWGxHTTRGTFVYUXNiTGFuaG9sSDNoSEFnbXc5akR0RjJKZWd6NlBwb2VoT2tzd2ZYdGlUanQ5MUFnc0FwTEVQR0J3MnFjdzVvZkZwS25rQUNCYXV5R2c?oc=5",
+          "title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckdBelctbE9qYU1aby1ROElVZU1FbTlYN2lrRm1Gd3FleW1IMlNWLWdRa1QwR2Nvb2pxdWEzajF4RWNXTEhSVlZEU2QxTGZza0lRTU9HaDFXdzZLdnptYmMxT25wMUlUdVBNYVd0cHBPdWxURXVxcnI4dXBVQXhoRVVrOHFrNU9uT1lMOFJIczNmU2phQmlEWXR3N0FtMlJZbm9MUGhmMGs2Wl9WYXgzU0lqcXRGck4tQnV3NUw0M2gtQnFwYzcxX0ZxTkYzUQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "‘Politics played no role’: Fed hits pause button ahead of midterms",
-          "source": "SMH.com.au",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE1nYUZEQTc2MmxjemIxS3I2MUFMdWgycDFMY1FWTnpEbjZCelRFVjRUVHBXTlVOelk2RlJqSnc3aUNxVUxkcXpjWTVIdGU5MkE3dmFOUS1VRnBRaGpQejB0U1VKRmZtQU9GWlI2eUd4ZXZfS09vTzRXNnFBUndCLXBsSDBfQl9VLUJFU3FtcmhhLXBtLWxnbmZJaUJXOXk0enVDT2F5Wm42aGtIaVdHUk80UGNXbUJzRlEzc3RYN2JBM2dhTFp3?oc=5",
+          "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "question": "Will the Fed Hike–Pause–Hike in the next three decisions (Sep–Oct–Dec)?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 78,
-      "change24h": 1,
-      "vol24h": 396748,
+      "url": "https://polymarket.com/event/will-the-fed-hikepausehike-in-the-next-three-decisions-sepoctdec",
+      "yes": 77,
+      "change24h": 3,
+      "vol24h": 15092,
       "headlines": [
         {
-          "title": "US Fed holds interest rates steady as inflation runs hot",
-          "source": "The National",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT2ZqOUNVTnhtaHN0OWIxcmhYeUNvTWhXVlF4MzdIT2ZYa1U5enBYMlFoZFVuZm9RRy1vejl5T1VXOHBwUHNTV294OFBzWGxHTTRGTFVYUXNiTGFuaG9sSDNoSEFnbXc5akR0RjJKZWd6NlBwb2VoT2tzd2ZYdGlUanQ5MUFnc0FwTEVQR0J3MnFjdzVvZkZwS25rQUNCYXV5R2c?oc=5",
+          "title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckdBelctbE9qYU1aby1ROElVZU1FbTlYN2lrRm1Gd3FleW1IMlNWLWdRa1QwR2Nvb2pxdWEzajF4RWNXTEhSVlZEU2QxTGZza0lRTU9HaDFXdzZLdnptYmMxT25wMUlUdVBNYVd0cHBPdWxURXVxcnI4dXBVQXhoRVVrOHFrNU9uT1lMOFJIczNmU2phQmlEWXR3N0FtMlJZbm9MUGhmMGs2Wl9WYXgzU0lqcXRGck4tQnV3NUw0M2gtQnFwYzcxX0ZxTkYzUQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "‘Politics played no role’: Fed hits pause button ahead of midterms",
-          "source": "SMH.com.au",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE1nYUZEQTc2MmxjemIxS3I2MUFMdWgycDFMY1FWTnpEbjZCelRFVjRUVHBXTlVOelk2RlJqSnc3aUNxVUxkcXpjWTVIdGU5MkE3dmFOUS1VRnBRaGpQejB0U1VKRmZtQU9GWlI2eUd4ZXZfS09vTzRXNnFBUndCLXBsSDBfQl9VLUJFU3FtcmhhLXBtLWxnbmZJaUJXOXk0enVDT2F5Wm42aGtIaVdHUk80UGNXbUJzRlEzc3RYN2JBM2dhTFp3?oc=5",
+          "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 22,
+      "change24h": 2,
+      "vol24h": 715694,
+      "headlines": [
+        {
+          "title": "The Fed held off on a rate hike. Today’s GDP and inflation reports could make waiting harder.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckdBelctbE9qYU1aby1ROElVZU1FbTlYN2lrRm1Gd3FleW1IMlNWLWdRa1QwR2Nvb2pxdWEzajF4RWNXTEhSVlZEU2QxTGZza0lRTU9HaDFXdzZLdnptYmMxT25wMUlUdVBNYVd0cHBPdWxURXVxcnI4dXBVQXhoRVVrOHFrNU9uT1lMOFJIczNmU2phQmlEWXR3N0FtMlJZbm9MUGhmMGs2Wl9WYXgzU0lqcXRGck4tQnV3NUw0M2gtQnFwYzcxX0ZxTkYzUQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 36927,
+      "headlines": [
+        {
+          "title": "Watch: Mavericks insider breaks down Dallas' impressive home win vs. Thunder",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQU12WmpENHV3N0VUOTNQOFpGVXZNS3FFT0k4cHFfZzNtMm53NUJhTDhBYldjR2pZWkREX0cwejdwSWRoTlY0cnkxa09yb3lxT3R2WUllR2hGU3J0OXE5amtuZ2pSNE9nY1o0eTAwRnVaaUNFeW1vN29XSkMtQ2EzcjJ2WW8xTVNZVmtQcXFBclFTYzNmY3hkTWVWTjlILXd2OUlfcDFSbXVaTUVTUUVCYUVtb2k?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 10,
+      "change24h": 0,
+      "vol24h": 12320,
+      "headlines": [
+        {
+          "title": "Could sports become to Kansas City what music is to Nashville? Survey says ...",
+          "source": "Kansas City Star",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwdEZMc2dITkFsMkh1cVZYcFBRNGR0c2htQlp1bHBWdEZZNFlRYzFDRk41bkJ4M0dZVUdZbExNUW8tYmUtNVhGZE43dnpvcnpjZXd3T2xlclRRSXF1dUJBRjhpd3VIZ9IBZkFVX3lxTE9JNnptUTdCMFhxT1YwM3duTENJdFBEWXRmMVpBN2pqMUJJbW5QbUVRN255ZTl3dU1HZk5sRWZxX0pNaEIxbm1WWXVVdUpEWkdBZ3N5dmJGRldwQW9INklGaTQzcV9WUQ?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Ethereum reach $2,400 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2400-in-october-2026-from-october-24",
-      "yes": 29,
-      "change24h": -42,
-      "vol24h": 35167,
+      "question": "Cricket World Cup League 2: UAE vs Oman",
+      "topic": "World Cup",
+      "url": "https://polymarket.com/event/crint-are-omn-2026-10-29",
+      "yes": 81,
+      "change24h": 19,
+      "vol24h": 17986,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $82,500 in October?",
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "yes": 22,
-      "change24h": -38,
-      "vol24h": 78157,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 40,
+      "change24h": -7,
+      "vol24h": 20396,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $82,000 October 26-November 1?",
+      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-october-26-november-1-2026",
-      "yes": 41,
-      "change24h": -36,
-      "vol24h": 34872,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $84,000 October 26-November 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-84k-october-26-november-1-2026",
-      "yes": 12,
-      "change24h": -23,
-      "vol24h": 16315,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,500 October 26-November 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2500-october-26-november-1-2026",
-      "yes": 9,
-      "change24h": -20,
-      "vol24h": 17420,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum reach $2,500 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-october-2026-from-october-22",
-      "yes": 4,
-      "change24h": -18,
-      "vol24h": 39784,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $85,000 in October?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "yes": 3,
-      "change24h": -14,
-      "vol24h": 71490,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $78,000 October 26-November 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-26-november-1-2026",
-      "yes": 42,
-      "change24h": 10,
-      "vol24h": 29243,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
+      "yes": 23,
+      "change24h": -5,
+      "vol24h": 11628,
       "headlines": []
     }
   ]
