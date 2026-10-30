@@ -1,68 +1,84 @@
 {
-  "updated": "2026-10-29T22:07:19.200Z",
+  "updated": "2026-10-30T03:14:30.257Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $78,000 October 26-November 1?",
+      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-78k-october-26-november-1-2026",
-      "yes": 79,
-      "change24h": 60,
-      "vol24h": 98161,
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
+      "yes": 38,
+      "change24h": -47,
+      "vol24h": 53659,
       "headlines": [
         {
-          "title": "ATP and WTA 2026 Schedule of Play: Friday October 30 for Basel, Vienna, Tokyo and Guangzhou",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTFZQm5icE9yZk5EYm8tLUdzdmNJaWYteHpvQ1RfNXpnU0pYZEsxSHhwOTZiTEVPZHdYbFR2VEFrXzN2Z2NvRHBzTWp5d0JiMkxraVZBQ3ltUHVQa2IxckJtbmVGU1UydHBkQ0ZnZVRaYU5wNFBZTERDODBrcVlFTFlLRGlydDZweHQyNXZCQ0VhbFQ3MVlDbG0teFdGcGQwYkpTY3JLYnBVRloxMmtQMXFoc0RMVVlH?oc=5",
-          "cat": "Tennis"
+          "title": "Friday's TV/Radio listings (October 30)",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmZiR1JzbHFBVDBmUklPQjRwN1gwMFdrRzVDYncxMXR4TDJ0SFNiOHppMlo4SktnaHB2Z2FOU2EzRVFBUUxKNVB2UXpXVUpkdG5qaWlKR2FDcGZTOVg3b1BpV1h5VTdvOS1TWE1ScmIyOEdBakJTUGtrNm5pYzc5TUt2dk5uT2JaRHYyMnlHNEs4ejdCZjMwdG9PR0tKbktPb1A2eGNBTXdsQTVC?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Fresh inflation data vindicates Fed hawks following October rate hold",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGgwcnpwcEw0TkhYdjlVTmNTZVV0bVpmYlJVQUNlQUJRT0ZpRG1xM2l3NmtkSl9HWmo3ZUh6dlA5NU42NlR3TDNxRmhxODk5YWhJam5HR2VOd1d3U0xKZEF6cWQ3MnhtNGUzX1VuQlNxU2xxVXN6TlA3T2k1clBJMnVQYlV1eElTdk5EMHV1Z1ZvRTliQ2VUbEV4a0Q0cnQ3SjNiSXE2c0c?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In October 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $77,500 in October?",
+      "question": "Will Bitcoin dip to $76,000 October 26-November 1?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "yes": 63,
-      "change24h": 53,
-      "vol24h": 237050,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-october-26-november-1-2026",
+      "yes": 59,
+      "change24h": 46,
+      "vol24h": 69243,
       "headlines": [
         {
-          "title": "ATP and WTA 2026 Schedule of Play: Friday October 30 for Basel, Vienna, Tokyo and Guangzhou",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTFZQm5icE9yZk5EYm8tLUdzdmNJaWYteHpvQ1RfNXpnU0pYZEsxSHhwOTZiTEVPZHdYbFR2VEFrXzN2Z2NvRHBzTWp5d0JiMkxraVZBQ3ltUHVQa2IxckJtbmVGU1UydHBkQ0ZnZVRaYU5wNFBZTERDODBrcVlFTFlLRGlydDZweHQyNXZCQ0VhbFQ3MVlDbG0teFdGcGQwYkpTY3JLYnBVRloxMmtQMXFoc0RMVVlH?oc=5",
-          "cat": "Tennis"
+          "title": "Friday's TV/Radio listings (October 30)",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmZiR1JzbHFBVDBmUklPQjRwN1gwMFdrRzVDYncxMXR4TDJ0SFNiOHppMlo4SktnaHB2Z2FOU2EzRVFBUUxKNVB2UXpXVUpkdG5qaWlKR2FDcGZTOVg3b1BpV1h5VTdvOS1TWE1ScmIyOEdBakJTUGtrNm5pYzc5TUt2dk5uT2JaRHYyMnlHNEs4ejdCZjMwdG9PR0tKbktPb1A2eGNBTXdsQTVC?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Fresh inflation data vindicates Fed hawks following October rate hold",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGgwcnpwcEw0TkhYdjlVTmNTZVV0bVpmYlJVQUNlQUJRT0ZpRG1xM2l3NmtkSl9HWmo3ZUh6dlA5NU42NlR3TDNxRmhxODk5YWhJam5HR2VOd1d3U0xKZEF6cWQ3MnhtNGUzX1VuQlNxU2xxVXN6TlA3T2k1clBJMnVQYlV1eElTdk5EMHV1Z1ZvRTliQ2VUbEV4a0Q0cnQ3SjNiSXE2c0c?oc=5",
-          "cat": "Macro"
+          "title": "Bitcoin Is Beating the S&P 500, so Why Is $85,000 Still Out of Reach?",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTY1R0tqYVQtclVxc0VJXzB4RjRkVjZZNzlacmlPVTRzbE1pQTdveV9mWk9hNl8tV2lIaFVGM2tBUDRnV0NGRVpaVkhuNDFmQnFMbC1vYXJBVFg5UnFwU1A5VGhva2VDaGpQX2t2ZC1ERVdhWVdqVTN5RGNsZy1jdDkySlVGYUJaQkhRc1JtcUgzbU93?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum reach $2,400 in October?",
+      "question": "Will the price of Bitcoin be above $78,000 on October 31?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2400-in-october-2026-from-october-24",
-      "yes": 13,
-      "change24h": -52,
-      "vol24h": 45444,
+      "url": "https://polymarket.com/event/bitcoin-above-78k-on-october-31-2026",
+      "yes": 43,
+      "change24h": -39,
+      "vol24h": 28038,
       "headlines": [
         {
-          "title": "ATP and WTA 2026 Schedule of Play: Friday October 30 for Basel, Vienna, Tokyo and Guangzhou",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTFZQm5icE9yZk5EYm8tLUdzdmNJaWYteHpvQ1RfNXpnU0pYZEsxSHhwOTZiTEVPZHdYbFR2VEFrXzN2Z2NvRHBzTWp5d0JiMkxraVZBQ3ltUHVQa2IxckJtbmVGU1UydHBkQ0ZnZVRaYU5wNFBZTERDODBrcVlFTFlLRGlydDZweHQyNXZCQ0VhbFQ3MVlDbG0teFdGcGQwYkpTY3JLYnBVRloxMmtQMXFoc0RMVVlH?oc=5",
-          "cat": "Tennis"
+          "title": "Friday's TV/Radio listings (October 30)",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmZiR1JzbHFBVDBmUklPQjRwN1gwMFdrRzVDYncxMXR4TDJ0SFNiOHppMlo4SktnaHB2Z2FOU2EzRVFBUUxKNVB2UXpXVUpkdG5qaWlKR2FDcGZTOVg3b1BpV1h5VTdvOS1TWE1ScmIyOEdBakJTUGtrNm5pYzc5TUt2dk5uT2JaRHYyMnlHNEs4ejdCZjMwdG9PR0tKbktPb1A2eGNBTXdsQTVC?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Fresh inflation data vindicates Fed hawks following October rate hold",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGgwcnpwcEw0TkhYdjlVTmNTZVV0bVpmYlJVQUNlQUJRT0ZpRG1xM2l3NmtkSl9HWmo3ZUh6dlA5NU42NlR3TDNxRmhxODk5YWhJam5HR2VOd1d3U0xKZEF6cWQ3MnhtNGUzX1VuQlNxU2xxVXN6TlA3T2k1clBJMnVQYlV1eElTdk5EMHV1Z1ZvRTliQ2VUbEV4a0Q0cnQ3SjNiSXE2c0c?oc=5",
+          "title": "Bitcoin Is Beating the S&P 500, so Why Is $85,000 Still Out of Reach?",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTY1R0tqYVQtclVxc0VJXzB4RjRkVjZZNzlacmlPVTRzbE1pQTdveV9mWk9hNl8tV2lIaFVGM2tBUDRnV0NGRVpaVkhuNDFmQnFMbC1vYXJBVFg5UnFwU1A5VGhva2VDaGpQX2t2ZC1ERVdhWVdqVTN5RGNsZy1jdDkySlVGYUJaQkhRc1JtcUgzbU93?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will 1 Fed rate hike happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 29,
+      "change24h": 9,
+      "vol24h": 62212,
+      "headlines": [
+        {
+          "title": "Resilient US economy, inflation pressures point to 25 bps Fed hike in December: Report",
+          "source": "Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2Y0dEU2dUZSOG91TEdmOEFmUzU5YWxab2NvbVdJaEd3Y1VVLVFGdWRSMXVtVkN1WnN6R1R2RURDMDk5OWkyREx3VEozV0RQOEdKanVVSTlCM3Jzcnl4bnRIelRpb1l6NVY5SUNVV0RoOUpQdnBkOXQtV1o3Y3c1azFUVmZDT2NPV2MtQ0ZpdWVzYWF4a2JNNEFvb0dnc3V4T214RVo4Nldpemw2N3FJMHJUZGN3ZGpWOTRqSUxaMDFsT1M1Wm5ZSFV3?oc=5",
           "cat": "Macro"
         }
       ]
@@ -71,14 +87,14 @@
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 25,
+      "yes": 27,
       "change24h": 7,
-      "vol24h": 462419,
+      "vol24h": 465342,
       "headlines": [
         {
-          "title": "Fresh inflation data vindicates Fed hawks following October rate hold",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGgwcnpwcEw0TkhYdjlVTmNTZVV0bVpmYlJVQUNlQUJRT0ZpRG1xM2l3NmtkSl9HWmo3ZUh6dlA5NU42NlR3TDNxRmhxODk5YWhJam5HR2VOd1d3U0xKZEF6cWQ3MnhtNGUzX1VuQlNxU2xxVXN6TlA3T2k1clBJMnVQYlV1eElTdk5EMHV1Z1ZvRTliQ2VUbEV4a0Q0cnQ3SjNiSXE2c0c?oc=5",
+          "title": "Resilient US economy, inflation pressures point to 25 bps Fed hike in December: Report",
+          "source": "Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2Y0dEU2dUZSOG91TEdmOEFmUzU5YWxab2NvbVdJaEd3Y1VVLVFGdWRSMXVtVkN1WnN6R1R2RURDMDk5OWkyREx3VEozV0RQOEdKanVVSTlCM3Jzcnl4bnRIelRpb1l6NVY5SUNVV0RoOUpQdnBkOXQtV1o3Y3c1azFUVmZDT2NPV2MtQ0ZpdWVzYWF4a2JNNEFvb0dnc3V4T214RVo4Nldpemw2N3FJMHJUZGN3ZGpWOTRqSUxaMDFsT1M1Wm5ZSFV3?oc=5",
           "cat": "Macro"
         }
       ]
@@ -87,133 +103,50 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 73,
+      "yes": 72,
       "change24h": -6,
-      "vol24h": 366894,
+      "vol24h": 347228,
       "headlines": [
         {
-          "title": "Fresh inflation data vindicates Fed hawks following October rate hold",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGgwcnpwcEw0TkhYdjlVTmNTZVV0bVpmYlJVQUNlQUJRT0ZpRG1xM2l3NmtkSl9HWmo3ZUh6dlA5NU42NlR3TDNxRmhxODk5YWhJam5HR2VOd1d3U0xKZEF6cWQ3MnhtNGUzX1VuQlNxU2xxVXN6TlA3T2k1clBJMnVQYlV1eElTdk5EMHV1Z1ZvRTliQ2VUbEV4a0Q0cnQ3SjNiSXE2c0c?oc=5",
+          "title": "Resilient US economy, inflation pressures point to 25 bps Fed hike in December: Report",
+          "source": "Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb2Y0dEU2dUZSOG91TEdmOEFmUzU5YWxab2NvbVdJaEd3Y1VVLVFGdWRSMXVtVkN1WnN6R1R2RURDMDk5OWkyREx3VEozV0RQOEdKanVVSTlCM3Jzcnl4bnRIelRpb1l6NVY5SUNVV0RoOUpQdnBkOXQtV1o3Y3c1azFUVmZDT2NPV2MtQ0ZpdWVzYWF4a2JNNEFvb0dnc3V4T214RVo4Nldpemw2N3FJMHJUZGN3ZGpWOTRqSUxaMDFsT1M1Wm5ZSFV3?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 75,
-      "change24h": -4,
-      "vol24h": 73638,
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 7,
+      "change24h": 1,
+      "vol24h": 51952,
       "headlines": [
         {
-          "title": "Fresh inflation data vindicates Fed hawks following October rate hold",
-          "source": "Scotsman Guide",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGgwcnpwcEw0TkhYdjlVTmNTZVV0bVpmYlJVQUNlQUJRT0ZpRG1xM2l3NmtkSl9HWmo3ZUh6dlA5NU42NlR3TDNxRmhxODk5YWhJam5HR2VOd1d3U0xKZEF6cWQ3MnhtNGUzX1VuQlNxU2xxVXN6TlA3T2k1clBJMnVQYlV1eElTdk5EMHV1Z1ZvRTliQ2VUbEV4a0Q0cnQ3SjNiSXE2c0c?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 18580,
-      "headlines": [
-        {
-          "title": "Game Preview: Warriors vs. Lakers - 10/30/26",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxeEpqS1NZaVZyWmR3RXNkelRaRzMxSjVpZzNQN1JLZGVEdFlubkZQZi13OGxDam8xVlhrb1pqMHZLZFdLZGh6OEZqZlU4N05GVzB0Nk9BdTRjczFzdThzVnhrbll4RlM4Tnc?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "How USC Quarterback Jayden Maiava Can Boost His NFL Draft Stock vs. Ohio State",
+          "title": "Seahawks Have 'Best Defense in Football' Entering Matchup vs. Bears",
           "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMExXanotaGlOUXJOUEp6MnhIVWNXdThBZ3FnMHR4dTNlOVVYSGFMVFZrcGFJejZhNUxqVmxHemtDQnd4OVlOWWFaRHUzWV9jVWxpVm1TeHBPOThTdEpydFdIT2w5SXREOVoyVEIzQ1lQN3FPbU9mZmFHV0hSVkZobkVLTDZIY2V0Wlp1dGVha2l6M2NfU0FaOEZFX1NHU3kzZEdVVW5EX0lxSV82YUxWZ2N4M3BUZjV5VElF?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcExqSlFfWWxpZWFHREtRM01KQl8yWnlVc1VMeFljcjhuTTczWUhlUlowdWg3ZTNEZ2ZCY0pjRXVGVjFhN3p6OXMyMXJuakJBZy0ya1ZYdXZ6NU1sUkZQTTJpbDktQWQ4QzBYRUowUlZTdzIxdkhBRkJ6czNLZjFNX1I2c1VDM1VRODZSSQ?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "question": "Will Portland Trail Blazers win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 18,
+      "url": "https://polymarket.com/event/will-portland-trail-blazers-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 15378,
+      "vol24h": 16752,
       "headlines": [
         {
-          "title": "49ers Expand In-School Youth Football Program Into Mexico City",
-          "source": "San Francisco 49ers",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZE10WnlRUmFlY0JjWkdUSThGbVFITDJpdzFVVWFZTmo3elF6LV83NDdrenZUcE1LRy04aXUtRUxtcFZzS2hfVXNhU1hqZ245RmZVcDBKa1dDNjlsb2pKdzFpUlVGNFk0WV83SlR6S28tMTZaVDV0cktTM25ZSjQtWEEwa3JFVWxmckE0Q1NvYzdHR0U?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "World Cup generated millions in local revenue. What does that mean in Kansas City?",
-          "source": "Kansas City Star",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1scndRNlBfUF9MNmMtZmFweC03QU5YNTRkSUFwVEsxTHNuYUJSUkVlQ1hvQXdvMGV2MUtHdnZ6RERGZ2R0YmFCZGxsNXF4YzhhcXBRMGJobjZXQ0xHbEEycks2RVZBcS01WmhuS1h6NmVlZVdRU1FPYzVB0gF6QVVfeXFMTVJqU0Rzd0NtVmxOQ0ZONWJGNDB4NklQcnN4WFhOTlFrS05pSnFfVVY2dl9IM2oxNlBORTI0M0JuSGRCRjFqLS1GbWhSZFpYQXdDTlZyS2JyV2lYbGZtb0lnWXNpbmpkSW1zZjJZUkczSFJIbGhJZ2ZhNlE?oc=5",
-          "cat": "World Cup"
+          "title": "+[#!LIVESTREAMs!]™ Grizzlies vs Trail Blazers Live Free Basketball match Oct 27, 2026",
+          "source": "Port of Rotterdam",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYmkwWDFyRTZtaVpjN1BXWmV6Y1VrOUdqRUhPU0FjRUtkQ2Q4bTJ5d0tjT2hTZTVlajFDQ3pqNnFLRENhX1JEZHZEUmo5bVBDUHVVZm8wUTRzMXFvZ0U5MDNJOEJfQ1Zlazk5UHM3LXh0T3Q1LVJBRGhIeXc5Zjh3RGN1SkV0OVlScjRtODBfYjBsQk9LejZhN19tUnhSYWlJSmpnZ2YzemRTSVRZTDF6VHNQVU5wYnV5UXZhV0pWV3lld09EN3NNVklDR2ZWU01RNnZaLVZrSnVDc2J4NjNqY2E5eTRhbDdKbWtGNkhsMHEyN3p3ZkktS1pBWGtiRktMaUo3bEREODMwMjlucjAxb3ZmcEp4dEtIb3RkV2hrLXVCQ3V6MGZCVnZOanNlaEhXZFJ4TFhqMEhuVDFOT0dPLVZMNjg0UUV3MFFEVEJqSHhIMTlTZlhMQ0pIcmxVb1htLU15OGtVNzFhbDE3YmNIQlJ4eURDRmxCOEV1SkRsNC1CUQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum dip to $2,250 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026",
-      "yes": 100,
-      "change24h": 27,
-      "vol24h": 29985,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 39,
-      "change24h": -7,
-      "vol24h": 37837,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 13,
-      "change24h": -5,
-      "vol24h": 22284,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 24,
-      "change24h": 4,
-      "vol24h": 34141,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 63,
-      "change24h": -4,
-      "vol24h": 32725,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 38,
-      "change24h": 4,
-      "vol24h": 23197,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
