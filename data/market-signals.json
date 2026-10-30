@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-30T11:46:17.497Z",
+  "updated": "2026-10-30T17:21:14.934Z",
   "withNews": [
     {
       "question": "Will the price of Bitcoin be above $80,000 on November 1?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-80k-on-november-1-2026",
-      "yes": 8,
-      "change24h": -47,
-      "vol24h": 15807,
+      "yes": 4,
+      "change24h": -69,
+      "vol24h": 16431,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
@@ -18,12 +18,12 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $76,000 October 26-November 1?",
+      "question": "Will Bitcoin reach $82,000 October 26-November 1?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-october-26-november-1-2026",
-      "yes": 47,
-      "change24h": 39,
-      "vol24h": 64524,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-october-26-november-1-2026",
+      "yes": 4,
+      "change24h": -61,
+      "vol24h": 47023,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
@@ -40,40 +40,24 @@
       ]
     },
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on October 31, 2026?",
+      "question": "Will Ethereum reach $2,400 October 26-November 1?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-october-31-2026",
-      "yes": 47,
-      "change24h": -38,
-      "vol24h": 55167,
+      "url": "https://polymarket.com/event/will-ethereum-reach-2400-october-26-november-1-2026",
+      "yes": 3,
+      "change24h": -51,
+      "vol24h": 29547,
       "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In October 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDdPVGtOYlRCN0l3S1BkaW5OTHVsUDVDWXFWV2g5T3BQNVJaU21oVUV4MFN2X05jSW9BVlBXejZJN2pGcW11UlpZTlN0OVVhV2pyVHdSTGdDWDFIQXhUQ3l2ZUE1dWsxWHF4MWVITjdXUjh6YVAxdzlZbEFOTGpoa2dyUGtsQTJ0NnFrbUtMbEY?oc=5",
           "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 26,
-      "change24h": 6,
-      "vol24h": 68322,
-      "headlines": [
-        {
-          "title": "New economic data challenges Fed chief’s not-too-hot perspective",
-          "source": "The Mighty 790 KFGO",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenY4aHg0cmdWcGxIcmJMRjc4QnZxcHBRYXBBOHNEVEpoX2oxYm1zVjZhSUxNZU1DOVRxVHZ6RVNPd1VfdDNNVFlOYldWUkNXWUNETmVUa09zMjFwaGFPYmZZMTFNd2ZhNlAzenhxZDUzdkRuenJWWm1SdklGMDN6b2s1Nm9SWHpLTFJCdzYwcm1QalJPZnk4?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
-          "cat": "Macro"
         }
       ]
     },
@@ -81,20 +65,20 @@
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 26,
-      "change24h": 5,
-      "vol24h": 347439,
+      "yes": 25,
+      "change24h": 3,
+      "vol24h": 367119,
       "headlines": [
         {
-          "title": "New economic data challenges Fed chief’s not-too-hot perspective",
-          "source": "The Mighty 790 KFGO",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenY4aHg0cmdWcGxIcmJMRjc4QnZxcHBRYXBBOHNEVEpoX2oxYm1zVjZhSUxNZU1DOVRxVHZ6RVNPd1VfdDNNVFlOYldWUkNXWUNETmVUa09zMjFwaGFPYmZZMTFNd2ZhNlAzenhxZDUzdkRuenJWWm1SdklGMDN6b2s1Nm9SWHpLTFJCdzYwcm1QalJPZnk4?oc=5",
+          "title": "The Fed Wanted More Data, It Got More Inflation (null:SPX)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkVxdzRpd1o1eFFIS1BoUGN4Q0ltNlA3VWFWcVVHMWZJVUN5WDNONGs0Zi1Db3U2OWdUa2NYY1I0RF9wMUZBQkZUbDUxUnZsTEItRzBLS1l3VHIySFlkTzViTm1tbDdHdGlYNk5kMk1NeUozYmtyQ08yck4wTExvR19EWEdvUUE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+          "title": "Trump Claims Inflation Is 'Way Down' Ahead of Midterms, But Fed Chair Kevin Warsh Warns Prices Remain 'To",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQTZXRGk3a3gtZENLaGZseks2S192el92Y29YWHc5NEtvbkZmSkVEY21haFpXRUR5OVMwUXJod1ljVmhNV3RvWkZ5ZnVtUFJhZ1kxcllfdk5wdXEtaXctOGFhQkFva2NQU05UN3k3ZkJIVWpyek40Zm54SHNWRmhCazFsMGJ2VlJEQXpSUFUtX29Bd1ItNUxLRi1yVWR0NXhVcmU1VTBPWDd2MWpkSk1KSWpaT1NIM1JlNWxuVXJlUjRKZUN0NXdKZnJGdVlyZHkxcVgxV1N5bDg5eVlOSjR0ejdtVkQxTGdmMTJmUm1jZE8tekVPYTl3MlN1a3ZDVEFfZk1LSTAyZzRycHR0LTBNa1A0QnVPb2JIWncwaS1yU2Rsdw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -103,59 +87,59 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 72,
-      "change24h": -5,
-      "vol24h": 296581,
+      "yes": 74,
+      "change24h": -3,
+      "vol24h": 234164,
       "headlines": [
         {
-          "title": "New economic data challenges Fed chief’s not-too-hot perspective",
-          "source": "The Mighty 790 KFGO",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenY4aHg0cmdWcGxIcmJMRjc4QnZxcHBRYXBBOHNEVEpoX2oxYm1zVjZhSUxNZU1DOVRxVHZ6RVNPd1VfdDNNVFlOYldWUkNXWUNETmVUa09zMjFwaGFPYmZZMTFNd2ZhNlAzenhxZDUzdkRuenJWWm1SdklGMDN6b2s1Nm9SWHpLTFJCdzYwcm1QalJPZnk4?oc=5",
+          "title": "The Fed Wanted More Data, It Got More Inflation (null:SPX)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkVxdzRpd1o1eFFIS1BoUGN4Q0ltNlA3VWFWcVVHMWZJVUN5WDNONGs0Zi1Db3U2OWdUa2NYY1I0RF9wMUZBQkZUbDUxUnZsTEItRzBLS1l3VHIySFlkTzViTm1tbDdHdGlYNk5kMk1NeUozYmtyQ08yck4wTExvR19EWEdvUUE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+          "title": "Trump Claims Inflation Is 'Way Down' Ahead of Midterms, But Fed Chair Kevin Warsh Warns Prices Remain 'To",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQTZXRGk3a3gtZENLaGZseks2S192el92Y29YWHc5NEtvbkZmSkVEY21haFpXRUR5OVMwUXJod1ljVmhNV3RvWkZ5ZnVtUFJhZ1kxcllfdk5wdXEtaXctOGFhQkFva2NQU05UN3k3ZkJIVWpyek40Zm54SHNWRmhCazFsMGJ2VlJEQXpSUFUtX29Bd1ItNUxLRi1yVWR0NXhVcmU1VTBPWDd2MWpkSk1KSWpaT1NIM1JlNWxuVXJlUjRKZUN0NXdKZnJGdVlyZHkxcVgxV1N5bDg5eVlOSjR0ejdtVkQxTGdmMTJmUm1jZE8tekVPYTl3MlN1a3ZDVEFfZk1LSTAyZzRycHR0LTBNa1A0QnVPb2JIWncwaS1yU2Rsdw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "question": "Will 1 Fed rate hike happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 25,
+      "change24h": 2,
+      "vol24h": 88385,
+      "headlines": [
+        {
+          "title": "The Fed Wanted More Data, It Got More Inflation (null:SPX)",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQkVxdzRpd1o1eFFIS1BoUGN4Q0ltNlA3VWFWcVVHMWZJVUN5WDNONGs0Zi1Db3U2OWdUa2NYY1I0RF9wMUZBQkZUbDUxUnZsTEItRzBLS1l3VHIySFlkTzViTm1tbDdHdGlYNk5kMk1NeUozYmtyQ08yck4wTExvR19EWEdvUUE?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Trump Claims Inflation Is 'Way Down' Ahead of Midterms, But Fed Chair Kevin Warsh Warns Prices Remain 'To",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQTZXRGk3a3gtZENLaGZseks2S192el92Y29YWHc5NEtvbkZmSkVEY21haFpXRUR5OVMwUXJod1ljVmhNV3RvWkZ5ZnVtUFJhZ1kxcllfdk5wdXEtaXctOGFhQkFva2NQU05UN3k3ZkJIVWpyek40Zm54SHNWRmhCazFsMGJ2VlJEQXpSUFUtX29Bd1ItNUxLRi1yVWR0NXhVcmU1VTBPWDd2MWpkSk1KSWpaT1NIM1JlNWxuVXJlUjRKZUN0NXdKZnJGdVlyZHkxcVgxV1N5bDg5eVlOSjR0ejdtVkQxTGdmMTJmUm1jZE8tekVPYTl3MlN1a3ZDVEFfZk1LSTAyZzRycHR0LTBNa1A0QnVPb2JIWncwaS1yU2Rsdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 35720,
+      "vol24h": 30207,
       "headlines": [
         {
-          "title": "Cameron Boozer's first NBA triple-double sends powerful message about Grizzlies' future",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWlPNjE4MkM1cjY1TEUtTktpUDlPVGlsNG9CMGpialZVaWlYWHFXTm0xdTU1cnVrYUV0bVcyZFZNVFdCZkFDaEljV0huMzg0OFk1YjF1YUhhRUtOeFh2WTIxQkVtcmxQZlpqazZ2dzdYTTVfaEhrN1dvZWxxN2NQM21NanpMdk1L?oc=5",
+          "title": "Heat unveil an updated Wade statue, after original was widely panned for not looking like him",
+          "source": "The Press Democrat",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vSEVtZ0JJbTVFdTZvVGt6UEhTMVVWOUdTY25vd3A2b19hWGN5amNxSnREaDVrVmswVGhVZDA1Vk9KcGFsd3RaU2hUTU1RVUp2cWhEMU5fQ2FaRlZIS2NoeHpLQXRQZ1g3bXc?oc=5",
           "cat": "NBA"
-        },
-        {
-          "title": "Ja Morant's first game against Grizzlies takes painful turn after Trail Blazers star exits",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2puSzBHNzZUTG56Ti1nMmlaUFk3RC10eW95b2dkUWtoVi1GQzYzWDlOaE1lN2hjNVRpX1lxN3gzTHMxTC1WVXA0MXhjVlNjRXFsVjFPUlc0Y1NuYXdaYXBHVGlDdF90bUdkbXZWS0RvN1JrUThSVzI4WDdqSFpYNWNtQ3A?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Buffalo Bills win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-buffalo-bills-win-the-2027-nfl-league-championship",
-      "yes": 12,
-      "change24h": 0,
-      "vol24h": 17536,
-      "headlines": [
-        {
-          "title": "Bills vs Ravens prediction, key matchups in pivotal Week 8 clash",
-          "source": "Democrat and Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb24yVUZuaWk3ZXFzcW1XeTRISkVabVpoLUFZLU4zSEtRNndyUV9mR19xMFZWSGFXYlRfdTlRU1ZWVEVtbVdyYjYtdzQ4emp5MVpibFFwWlhNdDQ2WW50VnN1R1NoWHFUV2RwQWd3ckZxRlpnampmSVlRQlNMRkFfZkhqNzlMSm5DNFVfejQtWjBFYUxINEk4dkt3bS1EbHNDc2tyWVczdEQ3WDN4TjhveEVlRjJITG5kSl9LdHVjUDZLVTZ0R3BCbEFjUzRqUVBlUEE?oc=5",
-          "cat": "NFL"
         }
       ]
     },
@@ -165,32 +149,105 @@
       "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
       "yes": 7,
       "change24h": 0,
-      "vol24h": 15675,
+      "vol24h": 19012,
       "headlines": [
         {
-          "title": "Celtics NBA Cup Breakdown 2026: Group, Schedule & More to Know About In-Season Tournament",
+          "title": "\"Started torturing us\" - Charles Barkley recounted Larry Bird’s terrifying pre-game routine in Boston Garden",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE9DczlhVllSNkNYY3B0YUh1WVd4ai1QS0xYcTRsTjJTNXM1TTBXcUtxLTdBOFJ4dklFZElDT2xROHg1S25BcENkak1fMnlBOEJzTGJNQTgxa2ZzMEQ5bU5CeTRsUHZKYkVqdG1TTVRpN1B5WGJqcm1TVmVlYzhha1NvNmJHZw?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWdYNzQyMVVxem5wTWVoZk80alhFa0VaUm5PQ21JOXdxLVQwbWlsOHpUcktvS1d5UUc1dEN1Nm1NdDZSbGUwSk13RE1CcjdSQjNzb19pNF9WeUptRElkNG1sOTJYMkZsSnpSdVZteEJydEdyWWE4VFVEX2hoZUR0TnRXNWhBaVFxckpXUXF3?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
+      "question": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-jacksonville-jaguars-win-the-2027-nfl-league-championship",
+      "yes": 6,
       "change24h": 0,
-      "vol24h": 15312,
+      "vol24h": 14861,
       "headlines": [
         {
-          "title": "\"They almost pushed me out\" - Stephen Curry reveals how close he came to leaving the Warriors early in his career",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU1lUTHdtbzZRVDNqcHdoMlZvTjUzR3k5VXB1OFR4TE1YSVJneGROekIyc1RucmtIdlotdTBuX1hxMUtLdGo1NkVnMXFNbW9wbzhIREg5NnRfcDU1UkltUlI0N01rY2M5alZBek9yemV4blFHRGVWaWYtSEZmdEVTaFF0dWNRWG1fcVZkNQ?oc=5",
-          "cat": "NBA"
+          "title": "Jaguars Week 8 vs. Texans: Uniform Combo Photos",
+          "source": "Jacksonville Jaguars",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KZDE0ZlgzN2thNmZKZEVZcDZ3SG1TNGtvV2t4OU9BOENkTUtHaHR4Vzg0NnpBVUdJSE8wYkxBQWNvdnlNbEhCV201RUJzNW1HaGVvXy0ybzM1RExLWXF2Um9UemNaYkZvbG9TUHlJdUhSN2c5b016RnFwbGF6Zw?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 49,
+      "change24h": 16,
+      "vol24h": 40587,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 32,
+      "change24h": -14,
+      "vol24h": 50841,
+      "headlines": []
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 53,
+      "change24h": -12,
+      "vol24h": 111448,
+      "headlines": []
+    },
+    {
+      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-december-interest-rate-announcement-20260908230600014",
+      "yes": 52,
+      "change24h": -10,
+      "vol24h": 21066,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
+      "yes": 28,
+      "change24h": 8,
+      "vol24h": 32553,
+      "headlines": []
+    },
+    {
+      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-december-interest-rate-announcement-20260908230600013",
+      "yes": 45,
+      "change24h": 8,
+      "vol24h": 29680,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
+      "yes": 13,
+      "change24h": 4,
+      "vol24h": 40921,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 18,
+      "change24h": 4,
+      "vol24h": 33346,
+      "headlines": []
+    }
+  ]
 }
