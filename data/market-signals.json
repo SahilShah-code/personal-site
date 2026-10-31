@@ -1,14 +1,20 @@
 {
-  "updated": "2026-10-30T21:44:36.849Z",
+  "updated": "2026-10-31T02:58:43.684Z",
   "withNews": [
     {
-      "question": "Will the price of Bitcoin be above $80,000 on November 1?",
+      "question": "Will Bitcoin dip to $76,000 October 26-November 1?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-80k-on-november-1-2026",
-      "yes": 3,
-      "change24h": -34,
-      "vol24h": 15265,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-october-26-november-1-2026",
+      "yes": 37,
+      "change24h": -25,
+      "vol24h": 19506,
       "headlines": [
+        {
+          "title": "Moving Averages of the Ivy Portfolio and S&P 500: October 2026",
+          "source": "Advisor Perspectives",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0VkpseFdPUFhVYjhPd1dPMTBJOEQ1WG00bjNUZHRsNFIzODhWQm9HMHlNNEp2Y29XT0hLUWYwVmFEQkJaaEV5c3BwUEotY3gyT1ZXczR0MG9pRmNkN0dZSE1jMkFEUHk5RHloV1BFeWNLNlowOS1LdTM0THotV0prbDVKT2tiQmpTa2JxTEIxTTYzbUcxdWZ1dmdwc2ZweHBsdGlyU1hfR0FqMC1B?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
@@ -18,24 +24,24 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $76,000 October 26-November 1?",
+      "question": "Will Ethereum dip to $2,100 October 26-November 1?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-october-26-november-1-2026",
-      "yes": 62,
-      "change24h": 30,
-      "vol24h": 37826,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2100-october-26-november-1-2026",
+      "yes": 7,
+      "change24h": -25,
+      "vol24h": 15865,
       "headlines": [
         {
-          "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEJYRTREa2JJM1FSeW1nTTVldXlmeElCanRweTcwcVpudjZ0WUtBVjU5RURERzdESU8tVV9GanJ3VHlBUlhkWjVmbG5ielVFbEx5cXNLX0M1Vk9XTU5nTUtLVm0xaDA4LTlaZ1BnS0Z0d1FrNXBHVTJHLVFYUExYQjhCNDVGRWhNWm0wOEFjbG05R2toV25YMlZ2LTEyUUVNR0t5R3A0WF9NZWw0Zk1LWjBUaFpWdHVHdVJqWmJ4UkMxaUJaX3NrS3M3eFBWQQ?oc=5",
+          "title": "Moving Averages of the Ivy Portfolio and S&P 500: October 2026",
+          "source": "Advisor Perspectives",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbXN0VkpseFdPUFhVYjhPd1dPMTBJOEQ1WG00bjNUZHRsNFIzODhWQm9HMHlNNEp2Y29XT0hLUWYwVmFEQkJaaEV5c3BwUEotY3gyT1ZXczR0MG9pRmNkN0dZSE1jMkFEUHk5RHloV1BFeWNLNlowOS1LdTM0THotV0prbDVKT2tiQmpTa2JxTEIxTTYzbUcxdWZ1dmdwc2ZweHBsdGlyU1hfR0FqMC1B?oc=5",
           "cat": "Markets"
         },
         {
-          "title": "In a wild October for markets, these stocks were the biggest winners and losers",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbVVzd3JhZEZsbTlkT2ZJaFNQWHo5bk5NSTN3SzhQb096T3dVZG5vb1daUV9wNGlhV1RtOTUwSE1sU1J5MzVhN2I5bXJKc01yRlZPSnowTU1EZFc5S0NNUnZta0stR2RpaDItSTF2Tko4aFk4ZFBHeFh3WFlQTnFxZEw3eTVKd01zaXpobFdwYkotZV9qTzVnejVGelhaR2ppcV9xWmk5czFjTjF3cDA2ZXMybTFneHVtdGUtMVh3?oc=5",
-          "cat": "Markets"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -44,8 +50,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-the-price-of-bitcoin-be-between-76000-78000-on-november-1-2026",
       "yes": 51,
-      "change24h": 30,
-      "vol24h": 13885,
+      "change24h": 21,
+      "vol24h": 13803,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
@@ -60,41 +66,19 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 28,
-      "change24h": 3,
-      "vol24h": 447961,
+      "change24h": 1,
+      "vol24h": 310900,
       "headlines": [
         {
-          "title": "The Fed held interest rates steady, but these officials see more hikes coming soon",
+          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
           "source": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Officials Signal More Interest-Rate Increases Ahead, and Markets Believe It",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 28,
-      "change24h": 3,
-      "vol24h": 102467,
-      "headlines": [
-        {
-          "title": "The Fed held interest rates steady, but these officials see more hikes coming soon",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Officials Signal More Interest-Rate Increases Ahead, and Markets Believe It",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
+          "title": "Former Richmond Fed President Lacker says he is surprised at the Fed’s approach amid persistent inflation",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2dqLWdQdGpiS1RxT2RRa080NGw5SVJBeFBmWmhsTDBpcXRVU210eXRsbF9sMEdTaExFamwxOENVeUEzdGpQb3pxRHlrVU9RNW5mRnotbm1mX0VNWmU1VHJYemNzYk11dGFzTDdaaWIyV2owQXR6cjRNMi1lekQ5c2haSVMyVi1sX0laUWd2M2QtQlpMNEJxZUVqRjIzZjNiYmpMNi1mQ3VzQ0M1bE93eGNYdTc0R2lody1kd1BYcw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -104,19 +88,41 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 71,
-      "change24h": -2,
-      "vol24h": 332648,
+      "change24h": -1,
+      "vol24h": 294463,
       "headlines": [
         {
-          "title": "The Fed held interest rates steady, but these officials see more hikes coming soon",
+          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
           "source": "MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Officials Signal More Interest-Rate Increases Ahead, and Markets Believe It",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
+          "title": "Former Richmond Fed President Lacker says he is surprised at the Fed’s approach amid persistent inflation",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2dqLWdQdGpiS1RxT2RRa080NGw5SVJBeFBmWmhsTDBpcXRVU210eXRsbF9sMEdTaExFamwxOENVeUEzdGpQb3pxRHlrVU9RNW5mRnotbm1mX0VNWmU1VHJYemNzYk11dGFzTDdaaWIyV2owQXR6cjRNMi1lekQ5c2haSVMyVi1sX0laUWd2M2QtQlpMNEJxZUVqRjIzZjNiYmpMNi1mQ3VzQ0M1bE93eGNYdTc0R2lody1kd1BYcw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will 1 Fed rate hike happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 28,
+      "change24h": -1,
+      "vol24h": 52712,
+      "headlines": [
+        {
+          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Former Richmond Fed President Lacker says he is surprised at the Fed’s approach amid persistent inflation",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc2dqLWdQdGpiS1RxT2RRa080NGw5SVJBeFBmWmhsTDBpcXRVU210eXRsbF9sMEdTaExFamwxOENVeUEzdGpQb3pxRHlrVU9RNW5mRnotbm1mX0VNWmU1VHJYemNzYk11dGFzTDdaaWIyV2owQXR6cjRNMi1lekQ5c2haSVMyVi1sX0laUWd2M2QtQlpMNEJxZUVqRjIzZjNiYmpMNi1mQ3VzQ0M1bE93eGNYdTc0R2lody1kd1BYcw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -127,14 +133,8 @@
       "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 56975,
+      "vol24h": 56377,
       "headlines": [
-        {
-          "title": "\"Can’t prove the Mavericks right\" - Charles Barkley put Luka Doncic and Kawhi Leonard on notice for having the most pressure this season",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzc4R2oxTmtqYkhidWJUdGtSdUQ2TzkyRW14MFR4QnBPSEdiX2diRndLaWR4U2JPeVlIYjhKSEl2WGp6VFg2bzlsbGI1Z1NGZnI4Z251d3dBRW5fRkRtMC14Y2lpWnBXVHZvNlRiMG5lQWNVenFYMlcwYWJwXzB0SHYtUXRodU40TVE?oc=5",
-          "cat": "NBA"
-        },
         {
           "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
           "source": "WSJ",
@@ -144,33 +144,39 @@
       ]
     },
     {
-      "question": "Will Memphis Grizzlies win the 2027 NBA Finals?",
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-memphis-grizzlies-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 31364,
+      "vol24h": 26041,
       "headlines": [
         {
-          "title": "Ja Morant could miss a month after straining left hamstring in Blazers' loss to Grizzlies",
-          "source": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS08tWHprTF9tc3ZRMk5xbDZ3Ynh5MzdmY3RSaXZFR0h6Um1lamhlLUVGdmZ5VFEwU1Z5VnptMmpySGdHeDhiRHhQaGVQdV90aXpRbVBocXYzZllGellsMUdwS0V2Skt3WVpPR0VfU0RxNHN1Q1ZRQlRfeVljc3c2V29xMmdzX3BuMjlCMVFReTYtNmM?oc=5",
-          "cat": "NBA"
+          "title": "NC State coaching search turns toward familiar NFL legend",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTEc1XzhCMXNGUkphNl9NN2o3SHR5X3pCUV80eXBWTE9sanZnQWFzd3dpRldXZFA3U0F3TjMwam96WWk4UTFhd0NUMUdkdXhLMUQ3OEFQNjAzMWpNLTVqSm9VeHk3Z2tLbkRaVHh5VUZXQmhkVTZBd0NHSm9waFpqODVXd3JvdW5sTHM0X1lveXNXcGotZVpDM3hsTlpEQXlHVDgyUVJWNnFfcFUtM1NicnhfOV9fY2lvVHF4dURYSkFpWWtwaVJwMDJvS3ZQZVZtcDNVQ2ZPS3ZTa0RW?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
-      "yes": 7,
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 17634,
+      "vol24h": 23098,
       "headlines": [
         {
-          "title": "【LIVESTREAMs!!】Chicago Bulls vs Boston Celtics LIVE NBA Basketball Game on TV Channel",
-          "source": "Port of Rotterdam",
-          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNcFdBak9WYnNrMm1jQ1lXM2pSYlRhcGhYUW5xUGFRc2lPRkJucWNZc0V4elZZd0V1UkZMMnliQzJyWmhJNHNZSTQ3ZmpqVGxVVWtQZXIwVE1kMVVQV1NPUVdtTlE0X2M2blpjcnI4OFpYdUtSU0ozekVQWVNGcFFKX0pkYkFzejEtLWhmLXJZTXMtd241VHNmN2xGZWpOT1pKYWhVZTJOaU5YN1NJRUdzR3c3UEVsWlVObjJYTFVDcFYwalA0eXRFOEZULWJQWUtwa3hjU3p0WXphYkoyU1p1bTY5eFJLZ3BjQTJ3andOYzhWVXdIbklUWFhPQ3RUUnhTMWZlUVlJSHpvM3k4YnVIaFlQR3JyUFhiVzRhYlhQS0RLeUlSMkdPemZiZmRkOTJRNUhPWU1TZW1SeEs1QWcwUTQwYTFfRGYyT2llWktOQXVKVFBiMzlYSDJIZF85b3RUb29JVF81bzlUalZHSzRZWWxET0pjRExZa21na2pWRmRNRDFtZkx3?oc=5",
+          "title": "Giannis has triple-double, Heat open NBA Cup play with 145-125 win over Pacers",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NbjF3eGJVM3BlVWp3eENUNFVVb2FSUkYwZExMam9QanJHR2oxOUEyMlFucU9rdjlNdjlydndwdzZINy16ZTlFbGVaTS1fSmxTYWIxUmhSODlTZ1J2QnZKUWtfdHFPdE4wZXFWVlRjOTZLX005?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Game Rewind: Pacers at Heat (NBA Cup)",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FS2ZqaGtTNUlmZUczRkJaNjNNakFWcGNhdFN2ZmhveVVhdFRwLUdXTGN0WGVDVWlNQy1lZW1HaWNDNzl2cmVwSndCcUpQaGRnaFo4YlhBRG5RaXRwVjNCY09LN1c0M0It?oc=5",
           "cat": "NBA"
         }
       ]
@@ -181,54 +187,27 @@
       "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-december-interest-rate-announcement-20260908230600013",
-      "yes": 52,
-      "change24h": 17,
-      "vol24h": 31347,
+      "yes": 42,
+      "change24h": 8,
+      "vol24h": 35547,
       "headlines": []
     },
     {
       "question": "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-december-interest-rate-announcement-20260908230600014",
-      "yes": 46,
-      "change24h": -17,
-      "vol24h": 21939,
+      "yes": 57,
+      "change24h": -7,
+      "vol24h": 29149,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 48,
-      "change24h": 10,
-      "vol24h": 26362,
-      "headlines": []
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 54,
-      "change24h": -9,
-      "vol24h": 102516,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 30,
-      "change24h": -9,
-      "vol24h": 29317,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 30,
-      "change24h": 6,
-      "vol24h": 18002,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
+      "yes": 18,
+      "change24h": -6,
+      "vol24h": 33377,
       "headlines": []
     }
   ]
