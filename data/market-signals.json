@@ -1,57 +1,13 @@
 {
-  "updated": "2026-10-31T16:25:40.366Z",
+  "updated": "2026-10-31T20:44:16.680Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $76,000 October 26-November 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-76k-october-26-november-1-2026",
-      "yes": 21,
-      "change24h": -15,
-      "vol24h": 29934,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Aliona Falei vs Rada Zolotareva in Chennai with odds, preview, pick | 1st November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeFZzRHpwZjdYMURyMXJCcEF1NVREYThXMGJLMldBOXZ6OFkyd2lWaEtwRUVWajhpT3VWRFFKeXdCYkItTTRDX2FuNGVHWnh2eTc1OHh2blNOaFc0VmtDWDdRMnhGa0RJTEVmRE40SGwzOVdNWjFyT2Fvb2hEcFZURVc2Q0U2SC1NXzhNWnRVTm5ObVQ5VGo4Z1BBY09IT0EwTjBmZTZ4NzZsa2xGcTRkSnNkTW9mY2h2Y2N6aHJqTU1tMjR2UWMtSlBIWXRPZ1JlQ2hITXBoZHhwdWIweTZN?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "H2H, prediction of Emerson Jones vs Alexandra Shubladze in Hong Kong with odds, preview, pick | 1st November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWk1iTThqRnRPNkRkQXBHcUVsM1BNUnA5Y25tSFVJb2NIR01GRElDVHFSbFdWalVKLWRpZkZGRC1aMTlUeVNvZ05vZDQ1aHR4em1kV0ExU2lLaWs0QVZ2YkJSYU1zeVVSX04takYxakNhc29Pd2NqRi1udzczU2pDbEp0U3hYSjd1Nkotb1ZUT3NQMUozeUx0MThjSFVSQnZwTjdZME5DMldtekYySGlfa29ZejJKZlZHV0NhNG1VZkp2azBrYXRHLUs4QnU2WU1qMnpkcFpRVVRBZFRNY3QzMVZYWTQ1WmFW?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $74,000 October 26-November 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-october-26-november-1-2026",
-      "yes": 4,
-      "change24h": -5,
-      "vol24h": 25572,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Aliona Falei vs Rada Zolotareva in Chennai with odds, preview, pick | 1st November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeFZzRHpwZjdYMURyMXJCcEF1NVREYThXMGJLMldBOXZ6OFkyd2lWaEtwRUVWajhpT3VWRFFKeXdCYkItTTRDX2FuNGVHWnh2eTc1OHh2blNOaFc0VmtDWDdRMnhGa0RJTEVmRE40SGwzOVdNWjFyT2Fvb2hEcFZURVc2Q0U2SC1NXzhNWnRVTm5ObVQ5VGo4Z1BBY09IT0EwTjBmZTZ4NzZsa2xGcTRkSnNkTW9mY2h2Y2N6aHJqTU1tMjR2UWMtSlBIWXRPZ1JlQ2hITXBoZHhwdWIweTZN?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "H2H, prediction of Emerson Jones vs Alexandra Shubladze in Hong Kong with odds, preview, pick | 1st November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWk1iTThqRnRPNkRkQXBHcUVsM1BNUnA5Y25tSFVJb2NIR01GRElDVHFSbFdWalVKLWRpZkZGRC1aMTlUeVNvZ05vZDQ1aHR4em1kV0ExU2lLaWs0QVZ2YkJSYU1zeVVSX04takYxakNhc29Pd2NqRi1udzczU2pDbEp0U3hYSjd1Nkotb1ZUT3NQMUozeUx0MThjSFVSQnZwTjdZME5DMldtekYySGlfa29ZejJKZlZHV0NhNG1VZkp2azBrYXRHLUs4QnU2WU1qMnpkcFpRVVRBZFRNY3QzMVZYWTQ1WmFW?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 28,
-      "change24h": 3,
-      "vol24h": 219898,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 80023,
       "headlines": [
         {
           "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
@@ -64,28 +20,6 @@
           "source": "Barron's",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $82,000 October 26-November 1?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-october-26-november-1-2026",
-      "yes": 1,
-      "change24h": -3,
-      "vol24h": 21061,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Aliona Falei vs Rada Zolotareva in Chennai with odds, preview, pick | 1st November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeFZzRHpwZjdYMURyMXJCcEF1NVREYThXMGJLMldBOXZ6OFkyd2lWaEtwRUVWajhpT3VWRFFKeXdCYkItTTRDX2FuNGVHWnh2eTc1OHh2blNOaFc0VmtDWDdRMnhGa0RJTEVmRE40SGwzOVdNWjFyT2Fvb2hEcFZURVc2Q0U2SC1NXzhNWnRVTm5ObVQ5VGo4Z1BBY09IT0EwTjBmZTZ4NzZsa2xGcTRkSnNkTW9mY2h2Y2N6aHJqTU1tMjR2UWMtSlBIWXRPZ1JlQ2hITXBoZHhwdWIweTZN?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "H2H, prediction of Emerson Jones vs Alexandra Shubladze in Hong Kong with odds, preview, pick | 1st November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWk1iTThqRnRPNkRkQXBHcUVsM1BNUnA5Y25tSFVJb2NIR01GRElDVHFSbFdWalVKLWRpZkZGRC1aMTlUeVNvZ05vZDQ1aHR4em1kV0ExU2lLaWs0QVZ2YkJSYU1zeVVSX04takYxakNhc29Pd2NqRi1udzczU2pDbEp0U3hYSjd1Nkotb1ZUT3NQMUozeUx0MThjSFVSQnZwTjdZME5DMldtekYySGlfa29ZejJKZlZHV0NhNG1VZkp2azBrYXRHLUs4QnU2WU1qMnpkcFpRVVRBZFRNY3QzMVZYWTQ1WmFW?oc=5",
-          "cat": "Tennis"
         }
       ]
     },
@@ -94,8 +28,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 71,
-      "change24h": -2,
-      "vol24h": 214353,
+      "change24h": 0,
+      "vol24h": 72867,
       "headlines": [
         {
           "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
@@ -112,12 +46,34 @@
       ]
     },
     {
-      "question": "Will 1 Fed rate hike happen in 2026?",
+      "question": "Will the price of Ethereum be above $2,300 on November 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2300-on-november-2-2026",
+      "yes": 24,
+      "change24h": 0,
+      "vol24h": 51644,
+      "headlines": [
+        {
+          "title": "3 Unstoppable S&P 500 Stocks to Buy in November",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeW5MYUFwd3JtNnRidGZGUmtobXoyT3RnREduYzhrRmxIQUZTRDZtaW5FS3lTNklZRk1ENFlkV0xSaTdyT3ZfaWJKalVLSDJHeUl6SlFfTkkxMnprRWJkT0VLcmNTU0I1MUVrZGpqZkUtQVl4Yjc1WXVsTVJIZU9NNkNmTTNqdXhQM21feGxKVzVrdXM?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "3 Unstoppable S&P 500 Stocks to Buy in November",
+          "source": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RUlBlbFdreWkydjg2aWZqcm9PVnNwazBaQVVScjJOcWJxVDJpVEFYUGsxanVtU3hBRXQ4QVFyNUhrNk1wbWhrRHVjeURidWsxV0FieXh5MWdCZkZ6VHpKQ21TdUxjLTU0TXFSUjlJVkVqcmpHYTVJaTRR?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 28,
-      "change24h": 1,
-      "vol24h": 41910,
+      "change24h": 0,
+      "vol24h": 35374,
       "headlines": [
         {
           "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
@@ -130,45 +86,34 @@
           "source": "Barron's",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 21243,
+      "headlines": [
+        {
+          "title": "Fantasy football starts and sits for Chicago Bears players in Week 8",
+          "source": "Bears Wire",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVDltOFRTeFJNczM0dTRsQ0l2LUpRaGlua1FVQnZnbjZFdm1WLU52dmZiZXZxWVN6SHgtelUxNzBya1UxOEwwRUpHZ2dfelJyVEx0bWRwTVNOTGc5QU10QnNUdW5hV0ZsMTVZdzN2TVVlbHRfS2p2NmFmUWlsQ3RuYTFfUkVLalMxR29EaHJ5ZjJTM1BrYzI1SFhCczZ5UG5mWXd0R0xJWUtkLURVcWUxcGtJWlh4MHhHUWxOSC02VHJxcEhEdXBwT2RGeWRoUDNHZVE?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-december-interest-rate-announcement-20260908230600014",
-      "yes": 70,
-      "change24h": 18,
-      "vol24h": 24811,
-      "headlines": []
-    },
-    {
-      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-december-interest-rate-announcement-20260908230600013",
-      "yes": 30,
-      "change24h": -15,
-      "vol24h": 33075,
-      "headlines": []
-    },
-    {
       "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
       "yes": 14,
       "change24h": -4,
-      "vol24h": 53970,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 28,
-      "change24h": -4,
-      "vol24h": 40474,
+      "vol24h": 56460,
       "headlines": []
     }
   ]
