@@ -1,19 +1,25 @@
 {
-  "updated": "2026-11-01T12:10:31.479Z",
+  "updated": "2026-11-01T21:25:47.549Z",
   "withNews": [
     {
       "question": "Will the price of Bitcoin be above $74,000 on November 3?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-74k-on-november-3-2026",
-      "yes": 95,
-      "change24h": 5,
-      "vol24h": 16170,
+      "yes": 94,
+      "change24h": 3,
+      "vol24h": 27737,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
+          "title": "[WATCH LIVE] Lakers vs Raptors NBA Basketball Coverage November 1, 2026",
+          "source": "Pierce Manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZ1VhSFF5VTZ4UndMbFl3dlZRVzlVV1RiQUVRU2xiN2VKLUNJRThITkFSWWhkVWpDSlJUblJBemlCTFlzWFVqbWFLRVFMU0J5N2twb21hMEY5OWplUXJSNkg1R19waERKTDEwU0diQ256WGt0TjRzd0dfY1FVT1lIWk11M0R4LVN2UTVfVWRqemlGaVFqem80VkI0Q2RwbmZGRFRDQlhvMHd1SmZTNGg0eHZ5ZFJvb19oajhhQ3NxY0pEeVhZUGxTcG53T0JMMVNMTTh1LVJZektfVzByYkYwYzVkZXVpaWNKRHoxUl9QcThObnprX1owM2U2aE1faWd4Zlh0cmJwZmtmYWVtN0NaX0ZyZW8xZjk5Z2RGWG4tQzhjcy0xOGU5RHZLME1YMVo3TEYtXzlTRDVwQi12aU1DZjhuUGxyOVRkV0g5OHlCejFpdDVOaGJBR25sM2w5bjVOaHVIYTFHYWdYWnJPd2ZickxhYlA1TjFQRDJFRGpWSG05Zw?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "[NBA LIVE] Pacers vs Nets Basketball Game Coverage November 1, 2026",
+          "source": "Pierce Manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNX2pQRWRBdkdWX1FobVpyd2RaNWlaeG9kVU5LTzg2M3dZUWxBSTA4QlhieGN2MGpJOVZMeUJ6VWNOOThycl9Xc2hqZ3hpVWJsTVdJSzZvYnd5X0Z5U3ZKRVhFLUZua2lyTURrRi13aXY2QzR6alNpYWNNRVRPNjhRMWZFYmFETFJRMjh4andDaXFwQ3RZR2RIc0UwTkxVYUJlZTJkWGoxc3lVRWd3RW5DQWlUTW9tSUxTNG1jV2tvblZ4aE84M0JKMEZSOUFCQ01EY0N2SGdhZUhhVS1uQkhLS3JRd2ladDJ0RHJHZVRwbXBXbGVtX09TQk1OOWVTVVd3dXJZRkJTZTNRVW8ycU9hbkNtdl9YXzdOYVdBd2ZnUk9SbVg0Nk9MUEg1NTlIaVRqS29TZW12VVI0MmNrOFpNUWxkdkxqRVF2OGwyYkZQQUNHSkthT2RQRF9IM0o3WnQzaXZVZWZoR0RzZURFRG9Zc1d2Y3ZvVHNjS2Q4dWJFOEJiQQ?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -21,9 +27,9 @@
       "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
       "topic": "NBA",
       "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
-      "yes": 24,
-      "change24h": 2,
-      "vol24h": 21000,
+      "yes": 23,
+      "change24h": 1,
+      "vol24h": 20535,
       "headlines": [
         {
           "title": "San Diego biotech lays off nearly all its staff after drug trial failure and 2 patient deaths",
@@ -34,50 +40,56 @@
       ]
     },
     {
+      "question": "Will Bitcoin dip to $77,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-november-2026",
+      "yes": 94,
+      "change24h": 0,
+      "vol24h": 112331,
+      "headlines": [
+        {
+          "title": "[WATCH LIVE] Lakers vs Raptors NBA Basketball Coverage November 1, 2026",
+          "source": "Pierce Manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZ1VhSFF5VTZ4UndMbFl3dlZRVzlVV1RiQUVRU2xiN2VKLUNJRThITkFSWWhkVWpDSlJUblJBemlCTFlzWFVqbWFLRVFMU0J5N2twb21hMEY5OWplUXJSNkg1R19waERKTDEwU0diQ256WGt0TjRzd0dfY1FVT1lIWk11M0R4LVN2UTVfVWRqemlGaVFqem80VkI0Q2RwbmZGRFRDQlhvMHd1SmZTNGg0eHZ5ZFJvb19oajhhQ3NxY0pEeVhZUGxTcG53T0JMMVNMTTh1LVJZektfVzByYkYwYzVkZXVpaWNKRHoxUl9QcThObnprX1owM2U2aE1faWd4Zlh0cmJwZmtmYWVtN0NaX0ZyZW8xZjk5Z2RGWG4tQzhjcy0xOGU5RHZLME1YMVo3TEYtXzlTRDVwQi12aU1DZjhuUGxyOVRkV0g5OHlCejFpdDVOaGJBR25sM2w5bjVOaHVIYTFHYWdYWnJPd2ZickxhYlA1TjFQRDJFRGpWSG05Zw?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "[NBA LIVE] Pacers vs Nets Basketball Game Coverage November 1, 2026",
+          "source": "Pierce Manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNX2pQRWRBdkdWX1FobVpyd2RaNWlaeG9kVU5LTzg2M3dZUWxBSTA4QlhieGN2MGpJOVZMeUJ6VWNOOThycl9Xc2hqZ3hpVWJsTVdJSzZvYnd5X0Z5U3ZKRVhFLUZua2lyTURrRi13aXY2QzR6alNpYWNNRVRPNjhRMWZFYmFETFJRMjh4andDaXFwQ3RZR2RIc0UwTkxVYUJlZTJkWGoxc3lVRWd3RW5DQWlUTW9tSUxTNG1jV2tvblZ4aE84M0JKMEZSOUFCQ01EY0N2SGdhZUhhVS1uQkhLS3JRd2ladDJ0RHJHZVRwbXBXbGVtX09TQk1OOWVTVVd3dXJZRkJTZTNRVW8ycU9hbkNtdl9YXzdOYVdBd2ZnUk9SbVg0Nk9MUEg1NTlIaVRqS29TZW12VVI0MmNrOFpNUWxkdkxqRVF2OGwyYkZQQUNHSkthT2RQRF9IM0o3WnQzaXZVZWZoR0RzZURFRG9Zc1d2Y3ZvVHNjS2Q4dWJFOEJiQQ?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-november-2026",
+      "yes": 78,
+      "change24h": 0,
+      "vol24h": 64078,
+      "headlines": [
+        {
+          "title": "[WATCH LIVE] Lakers vs Raptors NBA Basketball Coverage November 1, 2026",
+          "source": "Pierce Manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZ1VhSFF5VTZ4UndMbFl3dlZRVzlVV1RiQUVRU2xiN2VKLUNJRThITkFSWWhkVWpDSlJUblJBemlCTFlzWFVqbWFLRVFMU0J5N2twb21hMEY5OWplUXJSNkg1R19waERKTDEwU0diQ256WGt0TjRzd0dfY1FVT1lIWk11M0R4LVN2UTVfVWRqemlGaVFqem80VkI0Q2RwbmZGRFRDQlhvMHd1SmZTNGg0eHZ5ZFJvb19oajhhQ3NxY0pEeVhZUGxTcG53T0JMMVNMTTh1LVJZektfVzByYkYwYzVkZXVpaWNKRHoxUl9QcThObnprX1owM2U2aE1faWd4Zlh0cmJwZmtmYWVtN0NaX0ZyZW8xZjk5Z2RGWG4tQzhjcy0xOGU5RHZLME1YMVo3TEYtXzlTRDVwQi12aU1DZjhuUGxyOVRkV0g5OHlCejFpdDVOaGJBR25sM2w5bjVOaHVIYTFHYWdYWnJPd2ZickxhYlA1TjFQRDJFRGpWSG05Zw?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "[NBA LIVE] Pacers vs Nets Basketball Game Coverage November 1, 2026",
+          "source": "Pierce Manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNX2pQRWRBdkdWX1FobVpyd2RaNWlaeG9kVU5LTzg2M3dZUWxBSTA4QlhieGN2MGpJOVZMeUJ6VWNOOThycl9Xc2hqZ3hpVWJsTVdJSzZvYnd5X0Z5U3ZKRVhFLUZua2lyTURrRi13aXY2QzR6alNpYWNNRVRPNjhRMWZFYmFETFJRMjh4andDaXFwQ3RZR2RIc0UwTkxVYUJlZTJkWGoxc3lVRWd3RW5DQWlUTW9tSUxTNG1jV2tvblZ4aE84M0JKMEZSOUFCQ01EY0N2SGdhZUhhVS1uQkhLS3JRd2ladDJ0RHJHZVRwbXBXbGVtX09TQk1OOWVTVVd3dXJZRkJTZTNRVW8ycU9hbkNtdl9YXzdOYVdBd2ZnUk9SbVg0Nk9MUEg1NTlIaVRqS29TZW12VVI0MmNrOFpNUWxkdkxqRVF2OGwyYkZQQUNHSkthT2RQRF9IM0o3WnQzaXZVZWZoR0RzZURFRG9Zc1d2Y3ZvVHNjS2Q4dWJFOEJiQQ?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 28,
-      "change24h": 1,
-      "vol24h": 39743,
-      "headlines": [
-        {
-          "title": "Fed officials back more rate hikes, gradual pace of tightening",
-          "source": "The Edge Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjlUckQ5bnF2RVdXMnZuYmtJY3VZbUg0cnlwVG5wbmtEUngxNnZjMjNmREM5Zm5JQzRnMlN3VGVtN0gxY3M3MVVpNnpsTm5WclZOOTVBSk1WdFZSbnVZaDNBRlh4WWFJOEY5anZZM2tsc2FjSFdJa1V2ZG1EZlo5RWtKMFhZbUNtT2JjOFF2MzU5N0otYWwxQmVZSXR6bEp4SldZTlluY2l0cTg?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "The Fed faces pressure to balance interest rates and control inflation.",
-          "source": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1VsLUdLRWp2VHNWMnFEejFsTzJoR2FzMlFBTGtKYWtKQWxsUUFKWUp6d1B5THYweUN0VkJwQ1gxVmdtU09ueERBWUp6eE1PWUQyV2NTQzcyOGVyb2kzd0FxbWhfTS1YRk1zX0lEa200UlRLdmdUUWhWSjY4VDd4ekdFQ3RtbUtud1E?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 14,
-      "change24h": 1,
-      "vol24h": 19677,
-      "headlines": [
-        {
-          "title": "What’s going wrong with Manchester City? Look no further than their defending",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGl3dE1LOUpnRVluNnQyaFpxU1FFUnlRdEFlbG5MYnF5d2FGU1dIWmZBaUxUazRxdnlRM1E2a0JPYWhyRy1DbldOVzRUYXNiSTJoWjhYNWZkZ3IxbjZZQ0VlZUZ1OE1aaXJWcFNKeVFpNXByTlNiakt2ZXNpbFdVY3dXMHJac21VeVdVWkVYSS0?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "yes": 2,
       "change24h": 0,
-      "vol24h": 45008,
+      "vol24h": 41065,
       "headlines": [
         {
           "title": "Fed officials back more rate hikes, gradual pace of tightening",
@@ -86,9 +98,9 @@
           "cat": "Macro"
         },
         {
-          "title": "The Fed faces pressure to balance interest rates and control inflation.",
-          "source": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1VsLUdLRWp2VHNWMnFEejFsTzJoR2FzMlFBTGtKYWtKQWxsUUFKWUp6d1B5THYweUN0VkJwQ1gxVmdtU09ueERBWUp6eE1PWUQyV2NTQzcyOGVyb2kzd0FxbWhfTS1YRk1zX0lEa200UlRLdmdUUWhWSjY4VDd4ekdFQ3RtbUtud1E?oc=5",
+          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -99,7 +111,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 30692,
+      "vol24h": 28639,
       "headlines": [
         {
           "title": "Fed officials back more rate hikes, gradual pace of tightening",
@@ -108,42 +120,48 @@
           "cat": "Macro"
         },
         {
-          "title": "The Fed faces pressure to balance interest rates and control inflation.",
-          "source": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1VsLUdLRWp2VHNWMnFEejFsTzJoR2FzMlFBTGtKYWtKQWxsUUFKWUp6d1B5THYweUN0VkJwQ1gxVmdtU09ueERBWUp6eE1PWUQyV2NTQzcyOGVyb2kzd0FxbWhfTS1YRk1zX0lEa200UlRLdmdUUWhWSjY4VDd4ekdFQ3RtbUtud1E?oc=5",
+          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the price of Ethereum be above $1,900 on November 7?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-1900-on-november-7-2026",
-      "yes": 98,
+      "question": "Will no Fed rate cuts happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
+      "yes": 97,
       "change24h": 0,
-      "vol24h": 30120,
+      "vol24h": 26096,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
+          "title": "Fed officials back more rate hikes, gradual pace of tightening",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjlUckQ5bnF2RVdXMnZuYmtJY3VZbUg0cnlwVG5wbmtEUngxNnZjMjNmREM5Zm5JQzRnMlN3VGVtN0gxY3M3MVVpNnpsTm5WclZOOTVBSk1WdFZSbnVZaDNBRlh4WWFJOEY5anZZM2tsc2FjSFdJa1V2ZG1EZlo5RWtKMFhZbUNtT2JjOFF2MzU5N0otYWwxQmVZSXR6bEp4SldZTlluY2l0cTg?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 14,
       "change24h": 0,
-      "vol24h": 21808,
+      "vol24h": 19562,
       "headlines": [
         {
-          "title": "Game Preview: Warriors vs. Clippers - 11/1/26",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oajZvLTlQRS1tOXd1WlZ2RUZ6Mm52UjZuR1VCZlY0YU1GRU41VWRLWnFKQ3BOVHFKZVNTWFU5S3lPSVFwTS1pMzRPYm44TWNCU1RyZ1hlMEtCRjFzejRZ?oc=5",
-          "cat": "NBA"
+          "title": "‍‍‍Denver Broncos v Kansas City Chiefs NFL Football Game",
+          "source": "Pierce Manufacturing",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOYlVvbWxlNEFEbUR3ZXFjdldNdDREeUhoTFpNbHdBcS1QNThKV2RRdVdXODFBVjZPZVJGNVdEQUxfblZXaXlwR2ZBa3dncWVkM0M5bWt6MDR6T21qTWJhcW5KQzdUYVJhODFzeTEySVVpOHp1MU5EX2xaNVZtNklUbVljZmE1NmNVWVZsME5WWUlId1MyX3lHcHhJMHpIVmpRa2ZnUVV1LWVBYmYzNnl4SHlfZ2lqamNVcTJ2bDR4UnJ6bHA4c0dWTEJaaEdYU3dGQ1lidzhvREppRTEwSlp6N2Q1THNMSkMxcHlCaW5jcEF1Tjc1Vk04WTBkZ1FHYUJtZkVfMkx2Z01FbUdGTE5ZMVNtRDZFcFJiRmhWTkFBWi1CYUlRUHdVRlEtbU9tRjd0S1llNjcwVkltNFI5X2I2M1RoVlpHdDNaaWQ0THVLeGV2VWt0Rll4bFNIaXBNZmJRR2ZfT2ZHNVNKTXFuU3oteVRLMktGN2lMX0ZmcjVuWWNfSDBRVFF3?oc=5",
+          "cat": "NFL"
         }
       ]
     }
@@ -155,7 +173,7 @@
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
       "yes": 44,
       "change24h": -4,
-      "vol24h": 14741,
+      "vol24h": 19985,
       "headlines": []
     }
   ]
