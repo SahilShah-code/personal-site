@@ -1,25 +1,19 @@
 {
-  "updated": "2026-10-31T20:44:16.680Z",
+  "updated": "2026-11-01T02:54:05.823Z",
   "withNews": [
     {
-      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 80023,
+      "question": "Will the price of Ethereum be above $2,300 on November 2?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-2300-on-november-2-2026",
+      "yes": 31,
+      "change24h": 6,
+      "vol24h": 60289,
       "headlines": [
         {
-          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Officials Signal More Interest-Rate Increases Ahead, and Markets Believe It",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
-          "cat": "Macro"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -27,9 +21,9 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 71,
-      "change24h": 0,
-      "vol24h": 72867,
+      "yes": 70,
+      "change24h": -1,
+      "vol24h": 20476,
       "headlines": [
         {
           "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
@@ -38,42 +32,20 @@
           "cat": "Macro"
         },
         {
-          "title": "Fed Officials Signal More Interest-Rate Increases Ahead, and Markets Believe It",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
+          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the price of Ethereum be above $2,300 on November 2?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2300-on-november-2-2026",
-      "yes": 24,
-      "change24h": 0,
-      "vol24h": 51644,
-      "headlines": [
-        {
-          "title": "3 Unstoppable S&P 500 Stocks to Buy in November",
-          "source": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeW5MYUFwd3JtNnRidGZGUmtobXoyT3RnREduYzhrRmxIQUZTRDZtaW5FS3lTNklZRk1ENFlkV0xSaTdyT3ZfaWJKalVLSDJHeUl6SlFfTkkxMnprRWJkT0VLcmNTU0I1MUVrZGpqZkUtQVl4Yjc1WXVsTVJIZU9NNkNmTTNqdXhQM21feGxKVzVrdXM?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "3 Unstoppable S&P 500 Stocks to Buy in November",
-          "source": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RUlBlbFdreWkydjg2aWZqcm9PVnNwazBaQVVScjJOcWJxVDJpVEFYUGsxanVtU3hBRXQ4QVFyNUhrNk1wbWhrRHVjeURidWsxV0FieXh5MWdCZkZ6VHpKQ21TdUxjLTU0TXFSUjlJVkVqcmpHYTVJaTRR?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 28,
-      "change24h": 0,
-      "vol24h": 35374,
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 71,
+      "change24h": -1,
+      "vol24h": 15367,
       "headlines": [
         {
           "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
@@ -82,38 +54,98 @@
           "cat": "Macro"
         },
         {
-          "title": "Fed Officials Signal More Interest-Rate Increases Ahead, and Markets Believe It",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWd3d2NyYmQydkw0c2MxRWpwSVhFUjN4TUdwazh4cWFhUlRoZGlydDl3THY5TFNVdUdzbE9oSWRSMjhONG9mb0g1Snd2d0hLanlDSzJYM0R1eHg2ZmFtM2lwRTlCSjdPcWlYczhUVnRyQ0VjRDRyemxicEtXUDBqa1RXbTgzVkZoYUVn?oc=5",
+          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Chicago Bulls win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-chicago-bulls-win-the-2027-nba-finals",
-      "yes": 0,
+      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 21243,
+      "vol24h": 78981,
       "headlines": [
         {
-          "title": "Fantasy football starts and sits for Chicago Bears players in Week 8",
-          "source": "Bears Wire",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVDltOFRTeFJNczM0dTRsQ0l2LUpRaGlua1FVQnZnbjZFdm1WLU52dmZiZXZxWVN6SHgtelUxNzBya1UxOEwwRUpHZ2dfelJyVEx0bWRwTVNOTGc5QU10QnNUdW5hV0ZsMTVZdzN2TVVlbHRfS2p2NmFmUWlsQ3RuYTFfUkVLalMxR29EaHJ5ZjJTM1BrYzI1SFhCczZ5UG5mWXd0R0xJWUtkLURVcWUxcGtJWlh4MHhHUWxOSC02VHJxcEhEdXBwT2RGeWRoUDNHZVE?oc=5",
+          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+          "source": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Atlanta Hawks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-atlanta-hawks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 50015,
+      "headlines": [
+        {
+          "title": "Jeremiah Fears Highlights vs. Atlanta Hawks 10/31/26",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0dpQWdXa2RUR0dMZ24wSUJFV1BMWGZ0QWt1QnlURTV0QUtjekZjNlZCbW9MUGV5b1RzdFR6bTJjTXo2cnR6U1ZQUDZLajZYQ0lBcGtzZko0QnNNbnVhWmE1UWZKSFBtVS1wZ1ludWR3Zi1xekxZUXRfc0t6OVVISDZwQVZOYlBnLVd5YmRqaGg?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Ethereum be above $1,900 on November 7?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/ethereum-above-1900-on-november-7-2026",
+      "yes": 98,
+      "change24h": 0,
+      "vol24h": 30120,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 18604,
+      "headlines": [
+        {
+          "title": "Eagles vs Commanders Player Props for Dallas Goedert, Jayden Daniels, Antonio Williams",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlNsTWd6cHZKQm5sT0dhcmVJMmhXc1ZEMGs1emp0ZThMQWJhQUs4VV9BWVRDQ09DLTBQUlVrU19uTFBDTEExeXdXSWhCWEc2Zll3MDJRU1Q2UlRuUEtCbnlwMjR1UFBKUC1nWWFVSjNPWDlLTVBNMERBMXY1LWUxMkZpMG9Fd1Mwa0E?oc=5",
           "cat": "NFL"
+        },
+        {
+          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+          "cat": "Macro"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "question": "Will Golden State Valkyries win the 2026 WNBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 14,
-      "change24h": -4,
-      "vol24h": 56460,
+      "url": "https://polymarket.com/event/will-golden-state-valkyries-win-the-2026-wnba-finals-945",
+      "yes": 100,
+      "change24h": 48,
+      "vol24h": 17877,
       "headlines": []
     }
   ]
