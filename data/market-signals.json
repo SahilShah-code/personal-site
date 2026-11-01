@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-01T02:54:05.823Z",
+  "updated": "2026-11-01T12:10:31.479Z",
   "withNews": [
     {
-      "question": "Will the price of Ethereum be above $2,300 on November 2?",
+      "question": "Will the price of Bitcoin be above $74,000 on November 3?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2300-on-november-2-2026",
-      "yes": 31,
-      "change24h": 6,
-      "vol24h": 60289,
+      "url": "https://polymarket.com/event/bitcoin-above-74k-on-november-3-2026",
+      "yes": 95,
+      "change24h": 5,
+      "vol24h": 16170,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
@@ -18,46 +18,56 @@
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 70,
-      "change24h": -1,
-      "vol24h": 20476,
+      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
+      "yes": 24,
+      "change24h": 2,
+      "vol24h": 21000,
       "headlines": [
         {
-          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
+          "title": "San Diego biotech lays off nearly all its staff after drug trial failure and 2 patient deaths",
+          "source": "San Diego Union-Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZDRDQkJpWTRLN2U5cThUWVE2YXZ4N3BnQmgtQ3Q1V3BaUDVaVWw2ejNHREFvNjQ0UEFscDd3emoyVnpWMHhMU2R2ajRhTVZFa3ozbkZwZEN4NGVqbHJ0c0NyaTFoajdGQ1FhdzRVb2M5dTFCOE5idWs3azY4TWM5dEIyMFZHRFdaN0h4QjM3NzJENG8zNGQ5cVpUOVp5ZFVQcWNONjZtcjdYN20xUlZTNnBYWlBpRnlRdjBBX3k0WHFWb2tZT1lVdGhNcEpIdmc3RjBtdmF4ZnJlQQ?oc=5",
+          "cat": "Biotech"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 28,
+      "change24h": 1,
+      "vol24h": 39743,
+      "headlines": [
+        {
+          "title": "Fed officials back more rate hikes, gradual pace of tightening",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjlUckQ5bnF2RVdXMnZuYmtJY3VZbUg0cnlwVG5wbmtEUngxNnZjMjNmREM5Zm5JQzRnMlN3VGVtN0gxY3M3MVVpNnpsTm5WclZOOTVBSk1WdFZSbnVZaDNBRlh4WWFJOEY5anZZM2tsc2FjSFdJa1V2ZG1EZlo5RWtKMFhZbUNtT2JjOFF2MzU5N0otYWwxQmVZSXR6bEp4SldZTlluY2l0cTg?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+          "title": "The Fed faces pressure to balance interest rates and control inflation.",
+          "source": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1VsLUdLRWp2VHNWMnFEejFsTzJoR2FzMlFBTGtKYWtKQWxsUUFKWUp6d1B5THYweUN0VkJwQ1gxVmdtU09ueERBWUp6eE1PWUQyV2NTQzcyOGVyb2kzd0FxbWhfTS1YRk1zX0lEa200UlRLdmdUUWhWSjY4VDd4ekdFQ3RtbUtud1E?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 71,
-      "change24h": -1,
-      "vol24h": 15367,
+      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
+      "yes": 14,
+      "change24h": 1,
+      "vol24h": 19677,
       "headlines": [
         {
-          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
-          "cat": "Macro"
+          "title": "What’s going wrong with Manchester City? Look no further than their defending",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeGl3dE1LOUpnRVluNnQyaFpxU1FFUnlRdEFlbG5MYnF5d2FGU1dIWmZBaUxUazRxdnlRM1E2a0JPYWhyRy1DbldOVzRUYXNiSTJoWjhYNWZkZ3IxbjZZQ0VlZUZ1OE1aaXJWcFNKeVFpNXByTlNiakt2ZXNpbFdVY3dXMHJac21VeVdVWkVYSS0?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -67,35 +77,41 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
       "yes": 2,
       "change24h": 0,
-      "vol24h": 78981,
+      "vol24h": 45008,
       "headlines": [
         {
-          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
+          "title": "Fed officials back more rate hikes, gradual pace of tightening",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjlUckQ5bnF2RVdXMnZuYmtJY3VZbUg0cnlwVG5wbmtEUngxNnZjMjNmREM5Zm5JQzRnMlN3VGVtN0gxY3M3MVVpNnpsTm5WclZOOTVBSk1WdFZSbnVZaDNBRlh4WWFJOEY5anZZM2tsc2FjSFdJa1V2ZG1EZlo5RWtKMFhZbUNtT2JjOFF2MzU5N0otYWwxQmVZSXR6bEp4SldZTlluY2l0cTg?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+          "title": "The Fed faces pressure to balance interest rates and control inflation.",
+          "source": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1VsLUdLRWp2VHNWMnFEejFsTzJoR2FzMlFBTGtKYWtKQWxsUUFKWUp6d1B5THYweUN0VkJwQ1gxVmdtU09ueERBWUp6eE1PWUQyV2NTQzcyOGVyb2kzd0FxbWhfTS1YRk1zX0lEa200UlRLdmdUUWhWSjY4VDd4ekdFQ3RtbUtud1E?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Atlanta Hawks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-atlanta-hawks-win-the-2027-nba-finals",
+      "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 50015,
+      "vol24h": 30692,
       "headlines": [
         {
-          "title": "Jeremiah Fears Highlights vs. Atlanta Hawks 10/31/26",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0dpQWdXa2RUR0dMZ24wSUJFV1BMWGZ0QWt1QnlURTV0QUtjekZjNlZCbW9MUGV5b1RzdFR6bTJjTXo2cnR6U1ZQUDZLajZYQ0lBcGtzZko0QnNNbnVhWmE1UWZKSFBtVS1wZ1ludWR3Zi1xekxZUXRfc0t6OVVISDZwQVZOYlBnLVd5YmRqaGg?oc=5",
-          "cat": "NBA"
+          "title": "Fed officials back more rate hikes, gradual pace of tightening",
+          "source": "The Edge Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjlUckQ5bnF2RVdXMnZuYmtJY3VZbUg0cnlwVG5wbmtEUngxNnZjMjNmREM5Zm5JQzRnMlN3VGVtN0gxY3M3MVVpNnpsTm5WclZOOTVBSk1WdFZSbnVZaDNBRlh4WWFJOEY5anZZM2tsc2FjSFdJa1V2ZG1EZlo5RWtKMFhZbUNtT2JjOFF2MzU5N0otYWwxQmVZSXR6bEp4SldZTlluY2l0cTg?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Fed faces pressure to balance interest rates and control inflation.",
+          "source": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX1VsLUdLRWp2VHNWMnFEejFsTzJoR2FzMlFBTGtKYWtKQWxsUUFKWUp6d1B5THYweUN0VkJwQ1gxVmdtU09ueERBWUp6eE1PWUQyV2NTQzcyOGVyb2kzd0FxbWhfTS1YRk1zX0lEa200UlRLdmdUUWhWSjY4VDd4ekdFQ3RtbUtud1E?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -116,36 +132,30 @@
       ]
     },
     {
-      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 18604,
+      "vol24h": 21808,
       "headlines": [
         {
-          "title": "Eagles vs Commanders Player Props for Dallas Goedert, Jayden Daniels, Antonio Williams",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlNsTWd6cHZKQm5sT0dhcmVJMmhXc1ZEMGs1emp0ZThMQWJhQUs4VV9BWVRDQ09DLTBQUlVrU19uTFBDTEExeXdXSWhCWEc2Zll3MDJRU1Q2UlRuUEtCbnlwMjR1UFBKUC1nWWFVSjNPWDlLTVBNMERBMXY1LWUxMkZpMG9Fd1Mwa0E?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
-          "cat": "Macro"
+          "title": "Game Preview: Warriors vs. Clippers - 11/1/26",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oajZvLTlQRS1tOXd1WlZ2RUZ6Mm52UjZuR1VCZlY0YU1GRU41VWRLWnFKQ3BOVHFKZVNTWFU5S3lPSVFwTS1pMzRPYm44TWNCU1RyZ1hlMEtCRjFzejRZ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Golden State Valkyries win the 2026 WNBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-valkyries-win-the-2026-wnba-finals-945",
-      "yes": 100,
-      "change24h": 48,
-      "vol24h": 17877,
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 44,
+      "change24h": -4,
+      "vol24h": 14741,
       "headlines": []
     }
   ]
