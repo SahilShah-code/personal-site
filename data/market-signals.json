@@ -1,47 +1,67 @@
 {
-  "updated": "2026-11-02T03:00:20.090Z",
+  "updated": "2026-11-02T13:59:50.888Z",
   "withNews": [
     {
       "question": "Prudential Hong Kong Tennis Open: Leylah Fernandez vs Sofia Kenin",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-fernand-kenin-2026-11-01",
-      "yes": 66,
-      "change24h": 5,
-      "vol24h": 21513,
+      "yes": 67,
+      "change24h": 7,
+      "vol24h": 17851,
       "headlines": [
         {
           "title": "Ranking the Highest-Paying Events in Professional Tennis",
           "source": "Sports Illustrated",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDVneEZSUV83NlVRaDh4VXN1UjJ0aWN6bTAwb25kMG5sU3MxbEtzLXJ1NF84SWt4MGtPbEJxdEFXZkdCSDI0U1lBdXN3QUV2NEFscmhCdWhQUEF4SDgtX0s4d0NULTdHanZtWmktTHNzOVJ5djhOaGYxVDVmUFRkMEdCYmx4NThsVDBXREc1MTU3aEJfVi03RXpicnVXZw?oc=5",
           "cat": "Tennis"
-        },
-        {
-          "title": "Shnaider Stops Fernandez for 6th Title in Tokyo",
-          "source": "Tennis Now",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByVWR5THRRSVJyM3hSZnFKM2t1VnVxYkozTDZMTzRoU2NfSHNpd3czTVFJQWhvQkI4ZnVxa1kyeVViWEZxaVMtTkZEYV8wWERrQ3NRSVNJeTNLX1g2VEd2T2FuZ0RBSUxUQ204R3JHaUpIZ2VGc1ZUeUln?oc=5",
-          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $74,000 on November 3?",
+      "question": "Will Bitcoin dip to $62,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-74k-on-november-3-2026",
-      "yes": 97,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-november-2026",
+      "yes": 11,
       "change24h": 4,
-      "vol24h": 35515,
+      "vol24h": 94898,
       "headlines": [
         {
-          "title": "November 2, 2026: Luciano Darderi vs Rinky Hijikata Round of 64 match Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUdhV1FyUTJhZkFtS0ZwRUpvUUpIcHktRDZCR2dUanRfMFVkMDFfYWhIV2NIcFhfeE9WTWhteTNmN1huTDY5NE42VC0zMnRyZU9RTW1KMWhDMlFIOXhfS1pCYnZlaGhVNXN3eDRUdjNIamg0eWRKVUNNZDJmc3dEUGE2SENjYjhYUG5qUmVqT3YzZGh5MW01TkowX3IwckFvalE0ZHlCMEwzNXNzNGpBWG1ybUNLb3NVTDRHZkpmSzRiOW8?oc=5",
-          "cat": "Tennis"
-        },
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $67,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-67pt5k-in-november-2026",
+      "yes": 23,
+      "change24h": 4,
+      "vol24h": 59759,
+      "headlines": [
         {
-          "title": "[+ LiVe sTrEaMs Stream!] Indianapolis Colts v Jacksonville Jaguars Live Free NFL Match Today 2 November 2026",
-          "source": "Pierce Manufacturing",
-          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPbTA4Q0VnQmoyaWRuRklXZUFjSUR4VVlJYV9vY0F4aktlNEdoRHprWWNXc3VCQWpPcFBDWFA4U0ZWRGlJaTJ0eUV6MGdHOWxYbnlheWI3MzlrMjFXQkd3VEwyOVJTeUtmbUVwc3QtRFlfZTdqRE56d1dLUDkxc2puQk5pMnVxTWhfaFpFUVNyUVYwY19RYzNiU3BLZWQzWTNtZ3lNOUpSclV2cXYtZ1A0Znpya3NNcHpKaVVOaGlsRmktRmxzWXB5Q2p2Um1wU1BLNzhCLWxhWlI2OHc5bDlvdHhiY0t3SzFiSVNkWVkwRFZJQ2JnWEl1czJFMGJvaGh5eUJMaEk1UjVULTJqMmwwdS11Q2t5MmowZFpqLThsamxMSnh6QnN2WFNWYVViNlp5SkJmZTBhSHAyNExhZEpmT2g4bVM1aGU1RmRQTEpQT3ZpWkFGU0lfcFRGUEs1U1NXUnZ6MDZGSmhfcXllNWtNVVJhV3FFSVVoQnJXd0VpYzNsY0xCcFcyTUZlcHZWdkpSY1BB?oc=5",
-          "cat": "World Cup"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $1,700 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1700-in-november-2026",
+      "yes": 13,
+      "change24h": 4,
+      "vol24h": 52257,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -49,163 +69,103 @@
       "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 70,
-      "change24h": -2,
-      "vol24h": 17357,
+      "yes": 69,
+      "change24h": -4,
+      "vol24h": 16541,
       "headlines": [
-        {
-          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
-          "cat": "Macro"
-        },
         {
           "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
           "source": "WSJ",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 70,
-      "change24h": -1,
-      "vol24h": 20354,
-      "headlines": [
-        {
-          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
-          "cat": "Macro"
         },
         {
-          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+          "title": "Rates need to be higher, 3 Fed members say. The question is how much.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDZEZjlNVkVmT3QydUZXYTlkOEs5dGxCSHBqb3VKVWJwVFA3dVB2MTh3NDk5ZWxVdTdaOUlrZUQycnp6OEw2MXNwSnVTaGZmdjNJYWJHdl90YjBNem5SSWFJSFNsRmQ5bC1kdnVXSWFDUmt3S3BPSzhGTkZYZVJMdUQ4dzZicFhEOHZKRnFfWGxWR2xERzJXX1FSOU5pQVhpSjRLY0lEZWxnZXc0a1hSSmpJX1VqMFY3NHk4X1FBdm5hQkJHbUNaOW1n?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $77,500 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-november-2026",
-      "yes": 89,
-      "change24h": 0,
-      "vol24h": 251242,
-      "headlines": [
-        {
-          "title": "November 2, 2026: Luciano Darderi vs Rinky Hijikata Round of 64 match Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUdhV1FyUTJhZkFtS0ZwRUpvUUpIcHktRDZCR2dUanRfMFVkMDFfYWhIV2NIcFhfeE9WTWhteTNmN1huTDY5NE42VC0zMnRyZU9RTW1KMWhDMlFIOXhfS1pCYnZlaGhVNXN3eDRUdjNIamg0eWRKVUNNZDJmc3dEUGE2SENjYjhYUG5qUmVqT3YzZGh5MW01TkowX3IwckFvalE0ZHlCMEwzNXNzNGpBWG1ybUNLb3NVTDRHZkpmSzRiOW8?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "[+ LiVe sTrEaMs Stream!] Indianapolis Colts v Jacksonville Jaguars Live Free NFL Match Today 2 November 2026",
-          "source": "Pierce Manufacturing",
-          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPbTA4Q0VnQmoyaWRuRklXZUFjSUR4VVlJYV9vY0F4aktlNEdoRHprWWNXc3VCQWpPcFBDWFA4U0ZWRGlJaTJ0eUV6MGdHOWxYbnlheWI3MzlrMjFXQkd3VEwyOVJTeUtmbUVwc3QtRFlfZTdqRE56d1dLUDkxc2puQk5pMnVxTWhfaFpFUVNyUVYwY19RYzNiU3BLZWQzWTNtZ3lNOUpSclV2cXYtZ1A0Znpya3NNcHpKaVVOaGlsRmktRmxzWXB5Q2p2Um1wU1BLNzhCLWxhWlI2OHc5bDlvdHhiY0t3SzFiSVNkWVkwRFZJQ2JnWEl1czJFMGJvaGh5eUJMaEk1UjVULTJqMmwwdS11Q2t5MmowZFpqLThsamxMSnh6QnN2WFNWYVViNlp5SkJmZTBhSHAyNExhZEpmT2g4bVM1aGU1RmRQTEpQT3ZpWkFGU0lfcFRGUEs1U1NXUnZ6MDZGSmhfcXllNWtNVVJhV3FFSVVoQnJXd0VpYzNsY0xCcFcyTUZlcHZWdkpSY1BB?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-november-2026",
-      "yes": 83,
-      "change24h": 0,
-      "vol24h": 229205,
-      "headlines": [
-        {
-          "title": "November 2, 2026: Luciano Darderi vs Rinky Hijikata Round of 64 match Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLUdhV1FyUTJhZkFtS0ZwRUpvUUpIcHktRDZCR2dUanRfMFVkMDFfYWhIV2NIcFhfeE9WTWhteTNmN1huTDY5NE42VC0zMnRyZU9RTW1KMWhDMlFIOXhfS1pCYnZlaGhVNXN3eDRUdjNIamg0eWRKVUNNZDJmc3dEUGE2SENjYjhYUG5qUmVqT3YzZGh5MW01TkowX3IwckFvalE0ZHlCMEwzNXNzNGpBWG1ybUNLb3NVTDRHZkpmSzRiOW8?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "[+ LiVe sTrEaMs Stream!] Indianapolis Colts v Jacksonville Jaguars Live Free NFL Match Today 2 November 2026",
-          "source": "Pierce Manufacturing",
-          "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPbTA4Q0VnQmoyaWRuRklXZUFjSUR4VVlJYV9vY0F4aktlNEdoRHprWWNXc3VCQWpPcFBDWFA4U0ZWRGlJaTJ0eUV6MGdHOWxYbnlheWI3MzlrMjFXQkd3VEwyOVJTeUtmbUVwc3QtRFlfZTdqRE56d1dLUDkxc2puQk5pMnVxTWhfaFpFUVNyUVYwY19RYzNiU3BLZWQzWTNtZ3lNOUpSclV2cXYtZ1A0Znpya3NNcHpKaVVOaGlsRmktRmxzWXB5Q2p2Um1wU1BLNzhCLWxhWlI2OHc5bDlvdHhiY0t3SzFiSVNkWVkwRFZJQ2JnWEl1czJFMGJvaGh5eUJMaEk1UjVULTJqMmwwdS11Q2t5MmowZFpqLThsamxMSnh6QnN2WFNWYVViNlp5SkJmZTBhSHAyNExhZEpmT2g4bVM1aGU1RmRQTEpQT3ZpWkFGU0lfcFRGUEs1U1NXUnZ6MDZGSmhfcXllNWtNVVJhV3FFSVVoQnJXd0VpYzNsY0xCcFcyTUZlcHZWdkpSY1BB?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 28576,
-      "headlines": [
-        {
-          "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVGMza0xqQXN2UGQ0TE9Mb2ozbkM1TTMwX2ZVZFg1NXBOU0F5MExFZXFrZ1hEWFR2TFN4T3E4V2EyTG90RmxRRXNNSm1BME5hN0dBekxBMmVSZDVqaGVzcnVXcGNfNWFESnMyZzFPZ1ljSlZQMldhcGR6S08yNnZsMHBmaWdaVFVKdFo5UEhGRGRncDM1M2xFa01BeHh2TkNBYnBzcDl2Tl9seUctNkJfeURHVFBvZ2llamlqWHo0WHV5UQ?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
-          "source": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Prudential Hong Kong Tennis Open: Venus Williams vs Mary Stoiana",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-william-stoiana-2026-11-01",
-      "yes": 16,
-      "change24h": 0,
-      "vol24h": 22455,
-      "headlines": [
-        {
-          "title": "Ranking the Highest-Paying Events in Professional Tennis",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDVneEZSUV83NlVRaDh4VXN1UjJ0aWN6bTAwb25kMG5sU3MxbEtzLXJ1NF84SWt4MGtPbEJxdEFXZkdCSDI0U1lBdXN3QUV2NEFscmhCdWhQUEF4SDgtX0s4d0NULTdHanZtWmktTHNzOVJ5djhOaGYxVDVmUFRkMEdCYmx4NThsVDBXREc1MTU3aEJfVi03RXpicnVXZw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will New Orleans Pelicans win the 2027 NBA Finals?",
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-orleans-pelicans-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 22010,
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 3,
+      "change24h": 1,
+      "vol24h": 28036,
       "headlines": [
         {
-          "title": "Hawks' Flemings suspended for a game for elbowing the Pelicans' McGowens in the head",
-          "source": "Newsday",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUpoWHg0aWluSExHTUlQalR3QzVseWhndjhRSXZ3WEQ4RHFkZEpDZ1pESXYtQWY4NmZaeWcyYkxSRVRRN3oyZm8yZHlfSm1KNEtad2hVN3AwT09BTVJwdUg0c09wd09WRDE1OTNXZjd6N3lndG9HWURKZ2VyYlBBUnhzSVJ5RUZVdHc?oc=5",
+          "title": "\"I won't make that mistake again\" - JJ Redick calls out the Lakers bench after nearly blowing a 15-point lead vs. Raptors",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGxsZUJRVWEwOTBmak80UEpXX3ZTNEEyN2x1ci1VandaVl9KYS1VbG5ydWJmeGlKdWo1ZFpLWUwwRzF1Z3kyQzAwTThhbzd4TzN5eHdzNXlIZ2Fjc2pXcTMxaUloVFRHWDJIQ3d6a2hJa21TWWxXNVJoZy0yWFI0cE9wdw?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
-      "yes": 0,
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 71,
       "change24h": 0,
-      "vol24h": 17233,
+      "vol24h": 38710,
       "headlines": [
         {
-          "title": "Eagles vs. Commanders live updates, inactives, where to watch: Jayden Daniels, Commanders host Eagles on 'Sunday Night Football' as Philadelphia tries to end 5-game slide",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSzZNbXpLbXRPT3RXQnlqdl9hMjkxT2ZCX0pJMjFlemQ2RjB2TW5WaWFldnRqeDg3QUlxN3lhVmlCbHB1ZmdseGNjWVdMQ0UxLWIwX2xGdVFLcEhyTThlOWtVRDdPWk9FdGhfSWczVjNSZFA4U0Q3TTRQcHduQ3k4eUxqcWlsSUluTTh6QkIyQUN3b2tWaC1reWJNWnBOb3ZZYjBRSXZGWGNpVnl5cml3OEtMOWZiMVhLVEp4b3hMcHgwb1ZsdHFVQVJGb05aUmc?oc=5",
-          "cat": "NFL"
+          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Eagles vs. Commanders live score and updates: Philadelphia, Washington tied on ‘Sunday Night Football’",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWlR5aE1xQXp6TnhPdjhkRUNNTDFMcFdHOWp6NzF5OTBqZ3BRRnV4TEtjVU1vaVhsaGpsNzRrWWRZZ0VHVkpuaXhvbHpEQXNkNmllU3BPTDVUVFlkaGg3SDJfZEVCZTdZaXo3QzgzUGhfdl9GVEVyaGJnSzdjbF8xRzRidUpBZHFqN2NpZzJoTUpGZ1VKeUdoeG9kNTJBbDRiN0l2eXM4X3RBLTVVUjlERTdR?oc=5",
-          "cat": "NFL"
+          "title": "Rates need to be higher, 3 Fed members say. The question is how much.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDZEZjlNVkVmT3QydUZXYTlkOEs5dGxCSHBqb3VKVWJwVFA3dVB2MTh3NDk5ZWxVdTdaOUlrZUQycnp6OEw2MXNwSnVTaGZmdjNJYWJHdl90YjBNem5SSWFJSFNsRmQ5bC1kdnVXSWFDUmt3S3BPSzhGTkZYZVJMdUQ4dzZicFhEOHZKRnFfWGxWR2xERzJXX1FSOU5pQVhpSjRLY0lEZWxnZXc0a1hSSmpJX1VqMFY3NHk4X1FBdm5hQkJHbUNaOW1n?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Toronto Raptors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-toronto-raptors-win-the-2027-nba-finals",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 29794,
+      "headlines": [
+        {
+          "title": "Clippers hope to end skid vs. Raptors, who have their own problems",
+          "source": "Sacramento Bee",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45Rk1JY1Y5dUFHNXl1TW41TVEyX3FLYmRoUXVVNG96MU9WTWg5UTlqdlNwZm9sTThBM05Sc251SklqYUJqVW1VVEVnOGdtRkQzOF9xc0l5TV9UaS1BN3NkN1Z4cF9Gdw?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "\"I won't make that mistake again\" - JJ Redick calls out the Lakers bench after nearly blowing a 15-point lead vs. Raptors",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGxsZUJRVWEwOTBmak80UEpXX3ZTNEEyN2x1ci1VandaVl9KYS1VbG5ydWJmeGlKdWo1ZFpLWUwwRzF1Z3kyQzAwTThhbzd4TzN5eHdzNXlIZ2Fjc2pXcTMxaUloVFRHWDJIQ3d6a2hJa21TWWxXNVJoZy0yWFI0cE9wdw?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will no Fed rate cuts happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
+      "yes": 97,
+      "change24h": 0,
+      "vol24h": 22304,
+      "headlines": [
+        {
+          "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaF9ya09COUkxYUpqejFnc1JnYThRdVlSMDhJWjJKSU5kU0o1UmlhbmE0Z3F1cXVMT3pSTEtFcDd3VS1kSUY0MTl3NnBvY1dnQ3RQanNnVWItOXZvNTlaZEtET29NR2ppTzlQWWNpcnBZVHJieTFpenpFT0RQTXEwMzRTUjladnYtZm5UZ1g4SHBIZ1lUd2NwbURjZmRSYTU2VzhVeS1FLUVNVUprU05ZQlBhTXBXcXBadzI4WmlHYVVCZzdRVEVEN1hsVQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Rates need to be higher, 3 Fed members say. The question is how much.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeDZEZjlNVkVmT3QydUZXYTlkOEs5dGxCSHBqb3VKVWJwVFA3dVB2MTh3NDk5ZWxVdTdaOUlrZUQycnp6OEw2MXNwSnVTaGZmdjNJYWJHdl90YjBNem5SSWFJSFNsRmQ5bC1kdnVXSWFDUmt3S3BPSzhGTkZYZVJMdUQ4dzZicFhEOHZKRnFfWGxWR2xERzJXX1FSOU5pQVhpSjRLY0lEZWxnZXc0a1hSSmpJX1VqMFY3NHk4X1FBdm5hQkJHbUNaOW1n?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -215,7 +175,7 @@
       "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
       "yes": 2,
       "change24h": 0,
-      "vol24h": 15167,
+      "vol24h": 14980,
       "headlines": [
         {
           "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed’s Logan Says",
@@ -228,21 +188,12 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 41,
-      "change24h": -6,
-      "vol24h": 17781,
-      "headlines": []
-    },
-    {
       "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": -4,
-      "vol24h": 119004,
+      "vol24h": 186916,
       "headlines": []
     }
   ]
