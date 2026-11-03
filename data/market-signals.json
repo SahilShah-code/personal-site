@@ -1,160 +1,24 @@
 {
-  "updated": "2026-11-03T13:08:10.772Z",
+  "updated": "2026-11-03T22:38:35.196Z",
   "withNews": [
     {
-      "question": "Prudential Hong Kong Tennis Open: Alexandra Shubladze vs Liudmila Samsonova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-shublad-samsono-2026-11-02",
-      "yes": 100,
-      "change24h": 56,
-      "vol24h": 720721,
-      "headlines": [
-        {
-          "title": "Tennis players are taking a stand",
-          "source": "The Justice",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGIzUEQ5cEswQWx5dFB4N01mcURheVVNUnRMOFdIcW1QV1RKc0VkM0IwdUxmUTQ2TDktZ2NSYVJ1OFlLWXhOTVR3Tzh1M1dCM0tseURMQTdsOHc2T1ZtU3NMT3lPQkU5cm9BSktuVlEyNFA5aGJacXdudFltNW1iLXNB?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Watch Paris and Hong Kong tennis this week",
-          "source": "Tennisuptodate.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQml2SFh0QnhaRzNMVDYzUGdfS3lFT2ItWFFyZ2M1c0Ztcy1tN2pxenV3aURXTS1rWnNSSFVQWGtNMHdDM3BrdEtkSGE0M0dkSi1tVUJTVk1xZ2gtRVhpeVFqcDJQdnRQaXVxX0dmZWtUOTNBS0xWbEZ6WVZ6TFMwcnFMMklNM1RLMDV2SVdQcVdvZC13M3dicFpmVVYwUUk0WFd5Q1lnejB6MGs4WXVYYlNZMjhGMDhJX2VnSUYxQ3E3cnNHNEZvNXIzQjZLd3M?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Prudential Hong Kong Tennis Open: Leylah Fernandez vs Sofia Kenin",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-fernand-kenin-2026-11-01",
-      "yes": 72,
-      "change24h": 4,
-      "vol24h": 27369,
-      "headlines": [
-        {
-          "title": "Tennis players are taking a stand",
-          "source": "The Justice",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGIzUEQ5cEswQWx5dFB4N01mcURheVVNUnRMOFdIcW1QV1RKc0VkM0IwdUxmUTQ2TDktZ2NSYVJ1OFlLWXhOTVR3Tzh1M1dCM0tseURMQTdsOHc2T1ZtU3NMT3lPQkU5cm9BSktuVlEyNFA5aGJacXdudFltNW1iLXNB?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Watch Paris and Hong Kong tennis this week",
-          "source": "Tennisuptodate.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQml2SFh0QnhaRzNMVDYzUGdfS3lFT2ItWFFyZ2M1c0Ztcy1tN2pxenV3aURXTS1rWnNSSFVQWGtNMHdDM3BrdEtkSGE0M0dkSi1tVUJTVk1xZ2gtRVhpeVFqcDJQdnRQaXVxX0dmZWtUOTNBS0xWbEZ6WVZ6TFMwcnFMMklNM1RLMDV2SVdQcVdvZC13M3dicFpmVVYwUUk0WFd5Q1lnejB6MGs4WXVYYlNZMjhGMDhJX2VnSUYxQ3E3cnNHNEZvNXIzQjZLd3M?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-november-2026",
-      "yes": 37,
-      "change24h": 3,
-      "vol24h": 31802,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $82,500 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-november-2026",
-      "yes": 53,
-      "change24h": -3,
-      "vol24h": 20889,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
-      "yes": 11,
-      "change24h": 3,
-      "vol24h": 20295,
-      "headlines": [
-        {
-          "title": "Jeffery Simmons makes 'profound' impact in first game with Bears",
-          "source": "NFL.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWNlZ1d4Z1pzVF9ubE5yV2tMTWs4NVI4c2F4eVhkNnpqaW9YTUxZS1RPRDlBSC0yRVdTLTBHcTEzWVZYR1FJLUtHamNaN0V1aDIyXy1vZ2k1MWNFaW1WTmhuSnZyTFdRMWFVM000VENYTUNBTVRBMF9LU1g0Z1JNQUx1ZlBTNzdiUGJIaFlXZXA?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Cleats, controversy and the choice of Bears QB Caleb Williams",
-          "source": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1B6U2tBYjhyLUYxNUdTZHFfeGJZbHlRNG1ta3RHdko3Sm9XQXRNR3hMVXlQZ1k3MVNOdFdWbm9BZTZaYXl3andPWjFjQ3l4M01ROUZibEt6dnhiZzI0aUt5ZFhnc3BNb0lLaE9zdkRLdERPZ1h3WDJ4bTBfb1Atb1hTdmpXWnNmQnprQg?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "question": "No change in Bank of Mexico’s interest rates after November 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 73,
-      "change24h": 2,
-      "vol24h": 230117,
+      "url": "https://polymarket.com/event/no-change-in-bank-of-mexicos-interest-rates-after-november-2026-meeting-1786030375140",
+      "yes": 77,
+      "change24h": -9,
+      "vol24h": 33142,
       "headlines": [
         {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
-          "cat": "Macro"
+          "title": "$!$[FifaWorldCup]!𝚆𝙰𝚃𝙲𝙷 Internazionale vs Feyenoord Rotterdam LIVE FREE TV CHANNEL 02 NOVEMBER 2026",
+          "source": "Anayasa.gov.tr",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOVnU5T0dRS2RCVVFxVmdFM2pjb0lEQ01WMkRyaHRwanRYMnE1NFlXMjNZYXlfdkNjSm05aEp6UlJhYlNjZkZrUWE4SU4wc05zREpOYXgxQkFRNEEtdVJ4WHBJUmJvUWJXajYtd1p0dWJEVlU4ZHc4THVURW8tSW9hLVBNSDlxSHkzdUNFY3VEc3lPVjNFckdILW5ESm4xS1RDLUVOOWxGTlJDYWJPTjh0SVBJTEFRbW1EaXkzemloQUdlUTlUTVZIZngyN1I5VGY0MXRFTXE5VnIzZDlhZkM0TE5FTGc3RWhwQnN2UXp5VlZzaHpkMGxpUjF3YmZUY3NXWlM2dVR6UFU5aXRnUUxrSElXWmpJX1BPOTRuTVRMZjVIOWJYT3ZkN29hSm5IRWNEeHNlWmtJTm9PTGRtaWRGY29DcXEtNC0tcDJ3WVZaYUZLWldCSEg1bDJWUndFZC1JdEE?oc=5",
+          "cat": "World Cup"
         },
-        {
-          "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjd1bFkyUjV5TXdRMEtqbXV1THZGelRhekxHQlNqc3pQZHdZNmFOcG1HUi02SmxPOVNPMlFWYldVNWZsRUxkaG5sTVVKWGZNbmJ0NnBGTThSWm9Cbl8zMWxMY2JhMW0zY28zSGtZdmdsNHFYckRQU3JTV2ZqSTlEUkUtVzU2S1BVSGhhMTJBSmxIZE5fMW0zVjloMVBIazdCOV9YU2tqMkZBa0hud3VOZWVfY0xjSnlqVTRKTm1WNHY4X3pqUmllUDcxQjFNb01JZ04wVg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 26,
-      "change24h": -2,
-      "vol24h": 147424,
-      "headlines": [
-        {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "PCE inflation: Prices ticked higher in September, keeping expectations for a year-end Fed hike",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjd1bFkyUjV5TXdRMEtqbXV1THZGelRhekxHQlNqc3pQZHdZNmFOcG1HUi02SmxPOVNPMlFWYldVNWZsRUxkaG5sTVVKWGZNbmJ0NnBGTThSWm9Cbl8zMWxMY2JhMW0zY28zSGtZdmdsNHFYckRQU3JTV2ZqSTlEUkUtVzU2S1BVSGhhMTJBSmxIZE5fMW0zVjloMVBIazdCOV9YU2tqMkZBa0hud3VOZWVfY0xjSnlqVTRKTm1WNHY4X3pqUmllUDcxQjFNb01JZ04wVg?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-november-2026",
-      "yes": 9,
-      "change24h": 2,
-      "vol24h": 115601,
-      "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
           "cat": "Biotech markets"
         }
       ]
@@ -163,69 +27,153 @@
       "question": "Bank of Mexico decreases interest rates by 25 bps after November 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/bank-of-mexico-decreases-interest-rates-by-25-bps-after-november-2026-meeting-1786030375139",
-      "yes": 11,
-      "change24h": 1,
-      "vol24h": 19296,
+      "yes": 23,
+      "change24h": 9,
+      "vol24h": 25724,
       "headlines": [
+        {
+          "title": "$!$[FifaWorldCup]!𝚆𝙰𝚃𝙲𝙷 Internazionale vs Feyenoord Rotterdam LIVE FREE TV CHANNEL 02 NOVEMBER 2026",
+          "source": "Anayasa.gov.tr",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOVnU5T0dRS2RCVVFxVmdFM2pjb0lEQ01WMkRyaHRwanRYMnE1NFlXMjNZYXlfdkNjSm05aEp6UlJhYlNjZkZrUWE4SU4wc05zREpOYXgxQkFRNEEtdVJ4WHBJUmJvUWJXajYtd1p0dWJEVlU4ZHc4THVURW8tSW9hLVBNSDlxSHkzdUNFY3VEc3lPVjNFckdILW5ESm4xS1RDLUVOOWxGTlJDYWJPTjh0SVBJTEFRbW1EaXkzemloQUdlUTlUTVZIZngyN1I5VGY0MXRFTXE5VnIzZDlhZkM0TE5FTGc3RWhwQnN2UXp5VlZzaHpkMGxpUjF3YmZUY3NXWlM2dVR6UFU5aXRnUUxrSElXWmpJX1BPOTRuTVRMZjVIOWJYT3ZkN29hSm5IRWNEeHNlWmtJTm9PTGRtaWRGY29DcXEtNC0tcDJ3WVZaYUZLWldCSEg1bDJWUndFZC1JdEE?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFtSTItQUc0amNUUVc1OHQ5a3ZHSkJ6X1hDbFZsNm5MTmVyRTNDQ2ZBUS1DR2V2dW93cFczYUxScTluWnpiNmFLSDVTMUlUN3NvSWdTZjBmeW5qcjhHRDVocEpjYjRySnVTek9HZjhyNi1OVjVBX05wWDU0cEIyRlFnazcxbERuVnd1Q0JlTGhzOTg4QnZ3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
           "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 1,
-      "vol24h": 17474,
+      "question": "Will Bitcoin dip to $75,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-november-2026",
+      "yes": 70,
+      "change24h": -7,
+      "vol24h": 48978,
       "headlines": [
         {
-          "title": "Game Recap: Trail Blazers 118, Nuggets 110",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fcGpiS0x0SGRUcFhRdW5kZ05wWndMWVlVejJjVnVqY0RsNm1aTDUtaGN3SzRpMHAyNFhmTUt5QlNpZGs1RThOeFYzYW43M0dlaG9PMWhJeWwxOFN6SnZPLUtKbm5oZnE2cFVtQWs2UmRpaWRiREZEbVRXVlc?oc=5",
-          "cat": "NBA"
+          "title": "$!$[FifaWorldCup]!𝚆𝙰𝚃𝙲𝙷 Internazionale vs Feyenoord Rotterdam LIVE FREE TV CHANNEL 02 NOVEMBER 2026",
+          "source": "Anayasa.gov.tr",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOVnU5T0dRS2RCVVFxVmdFM2pjb0lEQ01WMkRyaHRwanRYMnE1NFlXMjNZYXlfdkNjSm05aEp6UlJhYlNjZkZrUWE4SU4wc05zREpOYXgxQkFRNEEtdVJ4WHBJUmJvUWJXajYtd1p0dWJEVlU4ZHc4THVURW8tSW9hLVBNSDlxSHkzdUNFY3VEc3lPVjNFckdILW5ESm4xS1RDLUVOOWxGTlJDYWJPTjh0SVBJTEFRbW1EaXkzemloQUdlUTlUTVZIZngyN1I5VGY0MXRFTXE5VnIzZDlhZkM0TE5FTGc3RWhwQnN2UXp5VlZzaHpkMGxpUjF3YmZUY3NXWlM2dVR6UFU5aXRnUUxrSElXWmpJX1BPOTRuTVRMZjVIOWJYT3ZkN29hSm5IRWNEeHNlWmtJTm9PTGRtaWRGY29DcXEtNC0tcDJ3WVZaYUZLWldCSEg1bDJWUndFZC1JdEE?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Prudential Hong Kong Tennis Open: Emerson Jones vs Alexandra Eala",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-jone-eala-2026-11-03",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 177184,
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 23,
+      "change24h": -3,
+      "vol24h": 144701,
       "headlines": [
+        {
+          "title": "Fed holds interest rates steady as inflation hits 3-year high",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "New economic data challenges Fed chief's not-too-hot perspective",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Prudential Hong Kong Tennis Open: Leylah Fernandez vs Sofia Kenin",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-fernand-kenin-2026-11-01",
+      "yes": 75,
+      "change24h": 3,
+      "vol24h": 26910,
+      "headlines": [
+        {
+          "title": "Badosa retires in tears in Hong Kong and Selekhmeteva makes her debut with a win in Chennai",
+          "source": "Punto de Break",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVJ1bEU3NDJONjZsaElqT1Z6d2tiaGI4Wmo5Y212N182QnowWC1uaWNQRXY1YWNWV3EtT0NsTGcta096NFhfM2RNVHVwLTR3V0xULXltMmNkUld6aUFQdGRmZ2p3N1EwN2IwMERiaHVDSjlBVEZLVzhvbkpYbFc4REYwVnZqWWdJM3BwSGRWSy0zTzdDTXdENWtYbGtHa3RiUV8xZXJKcUFxTFdxLTV1R0RldlFRaXNjakZMdEVxN3A4QQ?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Tennis players are taking a stand",
           "source": "The Justice",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGIzUEQ5cEswQWx5dFB4N01mcURheVVNUnRMOFdIcW1QV1RKc0VkM0IwdUxmUTQ2TDktZ2NSYVJ1OFlLWXhOTVR3Tzh1M1dCM0tseURMQTdsOHc2T1ZtU3NMT3lPQkU5cm9BSktuVlEyNFA5aGJacXdudFltNW1iLXNB?oc=5",
           "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-november-2026",
+      "yes": 16,
+      "change24h": 2,
+      "vol24h": 26859,
+      "headlines": [
+        {
+          "title": "$!$[FifaWorldCup]!𝚆𝙰𝚃𝙲𝙷 Internazionale vs Feyenoord Rotterdam LIVE FREE TV CHANNEL 02 NOVEMBER 2026",
+          "source": "Anayasa.gov.tr",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOVnU5T0dRS2RCVVFxVmdFM2pjb0lEQ01WMkRyaHRwanRYMnE1NFlXMjNZYXlfdkNjSm05aEp6UlJhYlNjZkZrUWE4SU4wc05zREpOYXgxQkFRNEEtdVJ4WHBJUmJvUWJXajYtd1p0dWJEVlU4ZHc4THVURW8tSW9hLVBNSDlxSHkzdUNFY3VEc3lPVjNFckdILW5ESm4xS1RDLUVOOWxGTlJDYWJPTjh0SVBJTEFRbW1EaXkzemloQUdlUTlUTVZIZngyN1I5VGY0MXRFTXE5VnIzZDlhZkM0TE5FTGc3RWhwQnN2UXp5VlZzaHpkMGxpUjF3YmZUY3NXWlM2dVR6UFU5aXRnUUxrSElXWmpJX1BPOTRuTVRMZjVIOWJYT3ZkN29hSm5IRWNEeHNlWmtJTm9PTGRtaWRGY29DcXEtNC0tcDJ3WVZaYUZLWldCSEg1bDJWUndFZC1JdEE?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "Watch Paris and Hong Kong tennis this week",
-          "source": "Tennisuptodate.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQml2SFh0QnhaRzNMVDYzUGdfS3lFT2ItWFFyZ2M1c0Ztcy1tN2pxenV3aURXTS1rWnNSSFVQWGtNMHdDM3BrdEtkSGE0M0dkSi1tVUJTVk1xZ2gtRVhpeVFqcDJQdnRQaXVxX0dmZWtUOTNBS0xWbEZ6WVZ6TFMwcnFMMklNM1RLMDV2SVdQcVdvZC13M3dicFpmVVYwUUk0WFd5Q1lnejB6MGs4WXVYYlNZMjhGMDhJX2VnSUYxQ3E3cnNHNEZvNXIzQjZLd3M?oc=5",
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alina Charaeva",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-ruzic-charaev-2026-11-01",
+      "yes": 53,
+      "change24h": 1,
+      "vol24h": 27350,
+      "headlines": [
+        {
+          "title": "Badosa retires in tears in Hong Kong and Selekhmeteva makes her debut with a win in Chennai",
+          "source": "Punto de Break",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVJ1bEU3NDJONjZsaElqT1Z6d2tiaGI4Wmo5Y212N182QnowWC1uaWNQRXY1YWNWV3EtT0NsTGcta096NFhfM2RNVHVwLTR3V0xULXltMmNkUld6aUFQdGRmZ2p3N1EwN2IwMERiaHVDSjlBVEZLVzhvbkpYbFc4REYwVnZqWWdJM3BwSGRWSy0zTzdDTXdENWtYbGtHa3RiUV8xZXJKcUFxTFdxLTV1R0RldlFRaXNjakZMdEVxN3A4QQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Tennis players are taking a stand",
+          "source": "The Justice",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGIzUEQ5cEswQWx5dFB4N01mcURheVVNUnRMOFdIcW1QV1RKc0VkM0IwdUxmUTQ2TDktZ2NSYVJ1OFlLWXhOTVR3Tzh1M1dCM0tseURMQTdsOHc2T1ZtU3NMT3lPQkU5cm9BSktuVlEyNFA5aGJacXdudFltNW1iLXNB?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will Los Angeles Clippers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-clippers-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 21939,
+      "question": "Will Bitcoin dip to $64,000 November 2-8?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-64k-november-2-8-2026",
+      "yes": 1,
+      "change24h": -1,
+      "vol24h": 20479,
       "headlines": [
         {
-          "title": "Women's Nations League draw: the road to Los Angeles 2028 🏆",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON1RuV2tPZm5RNTdUVXh0VEZGLWJDOUY1c1BQSkE2eVh0MUk1dEg4TEJhVXdGUy1mS0QyRWtxaWdJSW9fZ3BOOFdrYXRrLUt6ZnRqTUNkUVhlSFBiNGVlcWM5MFdJVVBSMXkyNi1MM1RoTWJMU2NZN3dremF4c3JLamNTNkNZZ2M?oc=5",
+          "title": "$!$[FifaWorldCup]!𝚆𝙰𝚃𝙲𝙷 Internazionale vs Feyenoord Rotterdam LIVE FREE TV CHANNEL 02 NOVEMBER 2026",
+          "source": "Anayasa.gov.tr",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOVnU5T0dRS2RCVVFxVmdFM2pjb0lEQ01WMkRyaHRwanRYMnE1NFlXMjNZYXlfdkNjSm05aEp6UlJhYlNjZkZrUWE4SU4wc05zREpOYXgxQkFRNEEtdVJ4WHBJUmJvUWJXajYtd1p0dWJEVlU4ZHc4THVURW8tSW9hLVBNSDlxSHkzdUNFY3VEc3lPVjNFckdILW5ESm4xS1RDLUVOOWxGTlJDYWJPTjh0SVBJTEFRbW1EaXkzemloQUdlUTlUTVZIZngyN1I5VGY0MXRFTXE5VnIzZDlhZkM0TE5FTGc3RWhwQnN2UXp5VlZzaHpkMGxpUjF3YmZUY3NXWlM2dVR6UFU5aXRnUUxrSElXWmpJX1BPOTRuTVRMZjVIOWJYT3ZkN29hSm5IRWNEeHNlWmtJTm9PTGRtaWRGY29DcXEtNC0tcDJ3WVZaYUZLWldCSEg1bDJWUndFZC1JdEE?oc=5",
           "cat": "World Cup"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     }
