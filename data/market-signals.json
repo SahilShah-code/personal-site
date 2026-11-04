@@ -1,18 +1,68 @@
 {
-  "updated": "2026-11-04T13:23:52.631Z",
+  "updated": "2026-11-04T22:57:27.211Z",
   "withNews": [
     {
-      "question": "Prudential Hong Kong Tennis Open: Maya Joint vs Maria Sakkari",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-joint-sakkari-2026-11-04",
-      "yes": 0,
-      "change24h": -36,
-      "vol24h": 297656,
+      "question": "Will Ethereum reach $2,500 November 2-8?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-november-2-8-2026",
+      "yes": 61,
+      "change24h": 48,
+      "vol24h": 59282,
       "headlines": [
         {
-          "title": "Badosa retires in tears in Hong Kong and Selekhmeteva makes her debut with a win in Chennai",
-          "source": "Punto de Break",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZVJ1bEU3NDJONjZsaElqT1Z6d2tiaGI4Wmo5Y212N182QnowWC1uaWNQRXY1YWNWV3EtT0NsTGcta096NFhfM2RNVHVwLTR3V0xULXltMmNkUld6aUFQdGRmZ2p3N1EwN2IwMERiaHVDSjlBVEZLVzhvbkpYbFc4REYwVnZqWWdJM3BwSGRWSy0zTzdDTXdENWtYbGtHa3RiUV8xZXJKcUFxTFdxLTV1R0RldlFRaXNjakZMdEVxN3A4QQ?oc=5",
+          "title": "NBA games on today, full TV schedule for Wednesday, November 4",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zVDhiUlVTel8za1FGNVJuZmpGMnRDRG92dlhuZEp3OGo1T1hPVWwtekxUQUlDa0RyNGhQWFlubEpCYWRoWVI5RmlYcjlwdGJ2N3VWdFB1SXc0azlFX2h3SXQ3R2pOdURwVXRXbERxNnRHZmNERVVhNXM4aUo?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "H2H, prediction of Carlos Alcaraz vs Matteo Berrettini in Paris with odds, preview, pick | 5th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0RMTE5fZ2N4ZkhUUmEwUHR3bWs5VDJKaHV6cTBJRFh5ejNUcWhHQVB3ZkxMcUlfWS11SDYtdzhhblQ5eFkwWkhvTTZiSVFJYklMWVIwajZmWUxOYktDVU9ycjlBUUhidXF2SHgwMTQxSlhteWJ6Q0dvSUVxNEpmT1k3YmVOWEZpbWowaU8wX0hTcktNRkYzWjZFWWtSM3lFSnlMampZZ3lWdmx0Y3huQ1o5SldqSXR2b0R4dzZCOFVKazJPcWdia0tPczRQWTNsLVcwUlJrM2JSN2k3WU5XcV9n?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $82,000 November 2-8?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-november-2-8-2026",
+      "yes": 69,
+      "change24h": 43,
+      "vol24h": 54890,
+      "headlines": [
+        {
+          "title": "NBA games on today, full TV schedule for Wednesday, November 4",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zVDhiUlVTel8za1FGNVJuZmpGMnRDRG92dlhuZEp3OGo1T1hPVWwtekxUQUlDa0RyNGhQWFlubEpCYWRoWVI5RmlYcjlwdGJ2N3VWdFB1SXc0azlFX2h3SXQ3R2pOdURwVXRXbERxNnRHZmNERVVhNXM4aUo?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "H2H, prediction of Carlos Alcaraz vs Matteo Berrettini in Paris with odds, preview, pick | 5th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0RMTE5fZ2N4ZkhUUmEwUHR3bWs5VDJKaHV6cTBJRFh5ejNUcWhHQVB3ZkxMcUlfWS11SDYtdzhhblQ5eFkwWkhvTTZiSVFJYklMWVIwajZmWUxOYktDVU9ycjlBUUhidXF2SHgwMTQxSlhteWJ6Q0dvSUVxNEpmT1k3YmVOWEZpbWowaU8wX0hTcktNRkYzWjZFWWtSM3lFSnlMampZZ3lWdmx0Y3huQ1o5SldqSXR2b0R4dzZCOFVKazJPcWdia0tPczRQWTNsLVcwUlJrM2JSN2k3WU5XcV9n?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-november-2026",
+      "yes": 82,
+      "change24h": 33,
+      "vol24h": 17262,
+      "headlines": [
+        {
+          "title": "NBA games on today, full TV schedule for Wednesday, November 4",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zVDhiUlVTel8za1FGNVJuZmpGMnRDRG92dlhuZEp3OGo1T1hPVWwtekxUQUlDa0RyNGhQWFlubEpCYWRoWVI5RmlYcjlwdGJ2N3VWdFB1SXc0azlFX2h3SXQ3R2pOdURwVXRXbERxNnRHZmNERVVhNXM4aUo?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "H2H, prediction of Carlos Alcaraz vs Matteo Berrettini in Paris with odds, preview, pick | 5th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0RMTE5fZ2N4ZkhUUmEwUHR3bWs5VDJKaHV6cTBJRFh5ejNUcWhHQVB3ZkxMcUlfWS11SDYtdzhhblQ5eFkwWkhvTTZiSVFJYklMWVIwajZmWUxOYktDVU9ycjlBUUhidXF2SHgwMTQxSlhteWJ6Q0dvSUVxNEpmT1k3YmVOWEZpbWowaU8wX0hTcktNRkYzWjZFWWtSM3lFSnlMampZZ3lWdmx0Y3huQ1o5SldqSXR2b0R4dzZCOFVKazJPcWdia0tPczRQWTNsLVcwUlJrM2JSN2k3WU5XcV9n?oc=5",
           "cat": "Tennis"
         }
       ]
@@ -21,69 +71,15 @@
       "question": "Will the Fed Pause-Hike-Pause in the next three decisions (Oct-Dec-Jan)?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-pausehikepause-in-the-next-three-decisions-octdecjan",
-      "yes": 71,
-      "change24h": 10,
-      "vol24h": 16974,
+      "yes": 73,
+      "change24h": 11,
+      "vol24h": 17246,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+          "title": "What the Fed Can and Cannot Fix in Today’s Inflation",
+          "source": "ETF Database",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWhtTS1YbVhTR3pwUnJ0Q3J5Y0tKRXNqZE9HMDA1eXQ5aWtCZGwzbk5HdVVwM2cwME1XMFBPVFJOMzBPT3ZXcE1qZDFmcnh4Tm0yYWNRSVRTX2JqVHA5bEhibEtOaWVfLUVRdGhoa2VLRmRUVUZqVXhxaE1BbGwyYw?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-november-2026",
-      "yes": 64,
-      "change24h": -8,
-      "vol24h": 38167,
-      "headlines": [
-        {
-          "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-          "source": "Investorideas.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $80,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-80k-in-november-2026",
-      "yes": 82,
-      "change24h": 7,
-      "vol24h": 22884,
-      "headlines": [
-        {
-          "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-          "source": "Investorideas.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-in-november-2026",
-      "yes": 28,
-      "change24h": -7,
-      "vol24h": 16805,
-      "headlines": [
-        {
-          "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-          "source": "Investorideas.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5",
-          "cat": "Biotech markets"
         }
       ]
     },
@@ -91,42 +87,30 @@
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 79,
-      "change24h": 6,
-      "vol24h": 431208,
+      "yes": 78,
+      "change24h": 3,
+      "vol24h": 523104,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+          "title": "What the Fed Can and Cannot Fix in Today’s Inflation",
+          "source": "ETF Database",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWhtTS1YbVhTR3pwUnJ0Q3J5Y0tKRXNqZE9HMDA1eXQ5aWtCZGwzbk5HdVVwM2cwME1XMFBPVFJOMzBPT3ZXcE1qZDFmcnh4Tm0yYWNRSVRTX2JqVHA5bEhibEtOaWVfLUVRdGhoa2VLRmRUVUZqVXhxaE1BbGwyYw?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 21,
-      "change24h": -5,
-      "vol24h": 301562,
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 78,
+      "change24h": 2,
+      "vol24h": 67767,
       "headlines": [
         {
-          "title": "Fed holds interest rates steady as inflation hits 3-year high",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "New economic data challenges Fed chief's not-too-hot perspective",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNV9seWt5MjlGeDJNRkdKLWxjUHQyb2R4QmUtM0ZvOU5hUExsYmpuVkhyZ2RnSGtPajEzZEFFRUluX0xHdTlaQ1NKc0JKcXhQTXB6NGJ4VXJ5NVhNWkZzTTU2WFplQl9zWUFtT3hmWG9FQXhyYVBWN1V4MEhoaGVEd2pfQWRDakQxcExBc3VjQmNNSzhEUDZjMEMwQnpVV1NTMEhZb0Q2LWF1SUZi?oc=5",
+          "title": "What the Fed Can and Cannot Fix in Today’s Inflation",
+          "source": "ETF Database",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWhtTS1YbVhTR3pwUnJ0Q3J5Y0tKRXNqZE9HMDA1eXQ5aWtCZGwzbk5HdVVwM2cwME1XMFBPVFJOMzBPT3ZXcE1qZDFmcnh4Tm0yYWNRSVRTX2JqVHA5bEhibEtOaWVfLUVRdGhoa2VLRmRUVUZqVXhxaE1BbGwyYw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -134,21 +118,57 @@
   ],
   "moversOnly": [
     {
-      "question": "Cricket World Cup League 2: UAE vs Oman",
-      "topic": "World Cup",
-      "url": "https://polymarket.com/event/crint-are-omn-2026-11-04",
-      "yes": 100,
-      "change24h": 34,
-      "vol24h": 53866,
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 37,
+      "change24h": -26,
+      "vol24h": 21663,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 38,
-      "change24h": -5,
-      "vol24h": 17191,
+      "yes": 26,
+      "change24h": -16,
+      "vol24h": 33453,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 31,
+      "change24h": -15,
+      "vol24h": 50628,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
+      "yes": 42,
+      "change24h": 12,
+      "vol24h": 22411,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 13,
+      "change24h": -4,
+      "vol24h": 24200,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
+      "yes": 14,
+      "change24h": 4,
+      "vol24h": 23548,
       "headlines": []
     }
   ]
