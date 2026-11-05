@@ -1,69 +1,85 @@
 {
-  "updated": "2026-11-05T03:57:25.673Z",
+  "updated": "2026-11-05T13:38:07.138Z",
   "withNews": [
-    {
-      "question": "Will the price of Ethereum be above $2,300 on November 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/ethereum-above-2300-on-november-6-2026",
-      "yes": 95,
-      "change24h": 65,
-      "vol24h": 13841,
-      "headlines": [
-        {
-          "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-          "source": "Investorideas.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $78,000 on November 6?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-78k-on-november-6-2026",
-      "yes": 91,
-      "change24h": 62,
-      "vol24h": 28896,
-      "headlines": [
-        {
-          "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-          "source": "Investorideas.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5",
-          "cat": "Biotech markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
     {
       "question": "Will Ethereum dip to $2,200 November 2-8?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-november-2-8-2026",
-      "yes": 9,
-      "change24h": -61,
-      "vol24h": 14731,
+      "yes": 11,
+      "change24h": -20,
+      "vol24h": 23870,
       "headlines": [
         {
-          "title": "Biotech Stock INOVIO (NASDAQ: INO) Leads Nasdaq Gainers Monday November 2nd",
-          "source": "Investorideas.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObXJIeUo1cnpVTldzVmVQc3F3eHNQSjlRN0hldjE2M1lvajVRemRvYWRDNTEyVnBMVHhLOWpEZ0JxX052M3RRck1rQjRqRXZIMkdGdFVkVDBxYkU1Y2tEekJ6SmhtTzZqZWhTazg3RXlOeFg4YldOcGlFcE42cTJGbDJDMzFRWHdyVF81ZXFRdDZMR1ZCMVRmRm9HMlliMFplVkhqYkxyN1RqVFRzOVdUcUNlZ3QtemhOcFZjaUs3VkFUQnBmZGppLXN3?oc=5",
-          "cat": "Biotech markets"
+          "title": "H2H, prediction of Jan Kumstat vs Harold Mayot in Taipei Challenger with odds, preview, pick | 6th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV3l1RlR4eGVwN01fSDNGZGkzRmtRWW9RWUF4czRtcHEyOUw0NmRMWmRneWpOOVd3NnpRaEZzSzNjaHF2WFZJeE5IUDZLS3M1RWtpY183ZWZxYTNMYXhWV1RNa1dUU0pqWXhmZWgtbFVxUnRjU0JSdXZWYUg3X2dhTV9YVWNxOTVHMnNEMDhTZkJIZktxYTZCS1hWMUlUUGVMMk5TYy1ab2lBTlZlaHZJbktXZlVjMG5SbGdlaEdZVHVhZWJxTXdERDhBd1ZPUmw1VG1YWFNPcV9qSU1mTERjc1B6YmoySHc?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
+          "title": "H2H, prediction of Omar Jasika vs Yuta Shimizu in Taipei Challenger with odds, preview, pick | 6th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMkljMzNXSnlnNGZNS0t0VnVCOVNkT19qVko5TWp6U0hFcUlxTHByNHJPaldyeC1pSkY2T080QndyR0U5MVlTb29vU2paWjRfbUZWbFB3VTdycVdlMTl2SEZzakNwVFU1WUxjU2RYNXk5ay16cGR2VVR6VWVwLWVVWHVvU2ZtbkZnRVVnVjVDWkt0aEFDYzMwa0FyemJRM3YyRHJwYTkzYllzbzBDNEZqQ0czaDgxdFRzWDVFRUZLNGk4UjVHRC1wOXZGYndubjIydnpQQWJid3ZEaDd1QnZoMm1OUk9xZUU?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-november-2026",
+      "yes": 71,
+      "change24h": 17,
+      "vol24h": 12682,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Jan Kumstat vs Harold Mayot in Taipei Challenger with odds, preview, pick | 6th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV3l1RlR4eGVwN01fSDNGZGkzRmtRWW9RWUF4czRtcHEyOUw0NmRMWmRneWpOOVd3NnpRaEZzSzNjaHF2WFZJeE5IUDZLS3M1RWtpY183ZWZxYTNMYXhWV1RNa1dUU0pqWXhmZWgtbFVxUnRjU0JSdXZWYUg3X2dhTV9YVWNxOTVHMnNEMDhTZkJIZktxYTZCS1hWMUlUUGVMMk5TYy1ab2lBTlZlaHZJbktXZlVjMG5SbGdlaEdZVHVhZWJxTXdERDhBd1ZPUmw1VG1YWFNPcV9qSU1mTERjc1B6YmoySHc?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Omar Jasika vs Yuta Shimizu in Taipei Challenger with odds, preview, pick | 6th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMkljMzNXSnlnNGZNS0t0VnVCOVNkT19qVko5TWp6U0hFcUlxTHByNHJPaldyeC1pSkY2T080QndyR0U5MVlTb29vU2paWjRfbUZWbFB3VTdycVdlMTl2SEZzakNwVFU1WUxjU2RYNXk5ay16cGR2VVR6VWVwLWVVWHVvU2ZtbkZnRVVnVjVDWkt0aEFDYzMwa0FyemJRM3YyRHJwYTkzYllzbzBDNEZqQ0czaDgxdFRzWDVFRUZLNGk4UjVHRC1wOXZGYndubjIydnpQQWJid3ZEaDd1QnZoMm1OUk9xZUU?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,600 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2600-in-november-2026",
+      "yes": 51,
+      "change24h": 16,
+      "vol24h": 32083,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Jan Kumstat vs Harold Mayot in Taipei Challenger with odds, preview, pick | 6th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOV3l1RlR4eGVwN01fSDNGZGkzRmtRWW9RWUF4czRtcHEyOUw0NmRMWmRneWpOOVd3NnpRaEZzSzNjaHF2WFZJeE5IUDZLS3M1RWtpY183ZWZxYTNMYXhWV1RNa1dUU0pqWXhmZWgtbFVxUnRjU0JSdXZWYUg3X2dhTV9YVWNxOTVHMnNEMDhTZkJIZktxYTZCS1hWMUlUUGVMMk5TYy1ab2lBTlZlaHZJbktXZlVjMG5SbGdlaEdZVHVhZWJxTXdERDhBd1ZPUmw1VG1YWFNPcV9qSU1mTERjc1B6YmoySHc?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Omar Jasika vs Yuta Shimizu in Taipei Challenger with odds, preview, pick | 6th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMkljMzNXSnlnNGZNS0t0VnVCOVNkT19qVko5TWp6U0hFcUlxTHByNHJPaldyeC1pSkY2T080QndyR0U5MVlTb29vU2paWjRfbUZWbFB3VTdycVdlMTl2SEZzakNwVFU1WUxjU2RYNXk5ay16cGR2VVR6VWVwLWVVWHVvU2ZtbkZnRVVnVjVDWkt0aEFDYzMwa0FyemJRM3YyRHJwYTkzYllzbzBDNEZqQ0czaDgxdFRzWDVFRUZLNGk4UjVHRC1wOXZGYndubjIydnpQQWJid3ZEaDd1QnZoMm1OUk9xZUU?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2027-meeting",
+      "yes": 52,
+      "change24h": 4,
+      "vol24h": 19312,
+      "headlines": [
+        {
+          "title": "The Fed Needs a Better Way to Talk About Interest Rates",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSncyUnJBc25zajNQclpteVFGV3A0bGZtR3JwMEVnYUdOcXZ4eUkyZGNLdG1DcGlZeUJ2dV9ub3lFZDNjTkY3bjZCNkIxTDhtdTBLQTdOcDRQWFprbFp4aVQ3OU1JMWh5bENiMEk1d05DeG0yLWpSTHBSdUI1OW96UzRsekpIU09LVV9GX0tKWS01bWNicV9DYWhPVkZweWhBZWVETUFHbG9BQQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -72,29 +88,13 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 78,
-      "change24h": 3,
-      "vol24h": 533719,
+      "change24h": -1,
+      "vol24h": 197543,
       "headlines": [
         {
-          "title": "What the Fed Can and Cannot Fix in Today’s Inflation",
-          "source": "ETF Database",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWhtTS1YbVhTR3pwUnJ0Q3J5Y0tKRXNqZE9HMDA1eXQ5aWtCZGwzbk5HdVVwM2cwME1XMFBPVFJOMzBPT3ZXcE1qZDFmcnh4Tm0yYWNRSVRTX2JqVHA5bEhibEtOaWVfLUVRdGhoa2VLRmRUVUZqVXhxaE1BbGwyYw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 78,
-      "change24h": 3,
-      "vol24h": 41991,
-      "headlines": [
-        {
-          "title": "What the Fed Can and Cannot Fix in Today’s Inflation",
-          "source": "ETF Database",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWhtTS1YbVhTR3pwUnJ0Q3J5Y0tKRXNqZE9HMDA1eXQ5aWtCZGwzbk5HdVVwM2cwME1XMFBPVFJOMzBPT3ZXcE1qZDFmcnh4Tm0yYWNRSVRTX2JqVHA5bEhibEtOaWVfLUVRdGhoa2VLRmRUVUZqVXhxaE1BbGwyYw?oc=5",
+          "title": "The Fed Needs a Better Way to Talk About Interest Rates",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSncyUnJBc25zajNQclpteVFGV3A0bGZtR3JwMEVnYUdOcXZ4eUkyZGNLdG1DcGlZeUJ2dV9ub3lFZDNjTkY3bjZCNkIxTDhtdTBLQTdOcDRQWFprbFp4aVQ3OU1JMWh5bENiMEk1d05DeG0yLWpSTHBSdUI1OW96UzRsekpIU09LVV9GX0tKWS01bWNicV9DYWhPVkZweWhBZWVETUFHbG9BQQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -104,51 +104,67 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 22,
-      "change24h": -2,
-      "vol24h": 228831,
+      "change24h": 1,
+      "vol24h": 178991,
       "headlines": [
         {
-          "title": "What the Fed Can and Cannot Fix in Today’s Inflation",
-          "source": "ETF Database",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWhtTS1YbVhTR3pwUnJ0Q3J5Y0tKRXNqZE9HMDA1eXQ5aWtCZGwzbk5HdVVwM2cwME1XMFBPVFJOMzBPT3ZXcE1qZDFmcnh4Tm0yYWNRSVRTX2JqVHA5bEhibEtOaWVfLUVRdGhoa2VLRmRUVUZqVXhxaE1BbGwyYw?oc=5",
+          "title": "The Fed Needs a Better Way to Talk About Interest Rates",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSncyUnJBc25zajNQclpteVFGV3A0bGZtR3JwMEVnYUdOcXZ4eUkyZGNLdG1DcGlZeUJ2dV9ub3lFZDNjTkY3bjZCNkIxTDhtdTBLQTdOcDRQWFprbFp4aVQ3OU1JMWh5bENiMEk1d05DeG0yLWpSTHBSdUI1OW96UzRsekpIU09LVV9GX0tKWS01bWNicV9DYWhPVkZweWhBZWVETUFHbG9BQQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
+      "question": "Will the Seattle Seahawks win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 33178,
+      "url": "https://polymarket.com/event/will-the-seattle-seahawks-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": -1,
+      "vol24h": 54857,
       "headlines": [
         {
-          "title": "Ravens To Field Offers For Derrick Henry?",
-          "source": "ProFootballRumors.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamxZWWNjQXM1YXJ0ZG5SNmY5azhUUDFqWWdLcmI2MEVRNm9wS2ltcE03RzNPZVY5bURpMHRiejA4V1V5Mm1ub1ZqWEplZEdTcGltQVpybkRsZGVZUHNiazl3bGxUdUY3aVZHbE9Zb0htQkZCWWZQMTZRWUVJUmlaTjlGZFE2d3JTODlyVzhR?oc=5",
+          "title": "Bears-Seahawks' Monday Night Football matchup drew massive audience",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEJyVG03UVJPME5pb1pDcTJBeV9xR2NYV1ZBUzFyc1EwSkVuWmpWQVppNUM0XzBYWjZiQkNCWDByYVA3NzdXRDZfTU9mS296b0VGUG5aRUN4T0o2dmFpelo5LTRsbnc0VmJYUURlak1KMGdOd3hyOFFKNVB1VF9EaHp3RXlKNnBnZlYwV3NB?oc=5",
           "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 26722,
+      "headlines": [
+        {
+          "title": "Wembanyama has career highs of 52 points, 24 rebounds as Spurs hold off Mavericks 112-111",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUJMRmtMV1hDUnBJVnRIelhXdV81WWs1Y1VTYU4ycHgtNzVXdVJGQXNUbzVlVkRMXzEyQ2gzNzhRVHUtLXhOaHIxZ05xdE45N09abGJXOVlkY2ZJc0ZobnlseFp6ZEtMbWNyZ1BkZzhxWFRCRmt6TkRfV1l3Q2U1M0dYN3ZiSnI0UDA3SXZLdy0yT2t3T290di00bGlIYkpsYjlGNDBDQnRITHdFS0xpeXVIT0gtTzVGTXhrZUpyRFlHcTRJam1ONTRJUTNFQQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 30,
-      "change24h": -23,
-      "vol24h": 48379,
+      "question": "Prudential Hong Kong Tennis Open: Tereza Valentova vs Alexandra Eala",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-valento-eala-2026-11-05",
+      "yes": 0,
+      "change24h": -37,
+      "vol24h": 588792,
       "headlines": []
     },
     {
       "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 42,
-      "change24h": -22,
-      "vol24h": 26558,
+      "yes": 38,
+      "change24h": -21,
+      "vol24h": 26695,
       "headlines": []
     },
     {
@@ -156,35 +172,35 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
       "yes": 27,
-      "change24h": -21,
-      "vol24h": 27654,
+      "change24h": -11,
+      "vol24h": 33885,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 42,
-      "change24h": 18,
-      "vol24h": 15611,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 36,
+      "change24h": -8,
+      "vol24h": 77797,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin reach $95,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-95000-by-december-31-2026-from-june-8",
-      "yes": 24,
-      "change24h": 9,
-      "vol24h": 19099,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 7,
+      "change24h": -5,
+      "vol24h": 122870,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 12,
-      "change24h": -6,
-      "vol24h": 22814,
+      "yes": 13,
+      "change24h": -4,
+      "vol24h": 23841,
       "headlines": []
     },
     {
@@ -192,17 +208,8 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
       "yes": 14,
-      "change24h": 5,
-      "vol24h": 26962,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 8,
-      "change24h": -4,
-      "vol24h": 120431,
+      "change24h": 4,
+      "vol24h": 20960,
       "headlines": []
     }
   ]
