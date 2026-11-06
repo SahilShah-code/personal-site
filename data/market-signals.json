@@ -1,207 +1,154 @@
 {
-  "updated": "2026-11-06T13:21:14.787Z",
+  "updated": "2026-11-06T22:28:21.733Z",
   "withNews": [
+    {
+      "question": "Will Bitcoin dip to $74,000 November 2-8?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-november-2-8-2026",
+      "yes": 18,
+      "change24h": -31,
+      "vol24h": 51168,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Magda Linette vs Anastasia Zakharova in Chennai with odds, preview, pick | 7th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORDRBYXRWOURrS0lqeGJlanAwSFl6Y3h6cG5WSWREQjVFVVppeGNvVC1wRjUwT1o0akg3Q1p0cVE5cWRMUF8yV3NGbE9LYWowcGx3QVNsTnp5X1RJcUVWZzRuNzdBSExCN3ExZDZBU3RuSHZvSUVCWWs2dEIwVHI2aGFTd0szMlBVMFh4QjNnSVN1MlctM1JXbHlNeUYyUWVjQXBaQTB3cEVqTmhrbmlEOUNpOFFUNUxvX2QtRU8yMlhwTWplX1VfQVo1ckF0LU85TkdOTHM2ejNHQjF3S0NmbFZuTzA3Zw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
     {
       "question": "Will Ethereum dip to $2,200 November 2-8?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-november-2-8-2026",
-      "yes": 62,
-      "change24h": 51,
-      "vol24h": 20841,
+      "yes": 48,
+      "change24h": -26,
+      "vol24h": 14720,
       "headlines": [
         {
-          "title": "H2H, prediction of Claire Liu vs Alexandra Shubladze in Hong Kong with odds, preview, pick | 7th November 2026",
+          "title": "H2H, prediction of Magda Linette vs Anastasia Zakharova in Chennai with odds, preview, pick | 7th November 2026",
           "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzY3VjVKWHhiY19DWVZYOUVsMmJBMV9MLWNlTGpEYW11SkxQTVRyRENYT0hiRzJvVEJheUwwSldGakJyRVVHV0FvcGRzVlR2WGtSd1FjUk9obXhuVUFHWE9OSW14YzFNRXNpUk9fbUNockN2MGp1eG40Q21tSnEwNnB2Vy1yOFhvelM4ZWJhYWkwVGxESkY1MVRrU2dGakwyX1Q3Nm5WWDZpRlQyWUZ6Y3MwaXhRRDF5YjFXMlFCWW9XNXBWODB4ZXJaNGc2NFhCZXhhenB0ZzROMHJtS3N3dkRCRlM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORDRBYXRWOURrS0lqeGJlanAwSFl6Y3h6cG5WSWREQjVFVVppeGNvVC1wRjUwT1o0akg3Q1p0cVE5cWRMUF8yV3NGbE9LYWowcGx3QVNsTnp5X1RJcUVWZzRuNzdBSExCN3ExZDZBU3RuSHZvSUVCWWs2dEIwVHI2aGFTd0szMlBVMFh4QjNnSVN1MlctM1JXbHlNeUYyUWVjQXBaQTB3cEVqTmhrbmlEOUNpOFFUNUxvX2QtRU8yMlhwTWplX1VfQVo1ckF0LU85TkdOTHM2ejNHQjF3S0NmbFZuTzA3Zw?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "H2H, prediction of Jan Kumstat vs Yuta Shimizu in Taipei Challenger with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3R0akRuOFMwbFNMZW91V2JsT3pDTU02RHhFYmQ5cHN1REZkRVJLb3ZacjZ5ZTE3VmJfU0t4cGRQQW9MZkZDZ1FZaG5LRVZSWlloM0JUWHEwbFlCbUFORlgxNHNqYXRhWUV6SmZPYV8tVGZJMWFzOXB6bHJaaHFOcGMzS2V3WmVjTGZxU00tYWFOWm9SWjF1ZTNVbWN3MW95Q01DZDBMd0ozb2s5UlVGTTY1SHBLMXdzZkFLcUpUVk5FMzVjWWMxaDJFVFlXeXFyd2lna3pNVzR5ZkY5aklVbkhPcEtLRm8?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $75,000 in November?",
+      "question": "Will Bitcoin reach $78,000 November 2-8?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-november-2026",
-      "yes": 88,
-      "change24h": 36,
-      "vol24h": 216270,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-78k-november-2-8-2026-from-november-5",
+      "yes": 17,
+      "change24h": -25,
+      "vol24h": 14530,
       "headlines": [
         {
-          "title": "H2H, prediction of Claire Liu vs Alexandra Shubladze in Hong Kong with odds, preview, pick | 7th November 2026",
+          "title": "H2H, prediction of Magda Linette vs Anastasia Zakharova in Chennai with odds, preview, pick | 7th November 2026",
           "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzY3VjVKWHhiY19DWVZYOUVsMmJBMV9MLWNlTGpEYW11SkxQTVRyRENYT0hiRzJvVEJheUwwSldGakJyRVVHV0FvcGRzVlR2WGtSd1FjUk9obXhuVUFHWE9OSW14YzFNRXNpUk9fbUNockN2MGp1eG40Q21tSnEwNnB2Vy1yOFhvelM4ZWJhYWkwVGxESkY1MVRrU2dGakwyX1Q3Nm5WWDZpRlQyWUZ6Y3MwaXhRRDF5YjFXMlFCWW9XNXBWODB4ZXJaNGc2NFhCZXhhenB0ZzROMHJtS3N3dkRCRlM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORDRBYXRWOURrS0lqeGJlanAwSFl6Y3h6cG5WSWREQjVFVVppeGNvVC1wRjUwT1o0akg3Q1p0cVE5cWRMUF8yV3NGbE9LYWowcGx3QVNsTnp5X1RJcUVWZzRuNzdBSExCN3ExZDZBU3RuSHZvSUVCWWs2dEIwVHI2aGFTd0szMlBVMFh4QjNnSVN1MlctM1JXbHlNeUYyUWVjQXBaQTB3cEVqTmhrbmlEOUNpOFFUNUxvX2QtRU8yMlhwTWplX1VfQVo1ckF0LU85TkdOTHM2ejNHQjF3S0NmbFZuTzA3Zw?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "H2H, prediction of Jan Kumstat vs Yuta Shimizu in Taipei Challenger with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3R0akRuOFMwbFNMZW91V2JsT3pDTU02RHhFYmQ5cHN1REZkRVJLb3ZacjZ5ZTE3VmJfU0t4cGRQQW9MZkZDZ1FZaG5LRVZSWlloM0JUWHEwbFlCbUFORlgxNHNqYXRhWUV6SmZPYV8tVGZJMWFzOXB6bHJaaHFOcGMzS2V3WmVjTGZxU00tYWFOWm9SWjF1ZTNVbWN3MW95Q01DZDBMd0ozb2s5UlVGTTY1SHBLMXdzZkFLcUpUVk5FMzVjWWMxaDJFVFlXeXFyd2lna3pNVzR5ZkY5aklVbkhPcEtLRm8?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,200 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-in-november-2026",
-      "yes": 87,
-      "change24h": 36,
-      "vol24h": 60355,
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 77,
+      "change24h": 13,
+      "vol24h": 940188,
       "headlines": [
         {
-          "title": "H2H, prediction of Claire Liu vs Alexandra Shubladze in Hong Kong with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzY3VjVKWHhiY19DWVZYOUVsMmJBMV9MLWNlTGpEYW11SkxQTVRyRENYT0hiRzJvVEJheUwwSldGakJyRVVHV0FvcGRzVlR2WGtSd1FjUk9obXhuVUFHWE9OSW14YzFNRXNpUk9fbUNockN2MGp1eG40Q21tSnEwNnB2Vy1yOFhvelM4ZWJhYWkwVGxESkY1MVRrU2dGakwyX1Q3Nm5WWDZpRlQyWUZ6Y3MwaXhRRDF5YjFXMlFCWW9XNXBWODB4ZXJaNGc2NFhCZXhhenB0ZzROMHJtS3N3dkRCRlM?oc=5",
-          "cat": "Tennis"
+          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "H2H, prediction of Jan Kumstat vs Yuta Shimizu in Taipei Challenger with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3R0akRuOFMwbFNMZW91V2JsT3pDTU02RHhFYmQ5cHN1REZkRVJLb3ZacjZ5ZTE3VmJfU0t4cGRQQW9MZkZDZ1FZaG5LRVZSWlloM0JUWHEwbFlCbUFORlgxNHNqYXRhWUV6SmZPYV8tVGZJMWFzOXB6bHJaaHFOcGMzS2V3WmVjTGZxU00tYWFOWm9SWjF1ZTNVbWN3MW95Q01DZDBMd0ozb2s5UlVGTTY1SHBLMXdzZkFLcUpUVk5FMzVjWWMxaDJFVFlXeXFyd2lna3pNVzR5ZkY5aklVbkhPcEtLRm8?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2027-meeting",
-      "yes": 35,
-      "change24h": -17,
-      "vol24h": 14541,
-      "headlines": [
-        {
-          "title": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3ZZR3JMbllUMFZ5bWxkRGhDYmlCN244OENvcGxmWlB0M001TzdCZkpfZTRtU25XdU8zbm8wUGdfeW5NblZwSlJCVGN1V0dCY2ozakNMekJ2U3I0elZfTlUwSC1vYjhTaC1hNHI2dzdKdUt1aWhIU0FYS25EOF9aTXBTWnJNbzJuNWtLeHhUWUpCYkhGdmZLRDZMUno4SlZUd042QkN5M19IUVNqclNhOW1ZQl9INHFiUVpDZHFYVQ?oc=5",
+          "title": "October CPI Forecasts Show Inflation Softening, but December Rate Hike Still Looks Likely",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFBCOGtkQkJnOEl3ZVJrREZlSzhYRVBGSWJuaERjY3RNYjlQTklQNGdVV3h0RU94YlN2U09nZnZLUVliUUEzWXU2RVhlOVpUVlNsMTV1U1BIYnRrc1dfamxtTEdMME9wNFRHb3RROFVNZ2E2aTBBMzJqSkV1V05Oanh2ZzJhWlNnSVh0cjBSSklfSEllNklybXJBQkxXeDBhcXRsck0tUEhqZUJpRFBWMTFhUmMwNzZPRU4zaQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will 1 Fed rate hike happen in 2026?",
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 32,
-      "change24h": 10,
-      "vol24h": 22407,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 21,
+      "change24h": -13,
+      "vol24h": 288360,
       "headlines": [
         {
-          "title": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3ZZR3JMbllUMFZ5bWxkRGhDYmlCN244OENvcGxmWlB0M001TzdCZkpfZTRtU25XdU8zbm8wUGdfeW5NblZwSlJCVGN1V0dCY2ozakNMekJ2U3I0elZfTlUwSC1vYjhTaC1hNHI2dzdKdUt1aWhIU0FYS25EOF9aTXBTWnJNbzJuNWtLeHhUWUpCYkhGdmZLRDZMUno4SlZUd042QkN5M19IUVNqclNhOW1ZQl9INHFiUVpDZHFYVQ?oc=5",
+          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "October CPI Forecasts Show Inflation Softening, but December Rate Hike Still Looks Likely",
+          "source": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFBCOGtkQkJnOEl3ZVJrREZlSzhYRVBGSWJuaERjY3RNYjlQTklQNGdVV3h0RU94YlN2U09nZnZLUVliUUEzWXU2RVhlOVpUVlNsMTV1U1BIYnRrc1dfamxtTEdMME9wNFRHb3RROFVNZ2E2aTBBMzJqSkV1V05Oanh2ZzJhWlNnSVh0cjBSSklfSEllNklybXJBQkxXeDBhcXRsck0tUEhqZUJpRFBWMTFhUmMwNzZPRU4zaQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will 2 Fed rate hikes happen in 2026?",
+      "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-2-fed-rate-hikes-happen-in-2026-20260623190852891",
-      "yes": 68,
-      "change24h": -10,
-      "vol24h": 12988,
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 77,
+      "change24h": 13,
+      "vol24h": 68496,
       "headlines": [
         {
-          "title": "Stable Labor Market to Keep Fed on Track to Raise Rates Gradually",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3ZZR3JMbllUMFZ5bWxkRGhDYmlCN244OENvcGxmWlB0M001TzdCZkpfZTRtU25XdU8zbm8wUGdfeW5NblZwSlJCVGN1V0dCY2ozakNMekJ2U3I0elZfTlUwSC1vYjhTaC1hNHI2dzdKdUt1aWhIU0FYS25EOF9aTXBTWnJNbzJuNWtLeHhUWUpCYkhGdmZLRDZMUno4SlZUd042QkN5M19IUVNqclNhOW1ZQl9INHFiUVpDZHFYVQ?oc=5",
+          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Prudential Hong Kong Tennis Open: Antonia Ruzic vs Alexandra Eala",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-ruzic-eala-2026-11-06",
-      "yes": 26,
-      "change24h": 0,
-      "vol24h": 185387,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Claire Liu vs Alexandra Shubladze in Hong Kong with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzY3VjVKWHhiY19DWVZYOUVsMmJBMV9MLWNlTGpEYW11SkxQTVRyRENYT0hiRzJvVEJheUwwSldGakJyRVVHV0FvcGRzVlR2WGtSd1FjUk9obXhuVUFHWE9OSW14YzFNRXNpUk9fbUNockN2MGp1eG40Q21tSnEwNnB2Vy1yOFhvelM4ZWJhYWkwVGxESkY1MVRrU2dGakwyX1Q3Nm5WWDZpRlQyWUZ6Y3MwaXhRRDF5YjFXMlFCWW9XNXBWODB4ZXJaNGc2NFhCZXhhenB0ZzROMHJtS3N3dkRCRlM?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 0,
-      "vol24h": 13473,
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 1,
+      "vol24h": 18053,
       "headlines": [
         {
-          "title": "How brotherly love, and some s— talk, made Luka Dončić feel at home with the Lakers",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmtiV1RlX2hpU3p4TldnZHQ3OXFpWGxKeGwwcGExZDhoLXJKMG5QdlBUNjBYT25MRENoOFBfR0k2STBJQ0pPeTcyWm1MYUZBbllTbmpsMFlJQmpjM3RPNXFLNWUyMldCZVo5dGc5YzU2ZnV6YUZwbGxHSzFsRlJxaHdlMWtueE1wa2YxUmtBU1plTnA4X0E?oc=5",
+          "title": "Warriors' Kristaps Porziņģis stepping away from basketball to deal with ongoing health issues",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWG9CSWlOMk1EM3BVaTVqTVdZTl9ib090bHAyOVN5NldzbUpjeTgzcHBKN2dSWWV5SVFxMjFxc1RWWm9jZ1RER0pUdVNFbU9fZ3l0WTh0XzI3U3JSU2N1RkRmQ3VXYmNfUVF4STNUcW1sTUFjenhQc25KVlp4VExGVGR6M2xwckVqN3NXd0JRelBnTk5udG50VUxqb0lZRnEt?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Warriors' Kristaps Porzingis issues update on his health, NBA future",
+          "source": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1MyV3FnZEgtLWxuakVrN2FSUks1cVZvQjhMQ2V4b1Z5aFM5U1Zqc1dXX1NSWDA5R1NKbFdrbHlhc2JlWTNjbzBMUjM2RUlOam1sc1FSajAtdVhTUTF3RjNkYWxxTUV1QVJUcTFlYlBMcmZycFRvTm9kbVh1d2JrZUgyajJRa2JGb2J5cWpaOE1ud2t5WHZXb0ZHT21BcndiNmlYNXRza0xMRmp1RVBOdmZzdndMOU5Yb1l0R3dZbDEwWlV4WGc?oc=5",
           "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 54,
-      "change24h": 18,
-      "vol24h": 134434,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 45,
-      "change24h": 18,
-      "vol24h": 15131,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 24,
-      "change24h": -12,
-      "vol24h": 64120,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 18,
-      "change24h": 6,
-      "vol24h": 34756,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $100,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100000-by-december-31-2026-571-361-361",
-      "yes": 8,
-      "change24h": -6,
-      "vol24h": 20980,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 12,
-      "change24h": 5,
-      "vol24h": 52419,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
