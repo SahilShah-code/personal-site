@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07 18:09 UTC",
-  "net_return_pct": -0.3,
-  "realized_return_pct": -0.3,
+  "updated": "2026-11-07 21:49 UTC",
+  "net_return_pct": 3.8,
+  "realized_return_pct": 3.8,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 55.6,
-  "settled_total": 27,
+  "win_rate_pct": 57.1,
+  "settled_total": 28,
   "curve": [
     0,
     -100,
@@ -33,10 +33,18 @@
     5.6,
     2.4,
     0.3,
-    -0.3
+    -0.3,
+    3.8
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Utah wins",
+      "ticker": "KXNCAAFGAME-26NOV07BYUUTAH-UTAH",
+      "result": "yes",
+      "date": "2026-11-07",
+      "return_pct": 98.5
+    },
     {
       "title": "yes New York,yes Karl-Anthony Towns: 35+,no Karl-Anthony Towns: 12+",
       "ticker": "KXMVECROSSCATEGORY-S2026ML7R7PA5O5WTJ7CS-2O2XR2UUA",
@@ -169,13 +177,6 @@
       "result": "no",
       "date": "2026-10-17",
       "return_pct": -100
-    },
-    {
-      "title": "Ohio St. wins",
-      "ticker": "KXNCAAFGAME-26OCT17OSUIND-OSU",
-      "result": "yes",
-      "date": "2026-10-17",
-      "return_pct": 91
     }
   ]
 }
