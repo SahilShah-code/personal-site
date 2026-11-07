@@ -1,25 +1,47 @@
 {
-  "updated": "2026-11-07T17:30:45.964Z",
+  "updated": "2026-11-07T21:09:35.403Z",
   "withNews": [
     {
-      "question": "Will NVIDIA (NVDA) hit (HIGH) $200 in November?",
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvda-reach-200-in-november-2026",
-      "yes": 68,
-      "change24h": 27,
-      "vol24h": 17210,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 56,
+      "change24h": 2,
+      "vol24h": 33602,
       "headlines": [
         {
-          "title": "ATP Stockholm Open and WTA Finals 2026 Preview: Fritz, Ruud, Sabalenka and Gauff Headline a Blockbuster November",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWVxSEFIOUo4TzZ6ellWOGN4bE1HbWYtTjlfdGhZUWlqWW1OS09nTVpMQ1luelhrb21tQU0yU3pXQTd1UzJObWVyaU93alJpM1NkZ2gyRkZvZUxLTElSMERmbmFIQTc1TEo5cHRvc1lWMGFSSE1YZUpydHlqZ1ZjbnFsRlUxRVFpRzFGVGVCSVBCS0tWdm9JSjdEYW9ORnZPLU1xWTVPV0FuY3JEdUJfOGpHOXpsakxDNVctUzNSNUR3eVhmMmdrQXNEQ3lfX3RScmFzVw?oc=5",
-          "cat": "Tennis"
+          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "ATP Stockholm Open and WTA Finals 2026 Daily Schedule of Play: Sunday November 8",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFlsRHNPQkpxSW1SZjZpUTQ1Vnd5dExZVU5OeTJyR3h1R0swWlJCQlR4U0JHZEJfZTlKbDcyWFkyT2RlNU9Ga0R3eDg2b1ZJYlVqME42cktZenYzNlk0UXBqUzZ4bFd6QUNaaUpsZ3FCU0hMOFZIR0d0SkZwcXJBUHVQZzU3S2RqREpPMzJBSl9kR1RqekQwN21MaXRBeXZsMjVZcGxub3JGakNT?oc=5",
-          "cat": "Tennis"
+          "title": "Fed seen sticking to December rate hike after jobs data",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkJXSFFvWTE1ZHlObTRpejBSRHp6dkFwR0w0RC1MM1J0T2czdVVUTWJpNXVXWHFWYVNBVDdQd3ZlNW9IbTNqSkpadmN1Q2pkdmdqVUExTlI5RTlIYk9faUQ1NHJLUEdUMzVRb1JYRmRBQ1BnaHEtcXljOVBCREFwOE9ucWh2ZW94WUV3a19JcjY3aXpOWXd3?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 56,
+      "change24h": 2,
+      "vol24h": 33599,
+      "headlines": [
+        {
+          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed seen sticking to December rate hike after jobs data",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkJXSFFvWTE1ZHlObTRpejBSRHp6dkFwR0w0RC1MM1J0T2czdVVUTWJpNXVXWHFWYVNBVDdQd3ZlNW9IbTNqSkpadmN1Q2pkdmdqVUExTlI5RTlIYk9faUQ1NHJLUEdUMzVRb1JYRmRBQ1BnaHEtcXljOVBCREFwOE9ucWh2ZW94WUV3a19JcjY3aXpOWXd3?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -29,50 +51,18 @@
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
       "yes": 3,
       "change24h": -2,
-      "vol24h": 33575,
+      "vol24h": 32964,
       "headlines": [
         {
-          "title": "Fed rate call leaves stock investors watching December closely",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 52,
-      "change24h": -2,
-      "vol24h": 31924,
-      "headlines": [
-        {
-          "title": "Fed rate call leaves stock investors watching December closely",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 77,
-      "change24h": -1,
-      "vol24h": 51480,
-      "headlines": [
-        {
-          "title": "Fed rate call leaves stock investors watching December closely",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
+          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
+          "title": "Fed seen sticking to December rate hike after jobs data",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkJXSFFvWTE1ZHlObTRpejBSRHp6dkFwR0w0RC1MM1J0T2czdVVUTWJpNXVXWHFWYVNBVDdQd3ZlNW9IbTNqSkpadmN1Q2pkdmdqVUExTlI5RTlIYk9faUQ1NHJLUEdUMzVRb1JYRmRBQ1BnaHEtcXljOVBCREFwOE9ucWh2ZW94WUV3a19JcjY3aXpOWXd3?oc=5",
           "cat": "Macro"
         }
       ]
@@ -83,51 +73,57 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 22,
       "change24h": 1,
-      "vol24h": 38932,
+      "vol24h": 36306,
       "headlines": [
         {
-          "title": "Fed rate call leaves stock investors watching December closely",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
+          "title": "Fed policymakers consider rate hike after strong jobs report",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
+          "title": "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSS1FdzlCcTQ3Z3RLMEFnSzA1WGo5Tzl1bENWaWJVTFBHTFhHcDI3dGZFLXNmdHhRT3Q4UXp1UWYtUk40NlN6LWRjazZPZC0yNmZGbXhWMlRrd3QxQTFQNHVuZzUybnZValE0b0hybGdudzhDeExWZU00Tnd4SVZtYVVBYzRBZU1nWHBQanM1Q2dxV2x5MEsyeFpRMGY4cnd0SmZYd25iSHZLNVlobXB5X2hSTW1wbjdEZnhlcE9XNHh0cFBZTWpnRFVIZ0Q5VnUzbzU4LUxEdURULXhpekNoUktB?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 4,
-      "change24h": 1,
-      "vol24h": 21456,
+      "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 56296,
       "headlines": [
         {
-          "title": "The Lakers proved that the oldest lie in basketball is actually true in win over Blazers",
-          "source": "The Sporting Tribune",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVMxSXZ0V1cxRS0xNy1YcUsxd2RsMUV0NlRjc21mOUY0OGtPY2kwa21mSHFlbldSVnhPWjBKWEh6TVlIVjM4SFpoQ1VkMjMydnFKM0Nqb1k2eUhMR0t6eGpYdEtxMFc2dGtfN25xQXdPaUZCSXI2YVhobTVvYVg1OFYzWGMxSmhVUjJXYWtWb2IyQnVHQXNv?oc=5",
-          "cat": "NBA"
+          "title": "Fed policymakers consider rate hike after strong jobs report",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSS1FdzlCcTQ3Z3RLMEFnSzA1WGo5Tzl1bENWaWJVTFBHTFhHcDI3dGZFLXNmdHhRT3Q4UXp1UWYtUk40NlN6LWRjazZPZC0yNmZGbXhWMlRrd3QxQTFQNHVuZzUybnZValE0b0hybGdudzhDeExWZU00Tnd4SVZtYVVBYzRBZU1nWHBQanM1Q2dxV2x5MEsyeFpRMGY4cnd0SmZYd25iSHZLNVlobXB5X2hSTW1wbjdEZnhlcE9XNHh0cFBZTWpnRFVIZ0Q5VnUzbzU4LUxEdURULXhpekNoUktB?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Portland Trail Blazers win the 2027 NBA Finals?",
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-portland-trail-blazers-win-the-2027-nba-finals",
-      "yes": 3,
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 104138,
+      "vol24h": 55510,
       "headlines": [
         {
-          "title": "The Lakers proved that the oldest lie in basketball is actually true in win over Blazers",
-          "source": "The Sporting Tribune",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVMxSXZ0V1cxRS0xNy1YcUsxd2RsMUV0NlRjc21mOUY0OGtPY2kwa21mSHFlbldSVnhPWjBKWEh6TVlIVjM4SFpoQ1VkMjMydnFKM0Nqb1k2eUhMR0t6eGpYdEtxMFc2dGtfN25xQXdPaUZCSXI2YVhobTVvYVg1OFYzWGMxSmhVUjJXYWtWb2IyQnVHQXNv?oc=5",
-          "cat": "NBA"
+          "title": "Penn State, Pittsburgh Steelers Legend Jack Ham Hospitalized Before Nittany Lions Game",
+          "source": "Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMy1WSFNZVE5IaVhMWG9qU3liOUIyTllXU3JmbFZIZWtna1pUV1lQdTVzemNwNkhEM1ZqZzZGTk5LakhPVWlka2ZqWlFTNlUwcWpPVFp6eFNGRVlTb1lLOU91X3FoZHZfVDE5dkpsY1ZaR0VJeEI0eVg3T0ZlSG40ZUR2RkM4TXhPOVB0U3JUVExMTXBvdlF6MEJhd0ZaUDFvTXNraVRGa0hHQnRaVTZKcDRVWl9wbzB2bFRfUXBBVFRVT2dEbWtKS0Z3cw?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -137,22 +133,64 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 54784,
+      "vol24h": 54726,
       "headlines": [
         {
-          "title": "Fed rate call leaves stock investors watching December closely",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
+          "title": "Fed policymakers consider rate hike after strong jobs report",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
-          "source": "Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
+          "title": "The U.S. Economy Just Sent 2 Completely Different Signals - a Fed President Says More Rate Hikes Are Needed",
+          "source": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSS1FdzlCcTQ3Z3RLMEFnSzA1WGo5Tzl1bENWaWJVTFBHTFhHcDI3dGZFLXNmdHhRT3Q4UXp1UWYtUk40NlN6LWRjazZPZC0yNmZGbXhWMlRrd3QxQTFQNHVuZzUybnZValE0b0hybGdudzhDeExWZU00Tnd4SVZtYVVBYzRBZU1nWHBQanM1Q2dxV2x5MEsyeFpRMGY4cnd0SmZYd25iSHZLNVlobXB5X2hSTW1wbjdEZnhlcE9XNHh0cFBZTWpnRFVIZ0Q5VnUzbzU4LUxEdURULXhpekNoUktB?oc=5",
           "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 52728,
+      "headlines": [
+        {
+          "title": "How to watch Nuggets vs Pacers: Live stream NBA Basketball, TV channel",
+          "source": "The Big Lead",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZzFHQVhXeVRhd2xtTzZ6cFp6V3g4UDgzM1hsamU2TFVZb2trMFBEalZPM0lBajBBSzJNTkthLUFoVGFWNVhLSjJ0QkVtZzYzY0xuZU9lTy00QWNlS1JTMHNsRTNhbUpkWU1qbmw5U1hfalVpa2pMeEs4R1hhb3dNdDRDd1pnT1JKMHdKYjgxRkluQjZLOXhyUFRPWDI?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 34818,
+      "headlines": [
+        {
+          "title": "LeBron James has a night to forget in Cleveland: monster dunk, emotional reception, eight points",
+          "source": "MARCA",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY3N6Y0hLdEk3SjhacDJaNWc2d0xrOE0tZl9KOUE2b2hpUEpuTXNBQ2xsRGFic3hadEstNzJVNDdUYUJuQ1JidEVETFdfS3FJbWJKQ3h1eXk1YjEtNmtxRW1LVlpqVGZaR005d29qaExDeEJhX2drcV9aUUlHZlFKaDRuSjFDUkREQVplNXdVTVJWODhsajF6WVpqQkswSFpoQ1dQUEN4aFRiY25vWi1aYmRQd2xLdjk1Tk5SRU9nVTY2YjA0c0tKVnhuY2lfZnpnQjZoQmFFYk5zVjNaakxuX1M3S05rdkZDd1lrdWhsRmlreUxwTDZRZ25n0gH6AUFVX3lxTE1XM3Y5OGdrRUZVTFFTV1BNR1ZDRF94bDVxLThnWmF0Qkoxa2thUjFsVkw2RGloZVpmTmJtMVQ0SWdscnN3Qm0wM0t1Um5iZFZVdTM3VWlzdUVsN0VlM0EteklDbVNvbHNnZW9hbnl0bk9GWGRJbWdVS2I1dkJUblpOV3l3TTVNbU9Ia3NUSE5xQmlMNGFyOUVyd1hEOGUySkNwU1VZUktYOTRnbHVsaEF1cUo0eDc2V3JGM3VOdFZXT25BNG1GM2drQ2U1XzlPVi1PT3lQMFlva1dkNWl5Vnh0Szdvbm1LZHNLYTktUU1jcjF2VjgwaXZ6dkE?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "WTA Finals, Group A: Elena Rybakina vs Linda Noskova",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-rybakin-noskova-2026-11-08",
+      "yes": 51,
+      "change24h": -14,
+      "vol24h": 21205,
+      "headlines": []
+    }
+  ]
 }
