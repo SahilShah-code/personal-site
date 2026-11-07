@@ -1,47 +1,25 @@
 {
-  "updated": "2026-11-07T03:29:49.180Z",
+  "updated": "2026-11-07T11:59:59.123Z",
   "withNews": [
-    {
-      "question": "Will Ethereum dip to $2,200 November 2-8?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-november-2-8-2026",
-      "yes": 38,
-      "change24h": -34,
-      "vol24h": 16859,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Genaro Alberto Olivieri vs Federico Coria in Villa Maria Challenger with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeFNfREtaNTVCd1Vua2JBSUxNVEFiTjBvTllHNjJUejhNTlRUVmtrU1JvTHMwLXNIZ3pQRmh5SFNlWkZfU2hmemJkdFpvTXJtNUhGWVUtRExKclI0OWY3SFNGaEx4U3BSU1Y0M19kTkItbmRJYmF2bEVNRFdWdDJ3cWl3UEUyWlpWQWdwdGE4dFVxSHNvSEpWUHFhY3lzamEzd1FKZ1YydkpkLTlITWlScU1OeEZVbUl6UjA2RDlnZkNwNkRyMzBpZk9kYUVmMURlRE03WEQyc0N5VFVIX3FySmI0dFVZSGxhQjB5Zll3QTRCWTdzVDJqTHBsRWNNMEZt?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "ATP Paris Masters, WTA Chennai and Hong Kong 2026 Schedule of Play: Saturday November 7, 2026",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3BhcDRZWERQRVBnaGk2d0hRUFhqdzFsa0QyQUZQdnpxVlh0V2JOLVJKVTd6VkxGWTFiUHZhYUJyRUFPTW96TmVfbnhzalhfLTlNdXNuaFBPOERfdmVXODZUQ19VV25fbTlaX2REZWlQTEYtZ3RuSFY5OWFUczItdnJDLXRLYVdTa2d0Vm5IWXBIYUJ4MTlnb0NxemhNYXp6SDFZU0UtcmlWekZiN0lxUTQ4R0hCSkRTRzQ0?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
     {
       "question": "Will Bitcoin reach $78,000 November 2-8?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-78k-november-2-8-2026-from-november-5",
-      "yes": 14,
+      "yes": 12,
       "change24h": -29,
-      "vol24h": 15776,
+      "vol24h": 16087,
       "headlines": [
         {
-          "title": "H2H, prediction of Genaro Alberto Olivieri vs Federico Coria in Villa Maria Challenger with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeFNfREtaNTVCd1Vua2JBSUxNVEFiTjBvTllHNjJUejhNTlRUVmtrU1JvTHMwLXNIZ3pQRmh5SFNlWkZfU2hmemJkdFpvTXJtNUhGWVUtRExKclI0OWY3SFNGaEx4U3BSU1Y0M19kTkItbmRJYmF2bEVNRFdWdDJ3cWl3UEUyWlpWQWdwdGE4dFVxSHNvSEpWUHFhY3lzamEzd1FKZ1YydkpkLTlITWlScU1OeEZVbUl6UjA2RDlnZkNwNkRyMzBpZk9kYUVmMURlRE03WEQyc0N5VFVIX3FySmI0dFVZSGxhQjB5Zll3QTRCWTdzVDJqTHBsRWNNMEZt?oc=5",
-          "cat": "Tennis"
+          "title": "Eight changes for CommBank Socceroos’ November FIFA International Window",
+          "source": "Football Australia",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2JGSVFTbHFwT2hsdURkVFdEODJrb0h1SkdWRExEX1dhek1pLVI3eW5aS0FBenFlUVVWd05SY3dLemFJelp6LW16cV90TDdkYWt4NTRRYzFUXy1nY3RXQ3VJQlNzYmdGRkRBdGZOcEg0bDdneHRzTFRGVHhCbmxGRVVMS2lEc1R1bHU5bHdCQWpVeHAzeXJsNTg2TUhjYkozYkQyX3E3STQ?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "ATP Paris Masters, WTA Chennai and Hong Kong 2026 Schedule of Play: Saturday November 7, 2026",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3BhcDRZWERQRVBnaGk2d0hRUFhqdzFsa0QyQUZQdnpxVlh0V2JOLVJKVTd6VkxGWTFiUHZhYUJyRUFPTW96TmVfbnhzalhfLTlNdXNuaFBPOERfdmVXODZUQ19VV25fbTlaX2REZWlQTEYtZ3RuSFY5OWFUczItdnJDLXRLYVdTa2d0Vm5IWXBIYUJ4MTlnb0NxemhNYXp6SDFZU0UtcmlWekZiN0lxUTQ4R0hCSkRTRzQ0?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
@@ -50,30 +28,52 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-november-2-8-2026",
       "yes": 14,
-      "change24h": -27,
-      "vol24h": 63484,
+      "change24h": -22,
+      "vol24h": 55340,
       "headlines": [
         {
-          "title": "H2H, prediction of Genaro Alberto Olivieri vs Federico Coria in Villa Maria Challenger with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeFNfREtaNTVCd1Vua2JBSUxNVEFiTjBvTllHNjJUejhNTlRUVmtrU1JvTHMwLXNIZ3pQRmh5SFNlWkZfU2hmemJkdFpvTXJtNUhGWVUtRExKclI0OWY3SFNGaEx4U3BSU1Y0M19kTkItbmRJYmF2bEVNRFdWdDJ3cWl3UEUyWlpWQWdwdGE4dFVxSHNvSEpWUHFhY3lzamEzd1FKZ1YydkpkLTlITWlScU1OeEZVbUl6UjA2RDlnZkNwNkRyMzBpZk9kYUVmMURlRE03WEQyc0N5VFVIX3FySmI0dFVZSGxhQjB5Zll3QTRCWTdzVDJqTHBsRWNNMEZt?oc=5",
-          "cat": "Tennis"
+          "title": "Eight changes for CommBank Socceroos’ November FIFA International Window",
+          "source": "Football Australia",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2JGSVFTbHFwT2hsdURkVFdEODJrb0h1SkdWRExEX1dhek1pLVI3eW5aS0FBenFlUVVWd05SY3dLemFJelp6LW16cV90TDdkYWt4NTRRYzFUXy1nY3RXQ3VJQlNzYmdGRkRBdGZOcEg0bDdneHRzTFRGVHhCbmxGRVVMS2lEc1R1bHU5bHdCQWpVeHAzeXJsNTg2TUhjYkozYkQyX3E3STQ?oc=5",
+          "cat": "World Cup"
         },
         {
-          "title": "ATP Paris Masters, WTA Chennai and Hong Kong 2026 Schedule of Play: Saturday November 7, 2026",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3BhcDRZWERQRVBnaGk2d0hRUFhqdzFsa0QyQUZQdnpxVlh0V2JOLVJKVTd6VkxGWTFiUHZhYUJyRUFPTW96TmVfbnhzalhfLTlNdXNuaFBPOERfdmVXODZUQ19VV25fbTlaX2REZWlQTEYtZ3RuSFY5OWFUczItdnJDLXRLYVdTa2d0Vm5IWXBIYUJ4MTlnb0NxemhNYXp6SDFZU0UtcmlWekZiN0lxUTQ4R0hCSkRTRzQ0?oc=5",
-          "cat": "Tennis"
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "question": "Will Ethereum dip to $2,200 November 2-8?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-november-2-8-2026",
+      "yes": 39,
+      "change24h": -21,
+      "vol24h": 18847,
+      "headlines": [
+        {
+          "title": "Eight changes for CommBank Socceroos’ November FIFA International Window",
+          "source": "Football Australia",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2JGSVFTbHFwT2hsdURkVFdEODJrb0h1SkdWRExEX1dhek1pLVI3eW5aS0FBenFlUVVWd05SY3dLemFJelp6LW16cV90TDdkYWt4NTRRYzFUXy1nY3RXQ3VJQlNzYmdGRkRBdGZOcEg0bDdneHRzTFRGVHhCbmxGRVVMS2lEc1R1bHU5bHdCQWpVeHAzeXJsNTg2TUhjYkozYkQyX3E3STQ?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 77,
-      "change24h": 11,
-      "vol24h": 713927,
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 22,
+      "change24h": -8,
+      "vol24h": 134302,
       "headlines": [
         {
           "title": "Fed policymakers consider rate hike after strong jobs report",
@@ -93,31 +93,31 @@
       "question": "Another Fed rate hike in 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 77,
-      "change24h": 11,
-      "vol24h": 49173,
+      "yes": 76,
+      "change24h": 8,
+      "vol24h": 54280,
       "headlines": [
+        {
+          "title": "FIFA Rejects Leandro Paredes' Appeal But Reduces Ban for Another Argentine Ahead of CAS Battle",
+          "source": "EssentiallySports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnlxd21jaWtuZV9rYngzUVZtbGVIcGYydXZ5VThNSDFMWnFuSW1xNmxKYlY2ZzA4MTFUWEZNU3hYd2F2azdZcG5aQ25aeDR6bWFGMEhQZFRreERmc3Z6NE83UVNTQ0JmMU1VSkRxc0ZNOHFON1FHcU83SXlybG9wSVpTUGVwYXdYNjUwREFNMl9qcUFRV2wxX0lXbHNDMjRQd3lSWktQM1ZlNXo5aGlHRjRiazBnZk41ZzUzQ3ZaLThIcGt2V0tvUXFzdHBLbVJKVy1qU3RVZ3h5ekNzcXF1c3pQTU1OYjZ1bVpV?oc=5",
+          "cat": "World Cup"
+        },
         {
           "title": "Fed policymakers consider rate hike after strong jobs report",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 22,
-      "change24h": -10,
-      "vol24h": 232278,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 77,
+      "change24h": 7,
+      "vol24h": 473215,
       "headlines": [
         {
           "title": "Fed policymakers consider rate hike after strong jobs report",
@@ -130,22 +130,6 @@
           "source": "BigGo Finance",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 1,
-      "vol24h": 21996,
-      "headlines": [
-        {
-          "title": "Warriors’ Draymond Green gets important injury update for Magic game",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDBRZTZkTlNCY3dQYXFvcnBDeG02LVRpT0tpcHpxQ05obzhwa1c2bmZaZWxpT1NPMUNiUkl1UWpkRDV0aTdzLTF1U3RoNTVPWmdGOFpMdHlFMVB0bG9UcXVBczRDTTdOV0FDNWRZQkhMdjFhTjEyWWR0MW5kcVQ5eTNhMUlFVDRPRGUyUnRfMUE?oc=5",
-          "cat": "NBA"
         }
       ]
     },
@@ -153,43 +137,47 @@
       "question": "Prudential Hong Kong Tennis Open: Maria Sakkari vs Alexandra Eala",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-sakkari-eala-2026-11-07",
-      "yes": 47,
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 17789,
+      "vol24h": 1815181,
       "headlines": [
         {
-          "title": "PREDICTION, PREVIEW, H2H: Eala, Sakkari, Liu and Shubladze to play on Centre Court on Saturday – Hong Kong Tennis Open",
+          "title": "PREDICTION, PREVIEW, H2H: Manuel La Serna, Alberto Olivieri, Kicker and Coria to play on Court 1 on Saturday – Villa Maria Challenger",
           "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTVROTTF5TjVzdXhmRGNnek5fMVk2QkVUNzktN2pNVXRoRU5lMVhfOVFWUEpLQWVFc0JJb0x4Q1pSalgwSVV1VlVTVk1NN2RkcF9UbVBLUXRIamwwY0M3S1JYOVFKVVhuclUtU3EzTzRPdWxrUFJRRDVZWm5NODhCb1JtRVcxUV95LU45cWY5eDBYUTlHU1JQZFdfYlhmZ2xoZ1ZVbTl2YjN5N3FRY25BNGZBUUhGdmQwaTBKVVlkQ29uTzVxSG4xb0YydHJMMjBQSWEyakZWemRVYmJiUF9xWFFLWmV5bkVvMXcxUg?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "H2H, prediction of Genaro Alberto Olivieri vs Federico Coria in Villa Maria Challenger with odds, preview, pick | 7th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeFNfREtaNTVCd1Vua2JBSUxNVEFiTjBvTllHNjJUejhNTlRUVmtrU1JvTHMwLXNIZ3pQRmh5SFNlWkZfU2hmemJkdFpvTXJtNUhGWVUtRExKclI0OWY3SFNGaEx4U3BSU1Y0M19kTkItbmRJYmF2bEVNRFdWdDJ3cWl3UEUyWlpWQWdwdGE4dFVxSHNvSEpWUHFhY3lzamEzd1FKZ1YydkpkLTlITWlScU1OeEZVbUl6UjA2RDlnZkNwNkRyMzBpZk9kYUVmMURlRE03WEQyc0N5VFVIX3FySmI0dFVZSGxhQjB5Zll3QTRCWTdzVDJqTHBsRWNNMEZt?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPX01NeDJUMkF3MFNqcXVGVnI4ZU5xbkJYWHZnMGRPLU53eDBYT2pFdDZJRHVYU0R1bndHV3RTRHlTT1F2NGVOMS03SFRIOTEzTjVMclFfZ0c2U1ZWczFwYVZvSWJDTlp4clZydUVKMTVRT2hKa3dlc1NUUnhuYnZRLTl1b1dKSW5EQWI2dEVEeFZuSS1LNzJseWthREk4U0VJU1AxWUpvWTlFS0xnOUdzLW5lTEY2bXdWMnQ5TFNRelRqLXFFb0Y4elVHWEM1eXJNbWRHcnM1dEx1Wkc2dVEyT2k4R3lOcnBJb3Blczl6UDZ3amgweVBrNG1KelJfQ2R2?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Prudential Hong Kong Tennis Open: Alexandra Shubladze vs Claire Liu",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-shublad-liu-2026-11-07",
-      "yes": 48,
+      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
+      "yes": 2,
       "change24h": 0,
-      "vol24h": 15036,
+      "vol24h": 39914,
       "headlines": [
         {
-          "title": "PREDICTION, PREVIEW, H2H: Eala, Sakkari, Liu and Shubladze to play on Centre Court on Saturday – Hong Kong Tennis Open",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTVROTTF5TjVzdXhmRGNnek5fMVk2QkVUNzktN2pNVXRoRU5lMVhfOVFWUEpLQWVFc0JJb0x4Q1pSalgwSVV1VlVTVk1NN2RkcF9UbVBLUXRIamwwY0M3S1JYOVFKVVhuclUtU3EzTzRPdWxrUFJRRDVZWm5NODhCb1JtRVcxUV95LU45cWY5eDBYUTlHU1JQZFdfYlhmZ2xoZ1ZVbTl2YjN5N3FRY25BNGZBUUhGdmQwaTBKVVlkQ29uTzVxSG4xb0YydHJMMjBQSWEyakZWemRVYmJiUF9xWFFLWmV5bkVvMXcxUg?oc=5",
-          "cat": "Tennis"
-        },
+          "title": "LeBron James has a rough return to Cleveland with only his 10th regular-season single-digit game",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXN5WmYxZ1BNZVFjdV9iT3JUZXYxQVp1Z1QxaV9UOXdHbkxoWG1ab1ZJQndOaVVNc0ZwWENoSVp1WHNZOEZQQ2Q0SVpxYk5ZT1ZMWnpncmNDaHZhNFZoQlIzLWpYYzFsWDNzRU82UWJ4V1dJSnBlUjJxX1I0U0R6UFY2elRBV2lzeG1iUkk0RUxRT293eEZWVS0xUmk5UkdNdmlDMFlxd3luT1l2Mjl6U2FvTC1TSURlN3lkMFo5QzFYcnh5c1JnSUpYWWhobDRIblE?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 3,
+      "change24h": 0,
+      "vol24h": 13271,
+      "headlines": [
         {
-          "title": "ATP Paris Masters, WTA Chennai and Hong Kong 2026 Schedule of Play: Saturday November 7, 2026",
-          "source": "Tennis Connected",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT3BhcDRZWERQRVBnaGk2d0hRUFhqdzFsa0QyQUZQdnpxVlh0V2JOLVJKVTd6VkxGWTFiUHZhYUJyRUFPTW96TmVfbnhzalhfLTlNdXNuaFBPOERfdmVXODZUQ19VV25fbTlaX2REZWlQTEYtZ3RuSFY5OWFUczItdnJDLXRLYVdTa2d0Vm5IWXBIYUJ4MTlnb0NxemhNYXp6SDFZU0UtcmlWekZiN0lxUTQ4R0hCSkRTRzQ0?oc=5",
-          "cat": "Tennis"
+          "title": "How will Bills hold up against Vikings’ potent, blitz-heavy defense?",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHdwQVl2TlRISms4andCSTgxcUV6Rk1NR2tCRmwxZnFLX3V4QWk3WnRPNW5nM055TXBWU2J5Mm9jczEtZkZsbmh3X0ZfRVMxLWsxWTlETGxQU1l3b3Y2ajdJeDNELXZ1b3c2UDlpcmdVQWViRzd1ZVFLbnV5VVIySlhDNzBsXzdTeVVoMzJRaVQyOUNWX2tJYmZidlZMVERHcDhFYUkwYWdBOUVV?oc=5",
+          "cat": "NFL"
         }
       ]
     }
