@@ -1,112 +1,56 @@
 {
-  "updated": "2026-11-07T11:59:59.123Z",
+  "updated": "2026-11-07T17:30:45.964Z",
   "withNews": [
     {
-      "question": "Will Bitcoin reach $78,000 November 2-8?",
+      "question": "Will NVIDIA (NVDA) hit (HIGH) $200 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-78k-november-2-8-2026-from-november-5",
-      "yes": 12,
-      "change24h": -29,
-      "vol24h": 16087,
+      "url": "https://polymarket.com/event/will-nvda-reach-200-in-november-2026",
+      "yes": 68,
+      "change24h": 27,
+      "vol24h": 17210,
       "headlines": [
         {
-          "title": "Eight changes for CommBank Socceroos’ November FIFA International Window",
-          "source": "Football Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2JGSVFTbHFwT2hsdURkVFdEODJrb0h1SkdWRExEX1dhek1pLVI3eW5aS0FBenFlUVVWd05SY3dLemFJelp6LW16cV90TDdkYWt4NTRRYzFUXy1nY3RXQ3VJQlNzYmdGRkRBdGZOcEg0bDdneHRzTFRGVHhCbmxGRVVMS2lEc1R1bHU5bHdCQWpVeHAzeXJsNTg2TUhjYkozYkQyX3E3STQ?oc=5",
-          "cat": "World Cup"
+          "title": "ATP Stockholm Open and WTA Finals 2026 Preview: Fritz, Ruud, Sabalenka and Gauff Headline a Blockbuster November",
+          "source": "Tennis Connected",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWVxSEFIOUo4TzZ6ellWOGN4bE1HbWYtTjlfdGhZUWlqWW1OS09nTVpMQ1luelhrb21tQU0yU3pXQTd1UzJObWVyaU93alJpM1NkZ2gyRkZvZUxLTElSMERmbmFIQTc1TEo5cHRvc1lWMGFSSE1YZUpydHlqZ1ZjbnFsRlUxRVFpRzFGVGVCSVBCS0tWdm9JSjdEYW9ORnZPLU1xWTVPV0FuY3JEdUJfOGpHOXpsakxDNVctUzNSNUR3eVhmMmdrQXNEQ3lfX3RScmFzVw?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
+          "title": "ATP Stockholm Open and WTA Finals 2026 Daily Schedule of Play: Sunday November 8",
+          "source": "Tennis Connected",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZFlsRHNPQkpxSW1SZjZpUTQ1Vnd5dExZVU5OeTJyR3h1R0swWlJCQlR4U0JHZEJfZTlKbDcyWFkyT2RlNU9Ga0R3eDg2b1ZJYlVqME42cktZenYzNlk0UXBqUzZ4bFd6QUNaaUpsZ3FCU0hMOFZIR0d0SkZwcXJBUHVQZzU3S2RqREpPMzJBSl9kR1RqekQwN21MaXRBeXZsMjVZcGxub3JGakNT?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $74,000 November 2-8?",
+      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-74k-november-2-8-2026",
-      "yes": 14,
-      "change24h": -22,
-      "vol24h": 55340,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+      "yes": 3,
+      "change24h": -2,
+      "vol24h": 33575,
       "headlines": [
         {
-          "title": "Eight changes for CommBank Socceroos’ November FIFA International Window",
-          "source": "Football Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2JGSVFTbHFwT2hsdURkVFdEODJrb0h1SkdWRExEX1dhek1pLVI3eW5aS0FBenFlUVVWd05SY3dLemFJelp6LW16cV90TDdkYWt4NTRRYzFUXy1nY3RXQ3VJQlNzYmdGRkRBdGZOcEg0bDdneHRzTFRGVHhCbmxGRVVMS2lEc1R1bHU5bHdCQWpVeHAzeXJsNTg2TUhjYkozYkQyX3E3STQ?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,200 November 2-8?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2200-november-2-8-2026",
-      "yes": 39,
-      "change24h": -21,
-      "vol24h": 18847,
-      "headlines": [
-        {
-          "title": "Eight changes for CommBank Socceroos’ November FIFA International Window",
-          "source": "Football Australia",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb2JGSVFTbHFwT2hsdURkVFdEODJrb0h1SkdWRExEX1dhek1pLVI3eW5aS0FBenFlUVVWd05SY3dLemFJelp6LW16cV90TDdkYWt4NTRRYzFUXy1nY3RXQ3VJQlNzYmdGRkRBdGZOcEg0bDdneHRzTFRGVHhCbmxGRVVMS2lEc1R1bHU5bHdCQWpVeHAzeXJsNTg2TUhjYkozYkQyX3E3STQ?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 22,
-      "change24h": -8,
-      "vol24h": 134302,
-      "headlines": [
-        {
-          "title": "Fed policymakers consider rate hike after strong jobs report",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
+          "title": "Fed rate call leaves stock investors watching December closely",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 76,
-      "change24h": 8,
-      "vol24h": 54280,
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 52,
+      "change24h": -2,
+      "vol24h": 31924,
       "headlines": [
         {
-          "title": "FIFA Rejects Leandro Paredes' Appeal But Reduces Ban for Another Argentine Ahead of CAS Battle",
-          "source": "EssentiallySports",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdnlxd21jaWtuZV9rYngzUVZtbGVIcGYydXZ5VThNSDFMWnFuSW1xNmxKYlY2ZzA4MTFUWEZNU3hYd2F2azdZcG5aQ25aeDR6bWFGMEhQZFRreERmc3Z6NE83UVNTQ0JmMU1VSkRxc0ZNOHFON1FHcU83SXlybG9wSVpTUGVwYXdYNjUwREFNMl9qcUFRV2wxX0lXbHNDMjRQd3lSWktQM1ZlNXo5aGlHRjRiazBnZk41ZzUzQ3ZaLThIcGt2V0tvUXFzdHBLbVJKVy1qU3RVZ3h5ekNzcXF1c3pQTU1OYjZ1bVpV?oc=5",
-          "cat": "World Cup"
-        },
-        {
-          "title": "Fed policymakers consider rate hike after strong jobs report",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+          "title": "Fed rate call leaves stock investors watching December closely",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -116,68 +60,96 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 77,
-      "change24h": 7,
-      "vol24h": 473215,
+      "change24h": -1,
+      "vol24h": 51480,
       "headlines": [
         {
-          "title": "Fed policymakers consider rate hike after strong jobs report",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+          "title": "Fed rate call leaves stock investors watching December closely",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
+          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Prudential Hong Kong Tennis Open: Maria Sakkari vs Alexandra Eala",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-sakkari-eala-2026-11-07",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 1815181,
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 22,
+      "change24h": 1,
+      "vol24h": 38932,
       "headlines": [
         {
-          "title": "PREDICTION, PREVIEW, H2H: Manuel La Serna, Alberto Olivieri, Kicker and Coria to play on Court 1 on Saturday – Villa Maria Challenger",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPX01NeDJUMkF3MFNqcXVGVnI4ZU5xbkJYWHZnMGRPLU53eDBYT2pFdDZJRHVYU0R1bndHV3RTRHlTT1F2NGVOMS03SFRIOTEzTjVMclFfZ0c2U1ZWczFwYVZvSWJDTlp4clZydUVKMTVRT2hKa3dlc1NUUnhuYnZRLTl1b1dKSW5EQWI2dEVEeFZuSS1LNzJseWthREk4U0VJU1AxWUpvWTlFS0xnOUdzLW5lTEY2bXdWMnQ5TFNRelRqLXFFb0Y4elVHWEM1eXJNbWRHcnM1dEx1Wkc2dVEyT2k4R3lOcnBJb3Blczl6UDZ3amgweVBrNG1KelJfQ2R2?oc=5",
-          "cat": "Tennis"
+          "title": "Fed rate call leaves stock investors watching December closely",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Cleveland Cavaliers win the 2027 NBA Finals?",
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-cleveland-cavaliers-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 39914,
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 21456,
       "headlines": [
         {
-          "title": "LeBron James has a rough return to Cleveland with only his 10th regular-season single-digit game",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXN5WmYxZ1BNZVFjdV9iT3JUZXYxQVp1Z1QxaV9UOXdHbkxoWG1ab1ZJQndOaVVNc0ZwWENoSVp1WHNZOEZQQ2Q0SVpxYk5ZT1ZMWnpncmNDaHZhNFZoQlIzLWpYYzFsWDNzRU82UWJ4V1dJSnBlUjJxX1I0U0R6UFY2elRBV2lzeG1iUkk0RUxRT293eEZWVS0xUmk5UkdNdmlDMFlxd3luT1l2Mjl6U2FvTC1TSURlN3lkMFo5QzFYcnh5c1JnSUpYWWhobDRIblE?oc=5",
+          "title": "The Lakers proved that the oldest lie in basketball is actually true in win over Blazers",
+          "source": "The Sporting Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVMxSXZ0V1cxRS0xNy1YcUsxd2RsMUV0NlRjc21mOUY0OGtPY2kwa21mSHFlbldSVnhPWjBKWEh6TVlIVjM4SFpoQ1VkMjMydnFKM0Nqb1k2eUhMR0t6eGpYdEtxMFc2dGtfN25xQXdPaUZCSXI2YVhobTVvYVg1OFYzWGMxSmhVUjJXYWtWb2IyQnVHQXNv?oc=5",
           "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "question": "Will Portland Trail Blazers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-portland-trail-blazers-win-the-2027-nba-finals",
       "yes": 3,
       "change24h": 0,
-      "vol24h": 13271,
+      "vol24h": 104138,
       "headlines": [
         {
-          "title": "How will Bills hold up against Vikings’ potent, blitz-heavy defense?",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcHdwQVl2TlRISms4andCSTgxcUV6Rk1NR2tCRmwxZnFLX3V4QWk3WnRPNW5nM055TXBWU2J5Mm9jczEtZkZsbmh3X0ZfRVMxLWsxWTlETGxQU1l3b3Y2ajdJeDNELXZ1b3c2UDlpcmdVQWViRzd1ZVFLbnV5VVIySlhDNzBsXzdTeVVoMzJRaVQyOUNWX2tJYmZidlZMVERHcDhFYUkwYWdBOUVV?oc=5",
-          "cat": "NFL"
+          "title": "The Lakers proved that the oldest lie in basketball is actually true in win over Blazers",
+          "source": "The Sporting Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVMxSXZ0V1cxRS0xNy1YcUsxd2RsMUV0NlRjc21mOUY0OGtPY2kwa21mSHFlbldSVnhPWjBKWEh6TVlIVjM4SFpoQ1VkMjMydnFKM0Nqb1k2eUhMR0t6eGpYdEtxMFc2dGtfN25xQXdPaUZCSXI2YVhobTVvYVg1OFYzWGMxSmhVUjJXYWtWb2IyQnVHQXNv?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 54784,
+      "headlines": [
+        {
+          "title": "Fed rate call leaves stock investors watching December closely",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTHZoMFAyRFJZbWRFTVozY2M5bjBhRGJ1NnhpbkhqQy1TS3lHRG9UN3NtV09wTXZiV01hYk9WZWwxM3JfVTEwWVRGSnRpek5aMDJIZzVadGljZHNSblh2SlQ4eEVLblU0YVlrQ3JNVUlOTl84ZWhjeXc3SmxMeXZNVEpNeDBFUlpacnU2VkRFRQ?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "The Midterms Give the Fed More Room to Raise Rates, But Maybe Less Reason to Do So",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUJJZmJHbjdVZk5lVlRuSTJveXNyWHd1NmY4ZXBpZWlDQ1dwSTBvRF80Z1VqWnJ2d0dTcW4wam9UN2VVU0VYNGowVXNMU2R5c0hNY3ZvZW5NWGNISkEyUGplcjdJZ2tRV2ZmOThTTFlqZ1lWUUJ0aVp2TGtia18tV0xCWVMzSXpXOTJWSlE3NmEwRVNlaHJkS3pJRlJTQnJfOHFxLWt0MzAybTVrUGpwdlJVUjlIVDZJbDFtY1luV2Y?oc=5",
+          "cat": "Macro"
         }
       ]
     }
