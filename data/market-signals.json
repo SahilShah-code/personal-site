@@ -1,85 +1,135 @@
 {
-  "updated": "2026-11-08T12:19:48.168Z",
+  "updated": "2026-11-08T21:25:41.159Z",
   "withNews": [
     {
-      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
-      "yes": 4,
-      "change24h": 1,
-      "vol24h": 33430,
+      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+      "yes": 78,
+      "change24h": 4,
+      "vol24h": 24005,
       "headlines": [
         {
-          "title": "Wife of fan ejected from Lakers-Kings game breaks silence on Luka Doncic confrontation",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanBrLWdPbzBpZ1dreElKcTlENndiV2c3amlUX0pWNEFSd2V4bFlKSjc5MXJYQUhXLWliQWk1X3AwUllRVXgxcDlibzZMeFlEU28tWmQxb0duamEyS1JtdFdTS1JWMTMya3kwRjB4OVpZM0RzT3RzOFVtMVNHRDBFbTFTZHk?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will no Fed rate cuts happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-no-fed-rate-cuts-happen-in-2026",
-      "yes": 98,
-      "change24h": 1,
-      "vol24h": 14988,
-      "headlines": [
+          "title": "Sweet: October Jobs Growth That Is “Clearly Accelerating” Paves Way for Fed to Move",
+          "source": "Kathleen Hays Presents: Central Bank Central",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tcm1TZEtRY0NZQVJkU3Y0V1QyeW1STll2S0RlVktrNGhOZ2Z6SFZPZ25xWEF3UXJ4bjVxck5pcmpuSzhQdXZ2ZGo5eG5ndXdrYWhhOHRUZXJqdHoyajlGV3VGUl8ycGlhVERLRUhMdkthUGpQR2lDbw?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "US Inflation Report Becomes Next Test for Fed Rate Hike After 165,000 Jobs Added in October",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2NGWWpEWTdKaUFnMmZFWVlKaGVDbW40Q2NLYVlvcmFCOU5JdGJGRERuZDE3cjlkcXNSRnI1eDE0cHVHVnJEd1c2TkN1SGs3SFdUSjctWWdKY3VPWGVDWXNsRkVxT3lfdTdTRWtFeDZCQ2dzX3RsVkdfNjVldzVkVGlLQ3UyUnNjVUQtZ3N0cy1TSDYwSWlELWxYVXNlWUtaV1puU1V4OGlnQ0ZPZ2M5M1BLQWhLVFdlRG00?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed policymakers consider rate hike after strong jobs report",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS1wX3hkLXhCY2VjbEllaUtPQnN5T2xfcVFNUUl5bjBWdHBLelJrUlR2RnlFWkg2eC1oWFE3U3YxYlhmT3U4NjVzYy1aV3JUdU9KTUhmUS0wZEtwMEdJMGEyTHViQ2tWR1FLY2F1N1MzNlh6NWswbUNaMjVKekpmUGgyNmZacDZsMm44bnQ5djNmQlV6UnVYUzR5a3VFRjRqaHJrU1lHUUFPcmhyRmh0N0VTM3lYdkI3Zk4zOFlyQ0w2UGp0MEhYRQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
+      "question": "Will Bitcoin reach $85,000 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 29,
-      "change24h": 1,
-      "vol24h": 11129,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-november-2026",
+      "yes": 24,
+      "change24h": 2,
+      "vol24h": 61871,
       "headlines": [
         {
-          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
+          "title": "H2H, prediction of Buvaysar Gadamauri vs Ugo Blanchet in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNay1HSXZVVHBYTEtidXJXaEV1Q29PcUpZeWJYaVJ3cFl6Nm9Tbjl6alVwczBRelFUV0NQcHBNd0tISWpUZS1acVZDVGFFZkNHV1J1ZE14UE5sOXQ1Qkp1LWE0elZiQ0VaRWs0NEdPbE5hNENCUm5LM2s4NXFSYUEwMW5HOGExM0NkV25QanZ4aEJYZ0tKa3o1amNJUXZWNk5JY1NUdXJod2xwbi1Sd2JPSDdJQUFjRV81VUd2M0hOVzBnRUZEdFJPWl9Ob1c2cW9uUy0yY3hBT0lfT2JMdzFaUlFCTXNuM1ZtVDB4cjROU0t4dw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Henry Searle vs Ryan Peniston in Hersonissos 3 Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdW9Cdl8xV19nRmFndHFDa3dfSGxqNWc5MUxsTnlkYlROTFdhS3VpaGVHdFdLSWM0Zk9pdWEwSnYycGY4ZHAwRmJyR2lSTmw3TDFDckJ4Y0wycmFUTTJ3ZDZCZmotSmJCOUZ2Tmx4ZVVMTU5Mb0k2WTRKS29vNjVtQVF4LU5YczNEMzA0TWlCeE5KYUY1TnRhVVd2RmFWNDQxWk00bkNXRUhiS2VWUlVaMThlY3lhWkp5SjlqMWVjZGtRMnRwNGF1WVcxeFNEX1k1aGhOa0lQWjVQS1AycUJ3M1VKRnowS0FTNFRnclgydXVoN0E?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "yes": 20,
+      "change24h": -2,
+      "vol24h": 16532,
+      "headlines": [
+        {
+          "title": "Sweet: October Jobs Growth That Is “Clearly Accelerating” Paves Way for Fed to Move",
+          "source": "Kathleen Hays Presents: Central Bank Central",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tcm1TZEtRY0NZQVJkU3Y0V1QyeW1STll2S0RlVktrNGhOZ2Z6SFZPZ25xWEF3UXJ4bjVxck5pcmpuSzhQdXZ2ZGo5eG5ndXdrYWhhOHRUZXJqdHoyajlGV3VGUl8ycGlhVERLRUhMdkthUGpQR2lDbw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed seen sticking to December rate hike after jobs data",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkJXSFFvWTE1ZHlObTRpejBSRHp6dkFwR0w0RC1MM1J0T2czdVVUTWJpNXVXWHFWYVNBVDdQd3ZlNW9IbTNqSkpadmN1Q2pkdmdqVUExTlI5RTlIYk9faUQ1NHJLUEdUMzVRb1JYRmRBQ1BnaHEtcXljOVBCREFwOE9ucWh2ZW94WUV3a19JcjY3aXpOWXd3?oc=5",
+          "title": "US Inflation Report Becomes Next Test for Fed Rate Hike After 165,000 Jobs Added in October",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS1wX3hkLXhCY2VjbEllaUtPQnN5T2xfcVFNUUl5bjBWdHBLelJrUlR2RnlFWkg2eC1oWFE3U3YxYlhmT3U4NjVzYy1aV3JUdU9KTUhmUS0wZEtwMEdJMGEyTHViQ2tWR1FLY2F1N1MzNlh6NWswbUNaMjVKekpmUGgyNmZacDZsMm44bnQ5djNmQlV6UnVYUzR5a3VFRjRqaHJrU1lHUUFPcmhyRmh0N0VTM3lYdkI3Zk4zOFlyQ0w2UGp0MEhYRQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "question": "Will Bitcoin dip to $72,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 6,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-november-2026",
+      "yes": 60,
       "change24h": -1,
-      "vol24h": 10520,
+      "vol24h": 34788,
       "headlines": [
         {
-          "title": "St. Louis Fed President Warns Inflation Is a \"Regressive Tax\"; December Rate Hike Expectations Strengthen",
-          "source": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGSDI4NE5ES1RjamNuaW13MjN0aEY3clZwWXFXZ3k2YnctZkxhMjdPQV96ekZabFh1NTltdjdreEx6UVRwOEZEY0JaRGM2ZGQ1eUhIU2VWVExJQUZVanFLZVhkV2NOZkF0ekVkenJuZGRJREVIQXc?oc=5",
-          "cat": "Macro"
+          "title": "H2H, prediction of Buvaysar Gadamauri vs Ugo Blanchet in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNay1HSXZVVHBYTEtidXJXaEV1Q29PcUpZeWJYaVJ3cFl6Nm9Tbjl6alVwczBRelFUV0NQcHBNd0tISWpUZS1acVZDVGFFZkNHV1J1ZE14UE5sOXQ1Qkp1LWE0elZiQ0VaRWs0NEdPbE5hNENCUm5LM2s4NXFSYUEwMW5HOGExM0NkV25QanZ4aEJYZ0tKa3o1amNJUXZWNk5JY1NUdXJod2xwbi1Sd2JPSDdJQUFjRV81VUd2M0hOVzBnRUZEdFJPWl9Ob1c2cW9uUy0yY3hBT0lfT2JMdzFaUlFCTXNuM1ZtVDB4cjROU0t4dw?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Fed seen sticking to December rate hike after jobs data",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkJXSFFvWTE1ZHlObTRpejBSRHp6dkFwR0w0RC1MM1J0T2czdVVUTWJpNXVXWHFWYVNBVDdQd3ZlNW9IbTNqSkpadmN1Q2pkdmdqVUExTlI5RTlIYk9faUQ1NHJLUEdUMzVRb1JYRmRBQ1BnaHEtcXljOVBCREFwOE9ucWh2ZW94WUV3a19JcjY3aXpOWXd3?oc=5",
-          "cat": "Macro"
+          "title": "H2H, prediction of Henry Searle vs Ryan Peniston in Hersonissos 3 Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdW9Cdl8xV19nRmFndHFDa3dfSGxqNWc5MUxsTnlkYlROTFdhS3VpaGVHdFdLSWM0Zk9pdWEwSnYycGY4ZHAwRmJyR2lSTmw3TDFDckJ4Y0wycmFUTTJ3ZDZCZmotSmJCOUZ2Tmx4ZVVMTU5Mb0k2WTRKS29vNjVtQVF4LU5YczNEMzA0TWlCeE5KYUY1TnRhVVd2RmFWNDQxWk00bkNXRUhiS2VWUlVaMThlY3lhWkp5SjlqMWVjZGtRMnRwNGF1WVcxeFNEX1k1aGhOa0lQWjVQS1AycUJ3M1VKRnowS0FTNFRnclgydXVoN0E?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $75,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-november-2026-from-november-6",
+      "yes": 90,
+      "change24h": -1,
+      "vol24h": 23719,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Buvaysar Gadamauri vs Ugo Blanchet in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNay1HSXZVVHBYTEtidXJXaEV1Q29PcUpZeWJYaVJ3cFl6Nm9Tbjl6alVwczBRelFUV0NQcHBNd0tISWpUZS1acVZDVGFFZkNHV1J1ZE14UE5sOXQ1Qkp1LWE0elZiQ0VaRWs0NEdPbE5hNENCUm5LM2s4NXFSYUEwMW5HOGExM0NkV25QanZ4aEJYZ0tKa3o1amNJUXZWNk5JY1NUdXJod2xwbi1Sd2JPSDdJQUFjRV81VUd2M0hOVzBnRUZEdFJPWl9Ob1c2cW9uUy0yY3hBT0lfT2JMdzFaUlFCTXNuM1ZtVDB4cjROU0t4dw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Henry Searle vs Ryan Peniston in Hersonissos 3 Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdW9Cdl8xV19nRmFndHFDa3dfSGxqNWc5MUxsTnlkYlROTFdhS3VpaGVHdFdLSWM0Zk9pdWEwSnYycGY4ZHAwRmJyR2lSTmw3TDFDckJ4Y0wycmFUTTJ3ZDZCZmotSmJCOUZ2Tmx4ZVVMTU5Mb0k2WTRKS29vNjVtQVF4LU5YczNEMzA0TWlCeE5KYUY1TnRhVVd2RmFWNDQxWk00bkNXRUhiS2VWUlVaMThlY3lhWkp5SjlqMWVjZGtRMnRwNGF1WVcxeFNEX1k1aGhOa0lQWjVQS1AycUJ3M1VKRnowS0FTNFRnclgydXVoN0E?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "WTA Finals, Group A: Marta Kostyuk vs Linda Noskova",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-kostyuk-noskova-2026-11-08",
+      "yes": 11,
+      "change24h": 0,
+      "vol24h": 348615,
+      "headlines": [
+        {
+          "title": "Sabalenka reacts to Rybakina's withdrawal from the WTA Finals: \"I was very surprised\"",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTS0xYW9oU0lka0h1NEU2cDNXV2tKRUZNUmJXM01YTjZxZm93TDdzTUhaRnVoc05MeWtJX20wRzdQZEszM3JXUTdfd3BGN1U1UVBFczJDZkUxU05rTHk0Q0tTa3Z4bm15Q1RnREJHRHlEUVFtSWNhS0MxWmdzT1B0d2xoY2RaalNBSUE3UzUzRTA?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Elina Svitolina opens up on being coached by multi-time ATP champion at WTA Finals",
+          "source": "Tennis365",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWxfcVRSLVFkOFZsdjlnUU5jWWprdTh4SVliNGFCV3luVlpkSzBfWGNMb0hTV2dmY2RBZnRPbGp1WnRQRC1iNUtzbDJpUDh1TDFGc2o0LVdQaVptWGJqRy1zN2RvdUZUN3hSeUd1TmZnaWNnaEVSaGNGMEdFdUQ5S0oxZE0tOWVkVkN5dlFGdGh1WVNpWkxJ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -89,101 +139,19 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "yes": 22,
       "change24h": 0,
-      "vol24h": 25581,
+      "vol24h": 37133,
       "headlines": [
+        {
+          "title": "Sweet: October Jobs Growth That Is “Clearly Accelerating” Paves Way for Fed to Move",
+          "source": "Kathleen Hays Presents: Central Bank Central",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tcm1TZEtRY0NZQVJkU3Y0V1QyeW1STll2S0RlVktrNGhOZ2Z6SFZPZ25xWEF3UXJ4bjVxck5pcmpuSzhQdXZ2ZGo5eG5ndXdrYWhhOHRUZXJqdHoyajlGV3VGUl8ycGlhVERLRUhMdkthUGpQR2lDbw?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "US Inflation Report Becomes Next Test for Fed Rate Hike After 165,000 Jobs Added in October",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2NGWWpEWTdKaUFnMmZFWVlKaGVDbW40Q2NLYVlvcmFCOU5JdGJGRERuZDE3cjlkcXNSRnI1eDE0cHVHVnJEd1c2TkN1SGs3SFdUSjctWWdKY3VPWGVDWXNsRkVxT3lfdTdTRWtFeDZCQ2dzX3RsVkdfNjVldzVkVGlLQ3UyUnNjVUQtZ3N0cy1TSDYwSWlELWxYVXNlWUtaV1puU1V4OGlnQ0ZPZ2M5M1BLQWhLVFdlRG00?oc=5",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS1wX3hkLXhCY2VjbEllaUtPQnN5T2xfcVFNUUl5bjBWdHBLelJrUlR2RnlFWkg2eC1oWFE3U3YxYlhmT3U4NjVzYy1aV3JUdU9KTUhmUS0wZEtwMEdJMGEyTHViQ2tWR1FLY2F1N1MzNlh6NWswbUNaMjVKekpmUGgyNmZacDZsMm44bnQ5djNmQlV6UnVYUzR5a3VFRjRqaHJrU1lHUUFPcmhyRmh0N0VTM3lYdkI3Zk4zOFlyQ0w2UGp0MEhYRQ?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Fed policymakers consider rate hike after strong jobs report",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 22321,
-      "headlines": [
-        {
-          "title": "US Inflation Report Becomes Next Test for Fed Rate Hike After 165,000 Jobs Added in October",
-          "source": "Coinpaper",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ2NGWWpEWTdKaUFnMmZFWVlKaGVDbW40Q2NLYVlvcmFCOU5JdGJGRERuZDE3cjlkcXNSRnI1eDE0cHVHVnJEd1c2TkN1SGs3SFdUSjctWWdKY3VPWGVDWXNsRkVxT3lfdTdTRWtFeDZCQ2dzX3RsVkdfNjVldzVkVGlLQ3UyUnNjVUQtZ3N0cy1TSDYwSWlELWxYVXNlWUtaV1puU1V4OGlnQ0ZPZ2M5M1BLQWhLVFdlRG00?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed policymakers consider rate hike after strong jobs report",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "WTA Finals, Group A: Marta Kostyuk vs Linda Noskova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-kostyuk-noskova-2026-11-08",
-      "yes": 44,
-      "change24h": 0,
-      "vol24h": 21523,
-      "headlines": [
-        {
-          "title": "WTA Finals: Rybakina Becomes Seventh World No. 1 to Withdraw",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmJ3SDlMWEdnNWNvUWcyS1RIbmRzSGVOMXpMdjVNVXNrdHh2cEZfYWxpRndTOU1JYmQtS3FmNkFjM0FaQzQ1SWVnRXRwaUxRekNrdEFON1FMdXZ3VXRUb0dRSmVWLWJuOFJmNGxOaFFtVjc0dF9wdGFJTlE2N1JnTlhETEhKSEhBMnRzR3FGVmY?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "'Not physically ready' - World No. 1 Rybakina pulls out of WTA Finals",
-          "source": "TNT Sports",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcGhfeTJlaTc2OUZ0N0xJNHpBX1lLN25DTVg4NHkxelFTZFFrV0JRUG5VbmlyamE1Q1IzYmM1V19VdGNEcmVKZ0tPbmxmRmZiVWwzajBMRHNzZEdtMWp0RHlObzAwVjdXeU5IRG1rLXhpYmpRaFdFczlUblVONEw1VU1CaFFmWDRjd0RNaW1mQl85WmxVZWFwLUtQSU1WZ1ptQ2hEbUlfd2UwbkdKRVcyZUMtUFBWMzhpTXB3a2xNYlkxSkJWZ0U0ZjIwSzZQRU9leTZ6bXdoeENxMURYUjlaTlVn?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $100,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-100k-in-november-2026",
-      "yes": 1,
-      "change24h": 0,
-      "vol24h": 19067,
-      "headlines": [
-        {
-          "title": "The Week That Was, The Week Ahead: Macro and Markets, November 8",
-          "source": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM3hrbDVsNVBKRGs3elhoelRpX1B4bHpqZmxPQWpvbE44MHNqRnBCZk0ydXJsYU42a2dEQkxjenlmT3RsRF9YbGdqT1ppQ1l5V2h2RnA1N2Nlamw2aGxnUHRlc25TeWdrYUJDZms0SnVVS0pvWlVBU3lmSk04RkMwNVVsSFJaNmFLdE9ZelRNMUtZbE1lTkE?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 17053,
-      "headlines": [
-        {
-          "title": "‘Ridiculous Company Already,’ ‘Wrap This ROTY Race Up’ — Basketball Fans React To Warriors Rookie Yaxel Lendeborg Tying Michael Jordan’s Historic Pace",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWDB1X3FRcWtTMW1SSzNqRW5xb3gtNnBaMXRTVzJCa096N0NEa2tJZkwxajFyc2FLMlR1OW15Rk5hd3EwaWdnOGpZSXF6Zm1EWGNoYnUyRnc0emJyVjJuNkJPLTZfcmxMby0xSmkyWGdYR3dFQWNHOU1leUhwZFlBektmcm5iS0Q4WFVnNG9R?oc=5",
-          "cat": "NBA"
         }
       ]
     },
@@ -193,13 +161,19 @@
       "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
       "yes": 22,
       "change24h": 0,
-      "vol24h": 14149,
+      "vol24h": 14741,
       "headlines": [
         {
-          "title": "Las Vegas Raiders vs. San Francisco 49ers: How to watch the NFL Week 9 game, channel, streaming info and more",
+          "title": "Spurs in 'great spot' after winning eight straight following 0-2 start to season",
+          "source": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1icWE2dFAwbWZ6cGhIbjQyeWNVLWU2VTJMQ1d3MVc5eVBMcHhhZ2hLOEI3TWFIQmhNczFqcGVER0drOFFZeXd5NlN2MmNvODY0UFQ3RE5NeXBvQkh2NnFoeFZmWUxtZ2gwcUFEU0phTjhGc2NCZGRKM1FEelBuTUo2NWc3dWo2aHN2eHFtTDh5S0hOZ1JxeU04bkJ4c1huc0VHaTZ3?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "When Spurs cut their lottery pick for allegedly exposing himself to a female staffer",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOenItUlp2V1VnQ01iRlJRenRMTTZNMWlraW1QbDJXcGNSU0VVSTFQeWdMZTVYTGt3YzdDQnhvUl9reGhVVVBZZWNHSzFfRnNibl80N05HSWpNWVR4OTBMLVhTVHJfWXpuMEFrRU5PV0w4alVxV2RGRGctWmtHdjRJUWxpeHF5VVpxLWlSdEJqMl9uYlJmbU1Nc2RkVkJNb2Y2M0RxRkcyUW5STHBJZzlfaFJtQjEtVmhVZ0tGTm9qdnQwTVl2RURnWmRnWU5HQ3N5QUNFQVF0UHB0SW5YdEExQUtaMl9lWXNUNnJGdFN3?oc=5",
-          "cat": "NFL"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWN2WVh5b05vWFpwQ3U5VzV0aW00Nm5MQS1RaGlKdmRsSXNXRnFzdmJQZ0dvUXRCZjVKTHVlSE1ZemRnc2U3cXNBUktWa3lJb1FJYlFuYzAtQkM2RnJtai1HWXItRk85S0k0VHJ2bnZ2LTYyeG1pZHN4ZlNnZkxJeGxBSVI5Tl90?oc=5",
+          "cat": "NBA"
         }
       ]
     }
