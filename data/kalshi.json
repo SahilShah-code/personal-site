@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08 01:05 UTC",
-  "net_return_pct": 3.8,
-  "realized_return_pct": 3.8,
+  "updated": "2026-11-08 07:18 UTC",
+  "net_return_pct": -0.2,
+  "realized_return_pct": -0.2,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 57.1,
-  "settled_total": 28,
+  "win_rate_pct": 55.2,
+  "settled_total": 29,
   "curve": [
     0,
     -100,
@@ -34,10 +34,18 @@
     2.4,
     0.3,
     -0.3,
-    3.8
+    3.8,
+    -0.2
   ],
   "active": [],
   "settled": [
+    {
+      "title": "Miami (FL) wins",
+      "ticker": "KXNCAAFGAME-26NOV07MIAND-MIA",
+      "result": "no",
+      "date": "2026-11-08",
+      "return_pct": -100
+    },
     {
       "title": "Utah wins",
       "ticker": "KXNCAAFGAME-26NOV07BYUUTAH-UTAH",
@@ -170,13 +178,6 @@
       "result": "yes",
       "date": "2026-10-18",
       "return_pct": 50.1
-    },
-    {
-      "title": "Alabama wins",
-      "ticker": "KXNCAAFGAME-26OCT17ALATENN-ALA",
-      "result": "no",
-      "date": "2026-10-17",
-      "return_pct": -100
     }
   ]
 }
