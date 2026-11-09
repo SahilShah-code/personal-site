@@ -1,13 +1,95 @@
 {
-  "updated": "2026-11-08T21:25:41.159Z",
+  "updated": "2026-11-09T03:21:25.497Z",
   "withNews": [
+    {
+      "question": "WTA Finals Doubles, Group 2 (Doubles): Siniakova/Townsend vs Errani/Paolini",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-doubles-sinitow-errapao-2026-11-08",
+      "yes": 0,
+      "change24h": -72,
+      "vol24h": 24253,
+      "headlines": [
+        {
+          "title": "All Grit: Gauff Battles Past Pegula in Three at WTA Finals",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3RWVWxfZ3Z3OUJyemRpX2d1RFJfZ0RTY0VnY05JMENJdjVOcF9jdGlhRmVrN1cwRzNEdmwzY3ZBZHM5TTdKdTdkNU1aY1lNMmdXdGZzaW0wS19FQ0lJaXZKR05fZ1VUbzVjZjBLN0g2cWxaSElScjNpZFdpUkFpbElJX1RaY2c?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $2,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-in-november-2026",
+      "yes": 61,
+      "change24h": 22,
+      "vol24h": 23952,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Luca Nardi vs Alexander Ritschard in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeUZKdXQzY1Y3dHo4WGt4V1JXOTdPb0JoZ0phVWRnNGs1enZhRjBVUXdVOUwtamZ3ekZpaUp1VGdzY3dlWEIwSXFTc0YyWXBqZ2J6UmJMblZsb0pXbG1NbVRITXVvT2xPTUNoUXlHYURtZl9FX2dfX3hDZFUwNHZPMzJZaFZmeENwNjY1WElPSl9pLXJxUnhzUnl4X0pMSHBKaEZmdWpUZ00yandjRG5Zdm5TSVVnSEE1Z1VJbWdXTUpITWJNUUpLUGtSLWlFWjhRWV9QSHJsODR3a1lnOGVtUU9Hdm0taGNPOWVkc1pDci0?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Calvin Hemery vs Lucas Poullain in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ3MtZDZGcUF0bHMzeDZOU2kxalJLOHE0R0tJX0ZmMkZZZUtDdS1uQlp0TXVUWTcySzkxd005S1l0TmtCcXF2bzdjVHBqdDZjd3N0QjBCYWFUa2JiejBHbGc0U2JSN2JiWTNQem9iRkhseFRGejRHMkZiVGQyNDI1VU05d182U28wR0xyejFNeGVfMHp3bVZGSjhjQnRrYkFtWThVNnNZQjhFSndQMnJ3a2pEbTJTR3JELUdzNEFwRGFadHI2Zk1EUzFiMURnQ1RfOTFTeVNrUXRNX1d5S3JaQ1M3Z0Y5U1plOVh2OEJn?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin reach $77,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-77pt5k-in-november-2026-from-november-5",
+      "yes": 71,
+      "change24h": -11,
+      "vol24h": 18992,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Luca Nardi vs Alexander Ritschard in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeUZKdXQzY1Y3dHo4WGt4V1JXOTdPb0JoZ0phVWRnNGs1enZhRjBVUXdVOUwtamZ3ekZpaUp1VGdzY3dlWEIwSXFTc0YyWXBqZ2J6UmJMblZsb0pXbG1NbVRITXVvT2xPTUNoUXlHYURtZl9FX2dfX3hDZFUwNHZPMzJZaFZmeENwNjY1WElPSl9pLXJxUnhzUnl4X0pMSHBKaEZmdWpUZ00yandjRG5Zdm5TSVVnSEE1Z1VJbWdXTUpITWJNUUpLUGtSLWlFWjhRWV9QSHJsODR3a1lnOGVtUU9Hdm0taGNPOWVkc1pDci0?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Calvin Hemery vs Lucas Poullain in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ3MtZDZGcUF0bHMzeDZOU2kxalJLOHE0R0tJX0ZmMkZZZUtDdS1uQlp0TXVUWTcySzkxd005S1l0TmtCcXF2bzdjVHBqdDZjd3N0QjBCYWFUa2JiejBHbGc0U2JSN2JiWTNQem9iRkhseFRGejRHMkZiVGQyNDI1VU05d182U28wR0xyejFNeGVfMHp3bVZGSjhjQnRrYkFtWThVNnNZQjhFSndQMnJ3a2pEbTJTR3JELUdzNEFwRGFadHI2Zk1EUzFiMURnQ1RfOTFTeVNrUXRNX1d5S3JaQ1M3Z0Y5U1plOVh2OEJn?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2500-in-november-2026",
+      "yes": 26,
+      "change24h": -11,
+      "vol24h": 13433,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Luca Nardi vs Alexander Ritschard in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeUZKdXQzY1Y3dHo4WGt4V1JXOTdPb0JoZ0phVWRnNGs1enZhRjBVUXdVOUwtamZ3ekZpaUp1VGdzY3dlWEIwSXFTc0YyWXBqZ2J6UmJMblZsb0pXbG1NbVRITXVvT2xPTUNoUXlHYURtZl9FX2dfX3hDZFUwNHZPMzJZaFZmeENwNjY1WElPSl9pLXJxUnhzUnl4X0pMSHBKaEZmdWpUZ00yandjRG5Zdm5TSVVnSEE1Z1VJbWdXTUpITWJNUUpLUGtSLWlFWjhRWV9QSHJsODR3a1lnOGVtUU9Hdm0taGNPOWVkc1pDci0?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Calvin Hemery vs Lucas Poullain in Orleans Challenger with odds, preview, pick | 9th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ3MtZDZGcUF0bHMzeDZOU2kxalJLOHE0R0tJX0ZmMkZZZUtDdS1uQlp0TXVUWTcySzkxd005S1l0TmtCcXF2bzdjVHBqdDZjd3N0QjBCYWFUa2JiejBHbGc0U2JSN2JiWTNQem9iRkhseFRGejRHMkZiVGQyNDI1VU05d182U28wR0xyejFNeGVfMHp3bVZGSjhjQnRrYkFtWThVNnNZQjhFSndQMnJ3a2pEbTJTR3JELUdzNEFwRGFadHI2Zk1EUzFiMURnQ1RfOTFTeVNrUXRNX1d5S3JaQ1M3Z0Y5U1plOVh2OEJn?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
     {
       "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
       "yes": 78,
       "change24h": 4,
-      "vol24h": 24005,
+      "vol24h": 24083,
       "headlines": [
         {
           "title": "Sweet: October Jobs Growth That Is “Clearly Accelerating” Paves Way for Fed to Move",
@@ -16,120 +98,48 @@
           "cat": "Macro"
         },
         {
-          "title": "US Inflation Report Becomes Next Test for Fed Rate Hike After 165,000 Jobs Added in October",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS1wX3hkLXhCY2VjbEllaUtPQnN5T2xfcVFNUUl5bjBWdHBLelJrUlR2RnlFWkg2eC1oWFE3U3YxYlhmT3U4NjVzYy1aV3JUdU9KTUhmUS0wZEtwMEdJMGEyTHViQ2tWR1FLY2F1N1MzNlh6NWswbUNaMjVKekpmUGgyNmZacDZsMm44bnQ5djNmQlV6UnVYUzR5a3VFRjRqaHJrU1lHUUFPcmhyRmh0N0VTM3lYdkI3Zk4zOFlyQ0w2UGp0MEhYRQ?oc=5",
+          "title": "Fed policymakers consider rate hike after strong jobs report",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $85,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-november-2026",
-      "yes": 24,
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 14,
       "change24h": 2,
-      "vol24h": 61871,
+      "vol24h": 19327,
       "headlines": [
         {
-          "title": "H2H, prediction of Buvaysar Gadamauri vs Ugo Blanchet in Orleans Challenger with odds, preview, pick | 9th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNay1HSXZVVHBYTEtidXJXaEV1Q29PcUpZeWJYaVJ3cFl6Nm9Tbjl6alVwczBRelFUV0NQcHBNd0tISWpUZS1acVZDVGFFZkNHV1J1ZE14UE5sOXQ1Qkp1LWE0elZiQ0VaRWs0NEdPbE5hNENCUm5LM2s4NXFSYUEwMW5HOGExM0NkV25QanZ4aEJYZ0tKa3o1amNJUXZWNk5JY1NUdXJod2xwbi1Sd2JPSDdJQUFjRV81VUd2M0hOVzBnRUZEdFJPWl9Ob1c2cW9uUy0yY3hBT0lfT2JMdzFaUlFCTXNuM1ZtVDB4cjROU0t4dw?oc=5",
-          "cat": "Tennis"
+          "title": "Buccaneers vs. Bears live score updates: Latest as Bucky Irving TD has Tampa Bay back in it in Chicago",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1I5bzRackpYSjRZZVpaWEw4MEprZnZTV0k0RVNPSFAtY3RpWUF2cXhYV0FGN2VROGtIdnRVY2tydHFxNEdKS0dtem4wWTJqelRaRW1GMEpSa0V0c29EMEN4TkE0bW5PLUZXNUY0U3lpV056cDZYYVdpQ1VPQWNtZHRBNnpOLTRQcExxQzBSLWluMml5RUR0TDdvTEhfVll4aTlWa0h3dUVSYW1SQ2hOcQ?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "H2H, prediction of Henry Searle vs Ryan Peniston in Hersonissos 3 Challenger with odds, preview, pick | 9th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdW9Cdl8xV19nRmFndHFDa3dfSGxqNWc5MUxsTnlkYlROTFdhS3VpaGVHdFdLSWM0Zk9pdWEwSnYycGY4ZHAwRmJyR2lSTmw3TDFDckJ4Y0wycmFUTTJ3ZDZCZmotSmJCOUZ2Tmx4ZVVMTU5Mb0k2WTRKS29vNjVtQVF4LU5YczNEMzA0TWlCeE5KYUY1TnRhVVd2RmFWNDQxWk00bkNXRUhiS2VWUlVaMThlY3lhWkp5SjlqMWVjZGtRMnRwNGF1WVcxeFNEX1k1aGhOa0lQWjVQS1AycUJ3M1VKRnowS0FTNFRnclgydXVoN0E?oc=5",
-          "cat": "Tennis"
+          "title": "Bears vs. Buccaneers live updates: Surging Chicago backs up the hype with halftime lead",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeW5RcUxmd014dFI0aTFaUzd5OWk1WGVYU2NfUjZXLWU2QjVVWVN4LThtd1VUcGJoWUh1eEgxNWNfdHdfOXRmVml5QjVMaWVKMnlROFhNQlE1Vm5fTURGWU9JaVdWN2dzUDctZWRacUdrRzRnZU54TG1hU0dHQnp1RnJGSUpOeHhrRTBySjhSbzNNaHow?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
-      "yes": 20,
+      "question": "Will Caleb Williams win the 2026 NFL MVP?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-caleb-williams-win-the-2026-nfl-mvp",
+      "yes": 9,
       "change24h": -2,
-      "vol24h": 16532,
+      "vol24h": 8882,
       "headlines": [
         {
-          "title": "Sweet: October Jobs Growth That Is “Clearly Accelerating” Paves Way for Fed to Move",
-          "source": "Kathleen Hays Presents: Central Bank Central",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tcm1TZEtRY0NZQVJkU3Y0V1QyeW1STll2S0RlVktrNGhOZ2Z6SFZPZ25xWEF3UXJ4bjVxck5pcmpuSzhQdXZ2ZGo5eG5ndXdrYWhhOHRUZXJqdHoyajlGV3VGUl8ycGlhVERLRUhMdkthUGpQR2lDbw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "US Inflation Report Becomes Next Test for Fed Rate Hike After 165,000 Jobs Added in October",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS1wX3hkLXhCY2VjbEllaUtPQnN5T2xfcVFNUUl5bjBWdHBLelJrUlR2RnlFWkg2eC1oWFE3U3YxYlhmT3U4NjVzYy1aV3JUdU9KTUhmUS0wZEtwMEdJMGEyTHViQ2tWR1FLY2F1N1MzNlh6NWswbUNaMjVKekpmUGgyNmZacDZsMm44bnQ5djNmQlV6UnVYUzR5a3VFRjRqaHJrU1lHUUFPcmhyRmh0N0VTM3lYdkI3Zk4zOFlyQ0w2UGp0MEhYRQ?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $72,500 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-november-2026",
-      "yes": 60,
-      "change24h": -1,
-      "vol24h": 34788,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Buvaysar Gadamauri vs Ugo Blanchet in Orleans Challenger with odds, preview, pick | 9th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNay1HSXZVVHBYTEtidXJXaEV1Q29PcUpZeWJYaVJ3cFl6Nm9Tbjl6alVwczBRelFUV0NQcHBNd0tISWpUZS1acVZDVGFFZkNHV1J1ZE14UE5sOXQ1Qkp1LWE0elZiQ0VaRWs0NEdPbE5hNENCUm5LM2s4NXFSYUEwMW5HOGExM0NkV25QanZ4aEJYZ0tKa3o1amNJUXZWNk5JY1NUdXJod2xwbi1Sd2JPSDdJQUFjRV81VUd2M0hOVzBnRUZEdFJPWl9Ob1c2cW9uUy0yY3hBT0lfT2JMdzFaUlFCTXNuM1ZtVDB4cjROU0t4dw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "H2H, prediction of Henry Searle vs Ryan Peniston in Hersonissos 3 Challenger with odds, preview, pick | 9th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdW9Cdl8xV19nRmFndHFDa3dfSGxqNWc5MUxsTnlkYlROTFdhS3VpaGVHdFdLSWM0Zk9pdWEwSnYycGY4ZHAwRmJyR2lSTmw3TDFDckJ4Y0wycmFUTTJ3ZDZCZmotSmJCOUZ2Tmx4ZVVMTU5Mb0k2WTRKS29vNjVtQVF4LU5YczNEMzA0TWlCeE5KYUY1TnRhVVd2RmFWNDQxWk00bkNXRUhiS2VWUlVaMThlY3lhWkp5SjlqMWVjZGtRMnRwNGF1WVcxeFNEX1k1aGhOa0lQWjVQS1AycUJ3M1VKRnowS0FTNFRnclgydXVoN0E?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $75,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-75k-in-november-2026-from-november-6",
-      "yes": 90,
-      "change24h": -1,
-      "vol24h": 23719,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Buvaysar Gadamauri vs Ugo Blanchet in Orleans Challenger with odds, preview, pick | 9th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNay1HSXZVVHBYTEtidXJXaEV1Q29PcUpZeWJYaVJ3cFl6Nm9Tbjl6alVwczBRelFUV0NQcHBNd0tISWpUZS1acVZDVGFFZkNHV1J1ZE14UE5sOXQ1Qkp1LWE0elZiQ0VaRWs0NEdPbE5hNENCUm5LM2s4NXFSYUEwMW5HOGExM0NkV25QanZ4aEJYZ0tKa3o1amNJUXZWNk5JY1NUdXJod2xwbi1Sd2JPSDdJQUFjRV81VUd2M0hOVzBnRUZEdFJPWl9Ob1c2cW9uUy0yY3hBT0lfT2JMdzFaUlFCTXNuM1ZtVDB4cjROU0t4dw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "H2H, prediction of Henry Searle vs Ryan Peniston in Hersonissos 3 Challenger with odds, preview, pick | 9th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdW9Cdl8xV19nRmFndHFDa3dfSGxqNWc5MUxsTnlkYlROTFdhS3VpaGVHdFdLSWM0Zk9pdWEwSnYycGY4ZHAwRmJyR2lSTmw3TDFDckJ4Y0wycmFUTTJ3ZDZCZmotSmJCOUZ2Tmx4ZVVMTU5Mb0k2WTRKS29vNjVtQVF4LU5YczNEMzA0TWlCeE5KYUY1TnRhVVd2RmFWNDQxWk00bkNXRUhiS2VWUlVaMThlY3lhWkp5SjlqMWVjZGtRMnRwNGF1WVcxeFNEX1k1aGhOa0lQWjVQS1AycUJ3M1VKRnowS0FTNFRnclgydXVoN0E?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "WTA Finals, Group A: Marta Kostyuk vs Linda Noskova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-kostyuk-noskova-2026-11-08",
-      "yes": 11,
-      "change24h": 0,
-      "vol24h": 348615,
-      "headlines": [
-        {
-          "title": "Sabalenka reacts to Rybakina's withdrawal from the WTA Finals: \"I was very surprised\"",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTS0xYW9oU0lka0h1NEU2cDNXV2tKRUZNUmJXM01YTjZxZm93TDdzTUhaRnVoc05MeWtJX20wRzdQZEszM3JXUTdfd3BGN1U1UVBFczJDZkUxU05rTHk0Q0tTa3Z4bm15Q1RnREJHRHlEUVFtSWNhS0MxWmdzT1B0d2xoY2RaalNBSUE3UzUzRTA?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Elina Svitolina opens up on being coached by multi-time ATP champion at WTA Finals",
-          "source": "Tennis365",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWxfcVRSLVFkOFZsdjlnUU5jWWprdTh4SVliNGFCV3luVlpkSzBfWGNMb0hTV2dmY2RBZnRPbGp1WnRQRC1iNUtzbDJpUDh1TDFGc2o0LVdQaVptWGJqRy1zN2RvdUZUN3hSeUd1TmZnaWNnaEVSaGNGMEdFdUQ5S0oxZE0tOWVkVkN5dlFGdGh1WVNpWkxJ?oc=5",
-          "cat": "Tennis"
+          "title": "Sunday Night Football: Despite three Caleb Williams INTs, Bears lead 17-6 at halftime",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0tTZnFqV2Q5RlgwMGhNYkZ3cDlJOFhPS2toRmZScW1RRlIzUjZRRERKWDRENk5SRU5uOEEwMVhILTZjRm5Xc0liZGdBMkI5SnNSV25Sdm1CUHFwLVVFX203SjB0UHVUSnkyMndzWVhja0hpcjVJaHh0X2E0aUpPWS1JS3AxRVkySDlvcA?oc=5",
+          "cat": "NFL"
         }
       ]
     },
@@ -137,9 +147,9 @@
       "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 22,
-      "change24h": 0,
-      "vol24h": 37133,
+      "yes": 23,
+      "change24h": 1,
+      "vol24h": 82151,
       "headlines": [
         {
           "title": "Sweet: October Jobs Growth That Is “Clearly Accelerating” Paves Way for Fed to Move",
@@ -148,35 +158,99 @@
           "cat": "Macro"
         },
         {
-          "title": "US Inflation Report Becomes Next Test for Fed Rate Hike After 165,000 Jobs Added in October",
-          "source": "CryptoRank",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS1wX3hkLXhCY2VjbEllaUtPQnN5T2xfcVFNUUl5bjBWdHBLelJrUlR2RnlFWkg2eC1oWFE3U3YxYlhmT3U4NjVzYy1aV3JUdU9KTUhmUS0wZEtwMEdJMGEyTHViQ2tWR1FLY2F1N1MzNlh6NWswbUNaMjVKekpmUGgyNmZacDZsMm44bnQ5djNmQlV6UnVYUzR5a3VFRjRqaHJrU1lHUUFPcmhyRmh0N0VTM3lYdkI3Zk4zOFlyQ0w2UGp0MEhYRQ?oc=5",
+          "title": "Fed policymakers consider rate hike after strong jobs report",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
-      "yes": 22,
-      "change24h": 0,
-      "vol24h": 14741,
+      "question": "Will the Fed Hike–Pause–Pause in the next three decisions (Sep–Oct–Dec)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-hikepausepause-in-the-next-three-decisions-sepoctdec",
+      "yes": 21,
+      "change24h": -1,
+      "vol24h": 17118,
       "headlines": [
         {
-          "title": "Spurs in 'great spot' after winning eight straight following 0-2 start to season",
-          "source": "San Antonio Express-News",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1icWE2dFAwbWZ6cGhIbjQyeWNVLWU2VTJMQ1d3MVc5eVBMcHhhZ2hLOEI3TWFIQmhNczFqcGVER0drOFFZeXd5NlN2MmNvODY0UFQ3RE5NeXBvQkh2NnFoeFZmWUxtZ2gwcUFEU0phTjhGc2NCZGRKM1FEelBuTUo2NWc3dWo2aHN2eHFtTDh5S0hOZ1JxeU04bkJ4c1huc0VHaTZ3?oc=5",
+          "title": "Sweet: October Jobs Growth That Is “Clearly Accelerating” Paves Way for Fed to Move",
+          "source": "Kathleen Hays Presents: Central Bank Central",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tcm1TZEtRY0NZQVJkU3Y0V1QyeW1STll2S0RlVktrNGhOZ2Z6SFZPZ25xWEF3UXJ4bjVxck5pcmpuSzhQdXZ2ZGo5eG5ndXdrYWhhOHRUZXJqdHoyajlGV3VGUl8ycGlhVERLRUhMdkthUGpQR2lDbw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed policymakers consider rate hike after strong jobs report",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
+      "yes": 4,
+      "change24h": 1,
+      "vol24h": 11624,
+      "headlines": [
+        {
+          "title": "Buccaneers vs. Bears live score updates: Latest as Bucky Irving TD has Tampa Bay back in it in Chicago",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ1I5bzRackpYSjRZZVpaWEw4MEprZnZTV0k0RVNPSFAtY3RpWUF2cXhYV0FGN2VROGtIdnRVY2tydHFxNEdKS0dtem4wWTJqelRaRW1GMEpSa0V0c29EMEN4TkE0bW5PLUZXNUY0U3lpV056cDZYYVdpQ1VPQWNtZHRBNnpOLTRQcExxQzBSLWluMml5RUR0TDdvTEhfVll4aTlWa0h3dUVSYW1SQ2hOcQ?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will Los Angeles Lakers win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-los-angeles-lakers-win-the-2027-nba-finals",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 30582,
+      "headlines": [
+        {
+          "title": "Austin Reaves steps in for Luka Donic with 43 points in Lakers win over Pistons",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DamRYVXpieG9iRDhjZDFZQTZ3VDF4VlU3MlhqYkdXbFYyMWM4d1BXVlZqNW1HYUdlMHNqLTdKQXVIajBNY1RIVHNXUTUzQjBDM1p4UGRFNjU3S0VaZ2Q3SWo5SlhwR1BLUFlmRm1CWDdlbWJhZzVpdw?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Minnesota Timberwolves win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-minnesota-timberwolves-win-the-2027-nba-finals",
+      "yes": 6,
+      "change24h": 0,
+      "vol24h": 21400,
+      "headlines": [
+        {
+          "title": "Dosunmu, Ball lead Timberwolves past slumping Jazz, 115-100",
+          "source": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHZlRTFhcGNxb3Y2QVRDbEpOMzRvRW12LURMMndJVUhHNHhuRll1YzV3SGZHcjlQRXppaU1KamVzTTdWSkkxbVkySVFNbzItMHBYUnRfelp4c2VEV3M1d0s2VmxBLXhHVDI4OWlVTDVBLWJOLW94UlVMZ1NFR3VwUTRFRnVzR0hjbEFqbE96am5xZG0wQVRGSmJEVUtid0hNeHc?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "When Spurs cut their lottery pick for allegedly exposing himself to a female staffer",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWN2WVh5b05vWFpwQ3U5VzV0aW00Nm5MQS1RaGlKdmRsSXNXRnFzdmJQZ0dvUXRCZjVKTHVlSE1ZemRnc2U3cXNBUktWa3lJb1FJYlFuYzAtQkM2RnJtai1HWXItRk85S0k0VHJ2bnZ2LTYyeG1pZHN4ZlNnZkxJeGxBSVI5Tl90?oc=5",
+          "title": "Dosunmu, Ball lead Timberwolves past slumping Jazz, 115-100",
+          "source": "WRAL",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1NSXzVsVVNTOWJnWGQ4Mmp0VDVjV2tLTTlNcUFZV1J1a2g4RmR1NWJGSmdDdlZvZTRkTEJsaERLT3dmRU1oQlBEa3dKOW9qSjNHUGY2VHRKbXI3TEN4QlNQTUp5OHJ4NTZVVG4wSjZyNGFBMDBsVWl4WlR5d2NGaVF2SXN1Z1h4OVdQZXpYUU4xNFBmeHZaZw?oc=5",
           "cat": "NBA"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
+      "yes": 61,
+      "change24h": 5,
+      "vol24h": 14114,
+      "headlines": []
+    }
+  ]
 }
