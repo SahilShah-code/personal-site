@@ -1,161 +1,226 @@
 {
-  "updated": "2026-11-10T13:52:47.839Z",
+  "updated": "2026-11-10T22:37:02.759Z",
   "withNews": [
     {
-      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "yes": 3,
-      "change24h": -20,
-      "vol24h": 1801051,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 49,
+      "change24h": 31,
+      "vol24h": 159388,
       "headlines": [
         {
-          "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
+          "title": "Fed officials open door to quicker rate-hike pace",
+          "source": "Finance & Commerce",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVIxOHl5aE1TR1ozel9pcWpEMHk0ZGJkQ0Z4c2VCN0JoWHJ5ZW1jV0ZmYllrdE9ucXlmOXQ5Skt2bThMQ2JDRDZ1WG1aQ0ZpbFViaXpZNnFSM1RLcDdNNnVDNmpIVzFJdUtVZWcxVUhBU0NVY3pJdVE1RVM4UThBVUVWdmFORVFsTTBpM0g0bw?oc=5",
           "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Another Fed rate hike in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 96,
-      "change24h": 20,
-      "vol24h": 257334,
-      "headlines": [
-        {
-          "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 3,
-      "change24h": -20,
-      "vol24h": 37087,
-      "headlines": [
-        {
-          "title": "US Core CPI Rises by More Than Forecast, Supporting Fed Hike",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelNoMFNyY01hVzlXME5aeHpRMGpzd1NVc2pxVHlMNFFWYVdUSjdDMkZxdF9fS01fS0xxc3Z3bDN3R28tMlB5TlV2djZib0JZak84MExhcEV4emhRWGpoTURjcTAzOThSU3dqRWFMVEE3VDRjb1FTS1c1b09uU2lFMWlZdkZVWENsWjE4WVUyQTZxZ1pXTDhnTE90czBGb1E2T2o3RHk0ODkxUDZ5ZzVfdDl3?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will NVIDIA be the largest company in the world by market cap on November 30, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-november-30-2026",
-      "yes": 9,
-      "change24h": -4,
-      "vol24h": 12507,
-      "headlines": [
-        {
-          "title": "Are the Magnificent Seven stocks still worth betting on? Apple, Nvidia, Tesla and 4 other giants control 33.7% of the S&P 500, but which ones are actually rewarding investors in 2026?",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOU0NHMV8zdW94cGZWaE9fSzFxdnE5Wm83aVdEYzFDc0x6OWxnRUotMFJ5dk43cjF6V0JzZFdKQ3Zud3NHTG16Mk5RdDBIUlg1OHc1a0dLb0lNS05iVHhzSm8tUmRzYVBGVGNOOXpjVzRoRDBlVUlSeHB6VFRWUjMyRjU1UmNDTTBtdXpZOXlNNWwyNXJkUzZKekw5X3BzT0VnbnJRYjhVbzJZRnZoR05aOVRXQWFyaW8weGZJcmF4bTJXTlEyNng3RjFpMTlWOEZoNVlROEdreWNhcHRxUTFjWnlDbVdVazF2bC1iWnNGWnRsWXdDVDJybnZWUm9MUGp5aVRmMFJ0SzlPSm5rdkJfQXRCajhkRUY3ZWVBWUdwTHZkcTNaX2VadE1mT19ZN2U3X0xUeS1YZlVKREZsXzlSWFc3LVpKNTU0MHIxYkFObVJxNVVwVEtQMHVHMEhTSHczWWF3Q0VBU0htNGJR?oc=5",
-          "cat": "Markets"
         },
         {
-          "title": "S&P 500 market positioning risks ahead of CPI and NVIDIA earnings",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQk5BZnVQaEMzMEhjVGtDY3RJclB6S0dnUV94SHVDaDBwcTc3ZjNPeHQta0EyTzlOdlkydTFFUUplMC1KREFRdGRwLS0zRjNMUGZZclpIeHh0YW5URkxPc1NtSFNORlNpZEZmOFI0S3BsNTM2OHhNcXdOdHdicFJYZ3MzdEN5ZlhlMVp2RHd0c29pN1h0Vk42dmloMm1NOGw0bllsaUV3T2lUSTJTalZSd1hLUmc5bjlkczNKV2Q0M2Zpc2lB?oc=5",
-          "cat": "Markets"
+          "title": "US inflation rises more than expected, raising likelihood of Fed rate hike",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2ltTTNtR1hCQS1BYVgyckdzb3JURm5uV19xMU90b2I3V25YRGN5ZThOQzlEbERCNWlVV3RNcU1UTnBzWmNzemFOLXEwMlQ3Ni0xbGd1LUpCcktOcHNVZEFfLUJRMEQzMHQzeUx6VlVyRldyVjJTUFZCOFhtcmtzUzNsOEhkUXh0V1FMR2hwVFE1LTFVS0xheHIzbDNJQmY5QVBNYmJVeDlzYVhUNWFCd0Z3VVhDdzN6Z2c?oc=5",
+          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
-      "yes": 24,
-      "change24h": -2,
-      "vol24h": 38453,
+      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+      "yes": 51,
+      "change24h": -28,
+      "vol24h": 168525,
       "headlines": [
         {
-          "title": "Are the Magnificent Seven stocks still worth betting on? Apple, Nvidia, Tesla and 4 other giants control 33.7% of the S&P 500, but which ones are actually rewarding investors in 2026?",
-          "source": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOU0NHMV8zdW94cGZWaE9fSzFxdnE5Wm83aVdEYzFDc0x6OWxnRUotMFJ5dk43cjF6V0JzZFdKQ3Zud3NHTG16Mk5RdDBIUlg1OHc1a0dLb0lNS05iVHhzSm8tUmRzYVBGVGNOOXpjVzRoRDBlVUlSeHB6VFRWUjMyRjU1UmNDTTBtdXpZOXlNNWwyNXJkUzZKekw5X3BzT0VnbnJRYjhVbzJZRnZoR05aOVRXQWFyaW8weGZJcmF4bTJXTlEyNng3RjFpMTlWOEZoNVlROEdreWNhcHRxUTFjWnlDbVdVazF2bC1iWnNGWnRsWXdDVDJybnZWUm9MUGp5aVRmMFJ0SzlPSm5rdkJfQXRCajhkRUY3ZWVBWUdwTHZkcTNaX2VadE1mT19ZN2U3X0xUeS1YZlVKREZsXzlSWFc3LVpKNTU0MHIxYkFObVJxNVVwVEtQMHVHMEhTSHczWWF3Q0VBU0htNGJR?oc=5",
-          "cat": "Markets"
+          "title": "Fed officials open door to quicker rate-hike pace",
+          "source": "Finance & Commerce",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVIxOHl5aE1TR1ozel9pcWpEMHk0ZGJkQ0Z4c2VCN0JoWHJ5ZW1jV0ZmYllrdE9ucXlmOXQ5Skt2bThMQ2JDRDZ1WG1aQ0ZpbFViaXpZNnFSM1RLcDdNNnVDNmpIVzFJdUtVZWcxVUhBU0NVY3pJdVE1RVM4UThBVUVWdmFORVFsTTBpM0g0bw?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "S&P 500 market positioning risks ahead of CPI and NVIDIA earnings",
-          "source": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQk5BZnVQaEMzMEhjVGtDY3RJclB6S0dnUV94SHVDaDBwcTc3ZjNPeHQta0EyTzlOdlkydTFFUUplMC1KREFRdGRwLS0zRjNMUGZZclpIeHh0YW5URkxPc1NtSFNORlNpZEZmOFI0S3BsNTM2OHhNcXdOdHdicFJYZ3MzdEN5ZlhlMVp2RHd0c29pN1h0Vk42dmloMm1NOGw0bllsaUV3T2lUSTJTalZSd1hLUmc5bjlkczNKV2Q0M2Zpc2lB?oc=5",
-          "cat": "Markets"
+          "title": "US inflation rises more than expected, raising likelihood of Fed rate hike",
+          "source": "Scripps News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2ltTTNtR1hCQS1BYVgyckdzb3JURm5uV19xMU90b2I3V25YRGN5ZThOQzlEbERCNWlVV3RNcU1UTnBzWmNzemFOLXEwMlQ3Ni0xbGd1LUpCcktOcHNVZEFfLUJRMEQzMHQzeUx6VlVyRldyVjJTUFZCOFhtcmtzUzNsOEhkUXh0V1FMR2hwVFE1LTFVS0xheHIzbDNJQmY5QVBNYmJVeDlzYVhUNWFCd0Z3VVhDdzN6Z2c?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "WTA Finals, Group A: Coco Gauff vs Linda Noskova",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-gauff-noskova-2026-11-10",
+      "yes": 36,
+      "change24h": -25,
+      "vol24h": 554893,
+      "headlines": [
+        {
+          "title": "WTA Finals: Pegula Bounces Back Against Kostyuk to Keep Her Hopes Alive",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDg5MFMxNU9kVF9haGN2SkhOTG4xc3VqSDBSTzdpbS05dEZUa0I3X3hxWTUxaWlROWNxMFpsakxwRElkWmM2YWZnd21TbnI1SWRrVkhhMThEZngxYUtNOHhlYmYydWx5d1prTldobG0zbzMxWWZ1YnJKa21BNUhvUngxNWhpaFVrWC1uVDFyNG0?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "2026 WTA Finals Prize Pool Breakdown",
+          "source": "news.bet365.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDl5b3dTbDNvWGtVc19Zb1dFLURLZ0laUDdvTHJvTi1wa09ENWVJMUVFZWhyWGM3NmhsYmZQWHJsUEl4dVo5QkQ5OTlZaS1vUTJ3d0JGV1A2Wk9OdFZxdHpXbzdPNE1ndzlYZjkwQlFSbTFEQm9kS3Rmd0t3S0NVVWxDMWdfLTJOU3A0MkRpd3dwRTdQQk9tQmJB?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $72,000 November 9-15?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-november-9-15-2026",
+      "yes": 59,
+      "change24h": 23,
+      "vol24h": 21984,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Braden Shick vs Kenta Miyoshi in Knoxville Challenger with odds, preview, pick | 10th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklWakN3MnN1MDBxb2FEd1lKOVlTeERXd2cyMXROUnY5ajNKQWFrWGhQVFRpeU5aeTVwOGpsTi1KWTA3LWlKY2E2TDhTcnM2VnVrdWlONE1ZSW4za0h4MjdaTXhVbFNReklDQ0hzazVTQ1lidjEyRjFJcTJ1MWNvQ2NUUi1ibk0wRk1fYTRiWW01NEpiWGFiNTNjYjZZY1NsaHZNTURNZno1R0NnWEpJai1FTTJOaVVmTm42YzQ1YnJSRFIyMWV5MzZQZHdMRGxsY2NrM3dIdlZsVXh1RWtJM2U2aV9ELU12Uk51OTd0QQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Miomir Kecmanovic vs Holger Rune in Stockholm with odds, preview, pick | 11th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNm5qVHVST2p5cHRTanFQT1hnNEsxVU85el9kc3liODkwNWd1dmtWSWVqWk9xckhXcVl2ZEw4Nkk5SlpPTDg4TGRORkJ4SVk5eXBHV2dMOXhucG1maGNhT1Y4ZGlCQ1hPYVNSVUF5QWhnY3lnODFMY0Nmek1uM0VrN0R0R0dWT0lpdFV5d3R3b3J5OC1XS2hLSGYzcUpvX3VhVVltSmZQV0dtb09hSkNOLWtwcHNkUl9ucURPZTBjbHM4U2lpV2l0UzdtUWM4aHFvckF1SHNkNlNPa256WnZobjU5RnE?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed Pause-Hike-Pause in the next three decisions (Oct-Dec-Jan)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-pausehikepause-in-the-next-three-decisions-octdecjan",
+      "yes": 54,
+      "change24h": -23,
+      "vol24h": 12963,
+      "headlines": [
+        {
+          "title": "Fed officials open door to quicker rate-hike pace",
+          "source": "Finance & Commerce",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVIxOHl5aE1TR1ozel9pcWpEMHk0ZGJkQ0Z4c2VCN0JoWHJ5ZW1jV0ZmYllrdE9ucXlmOXQ5Skt2bThMQ2JDRDZ1WG1aQ0ZpbFViaXpZNnFSM1RLcDdNNnVDNmpIVzFJdUtVZWcxVUhBU0NVY3pJdVE1RVM4UThBVUVWdmFORVFsTTBpM0g0bw?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Interest-Rate Hike Debate Sparked by Fed's Waller, Logan After Hot Inflation",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZoTlZOa05oRHYwaUNCM1pDVHdhNnF3ajlxMzBBd1R0Z3plbEVKbm4xemxmbm1penlwS1hrY09URU4zbDZoZFlWV213ZnZkWVlseUE1U0JyeE8zQWpqcU9YVUlKbUJldG9NT21UVkpmN2F6eFlWZWtiZlhrZUZGLUFpUTRlcmdWYnduUDB5MTNOY0xFQW5TSDZfaDNac0N5VVpuUE43WTJYeEZIZTBDbFRKdw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $2,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-in-november-2026",
+      "yes": 82,
+      "change24h": 22,
+      "vol24h": 37094,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Braden Shick vs Kenta Miyoshi in Knoxville Challenger with odds, preview, pick | 10th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklWakN3MnN1MDBxb2FEd1lKOVlTeERXd2cyMXROUnY5ajNKQWFrWGhQVFRpeU5aeTVwOGpsTi1KWTA3LWlKY2E2TDhTcnM2VnVrdWlONE1ZSW4za0h4MjdaTXhVbFNReklDQ0hzazVTQ1lidjEyRjFJcTJ1MWNvQ2NUUi1ibk0wRk1fYTRiWW01NEpiWGFiNTNjYjZZY1NsaHZNTURNZno1R0NnWEpJai1FTTJOaVVmTm42YzQ1YnJSRFIyMWV5MzZQZHdMRGxsY2NrM3dIdlZsVXh1RWtJM2U2aV9ELU12Uk51OTd0QQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Miomir Kecmanovic vs Holger Rune in Stockholm with odds, preview, pick | 11th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNm5qVHVST2p5cHRTanFQT1hnNEsxVU85el9kc3liODkwNWd1dmtWSWVqWk9xckhXcVl2ZEw4Nkk5SlpPTDg4TGRORkJ4SVk5eXBHV2dMOXhucG1maGNhT1Y4ZGlCQ1hPYVNSVUF5QWhnY3lnODFMY0Nmek1uM0VrN0R0R0dWT0lpdFV5d3R3b3J5OC1XS2hLSGYzcUpvX3VhVVltSmZQV0dtb09hSkNOLWtwcHNkUl9ucURPZTBjbHM4U2lpV2l0UzdtUWM4aHFvckF1SHNkNlNPa256WnZobjU5RnE?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $72,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-november-2026",
+      "yes": 81,
+      "change24h": 17,
+      "vol24h": 34161,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Braden Shick vs Kenta Miyoshi in Knoxville Challenger with odds, preview, pick | 10th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklWakN3MnN1MDBxb2FEd1lKOVlTeERXd2cyMXROUnY5ajNKQWFrWGhQVFRpeU5aeTVwOGpsTi1KWTA3LWlKY2E2TDhTcnM2VnVrdWlONE1ZSW4za0h4MjdaTXhVbFNReklDQ0hzazVTQ1lidjEyRjFJcTJ1MWNvQ2NUUi1ibk0wRk1fYTRiWW01NEpiWGFiNTNjYjZZY1NsaHZNTURNZno1R0NnWEpJai1FTTJOaVVmTm42YzQ1YnJSRFIyMWV5MzZQZHdMRGxsY2NrM3dIdlZsVXh1RWtJM2U2aV9ELU12Uk51OTd0QQ?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Miomir Kecmanovic vs Holger Rune in Stockholm with odds, preview, pick | 11th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNm5qVHVST2p5cHRTanFQT1hnNEsxVU85el9kc3liODkwNWd1dmtWSWVqWk9xckhXcVl2ZEw4Nkk5SlpPTDg4TGRORkJ4SVk5eXBHV2dMOXhucG1maGNhT1Y4ZGlCQ1hPYVNSVUF5QWhnY3lnODFMY0Nmek1uM0VrN0R0R0dWT0lpdFV5d3R3b3J5OC1XS2hLSGYzcUpvX3VhVVltSmZQV0dtb09hSkNOLWtwcHNkUl9ucURPZTBjbHM4U2lpV2l0UzdtUWM4aHFvckF1SHNkNlNPa256WnZobjU5RnE?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 2,
+      "vol24h": 35157,
+      "headlines": [
+        {
+          "title": "Vikings bring back QB Kirk Cousins in a trade with the Raiders to lift a struggling offense",
+          "source": "Baltimore Sun",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmdrUjFtMmxPLXFPZlBfZjRmTWFMb3JQT0VhUGNoSTNrUHRWMExZU3VNcFRIM190dDVRSEZjcFdQZWpQT3c1ZUg5UF9jaVVrMm9YcGprTUVPYllwaERPVUFfcHlweDVKTm1ZRUpPZDR1dmpKRnNJTWhJcVZraE9CN0JZLXZCQS1RRzB6aWxiTEhWME50d1Z4SDNMUnhXMWxnZUF6ZEhHc0xueHdYZTFVMXNScWtqRy1zN0puN1ZKWTlxSFpFbkdRdmhTcUs?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Las Vegas Raiders win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-las-vegas-raiders-win-the-2027-nfl-league-championship",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 42826,
+      "headlines": [
+        {
+          "title": "Vikings bring back QB Kirk Cousins in a trade with the Raiders to lift a struggling offense",
+          "source": "Baltimore Sun",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmdrUjFtMmxPLXFPZlBfZjRmTWFMb3JQT0VhUGNoSTNrUHRWMExZU3VNcFRIM190dDVRSEZjcFdQZWpQT3c1ZUg5UF9jaVVrMm9YcGprTUVPYllwaERPVUFfcHlweDVKTm1ZRUpPZDR1dmpKRnNJTWhJcVZraE9CN0JZLXZCQS1RRzB6aWxiTEhWME50d1Z4SDNMUnhXMWxnZUF6ZEhHc0xueHdYZTFVMXNScWtqRy1zN0puN1ZKWTlxSFpFbkdRdmhTcUs?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 8,
+      "change24h": 0,
+      "vol24h": 12113,
+      "headlines": [
+        {
+          "title": "Colts trading WR Josh Downs to Chiefs for fourth-, fifth-round picks",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVlncDA4eFkyOWljNDVnZXhxa04xVFlkdlVlMVdBcjJ1bWI2ZnRvTFhpdzg5SU9ybTBtOVRBZ2lURkxwS180RWt4dUgxdnBkUUEzM2RqaWJYMVBEYWV4c1hyTzZOcXRkWHByeWI5WjFWS19iRW1FR3M4djR5ektHQzNxTGYtN3Z0WkE?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Monastir: Federico Bondioli vs Jonas Forejtek",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-bondiol-forejte-2026-11-09",
-      "yes": 0,
-      "change24h": -32,
-      "vol24h": 81019,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $76,000 November 9-15?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-76k-november-9-15-2026",
-      "yes": 53,
-      "change24h": -21,
-      "vol24h": 18962,
-      "headlines": []
-    },
-    {
-      "question": "Will Ethereum dip to $2,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-in-november-2026",
-      "yes": 76,
-      "change24h": 13,
-      "vol24h": 8684,
-      "headlines": []
-    },
-    {
       "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 78,
-      "change24h": 9,
-      "vol24h": 15639,
+      "yes": 84,
+      "change24h": 17,
+      "vol24h": 63045,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 67,
-      "change24h": 7,
-      "vol24h": 33089,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $72,500 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-november-2026",
-      "yes": 78,
-      "change24h": 7,
-      "vol24h": 21119,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $72,000 November 9-15?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-november-9-15-2026",
-      "yes": 56,
-      "change24h": 6,
-      "vol24h": 31894,
+      "yes": 69,
+      "change24h": 13,
+      "vol24h": 30568,
       "headlines": []
     },
     {
@@ -163,8 +228,17 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
       "yes": 17,
-      "change24h": -4,
-      "vol24h": 9830,
+      "change24h": -5,
+      "vol24h": 14786,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 23,
+      "change24h": 4,
+      "vol24h": 33508,
       "headlines": []
     }
   ]
