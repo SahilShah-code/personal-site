@@ -1,24 +1,112 @@
 {
-  "updated": "2026-11-11T13:04:41.504Z",
+  "updated": "2026-11-11T23:46:45.820Z",
   "withNews": [
+    {
+      "question": "WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-sabalen-andreev-2026-11-10",
+      "yes": 0,
+      "change24h": -50,
+      "vol24h": 988388,
+      "headlines": [
+        {
+          "title": "Svitolina Surges Past Muchova at WTA Finals",
+          "source": "Tennis Now",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ha0ZyZHkwMFVHY01lLXJTRDBvaFRLcENhaEc2UjdUQUNidGp6QXpLcGJYekMtOW5EbUp2WGVRZVYzS1JBaFdvbGpPdlJ1M0ttTnkyaVFpMkdOUFh0VEdGLW9mY21oSWlUNnlHbUxYVHlSckZu?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "WTA Finals: Svitolina bounces back, Muchova now needs Andreeva to stumble",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVpVak8yWmk3RlA5bEpveWx5elpuQ1BrZjYwUjV1Q0tYLW1BN3BWTG1nbm1RbkJ1Yk9qRWh0OTZKVUFZejhzV2lJejRidTd1S0J3YVhwZ1NtYXBvUHNXQkZ4RWVVTGJpcF9xQmIzYXBWeXFFYm1QbEN5UU9WeDh0N0hfV0ZmS2xlRld3?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will Bitcoin dip to $72,000 November 9-15?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-november-9-15-2026",
+      "yes": 44,
+      "change24h": -11,
+      "vol24h": 18864,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Pedro Martinez Portero vs Matteo Martineau in Orleans Challenger with odds, preview, pick | 12th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWVNSM1B5TFctVi1nVWRQb3JXNWNsOC1Ga1c2RDdOeEdYelRtUWRQZF9qNExBVW1YZU1XdFM4a3pCVFlpOEhfOEhLN25mQ3JWS0RUTWdTdmVtZ2xuQ3Jnd0FZeWNrS1Y2SnZGaVRfNEpMckFPYUdjbExLNTdSeTh3SnktQUhaejNDR2ljSmF5dUlUaG1EbGt3UjJTZk1HUkVRcjkwQUNVbGZubG9obWFtNWhWSzFGM0pGNjdaaWdfYWdQdUphaTdiOVhSdXNTRjJackZ0eVBwOXMzUUpTTlY5Y2pSSmtKdS1oaUctcVFfLWllWnVhQ2ppZ1gzbTlYZw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Both The S&P 500 And The Dollar Rise Sharply On November 11 - TalkMarkets",
+          "source": "Howl.Link",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNUEZmUDJDbW84RmJFZ0ltdjlKT09DT1dKcmZ3b0p4NkFob3haRHFNdHBBalJEUFJ4N1Zj?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum reach $2,200 November 9-15?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-reach-2200-november-9-15-2026",
+      "yes": 14,
+      "change24h": -10,
+      "vol24h": 12436,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Pedro Martinez Portero vs Matteo Martineau in Orleans Challenger with odds, preview, pick | 12th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWVNSM1B5TFctVi1nVWRQb3JXNWNsOC1Ga1c2RDdOeEdYelRtUWRQZF9qNExBVW1YZU1XdFM4a3pCVFlpOEhfOEhLN25mQ3JWS0RUTWdTdmVtZ2xuQ3Jnd0FZeWNrS1Y2SnZGaVRfNEpMckFPYUdjbExLNTdSeTh3SnktQUhaejNDR2ljSmF5dUlUaG1EbGt3UjJTZk1HUkVRcjkwQUNVbGZubG9obWFtNWhWSzFGM0pGNjdaaWdfYWdQdUphaTdiOVhSdXNTRjJackZ0eVBwOXMzUUpTTlY5Y2pSSmtKdS1oaUctcVFfLWllWnVhQ2ppZ1gzbTlYZw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Both The S&P 500 And The Dollar Rise Sharply On November 11 - TalkMarkets",
+          "source": "Howl.Link",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNUEZmUDJDbW84RmJFZ0ltdjlKT09DT1dKcmZ3b0p4NkFob3haRHFNdHBBalJEUFJ4N1Zj?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $72,000 on November 13?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-72k-on-november-13-2026",
+      "yes": 86,
+      "change24h": 8,
+      "vol24h": 13325,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Pedro Martinez Portero vs Matteo Martineau in Orleans Challenger with odds, preview, pick | 12th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWVNSM1B5TFctVi1nVWRQb3JXNWNsOC1Ga1c2RDdOeEdYelRtUWRQZF9qNExBVW1YZU1XdFM4a3pCVFlpOEhfOEhLN25mQ3JWS0RUTWdTdmVtZ2xuQ3Jnd0FZeWNrS1Y2SnZGaVRfNEpMckFPYUdjbExLNTdSeTh3SnktQUhaejNDR2ljSmF5dUlUaG1EbGt3UjJTZk1HUkVRcjkwQUNVbGZubG9obWFtNWhWSzFGM0pGNjdaaWdfYWdQdUphaTdiOVhSdXNTRjJackZ0eVBwOXMzUUpTTlY5Y2pSSmtKdS1oaUctcVFfLWllWnVhQ2ppZ1gzbTlYZw?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Both The S&P 500 And The Dollar Rise Sharply On November 11 - TalkMarkets",
+          "source": "Howl.Link",
+          "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNUEZmUDJDbW84RmJFZ0ltdjlKT09DT1dKcmZ3b0p4NkFob3haRHFNdHBBalJEUFJ4N1Zj?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
     {
       "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 51,
-      "change24h": 24,
-      "vol24h": 226828,
+      "yes": 54,
+      "change24h": 6,
+      "vol24h": 162666,
       "headlines": [
         {
-          "title": "Energy prices matter way more for inflation than they used to: Fed report",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUlfbV8zR0ZSSnJNTXZoM1JKZmdEYm9MVzlNa2Vybncyb3J6RWhxZUhZQVpnWF9RZ05FSEZGRkdvekU3N3otT3o3Z1NVVnkxRlpZUlFaZXBadWY5a1RQNmRiX29SalpqTF9LZmg0cTJOLXB5V1F4QTJ4RHRrNkllU2NyUzNOUXo3RVJqQlQtZDAtdHdNRWEwb3lZTlVLQ0ZBWUU5YnY3Ul81TGVuX19tWXBncFVqLUpTX2pCbzkzb2Q1Vm1od3hKOQ?oc=5",
+          "title": "Economists say Fed could go overboard on rate hikes after hot October inflation report",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDRqb2M0ckpxTENJNWhNaDNHRUpYaE9pVlI3Ri1zUDJrdkxiMGFMTG5MY0wtUFAzY3JFZjNuX1Rpb2VoQWJhamJ6ejdwbW9TaGVBM2FwTGdoajNvTGwzUFNmWWxWWGJlRzA1czJQc0VkcUkxaEs2dVYyQTRia2I3NHZleVVleFhEVDRnVEQ4d2NWUHMyWTMyQ2gwaWlKQTNYdk8wQTdVbEZNTG5abkE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed officials open door to 50-basis-point rate hike, here’s why",
-          "source": "IDNFinancials",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjlHTTNUa0dsc0YzZHZxdFBMY0dGSzVIN0RGZTZFSmdqZW45VDhIU0hSTk42VUlINHF5dXlSQ0F3Tmt6WFluWC1SQUtGNlBGVVc0RnZuRWJaaVlySF90eVlaeDlSaF95RUwzcV9EbDdaOWFwOFFYdkdVMVRwU3hSb0VIQUtXRk5FMm5vVU9WallJNUtCS0JOZWg4Nk45X0g3UFN3Ng?oc=5",
+          "title": "Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes",
+          "source": "13WHAM-TV",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGdKS0Z6OWlWc0t0a3o4Rld6djhkQ2EzQlJsN3ctY3pSSGJheWJmN3JDb2ZpaVl1VEdUWFpyaFVsSkNfc2tVOEVaS2Q4VHBTejNZLVVxaUNqdmhjRGxaenJKb1BxcEwtV09jVFN0VV9rRWIxeEMzRk53QlhVeHVNU1lzX3FHUzZHaXV0MzBQaXpSZlcxT28xMWhZU2FreGZlOVJPbl9zb2JTQk83RnJDd0hTRXJfTXNrU2JCcXU0RnFDVEpzdHlRWUdtUnYxUnJyUzhuNXNZVVJJUQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -27,20 +115,20 @@
       "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 49,
-      "change24h": -22,
-      "vol24h": 224278,
+      "yes": 46,
+      "change24h": -5,
+      "vol24h": 124810,
       "headlines": [
         {
-          "title": "Energy prices matter way more for inflation than they used to: Fed report",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUlfbV8zR0ZSSnJNTXZoM1JKZmdEYm9MVzlNa2Vybncyb3J6RWhxZUhZQVpnWF9RZ05FSEZGRkdvekU3N3otT3o3Z1NVVnkxRlpZUlFaZXBadWY5a1RQNmRiX29SalpqTF9LZmg0cTJOLXB5V1F4QTJ4RHRrNkllU2NyUzNOUXo3RVJqQlQtZDAtdHdNRWEwb3lZTlVLQ0ZBWUU5YnY3Ul81TGVuX19tWXBncFVqLUpTX2pCbzkzb2Q1Vm1od3hKOQ?oc=5",
+          "title": "Economists say Fed could go overboard on rate hikes after hot October inflation report",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDRqb2M0ckpxTENJNWhNaDNHRUpYaE9pVlI3Ri1zUDJrdkxiMGFMTG5MY0wtUFAzY3JFZjNuX1Rpb2VoQWJhamJ6ejdwbW9TaGVBM2FwTGdoajNvTGwzUFNmWWxWWGJlRzA1czJQc0VkcUkxaEs2dVYyQTRia2I3NHZleVVleFhEVDRnVEQ4d2NWUHMyWTMyQ2gwaWlKQTNYdk8wQTdVbEZNTG5abkE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed officials open door to 50-basis-point rate hike, here’s why",
-          "source": "IDNFinancials",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjlHTTNUa0dsc0YzZHZxdFBMY0dGSzVIN0RGZTZFSmdqZW45VDhIU0hSTk42VUlINHF5dXlSQ0F3Tmt6WFluWC1SQUtGNlBGVVc0RnZuRWJaaVlySF90eVlaeDlSaF95RUwzcV9EbDdaOWFwOFFYdkdVMVRwU3hSb0VIQUtXRk5FMm5vVU9WallJNUtCS0JOZWg4Nk45X0g3UFN3Ng?oc=5",
+          "title": "Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes",
+          "source": "13WHAM-TV",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGdKS0Z6OWlWc0t0a3o4Rld6djhkQ2EzQlJsN3ctY3pSSGJheWJmN3JDb2ZpaVl1VEdUWFpyaFVsSkNfc2tVOEVaS2Q4VHBTejNZLVVxaUNqdmhjRGxaenJKb1BxcEwtV09jVFN0VV9rRWIxeEMzRk53QlhVeHVNU1lzX3FHUzZHaXV0MzBQaXpSZlcxT28xMWhZU2FreGZlOVJPbl9zb2JTQk83RnJDd0hTRXJfTXNrU2JCcXU0RnFDVEpzdHlRWUdtUnYxUnJyUzhuNXNZVVJJUQ?oc=5",
           "cat": "Macro"
         }
       ]
@@ -49,91 +137,37 @@
       "question": "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2027-meeting",
-      "yes": 55,
-      "change24h": 17,
-      "vol24h": 17686,
+      "yes": 58,
+      "change24h": 4,
+      "vol24h": 11230,
       "headlines": [
         {
-          "title": "Energy prices matter way more for inflation than they used to: Fed report",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLUlfbV8zR0ZSSnJNTXZoM1JKZmdEYm9MVzlNa2Vybncyb3J6RWhxZUhZQVpnWF9RZ05FSEZGRkdvekU3N3otT3o3Z1NVVnkxRlpZUlFaZXBadWY5a1RQNmRiX29SalpqTF9LZmg0cTJOLXB5V1F4QTJ4RHRrNkllU2NyUzNOUXo3RVJqQlQtZDAtdHdNRWEwb3lZTlVLQ0ZBWUU5YnY3Ul81TGVuX19tWXBncFVqLUpTX2pCbzkzb2Q1Vm1od3hKOQ?oc=5",
+          "title": "Economists say Fed could go overboard on rate hikes after hot October inflation report",
+          "source": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDRqb2M0ckpxTENJNWhNaDNHRUpYaE9pVlI3Ri1zUDJrdkxiMGFMTG5MY0wtUFAzY3JFZjNuX1Rpb2VoQWJhamJ6ejdwbW9TaGVBM2FwTGdoajNvTGwzUFNmWWxWWGJlRzA1czJQc0VkcUkxaEs2dVYyQTRia2I3NHZleVVleFhEVDRnVEQ4d2NWUHMyWTMyQ2gwaWlKQTNYdk8wQTdVbEZNTG5abkE?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Fed officials open door to 50-basis-point rate hike, here’s why",
-          "source": "IDNFinancials",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWjlHTTNUa0dsc0YzZHZxdFBMY0dGSzVIN0RGZTZFSmdqZW45VDhIU0hSTk42VUlINHF5dXlSQ0F3Tmt6WFluWC1SQUtGNlBGVVc0RnZuRWJaaVlySF90eVlaeDlSaF95RUwzcV9EbDdaOWFwOFFYdkdVMVRwU3hSb0VIQUtXRk5FMm5vVU9WallJNUtCS0JOZWg4Nk45X0g3UFN3Ng?oc=5",
+          "title": "Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes",
+          "source": "13WHAM-TV",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcGdKS0Z6OWlWc0t0a3o4Rld6djhkQ2EzQlJsN3ctY3pSSGJheWJmN3JDb2ZpaVl1VEdUWFpyaFVsSkNfc2tVOEVaS2Q4VHBTejNZLVVxaUNqdmhjRGxaenJKb1BxcEwtV09jVFN0VV9rRWIxeEMzRk53QlhVeHVNU1lzX3FHUzZHaXV0MzBQaXpSZlcxT28xMWhZU2FreGZlOVJPbl9zb2JTQk83RnJDd0hTRXJfTXNrU2JCcXU0RnFDVEpzdHlRWUdtUnYxUnJyUzhuNXNZVVJJUQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 85,
-      "change24h": 14,
-      "vol24h": 63443,
+      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
+      "yes": 23,
+      "change24h": 1,
+      "vol24h": 12991,
       "headlines": [
         {
-          "title": "Inflation was up in October. A Fed rate hike is likely coming in December",
-          "source": "Morning Brew",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR25XRnJaWUFDMlZSa0E2clRUYUJINEVFMUNIcXQ3VUoybXVBbl9ZcnNYLXhpSFF3WEsxU3ZMY0cyQURBYzNRaWhoOFY2aTZSTzdoZTJOQ0xqdGhHVTdGTVRDVmNhOU5XaUtSTGppemNNNlE5bWtScTFtaFN2YUFVZVNPa05Wdw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $2,000 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-in-november-2026",
-      "yes": 83,
-      "change24h": 14,
-      "vol24h": 37023,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum reach $2,300 November 9-15?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2300-november-9-15-2026",
-      "yes": 6,
-      "change24h": -9,
-      "vol24h": 19566,
-      "headlines": [
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "WTA Finals, Group B: Aryna Sabalenka vs Mirra Andreeva",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-sabalen-andreev-2026-11-10",
-      "yes": 51,
-      "change24h": -3,
-      "vol24h": 10595,
-      "headlines": [
-        {
-          "title": "Coco Gauff Blasts ‘Stupid’ Tennis Rules After Stunning WTA Finals Defeat",
-          "source": "Athlon Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFpkaGtBM1VwbzMtWE5lNWRGNkp4dEtmZlh2bjMtZ2V5ZThwYThGcW1saERyOEI2ZVVhMEUta0FsdTN0UFJ5Y193VFFhQ003OEhpcW1vTVZ1TWpzbjcySWU5ZGFnellWSTVtd0RZQmZfeG1za1NTbG1GdXc1OFVBRUt2TGNuSXh1T2o3cmEzMjJZSVpMRGpmcndYSjZlT2h3REs3Sw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "WTA Finals: Exhausted on arrival, Noskova now feels 'like a fish in water' at Indian Wells",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTk0TE1kbWNuUTZwWmRRbk1JUXY2NmlWY0pzcEV0d2oxZ1JHdlFiNkpRWERwUTBOUWZJcWNtUUxpT0N2QUFQb0ltc256MXRrMjBSbmtiNkNQWmZkSzlOdVdfYm5nLXhYaDhvMGdmV2dCc2hHalhWRDdvTDBmODhhdnkzYkd0NGptT19yUXhfVV8?oc=5",
-          "cat": "Tennis"
+          "title": "Spurs vs. Bulls: San Antonio looks to extend winning streak to 10 games against struggling Chicago team | What to know",
+          "source": "kens5.com",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdzA1N3FXUjBWWjdwQWdKcjVkTnYxTWc3UDlhTXFUNFFpVm9HRnlBZ2ZnV2sxVjBhSUNPT1J2WDhFRHRQMkNRbEV1Z2hLZ1NJU2l6UXM1X3ptS21iRmUzNk1FTko4N3ZyUmVDSS1jaU9HZTNsYmlKWjN4UmpOOUFleXpob1MyQ1Y0eUxsSGlySnZkeDlJakJsNENiNW1YZ3gxLVg3SDNKZXkwSkhVb2gyNDZ5dzdkUVAxWTAtU3drNUdCTU16T3hPYzRHQzl4ZFFJR2pDS2FTZ0VOeUJ5TzdfRkEyYzgwbm1SR0Uxc1FpeHhBNjItUGpRZDhRQ0NUYklC?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -142,87 +176,74 @@
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
       "yes": 5,
-      "change24h": 2,
-      "vol24h": 54586,
+      "change24h": 0,
+      "vol24h": 37741,
       "headlines": [
         {
-          "title": "\"He's been consistent his whole life\" - Dwyane Wade shares how LaMelo Ball changed the lazy narratives around him on the Minnesota Timberwolves",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2ZFTmxKUGJBYzJMMFB1SjRrcXNWOGFMSEJITzlpVXJ3WmpVVWx0bVhIMk82Nnl4RE03X25LbGpqYTA3WTFKQUpyU3hDc1BCOUNTZ1o3Tmk0al9ZUHFYUkZpMEppUE1FdmlRZjA0WkdwcGdxNHM0S29QaUZCcGRYRzlQeUVfZ2Nj?oc=5",
-          "cat": "NBA"
+          "title": "Cousins rejoins the Vikings, where familiarity and comfort will help him prepare to play Packers",
+          "source": "Las Vegas Review-Journal",
+          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOSTBlMTFVRkFFOUdsZGYyR2NQWnBQeG52eUhyaGFRd0JjU2tjSExjUEVNcFJMZnhaS3k4SGRxN3RyaDUycjZwQXA3UG9YTzlfbUhvWGQyQVo4azlSM21KelphNnNucThIRWdzM19NaERZMGZXQjdJdkFUQjN5clg5WFhDSHVMQ3NKUDNFcElCNkxQblh2c2gzSkF4UHpQQUNvXzlGTmdEZEJfX240NGpyTGtDankyYWNydXY0Zksydk01M1hfblZWQ3ZuMHZSdWRqRnB0V2wwZzVVYWVFaWRoVlc4RWNZbUhGZWhhOURIN2p1WTdNbU9OT3RKM0JTMlhBcDlkOTR5NUVnR3hKcWdzc1BlN0NuSnBPaV9QUU9TakkxTFZ3bU1JOW14WnhGRUdNSmc3bGxMVVltRnFvTWdQUVJ1d3NoamN4TVYxbFdvd1RrcFJJN3pjd0w5TVJlZ0JYRFVQSjNnYjYwWGFVS3RZdmdwTHNLWEJQUlZvdUZuR1lhRi1iNW9sTjNuSWo2b3NIVTFBcmw4TVYzQ1Nnam51Mjhsb0VyNFNLVjQ0NEZFQlFya0VSWUZXRWoxVWJzanJZMzNzd0t4OEx0VEpLRDhtRHdfX1p6eUZkb0cza1pDRlRxQjQ?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Portland Trail Blazers win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-portland-trail-blazers-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 1,
-      "vol24h": 60642,
+      "question": "Will the Baltimore Ravens win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-baltimore-ravens-win-the-2027-nfl-league-championship",
+      "yes": 1,
+      "change24h": 0,
+      "vol24h": 23431,
       "headlines": [
         {
-          "title": "Damian Lillard scores 25 points as the Trail Blazers beat the Thunder 123-103",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmpCaURJYzFhZ2k1d2NTSEphM1owV2JFVzljTHkyNkE0Q1ZxV25MQWRQd0hTZU5aMzZsX1M4ZEhGa2p4OVg0S2NfdWhRWXMzdG8tMEg3UENCVTAyZHhxNFFUeVZuVnhpMEpuTndKVU9nd0RrdEgtbnV3WXVuajlabjlXQS1hX0FDS1M1S2dXVUpNelh4S1k0b3RUUWpYRXEySTNXUGJEUWlQQ2VKaF9OdVloUjFyWUV0cFBMOUZSNmZMX3FLMmhlQ2VNQnRoUHE4SUE?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
-      "yes": 8,
-      "change24h": 1,
-      "vol24h": 46603,
-      "headlines": [
-        {
-          "title": "Jaylen Brown gives Jayson Tatum the cold shoulder. Tatum gets hot hand in Celtics' win over 76ers",
-          "source": "WBUR",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1obzd0ZTJWMVZtR05IY2hQcE54LVdqZVJLckNraGVHQ3ZUcUY5MEJqRVBuVWxQd3NIeG9ibDJHNnpKLTJBVmxaV0RMNmtaN3pqYjgwX0tUV1ljNzQxclMtNmxHanl0cXV4U2VBZnhsR1Ruc1NodU5BQ1NQbHcyR2s?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "WTA Finals, Group B: Elina Svitolina vs Karolina Muchova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-svitoli-muchova-2026-11-10",
-      "yes": 43,
-      "change24h": 1,
-      "vol24h": 12689,
-      "headlines": [
-        {
-          "title": "Coco Gauff Blasts ‘Stupid’ Tennis Rules After Stunning WTA Finals Defeat",
-          "source": "Athlon Sports",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFpkaGtBM1VwbzMtWE5lNWRGNkp4dEtmZlh2bjMtZ2V5ZThwYThGcW1saERyOEI2ZVVhMEUta0FsdTN0UFJ5Y193VFFhQ003OEhpcW1vTVZ1TWpzbjcySWU5ZGFnellWSTVtd0RZQmZfeG1za1NTbG1GdXc1OFVBRUt2TGNuSXh1T2o3cmEzMjJZSVpMRGpmcndYSjZlT2h3REs3Sw?oc=5",
-          "cat": "Tennis"
+          "title": "Ravens add K Riley Patterson",
+          "source": "NBC Sports",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUtlUENJQ0IxWVQ3M2ptY0dnUGJPWFNsb3FMaFNzak0xbHJSaXlrLTdNcHNwNF9IMkc1cGJTVm1sVDZlQ1gtRHpscHJ6cjRPRC1aYjVpUzN0dWxnTTNTQ3ViSWJ0SDVEOFh6MHJkdWVXdmNBbmpveDh6VXRvRTFlVUdmNXUwRkRxMnVVQThPWXZWOU9IWjVqQzBR?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "WTA Finals: Exhausted on arrival, Noskova now feels 'like a fish in water' at Indian Wells",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTTk0TE1kbWNuUTZwWmRRbk1JUXY2NmlWY0pzcEV0d2oxZ1JHdlFiNkpRWERwUTBOUWZJcWNtUUxpT0N2QUFQb0ltc256MXRrMjBSbmtiNkNQWmZkSzlOdVdfYm5nLXhYaDhvMGdmV2dCc2hHalhWRDdvTDBmODhhdnkzYkd0NGptT19yUXhfVV8?oc=5",
-          "cat": "Tennis"
+          "title": "Ravens To Sign K Riley Patterson",
+          "source": "ProFootballRumors.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45SWxrMGJ6THZTRHY0WDlRWVdxY2hJRlZLbDMzemVFQ0xEYjJ2bEpxOU1TYkNmVkExRGZKOEM0Mm1ZWDFGQzNWZEROX3JxVGpRNTVfa2xiQzEwY3JCWlJZMWdBZW41U3FVXzJQQ0hjb2lCZlZGRFNHc1BIejdOTlk?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Oklahoma City Thunder win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-oklahoma-city-thunder-win-the-2027-nba-finals",
-      "yes": 16,
+      "question": "Will the Dallas Cowboys win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-dallas-cowboys-win-the-2027-nfl-league-championship",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 29545,
+      "vol24h": 13196,
       "headlines": [
         {
-          "title": "Damian Lillard scores 25 points as the Trail Blazers beat the Thunder 123-103",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmpCaURJYzFhZ2k1d2NTSEphM1owV2JFVzljTHkyNkE0Q1ZxV25MQWRQd0hTZU5aMzZsX1M4ZEhGa2p4OVg0S2NfdWhRWXMzdG8tMEg3UENCVTAyZHhxNFFUeVZuVnhpMEpuTndKVU9nd0RrdEgtbnV3WXVuajlabjlXQS1hX0FDS1M1S2dXVUpNelh4S1k0b3RUUWpYRXEySTNXUGJEUWlQQ2VKaF9OdVloUjFyWUV0cFBMOUZSNmZMX3FLMmhlQ2VNQnRoUHE4SUE?oc=5",
-          "cat": "NBA"
+          "title": "Cowboys didn't receive any pre-trade deadline calls about George Pickens",
+          "source": "Dallas News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDJzZ1J2Z2ZYNzFPVFJ0YW5ISFM2bFVjc0Zoc2xZV05FTXotaFdjUUxwNzJiUGw0Q3l4SkxLWlhNekxtT0pqOW5qSmlRX2xTRk1xWUJyVDB0SFliUlpUb0xFcWp3Q3ozMUJYT1V2WmtIRmpmN3hRRGF4U1lDMlE4NjBqYnRUS2tka3F2d2dsQllmY01nMWc?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": []
+  "moversOnly": [
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 13,
+      "change24h": -5,
+      "vol24h": 34382,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "yes": 19,
+      "change24h": -4,
+      "vol24h": 26918,
+      "headlines": []
+    }
+  ]
 }
