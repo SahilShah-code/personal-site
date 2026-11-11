@@ -1,24 +1,40 @@
 {
-  "updated": "2026-11-10T22:37:02.759Z",
+  "updated": "2026-11-11T03:29:25.783Z",
   "withNews": [
+    {
+      "question": "WTA Finals Doubles, Group 2 (Doubles): Bucsa/Melichar vs Errani/Paolini",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-doubles-bucsmel-errapao-2026-11-10",
+      "yes": 0,
+      "change24h": -40,
+      "vol24h": 25682,
+      "headlines": [
+        {
+          "title": "“Didn’t Put Enough Pressure”- Coco Gauff Pays for Slow Start as Linda Noskova Takes Control at WTA Finals",
+          "source": "EssentiallySports",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQTVmVHdEaXVxMjZPcGhoNDhqRU01dlhvb0FFZGwyT1BhQlFSTC12ZEVSQXdwN0tUS1JLakRqM3F6YzBjcTNScS1sR2c0OFRSam10QVFxSkVxUHN5bmpxYlluWVlUWGJnQ21YQTlCTGs4T1pDaXhQN3QxV3JqSkFaU3EwbFN5TmdCSzFzWVJrcFI3YU1tMVByNW9YMzZZdHcwM2I4a181bkZld2F4b2JURThuRUlWY1VZRjJmWk1Hc0FtMUh2WDJCZGl2UkU4eVJ0YVNFUjgyd0NGZ1RTVkNyQ19B?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Jessica Pegula & Coco Gauff Face Crucial WTA Finals Test as Linda Noskova Threatens Top Stars",
+          "source": "EssentiallySports",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVBwRTU0MGZYQ190TkJRZWZrbWR5dXlQRmFzb2ZKZUk2M0xwMlZxSDNvZWxfWUlBV21wSDJYR0ZmX0M3YWNIMzdWUnJiWDVJYkQ1bUNoRnFqaFY4OVhDN3FiNElWMVJjMlJzWVdQaFFjaEY4S3lCMVdKMnk4dFgxUXYwY3VuQVJoLTBpX1czWmNTSFdQeXBMdVliNEN3NHpOd3NmNnhrNlVqOU5MYXBILVFaYldvWkluQ2VHTDhEOFY2Y0VXVG1lbTd4Ml96VXM3SHNPTA?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
     {
       "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 49,
-      "change24h": 31,
-      "vol24h": 159388,
+      "yes": 48,
+      "change24h": 30,
+      "vol24h": 184071,
       "headlines": [
         {
-          "title": "Fed officials open door to quicker rate-hike pace",
-          "source": "Finance & Commerce",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVIxOHl5aE1TR1ozel9pcWpEMHk0ZGJkQ0Z4c2VCN0JoWHJ5ZW1jV0ZmYllrdE9ucXlmOXQ5Skt2bThMQ2JDRDZ1WG1aQ0ZpbFViaXpZNnFSM1RLcDdNNnVDNmpIVzFJdUtVZWcxVUhBU0NVY3pJdVE1RVM4UThBVUVWdmFORVFsTTBpM0g0bw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "US inflation rises more than expected, raising likelihood of Fed rate hike",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2ltTTNtR1hCQS1BYVgyckdzb3JURm5uV19xMU90b2I3V25YRGN5ZThOQzlEbERCNWlVV3RNcU1UTnBzWmNzemFOLXEwMlQ3Ni0xbGd1LUpCcktOcHNVZEFfLUJRMEQzMHQzeUx6VlVyRldyVjJTUFZCOFhtcmtzUzNsOEhkUXh0V1FMR2hwVFE1LTFVS0xheHIzbDNJQmY5QVBNYmJVeDlzYVhUNWFCd0Z3VVhDdzN6Z2c?oc=5",
+          "title": "Trump’s Fed nightmare: Rates won’t be slashed. They could surge now",
+          "source": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlBlZVhQSnJvYWVKNEpjYjhHa1IxdWpTQWswdGxfS3BPYWMwVWtHUEFhbDU4VGdndzlUVG1kdHR3YTl6TFNhcUhHeTZyOXZGR0tUSTdGakZsVVVSZ29WQ3lLS2V5ZHdsOWh0cG5VWlZnNEdSY1Fmb2VRT0gtWG0xdVFRVEJGdWlMc0U2T1puMkF3SlNoZlhFVlZqVzVacFR0VmxSUnlRUlR0X01CXzhzTmwxSkp1TlRYbHVlT0tpaDVpNTJQSWRKLUVR?oc=5",
           "cat": "Macro"
         }
       ]
@@ -27,65 +43,15 @@
       "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 51,
-      "change24h": -28,
-      "vol24h": 168525,
+      "yes": 52,
+      "change24h": -27,
+      "vol24h": 178510,
       "headlines": [
         {
-          "title": "Fed officials open door to quicker rate-hike pace",
-          "source": "Finance & Commerce",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVIxOHl5aE1TR1ozel9pcWpEMHk0ZGJkQ0Z4c2VCN0JoWHJ5ZW1jV0ZmYllrdE9ucXlmOXQ5Skt2bThMQ2JDRDZ1WG1aQ0ZpbFViaXpZNnFSM1RLcDdNNnVDNmpIVzFJdUtVZWcxVUhBU0NVY3pJdVE1RVM4UThBVUVWdmFORVFsTTBpM0g0bw?oc=5",
+          "title": "Trump’s Fed nightmare: Rates won’t be slashed. They could surge now",
+          "source": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlBlZVhQSnJvYWVKNEpjYjhHa1IxdWpTQWswdGxfS3BPYWMwVWtHUEFhbDU4VGdndzlUVG1kdHR3YTl6TFNhcUhHeTZyOXZGR0tUSTdGakZsVVVSZ29WQ3lLS2V5ZHdsOWh0cG5VWlZnNEdSY1Fmb2VRT0gtWG0xdVFRVEJGdWlMc0U2T1puMkF3SlNoZlhFVlZqVzVacFR0VmxSUnlRUlR0X01CXzhzTmwxSkp1TlRYbHVlT0tpaDVpNTJQSWRKLUVR?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "US inflation rises more than expected, raising likelihood of Fed rate hike",
-          "source": "Scripps News",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2ltTTNtR1hCQS1BYVgyckdzb3JURm5uV19xMU90b2I3V25YRGN5ZThOQzlEbERCNWlVV3RNcU1UTnBzWmNzemFOLXEwMlQ3Ni0xbGd1LUpCcktOcHNVZEFfLUJRMEQzMHQzeUx6VlVyRldyVjJTUFZCOFhtcmtzUzNsOEhkUXh0V1FMR2hwVFE1LTFVS0xheHIzbDNJQmY5QVBNYmJVeDlzYVhUNWFCd0Z3VVhDdzN6Z2c?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "WTA Finals, Group A: Coco Gauff vs Linda Noskova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-gauff-noskova-2026-11-10",
-      "yes": 36,
-      "change24h": -25,
-      "vol24h": 554893,
-      "headlines": [
-        {
-          "title": "WTA Finals: Pegula Bounces Back Against Kostyuk to Keep Her Hopes Alive",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDg5MFMxNU9kVF9haGN2SkhOTG4xc3VqSDBSTzdpbS05dEZUa0I3X3hxWTUxaWlROWNxMFpsakxwRElkWmM2YWZnd21TbnI1SWRrVkhhMThEZngxYUtNOHhlYmYydWx5d1prTldobG0zbzMxWWZ1YnJKa21BNUhvUngxNWhpaFVrWC1uVDFyNG0?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "2026 WTA Finals Prize Pool Breakdown",
-          "source": "news.bet365.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDl5b3dTbDNvWGtVc19Zb1dFLURLZ0laUDdvTHJvTi1wa09ENWVJMUVFZWhyWGM3NmhsYmZQWHJsUEl4dVo5QkQ5OTlZaS1vUTJ3d0JGV1A2Wk9OdFZxdHpXbzdPNE1ndzlYZjkwQlFSbTFEQm9kS3Rmd0t3S0NVVWxDMWdfLTJOU3A0MkRpd3dwRTdQQk9tQmJB?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $72,000 November 9-15?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-72k-november-9-15-2026",
-      "yes": 59,
-      "change24h": 23,
-      "vol24h": 21984,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Braden Shick vs Kenta Miyoshi in Knoxville Challenger with odds, preview, pick | 10th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklWakN3MnN1MDBxb2FEd1lKOVlTeERXd2cyMXROUnY5ajNKQWFrWGhQVFRpeU5aeTVwOGpsTi1KWTA3LWlKY2E2TDhTcnM2VnVrdWlONE1ZSW4za0h4MjdaTXhVbFNReklDQ0hzazVTQ1lidjEyRjFJcTJ1MWNvQ2NUUi1ibk0wRk1fYTRiWW01NEpiWGFiNTNjYjZZY1NsaHZNTURNZno1R0NnWEpJai1FTTJOaVVmTm42YzQ1YnJSRFIyMWV5MzZQZHdMRGxsY2NrM3dIdlZsVXh1RWtJM2U2aV9ELU12Uk51OTd0QQ?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "H2H, prediction of Miomir Kecmanovic vs Holger Rune in Stockholm with odds, preview, pick | 11th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNm5qVHVST2p5cHRTanFQT1hnNEsxVU85el9kc3liODkwNWd1dmtWSWVqWk9xckhXcVl2ZEw4Nkk5SlpPTDg4TGRORkJ4SVk5eXBHV2dMOXhucG1maGNhT1Y4ZGlCQ1hPYVNSVUF5QWhnY3lnODFMY0Nmek1uM0VrN0R0R0dWT0lpdFV5d3R3b3J5OC1XS2hLSGYzcUpvX3VhVVltSmZQV0dtb09hSkNOLWtwcHNkUl9ucURPZTBjbHM4U2lpV2l0UzdtUWM4aHFvckF1SHNkNlNPa256WnZobjU5RnE?oc=5",
-          "cat": "Tennis"
         }
       ]
     },
@@ -95,18 +61,34 @@
       "url": "https://polymarket.com/event/will-the-fed-pausehikepause-in-the-next-three-decisions-octdecjan",
       "yes": 54,
       "change24h": -23,
-      "vol24h": 12963,
+      "vol24h": 13171,
       "headlines": [
         {
-          "title": "Fed officials open door to quicker rate-hike pace",
-          "source": "Finance & Commerce",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVIxOHl5aE1TR1ozel9pcWpEMHk0ZGJkQ0Z4c2VCN0JoWHJ5ZW1jV0ZmYllrdE9ucXlmOXQ5Skt2bThMQ2JDRDZ1WG1aQ0ZpbFViaXpZNnFSM1RLcDdNNnVDNmpIVzFJdUtVZWcxVUhBU0NVY3pJdVE1RVM4UThBVUVWdmFORVFsTTBpM0g0bw?oc=5",
+          "title": "Markets See 90% Chance For Fed’s Rate Hike in December as Inflation Exceeds Expectations",
+          "source": "kaohoon international",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6QjA2OXJVUlE1bzhodkRCODFQcDVFRDhhZW5weElXS0hpQ19obUpaQU5sa0FRZ2Z3MXFROFNheFZ4ejRLM2xOMzVEeUZiVW1GODRrSVRRQVJncG1rR25lRw?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Interest-Rate Hike Debate Sparked by Fed's Waller, Logan After Hot Inflation",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkZoTlZOa05oRHYwaUNCM1pDVHdhNnF3ajlxMzBBd1R0Z3plbEVKbm4xemxmbm1penlwS1hrY09URU4zbDZoZFlWV213ZnZkWVlseUE1U0JyeE8zQWpqcU9YVUlKbUJldG9NT21UVkpmN2F6eFlWZWtiZlhrZUZGLUFpUTRlcmdWYnduUDB5MTNOY0xFQW5TSDZfaDNac0N5VVpuUE43WTJYeEZIZTBDbFRKdw?oc=5",
+          "title": "Trump’s Fed nightmare: Rates won’t be slashed. They could surge now",
+          "source": "SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQlBlZVhQSnJvYWVKNEpjYjhHa1IxdWpTQWswdGxfS3BPYWMwVWtHUEFhbDU4VGdndzlUVG1kdHR3YTl6TFNhcUhHeTZyOXZGR0tUSTdGakZsVVVSZ29WQ3lLS2V5ZHdsOWh0cG5VWlZnNEdSY1Fmb2VRT0gtWG0xdVFRVEJGdWlMc0U2T1puMkF3SlNoZlhFVlZqVzVacFR0VmxSUnlRUlR0X01CXzhzTmwxSkp1TlRYbHVlT0tpaDVpNTJQSWRKLUVR?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
+      "yes": 83,
+      "change24h": 16,
+      "vol24h": 63041,
+      "headlines": [
+        {
+          "title": "Markets See 90% Chance For Fed’s Rate Hike in December as Inflation Exceeds Expectations",
+          "source": "kaohoon international",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6QjA2OXJVUlE1bzhodkRCODFQcDVFRDhhZW5weElXS0hpQ19obUpaQU5sa0FRZ2Z3MXFROFNheFZ4ejRLM2xOMzVEeUZiVW1GODRrSVRRQVJncG1rR25lRw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -115,21 +97,21 @@
       "question": "Will Ethereum dip to $2,000 in November?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-in-november-2026",
-      "yes": 82,
-      "change24h": 22,
-      "vol24h": 37094,
+      "yes": 77,
+      "change24h": 13,
+      "vol24h": 40408,
       "headlines": [
         {
-          "title": "H2H, prediction of Braden Shick vs Kenta Miyoshi in Knoxville Challenger with odds, preview, pick | 10th November 2026",
+          "title": "H2H, prediction of Michael Mmoh vs Daniel Milavsky in Knoxville Challenger with odds, preview, pick | 11th November 2026",
           "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklWakN3MnN1MDBxb2FEd1lKOVlTeERXd2cyMXROUnY5ajNKQWFrWGhQVFRpeU5aeTVwOGpsTi1KWTA3LWlKY2E2TDhTcnM2VnVrdWlONE1ZSW4za0h4MjdaTXhVbFNReklDQ0hzazVTQ1lidjEyRjFJcTJ1MWNvQ2NUUi1ibk0wRk1fYTRiWW01NEpiWGFiNTNjYjZZY1NsaHZNTURNZno1R0NnWEpJai1FTTJOaVVmTm42YzQ1YnJSRFIyMWV5MzZQZHdMRGxsY2NrM3dIdlZsVXh1RWtJM2U2aV9ELU12Uk51OTd0QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSzBrc1ZXcEJnOXlrdDJJTHVhN20tX1otQWhQNTNKOFRNYWJVZlNWRVFxajRycms3aDdFRVJhLXlIWVFZVlA5RlZwYlVwVjUwV2RvVDRSRTZHMEpqYWp5UjBPM1NYMlFCMGlEbHdSaTFETkdzMUR5TmprclY2aHNqZ08yNTladmZwR0RMX1VFQzdib2Qya0VRVzhvd1VIdURHMHZPSmtiekkzQ1hFbFhyS1hQU0JiWjhjNi1jbDZHRDk5OE5GWkRRMlBvVm9EZjhsU2d4YkdTeG4tclNxeXVOSVF2LXFKaXFGME5jS3pDZkJXUQ?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "H2H, prediction of Miomir Kecmanovic vs Holger Rune in Stockholm with odds, preview, pick | 11th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNm5qVHVST2p5cHRTanFQT1hnNEsxVU85el9kc3liODkwNWd1dmtWSWVqWk9xckhXcVl2ZEw4Nkk5SlpPTDg4TGRORkJ4SVk5eXBHV2dMOXhucG1maGNhT1Y4ZGlCQ1hPYVNSVUF5QWhnY3lnODFMY0Nmek1uM0VrN0R0R0dWT0lpdFV5d3R3b3J5OC1XS2hLSGYzcUpvX3VhVVltSmZQV0dtb09hSkNOLWtwcHNkUl9ucURPZTBjbHM4U2lpV2l0UzdtUWM4aHFvckF1SHNkNlNPa256WnZobjU5RnE?oc=5",
-          "cat": "Tennis"
+          "title": "Farewells, fresh starts and rivalries headline November international window",
+          "source": "www.oceaniafootball.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekJoQkwxRDVQNG5WaGI1YmN0UDN6cVNJS3RzSDZzNERQWGszVjlmM25RTnZscE5tRVQyNXhCUE1tRDlQUWVxYXVwWjgzeDJKS1UzMmFUd2JVd0xJYVM5bURJUU5QODhnZDF6TFdSV0Z4TDBIR2doZmxlc2JhS0dFaGVSVEJLdXlscHFIbXE4M2NYejUwM0U0X1I0b19hamNQcFNCY2ZqbllUYXJ2?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -138,20 +120,20 @@
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-72pt5k-in-november-2026",
       "yes": 81,
-      "change24h": 17,
-      "vol24h": 34161,
+      "change24h": 11,
+      "vol24h": 37367,
       "headlines": [
         {
-          "title": "H2H, prediction of Braden Shick vs Kenta Miyoshi in Knoxville Challenger with odds, preview, pick | 10th November 2026",
+          "title": "H2H, prediction of Michael Mmoh vs Daniel Milavsky in Knoxville Challenger with odds, preview, pick | 11th November 2026",
           "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMklWakN3MnN1MDBxb2FEd1lKOVlTeERXd2cyMXROUnY5ajNKQWFrWGhQVFRpeU5aeTVwOGpsTi1KWTA3LWlKY2E2TDhTcnM2VnVrdWlONE1ZSW4za0h4MjdaTXhVbFNReklDQ0hzazVTQ1lidjEyRjFJcTJ1MWNvQ2NUUi1ibk0wRk1fYTRiWW01NEpiWGFiNTNjYjZZY1NsaHZNTURNZno1R0NnWEpJai1FTTJOaVVmTm42YzQ1YnJSRFIyMWV5MzZQZHdMRGxsY2NrM3dIdlZsVXh1RWtJM2U2aV9ELU12Uk51OTd0QQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSzBrc1ZXcEJnOXlrdDJJTHVhN20tX1otQWhQNTNKOFRNYWJVZlNWRVFxajRycms3aDdFRVJhLXlIWVFZVlA5RlZwYlVwVjUwV2RvVDRSRTZHMEpqYWp5UjBPM1NYMlFCMGlEbHdSaTFETkdzMUR5TmprclY2aHNqZ08yNTladmZwR0RMX1VFQzdib2Qya0VRVzhvd1VIdURHMHZPSmtiekkzQ1hFbFhyS1hQU0JiWjhjNi1jbDZHRDk5OE5GWkRRMlBvVm9EZjhsU2d4YkdTeG4tclNxeXVOSVF2LXFKaXFGME5jS3pDZkJXUQ?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "H2H, prediction of Miomir Kecmanovic vs Holger Rune in Stockholm with odds, preview, pick | 11th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNm5qVHVST2p5cHRTanFQT1hnNEsxVU85el9kc3liODkwNWd1dmtWSWVqWk9xckhXcVl2ZEw4Nkk5SlpPTDg4TGRORkJ4SVk5eXBHV2dMOXhucG1maGNhT1Y4ZGlCQ1hPYVNSVUF5QWhnY3lnODFMY0Nmek1uM0VrN0R0R0dWT0lpdFV5d3R3b3J5OC1XS2hLSGYzcUpvX3VhVVltSmZQV0dtb09hSkNOLWtwcHNkUl9ucURPZTBjbHM4U2lpV2l0UzdtUWM4aHFvckF1SHNkNlNPa256WnZobjU5RnE?oc=5",
-          "cat": "Tennis"
+          "title": "Farewells, fresh starts and rivalries headline November international window",
+          "source": "www.oceaniafootball.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekJoQkwxRDVQNG5WaGI1YmN0UDN6cVNJS3RzSDZzNERQWGszVjlmM25RTnZscE5tRVQyNXhCUE1tRDlQUWVxYXVwWjgzeDJKS1UzMmFUd2JVd0xJYVM5bURJUU5QODhnZDF6TFdSV0Z4TDBIR2doZmxlc2JhS0dFaGVSVEJLdXlscHFIbXE4M2NYejUwM0U0X1I0b19hamNQcFNCY2ZqbllUYXJ2?oc=5",
+          "cat": "World Cup"
         }
       ]
     },
@@ -160,30 +142,36 @@
       "topic": "NFL",
       "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
       "yes": 5,
-      "change24h": 2,
-      "vol24h": 35157,
+      "change24h": 3,
+      "vol24h": 49468,
       "headlines": [
         {
-          "title": "Vikings bring back QB Kirk Cousins in a trade with the Raiders to lift a struggling offense",
-          "source": "Baltimore Sun",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmdrUjFtMmxPLXFPZlBfZjRmTWFMb3JQT0VhUGNoSTNrUHRWMExZU3VNcFRIM190dDVRSEZjcFdQZWpQT3c1ZUg5UF9jaVVrMm9YcGprTUVPYllwaERPVUFfcHlweDVKTm1ZRUpPZDR1dmpKRnNJTWhJcVZraE9CN0JZLXZCQS1RRzB6aWxiTEhWME50d1Z4SDNMUnhXMWxnZUF6ZEhHc0xueHdYZTFVMXNScWtqRy1zN0puN1ZKWTlxSFpFbkdRdmhTcUs?oc=5",
+          "title": "Vikings release ex-Chiefs OL after loss on 'Monday Night Football'",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0xDQ2pWNXBZS3lxYXR0ZHdGUEtlVzFNVy01NHdQOXRpbHMyQzMtNDBZZ1A4cjRvZXJEZUFrVGQzcHJpXzA1OE5EcS0waV9yQjJ1UGJNUGt4cmFUYm9uU2N4elRESTRxU2lzZkU2MzJHQWxzY2tMNUVzSURiZEhXQ3FSMA?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Vikings release ex-Chiefs OL after loss on 'Monday Night Football'",
+          "source": "Chiefs Wire",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcW1tUWI4YVBNbUFWcFJ2dzE2N0tzcXVzOG5LbVdNdUZTV1d1dENobDFIOWNsTTZwYkJFaTg0c1k5TzZCZDdHTlpyRWxZdURGSHZPWHNTeTRHU0R6R1hQNjJhbmxjOGhpZjdwaWN4OWFfZHpteUNWTXo3OWdCOUtqdEMtRmNoci02dXlwek9fLTlPQXJYZF9Pb3NfNWdiLTcxVGdmZjYtaldpckhZVkRtMWN6V2ZPLXZZb1V0RjNicE1EWU0zektOZXFqbTZ6b054UW5Dcl9xcU1nWFB4SjJOYzEzWWlxVVlFQkRob2V4ajk?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Las Vegas Raiders win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-las-vegas-raiders-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 42826,
+      "question": "Will Boston Celtics win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
+      "yes": 8,
+      "change24h": 1,
+      "vol24h": 40110,
       "headlines": [
         {
-          "title": "Vikings bring back QB Kirk Cousins in a trade with the Raiders to lift a struggling offense",
-          "source": "Baltimore Sun",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTmdrUjFtMmxPLXFPZlBfZjRmTWFMb3JQT0VhUGNoSTNrUHRWMExZU3VNcFRIM190dDVRSEZjcFdQZWpQT3c1ZUg5UF9jaVVrMm9YcGprTUVPYllwaERPVUFfcHlweDVKTm1ZRUpPZDR1dmpKRnNJTWhJcVZraE9CN0JZLXZCQS1RRzB6aWxiTEhWME50d1Z4SDNMUnhXMWxnZUF6ZEhHc0xueHdYZTFVMXNScWtqRy1zN0puN1ZKWTlxSFpFbkdRdmhTcUs?oc=5",
-          "cat": "NFL"
+          "title": "Jaylen Brown, Jayson Tatum keep their distance early as Celtics visit 76ers for 1st time since trade",
+          "source": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeVhCUUdtTm00MVR5cklCR3ZDY2ctSXB2WTBJMjZSUTVNeW43RlBSRTZDZWFrRG1jX2ZkTGhjdWYtRnFsZUJXdF96R1NXWUFxejFpWVlicUxBb0swaUxndDlYRmU4RnVCb3EydXN4N1BBYXkxY2pLUEtRbXlFazFyRElOal9hZTQ2WnV2a1NpTFp5M1JYMXNXNjR3SWdhY0hydEpDTzZUcTNOMS11Qkk2OTJOUkNMZzJLaDMyU1BOTmhYV3RIZ3c?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -193,53 +181,22 @@
       "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
       "yes": 8,
       "change24h": 0,
-      "vol24h": 12113,
+      "vol24h": 12063,
       "headlines": [
         {
-          "title": "Colts trading WR Josh Downs to Chiefs for fourth-, fifth-round picks",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSVlncDA4eFkyOWljNDVnZXhxa04xVFlkdlVlMVdBcjJ1bWI2ZnRvTFhpdzg5SU9ybTBtOVRBZ2lURkxwS180RWt4dUgxdnBkUUEzM2RqaWJYMVBEYWV4c1hyTzZOcXRkWHByeWI5WjFWS19iRW1FR3M4djR5ektHQzNxTGYtN3Z0WkE?oc=5",
+          "title": "Vikings release ex-Chiefs OL after loss on 'Monday Night Football'",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0xDQ2pWNXBZS3lxYXR0ZHdGUEtlVzFNVy01NHdQOXRpbHMyQzMtNDBZZ1A4cjRvZXJEZUFrVGQzcHJpXzA1OE5EcS0waV9yQjJ1UGJNUGt4cmFUYm9uU2N4elRESTRxU2lzZkU2MzJHQWxzY2tMNUVzSURiZEhXQ3FSMA?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "Vikings release ex-Chiefs OL after loss on 'Monday Night Football'",
+          "source": "Chiefs Wire",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcW1tUWI4YVBNbUFWcFJ2dzE2N0tzcXVzOG5LbVdNdUZTV1d1dENobDFIOWNsTTZwYkJFaTg0c1k5TzZCZDdHTlpyRWxZdURGSHZPWHNTeTRHU0R6R1hQNjJhbmxjOGhpZjdwaWN4OWFfZHpteUNWTXo3OWdCOUtqdEMtRmNoci02dXlwek9fLTlPQXJYZF9Pb3NfNWdiLTcxVGdmZjYtaldpckhZVkRtMWN6V2ZPLXZZb1V0RjNicE1EWU0zektOZXFqbTZ6b054UW5Dcl9xcU1nWFB4SjJOYzEzWWlxVVlFQkRob2V4ajk?oc=5",
           "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-2000-by-december-31-2026-from-august-24",
-      "yes": 84,
-      "change24h": 17,
-      "vol24h": 63045,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 69,
-      "change24h": 13,
-      "vol24h": 30568,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin reach $90,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-90000-by-december-31-2026-113-862-581-343",
-      "yes": 17,
-      "change24h": -5,
-      "vol24h": 14786,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 23,
-      "change24h": 4,
-      "vol24h": 33508,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
