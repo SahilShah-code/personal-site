@@ -1,47 +1,25 @@
 {
-  "updated": "2026-11-12T22:55:57.060Z",
+  "updated": "2026-11-13T03:51:51.016Z",
   "withNews": [
     {
-      "question": "Will Bill Dally be the next CEO of NVIDIA?",
+      "question": "Will the price of Bitcoin be above $72,000 on November 14?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bill-dally-be-the-next-ceo-of-nvidia",
-      "yes": 2,
-      "change24h": -42,
-      "vol24h": 10889,
+      "url": "https://polymarket.com/event/bitcoin-above-72k-on-november-14-2026",
+      "yes": 9,
+      "change24h": -75,
+      "vol24h": 10061,
       "headlines": [
         {
-          "title": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "S&P 500 and Nasdaq: Tech Stocks Rebound as Nvidia Rivals AMD and Broadcom Rally",
-          "source": "FXEmpire",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSWxza0V6djN0Z2Iza1VQWmFDRXpDaXNaUW1hQkNaWDBZZ05tSFZSZEdGQzZ1Q3F1eklUSFdOOFpzbUpTS0hSQzc1d2s5R1dkMjB5N2xXM1JYTnlhU21BMm5fYW5uaEZFM2I5cEVrNFBxcl94V2hnN2t4ZlBDWExXbVhSQmpSQl9HZ3gzbFpwSE5mOU9FQlB5amZOT3R4MUpxcG90ZVZ1WXdOaUVUTDM1QUNEVWhiZVJjZDVhZXl6X0loYWxBcWNn?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin dip to $70,000 November 9-15?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-70k-november-9-15-2026",
-      "yes": 53,
-      "change24h": 38,
-      "vol24h": 38762,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Alexander Zverev vs Rafael Jodar in Nitto ATP Finals with odds, preview, pick | 15th November 2026",
+          "title": "H2H, prediction of Michael Zheng vs Stefan Kozlov in Knoxville Challenger with odds, preview, pick | 13th November 2026",
           "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa3I1ZUl3RXBzNkVFV21TOEJSdlBtOHlPYkRoSExzU1NmYjBQZU01VEtzMHRHSkFRSHhfdHhaeHBLMWV2SmxVMF9SdDc2YkVqaW80Nl9JaVpPcnYxOG8yV2M4NkRIVHJVZFE2dHhKRnBudGRIaW9WeUEwTTUtY05OS3BOOF95ZmJ4RmV3XzlvMnRaMDdqUGJUTzFqQU9NQV9hVmJqM2lXSWgxWE9RZVV5TnRfcGdoTHNsaC00RDBXVF9VdFVSOTV2ZmZLWm5GVklWUXpveW1vX2JTeDlsMXQ0ekdpb1hSNThyQmptUGRn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnlyVmxVSHNINFhPY2xrQS1kejRuYmt5Uk1qSTBkWUZHNnF6WkNlUTBTdnNGU0lnY2trdDBiRTJqSktGR1V6R0U5NE5xbW1NcjlIbVF6MzdaeDR6VnBQV2lHZWRIMjZrX1NDbzhlZHNoRUhvblFSOHFhSGlmX1VDdDh0cjB4Ympfa3AyUmtYZkhPcHhDVW41alVEcVFIMkxrUTdMRkhmdGdqbFJ6bGVPQnlNNGp3eGdBZXFNanhWRDNmWmFQYVpwd0FyeUxUNkY3TXB1bXk4Y1RFZGlqUU5jUEMzVDBtSDEyWlJ0Z2NDeFY?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
+          "title": "Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasdaq Fall After Jensen Huang Resigns",
+          "source": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUZ4dk5ZRTJ4TGJBWUdaUHltUWNhWE9IdjYwMi1lQU5pU0w4c2F4aEhsVXI1M2RIUUNiT25hbkpYRk1YRnlqQTZ3OEJHQ0UweTZiaU5vcnBqWWZiajJXcV84Sl85U0k5NWpWbXpKTTVRRnF3NGJ0UGlSSGhNYUZ0T2JRR00ycWIzTmEyVEFnQjFMTmJkb0NoSDUzd2lIOTZIQjh2ek1JMU1UNi1mTTFmQktvdGw3QTRlSGQ2X2dIdWpNVVBBRk9QXzhmS2ZUQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -49,21 +27,65 @@
       "question": "Will the price of Bitcoin be above $72,000 on November 15?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-72k-on-november-15-2026",
-      "yes": 41,
-      "change24h": -38,
-      "vol24h": 28033,
+      "yes": 13,
+      "change24h": -67,
+      "vol24h": 30967,
       "headlines": [
         {
-          "title": "H2H, prediction of Alexander Zverev vs Rafael Jodar in Nitto ATP Finals with odds, preview, pick | 15th November 2026",
+          "title": "H2H, prediction of Michael Zheng vs Stefan Kozlov in Knoxville Challenger with odds, preview, pick | 13th November 2026",
           "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa3I1ZUl3RXBzNkVFV21TOEJSdlBtOHlPYkRoSExzU1NmYjBQZU01VEtzMHRHSkFRSHhfdHhaeHBLMWV2SmxVMF9SdDc2YkVqaW80Nl9JaVpPcnYxOG8yV2M4NkRIVHJVZFE2dHhKRnBudGRIaW9WeUEwTTUtY05OS3BOOF95ZmJ4RmV3XzlvMnRaMDdqUGJUTzFqQU9NQV9hVmJqM2lXSWgxWE9RZVV5TnRfcGdoTHNsaC00RDBXVF9VdFVSOTV2ZmZLWm5GVklWUXpveW1vX2JTeDlsMXQ0ekdpb1hSNThyQmptUGRn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnlyVmxVSHNINFhPY2xrQS1kejRuYmt5Uk1qSTBkWUZHNnF6WkNlUTBTdnNGU0lnY2trdDBiRTJqSktGR1V6R0U5NE5xbW1NcjlIbVF6MzdaeDR6VnBQV2lHZWRIMjZrX1NDbzhlZHNoRUhvblFSOHFhSGlmX1VDdDh0cjB4Ympfa3AyUmtYZkhPcHhDVW41alVEcVFIMkxrUTdMRkhmdGdqbFJ6bGVPQnlNNGp3eGdBZXFNanhWRDNmWmFQYVpwd0FyeUxUNkY3TXB1bXk4Y1RFZGlqUU5jUEMzVDBtSDEyWlJ0Z2NDeFY?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
+          "title": "Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasdaq Fall After Jensen Huang Resigns",
+          "source": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUZ4dk5ZRTJ4TGJBWUdaUHltUWNhWE9IdjYwMi1lQU5pU0w4c2F4aEhsVXI1M2RIUUNiT25hbkpYRk1YRnlqQTZ3OEJHQ0UweTZiaU5vcnBqWWZiajJXcV84Sl85U0k5NWpWbXpKTTVRRnF3NGJ0UGlSSGhNYUZ0T2JRR00ycWIzTmEyVEFnQjFMTmJkb0NoSDUzd2lIOTZIQjh2ek1JMU1UNi1mTTFmQktvdGw3QTRlSGQ2X2dIdWpNVVBBRk9QXzhmS2ZUQQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the price of Bitcoin be above $70,000 on November 14?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-70k-on-november-14-2026",
+      "yes": 32,
+      "change24h": -64,
+      "vol24h": 13473,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Michael Zheng vs Stefan Kozlov in Knoxville Challenger with odds, preview, pick | 13th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnlyVmxVSHNINFhPY2xrQS1kejRuYmt5Uk1qSTBkWUZHNnF6WkNlUTBTdnNGU0lnY2trdDBiRTJqSktGR1V6R0U5NE5xbW1NcjlIbVF6MzdaeDR6VnBQV2lHZWRIMjZrX1NDbzhlZHNoRUhvblFSOHFhSGlmX1VDdDh0cjB4Ympfa3AyUmtYZkhPcHhDVW41alVEcVFIMkxrUTdMRkhmdGdqbFJ6bGVPQnlNNGp3eGdBZXFNanhWRDNmWmFQYVpwd0FyeUxUNkY3TXB1bXk4Y1RFZGlqUU5jUEMzVDBtSDEyWlJ0Z2NDeFY?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasdaq Fall After Jensen Huang Resigns",
+          "source": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUZ4dk5ZRTJ4TGJBWUdaUHltUWNhWE9IdjYwMi1lQU5pU0w4c2F4aEhsVXI1M2RIUUNiT25hbkpYRk1YRnlqQTZ3OEJHQ0UweTZiaU5vcnBqWWZiajJXcV84Sl85U0k5NWpWbXpKTTVRRnF3NGJ0UGlSSGhNYUZ0T2JRR00ycWIzTmEyVEFnQjFMTmJkb0NoSDUzd2lIOTZIQjh2ek1JMU1UNi1mTTFmQktvdGw3QTRlSGQ2X2dIdWpNVVBBRk9QXzhmS2ZUQQ?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Kimberly Powell announced resignation or removal by November 30, 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-november-30-2026",
+      "yes": 33,
+      "change24h": -15,
+      "vol24h": 20122,
+      "headlines": [
+        {
+          "title": "H2H, prediction of Michael Zheng vs Stefan Kozlov in Knoxville Challenger with odds, preview, pick | 13th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZnlyVmxVSHNINFhPY2xrQS1kejRuYmt5Uk1qSTBkWUZHNnF6WkNlUTBTdnNGU0lnY2trdDBiRTJqSktGR1V6R0U5NE5xbW1NcjlIbVF6MzdaeDR6VnBQV2lHZWRIMjZrX1NDbzhlZHNoRUhvblFSOHFhSGlmX1VDdDh0cjB4Ympfa3AyUmtYZkhPcHhDVW41alVEcVFIMkxrUTdMRkhmdGdqbFJ6bGVPQnlNNGp3eGdBZXFNanhWRDNmWmFQYVpwd0FyeUxUNkY3TXB1bXk4Y1RFZGlqUU5jUEMzVDBtSDEyWlJ0Z2NDeFY?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Stock Market Today, November 12, 2026: Dow, S&P 500 and Nasdaq Fall After Jensen Huang Resigns",
+          "source": "Eurasia Business News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUZ4dk5ZRTJ4TGJBWUdaUHltUWNhWE9IdjYwMi1lQU5pU0w4c2F4aEhsVXI1M2RIUUNiT25hbkpYRk1YRnlqQTZ3OEJHQ0UweTZiaU5vcnBqWWZiajJXcV84Sl85U0k5NWpWbXpKTTVRRnF3NGJ0UGlSSGhNYUZ0T2JRR00ycWIzTmEyVEFnQjFMTmJkb0NoSDUzd2lIOTZIQjh2ek1JMU1UNi1mTTFmQktvdGw3QTRlSGQ2X2dIdWpNVVBBRk9QXzhmS2ZUQQ?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -73,18 +95,12 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
       "yes": 63,
       "change24h": 9,
-      "vol24h": 55380,
+      "vol24h": 55003,
       "headlines": [
         {
           "title": "Fed has time to calibrate rate hikes, Daly says",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUQyM3Nob1JwMmZBS1JHN1FtZ2h5eTZFWlpZWkJ1Tm9XRlByR2lJWEZkdjJKcVVYbklvMW9GekZ5RDZDQU5KRkVaVHZzN2d6cm5NQTEzWlNtQkNGWmw2dXNJN2hvMFBwenUzdFZDLURfM2JsRVBmckhzY2FZRVJPemM5S0ZIX1BqQzFrbW1wN3lxdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDR2FBVnZjdTZUR1ZQSjRQLXBkamFfVVZiQjFxb016UE1oWS1qTl9Ha0ZPeEpaMGs3TXJMbV9sRGtickN1YkxzSTc0QVR2X2NnWGRMSXNrVG0wSWEyMktzVWRkWmhidzZMNXZzZkZNN3dXTms?oc=5",
           "cat": "Macro"
         }
       ]
@@ -93,81 +109,37 @@
       "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 37,
-      "change24h": -9,
-      "vol24h": 47106,
+      "yes": 38,
+      "change24h": -8,
+      "vol24h": 46521,
       "headlines": [
         {
           "title": "Fed has time to calibrate rate hikes, Daly says",
           "source": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUQyM3Nob1JwMmZBS1JHN1FtZ2h5eTZFWlpZWkJ1Tm9XRlByR2lJWEZkdjJKcVVYbklvMW9GekZ5RDZDQU5KRkVaVHZzN2d6cm5NQTEzWlNtQkNGWmw2dXNJN2hvMFBwenUzdFZDLURfM2JsRVBmckhzY2FZRVJPemM5S0ZIX1BqQzFrbW1wN3lxdw?oc=5",
           "cat": "Macro"
-        },
-        {
-          "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDR2FBVnZjdTZUR1ZQSjRQLXBkamFfVVZiQjFxb016UE1oWS1qTl9Ha0ZPeEpaMGs3TXJMbV9sRGtickN1YkxzSTc0QVR2X2NnWGRMSXNrVG0wSWEyMktzVWRkWmhidzZMNXZzZkZNN3dXTms?oc=5",
-          "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the April 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-april-2027-meeting",
-      "yes": 24,
-      "change24h": 6,
-      "vol24h": 12144,
-      "headlines": [
-        {
-          "title": "Fed has time to calibrate rate hikes, Daly says",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUQyM3Nob1JwMmZBS1JHN1FtZ2h5eTZFWlpZWkJ1Tm9XRlByR2lJWEZkdjJKcVVYbklvMW9GekZ5RDZDQU5KRkVaVHZzN2d6cm5NQTEzWlNtQkNGWmw2dXNJN2hvMFBwenUzdFZDLURfM2JsRVBmckhzY2FZRVJPemM5S0ZIX1BqQzFrbW1wN3lxdw?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Fed faces tougher inflation fight as pressure builds for more rate hikes",
-          "source": "Axios",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDR2FBVnZjdTZUR1ZQSjRQLXBkamFfVVZiQjFxb016UE1oWS1qTl9Ha0ZPeEpaMGs3TXJMbV9sRGtickN1YkxzSTc0QVR2X2NnWGRMSXNrVG0wSWEyMktzVWRkWmhidzZMNXZzZkZNN3dXTms?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "WTA Finals, Group A: Jessica Pegula vs Linda Noskova",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/wta-pegula-noskova-2026-11-10",
-      "yes": 42,
-      "change24h": -5,
-      "vol24h": 753564,
-      "headlines": [
-        {
-          "title": "Gauff Shakes off Back Issue and Shakes Down Kostyuk at WTA Finals",
-          "source": "Tennis Now",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGVjX2ZzTFJjM1VQc1NtZVpLWkVjY3A5TlBIeE13bzFBcHlKNDVkNEhuOUxKUm9kMWV0S05xY2MtQ1BIZko2bk8zaXNVVWRwZWl6Y284OUxiX1VpZnlzZlc5NEFIelZUU2dxYmRlSG1sR09DaVo4M3pfSDdybDdjTllUMV90S0tQdE5SX3NFdi1vQQ?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Can Coco Gauff Still Qualify for the Semis of WTA Finals? Qualification Scenarios Explained",
-          "source": "Athlon Sports",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVppN2p5YnpsYjVEc1pUQ01sb19XbVFLd1l0RzNxdVd3QUNtcXY5NmRsMU1mUnEzZmdtUDFzNmQ2NlM5QTNnYmhLOGZrZk93MHhFQWR6SXgtWFI5c3Q0QTBnWWRoNkFWOUVHemQtMkVyNmNyQW1TRF9ER3VZZUZQTEs3bDFKMi1SY2xCbllrNnVqZw?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "question": "Will Dallas Mavericks win the 2027 NBA Finals?",
       "topic": "NBA",
-      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
-      "yes": 8,
+      "url": "https://polymarket.com/event/will-dallas-mavericks-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 37365,
+      "vol24h": 46425,
       "headlines": [
         {
-          "title": "FIFA loses New York court ruling against European soccer body UEFA in World Cup investor case",
-          "source": "Castanet",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHBUT0cyVS11dVpucEp1aFZQdkotQzJocElTV0ZYdi0tNmctNEhHNWxIVTB0WlpienY0TWJjb0ZDc1hrYnhjOFZleG5qaWFlUnlxaXh6eWNoaTd2RmFkanFNSi05REhxQ1FtVXpNV2xVS09wY21SMndGUXpmMWs2UEd6RkxGMXJ2THFycWk3eXgyQnhMVjFMUWFnT3ZtTU95Y3o5SExIcGRQbVR4dDlpbFlEeDZfMjg3X2tXc3E3aU1RbUZ4OUVGN2YxSk5LTS1XYUJV?oc=5",
-          "cat": "World Cup"
+          "title": "Timberwolves rout the Mavericks 133-94 for their most lopsided win of the season",
+          "source": "Times Union",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON0QxNGtlamtCOWpkeEpiVkJiblVXUzlnakRCWGhId3JfTUtuZEhSUmlLQlhreHVSeEpSSHVQVEZkQmlPQXBPWHl0eG1qc0JvaVVfcEJ1YlhEUEVXbWRVc08waDBJVGNtVG9SQS1FRVRrSWk5Y213U1lCSWtTUG81M2tYbkRQX281aXhJS3RibHVfUGZQNjg0Z2pLWkNpYjJPY1VlNHln?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Timberwolves rout the Mavericks 133-94 for their most lopsided win of the season",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdDlwdFl4YnZLZ2tjbER0U0xCRllnYUFkcXV0VW5UeTF5cjMwUDNBSldqN0JKOEE2eDlEV2ZoeFpvajczLWRxWWNUT0lLNWhMb3BpSjhfRDZqUER5TlZtTjFhd1NLTUlHWFlqdHpDcEJJVHdPMnZnanRVakJVdXpMU1BYbw?oc=5",
+          "cat": "NBA"
         }
       ]
     },
@@ -177,51 +149,19 @@
       "url": "https://polymarket.com/event/will-the-new-york-giants-win-the-2027-nfl-league-championship",
       "yes": 1,
       "change24h": 0,
-      "vol24h": 21720,
+      "vol24h": 22353,
       "headlines": [
         {
-          "title": "Commanders vs. Giants prediction, odds, pick for Week 10 Thursday Night Football",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjd2Tjl6SUl0UDlFU2dZdEVjaEEyaFhqaUpCY0J0UmoyVUkzbVhKS2dfMEx5SmI2QVUxNGNiSVJOb1F2RDdJbzR5VXRLMU9XLUxoU3VhSnYzSExrdXRoZVhadWtTVnZnVHVoV3pxZG8yTE4zMEtBajF1V0xWdVk5Wmp1MEZMQXNqNzZnVjhB?oc=5",
+          "title": "Commanders vs. Giants live score updates: Isaiah Likely’s long TD catch retakes lead for New York, up 21-17 over Washington - The Athletic",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGtXYmRaSHhPZkRfcDJtZEVGbUo2dUJDQmhLajg2ckpfLXAzRVNPVUEtTGhpNURnWVpmX3gyY2lpWktHYjJ4N2RKaFhlMXFqdXZQczA1c1hud2w0bU9NQTlxSFZKR043aG02NXJLZjl6U2ZteHRyZ3RqZjNQZXUwVlpYZlRfUUhJUlF3VXZSRlQ0Xy1GaXdLRjgxNkJrRmZOU1pvMTFOd1ZueU9wdWVNQUlB?oc=5",
           "cat": "NFL"
         },
         {
-          "title": "Commanders vs Giants Prediction, Top Picks & Odds Tonight: Thursday Night Football Week 10",
-          "source": "Covers.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWlPYzJkSTJwRFA0UDlfZFU1R0Fland1TDRzcGpWV3p0dlFXMzFtaDJpU2ZhWF9WajMxcXRGamphM2RpM2xkZ0J1QmtyLWpoX1RvTVcwdEh3b1VLYUFmdndvSHRqR2VJbWxWTU40c1pPR19SMFBhbUVvR2d2VEdIZHRKMU5tTElhTFNHYXJsNktXejJiRnBmSTRB?oc=5",
+          "title": "Commanders vs. Giants Live Updates, Score: Washington Forces Malik Nabers Fumble",
+          "source": "FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWTJqeDZpY2R2NVE1RTZmMnlpNnRvLTlMZll6c295ZXA3MVgwTFFJN2tvLWpiZ1A2bnl2Z3pxSjJqdVpWRTZEQVZSTXFNSkp0U29mYzdHWldTUjVKeExrb1BxSzlkVXdDU2N3ZGozT2xobTBQZUZ3Y0JLY19sUXJMNkU2Y3ZCdw?oc=5",
           "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Charlotte Hornets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-charlotte-hornets-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 19377,
-      "headlines": [
-        {
-          "title": "Charlotte native Grant Williams available against Suns Thursday for first time this season",
-          "source": "Queen City News",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORTI2NmVpRnhQQ0FGMjRIdUFuang5bE9IOEpGZnZ1M3J5bmVCbzYyOXNMRGZRWjRfQ2E0NDhJX2JkV2JCZ01YeVJTZFBkMlB2cHVDQzF6RF9SQ1FobmRZX0R2S3dvZjNFbGVCanZOb19PNklJYjQ4WDhSVmtRTy1tQzZwR1VMQzBwUWR6TWFXbmxEUm1MUkZGRGg3ajRqeVhSRHhoeVFLdUM0S1pFVG9XVTNfellJOXdGQzIwM0RHNXVMNjhBVXpqQXhlYVpxMUVtYnc?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Miami Heat win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 17878,
-      "headlines": [
-        {
-          "title": "Haiti no pushover for USMNT with 'home' game in Miami, high-class attackers",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV3lPVUxDdzVQNUhqZEtDWEwyYUd4YjgyeXZ1cHZjRVROZ21aT2UxcFpDX0loYWJzUVJIbUNZQ0phWjZzMjI1OUdZZnk4VFl3X01nZlpheEsyektKSlZETS1fNlZCYWx2OXg1SzVCcTRGMUpIWVBiaHBJcG5mNXl4ZnFYbw?oc=5",
-          "cat": "World Cup"
         }
       ]
     }
@@ -231,72 +171,72 @@
       "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-70000-by-december-31-2026-from-august-24",
-      "yes": 84,
-      "change24h": 20,
-      "vol24h": 39958,
-      "headlines": []
-    },
-    {
-      "question": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-less-than-3pt50t-at-the-end-of-2026-1785882876109",
-      "yes": 41,
-      "change24h": 17,
-      "vol24h": 26506,
+      "yes": 100,
+      "change24h": 34,
+      "vol24h": 57969,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 49,
-      "change24h": 17,
-      "vol24h": 20216,
+      "yes": 64,
+      "change24h": 29,
+      "vol24h": 46057,
       "headlines": []
     },
     {
-      "question": "Kimberly Powell announced resignation or removal by December 31, 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-december-31-2026",
-      "yes": 61,
-      "change24h": 14,
-      "vol24h": 15828,
+      "question": "Tesla and SpaceX merger officially announced by January 31, 2027?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-january-31-2027",
+      "yes": 43,
+      "change24h": 25,
+      "vol24h": 12909,
       "headlines": []
     },
     {
-      "question": "Will Alice Huang be federally charged by March 31, 2027?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/alice-huang-federally-charged-by-march-31-2027",
-      "yes": 32,
-      "change24h": 11,
-      "vol24h": 14210,
+      "question": "Tesla and SpaceX merger officially announced by February 28, 2027?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-february-28-2027",
+      "yes": 51,
+      "change24h": 25,
+      "vol24h": 9870,
+      "headlines": []
+    },
+    {
+      "question": "Tesla and SpaceX merger officially announced by December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/tesla-and-spacex-merger-officially-announced-by-december-31",
+      "yes": 33,
+      "change24h": 24,
+      "vol24h": 25746,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "yes": 36,
-      "change24h": 9,
-      "vol24h": 28869,
-      "headlines": []
-    },
-    {
-      "question": "Will Nvidia’s market capitalization be between $5.00T and $5.50T at the end of 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-between-4pt50t-and-5pt00t-at-the-end-of-2026-1785882876112",
-      "yes": 11,
-      "change24h": -9,
-      "vol24h": 11575,
+      "yes": 44,
+      "change24h": 16,
+      "vol24h": 29526,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 27,
+      "yes": 34,
+      "change24h": 15,
+      "vol24h": 44932,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 18,
       "change24h": 8,
-      "vol24h": 40259,
+      "vol24h": 103421,
       "headlines": []
     }
   ]
