@@ -1,36 +1,42 @@
 {
-  "updated": "2026-11-14T12:37:45.948Z",
+  "updated": "2026-11-14T21:45:07.778Z",
   "withNews": [
     {
       "question": "WTA Finals Doubles, Group 1 (Doubles): Guo/Mladenovic vs Mertens/Zhang",
       "topic": "Tennis",
       "url": "https://polymarket.com/event/wta-doubles-guomlad-mertzha-2026-11-10",
-      "yes": 97,
-      "change24h": 69,
-      "vol24h": 60763,
+      "yes": 95,
+      "change24h": 67,
+      "vol24h": 62487,
       "headlines": [
         {
-          "title": "Aryna Sabalenka sets unwanted four-year record as furious reaction spotted during WTA Finals defeat",
-          "source": "SPORTbible",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVp1RHZMcl9TTEVYaDdLc1ZCV2d5eUMzS2podTJjNm1hVkd0aDB5Wk9pS01mZ0FUTEFzektaeDNLbk1ueGFKUzEyeVRuOHJJVTQwRUFDVjU0X3MxVERtRjI3UGFsNjg2RG02R0c0aEU3anJPR0c2RzROSDFMdWZPTHBTbGJhUEg5OXVOMmx5cWd6ODIwb3FCaTYwU2hQM1hZT1NmVmdRTHBJY1Vmem91dGVxOXBsZw?oc=5",
+          "title": "Guo / Mladenovic vs Errani / Paolini · Semifinal · WTA Finals",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFljUU56ZlVKd1FqME4xUV82akk4Qk1ITnlIZHdiaWFHbEVxUngtZjFMc2ROb25yY3pCR2xGYWNuTkFZbG1DUlFUdjAzNjhpa0VpcWZpRTlTWDkwdGR1cEJ1c1E2aHNWLTI5ZHpNdDUwcG5sVmVxaW5QMnVuUDczc242TGt1VG5YU0JxSGUySTAyWmY1QWpxVGo3bHBFbzcxZTBWMExsWU4?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "WTA Finals 2026: Singles semifinals set after Elina Svitolina shocks Aryna Sabalenka - The Athletic",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDFyU0NJNGljbEtfWlJNLWRWZXRhSWF1dFdSaUlneWs4eGYwdUg2MWNEU3lrWThFdnRRNWZ4RHBrbHFhWFhkXzdZYmROTHpIejFGR016azY2QXJCS3FzUWpHdWsxSHNUVmlQY1BadHlwaTdWTWQ2MEZFU2lJcTEtQ0d5R1pZZ2ZueElwR3lNc01tZWlNZUdKQVdENjlJT2Y0RDZz?oc=5",
+          "title": "Working as a pundit at the WTA Finals, Madison Keys confirms she's not done with tennis",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2tIQ1RXUFFuelZWQ0pLQmRZUlhUODlRWl9uYUNPX1JkRTRWUzB5U21HRGFURFFBbzFDTzdXbU94YXZYTW9WeGJlSFNFQk83bmFzMWZzS2h5OG5iaTU4VGhZbnRac2xCRkxFeGVVRlRTMkNtbWlEVzN6dVhaaGlQOXFhT1gzTllGLTJGZWN2NmdOUQ?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $66,000 November 9-15?",
+      "question": "Will the price of Bitcoin be above $66,000 on November 16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-66k-november-9-15-2026",
-      "yes": 45,
-      "change24h": 28,
-      "vol24h": 160892,
+      "url": "https://polymarket.com/event/bitcoin-above-66k-on-november-16-2026",
+      "yes": 36,
+      "change24h": -54,
+      "vol24h": 13878,
       "headlines": [
+        {
+          "title": "What Citi Expects From Alibaba (BABA) Before November 19",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWxGTWhVMmctM1NKY1dxNmdTcGhoRzFwd2xjdnRFa3F3Qks5bVJoeHRQOWItdWRXQ3dpLWZBUk5BMUVqWDFlSURkOE5QZTNDWlpRTXJRVVlaam1IMVlhOXUtNjRJM3l0TWdoOEpjRmlnR1B5YlBnOTZ6S25JMFZ5QzdEc1NoVW5oeld4eXNITm9NZnZ0TU95bFl1d2dTU0pX?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
@@ -40,13 +46,19 @@
       ]
     },
     {
-      "question": "Will Bitcoin reach $72,500 in November?",
+      "question": "Will the price of Bitcoin be above $68,000 on November 16?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-72pt5k-in-november-2026",
-      "yes": 35,
-      "change24h": -24,
-      "vol24h": 19684,
+      "url": "https://polymarket.com/event/bitcoin-above-68k-on-november-16-2026",
+      "yes": 14,
+      "change24h": -46,
+      "vol24h": 25697,
       "headlines": [
+        {
+          "title": "What Citi Expects From Alibaba (BABA) Before November 19",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWxGTWhVMmctM1NKY1dxNmdTcGhoRzFwd2xjdnRFa3F3Qks5bVJoeHRQOWItdWRXQ3dpLWZBUk5BMUVqWDFlSURkOE5QZTNDWlpRTXJRVVlaam1IMVlhOXUtNjRJM3l0TWdoOEpjRmlnR1B5YlBnOTZ6S25JMFZ5QzdEc1NoVW5oeld4eXNITm9NZnZ0TU95bFl1d2dTU0pX?oc=5",
+          "cat": "Markets"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
@@ -56,18 +68,134 @@
       ]
     },
     {
-      "question": "Will Bitcoin dip to $65,000 in November?",
+      "question": "Will Bitcoin dip to $62,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-november-2026",
-      "yes": 67,
-      "change24h": 20,
-      "vol24h": 55285,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-november-2026",
+      "yes": 71,
+      "change24h": 41,
+      "vol24h": 139931,
+      "headlines": [
+        {
+          "title": "What Citi Expects From Alibaba (BABA) Before November 19",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWxGTWhVMmctM1NKY1dxNmdTcGhoRzFwd2xjdnRFa3F3Qks5bVJoeHRQOWItdWRXQ3dpLWZBUk5BMUVqWDFlSURkOE5QZTNDWlpRTXJRVVlaam1IMVlhOXUtNjRJM3l0TWdoOEpjRmlnR1B5YlBnOTZ6S25JMFZ5QzdEc1NoVW5oeld4eXNITm9NZnZ0TU95bFl1d2dTU0pX?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Skin cancer vaccine FDA approved by June 30, 2027?",
+      "topic": "Biotech",
+      "url": "https://polymarket.com/event/skin-cancer-vaccine-fda-approved-by-june-30-2027",
+      "yes": 14,
+      "change24h": -8,
+      "vol24h": 13612,
       "headlines": [
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
           "cat": "Biotech markets"
+        },
+        {
+          "title": "Gilead Sciences Is on an FDA Approval Hot Streak. Should You Buy the Stock Like There's No Tomorrow?",
+          "source": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUG1mRUc1a2FwWDh5UHBhd1JMM2hHaWpuQ1BDUlBMR1VHR09fbDBoeEk5eElrU2x6X0I2U1NmaW5JTU10NXIxN0xUd0V6X3VTdVo3NVdPejlxUjFaYkFwUXo2dEx6d2pXR3BGQlRxYXhVX2FVUVlqaHVZdWFJbnJBcjNkYndob1BsWDlqN2U4YW80eUxlWmNaSQ?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 87,
+      "change24h": -2,
+      "vol24h": 142905,
+      "headlines": [
+        {
+          "title": "Retail sales and Fed minutes in focus next week",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmpUdGMyc2JNbVg2X0tFdzlvOElhSlZFX2V6Y1ZsTmgweEluZFFfbklQZ0tzNWVQQ0J2U3Q4cEpwWGk0aDNKRW4tQXVOVjJTeTlZMTdiSmZONGItdG9kY3RTdkEza3BWRkcxaVlhVEl4S19Cem4tVXdqWURfeGxBTXFhMFhZX1I5?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Inflation Becomes the Central Economic Risk for 2027 as Fed Weighs Rate Hikes - News and Statistics",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDc3ampZdTIxZUZNN2lhTWVWYjBUZTRPd2xqeVdYLXVtUVJlYzBWdUI2Q3JXRWIxaC1oZE1Sc3RTTkJZSmNJYVNqQnp3V1FJU3RWY1d1QkJuakVkcUJRX1JodFR5OG1uRjBlQTI5RVdYRkhMRlp3NWtlYkk4bUFXcFFmRVZsT0NrejU4endR?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will 1 Fed rate hike happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 4,
+      "change24h": 2,
+      "vol24h": 16485,
+      "headlines": [
+        {
+          "title": "Retail sales and Fed minutes in focus next week",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmpUdGMyc2JNbVg2X0tFdzlvOElhSlZFX2V6Y1ZsTmgweEluZFFfbklQZ0tzNWVQQ0J2U3Q4cEpwWGk0aDNKRW4tQXVOVjJTeTlZMTdiSmZONGItdG9kY3RTdkEza3BWRkcxaVlhVEl4S19Cem4tVXdqWURfeGxBTXFhMFhZX1I5?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Inflation Becomes the Central Economic Risk for 2027 as Fed Weighs Rate Hikes - News and Statistics",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDc3ampZdTIxZUZNN2lhTWVWYjBUZTRPd2xqeVdYLXVtUVJlYzBWdUI2Q3JXRWIxaC1oZE1Sc3RTTkJZSmNJYVNqQnp3V1FJU3RWY1d1QkJuakVkcUJRX1JodFR5OG1uRjBlQTI5RVdYRkhMRlp3NWtlYkk4bUFXcFFmRVZsT0NrejU4endR?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "yes": 3,
+      "change24h": 1,
+      "vol24h": 369177,
+      "headlines": [
+        {
+          "title": "Retail sales and Fed minutes in focus next week",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmpUdGMyc2JNbVg2X0tFdzlvOElhSlZFX2V6Y1ZsTmgweEluZFFfbklQZ0tzNWVQQ0J2U3Q4cEpwWGk0aDNKRW4tQXVOVjJTeTlZMTdiSmZONGItdG9kY3RTdkEza3BWRkcxaVlhVEl4S19Cem4tVXdqWURfeGxBTXFhMFhZX1I5?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Inflation Becomes the Central Economic Risk for 2027 as Fed Weighs Rate Hikes - News and Statistics",
+          "source": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDc3ampZdTIxZUZNN2lhTWVWYjBUZTRPd2xqeVdYLXVtUVJlYzBWdUI2Q3JXRWIxaC1oZE1Sc3RTTkJZSmNJYVNqQnp3V1FJU3RWY1d1QkJuakVkcUJRX1JodFR5OG1uRjBlQTI5RVdYRkhMRlp3NWtlYkk4bUFXcFFmRVZsT0NrejU4endR?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "WTA Finals, Group A: Jessica Pegula vs Mirra Andreeva",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/wta-pegula-andreev-2026-11-14",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 889568,
+      "headlines": [
+        {
+          "title": "Guo / Mladenovic vs Errani / Paolini · Semifinal · WTA Finals",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFljUU56ZlVKd1FqME4xUV82akk4Qk1ITnlIZHdiaWFHbEVxUngtZjFMc2ROb25yY3pCR2xGYWNuTkFZbG1DUlFUdjAzNjhpa0VpcWZpRTlTWDkwdGR1cEJ1c1E2aHNWLTI5ZHpNdDUwcG5sVmVxaW5QMnVuUDczc242TGt1VG5YU0JxSGUySTAyWmY1QWpxVGo3bHBFbzcxZTBWMExsWU4?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Working as a pundit at the WTA Finals, Madison Keys confirms she's not done with tennis",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2tIQ1RXUFFuelZWQ0pLQmRZUlhUODlRWl9uYUNPX1JkRTRWUzB5U21HRGFURFFBbzFDTzdXbU94YXZYTW9WeGJlSFNFQk83bmFzMWZzS2h5OG5iaTU4VGhZbnRac2xCRkxFeGVVRlRTMkNtbWlEVzN6dVhaaGlQOXFhT1gzTllGLTJGZWN2NmdOUQ?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
@@ -77,142 +205,94 @@
       "url": "https://polymarket.com/event/wta-noskova-svitoli-2026-11-14",
       "yes": 60,
       "change24h": 0,
-      "vol24h": 108964,
+      "vol24h": 183741,
       "headlines": [
         {
-          "title": "Aryna Sabalenka sets unwanted four-year record as furious reaction spotted during WTA Finals defeat",
-          "source": "SPORTbible",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVp1RHZMcl9TTEVYaDdLc1ZCV2d5eUMzS2podTJjNm1hVkd0aDB5Wk9pS01mZ0FUTEFzektaeDNLbk1ueGFKUzEyeVRuOHJJVTQwRUFDVjU0X3MxVERtRjI3UGFsNjg2RG02R0c0aEU3anJPR0c2RzROSDFMdWZPTHBTbGJhUEg5OXVOMmx5cWd6ODIwb3FCaTYwU2hQM1hZT1NmVmdRTHBJY1Vmem91dGVxOXBsZw?oc=5",
+          "title": "Guo / Mladenovic vs Errani / Paolini · Semifinal · WTA Finals",
+          "source": "Tennis.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdFljUU56ZlVKd1FqME4xUV82akk4Qk1ITnlIZHdiaWFHbEVxUngtZjFMc2ROb25yY3pCR2xGYWNuTkFZbG1DUlFUdjAzNjhpa0VpcWZpRTlTWDkwdGR1cEJ1c1E2aHNWLTI5ZHpNdDUwcG5sVmVxaW5QMnVuUDczc242TGt1VG5YU0JxSGUySTAyWmY1QWpxVGo3bHBFbzcxZTBWMExsWU4?oc=5",
           "cat": "Tennis"
         },
         {
-          "title": "WTA Finals 2026: Singles semifinals set after Elina Svitolina shocks Aryna Sabalenka - The Athletic",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDFyU0NJNGljbEtfWlJNLWRWZXRhSWF1dFdSaUlneWs4eGYwdUg2MWNEU3lrWThFdnRRNWZ4RHBrbHFhWFhkXzdZYmROTHpIejFGR016azY2QXJCS3FzUWpHdWsxSHNUVmlQY1BadHlwaTdWTWQ2MEZFU2lJcTEtQ0d5R1pZZ2ZueElwR3lNc01tZWlNZUdKQVdENjlJT2Y0RDZz?oc=5",
+          "title": "Working as a pundit at the WTA Finals, Madison Keys confirms she's not done with tennis",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2tIQ1RXUFFuelZWQ0pLQmRZUlhUODlRWl9uYUNPX1JkRTRWUzB5U21HRGFURFFBbzFDTzdXbU94YXZYTW9WeGJlSFNFQk83bmFzMWZzS2h5OG5iaTU4VGhZbnRac2xCRkxFeGVVRlRTMkNtbWlEVzN6dVhaaGlQOXFhT1gzTllGLTJGZWN2NmdOUQ?oc=5",
           "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Utah Jazz win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-utah-jazz-win-the-2027-nba-finals",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 70648,
-      "headlines": [
-        {
-          "title": "Why are there football lines at Audi Field during Spirit-Utah NWSL semifinal?",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSFA3OF9UVVA2Zms3dGVmcVlGa2stX05waTlVaXRpT0E0WXZjVFdlRFYxakVvSS1hcFZBNG1QSWZjYzMwRmJ1N0VydXlQU3BXZ1VKaGVlNlFSQmFqNWRMZ041T2hYSzFfU3VGTzk5TGxEeU9ja3VhUVhkSk5kRUdsQmM0OW8?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
-      "yes": 23,
-      "change24h": 0,
-      "vol24h": 12636,
-      "headlines": [
-        {
-          "title": "5 final thoughts from Cowboys-49ers: Can Dallas earn respect with upset of San Francisco?",
-          "source": "Dallas News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU1RDOFhYei1PdGFiUzdzeWJKSkthdUFUb01LRC0tdUJZSlNfTm05TEh0aHhsTy0tdTB5VHgwQk1WOXJ5T3pVYzQtS1A5NXowR21VUlNpMl94MkNZT0ozOU5veE56dG9HUEdaQzQtNjB5RzdsOUM3RDFwYjRtRnlBbmxhS0ZIUUFMZ2dZa3Raa3B2dUhhLWExa0c0YjFXSWQydEJ1a255MXhfMEJNSmc?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 12011,
-      "headlines": [
-        {
-          "title": "Terrell Davis Thinks Denver Broncos’ Winning Streak Is ‘Unorthodox’ but Says ‘This Is Who They Are’",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTTNhN3Zoa09tMWNuZjF3M3ZfT195NjQxeW5hekF0NVNXRFNsUFgzRkJpcXBVV2NNaHRCZWhJd01XNFlta19aRXY2V0Z5dC1ySDVPNU9qYUg3dVZQaWNoUVJFSFdYdHQ5WEdrSnRHVXB6Rk9kUHFfMmxDaTF0R3M3SHVvS3RtSHRsaGpVRA?oc=5",
-          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Rene Haas be the next CEO of NVIDIA?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-rene-haas-be-the-next-ceo-of-nvidia",
-      "yes": 29,
-      "change24h": 16,
-      "vol24h": 111168,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $65,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65000-by-december-31-2026-from-august-24",
-      "yes": 81,
-      "change24h": 15,
-      "vol24h": 181458,
-      "headlines": []
-    },
-    {
-      "question": "Will Ian Buck be the next CEO of NVIDIA?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ian-buck-be-the-next-ceo-of-nvidia",
-      "yes": 14,
-      "change24h": -14,
-      "vol24h": 133167,
-      "headlines": []
-    },
-    {
       "question": "Will Ethereum dip to $1,750 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1750-by-december-31-2026-20260806184731889",
-      "yes": 60,
-      "change24h": 14,
-      "vol24h": 58262,
+      "yes": 87,
+      "change24h": 37,
+      "vol24h": 159191,
       "headlines": []
     },
     {
       "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 46,
-      "change24h": 12,
-      "vol24h": 234903,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 23,
-      "change24h": 8,
-      "vol24h": 121928,
-      "headlines": []
-    },
-    {
-      "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia",
-      "yes": 9,
-      "change24h": -7,
-      "vol24h": 310039,
+      "yes": 66,
+      "change24h": 26,
+      "vol24h": 270177,
       "headlines": []
     },
     {
       "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 25,
+      "yes": 44,
+      "change24h": 19,
+      "vol24h": 38440,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 37,
+      "change24h": 18,
+      "vol24h": 180722,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 19,
+      "change24h": 10,
+      "vol24h": 207817,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,250 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1250-by-december-31-2026-from-june-8",
+      "yes": 21,
+      "change24h": 10,
+      "vol24h": 20518,
+      "headlines": []
+    },
+    {
+      "question": "Will Rene Haas be the next CEO of NVIDIA?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-rene-haas-be-the-next-ceo-of-nvidia",
+      "yes": 26,
       "change24h": 6,
-      "vol24h": 43803,
+      "vol24h": 62977,
+      "headlines": []
+    },
+    {
+      "question": "Will Ian Buck be the next CEO of NVIDIA?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ian-buck-be-the-next-ceo-of-nvidia",
+      "yes": 19,
+      "change24h": -4,
+      "vol24h": 69743,
       "headlines": []
     }
   ]
