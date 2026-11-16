@@ -1,63 +1,47 @@
 {
-  "updated": "2026-11-15T22:11:22.759Z",
+  "updated": "2026-11-16T03:29:41.890Z",
   "withNews": [
     {
-      "question": "ATP World Tour Finals, John McEnroe Group: Ben Shelton vs Arthur Fils",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-shelton-fils-2026-11-15",
-      "yes": 100,
-      "change24h": 38,
-      "vol24h": 506056,
+      "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia",
+      "yes": 16,
+      "change24h": 6,
+      "vol24h": 690720,
       "headlines": [
         {
-          "title": "Shelton Overcomes Fils' Fightback to Win ATP Finals Debut",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTG9VSlI1S3hJdVBoY3BSWHozMTF5TzVuM29ZcXhNMm54UWw4UF9ZNkFUQmFjc1lwTjVTYXctelV6RXdIUnFiMVB0bnZCQ1NvUjdMaVdkWTlLTzIyTVdrMElIRmpWQ1VRT1BLYVA1NGxVWWhuYnIxNGUtdVdlYUl4QW9OcGVXTjVqMjZ4ZW1mT0FzZw?oc=5",
-          "cat": "Tennis"
+          "title": "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move",
+          "source": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0pkS0VQRkw2c1NadFdldEJWekRCSUNXU2JKc28yNlRlaUxieFluX0pRS2JTcThTU21DNEhBM1hmM0lfUzcwT29UZUl5cVFya3JJRzlYck1vVm1lRkY2QWpNaHozUU9lVTFaM01WZ0ljTDc5amFkeFpKOGZXaWlEbHdMb01VYTRIaWp6al9BckN6TUEzamVNNThLRDlqZC1KMm52MWhCUVpNYVppR2Q3al9VYlZlOWVrWWNhaU11aVdvNmxFNUJySA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRUdxLUtPMEdMeTdmSThkWF9SSlVGRE9RXzNrWTRFbWJWNHpVYlBPSm1wcTc5aXpDOUNrODQ1THVtZ1BSZXR6T3MyUzVmckt0OTQzUDY5dTdkbTBvN1hwbUMyOG13akc1RnJMblhORExOWDBZMHI5TGlUbVctTjhSUWhEZmRkVWFrTFUyX292MGdHWVp2SDJiN1lvbWpYMG1NdU44aHpXbExTUVR5c25yQWVNMWhvWGZoTW9RMnRaTkFUSnJmYmJWUlB3YXZaYkJDeWhlUGhZa0NfOFp2bnNMcDg5TE9WWE1IN2F5SWRSNGpDX1Y2aENnMHF6dU5XMkpfTnlMTDQzbG5HMnd0Q1V0dlpCT3VvbnVJYkhsSmhIVFVDb0k?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Ethereum dip to $1,700 in November?",
+      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1700-in-november-2026",
-      "yes": 54,
-      "change24h": -23,
-      "vol24h": 13502,
+      "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-december-31-2027",
+      "yes": 35,
+      "change24h": 6,
+      "vol24h": 63149,
       "headlines": [
         {
-          "title": "(LIVESTREAMs)! Phoenix Suns v Los Angeles Lakers 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 NBA Basketball 15 November, 2026",
-          "source": "UB - Universitat de Barcelona",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNS3ZjM1lESHlpM2NzcUgxdHhrNXQycS1RWlBmakxXbWFKY0dJelFuYVg4X25uLWxaR2JzRGtIVWU1VFNHV2pKaWNTUm5ZeTRuZWhYYzc1ODhzdVZiUWhDV2JwMUZGRDBZa1NzeWEyTEVuOW5acjBELUFBbk96bzU2QnhlYXlkYmxJYWJ2eXU5NzZpSzZUNnFQeHpvMFdVdXlyVUUyLTZ6TmVOZC1BckphMHZKNFc3b0FybmVWdTZpYTJKZXJvZWhUeFFBYnVlNVFBU05SVXlBUXU4R1J1c28xcEgySjVVUTlXeTVXbDJXOTEtdmoyeXQwMlMyTzk5Sk53RGFreG52d2QzLVlobUN0U0NDOXNqc1o3TERWOTdJa29mQVpR?oc=5",
-          "cat": "NBA"
+          "title": "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move",
+          "source": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0pkS0VQRkw2c1NadFdldEJWekRCSUNXU2JKc28yNlRlaUxieFluX0pRS2JTcThTU21DNEhBM1hmM0lfUzcwT29UZUl5cVFya3JJRzlYck1vVm1lRkY2QWpNaHozUU9lVTFaM01WZ0ljTDc5amFkeFpKOGZXaWlEbHdMb01VYTRIaWp6al9BckN6TUEzamVNNThLRDlqZC1KMm52MWhCUVpNYVppR2Q3al9VYlZlOWVrWWNhaU11aVdvNmxFNUJySA?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "H2H, prediction of Carlos Taberner vs Filippo Moroni in Metz Challenger with odds, preview, pick | 16th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG1DeWZ3bEQxT1g1T3Q4b0p0QUtxZHZpQzhWUHB5ZDBzNHlZeklJSFVISEhRT3lta2dsZC1VVXBxWjhuLVNxX05fRGVGNDJQZ3E5dXo3RnBnVXRvSC1paVQwTkNMSmwwVWNQYVhQQWFSOGluMDhCaUtNeXc2MjhJSUhSQ3R4dkZndXV5S0dmb1FZRnNRakhqVU1fQVhlSW8xc2VoWGdBbWpWQXpNcEdUVVhIVHp0d01RdnJXUDN3RDRIV2Y4ZnA0YTNQQ3ppVHI0c3ZuQUZEOTZTakkyeHRibkNjQnlvRTdaeG9GajlB?oc=5",
-          "cat": "Tennis"
-        }
-      ]
-    },
-    {
-      "question": "Will Ethereum dip to $1,600 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1600-in-november-2026",
-      "yes": 30,
-      "change24h": -18,
-      "vol24h": 16790,
-      "headlines": [
-        {
-          "title": "(LIVESTREAMs)! Phoenix Suns v Los Angeles Lakers 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 NBA Basketball 15 November, 2026",
-          "source": "UB - Universitat de Barcelona",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNS3ZjM1lESHlpM2NzcUgxdHhrNXQycS1RWlBmakxXbWFKY0dJelFuYVg4X25uLWxaR2JzRGtIVWU1VFNHV2pKaWNTUm5ZeTRuZWhYYzc1ODhzdVZiUWhDV2JwMUZGRDBZa1NzeWEyTEVuOW5acjBELUFBbk96bzU2QnhlYXlkYmxJYWJ2eXU5NzZpSzZUNnFQeHpvMFdVdXlyVUUyLTZ6TmVOZC1BckphMHZKNFc3b0FybmVWdTZpYTJKZXJvZWhUeFFBYnVlNVFBU05SVXlBUXU4R1J1c28xcEgySjVVUTlXeTVXbDJXOTEtdmoyeXQwMlMyTzk5Sk53RGFreG52d2QzLVlobUN0U0NDOXNqc1o3TERWOTdJa29mQVpR?oc=5",
-          "cat": "NBA"
-        },
-        {
-          "title": "H2H, prediction of Carlos Taberner vs Filippo Moroni in Metz Challenger with odds, preview, pick | 16th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG1DeWZ3bEQxT1g1T3Q4b0p0QUtxZHZpQzhWUHB5ZDBzNHlZeklJSFVISEhRT3lta2dsZC1VVXBxWjhuLVNxX05fRGVGNDJQZ3E5dXo3RnBnVXRvSC1paVQwTkNMSmwwVWNQYVhQQWFSOGluMDhCaUtNeXc2MjhJSUhSQ3R4dkZndXV5S0dmb1FZRnNRakhqVU1fQVhlSW8xc2VoWGdBbWpWQXpNcEdUVVhIVHp0d01RdnJXUDN3RDRIV2Y4ZnA0YTNQQ3ppVHI0c3ZuQUZEOTZTakkyeHRibkNjQnlvRTdaeG9GajlB?oc=5",
-          "cat": "Tennis"
+          "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus",
+          "source": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPRUdxLUtPMEdMeTdmSThkWF9SSlVGRE9RXzNrWTRFbWJWNHpVYlBPSm1wcTc5aXpDOUNrODQ1THVtZ1BSZXR6T3MyUzVmckt0OTQzUDY5dTdkbTBvN1hwbUMyOG13akc1RnJMblhORExOWDBZMHI5TGlUbVctTjhSUWhEZmRkVWFrTFUyX292MGdHWVp2SDJiN1lvbWpYMG1NdU44aHpXbExTUVR5c25yQWVNMWhvWGZoTW9RMnRaTkFUSnJmYmJWUlB3YXZaYkJDeWhlUGhZa0NfOFp2bnNMcDg5TE9WWE1IN2F5SWRSNGpDX1Y2aENnMHF6dU5XMkpfTnlMTDQzbG5HMnd0Q1V0dlpCT3VvbnVJYkhsSmhIVFVDb0k?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -65,220 +49,200 @@
       "question": "Will the price of Bitcoin be above $62,000 on November 17?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/bitcoin-above-62k-on-november-17-2026",
-      "yes": 88,
-      "change24h": 15,
-      "vol24h": 25525,
+      "yes": 91,
+      "change24h": 6,
+      "vol24h": 14523,
       "headlines": [
         {
-          "title": "(LIVESTREAMs)! Phoenix Suns v Los Angeles Lakers 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 NBA Basketball 15 November, 2026",
-          "source": "UB - Universitat de Barcelona",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNS3ZjM1lESHlpM2NzcUgxdHhrNXQycS1RWlBmakxXbWFKY0dJelFuYVg4X25uLWxaR2JzRGtIVWU1VFNHV2pKaWNTUm5ZeTRuZWhYYzc1ODhzdVZiUWhDV2JwMUZGRDBZa1NzeWEyTEVuOW5acjBELUFBbk96bzU2QnhlYXlkYmxJYWJ2eXU5NzZpSzZUNnFQeHpvMFdVdXlyVUUyLTZ6TmVOZC1BckphMHZKNFc3b0FybmVWdTZpYTJKZXJvZWhUeFFBYnVlNVFBU05SVXlBUXU4R1J1c28xcEgySjVVUTlXeTVXbDJXOTEtdmoyeXQwMlMyTzk5Sk53RGFreG52d2QzLVlobUN0U0NDOXNqc1o3TERWOTdJa29mQVpR?oc=5",
+          "title": "H2H, prediction of Giles Hussey vs Keshav Chopra in Champaign Challenger with odds, preview, pick | 16th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMW9HSV9VcTBRVk1MOHdrMFduZzg4UmdoYUd2MEM0eTQwRzY3aFZDdU5jeFpzaFctV2x3ZjZTYW9wUkZKOTZ2dWdKdHJaM1lJNEhWV2xLWHZhS3hHTHlfOWtwZ2lIYVljZlB2SXdJSFN4VWZlUkl2eFNTV0J2MkJhM2RwMlU0NnZFby16U0NLZWQwUmxSNHVObDEyTEs0TXE3Nnp5bmJhVFRjc05wbVhFWGQ3N0JWOGhWRHlVRXAzZGloM3MzTWxxc3ZyQ3VqSDBhTmtkMGxDZzlVV1NqNmk1TnZMQlVycG5CaVlyOUE0OA?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "H2H, prediction of Andres Martin vs Filip Jeff Planinsek in Champaign Challenger with odds, preview, pick | 16th November 2026",
+          "source": "Tennis Tonic",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZHhPSmNpV25GMWFOdFBnOFNRWlZ2SFctVEZZWXdLSHNwSlltSnFNSWlna1NfdzN1M1ZaOXFwaGY5SzlvSDVEWG5pYUtEYkNSQXk0V2s1RzNIdVBLVmp5TUw4SUxELWE5MkxNVzlmTVY2OVpFZXFHcDRpeTVJcHNiUzdXYlFhRjZ6YWpRc2EzQTFTbXROQld3LUFsVFl0cUlyUUdETFBuZURKbmt5U1NnTmxseF96QngzTVFIaHluakRZeWZVcXZQaGdxNjhralB4NE90Q2E5MmRwZ1Jvak1RZldHa3U3TkdVRDBnaGxZY1hoTUNXQmE0a25n?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
+      "yes": 38,
+      "change24h": -4,
+      "vol24h": 66116,
+      "headlines": [
+        {
+          "title": "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move",
+          "source": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0pkS0VQRkw2c1NadFdldEJWekRCSUNXU2JKc28yNlRlaUxieFluX0pRS2JTcThTU21DNEhBM1hmM0lfUzcwT29UZUl5cVFya3JJRzlYck1vVm1lRkY2QWpNaHozUU9lVTFaM01WZ0ljTDc5amFkeFpKOGZXaWlEbHdMb01VYTRIaWp6al9BckN6TUEzamVNNThLRDlqZC1KMm52MWhCUVpNYVppR2Q3al9VYlZlOWVrWWNhaU11aVdvNmxFNUJySA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 62,
+      "change24h": 4,
+      "vol24h": 25246,
+      "headlines": [
+        {
+          "title": "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move",
+          "source": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0pkS0VQRkw2c1NadFdldEJWekRCSUNXU2JKc28yNlRlaUxieFluX0pRS2JTcThTU21DNEhBM1hmM0lfUzcwT29UZUl5cVFya3JJRzlYck1vVm1lRkY2QWpNaHozUU9lVTFaM01WZ0ljTDc5amFkeFpKOGZXaWlEbHdMb01VYTRIaWp6al9BckN6TUEzamVNNThLRDlqZC1KMm52MWhCUVpNYVppR2Q3al9VYlZlOWVrWWNhaU11aVdvNmxFNUJySA?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed 'has some work to do on inflation,' KC Fed chief says",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYzUxUFhTSmhGRmdzb3A3dUlnQ0I4R2cxSHNwTEpjU2s3OXNyeGwwWnZyeWxEUnNqaUduRERadlZfWEZGaFpDZjJXNklicDJGSV91VEZjV2ZLc0RLeE1BNU5yTFBmazNYMWFhSkl1Qzl6ZTBOSE9MYWlnNVZIdmZtckZZcW1aeGdQXzRuTU5PS1hSLURlUFE?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Kimberly Powell announced resignation or removal by December 31, 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-december-31-2026",
+      "yes": 40,
+      "change24h": 4,
+      "vol24h": 10458,
+      "headlines": [
+        {
+          "title": "Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move",
+          "source": "investingLive",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS0pkS0VQRkw2c1NadFdldEJWekRCSUNXU2JKc28yNlRlaUxieFluX0pRS2JTcThTU21DNEhBM1hmM0lfUzcwT29UZUl5cVFya3JJRzlYck1vVm1lRkY2QWpNaHozUU9lVTFaM01WZ0ljTDc5amFkeFpKOGZXaWlEbHdMb01VYTRIaWp6al9BckN6TUEzamVNNThLRDlqZC1KMm52MWhCUVpNYVppR2Q3al9VYlZlOWVrWWNhaU11aVdvNmxFNUJySA?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
+      "yes": 24,
+      "change24h": 1,
+      "vol24h": 20273,
+      "headlines": [
+        {
+          "title": "Spurs win 12th straight while sending Jazz to 12th straight loss",
+          "source": "KSAT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSHJlRmNkNFlLS1pxOXlvNnN4UlNTZW0yMkI1cGJ5UHZNWHZ0VEtCaFVoUENxUnZnUlltbzJta296cXFKZHdPZ0JjY25TWl9idjNPVzRDbUl0TndVSmVRcmh1ZkVqckdXb19MZzhXOGFpS19CSTVtaXR4OVU5d2JKRndZb3RMUWVKdmxWZVJrVE1MWXRNaU5jd2V5T2twTnFzTnFlYmNjYw?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "H2H, prediction of Carlos Taberner vs Filippo Moroni in Metz Challenger with odds, preview, pick | 16th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG1DeWZ3bEQxT1g1T3Q4b0p0QUtxZHZpQzhWUHB5ZDBzNHlZeklJSFVISEhRT3lta2dsZC1VVXBxWjhuLVNxX05fRGVGNDJQZ3E5dXo3RnBnVXRvSC1paVQwTkNMSmwwVWNQYVhQQWFSOGluMDhCaUtNeXc2MjhJSUhSQ3R4dkZndXV5S0dmb1FZRnNRakhqVU1fQVhlSW8xc2VoWGdBbWpWQXpNcEdUVVhIVHp0d01RdnJXUDN3RDRIV2Y4ZnA0YTNQQ3ppVHI0c3ZuQUZEOTZTakkyeHRibkNjQnlvRTdaeG9GajlB?oc=5",
-          "cat": "Tennis"
+          "title": "Highlights: Spurs at Jazz (11/15) Stream of National Basketball Association",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcXhUeUx3V25ueWVULWkzOE52empDaUttUVJUTE9ONW9qWVF3S2w4VTVBY0hjV0ctUThhT1ZiYy1iNEtHa2xubEFXSjJDUE9WTDVyTjVnRHJxSUJjWVVpbWdobUFnVWVtQU54UmZVcndQUk5jR3l1V0lRTQ?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
-      "yes": 9,
-      "change24h": 4,
-      "vol24h": 29435,
-      "headlines": [
-        {
-          "title": "Week 10 NFL scores, live updates: Fernando Mendoza rushes for TD in opening drive of first career start; Kirk Cousins delivers strong start in first game back with Vikings",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSC1QalVTdWhBZVd2alB0Nk52T2hmWjdmTE00bXQ1THZWcTRtT0pPanVwQ2E3cXl0c3lUcXZyNUxGWE1HcDc1am1zYTJMY1ZRNTVlbjE2dWVoakhGd25GM2IyQ0FBMVE0VjNKZDNPUUlkNDhwNnpqSnFRUVEyLXJTOUVpdGQtQ1dJWnJzTW5wbFF1NkpGVUJGajRscHB3Q1VvNmYyNURRTUJmVXZ3T0FZR3FqOXVBclpYeVFucElIVEhPNU5oQWJwQ1ZYekUyeUFxLUE?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will China’s 2026 annual GDP growth (Y/Y) be between 5.0% and 6.0%?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-chinas-2026-annual-gdp-growth-yy-be-between-5pt0-and-6pt0",
-      "yes": 0,
-      "change24h": -2,
-      "vol24h": 19522,
-      "headlines": [
-        {
-          "title": "China’s rapid human trials draw western drugmakers — and safety concerns",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakRVNndEM0JDRlplN1REY0dRd0tKb1JnT3NLX0daNzRNQVRobjVkcVdIZkxGM21QVUc5eUpab3NiVVNrNF9seE5hVjJmMEtKU3dxcFdkNnFFeURLbTlBb0tGZDlDVmk2WFVsakxqTFRnbWkwMW9id0tqdWJ1ejBYcjRjYVU?oc=5",
-          "cat": "Biotech"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "question": "Will Boston Celtics win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
       "yes": 9,
       "change24h": 1,
-      "vol24h": 33492,
+      "vol24h": 13235,
       "headlines": [
         {
-          "title": "Ticker: Retail sales data, Fed minutes on tap this week",
-          "source": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGNpTUFRTlNmLVVpYXA3S25RYVZrSTBqQkV6WFp6UUxWb1A5ZjRBbjROM3ZMcWdTZjYwcldEVkpjOXNKbXlNVGhhUXdmN05aLTBmamZDb1lXc3diVkdWN185dDNlQlBXZlA1TXRNNVA3bmdTeVZsQ05KYXdnNl9mQzVlT1hUM29tZ0g5cG1ZV3pFWlk3T1picEVn?oc=5",
-          "cat": "Macro"
+          "title": "Highlights: Mavericks at Celtics (11/15) Stream of National Basketball Association",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORG5aLXNnSGtrUm1FbGc0Q2N4d0RZR0ZBNmlZN3QwdVpDRGpuUktXWVBEUTZqMGNkc1A2NWhvS0RsTE5tRFNZS3REODlkOUR4TU8wRU00WllKdzZfTFVfRW9TUlZTajJueW0taUFURTF5cTNTeWp3YVcxYWhGQjNWblZDTGE?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the New England Patriots win the 2027 NFL league championship?",
+      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
       "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
-      "yes": 1,
-      "change24h": -1,
-      "vol24h": 25279,
+      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
+      "yes": 7,
+      "change24h": 1,
+      "vol24h": 12534,
       "headlines": [
         {
-          "title": "NOTEBOOK: Lions' offensive line dominant in victory over Patriots",
-          "source": "Detroit Lions",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTBEZFpHUXNHaTFzd3h5S0lpRXNLaUJPY3VhcVVEMWhvSHZzdy1IVF90Q0pkRFYybkprVWJaRjBUYm1Pcldqa2NFeG85a1pVY1p0dmpBN00xTk5kdTBWU3UxRkFZVzgycHlneHNlM3l1Uk5WX050bEFYSnV0SVoxaEVKb2hsQVphNEhLRUJReXVSUHAxSWxzRWZXbWthM1U2dE95YUxZUEZEOV9ZQUUtMGpWOXFIQklXdTVfYXB1TDA1Ylh5WUlJ?oc=5",
-          "cat": "NFL"
-        },
-        {
-          "title": "Spain 2 England 3: Was this the best result of the Thomas Tuchel era?",
+          "title": "Steelers vs. Bengals live score updates: NFL latest as dominant Burrow, Cincinnati lead 24-3 in second half",
           "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSFREVWUwNTQyR09QZzNiQ0RSQzBCUkJ1UWk3WENkRTZpNlN0MzFZcDJEZ2VybS1XMFVIM3FRaVZIN0JXaXVLbHRmZVBPZHRST0tpWXZPLVJJLUpTVG5tS3MzTFJsTmg3QktXalhXQUtqelp1YjJRNG1zcWZNQTFqQWpnSEFkSFNBTGhtNjVPcTFkdTdsa1VBZlAwOWNpZw?oc=5",
-          "cat": "World Cup"
-        }
-      ]
-    },
-    {
-      "question": "ATP World Tour Finals, Ivan Lendl Group: Carlos Alcaraz vs Frances Tiafoe",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-alcaraz-tiafoe-2026-11-16",
-      "yes": 89,
-      "change24h": 1,
-      "vol24h": 11881,
-      "headlines": [
-        {
-          "title": "H2H, prediction of Carlos Taberner vs Filippo Moroni in Metz Challenger with odds, preview, pick | 16th November 2026",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG1DeWZ3bEQxT1g1T3Q4b0p0QUtxZHZpQzhWUHB5ZDBzNHlZeklJSFVISEhRT3lta2dsZC1VVXBxWjhuLVNxX05fRGVGNDJQZ3E5dXo3RnBnVXRvSC1paVQwTkNMSmwwVWNQYVhQQWFSOGluMDhCaUtNeXc2MjhJSUhSQ3R4dkZndXV5S0dmb1FZRnNRakhqVU1fQVhlSW8xc2VoWGdBbWpWQXpNcEdUVVhIVHp0d01RdnJXUDN3RDRIV2Y4ZnA0YTNQQ3ppVHI0c3ZuQUZEOTZTakkyeHRibkNjQnlvRTdaeG9GajlB?oc=5",
-          "cat": "Tennis"
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlBDWmJDdTlmd3c1YnJKNFJPYjhSMFpxOEQ5MU1hMzJuNUJiUXU1ODkzZUstZWJUZlpjR1RIWTFHeko3TUl3T1AzaUxzY1pFVXhQZUxXOTh5VGQzczRxNjBKRFg2b0dyRndxMktyLWNJQWV3Ql9sV1pySFQ2clpxb1Vjb09ObVlUTFM0LUpEM3BZZmNxN2NoZXdBcGxibVpCR3J0VW84WlB2Vm5NTmY5ZQ?oc=5",
+          "cat": "NFL"
         },
         {
-          "title": "Shelton Overcomes Fils' Fightback to Win ATP Finals Debut",
-          "source": "TennisTemple",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTG9VSlI1S3hJdVBoY3BSWHozMTF5TzVuM29ZcXhNMm54UWw4UF9ZNkFUQmFjc1lwTjVTYXctelV6RXdIUnFiMVB0bnZCQ1NvUjdMaVdkWTlLTzIyTVdrMElIRmpWQ1VRT1BLYVA1NGxVWWhuYnIxNGUtdVdlYUl4QW9OcGVXTjVqMjZ4ZW1mT0FzZw?oc=5",
-          "cat": "Tennis"
+          "title": "Cris Collinsworth says Bengals' fans are noticing Tee Higgins limping",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOako2OWpYRDZMcjhoNTZJcS1KY2d5VWZmbnV2WmdxTTV0TW85dEIxajM1dnZndUxLM2RRMHVsSFN2eEVKMzFGMWl4NV9QU0hIZU1sTm5GUDVYRnUtSm5tYTZqRDh6djBJZURCemQ4TkdCUW1HZHZUd0lCcEZIaERmWFl1NXY1Y05veXZadQ?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "yes": 87,
-      "change24h": 0,
-      "vol24h": 342112,
+      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
+      "yes": 8,
+      "change24h": -1,
+      "vol24h": 9327,
       "headlines": [
         {
-          "title": "Ticker: Retail sales data, Fed minutes on tap this week",
-          "source": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbGNpTUFRTlNmLVVpYXA3S25RYVZrSTBqQkV6WFp6UUxWb1A5ZjRBbjROM3ZMcWdTZjYwcldEVkpjOXNKbXlNVGhhUXdmN05aLTBmamZDb1lXc3diVkdWN185dDNlQlBXZlA1TXRNNVA3bmdTeVZsQ05KYXdnNl9mQzVlT1hUM29tZ0g5cG1ZV3pFWlk3T1picEVn?oc=5",
+          "title": "Chicago Fed President: We are failing on the inflation side of the dual mandate | Invest 2026",
+          "source": "Forex Factory",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGhENEEwVjNrTE5HSm0xZ3ZsNUR5Q1UxaHRxdXJ1dk1XVVl5QXBSY2VrRktFN0VtT1NuaUJ2V2x0clRVUEFaQmE2Smw5TDhhMjJJcTVZMU1Rak9laE55R2pOaFFzLTJYcFFlNjVYZDJfYkNHRHNLaXFwOFJOZVI3SVJ1cnJiNnNyd0ZFaVNR0gGTAUFVX3lxTFBwNnVQUzBGVTF2R3VvLTlCbGpkSERoYkJGS2xjQlk2eHY2NWdLZnJTY1hXNVY5SFc3MG1yS3Z0WlBoakNiZ2x1bmRjVlpMWENBSWdXUmw2TnNmbzBnUEt3SGRrTGhrLTQtUk96YTVXeHBKNUQwZjJRRkZVamxyMTlDcTdZWE9RS01SaDd1LUZvVnpXVQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the Houston Texans win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
-      "yes": 1,
+      "question": "Will Utah Jazz win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-utah-jazz-win-the-2027-nba-finals",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 29995,
+      "vol24h": 126482,
       "headlines": [
         {
-          "title": "Texans report card: Grading Houston's costly Week 10 loss to Browns",
-          "source": "Houston Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTm5fT213MjV2NTR6c3dtS3lTTllONEdyR0hUbmRlLXVFTHBtNFczM0wzbERwR0xFUm1YQUZfa0VYSTYzcVlKQnd3ZWx4dlZpbjhMMVNfTkYtQXZwMGJ0NkFaV3hTOWdTMnlVLTg4NGMyTm5rSDlHLWs4em8tNDlicG1kSTV3cEl2cHlWU0tkZlRXZ2lub0tQLVNiR2U?oc=5",
-          "cat": "NFL"
+          "title": "Spurs win 12th straight while sending Jazz to 12th straight loss",
+          "source": "KSAT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSHJlRmNkNFlLS1pxOXlvNnN4UlNTZW0yMkI1cGJ5UHZNWHZ0VEtCaFVoUENxUnZnUlltbzJta296cXFKZHdPZ0JjY25TWl9idjNPVzRDbUl0TndVSmVRcmh1ZkVqckdXb19MZzhXOGFpS19CSTVtaXR4OVU5d2JKRndZb3RMUWVKdmxWZVJrVE1MWXRNaU5jd2V5T2twTnFzTnFlYmNjYw?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Highlights: Spurs at Jazz (11/15) Stream of National Basketball Association",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcXhUeUx3V25ueWVULWkzOE52empDaUttUVJUTE9ONW9qWVF3S2w4VTVBY0hjV0ctUThhT1ZiYy1iNEtHa2xubEFXSjJDUE9WTDVyTjVnRHJxSUJjWVVpbWdobUFnVWVtQU54UmZVcndQUk5jR3l1V0lRTQ?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-december-31-2027",
-      "yes": 42,
-      "change24h": 14,
-      "vol24h": 39748,
-      "headlines": []
-    },
-    {
       "question": "Will another city host the final of the 2030 FIFA World Cup?",
       "topic": "World Cup",
       "url": "https://polymarket.com/event/will-another-city-host-the-final-of-the-2030-fifa-world-cup-20260805200159843",
       "yes": 62,
       "change24h": 13,
-      "vol24h": 11574,
+      "vol24h": 11572,
       "headlines": []
     },
     {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
+      "question": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 36,
-      "change24h": -9,
-      "vol24h": 18084,
-      "headlines": []
-    },
-    {
-      "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia",
-      "yes": 16,
-      "change24h": 7,
-      "vol24h": 390404,
-      "headlines": []
-    },
-    {
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-december-31-2026",
-      "yes": 20,
-      "change24h": 6,
-      "vol24h": 396873,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 33,
-      "change24h": -6,
-      "vol24h": 239064,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
-      "yes": 61,
-      "change24h": -5,
-      "vol24h": 113826,
-      "headlines": []
-    },
-    {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 17,
-      "change24h": -4,
-      "vol24h": 186896,
+      "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-less-than-3pt50t-at-the-end-of-2026-1785882876109",
+      "yes": 44,
+      "change24h": -7,
+      "vol24h": 8770,
       "headlines": []
     }
   ]
