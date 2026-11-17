@@ -1,198 +1,115 @@
 {
-  "updated": "2026-11-17T01:12:50.865Z",
+  "updated": "2026-11-17T15:01:21.703Z",
   "withNews": [
     {
-      "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia",
-      "yes": 9,
-      "change24h": -9,
-      "vol24h": 899010,
+      "question": "ATP World Tour Finals, John McEnroe Group: Arthur Fils vs Rafael Jodar",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-fils-jodar-2026-11-17",
+      "yes": 100,
+      "change24h": 50,
+      "vol24h": 1012387,
       "headlines": [
         {
-          "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTDlCU2hKb0lBaEpYdURQRkdDX1R6TDVDZG51T2xPLUZ0ckg5MTZfSExtVUhOOTF6WTJuUXp5eXdYQmR1TEJkQkR6QWJ3WEdVUGtVWk5LYVBlRGhON3dSbjgxVElqNm5tcS1KUi1wRkttNmdlaU13MnRMSFYwQ2ZTUE51YVpvZTJmNkVYTW11RVFfblNVdXRBcU9lQW1OSGlmZnhXTnlyaHp0dS0yaUszODNWaUJRNkQ2cjlrSzhqbF9GRlNDQjFaUVJuNzZodTJMSzJYVlQ3N2ltX0RxMXR5ajZxQTFKbUZSVXcyVFNsNA?oc=5",
-          "cat": "Markets"
+          "title": "Cobolli: Sinner's absence weighs heavily at ATP Finals",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkc1ZUlQT3pJSWZaLXVTUi0xa29xUkY3ZmpJeE85dk9IXzZiUkNXdmpBdm5MbnJRLUwwRjY4SlVXNk42WXpGRHU1eGF5TTR1eVZPNTZDX2ZtTW12QkxxMWkwYXpZTnY4akY1a2VDQ2tyM181Z3dMMVV6V0lLMXdTTm4tUWJKcjZWeFRr?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-december-31-2027",
-      "yes": 32,
-      "change24h": -9,
-      "vol24h": 123775,
-      "headlines": [
-        {
-          "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTDlCU2hKb0lBaEpYdURQRkdDX1R6TDVDZG51T2xPLUZ0ckg5MTZfSExtVUhOOTF6WTJuUXp5eXdYQmR1TEJkQkR6QWJ3WEdVUGtVWk5LYVBlRGhON3dSbjgxVElqNm5tcS1KUi1wRkttNmdlaU13MnRMSFYwQ2ZTUE51YVpvZTJmNkVYTW11RVFfblNVdXRBcU9lQW1OSGlmZnhXTnlyaHp0dS0yaUszODNWaUJRNkQ2cjlrSzhqbF9GRlNDQjFaUVJuNzZodTJMSzJYVlQ3N2ltX0RxMXR5ajZxQTFKbUZSVXcyVFNsNA?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-december-31-2026",
-      "yes": 11,
-      "change24h": -6,
-      "vol24h": 741835,
-      "headlines": [
-        {
-          "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week — NVDA, TSLA, ANT In Focus",
-          "source": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTDlCU2hKb0lBaEpYdURQRkdDX1R6TDVDZG51T2xPLUZ0ckg5MTZfSExtVUhOOTF6WTJuUXp5eXdYQmR1TEJkQkR6QWJ3WEdVUGtVWk5LYVBlRGhON3dSbjgxVElqNm5tcS1KUi1wRkttNmdlaU13MnRMSFYwQ2ZTUE51YVpvZTJmNkVYTW11RVFfblNVdXRBcU9lQW1OSGlmZnhXTnlyaHp0dS0yaUszODNWaUJRNkQ2cjlrSzhqbF9GRlNDQjFaUVJuNzZodTJMSzJYVlQ3N2ltX0RxMXR5ajZxQTFKbUZSVXcyVFNsNA?oc=5",
-          "cat": "Markets"
-        },
-        {
-          "title": "Wall Street ends sharply lower on AI jitters ahead of Nvidia results, Anthropic IPO",
-          "source": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEJobHpHMl90WUdVbnpzSGxLb1l3bi1BczhrN29iVW9rUzBtQWE4aFNuM2ZGS1RIQThLdEZPWmZjeExVaHhRaXBubkdqR3R3TXJYTlRqUmRYcXZxYS1pV1lyRlExUDdEUWJ3cTg4aktJVWcxbkg5UW9oeVRXLXhCZjdRQmFNeFJlLXhpWTRMM1lEUVlodGwxVHNCSE9ONTlnem0yekw1dDNraElYZGc?oc=5",
-          "cat": "Markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Jaxson Smith-Njigba win the 2026 NFL MVP?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-jaxson-smith-njigba-win-the-2026-nfl-mvp",
-      "yes": 3,
-      "change24h": -2,
-      "vol24h": 10061,
-      "headlines": [
-        {
-          "title": "PREDICTION, PREVIEW, H2H: Zhang, Daniel, Smith and Noguchi to play on Tuesday – Kobe Challenger",
-          "source": "Tennis Tonic",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVkJxNGZ6WlZaZk84MTgxZzRhbHdhb2hVSzBJNTFpZzFDWDN5OW9FdkVYNVV4dXZKWlpkUktUSFR2UTl6am1lRzBFdU12TklOX1BvZVhUYmpFZlFwYkNjUmlhYWxlbkZmVUgzamEzMlZKemc3OHJhWGdFRzVmVmk1b2JEVG5Gc25kUkVaNG5uM0R1OVdjUS15LVhZTXhzYk1JMlNUeGFIZ3pxVzNORWxqbFZYMEw5M2N6Mm9PQl9sUkg3QlM4U2lpRHNUekNFdw?oc=5",
+          "title": "Fresh ATP Finals Drama as Doubles World no.1 Slams Tennis Leadership",
+          "source": "Athlon Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVMyQVRaQ1VwNDBhLVdkZEtfeHdJMVpUVEdfZEdaSWNCRGMxX0NkM21MZ0VRb0wzMGlWV0FZUHE1WllTeW1xZWhsN3hTd09XaXg5a3pzWHhma01nYU84bEhwUXhmS3FBd29rVGpNSlpQdVhpMTlwb1ppc1ZaVk5oZEZKM2NUYzhLZDJvcll5SVNlN1A3OHBIVnlXWlRpVmY3eWc?oc=5",
           "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will Houston Rockets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-houston-rockets-win-the-2027-nba-finals",
-      "yes": 6,
-      "change24h": 1,
-      "vol24h": 11037,
-      "headlines": [
-        {
-          "title": "(LIVESTREAMs!)TV! Houston Rockets vs Miami Heat LIVE Free NBA Basketball Week 2 Match 16 November 2026",
-          "source": "UB - Universitat de Barcelona",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQendIQ0VFeGItZENjMWlFbzduMjhycTJYZFlGTkJGWXZYZUl0SnlqTEd4Rmw5aWs0ZUx4VjFNeXVSSXZ2WlZNcnl4dE5fODlTYVR0RUZDeW5VanhRVDBTajZndWlXb2RuT1JNOU5DaUo3NnlTLU04VG5Bb19BeUh6dEhyb2hIbUNCQmcwZ256ZVN3WlRSM1FzcWwtN0oyd2dRVGZhZ1B6eGFkN2ppTUxBMWxsU190MHhrQnZEWTh6OXMybGp4THZ6dUJEV1ZCd29nRnl3SHNwQ3MwOFp2WkZzQ1pNVVZrRWtHeVVuREJGeWFtS2cyTHBSXzR2ZTBRU282WFNycXoyM29CRV84aFN6a0MwVjgyeUdSNUgzR3hsdURXZE9TYzdyMm1xRlNDQnVZQWpqbVVScVNHREswU3FMcDl5ZmRHSks3MDV3TmlBZnRJWkFiYzBVbl9CWE5HRzJBMlhETjRDU09iQzA?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Washington Wizards win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "question": "ATP World Tour Finals Doubles, Todd Woodbridge Group (Doubles): Helioevaara/Patten vs Arevalo/Pavic",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-doubles-helipat-arevpav-2026-11-17",
       "yes": 0,
-      "change24h": 0,
-      "vol24h": 46883,
+      "change24h": -49,
+      "vol24h": 88328,
       "headlines": [
         {
-          "title": "Parker Washington leads way for Penn State’s NFL players in Week 10",
-          "source": "Nittany Lions Wire",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc0xuTkpGLVkxX2F3bEhFaWkzVWNhWFFBSWxxcDRwZEdhTDJvb0R1TldReUMycVQyR0RyeHlqeHVjSFB6Mm9PMEtfVWcweFRuWkxpcExBN25NZkV2ZG5BNFFSOXN1eW9CbHZZZlVoS08tZkZkY0Rjdk5WTHRwTU5tZ0Z4UnBhMmw1bTFuRVlGWV9zQ1ZVd3BlZU1aMkp6VndfU1Rra1NVdHNDS0V4UWh4VUlDeEtYTVMwZTVSYjJXRXhKU25FbTd1VkY5NTJKcWNVbk1keHZWQU5VTkdrall5c3RpNGRpU0EybkZSRkp1bHB3bTg0akxfWXRLS3Y?oc=5",
-          "cat": "NFL"
+          "title": "Cobolli: Sinner's absence weighs heavily at ATP Finals",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkc1ZUlQT3pJSWZaLXVTUi0xa29xUkY3ZmpJeE85dk9IXzZiUkNXdmpBdm5MbnJRLUwwRjY4SlVXNk42WXpGRHU1eGF5TTR1eVZPNTZDX2ZtTW12QkxxMWkwYXpZTnY4akY1a2VDQ2tyM181Z3dMMVV6V0lLMXdTTm4tUWJKcjZWeFRr?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Fresh ATP Finals Drama as Doubles World no.1 Slams Tennis Leadership",
+          "source": "Athlon Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVMyQVRaQ1VwNDBhLVdkZEtfeHdJMVpUVEdfZEdaSWNCRGMxX0NkM21MZ0VRb0wzMGlWV0FZUHE1WllTeW1xZWhsN3hTd09XaXg5a3pzWHhma01nYU84bEhwUXhmS3FBd29rVGpNSlpQdVhpMTlwb1ppc1ZaVk5oZEZKM2NUYzhLZDJvcll5SVNlN1A3OHBIVnlXWlRpVmY3eWc?oc=5",
+          "cat": "Tennis"
         }
       ]
     },
     {
-      "question": "Will the Houston Texans win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-houston-texans-win-the-2027-nfl-league-championship",
-      "yes": 0,
-      "change24h": 0,
-      "vol24h": 12859,
-      "headlines": [
-        {
-          "title": "(LIVESTREAMs!)TV! Houston Rockets vs Miami Heat LIVE Free NBA Basketball Week 2 Match 16 November 2026",
-          "source": "UB - Universitat de Barcelona",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQendIQ0VFeGItZENjMWlFbzduMjhycTJYZFlGTkJGWXZYZUl0SnlqTEd4Rmw5aWs0ZUx4VjFNeXVSSXZ2WlZNcnl4dE5fODlTYVR0RUZDeW5VanhRVDBTajZndWlXb2RuT1JNOU5DaUo3NnlTLU04VG5Bb19BeUh6dEhyb2hIbUNCQmcwZ256ZVN3WlRSM1FzcWwtN0oyd2dRVGZhZ1B6eGFkN2ppTUxBMWxsU190MHhrQnZEWTh6OXMybGp4THZ6dUJEV1ZCd29nRnl3SHNwQ3MwOFp2WkZzQ1pNVVZrRWtHeVVuREJGeWFtS2cyTHBSXzR2ZTBRU282WFNycXoyM29CRV84aFN6a0MwVjgyeUdSNUgzR3hsdURXZE9TYzdyMm1xRlNDQnVZQWpqbVVScVNHREswU3FMcDl5ZmRHSks3MDV3TmlBZnRJWkFiYzBVbl9CWE5HRzJBMlhETjRDU09iQzA?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
-      "yes": 4,
-      "change24h": 0,
-      "vol24h": 10559,
-      "headlines": [
-        {
-          "title": "Bills Complete Football Team, Can Lions Win Without Hutchinson, Packers or Steelers More Concerning?",
-          "source": "FOX Sports",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nT1dtUV9BNjYzUTRCUm9BcEVKLXpUVWs3NHZ1Tmd0Snd5SjdIUXhud25COXJsUHRHZk1CdXVKbWJpQUlfSUZ6dTFHc3V0OW1IZE11RW5hQ0VfMkFkOXNDUVl3?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    }
-  ],
-  "moversOnly": [
-    {
-      "question": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
+      "question": "Will Bitcoin dip to $62,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-less-than-3pt50t-at-the-end-of-2026-1785882876109",
-      "yes": 56,
-      "change24h": 12,
-      "vol24h": 10577,
-      "headlines": []
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-november-2026-from-november-15",
+      "yes": 62,
+      "change24h": -11,
+      "vol24h": 11601,
+      "headlines": [
+        {
+          "title": "FIFA President Gianni Infantino to Commission Warri City Stadium on November 21",
+          "source": "Africa Top Sports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUVZc2V2YUpWZUFDVVpERG4zMDZkaG1NclRSZzJtN3JKczZkZzBDTWVqbG1LUDdpVm10OERSOU4xaTVmWWVPbnpWZjFrSi1Jdi1lV0hSZmp5UlUxRDVndUtSQ0hqQmgxNlNWdlFfX2JCa2lPUmpHZThuWVBrYXNnd0x5SmRlSmFsOU9LcHh2X1lIRlhtdm80amlHdlQ5WE9qdUZQVEpOR1VaZjNMWFhQbw?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
-      "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?",
+      "question": "Will Bitcoin reach $66,000 November 16-22?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-under",
-      "yes": 54,
-      "change24h": 9,
-      "vol24h": 12784,
-      "headlines": []
+      "url": "https://polymarket.com/event/will-bitcoin-reach-66k-november-16-22-2026",
+      "yes": 76,
+      "change24h": 11,
+      "vol24h": 7472,
+      "headlines": [
+        {
+          "title": "FIFA President Gianni Infantino to Commission Warri City Stadium on November 21",
+          "source": "Africa Top Sports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUVZc2V2YUpWZUFDVVpERG4zMDZkaG1NclRSZzJtN3JKczZkZzBDTWVqbG1LUDdpVm10OERSOU4xaTVmWWVPbnpWZjFrSi1Jdi1lV0hSZmp5UlUxRDVndUtSQ0hqQmgxNlNWdlFfX2JCa2lPUmpHZThuWVBrYXNnd0x5SmRlSmFsOU9LcHh2X1lIRlhtdm80amlHdlQ5WE9qdUZQVEpOR1VaZjNMWFhQbw?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
-      "question": "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausehikehike-in-the-next-three-decisions-octdecjan",
-      "yes": 64,
-      "change24h": 9,
-      "vol24h": 9537,
-      "headlines": []
-    },
-    {
-      "question": "Will the Fed’s upper bound reach 4.25% or higher before 2027?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-feds-upper-bound-reach-4pt25-or-higher-before-2027",
-      "yes": 92,
-      "change24h": 5,
-      "vol24h": 15484,
-      "headlines": []
-    },
-    {
-      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "yes": 5,
-      "change24h": -4,
-      "vol24h": 293675,
-      "headlines": []
+      "question": "Will Bitcoin dip to $60,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-november-2026",
+      "yes": 35,
+      "change24h": -10,
+      "vol24h": 55655,
+      "headlines": [
+        {
+          "title": "FIFA President Gianni Infantino to Commission Warri City Stadium on November 21",
+          "source": "Africa Top Sports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUVZc2V2YUpWZUFDVVpERG4zMDZkaG1NclRSZzJtN3JKczZkZzBDTWVqbG1LUDdpVm10OERSOU4xaTVmWWVPbnpWZjFrSi1Jdi1lV0hSZmp5UlUxRDVndUtSQ0hqQmgxNlNWdlFfX2JCa2lPUmpHZThuWVBrYXNnd0x5SmRlSmFsOU9LcHh2X1lIRlhtdm80amlHdlQ5WE9qdUZQVEpOR1VaZjNMWFhQbw?oc=5",
+          "cat": "World Cup"
+        },
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
       "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
@@ -200,25 +117,145 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
       "yes": 92,
       "change24h": 4,
-      "vol24h": 153306,
-      "headlines": []
+      "vol24h": 352390,
+      "headlines": [
+        {
+          "title": "African Economies to End Year With High Rates as Fed Risks Loom",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON21FeERFWnp5bDMyMUljcVlaeHlITzJ0ZGxFc3JNbHFvWEY1ZEJvdDhHd0xoZTNBTVFUWnVhZkJfYm0xOEk1eC1HQU9FajVGaUpJei1UcmZsNDB6N01NWGRYV3huUlVWNVdnR21rbzU0Mlo3RFdBMFF3MGFzRUVYZk1XNjBTX1lPTjdFc3pDMG9qcm1kX0xrSTdVN1lCM0tVQlRzdGRkY1NDcFNrT01ldHhLckg?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+          "source": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40dzFRMEVpRS1EVkJaM1A3M1I3Q2JLdEs1Qk81QnU0blZsTE9ocHhsVUpJVXp0RUJDdjlVNTQ3eUdFaUNoMXhQVzFweWhFZXZ1bkJjem51eXh1WjhGM1NCVWVQTFo1SHB6LWs5c2ZLbTVfeGw3LU5B?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 28,
-      "change24h": -4,
-      "vol24h": 53713,
-      "headlines": []
-    },
-    {
-      "question": "Will 3 Fed rate hikes happen in 2026?",
+      "question": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-3-fed-rate-hikes-happen-in-2026-20260623190852892",
-      "yes": 3,
-      "change24h": -4,
-      "vol24h": 11322,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "yes": 6,
+      "change24h": -3,
+      "vol24h": 368992,
+      "headlines": [
+        {
+          "title": "African Economies to End Year With High Rates as Fed Risks Loom",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON21FeERFWnp5bDMyMUljcVlaeHlITzJ0ZGxFc3JNbHFvWEY1ZEJvdDhHd0xoZTNBTVFUWnVhZkJfYm0xOEk1eC1HQU9FajVGaUpJei1UcmZsNDB6N01NWGRYV3huUlVWNVdnR21rbzU0Mlo3RFdBMFF3MGFzRUVYZk1XNjBTX1lPTjdFc3pDMG9qcm1kX0xrSTdVN1lCM0tVQlRzdGRkY1NDcFNrT01ldHhLckg?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+          "source": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40dzFRMEVpRS1EVkJaM1A3M1I3Q2JLdEs1Qk81QnU0blZsTE9ocHhsVUpJVXp0RUJDdjlVNTQ3eUdFaUNoMXhQVzFweWhFZXZ1bkJjem51eXh1WjhGM1NCVWVQTFo1SHB6LWs5c2ZLbTVfeGw3LU5B?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 64,
+      "change24h": 3,
+      "vol24h": 25422,
+      "headlines": [
+        {
+          "title": "African Economies to End Year With High Rates as Fed Risks Loom",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON21FeERFWnp5bDMyMUljcVlaeHlITzJ0ZGxFc3JNbHFvWEY1ZEJvdDhHd0xoZTNBTVFUWnVhZkJfYm0xOEk1eC1HQU9FajVGaUpJei1UcmZsNDB6N01NWGRYV3huUlVWNVdnR21rbzU0Mlo3RFdBMFF3MGFzRUVYZk1XNjBTX1lPTjdFc3pDMG9qcm1kX0xrSTdVN1lCM0tVQlRzdGRkY1NDcFNrT01ldHhLckg?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "St. Louis Fed president says several rate hikes are likely to be needed before spring",
+          "source": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40dzFRMEVpRS1EVkJaM1A3M1I3Q2JLdEs1Qk81QnU0blZsTE9ocHhsVUpJVXp0RUJDdjlVNTQ3eUdFaUNoMXhQVzFweWhFZXZ1bkJjem51eXh1WjhGM1NCVWVQTFo1SHB6LWs5c2ZLbTVfeGw3LU5B?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "ATP World Tour Finals, John McEnroe Group: Alexander Zverev vs Ben Shelton",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-zverev-shelton-2026-11-17",
+      "yes": 66,
+      "change24h": 1,
+      "vol24h": 32572,
+      "headlines": [
+        {
+          "title": "Cobolli: Sinner's absence weighs heavily at ATP Finals",
+          "source": "TennisTemple",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkc1ZUlQT3pJSWZaLXVTUi0xa29xUkY3ZmpJeE85dk9IXzZiUkNXdmpBdm5MbnJRLUwwRjY4SlVXNk42WXpGRHU1eGF5TTR1eVZPNTZDX2ZtTW12QkxxMWkwYXpZTnY4akY1a2VDQ2tyM181Z3dMMVV6V0lLMXdTTm4tUWJKcjZWeFRr?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Fresh ATP Finals Drama as Doubles World no.1 Slams Tennis Leadership",
+          "source": "Athlon Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVMyQVRaQ1VwNDBhLVdkZEtfeHdJMVpUVEdfZEdaSWNCRGMxX0NkM21MZ0VRb0wzMGlWV0FZUHE1WllTeW1xZWhsN3hTd09XaXg5a3pzWHhma01nYU84bEhwUXhmS3FBd29rVGpNSlpQdVhpMTlwb1ppc1ZaVk5oZEZKM2NUYzhLZDJvcll5SVNlN1A3OHBIVnlXWlRpVmY3eWc?oc=5",
+          "cat": "Tennis"
+        }
+      ]
+    },
+    {
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 9,
+      "change24h": 1,
+      "vol24h": 10207,
+      "headlines": [
+        {
+          "title": "FIFA President Gianni Infantino to Commission Warri City Stadium on November 21",
+          "source": "Africa Top Sports",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUVZc2V2YUpWZUFDVVpERG4zMDZkaG1NclRSZzJtN3JKczZkZzBDTWVqbG1LUDdpVm10OERSOU4xaTVmWWVPbnpWZjFrSi1Jdi1lV0hSZmp5UlUxRDVndUtSQ0hqQmgxNlNWdlFfX2JCa2lPUmpHZThuWVBrYXNnd0x5SmRlSmFsOU9LcHh2X1lIRlhtdm80amlHdlQ5WE9qdUZQVEpOR1VaZjNMWFhQbw?oc=5",
+          "cat": "World Cup"
+        }
+      ]
+    },
+    {
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 20370,
+      "headlines": [
+        {
+          "title": "Steph Curry Opens Up on 'Basketball Mortality' and Warriors Being 'Any Semblance of a Threat'",
+          "source": "Bleacher Report",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONk9udDl2TTVQY3hITnlabWlwaldpekRpMlNsOWNIWlBqN3NXWm1UNV9henlFdEJzbTdBaVlkNjJPOEEyYXlKWkp6eWJ4bEswWmZOMjhJcWhvZ3p4R3MzZ3dXSWszY1BYODQtOGQwSDJuaVdzS0NBeVlpQnNNSnBydzFEbnhkUF9Cam9tbWk0WEZNcm5NeTZMMGhaNE9vWEszM3ZpLTV1dUJrbnZqZjhDZk5VbHdLWnVWaUozSVlIYm0?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 0,
+      "vol24h": 9048,
+      "headlines": [
+        {
+          "title": "Unless it’s Jonah Coleman, it’s time to purge Broncos from your fantasy roster",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOWRCX2RPMm9ScE1YWDJBOEI5aXZQZkk2R2VZc1B6Zk5xbDBIdnF3b09NNE9YRGE1eF9QcVRVVzcweUJTYmp4N2kyajVkUEZnVlhIU012bEZ3cEJPVVU5MVJocHQ5aEhUVk4yM2VfSjZqekRCVWZvU0o5VU42QlhPNGhsSWdQQmk1RGtBcnB5MUdqZ3hXU2dobE9IRlVGTFdUdGVvdXBTWEJBeVU?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-under",
+      "yes": 53,
+      "change24h": 4,
+      "vol24h": 10556,
       "headlines": []
     }
   ]
