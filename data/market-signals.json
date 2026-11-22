@@ -1,14 +1,20 @@
 {
-  "updated": "2026-11-22T13:42:15.111Z",
+  "updated": "2026-11-22T22:54:35.462Z",
   "withNews": [
     {
-      "question": "Will Ethereum dip to $1,500 in November?",
+      "question": "Will Bitcoin dip to $57,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-in-november-2026",
-      "yes": 24,
-      "change24h": -5,
-      "vol24h": 15419,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-november-2026-from-november-21",
+      "yes": 50,
+      "change24h": -12,
+      "vol24h": 40918,
       "headlines": [
+        {
+          "title": "November 22, 2026: 2026 Men's ATP Nitto Winner: A. Zverev vs C. Alcaraz Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09UYWpBT05nc25tWmwtbm1Db1d0ZG1RVFdndWRreTAzcVB6cWtGTnBhalFCeUN1TURmYXJWeEVfNWs0SWxqUERaVkJZc1g4Sm5HQlZwRGI5Mnk3UDUzLU5QbW4tNzVxVFpGNkYxc2JleUdwUkNFbkoxeDJ4UXp3VDBRUkxKNnJ3SGdVd0xsLUo0ckdjNUdpcXhBMm1ZdFFUT0k3ekR5ekRUSXpHaXNJZHI1RElCbnQzOEJKbmdmbw?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
@@ -21,10 +27,16 @@
       "question": "Will Bitcoin dip to $55,000 in November?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026",
-      "yes": 27,
-      "change24h": -4,
-      "vol24h": 100965,
+      "yes": 25,
+      "change24h": -10,
+      "vol24h": 69014,
       "headlines": [
+        {
+          "title": "November 22, 2026: 2026 Men's ATP Nitto Winner: A. Zverev vs C. Alcaraz Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09UYWpBT05nc25tWmwtbm1Db1d0ZG1RVFdndWRreTAzcVB6cWtGTnBhalFCeUN1TURmYXJWeEVfNWs0SWxqUERaVkJZc1g4Sm5HQlZwRGI5Mnk3UDUzLU5QbW4tNzVxVFpGNkYxc2JleUdwUkNFbkoxeDJ4UXp3VDBRUkxKNnJ3SGdVd0xsLUo0ckdjNUdpcXhBMm1ZdFFUT0k3ekR5ekRUSXpHaXNJZHI1RElCbnQzOEJKbmdmbw?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
@@ -34,18 +46,46 @@
       ]
     },
     {
-      "question": "Will the price of Bitcoin be above $54,000 on November 26?",
+      "question": "Will Ethereum dip to $1,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-54k-on-november-26-2026",
-      "yes": 95,
-      "change24h": 4,
-      "vol24h": 11174,
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-in-november-2026",
+      "yes": 23,
+      "change24h": -10,
+      "vol24h": 14678,
       "headlines": [
+        {
+          "title": "November 22, 2026: 2026 Men's ATP Nitto Winner: A. Zverev vs C. Alcaraz Tennis Prediction Market",
+          "source": "Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09UYWpBT05nc25tWmwtbm1Db1d0ZG1RVFdndWRreTAzcVB6cWtGTnBhalFCeUN1TURmYXJWeEVfNWs0SWxqUERaVkJZc1g4Sm5HQlZwRGI5Mnk3UDUzLU5QbW4tNzVxVFpGNkYxc2JleUdwUkNFbkoxeDJ4UXp3VDBRUkxKNnJ3SGdVd0xsLUo0ckdjNUdpcXhBMm1ZdFFUT0k3ekR5ekRUSXpHaXNJZHI1RElCbnQzOEJKbmdmbw?oc=5",
+          "cat": "Tennis"
+        },
         {
           "title": "Biotech Stocks Facing FDA Decision In November 2026",
           "source": "RTTNews",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
           "cat": "Biotech markets"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "yes": 91,
+      "change24h": 1,
+      "vol24h": 67394,
+      "headlines": [
+        {
+          "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VWZnFrS1RVVDVzdUs2TTMyTnJTSFZZbUNHSS0tRGhIUm9DSkU1X2Uyd3JEN2cydFhiV3J2WEFxZ0p2MjVYNGJMd1JNSHBJSFNESmRhM2ZvY1FIUjVQeUJNb3RhWHpCblA1eVVNMnlvMkg5LUdDNEFON0NpZ0tiZ1dBbXVxZG5IbE8zRHAxNXI?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -54,86 +94,42 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
       "yes": 49,
-      "change24h": 3,
-      "vol24h": 22760,
+      "change24h": 1,
+      "vol24h": 33465,
       "headlines": [
         {
-          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
-          "source": "Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
+          "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "J.P. Morgan prices in stunning shift in Fed rate-hike call",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWG5EWmtoSEJiSG52OGtQdURRTS1TZEc0UGV1M19tQUh5cjN0YWpYY3F5MkloRDBzTVF2aXNUa1R2WjR1MzJhYmU5M2diTDNvTHNZaUZrdDFfQ3pTZk5MMXVITGZONEJHbnVwdG1jYUNPRmRFVFFIdHlwZFMwUGplc1luYVZjNGtKcm1QeUF4ajE?oc=5",
+          "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VWZnFrS1RVVDVzdUs2TTMyTnJTSFZZbUNHSS0tRGhIUm9DSkU1X2Uyd3JEN2cydFhiV3J2WEFxZ0p2MjVYNGJMd1JNSHBJSFNESmRhM2ZvY1FIUjVQeUJNb3RhWHpCblA1eVVNMnlvMkg5LUdDNEFON0NpZ0tiZ1dBbXVxZG5IbE8zRHAxNXI?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Another Fed rate hike in 2026?",
+      "question": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
-      "yes": 93,
-      "change24h": 3,
-      "vol24h": 22015,
-      "headlines": [
-        {
-          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
-          "source": "Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "J.P. Morgan prices in stunning shift in Fed rate-hike call",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWG5EWmtoSEJiSG52OGtQdURRTS1TZEc0UGV1M19tQUh5cjN0YWpYY3F5MkloRDBzTVF2aXNUa1R2WjR1MzJhYmU5M2diTDNvTHNZaUZrdDFfQ3pTZk5MMXVITGZONEJHbnVwdG1jYUNPRmRFVFFIdHlwZFMwUGplc1luYVZjNGtKcm1QeUF4ajE?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will 1 Fed rate hike happen in 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
-      "yes": 7,
-      "change24h": -2,
-      "vol24h": 20923,
-      "headlines": [
-        {
-          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
-          "source": "Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "J.P. Morgan prices in stunning shift in Fed rate-hike call",
-          "source": "TheStreet",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWG5EWmtoSEJiSG52OGtQdURRTS1TZEc0UGV1M19tQUh5cjN0YWpYY3F5MkloRDBzTVF2aXNUa1R2WjR1MzJhYmU5M2diTDNvTHNZaUZrdDFfQ3pTZk5MMXVITGZONEJHbnVwdG1jYUNPRmRFVFFIdHlwZFMwUGplc1luYVZjNGtKcm1QeUF4ajE?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",
-      "topic": "Tennis",
-      "url": "https://polymarket.com/event/atp-zverev-alcaraz-2026-11-22",
-      "yes": 34,
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 70664,
+      "vol24h": 238498,
       "headlines": [
         {
-          "title": "Tennis urged to bring in new serving rule after Alexander Zverev’s match with Ben Shelton at the ATP Finals",
-          "source": "The Tennis Gazette",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUJiTE9tWVMxaWNYekJiakFpeWpPRXVEYkJPbzhlY2hueVh1Mm1VcHk3Qk9Wem01VGxtcTRNU2tsX0JOYWFuUUJyUGRvVnUwRllaNWpDTWk0STgwUDlIdkNOYncwLTdzNTZpNF9RRXd6cW10SDdKTXpIZWEybE4zWEZjd2VyNUVLWFV5OHlkN2NWUG10VnM2NlhDOWxmcVR4ZlQzdFV6N051M1Q0Q2xxRlBkVFFMZmlqR0pwR3VmY0U3eHkzeDhUb2ZvZjVSa2F5VjJvak5ibEZQbWF4RkE?oc=5",
-          "cat": "Tennis"
+          "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
+          "cat": "Macro"
         },
         {
-          "title": "Iga Swiatek tipped to be a real 'dark horse' on the WTA Tour in 2027 by Serena Williams’ ex-coach",
-          "source": "The Tennis Gazette",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWNuak1sUFR3VFZ6V3FUYzU4eE4yRDRuRFhhVjFfaUN4NU5CYmJRaDdyYWNqWDV6UnU0OG1CelBwRS1zQWdXOFY3aEJDelF6RnJFX1I3eE9kS29ybUJqbFRrNlREQ1lVdmhrMHBGYkw2SUFnSFY2cGVhLUp3QV9WeHZ1Si1FeENyVVNDV0FPOUc4M2xtcE9Xd3k2YzFoM01rNGcxdlp3VEpReGFubHVwdG8zU1ZlRkptdzVLMm1rUF9MNkJsLWZFUy1QS0tOdw?oc=5",
-          "cat": "Tennis"
+          "title": "Copper Prices Are Falling. Memo to the Fed: Inflation Could Be Next.",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1VWZnFrS1RVVDVzdUs2TTMyTnJTSFZZbUNHSS0tRGhIUm9DSkU1X2Uyd3JEN2cydFhiV3J2WEFxZ0p2MjVYNGJMd1JNSHBJSFNESmRhM2ZvY1FIUjVQeUJNb3RhWHpCblA1eVVNMnlvMkg5LUdDNEFON0NpZ0tiZ1dBbXVxZG5IbE8zRHAxNXI?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -143,12 +139,34 @@
       "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
       "yes": 4,
       "change24h": 0,
-      "vol24h": 44842,
+      "vol24h": 41734,
       "headlines": [
         {
-          "title": "Miami Heat NBA Game Draws 95% New Shoppers For GTA VI Launch",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wbV83R09pbGd1LWl0cWVUTmRmSGktS1VLS3B4OVJWYTVDV0owTkFRQ2dULVpMQzhkY3RNSHpMOFMtTGROZS1uSGNKb3JrT3U5d05CaFhIUHVJOGY5T1hpdXRQRVg3MmFqcGRCLU9OUXpIT3pwVEJlOVhnNy1CTGc?oc=5",
+          "title": "OKC's Shai Gilgeous-Alexander, Miami's Giannis Antetokounmpo both out of Thunder-Heat matchup",
+          "source": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU3ZhRkVpbENLUC05Uk5OSk0xVXkyUFQxLWZoejRRcS13LWRWeXlxcl9SMXhkTEZCdXRWT1JfTzMxZkNmUjVrUDNMTy1OSmR2YUVrZ1NuMWhWeXFNSTNPMzZocEdyMjhfejR0RzRSXzEyQnVGcWcyekxkX1ZIeW5LaHhoMzZMbXRNNlJxOUNNc0VCQm13RkNkRzByT3pEcjZIMXJOaEwxeEs1T1E?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will Washington Wizards win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-washington-wizards-win-the-2027-nba-finals",
+      "yes": 0,
+      "change24h": 0,
+      "vol24h": 15136,
+      "headlines": [
+        {
+          "title": "\"He can sabotage the whole process\" - Tex Winter warned what Michael Jordan’s return could mean for Wizards",
+          "source": "Basketball Network",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnFwV0JDQlBIMnlVbmdEbnBjZGhxR0tjQ1oyaHFLZEJzWm9ZbnN0VVV5U3pTaEFnUmE0dU91RkJMM2JkYWpURHVYcURQUll5TkwyQ2c5VExtdUJSLUdaOVVzYURqWV9ISmluTUVaSGE0SlpzUmNVb0ZVTzFXQzlkc0VVOF9Vb2hYUmFaQ0dqOWFJdHhaXzJpay1BSXJfV3B4RnRZelA5TWxKdkFqenJ1SWF4OA?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "P.J. Washington Injury: Ruled out Sunday",
+          "source": "RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUndvb0ZjQ2JHVjBtR3N0WFMzdlFyNGF3Y3N5cGUyV2lXb2VpTmtIRmZNcWVxQjV4YTNlby1BN0tZbXhSdmxpbkEyTWs3cmwtNU83RTJnanhQb3B3Mm1yaTE4QVVDM19wVzFCTkRNWUpOY01uOENZa1ZSYUlBWXdMNmdwNU1PbVlpdm1aZDhhSVF4Tnk5?oc=5",
           "cat": "NBA"
         }
       ]
@@ -156,12 +174,48 @@
   ],
   "moversOnly": [
     {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "question": "Will Rene Haas be the next CEO of NVIDIA?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 29,
+      "url": "https://polymarket.com/event/will-rene-haas-be-the-next-ceo-of-nvidia",
+      "yes": 20,
       "change24h": -5,
-      "vol24h": 98574,
+      "vol24h": 46756,
+      "headlines": []
+    },
+    {
+      "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia",
+      "yes": 14,
+      "change24h": 4,
+      "vol24h": 282549,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 55,
+      "change24h": -4,
+      "vol24h": 88924,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
+      "yes": 12,
+      "change24h": -4,
+      "vol24h": 62558,
+      "headlines": []
+    },
+    {
+      "question": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-less-than-3pt50t-at-the-end-of-2026-1785882876109",
+      "yes": 81,
+      "change24h": 4,
+      "vol24h": 9576,
       "headlines": []
     }
   ]
