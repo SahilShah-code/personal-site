@@ -1,206 +1,77 @@
 {
-  "updated": "2026-11-21T22:30:59.324Z",
-  "withNews": [
+  "updated": "2026-11-22T03:48:34.930Z",
+  "withNews": [],
+  "moversOnly": [
     {
-      "question": "Will Bitcoin reach $62,500 in November?",
+      "question": "Will the price of Bitcoin be above $58,000 on November 23?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-62pt5k-in-november-2026-from-november-20",
-      "yes": 71,
-      "change24h": 19,
-      "vol24h": 42397,
-      "headlines": [
-        {
-          "title": "November 22, 2026: 2026 Men's ATP Nitto Winner: A. Zverev vs C. Alcaraz Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09UYWpBT05nc25tWmwtbm1Db1d0ZG1RVFdndWRreTAzcVB6cWtGTnBhalFCeUN1TURmYXJWeEVfNWs0SWxqUERaVkJZc1g4Sm5HQlZwRGI5Mnk3UDUzLU5QbW4tNzVxVFpGNkYxc2JleUdwUkNFbkoxeDJ4UXp3VDBRUkxKNnJ3SGdVd0xsLUo0ckdjNUdpcXhBMm1ZdFFUT0k3ekR5ekRUSXpHaXNJZHI1RElCbnQzOEJKbmdmbw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
+      "url": "https://polymarket.com/event/bitcoin-above-58k-on-november-23-2026",
+      "yes": 70,
+      "change24h": 37,
+      "vol24h": 10635,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026",
+      "yes": 43,
+      "change24h": -34,
+      "vol24h": 186551,
+      "headlines": []
     },
     {
       "question": "Will Ethereum dip to $1,500 in November?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-in-november-2026",
-      "yes": 33,
-      "change24h": -16,
-      "vol24h": 23661,
-      "headlines": [
-        {
-          "title": "November 22, 2026: 2026 Men's ATP Nitto Winner: A. Zverev vs C. Alcaraz Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09UYWpBT05nc25tWmwtbm1Db1d0ZG1RVFdndWRreTAzcVB6cWtGTnBhalFCeUN1TURmYXJWeEVfNWs0SWxqUERaVkJZc1g4Sm5HQlZwRGI5Mnk3UDUzLU5QbW4tNzVxVFpGNkYxc2JleUdwUkNFbkoxeDJ4UXp3VDBRUkxKNnJ3SGdVd0xsLUo0ckdjNUdpcXhBMm1ZdFFUT0k3ekR5ekRUSXpHaXNJZHI1RElCbnQzOEJKbmdmbw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the price of Bitcoin be above $58,000 on November 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-58k-on-november-23-2026",
-      "yes": 81,
-      "change24h": 14,
-      "vol24h": 10062,
-      "headlines": [
-        {
-          "title": "November 22, 2026: 2026 Men's ATP Nitto Winner: A. Zverev vs C. Alcaraz Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09UYWpBT05nc25tWmwtbm1Db1d0ZG1RVFdndWRreTAzcVB6cWtGTnBhalFCeUN1TURmYXJWeEVfNWs0SWxqUERaVkJZc1g4Sm5HQlZwRGI5Mnk3UDUzLU5QbW4tNzVxVFpGNkYxc2JleUdwUkNFbkoxeDJ4UXp3VDBRUkxKNnJ3SGdVd0xsLUo0ckdjNUdpcXhBMm1ZdFFUT0k3ekR5ekRUSXpHaXNJZHI1RElCbnQzOEJKbmdmbw?oc=5",
-          "cat": "Tennis"
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-pausehikehike-in-the-next-three-decisions-octdecjan",
-      "yes": 46,
-      "change24h": -9,
-      "vol24h": 11676,
-      "headlines": [
-        {
-          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
-          "source": "Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Inflation Climbs to 4%, Fed Eyes Rate Hike",
-          "source": "Wisevoter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm9PbVpUdUhsMVZ4ME1SX1haajdPY3Z1QUl5Y0ZyVXhwMlI1ejVZQ1JjcU0xZ2p6aWx3VkF2Qk5yTGdNbGFHMThBUjV4dFl5RDVoX2RlQ3hPd0R2Y2JkSVRCYWJnNkdhcHMxY2VsVXZ1dWctZ3F3MnN2c29vZTNQdDdCUXJpNE9JZFc4aDBxYzdzSjA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 46,
-      "change24h": -6,
-      "vol24h": 31727,
-      "headlines": [
-        {
-          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
-          "source": "Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Inflation Climbs to 4%, Fed Eyes Rate Hike",
-          "source": "Wisevoter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm9PbVpUdUhsMVZ4ME1SX1haajdPY3Z1QUl5Y0ZyVXhwMlI1ejVZQ1JjcU0xZ2p6aWx3VkF2Qk5yTGdNbGFHMThBUjV4dFl5RDVoX2RlQ3hPd0R2Y2JkSVRCYWJnNkdhcHMxY2VsVXZ1dWctZ3F3MnN2c29vZTNQdDdCUXJpNE9JZFc4aDBxYzdzSjA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 49,
-      "change24h": 5,
-      "vol24h": 18505,
-      "headlines": [
-        {
-          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
-          "source": "Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Inflation Climbs to 4%, Fed Eyes Rate Hike",
-          "source": "Wisevoter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm9PbVpUdUhsMVZ4ME1SX1haajdPY3Z1QUl5Y0ZyVXhwMlI1ejVZQ1JjcU0xZ2p6aWx3VkF2Qk5yTGdNbGFHMThBUjV4dFl5RDVoX2RlQ3hPd0R2Y2JkSVRCYWJnNkdhcHMxY2VsVXZ1dWctZ3F3MnN2c29vZTNQdDdCUXJpNE9JZFc4aDBxYzdzSjA?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will Boston Celtics win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-boston-celtics-win-the-2027-nba-finals",
-      "yes": 11,
-      "change24h": 0,
-      "vol24h": 78638,
-      "headlines": [
-        {
-          "title": "Vet forward Paul George is shining with the Boston Celtics",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVB5dUpjSi16YVFucDRhRHYtSGpERklMUUFicWRzaWRMblhkNUF6Ukd1eWFRMm5hUVI2ak0wcm5ZX1lkTmdSSGRkV3dtaHNzZ2dGWWhzVXQ3ckJBUDBTYVd4ZTRvc0V3cDVQbEh2ZkZIYmVObWkxaTE1cFlxbU1fZnFxNHRnTE0?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Cincinnati Bengals win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-cincinnati-bengals-win-the-2027-nfl-league-championship",
-      "yes": 8,
-      "change24h": 0,
-      "vol24h": 23991,
-      "headlines": [
-        {
-          "title": "Bengals can't afford to overlook Commanders in primetime",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONklYZkxFX3lITzMtaWwwTVVIM25SQllBbzdiMU1NZnMwbE9STVU1TkktdXM0dmJiNXphLVJBVjNJeTFoS3l5akxwc0dDQmg3bUZGUkxMZmhLekUxM2E3OXFLcC1WNDExdF9RQl9xTTY5TXM0dWhOLS11M2JMM2FRM3Rmd0xkTUhGZXNXNnNCZFM2RWRxek5ia1lUSEZCMi1IT3NiVFlxZTNENEpOME1WTDkyMll4WlcxTVNBNTQyMUEzcjFUWXVjMW9Tb3R4eDJKMXBBcW1Kdw?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    }
-  ],
-  "moversOnly": [
-    {
-      "question": "Will Ethereum dip to $1,500 by December 31, 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-by-december-31-2026-865-787",
-      "yes": 59,
-      "change24h": -9,
-      "vol24h": 235671,
+      "yes": 38,
+      "change24h": -30,
+      "vol24h": 14099,
       "headlines": []
     },
     {
-      "question": "Will Jensen Huang rejoin NVIDIA by March 31, 2027?",
+      "question": "Will Bitcoin reach $62,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-march-31-2027",
-      "yes": 21,
-      "change24h": 6,
-      "vol24h": 20268,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-62pt5k-in-november-2026-from-november-20",
+      "yes": 55,
+      "change24h": 28,
+      "vol24h": 43864,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "question": "Will the price of Bitcoin be above $56,000 on November 23?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "yes": 57,
-      "change24h": -5,
-      "vol24h": 616098,
+      "url": "https://polymarket.com/event/bitcoin-above-56k-on-november-23-2026",
+      "yes": 89,
+      "change24h": 27,
+      "vol24h": 22132,
       "headlines": []
     },
     {
-      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "question": "Will the price of Bitcoin be above $56,000 on November 24?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "yes": 32,
-      "change24h": -4,
-      "vol24h": 249264,
+      "url": "https://polymarket.com/event/bitcoin-above-56k-on-november-24-2026",
+      "yes": 85,
+      "change24h": 26,
+      "vol24h": 12400,
+      "headlines": []
+    },
+    {
+      "question": "Will the price of Bitcoin be above $60,000 on November 23?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-60k-on-november-23-2026",
+      "yes": 39,
+      "change24h": 26,
+      "vol24h": 8951,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $52,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-52pt5k-in-november-2026",
+      "yes": 24,
+      "change24h": -22,
+      "vol24h": 99857,
       "headlines": []
     }
   ]

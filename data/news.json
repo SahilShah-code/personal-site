@@ -1,215 +1,30 @@
 {
-  "updated": "2026-11-21T22:30:58.289Z",
+  "updated": "2026-11-22T03:48:34.450Z",
   "categories": [
     {
       "key": "nba",
       "label": "NBA",
-      "items": [
-        {
-          "title": "Deni Avdija News: Returning Saturday",
-          "source": "RotoWire",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWh3dk5tVVNJRmxBbDVPeVRoajNvOWxpRGJNNkFKZGNGa2xVZ3ZlR0xwaHlkbWlaVkoxak9URmh6OXFlMVVJZjhTWTlueExacG1HQlpOdmRfRTF2aWVmRGFNWHU2eEs4M1JnS09iMmsya2N3N2EtVU1ZT0h5dmhiM0NjdXd3d094d2NfN1ZwOHVtdw?oc=5",
-          "ts": 1795299833000
-        },
-        {
-          "title": "Cade Cunningham Injury: Probable for Sunday",
-          "source": "RotoWire",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYm5acEJ2UmgwNklHZkNCUEhDeDlfd0N1cWktbWZXM3c5ei1ncnZfWFhhSnk5dlJOYWpVZmh0bVY1YlB5RWxXa255QmI3RnVaNVlTUXp6WGxYV00tX1pFaENqa19EYmU5ZWpmZGVOaldzVVByRk9YM2lHNFpTcUZRUW9waHY0UmdXeXNRb3dfQmdCNDBEcUFXdjdDWQ?oc=5",
-          "ts": 1795299789000
-        },
-        {
-          "title": "Bulls 76ers Basketball",
-          "source": "TelegraphHerald.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ05ZSUVQOFNiNUJCSnU0eFRwaUszbVJYMFNKNnBWWmFyOGY4TkxJdDdBMk9wMVB3N3JLSjhyeElBLTZQZDdhYmhlbzZPVlRUa3FXWFVZQ2FnRGxHOGtFMUZxZ2hOSDdQaWhMWkdUUmVVNzhPZzNtMXFyOGNtUkdNWWotUm5JWktYZ0RfaWQyUFl1bDJ3RTgycQ?oc=5",
-          "ts": 1795299020000
-        },
-        {
-          "title": "Vet forward Paul George is shining with the Boston Celtics",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVB5dUpjSi16YVFucDRhRHYtSGpERklMUUFicWRzaWRMblhkNUF6Ukd1eWFRMm5hUVI2ak0wcm5ZX1lkTmdSSGRkV3dtaHNzZ2dGWWhzVXQ3ckJBUDBTYVd4ZTRvc0V3cDVQbEh2ZkZIYmVObWkxaTE1cFlxbU1fZnFxNHRnTE0?oc=5",
-          "ts": 1795298514000
-        },
-        {
-          "title": "\"Don't sell your soul for the dollar\" – Shaquille O'Neal reveals principle behind his business decisions",
-          "source": "Basketball Network",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnl5TGtCUE8xREZoS2dvYmF3U2xsOVoycVpuaGFKSlZuNG85REdEeTgtbmxLX1dFdUJvMmNiTDhGbjRjMzdzWnpPc25pTlkzczgwdDczN0xBTzJLYXVsWWdGUDAtcWZMUWZ2bk5Ed0hQUFZEUUNOZU56SnprNXcxend1U0Y2aTdUQ0xYeDQzc2JaNnY5SW0zTlVKLTNvRzljZWg3NzUxWTZfOEVPSnU4Sw?oc=5",
-          "ts": 1795298040000
-        },
-        {
-          "title": "Highlights: Brayden Burries scores 26 points vs 76ers | 11.21.26",
-          "source": "NBA.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUFFEYWpZRlNMSzByX195d01ZUjJjMmM4eHk2MC1qM2Y3dmEtSzJweHV5NjE0dkNlc20ta0hYb2xjN1gyalZ3eTgtWkkyMEFoanVoOGtwRFVRUHljdkJfY3BGbDBjQURpLUUtRk9UNXFQQ3I1MXNPdlhzYkRDSTRaQ01PQVR4SVhOS0NrZlBYTnlNM0tjVjNKdklR?oc=5",
-          "ts": 1795297365000
-        }
-      ]
+      "items": []
     },
     {
       "key": "nfl",
       "label": "NFL",
-      "items": [
-        {
-          "title": "Bengals can't afford to overlook Commanders in primetime",
-          "source": "Cincinnati Enquirer",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONklYZkxFX3lITzMtaWwwTVVIM25SQllBbzdiMU1NZnMwbE9STVU1TkktdXM0dmJiNXphLVJBVjNJeTFoS3l5akxwc0dDQmg3bUZGUkxMZmhLekUxM2E3OXFLcC1WNDExdF9RQl9xTTY5TXM0dWhOLS11M2JMM2FRM3Rmd0xkTUhGZXNXNnNCZFM2RWRxek5ia1lUSEZCMi1IT3NiVFlxZTNENEpOME1WTDkyMll4WlcxTVNBNTQyMUEzcjFUWXVjMW9Tb3R4eDJKMXBBcW1Kdw?oc=5",
-          "ts": 1795299360000
-        },
-        {
-          "title": "Quinn: Jacory Croskey-Merritt (groin) trending right way",
-          "source": "NBC Sports",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEtGZUtWeG56Snc2UkpJX2EyUGZmZXozdWxMdl9TVFh3b0lNd2FrSlBPT3NnR1FDNHhaU0Z0MnhOZFhCMmczdkhCUi1DSEJ3N1BoQy1jaS0ta0ZreEROSHAtYzZJMlZoVy02eS14WnNtZGUwTEl4RXg5S251cTVsZUNDV1RYZmxzUFhBNC1vX203SlNZeDhxSlh6TWwyLUNVSjRfOGJuT0RUaE1HRWZCMDViZS1sWnd5SVFR?oc=5",
-          "ts": 1795298832000
-        },
-        {
-          "title": "Fantasy Football Week 11 Bold Predictions: Emmett Johnson is Unstoppable, Josh Downs is WR1?",
-          "source": "Sports Illustrated",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT3VPU2tNckZ2dWtldzJVVXFXT3NqR09FS2lvcC1odXpKU3pETlI0UFp1bTc5ampRc3hoZ1llbE1NVWhqbWxPUnVfZE1JMjJGXzRjVW8ybUY2UnBCOUhsQlltTUpZN1BoSkNpMTVlVmxyV1B4eUdxVmZGNDhEaHVKUXRFdVMyamVJVGphRWtxa2o4UndhVG93NVVXdzhtVWhHOVlCY2dR?oc=5",
-          "ts": 1795297251000
-        },
-        {
-          "title": "Fantasy Football Week 11 Bold Predictions: Emmett Johnson is Unstoppable, Josh Downs is WR1?",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSzhVc2MtNXJDWUUxVC0wQkNqM2tXdmQxOVpTY1ZRR0RDemdDc3EtWVprSUl1TENsbno5Q0lTdklXYjJqYnhFNXgyWVVKNkZBZ3pIVEF2cVpSekVQbTBZWjhiMmdiYUNlZk9aRi1BWmNOaHhlTUhRanlDbEk5QW1sZlRHY0c?oc=5",
-          "ts": 1795297251000
-        },
-        {
-          "title": "Rams Designate DL Kobie Turner For Return",
-          "source": "ProFootballRumors.com",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjhrRDZxUUxVaUc4OUc1VkdSWUd5b2hmblJFSnVHQ3h4R254ZjBYVnRsZ0tGUFlYWkhQRmVhalpXTGNmb3I2SlhpNUxFZkYwcG5NWWZmbkpLU3VxWTQwT28xMkp1WFN5OHp4MjlNb29tdG1CdF80bXZITDNjeWxieFhPZTJsZGd1U3FN?oc=5",
-          "ts": 1795296962000
-        },
-        {
-          "title": "NFL injury tracker Week 11: Latest news, fantasy implications as Chiefs' Kenneth Walker III (groin) out again; Rams' Puka Nacua (knee) likely done for the season",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdkhtNEdqWXo2SEhJd0xmSWZtT2lpTFBMVmZKN05EdzR1aXhKSk5NR284OTlVWXk2RHBDTUpSbU5CbmlNb2ZxUGh2NnE5S1BMUmMwZm12ZU1SLW5WWWpGMFFLNng2blc0dHFQSFlfc09JUFBsY3dld1lyWmxaalpJRVhBYUw4TzkzZXdubE1pWGc4REp5QjRGZV8ycFUwTmJnczVNTmxxcGl1VjdaMDJPa3UxMjVwS1o4MzZoWExoS1l0a1B6SmxXVmxiS2VUa1RDd1JoSF9VcThBRXRnT2k4Y3RwOVAza2VLTmhXQU9hc0dWcnFZSEpSa3Jsd3Q1UDdndVR3SGIzekpvM0lqQ2J0TDhsZFFQMjNLUGVMZnhneHVTSFhaSjlpRVpzRzRIMW9UM2c?oc=5",
-          "ts": 1795296754000
-        }
-      ]
+      "items": []
     },
     {
       "key": "tennis",
       "label": "Tennis",
-      "items": [
-        {
-          "title": "November 22, 2026: 2026 Men's ATP Nitto Winner: A. Zverev vs C. Alcaraz Tennis Prediction Market",
-          "source": "Robinhood",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV09UYWpBT05nc25tWmwtbm1Db1d0ZG1RVFdndWRreTAzcVB6cWtGTnBhalFCeUN1TURmYXJWeEVfNWs0SWxqUERaVkJZc1g4Sm5HQlZwRGI5Mnk3UDUzLU5QbW4tNzVxVFpGNkYxc2JleUdwUkNFbkoxeDJ4UXp3VDBRUkxKNnJ3SGdVd0xsLUo0ckdjNUdpcXhBMm1ZdFFUT0k3ekR5ekRUSXpHaXNJZHI1RElCbnQzOEJKbmdmbw?oc=5",
-          "ts": 1795297724000
-        },
-        {
-          "title": "Tennis urged to bring in new serving rule after Alexander Zverev’s match with Ben Shelton at the ATP Finals",
-          "source": "The Tennis Gazette",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUJiTE9tWVMxaWNYekJiakFpeWpPRXVEYkJPbzhlY2hueVh1Mm1VcHk3Qk9Wem01VGxtcTRNU2tsX0JOYWFuUUJyUGRvVnUwRllaNWpDTWk0STgwUDlIdkNOYncwLTdzNTZpNF9RRXd6cW10SDdKTXpIZWEybE4zWEZjd2VyNUVLWFV5OHlkN2NWUG10VnM2NlhDOWxmcVR4ZlQzdFV6N051M1Q0Q2xxRlBkVFFMZmlqR0pwR3VmY0U3eHkzeDhUb2ZvZjVSa2F5VjJvak5ibEZQbWF4RkE?oc=5",
-          "ts": 1795230000000
-        },
-        {
-          "title": "Iga Swiatek tipped to be a real 'dark horse' on the WTA Tour in 2027 by Serena Williams’ ex-coach",
-          "source": "The Tennis Gazette",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWNuak1sUFR3VFZ6V3FUYzU4eE4yRDRuRFhhVjFfaUN4NU5CYmJRaDdyYWNqWDV6UnU0OG1CelBwRS1zQWdXOFY3aEJDelF6RnJFX1I3eE9kS29ybUJqbFRrNlREQ1lVdmhrMHBGYkw2SUFnSFY2cGVhLUp3QV9WeHZ1Si1FeENyVVNDV0FPOUc4M2xtcE9Xd3k2YzFoM01rNGcxdlp3VEpReGFubHVwdG8zU1ZlRkptdzVLMm1rUF9MNkJsLWZFUy1QS0tOdw?oc=5",
-          "ts": 1795197600000
-        },
-        {
-          "title": "“Two problems”: the Italian federation explains why Italy has passed on the WTA Finals",
-          "source": "Tennis Majors",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcGRYcmwtTGdUUFhneGlNOUdPVFRjRXBERHJGc0dCc2FFbUctYlFseTRmUzY2MGxaeS1vbFJDOG83TEdCZndqenAtUmNXdExaMnAzY1B0MlhxSnNlLU5sbTkwRUNkbVU2RzdOeW4yS3gyUGhWRm95RktCaDYyeGVYU0JKQVZCbVVWMmQ4dnN5TEl3bGVSTV8tMXZDVjhuS242NXVCSkdYUUlxTWwxbTZLdFhzVVZ6em45aG9Bc2VmYjFaOHdpWVRv?oc=5",
-          "ts": 1795194708000
-        },
-        {
-          "title": "WTA names Jamie Baker chief tour officer",
-          "source": "WTA Tennis",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVU1MX2hnUGhEUFJYLVJRR0dSelZQVEU3MmNRWEFTQjhtck1vVDRQUVRDMXJMQzZnSWlXMnVxT2NmazFYaEZleUNpaDBhT0ZORGJmcXRaTXpWZ1huVjNzdjJhaTRmajdQSHNBdk9vQlRaX29RdFlKUjZWcVlWcVQzYUp5VlJDZw?oc=5",
-          "ts": 1795104376000
-        },
-        {
-          "title": "FAGE WTA Finals Indian Wells 2026 Overview | WTA Official",
-          "source": "WTA Tennis",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMkJNTjRRcm1QVElrVU1QQ2hFcXZYc0NEWmlJekVIRTBYYWxrVDJZMm9WT0xwa1JYbGt1RzdYcFMtLVAzSWlJT1J4d0pLdGhLYW5Da3BiZlplazE2?oc=5",
-          "ts": 1795094927000
-        }
-      ]
+      "items": []
     },
     {
       "key": "worldcup",
       "label": "World Cup",
-      "items": [
-        {
-          "title": "U17s captain: Ireland proved a point in defeat to Brazil",
-          "source": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGdrMXZvM3ZsU2lwTV9NR1dHSkh3azFFWW40M0prQ2NBbG52TnlLR3haWmZYT1dMWEtNVjdZY2E2ZjhVZ3BGMmp0RVVnOFRBdzk5ZXF3bjc1Z0tKM3hUVVJZVk9ENzQtZWt3blVRSmRCOXNySkNYM0puNGx3Yjg4S2tPRnhUUTZjZUJiVkppOGJJb3hwaGd6UXh5Qm5JaVVCTzB5SHBIVFlLUQ?oc=5",
-          "ts": 1795298556000
-        },
-        {
-          "title": "Peyton Miller steals the spotlight from Cavan Sullivan in MLS playoff showdown",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2hNc0FmYm5FZ081V0JkQkcwSERjejlyTG1xZlEtanJZdl9RaHRIMzVZNHZfVHJHaUUweENsanp4c1doR084WVg3a2pPazlZbjluSWhzVTZkZjd5M29zRGZVUVVod0xmZmphS2h0OGllaTM5SS00Z3dIY3JSU0ZMUTdMQkwyVGtySUZwcm1ieVRUbW1sSXRxOEw1S3gxaUM5Yy1pX09GSmZQSDgwd3FB?oc=5",
-          "ts": 1795297643000
-        },
-        {
-          "title": "Eduardo Conceicao magic edges Brazil past spirited Ireland U17s",
-          "source": "RTE.ie",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFJMR01TdW9LdG9hU3ZrS3dpSTdJbXJ2aGZqWmYzMGxmeE5ncExubVJBeE9qSjdFOUtvUnFUd09ENDJDN0ZYRkdQUVc3WldfOTVPUGFlZE0xNXdEdkZuR2t5aV9qcFhOb201Z3Ryd0NnVmNnZjJwSEJiZE12VGZaMjhYZFRfZVRnQVZQNVVKUDI5MzZ3bzV2MmF1YTRkYml3cXlWLUZFRUhUZw?oc=5",
-          "ts": 1795296825000
-        },
-        {
-          "title": "Ferdinand: What is happening in the Musiala affair is not like Bayern Munich",
-          "source": "Goal.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVzMwZS02UHFEZHhzbTZMVm5Lc3ltZ1YyaEY3eHN1dzBnX3A3TlRtWklwaUR6UmhvUnpwalJZVW5FeEFxeWQ0MDFhRmxxUWFDM1hOejh2ZVVQQlB2aHZCdzdMaVNPQk01N1hKOFlwODIxYXZaamxPbllzTzhoRml0YjRGUVVteFItTTdibXlYRXdPcDFob25uVFFLRDYyS2xPOHVXWHI3bWdGZHA1UjgyNVNKR3lZVTJmTWhOR1dkdnE0dw?oc=5",
-          "ts": 1795296000000
-        },
-        {
-          "title": "Infantino Announces $25 Million FIFA Funding Boost for Member Associations",
-          "source": "Africa Top Sports",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10dmdzeUZCMFpndEJvc21ROUxIUTYwdW9fZVF1dWRpTmN4YmdvQ3Z1U3lIUzRMU0RYRkc1WkdBZTZzUDhqQzk2cUxTOWh4Y0Nr?oc=5",
-          "ts": 1795290329000
-        },
-        {
-          "title": "2026 FIFA U-17 World Cup – Historical point for Tanzania; heartbreak for Cameroon and Algeria",
-          "source": "CAFOnline.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzBTOW16MF93aEpKZWJobWc0Z1BWLXItdFlKdTdGOXY5RHJEYlJZRW1STWJRenJfODRubm1jRW4xaVk5d2NGVkdINE85YllJSE1TZTRGU1VjVW53aEU0ZlVSU2N0b3R3LVBaV3BtdHhsaWlRMWpQMVBEbGkzXzNCQWVtbFd0WDVTbGY5X2x2UWtEbllUZDllS3otWlk3TWJGV2FsbTMxME1OQi1UT1pULWYtajkzR19ISnRjd25vSQ?oc=5",
-          "ts": 1795287576000
-        }
-      ]
+      "items": []
     },
     {
       "key": "macro",
       "label": "Macro",
-      "items": [
-        {
-          "title": "US Consumers Are Holding Up Against Inflation Going Into Holiday Season",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzdHalZYY2s3bHVEeENKX0g4T0M4WWxHV3lacDRlejl2b2E5VWNPd1AxbXhaaUVyNXBFLWlYZFlKTk93R3QzeFdVazI3ajljUFVLYnFpb1VVQmNrVlNvYTIyajhxM1JBbjYxTkhJMkhObEJGSVdRdmZDVzItblZFd1A4NHZaWTZiZWdFVVc4REI2RGF5UjlGWndXeDFha2k0MWdqRkE4X1ozQ1h5N0ZxZmVVTVFldC1VRi1keUdBQQ?oc=5",
-          "ts": 1795294800000
-        },
-        {
-          "title": "Inflation, economic growth and the mood of US consumers in focus this week",
-          "source": "WRAL",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX3JHc1BFLWw4RFA1UEZUbm5wcWN6Tk5zc3JraFJGamoyVkZ1dUp1TE51UHRSZDgySVBtcXR4SHBIdmdJZUlrMnMyel9qM3JyRkxMLW0xNWhDU2xpbV9FNjlMakZtRXFxcmtDZ21KSnA2RG0xcVN0UksxYng2OEt3a3JvVlBzdUotOGhNQ2hXTmlRbXNoQWlNMkFKUEhhOWVzSXVUaVJVeU0yaXhCSXc?oc=5",
-          "ts": 1795277224000
-        },
-        {
-          "title": "Inflation, economic growth and the mood of US consumers in focus this week",
-          "source": "WTOP News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGlUMFRFa1BWLUZwcUxnOUhsTXZtcklRMUgxNGJsSUt0UEdyZlpPcmxoc0VRMWtkN1otM3k3ZkdxWU0tODh6X3FNRHRhSlhLem9FNWxUT1pxeW1Qc1g2dWtGMGlYNnZYM2FuYnY4NlFLaTZtLWhWQXI5SE5ISDZyR09mS3Rqc3Fpb0FQZ2p1Z3JtWFJhdGd2eGRwemNoYlRNdzRfaUhfbGJrTXJW?oc=5",
-          "ts": 1795277038000
-        },
-        {
-          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
-          "source": "Tekedia",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
-          "ts": 1795273607000
-        },
-        {
-          "title": "Inflation Climbs to 4%, Fed Eyes Rate Hike",
-          "source": "Wisevoter",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm9PbVpUdUhsMVZ4ME1SX1haajdPY3Z1QUl5Y0ZyVXhwMlI1ejVZQ1JjcU0xZ2p6aWx3VkF2Qk5yTGdNbGFHMThBUjV4dFl5RDVoX2RlQ3hPd0R2Y2JkSVRCYWJnNkdhcHMxY2VsVXZ1dWctZ3F3MnN2c29vZTNQdDdCUXJpNE9JZFc4aDBxYzdzSjA?oc=5",
-          "ts": 1795246723000
-        },
-        {
-          "title": "'Look at India': Trump cites 7% growth to criticise US Fed's rate policy",
-          "source": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnBiS2NEM1czV1J6NW9KTHVqcjZUNjNDOUw2RmlWM1hZMWNTWlk2ZExDdTVSSG9KMUZWZTU4bFZQbU9md2xwcWtnOEljV3pCbklyc3JwdXBHdE5IYS1PSF9uTDRZTkszOWFCb0k4b3ZiNzh3OVF2RzBwY2diZ3RTUlhPSUpzOXZaMkRCdGlRMVpFTXJGVDJJX3pRZHZZUDJ3MDY1UlZPTnhXZEpJYkQwaHc0dXBsZ21OV3g2M2JHbmNNRWZwcWx6S3NYQ1ZYUdIB0wFBVV95cUxOZHFTa1RZQU9MWE1pOVNOaHpNMUlJOG1vaF9lZ1F0Y3hvcVpKUXAtX1VsXzdNdG5ncWhRVXRxZkZuY3lPV3dudnpmUXhGZVBEX1YtZmVRcGlMZXNadWlnbzFVd0J3Rk9ka2otMUZETHpNSVNWMjhxMm9CV2hYQlNVNWFNbm00X2FmV0w4NG81dVRBTzltNEFFNTlTSjBkQzU1dmY0LXVrRlFKQVJ3cVdZanFqdldPOXd3ZGRVdG4xaWtOeUhPVGY2MjVpU0tvWTdIYWU4?oc=5",
-          "ts": 1795244620000
-        }
-      ]
+      "items": []
     },
     {
       "key": "markets",
@@ -224,44 +39,7 @@
     {
       "key": "biotechmkts",
       "label": "Biotech markets",
-      "items": [
-        {
-          "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-          "source": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTDlKc0FSTGxiWFEzalUtT1RmdndBOHR6OGNvTTZvYWt6VkRVanRlbWVYUXZhckhnZi1BNFpxZm9adVJ0NTN5dDZ6c1JRekxpRzBMd2lVYjNkVGdqWTZnbXdtWEMyNFh2elRHTWFBX1laLW0wRjJSTzZjTnBfbWd2eGdiOUhuN0JDMEtWRnQ5SUxMNVdyRTU1RnlhRTVKSkJFdVQtQUNxTTZSUENsbDBueXBhUUluRkZZN1Q5dw?oc=5",
-          "ts": 1794867660000
-        },
-        {
-          "title": "Does FDA Approval Change The Bull Case For Scholar Rock (SRRK)?",
-          "source": "Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQWNGRU4zc2ROaUZ3eVFVTlZXZElJSmljZjNCVXZVbnhYRU1ad1Bma2c4OWstU2FhdFhBeXpQQlBwRzBHY2FtSmQzYnd0U1A5UVBHc0l5VWhxeDdtbVJuQVBoNFR1YjJxWW1fdVZob3FRVWxPdHdtcmxuYWdRWFAzaHlnOU9aeHowYWVvR2h6aTZ3Si1hMGVwNExRLUxJRXkzbjVKUmNLd0U4ZDF4bWtQYjQwVFdGNXZZSmRTa0hnMV9fSGowV2JPZGVwdm92SUVmWW5sOXdJT1h3TmtkMXZ6NW1STzgyOEE4YkHSAe8BQVVfeXFMUFFKVE1rOTVUQVlxRGdwLXc2OVR2SEVwaDd6SXlYR3ZqcUFhVU5xeHB4VW9fU3I5MUxMcWFDazRydS1XWWZVVl9McFk1ODNtYnBLN3dORHVhY3ViMkIyc1RLcy1Jb3h4OEJIb0dNTW9BOGQydG1FNWwxYTNmQWxWQmFETkVUcGt0eW52WnVYTDYwOXRYb1ZvZWdDN1U1NC1tR3JOZE51UWNZYlQ2cXRjM0hDaW85ZmtQOEtvMHVQdmppOUU3ejNiRzRxWW5RbEQ4UTZLejI3eGl5c0h0dEhYNVF0SXJjV2l6MnhfYlptSkE?oc=5",
-          "ts": 1794479569000
-        },
-        {
-          "title": "Inovio sets price for its first FDA-approved drug at $115,000 per dose",
-          "source": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXVIeE5VZjBBc1hFeTZudTNaSE16MS1Eak5EZzV6ZGY1aGl2QUZaejBtYUZ2Mlk4LTU1eE15Z25rYXQ3d3Rxa3VjVzl4TTJIdnhvd1YydC1GUFJUanpXQkkxNjVyS0pIeGpmYkdNX1dNYU1yYzA5UWhJVTBXVURKYlNDeGJFckgzZ2VsM3JDbHJGSUNQRDF6OUVNZzRmM0VBNUlxa1pkektOUWdqM1E?oc=5",
-          "ts": 1793606400000
-        },
-        {
-          "title": "FDA approves first product for Wilmington biotech; shares tumble",
-          "source": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTR3ZjJXSjV3bGcwbm00SnZjSzhJZkZmTUswR3hfSm5NdkdPanB5R0hmb19lN3JzQmw1S2ZNSWZDbjkzN1ZIQjVzY040NmV6UmJxMVVXMGlaX1ZRMEh3V2lRZ184dzFaV0JiQTJVdnBWMlkzZ1I4SDNMRzJVdmhfbFBRQ0dQLXJ4bHN0MC1BdXJnUl8wV3pFYnhCcUp2X0dtZFprWWRZd0ZodXFjbXIw?oc=5",
-          "ts": 1793343600000
-        },
-        {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "ts": 1793257200000
-        },
-        {
-          "title": "Stocktwits Pharma Pulse: Big Pharma Earnings, Cancer Updates And 2 FDA Deadlines — The Week’s Biotech Watchlist",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbTBrTlB2VzU3UWJiQ3ZNbXpfV3M3UVItbU9Mb1dUOEdDN1k1cENkRTNBcGl0X3NDSUhkY0ZSV2NYT05DUnliZ3RXQzFZdEZYUWE2QkJiRlk4ODhiR05mZzRwa0ZOcGNOdFMxMURkU0J1QWJnSFZ1VHhIOXpYN2NqeEZWOWpFTDJtMXIzcTBHdUtsYUE0ZVV4c1JmYlNMcl9jU3RNR09iWmFwbzFIQThkUnZDWXlKampLU0p4eUM2OTlFc1ozZXpCVHVhSzhfRTdhdFNvRVNieklUc3pUOHk4RFlmdEl5d2ZOQ1FmYlYwbWZyR2lQMmQxN291dE0?oc=5",
-          "ts": 1792911600000
-        }
-      ]
+      "items": []
     }
   ]
 }
