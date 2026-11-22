@@ -1,77 +1,167 @@
 {
-  "updated": "2026-11-22T03:48:34.930Z",
-  "withNews": [],
-  "moversOnly": [
+  "updated": "2026-11-22T13:42:15.111Z",
+  "withNews": [
     {
-      "question": "Will the price of Bitcoin be above $58,000 on November 23?",
+      "question": "Will Ethereum dip to $1,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-58k-on-november-23-2026",
-      "yes": 70,
-      "change24h": 37,
-      "vol24h": 10635,
-      "headlines": []
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-in-november-2026",
+      "yes": 24,
+      "change24h": -5,
+      "vol24h": 15419,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
       "question": "Will Bitcoin dip to $55,000 in November?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026",
-      "yes": 43,
-      "change24h": -34,
-      "vol24h": 186551,
-      "headlines": []
+      "yes": 27,
+      "change24h": -4,
+      "vol24h": 100965,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
-      "question": "Will Ethereum dip to $1,500 in November?",
+      "question": "Will the price of Bitcoin be above $54,000 on November 26?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-in-november-2026",
-      "yes": 38,
-      "change24h": -30,
-      "vol24h": 14099,
-      "headlines": []
+      "url": "https://polymarket.com/event/bitcoin-above-54k-on-november-26-2026",
+      "yes": 95,
+      "change24h": 4,
+      "vol24h": 11174,
+      "headlines": [
+        {
+          "title": "Biotech Stocks Facing FDA Decision In November 2026",
+          "source": "RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
+          "cat": "Biotech markets"
+        }
+      ]
     },
     {
-      "question": "Will Bitcoin reach $62,500 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-62pt5k-in-november-2026-from-november-20",
-      "yes": 55,
-      "change24h": 28,
-      "vol24h": 43864,
-      "headlines": []
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 49,
+      "change24h": 3,
+      "vol24h": 22760,
+      "headlines": [
+        {
+          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
+          "source": "Tekedia",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "J.P. Morgan prices in stunning shift in Fed rate-hike call",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWG5EWmtoSEJiSG52OGtQdURRTS1TZEc0UGV1M19tQUh5cjN0YWpYY3F5MkloRDBzTVF2aXNUa1R2WjR1MzJhYmU5M2diTDNvTHNZaUZrdDFfQ3pTZk5MMXVITGZONEJHbnVwdG1jYUNPRmRFVFFIdHlwZFMwUGplc1luYVZjNGtKcm1QeUF4ajE?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will the price of Bitcoin be above $56,000 on November 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-56k-on-november-23-2026",
-      "yes": 89,
-      "change24h": 27,
-      "vol24h": 22132,
-      "headlines": []
+      "question": "Another Fed rate hike in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/another-fed-rate-hike-in-2026",
+      "yes": 93,
+      "change24h": 3,
+      "vol24h": 22015,
+      "headlines": [
+        {
+          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
+          "source": "Tekedia",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "J.P. Morgan prices in stunning shift in Fed rate-hike call",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWG5EWmtoSEJiSG52OGtQdURRTS1TZEc0UGV1M19tQUh5cjN0YWpYY3F5MkloRDBzTVF2aXNUa1R2WjR1MzJhYmU5M2diTDNvTHNZaUZrdDFfQ3pTZk5MMXVITGZONEJHbnVwdG1jYUNPRmRFVFFIdHlwZFMwUGplc1luYVZjNGtKcm1QeUF4ajE?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will the price of Bitcoin be above $56,000 on November 24?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-56k-on-november-24-2026",
-      "yes": 85,
-      "change24h": 26,
-      "vol24h": 12400,
-      "headlines": []
+      "question": "Will 1 Fed rate hike happen in 2026?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-1-fed-rate-hike-happen-in-2026-20260623190852890",
+      "yes": 7,
+      "change24h": -2,
+      "vol24h": 20923,
+      "headlines": [
+        {
+          "title": "J.P. Morgan Forecasts Three Consecutive Fed Rate Hikes as Inflation Remains Elevated",
+          "source": "Tekedia",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzZSdHVoaHpDSEExbUJrSzlSZEIwS0pzVm56TDdhSldKQlJWUlo1VzVhYThZMVJsQnI5b1pLMmxvWVM0VG0xMjg0QnAtVHZuOXBOLU5GbWVBdHpFOXhvblI4elRNbThzdTdkZDVCbFg5T1k4MnNFOWttci1CNnVJXzdPd1htb0w0UnJqZFQ4Vm1KV0loOERKZFRmU0ZwVEd6VjVpMzFjSzI3Wm44?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "J.P. Morgan prices in stunning shift in Fed rate-hike call",
+          "source": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWG5EWmtoSEJiSG52OGtQdURRTS1TZEc0UGV1M19tQUh5cjN0YWpYY3F5MkloRDBzTVF2aXNUa1R2WjR1MzJhYmU5M2diTDNvTHNZaUZrdDFfQ3pTZk5MMXVITGZONEJHbnVwdG1jYUNPRmRFVFFIdHlwZFMwUGplc1luYVZjNGtKcm1QeUF4ajE?oc=5",
+          "cat": "Macro"
+        }
+      ]
     },
     {
-      "question": "Will the price of Bitcoin be above $60,000 on November 23?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/bitcoin-above-60k-on-november-23-2026",
-      "yes": 39,
-      "change24h": 26,
-      "vol24h": 8951,
-      "headlines": []
+      "question": "ATP World Tour Finals, Final Stage: Alexander Zverev vs Carlos Alcaraz",
+      "topic": "Tennis",
+      "url": "https://polymarket.com/event/atp-zverev-alcaraz-2026-11-22",
+      "yes": 34,
+      "change24h": 0,
+      "vol24h": 70664,
+      "headlines": [
+        {
+          "title": "Tennis urged to bring in new serving rule after Alexander Zverev’s match with Ben Shelton at the ATP Finals",
+          "source": "The Tennis Gazette",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcUJiTE9tWVMxaWNYekJiakFpeWpPRXVEYkJPbzhlY2hueVh1Mm1VcHk3Qk9Wem01VGxtcTRNU2tsX0JOYWFuUUJyUGRvVnUwRllaNWpDTWk0STgwUDlIdkNOYncwLTdzNTZpNF9RRXd6cW10SDdKTXpIZWEybE4zWEZjd2VyNUVLWFV5OHlkN2NWUG10VnM2NlhDOWxmcVR4ZlQzdFV6N051M1Q0Q2xxRlBkVFFMZmlqR0pwR3VmY0U3eHkzeDhUb2ZvZjVSa2F5VjJvak5ibEZQbWF4RkE?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Iga Swiatek tipped to be a real 'dark horse' on the WTA Tour in 2027 by Serena Williams’ ex-coach",
+          "source": "The Tennis Gazette",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWNuak1sUFR3VFZ6V3FUYzU4eE4yRDRuRFhhVjFfaUN4NU5CYmJRaDdyYWNqWDV6UnU0OG1CelBwRS1zQWdXOFY3aEJDelF6RnJFX1I3eE9kS29ybUJqbFRrNlREQ1lVdmhrMHBGYkw2SUFnSFY2cGVhLUp3QV9WeHZ1Si1FeENyVVNDV0FPOUc4M2xtcE9Xd3k2YzFoM01rNGcxdlp3VEpReGFubHVwdG8zU1ZlRkptdzVLMm1rUF9MNkJsLWZFUy1QS0tOdw?oc=5",
+          "cat": "Tennis"
+        }
+      ]
     },
     {
-      "question": "Will Bitcoin dip to $52,500 in November?",
+      "question": "Will Miami Heat win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-miami-heat-win-the-2027-nba-finals",
+      "yes": 4,
+      "change24h": 0,
+      "vol24h": 44842,
+      "headlines": [
+        {
+          "title": "Miami Heat NBA Game Draws 95% New Shoppers For GTA VI Launch",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wbV83R09pbGd1LWl0cWVUTmRmSGktS1VLS3B4OVJWYTVDV0owTkFRQ2dULVpMQzhkY3RNSHpMOFMtTGROZS1uSGNKb3JrT3U5d05CaFhIUHVJOGY5T1hpdXRQRVg3MmFqcGRCLU9OUXpIT3pwVEJlOVhnNy1CTGc?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    }
+  ],
+  "moversOnly": [
+    {
+      "question": "Will Bitcoin dip to $50,000 by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-52pt5k-in-november-2026",
-      "yes": 24,
-      "change24h": -22,
-      "vol24h": 99857,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
+      "yes": 29,
+      "change24h": -5,
+      "vol24h": 98574,
       "headlines": []
     }
   ]
