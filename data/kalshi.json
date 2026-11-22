@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-21 21:10 UTC",
-  "net_return_pct": 1.1,
-  "realized_return_pct": 1.1,
+  "updated": "2026-11-22 01:19 UTC",
+  "net_return_pct": -5.8,
+  "realized_return_pct": -5.8,
   "unrealized_return_pct": 0,
-  "win_rate_pct": 54.8,
-  "settled_total": 31,
+  "win_rate_pct": 53.1,
+  "settled_total": 32,
   "curve": [
     0,
     -100,
@@ -37,10 +37,18 @@
     3.8,
     -0.2,
     2.9,
-    1.1
+    1.1,
+    -5.8
   ],
   "active": [],
   "settled": [
+    {
+      "title": "UCLA wins",
+      "ticker": "KXNCAAFGAME-26NOV21UCLAMICH-UCLA",
+      "result": "no",
+      "date": "2026-11-22",
+      "return_pct": -100
+    },
     {
       "title": "Will Jensen Huang leave as Nvidia CEO before Nov 13, 2026?",
       "ticker": "KXCEONVDA-01JAN33-13NOV26",
@@ -173,13 +181,6 @@
       "result": "no",
       "date": "2026-10-18",
       "return_pct": 6.3
-    },
-    {
-      "title": "Tennessee wins",
-      "ticker": "KXNFLGAME-26OCT18TENIND-TEN",
-      "result": "yes",
-      "date": "2026-10-18",
-      "return_pct": 61.1
     }
   ]
 }
