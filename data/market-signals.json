@@ -1,57 +1,69 @@
 {
-  "updated": "2026-11-23T04:25:21.314Z",
+  "updated": "2026-11-23T16:41:20.503Z",
   "withNews": [
     {
-      "question": "Will Trump call for Jensen Huang's return as NVIDIA CEO by November 30?",
+      "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-trump-call-for-jensen-huangs-return-as-nvidia-ceo-by-november-30-2026",
-      "yes": 98,
-      "change24h": 77,
-      "vol24h": 80389,
+      "url": "https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia",
+      "yes": 100,
+      "change24h": 89,
+      "vol24h": 3714594,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
-        }
-      ]
-    },
-    {
-      "question": "Will Trump call for Jensen Huang's return as NVIDIA CEO by December 31?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-trump-call-for-jensen-huangs-return-as-nvidia-ceo-by-december-31-2026",
-      "yes": 98,
-      "change24h": 59,
-      "vol24h": 8608,
-      "headlines": [
-        {
-          "title": "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
-          "source": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWgzUTdHNVRkRDVwVTdfVU9qRm10ZTNqMHJIcHNrUFVRMjhDcmxEOWU5MWNGX0pHLUNjekZVM3NkWVV5OGJPS1VSSm5Ha0VwdndwUjVrVWNVa0FCS25nRWZYeXA0TkpGTENVX0JxTk1PUUpIMEJSOGcxaHBJX2stZDlEV0dnTXNqQTZaT0FodzFPZTZKVy1DQmpRSl96YXdnMFBkakRfaE9yUTdYZm9Mb3VnRHBaTi1vN3VCSHNZRVcyNWpm?oc=5",
-          "cat": "Macro"
+          "title": "Gaudenzi opens the door to joint ATP and WTA Finals, but the ATP's own CEO sees one problem",
+          "source": "www.tenniswatcher.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjJ3VklId0Zza1lmbzk0RkZmTE1vbHBQSVhEM3Rxdm9vTUtnVVBnYUJHd2U1aEphcUpraXN1WW9Ic1NHbnVLRXN4cFczY1FEZ3V5RVZkUVJoLXAxZDhMUksyRHExZ2Fod3JabV9ldElCUkVoUGhrakNBUFRLNUctU0JhSWVaOVp1WXFLb2hxVGVwSnlEUmFENlA5TnRlX2xf?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar",
-          "source": "FXEmpire",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ0allURzByRktqOG9jVVR3Mlc4elhCeVMyWTQ3eHQ1YUdlOXhIa29ZWU5kY2JmRTlyVW5QeEpSN1lROWxMdWM0bDdjbGtpZUJwc0F1RTRJbm1CVjhxdndULVJiZzF1X0h0aUh0eDMwM0ZyZy1XY0xscFQ0SUVHNEhDSWxvZ1BoRkZnUUprcVEtWm5DVG9mUHFnSHBvY1Rza3RqdUdlM3RMYVJJazU3eWlpQjA?oc=5",
+          "title": "Why Ackman Thinks A December Fed Rate Hike Could Tip The Economy Into Recession",
+          "source": "Blockonomi",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUptWWtCaGxSMUFaOUJzY1Vqam5aVXlvcVZzLTBQelAzX0RMX3hEWW1SYl9ZSk1VWHBrLURLak4zY25tcEVrOXlGZEpnWmVmLWZ4SF9wNkdNRElwXzE5XzdxakNpS3EwcTNWSWt1cWcyZ3I4MmFOZ0tQOVNralFqZV9LYjNKNnRyTTFCVU1xam5jMUxZNWI3Xy1JdXNPU241LVVNR0t3?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $57,500 in November?",
+      "question": "New NVIDIA CEO named by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-november-2026-from-november-21",
-      "yes": 38,
-      "change24h": -36,
-      "vol24h": 45617,
+      "url": "https://polymarket.com/event/new-nvidia-ceo-named-by-december-31-2026",
+      "yes": 100,
+      "change24h": 84,
+      "vol24h": 605505,
       "headlines": [
         {
-          "title": "Biotech Stocks Facing FDA Decision In November 2026",
-          "source": "RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-          "cat": "Biotech markets"
+          "title": "Gaudenzi opens the door to joint ATP and WTA Finals, but the ATP's own CEO sees one problem",
+          "source": "www.tenniswatcher.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjJ3VklId0Zza1lmbzk0RkZmTE1vbHBQSVhEM3Rxdm9vTUtnVVBnYUJHd2U1aEphcUpraXN1WW9Ic1NHbnVLRXN4cFczY1FEZ3V5RVZkUVJoLXAxZDhMUksyRHExZ2Fod3JabV9ldElCUkVoUGhrakNBUFRLNUctU0JhSWVaOVp1WXFLb2hxVGVwSnlEUmFENlA5TnRlX2xf?oc=5",
+          "cat": "Tennis"
+        },
+        {
+          "title": "Why Ackman Thinks A December Fed Rate Hike Could Tip The Economy Into Recession",
+          "source": "Blockonomi",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUptWWtCaGxSMUFaOUJzY1Vqam5aVXlvcVZzLTBQelAzX0RMX3hEWW1SYl9ZSk1VWHBrLURLak4zY25tcEVrOXlGZEpnWmVmLWZ4SF9wNkdNRElwXzE5XzdxakNpS3EwcTNWSWt1cWcyZ3I4MmFOZ0tQOVNralFqZV9LYjNKNnRyTTFCVU1xam5jMUxZNWI3Xy1JdXNPU241LVVNR0t3?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA (NVDA) close above $160 end of November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/nvda-above-160-on-november-30-2026",
+      "yes": 64,
+      "change24h": 46,
+      "vol24h": 14030,
+      "headlines": [
+        {
+          "title": "Stock market today: Nvidia stock soars after company reinstates Jensen Huang as CEO; Dow, S&P 500, Nasdaq surge",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTi1HY2VadmRPMGtuUF96MGItMWhqSFlzWlR2SGp5RHUxbFVXVHppNkhOU2IwUEtQTEtXTDBaQnNqdTh4Q0hkcDN6bWlGT0NacXdFREs0ZXJSMVZyT1pwQksyS2R3eEd0M3BJcnlENnNvb0FxWWdpc3lrTEJ4RlJUdW9TSjlWQmJEYU82SzB0djRFbVhEUU9aQlpVcklGYXRKMmJUdEhQTThrQnpaakprc2NJTTlSU01iWmZpRGx3UnpSR09uc2sxWEQ4b3hpeWExcGNoS18zZw?oc=5",
+          "cat": "Markets"
+        },
+        {
+          "title": "The Message to Markets Is Clear: Nvidia and AI Are Too Big to Fail",
+          "source": "Barron's",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmk1VE05TmhWME9rQlI5LVJKc3gtWnhuZXZiUzFjcVRKenluNVVMdXJWdDU0cWQtaU5IU2hodEhaeEdRLVdNYlJJR0ZfY192b3ZOMjBUUE1CZk9EcXVvLWsxNW52UFl4dkhHVEEyUGY5blg4T0hKNkVIaHRGVkJ3dXpHeHhEOEZMZ0ptVg?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -59,37 +71,43 @@
       "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 54,
-      "change24h": 6,
-      "vol24h": 85868,
+      "yes": 56,
+      "change24h": 7,
+      "vol24h": 92076,
       "headlines": [
         {
-          "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
+          "title": "Ackman Warns Fed Against Further Interest Rate Hikes",
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuWV9KN0VkVV9RT0hPSGcwRVRtbXV3a3UzbmFnQlRzVGVDNXZNeDB5aXZRdGpfZ1hoMWhIT1VnS3dsaVNIWDdkdzB6eDQ2MEo5aVRIZ29MX29zS0RwMDZHWg?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
-          "source": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWgzUTdHNVRkRDVwVTdfVU9qRm10ZTNqMHJIcHNrUFVRMjhDcmxEOWU5MWNGX0pHLUNjekZVM3NkWVV5OGJPS1VSSm5Ha0VwdndwUjVrVWNVa0FCS25nRWZYeXA0TkpGTENVX0JxTk1PUUpIMEJSOGcxaHBJX2stZDlEV0dnTXNqQTZaT0FodzFPZTZKVy1DQmpRSl96YXdnMFBkakRfaE9yUTdYZm9Mb3VnRHBaTi1vN3VCSHNZRVcyNWpm?oc=5",
+          "title": "Bill Ackman Fed Rate Hike Warning Raises US Recession Concerns",
+          "source": "TronWeekly",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSc1pHQW1GZWFnUHA3cklKOVZDNjNhblBIZzFZUUVxd1NoNV8zRlJmWkJhWjRRMFNCY1FDbGhCQ3BkaklKcHNmdS1hY1BITW9zWVFJbGl2Z2c3Vmttay1jR1I0WVU1dXM5LVhSVjFEWUZmWEF4empHcUpETQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
-      "yes": 20,
-      "change24h": 6,
-      "vol24h": 47885,
+      "question": "Will the Fed Pause-Hike-Hike in the next three decisions (Oct-Dec-Jan)?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-pausehikehike-in-the-next-three-decisions-octdecjan",
+      "yes": 54,
+      "change24h": 7,
+      "vol24h": 10516,
       "headlines": [
         {
-          "title": "Vikings vs. 49ers live score updates: NFL latest with dominant San Francisco up big against Minnesota - The Athletic",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjR3SWhCZTVYcGpzSkxYUGZRUXI5MGVya2N5ODExSUNPeEJKRDhCak53bWxHT2R3YUxtSnRlSGVDT0pibVQ3b2RIQkliRVVPZjNxT3lucU5Jb2xOcVpHVjFwUFViQlM5X1I4ZnZ1dVJYUlRLSWZRcnRLd0VKbDNrS1YwN0F5NEd3TTBkSXZvN0JYWFBVSS04VnNISUhmQm1kc0Vzc0VDbUZfRW5P?oc=5",
-          "cat": "NFL"
+          "title": "Ackman Warns Fed Against Further Interest Rate Hikes",
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuWV9KN0VkVV9RT0hPSGcwRVRtbXV3a3UzbmFnQlRzVGVDNXZNeDB5aXZRdGpfZ1hoMWhIT1VnS3dsaVNIWDdkdzB6eDQ2MEo5aVRIZ29MX29zS0RwMDZHWg?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Bill Ackman Fed Rate Hike Warning Raises US Recession Concerns",
+          "source": "TronWeekly",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSc1pHQW1GZWFnUHA3cklKOVZDNjNhblBIZzFZUUVxd1NoNV8zRlJmWkJhWjRRMFNCY1FDbGhCQ3BkaklKcHNmdS1hY1BITW9zWVFJbGl2Z2c3Vmttay1jR1I0WVU1dXM5LVhSVjFEWUZmWEF4empHcUpETQ?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -97,105 +115,99 @@
       "question": "Will there be no change in Fed interest rates after the January 2027 meeting?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505",
-      "yes": 45,
-      "change24h": -4,
-      "vol24h": 17325,
+      "yes": 43,
+      "change24h": -5,
+      "vol24h": 29895,
       "headlines": [
         {
-          "title": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
-          "source": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcXh5Rm5oX0xZaXpqczkwRTFfM2gzWGFGQzNsOWZlVVFuOTU1dHgwN1YwektGRmFBOW5LWUltcUE2Q0d2YThXTFQtSHctaFZmcUFWWTRsX0dMaWpKRUtnd2cyUFViMGt6b2N1RGJRMmdmUjF4aUlJR1J2dDF5c2lTZXd4dlFyVG5IQ2hFR2VyTG8zTWZvQ09Oc25Cd2x1Q2pFMFQtOW9FMjV4RnR1Vmc?oc=5",
+          "title": "Ackman Warns Fed Against Further Interest Rate Hikes",
+          "source": "cwibc.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuWV9KN0VkVV9RT0hPSGcwRVRtbXV3a3UzbmFnQlRzVGVDNXZNeDB5aXZRdGpfZ1hoMWhIT1VnS3dsaVNIWDdkdzB6eDQ2MEo5aVRIZ29MX29zS0RwMDZHWg?oc=5",
           "cat": "Macro"
         },
         {
-          "title": "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
-          "source": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWgzUTdHNVRkRDVwVTdfVU9qRm10ZTNqMHJIcHNrUFVRMjhDcmxEOWU5MWNGX0pHLUNjekZVM3NkWVV5OGJPS1VSSm5Ha0VwdndwUjVrVWNVa0FCS25nRWZYeXA0TkpGTENVX0JxTk1PUUpIMEJSOGcxaHBJX2stZDlEV0dnTXNqQTZaT0FodzFPZTZKVy1DQmpRSl96YXdnMFBkakRfaE9yUTdYZm9Mb3VnRHBaTi1vN3VCSHNZRVcyNWpm?oc=5",
+          "title": "Bill Ackman Fed Rate Hike Warning Raises US Recession Concerns",
+          "source": "TronWeekly",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSc1pHQW1GZWFnUHA3cklKOVZDNjNhblBIZzFZUUVxd1NoNV8zRlJmWkJhWjRRMFNCY1FDbGhCQ3BkaklKcHNmdS1hY1BITW9zWVFJbGl2Z2c3Vmttay1jR1I0WVU1dXM5LVhSVjFEWUZmWEF4empHcUpETQ?oc=5",
           "cat": "Macro"
         }
       ]
     },
     {
-      "question": "Kimberly Powell announced resignation or removal by December 31, 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-december-31-2026",
-      "yes": 26,
-      "change24h": 4,
-      "vol24h": 7334,
+      "question": "Will the Minnesota Vikings win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-minnesota-vikings-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": -2,
+      "vol24h": 9687,
       "headlines": [
         {
-          "title": "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
-          "source": "investingLive",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWgzUTdHNVRkRDVwVTdfVU9qRm10ZTNqMHJIcHNrUFVRMjhDcmxEOWU5MWNGX0pHLUNjekZVM3NkWVV5OGJPS1VSSm5Ha0VwdndwUjVrVWNVa0FCS25nRWZYeXA0TkpGTENVX0JxTk1PUUpIMEJSOGcxaHBJX2stZDlEV0dnTXNqQTZaT0FodzFPZTZKVy1DQmpRSl96YXdnMFBkakRfaE9yUTdYZm9Mb3VnRHBaTi1vN3VCSHNZRVcyNWpm?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar",
-          "source": "FXEmpire",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ0allURzByRktqOG9jVVR3Mlc4elhCeVMyWTQ3eHQ1YUdlOXhIa29ZWU5kY2JmRTlyVW5QeEpSN1lROWxMdWM0bDdjbGtpZUJwc0F1RTRJbm1CVjhxdndULVJiZzF1X0h0aUh0eDMwM0ZyZy1XY0xscFQ0SUVHNEhDSWxvZ1BoRkZnUUprcVEtWm5DVG9mUHFnSHBvY1Rza3RqdUdlM3RMYVJJazU3eWlpQjA?oc=5",
-          "cat": "Macro"
+          "title": "Vikes Views: Nincompoop of the Week: Vikings at 49ers",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUFdRd0hYT3hTUUZZWnNZRmdIQmtWbzFaYVc0MXhXWHZmOGoxQ0ljNmhveDFFQTN6V3lLV1FESVd1bjg4ZnI5N2VxYWp0T3R5YUxCNENwbnNaYS1ZSGhOTVgxdHY0VUJwaFVwN0N4dzZad2FVVXN2NEtPSk5TblFKVnVUck9rRFgteUd3MA?oc=5",
+          "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Atlanta Hawks win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-atlanta-hawks-win-the-2027-nba-finals",
-      "yes": 1,
+      "question": "Will the Kansas City Chiefs win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-kansas-city-chiefs-win-the-2027-nfl-league-championship",
+      "yes": 9,
+      "change24h": 1,
+      "vol24h": 11661,
+      "headlines": [
+        {
+          "title": "Bills-Chiefs Thanksgiving showdown could swing race for AFC’s No. 1 seed",
+          "source": "Democrat and Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNE1nMmJSM2xwRlJHTzJneVJDUGFFZDV6Q2VJa2JuajNreHJtdjRuXzlkRGhFeGdydkFTcXo2WE1SYkdKUEJXZEVQS3BCR19nNFJXZFFYSUJseXBsZlFiWEZnck9uNzN1RDY3VEVKeXB3N3lMeXNNNE9UTy1fcHM2Rm9ZMFJQb0RNSm9Qc1VibXNHTWlBN2Q1RDlKazFZUzBWdGFJS2FGeWpvMWlYZFNpeXBFbGtZZUNrY1lYR2NTdkRXVkRpTnhoTXhuZF9lNHNueE1QYXFnTURDN1pfV2RUTmViNHFvaEpkWkE4VzBn?oc=5",
+          "cat": "NFL"
+        }
+      ]
+    },
+    {
+      "question": "Will the New England Patriots win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-new-england-patriots-win-the-2027-nfl-league-championship",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 47107,
+      "vol24h": 10028,
       "headlines": [
         {
-          "title": "Alexander-Walker has 27 points as Hawks roll to 107-97 win over Pistons in off game for Cunningham",
-          "source": "The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnBVWEV5VzB0YW11ZTBjYkpQWmY2cXBQQjJmMmRvUk11TlpVYThzVERxbkRiN0U0TkpiNjVTX0QzWnBIVFVqZDlHZmtQX0ZJcXBLZ3F0V19JSEw3M0dPN0NOSWNBQXR4NXdmRDlNZ0FWenpqWWdOSDJkcGZwREQ4VDFELWNrdlBMTVJGUnVhNmVLWmhYVUg3T0k5OVBWNnRVQXVJMUNfZENBODlwOUNxeTJvYjZUSk9aS25LeQ?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 2,
-      "change24h": 0,
-      "vol24h": 27582,
-      "headlines": [
-        {
-          "title": "Celtics’ struggles persist against Warriors, resulting in longest losing streak in five years",
-          "source": "Boston Herald",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQXzVCUFA0MXMzSHRPY3UxZWJVYnhEQlNTbzZfU0huYkpYc1dnNWluUXJXaXZzTl9mSWJRNlFkSk1QVHgyT3pZSUFDb0ZrbW45S0VNVDRkTUVzNktFZ1BpOVZUNmx1TUhjMUMzUzdZT0ZHUXZEcmpoNHhsZnkzZGhRNTF2NW5MMUFvVzRhNmlRNFRoZkpyaXZpa3pwMkdGdmlzNWZDUERYOWtjeHR5TTdkN2Zoc3BWcVVDRDRoam1HaVNWRV9sWWtSa2JSU00?oc=5",
-          "cat": "NBA"
+          "title": "England, Northern Ireland, Scotland and Wales to host Women’s World Cup in 2035",
+          "source": "Irish Examiner",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GYWhqUHJ6aU1TQXNKd3JIek5FQTNSX0ljdTRGaXVYMjlzX0lEbUlFcEpRd3BWeWRqSV9VbGJ3SHIxRWRNRWpuclJDQnA3dDNaQlVZVWtMcmxBX3YxcS00LUxMbnQzdTU3bkpsc2d3?oc=5",
+          "cat": "World Cup"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Florianopolis: Federico Zeballos vs Wilson Leite",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-zeballo-leite-2026-11-22",
-      "yes": 42,
-      "change24h": 8,
-      "vol24h": 24392,
-      "headlines": []
-    },
-    {
       "question": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-less-than-3pt50t-at-the-end-of-2026-1785882876109",
-      "yes": 81,
-      "change24h": 5,
-      "vol24h": 9891,
+      "yes": 39,
+      "change24h": -43,
+      "vol24h": 17109,
       "headlines": []
     },
     {
-      "question": "Will Rene Haas be the next CEO of NVIDIA?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-rene-haas-be-the-next-ceo-of-nvidia",
+      "question": "Will Jacksonville Jaguars win the 2027 NFL AFC Championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-jacksonville-jaguars-win-the-2027-nfl-afc-championship-539",
+      "yes": 17,
+      "change24h": -6,
+      "vol24h": 38300,
+      "headlines": []
+    },
+    {
+      "question": "Will the San Francisco 49ers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-san-francisco-49ers-win-the-2027-nfl-league-championship",
       "yes": 19,
-      "change24h": -4,
-      "vol24h": 49549,
+      "change24h": 5,
+      "vol24h": 43771,
       "headlines": []
     }
   ]
