@@ -1,157 +1,236 @@
 {
-  "updated": "2026-11-25T16:19:56.429Z",
+  "updated": "2026-11-26T01:14:39.151Z",
   "withNews": [
     {
-      "question": "Will NVIDIA (NVDA) close above $150 end of November?",
+      "question": "Will NVIDIA resume China AI chip shipments by June 30, 2027?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/nvda-above-150-on-november-30-2026",
-      "yes": 26,
-      "change24h": -29,
-      "vol24h": 10811,
+      "url": "https://polymarket.com/event/nvidia-resumes-china-ai-chip-shipments-by-june-30-2027",
+      "yes": 50,
+      "change24h": 8,
+      "vol24h": 11617,
       "headlines": [
         {
-          "title": "NFL DFS Showdown Picks for Packers vs. Rams on Wednesday Night Football (November 25th)",
-          "source": "FantasyLabs",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnp5UXluWTZmVHVoRlJka0hrOWNBYlMxSEZUa3FFejdWMmlCLW15bzlaZW9tTmRKX2JWRk0tMUlPcjk1VGJvTXFDcWhYU2pHeTBvQ0hlRlowSnFscEpXMnlVX1NIMEJEdzlpeExqZzI3S043enZkbjlJWjRmSEl1THVzZ2RZMG96anVRVDgxeTJYZjI4akJyRDdiRDV6dEZfUXNpczZxNEk4VzFDaFRITDJ6NTBQdWh0ZlRkTzJyOA?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will the Bank of Canada increase the target for the overnight rate by 25 bps at the December interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-increase-the-target-for-the-overnight-rate-by-25-bps-at-the-december-interest-rate-announcement-20260908230600013",
-      "yes": 79,
-      "change24h": 25,
-      "vol24h": 14726,
-      "headlines": [
-        {
-          "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CZGhNOTZjZWpza09ZQm5FOE5NQW5XcVh5aXJTcV9nQng3WEFJQUpYRDVSZ1lWT0tWRE4xazFIN2xuNC1tdDJKNVRZc2VqSnRxWWFFdFlwcTVRWktoWTdkVldYb2g1S2x5Y1dPSzNOOU4?oc=5",
-          "cat": "Macro"
+          "title": "China Open 2026: Prize Money For Joint ATP/WTA Tournament In Beijing",
+          "source": "sports.betmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb295V1JqcmhOTGJXLW1faF9tcVVBSzg3SXRVSndFUHEzR1BaNVZEdUhsM0Q2ZjJEdnQxWVFRRmxJZ3VBUENxZG1EQWtxRl8wYzZZTXZIYnhKbkVvV0dFbXJncVRFQkx4V2YxdUhlXzNrSEx0dmpXWUR0aFpNY3pJbFVrRXpUcEY0SGEwWENB?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORm0xSVIwQnh1VWlKTkZqdFZuZFl0S2JqRDA3STBBd3pkOG9ZMnZKZGl4OG9Qa3RXYXUzUG9vWnJWRzVrNHB0Rk1oTm9QVWV1QzdSSkVTU1B4bUNCVXZPLXhfS0RCck1jN2NRSHVMWjRURmI2N0hCX1dsRG5FRzZjZWdRYV9TWWI2dzVtVDl4TklwYVh1Rm9wUTduOHlkRUdXYm9xMkV5OG9wdW1nenBBRlpiQXd3ckh3V3ZUd1lmS0J3cS01WUN4eXFSLWpMWjNVTzFQc2xQaW5wQVFKUENmLVE1ZFp3Q1JMUG1MeGM5Y3FpZkFUeDk4?oc=5",
-          "cat": "Macro"
+          "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFdEWUhGNDRFUGdCb3hwQ0E2a3g5QTZsUUp3aUQzYU0zS055eUlLdXBfeFI1bUV2elNXMm1najVWVGhaR0owN2lwUlRIZWtqbWZXR0JkVXdNSGRzbVBEbTZjQVFFRkpWZ21SZS1BTlppZTcyQ2gwakZmaGFvOWZMdDVWOW15REZraEZWeU5YenVHdw?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will the Bank of Canada make no change to the target for the overnight rate at the December interest rate announcement?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-bank-of-canada-make-no-change-to-the-target-for-the-overnight-rate-at-the-december-interest-rate-announcement-20260908230600014",
-      "yes": 21,
-      "change24h": -25,
-      "vol24h": 13046,
+      "question": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244",
+      "yes": 6,
+      "change24h": -5,
+      "vol24h": 32991,
       "headlines": [
         {
-          "title": "Upgrade to US GDP figures keeps December rate rise in play for Fed",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CZGhNOTZjZWpza09ZQm5FOE5NQW5XcVh5aXJTcV9nQng3WEFJQUpYRDVSZ1lWT0tWRE4xazFIN2xuNC1tdDJKNVRZc2VqSnRxWWFFdFlwcTVRWktoWTdkVldYb2g1S2x5Y1dPSzNOOU4?oc=5",
-          "cat": "Macro"
+          "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFdEWUhGNDRFUGdCb3hwQ0E2a3g5QTZsUUp3aUQzYU0zS055eUlLdXBfeFI1bUV2elNXMm1najVWVGhaR0owN2lwUlRIZWtqbWZXR0JkVXdNSGRzbVBEbTZjQVFFRkpWZ21SZS1BTlppZTcyQ2gwakZmaGFvOWZMdDVWOW15REZraEZWeU5YenVHdw?oc=5",
+          "cat": "Markets"
+        }
+      ]
+    },
+    {
+      "question": "Will NVIDIA resume China AI chip shipments by December 31, 2027?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/nvidia-resumes-china-ai-chip-shipments-by-december-31-2027",
+      "yes": 60,
+      "change24h": 5,
+      "vol24h": 13649,
+      "headlines": [
+        {
+          "title": "China Open 2026: Prize Money For Joint ATP/WTA Tournament In Beijing",
+          "source": "sports.betmgm.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb295V1JqcmhOTGJXLW1faF9tcVVBSzg3SXRVSndFUHEzR1BaNVZEdUhsM0Q2ZjJEdnQxWVFRRmxJZ3VBUENxZG1EQWtxRl8wYzZZTXZIYnhKbkVvV0dFbXJncVRFQkx4V2YxdUhlXzNrSEx0dmpXWUR0aFpNY3pJbFVrRXpUcEY0SGEwWENB?oc=5",
+          "cat": "Tennis"
         },
         {
-          "title": "Fed's favored inflation gauge heats up, solidifying a rate hike in December, with more likely next year",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORm0xSVIwQnh1VWlKTkZqdFZuZFl0S2JqRDA3STBBd3pkOG9ZMnZKZGl4OG9Qa3RXYXUzUG9vWnJWRzVrNHB0Rk1oTm9QVWV1QzdSSkVTU1B4bUNCVXZPLXhfS0RCck1jN2NRSHVMWjRURmI2N0hCX1dsRG5FRzZjZWdRYV9TWWI2dzVtVDl4TklwYVh1Rm9wUTduOHlkRUdXYm9xMkV5OG9wdW1nenBBRlpiQXd3ckh3V3ZUd1lmS0J3cS01WUN4eXFSLWpMWjNVTzFQc2xQaW5wQVFKUENmLVE1ZFp3Q1JMUG1MeGM5Y3FpZkFUeDk4?oc=5",
-          "cat": "Macro"
+          "title": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFdEWUhGNDRFUGdCb3hwQ0E2a3g5QTZsUUp3aUQzYU0zS055eUlLdXBfeFI1bUV2elNXMm1najVWVGhaR0owN2lwUlRIZWtqbWZXR0JkVXdNSGRzbVBEbTZjQVFFRkpWZ21SZS1BTlppZTcyQ2gwakZmaGFvOWZMdDVWOW15REZraEZWeU5YenVHdw?oc=5",
+          "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $62,500 in November?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-62pt5k-in-november-2026-from-november-23",
-      "yes": 30,
-      "change24h": -19,
-      "vol24h": 32346,
-      "headlines": [
-        {
-          "title": "NFL DFS Showdown Picks for Packers vs. Rams on Wednesday Night Football (November 25th)",
-          "source": "FantasyLabs",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnp5UXluWTZmVHVoRlJka0hrOWNBYlMxSEZUa3FFejdWMmlCLW15bzlaZW9tTmRKX2JWRk0tMUlPcjk1VGJvTXFDcWhYU2pHeTBvQ0hlRlowSnFscEpXMnlVX1NIMEJEdzlpeExqZzI3S043enZkbjlJWjRmSEl1THVzZ2RZMG96anVRVDgxeTJYZjI4akJyRDdiRDV6dEZfUXNpczZxNEk4VzFDaFRITDJ6NTBQdWh0ZlRkTzJyOA?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will Bitcoin reach $64,000 November 23-29?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-64k-november-23-29-2026-from-november-23",
-      "yes": 13,
-      "change24h": -13,
-      "vol24h": 12350,
-      "headlines": [
-        {
-          "title": "NFL DFS Showdown Picks for Packers vs. Rams on Wednesday Night Football (November 25th)",
-          "source": "FantasyLabs",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnp5UXluWTZmVHVoRlJka0hrOWNBYlMxSEZUa3FFejdWMmlCLW15bzlaZW9tTmRKX2JWRk0tMUlPcjk1VGJvTXFDcWhYU2pHeTBvQ0hlRlowSnFscEpXMnlVX1NIMEJEdzlpeExqZzI3S043enZkbjlJWjRmSEl1THVzZ2RZMG96anVRVDgxeTJYZjI4akJyRDdiRDV6dEZfUXNpczZxNEk4VzFDaFRITDJ6NTBQdWh0ZlRkTzJyOA?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Kimberly Powell announced resignation or removal by November 30, 2026?",
+      "question": "Will the Fed increase interest rates by 25 bps after the April 2027 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-november-30-2026",
-      "yes": 8,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-april-2027-meeting",
+      "yes": 12,
       "change24h": -4,
-      "vol24h": 18171,
+      "vol24h": 15419,
       "headlines": [
         {
-          "title": "NFL DFS Showdown Picks for Packers vs. Rams on Wednesday Night Football (November 25th)",
-          "source": "FantasyLabs",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnp5UXluWTZmVHVoRlJka0hrOWNBYlMxSEZUa3FFejdWMmlCLW15bzlaZW9tTmRKX2JWRk0tMUlPcjk1VGJvTXFDcWhYU2pHeTBvQ0hlRlowSnFscEpXMnlVX1NIMEJEdzlpeExqZzI3S043enZkbjlJWjRmSEl1THVzZ2RZMG96anVRVDgxeTJYZjI4akJyRDdiRDV6dEZfUXNpczZxNEk4VzFDaFRITDJ6NTBQdWh0ZlRkTzJyOA?oc=5",
+          "title": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed report reveals more positives for the economy, though many might not feel it",
+          "source": "kare11.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRkJTSHcxVEtnblpfWmhwYmNsTU81MUxwSWdUaks3RTdRdVAyQjdBZjBQRU9MaC1MMVphckFFbFpwYUptbmFWZDNkcEx2NVVGUnFUY1NuOXJzNWFPWllsTEJ0SzJtbklaZlM5Ty1NaEk3ZEJMTXhfNThqNGVRTjVPdXc1bzRFUlVLdGotUmFZbGlYbG53QS05NVYwaTk3UWNTTy1EQXI4clRaX0FOSXBQRWsydV9xY1pIanVoRGVpMV9QRVlJRWpaY1NQMWphbGYxZDZkSm5XS1lBLU9VeHdnSC0zQzl5MFVJbkdqbGFKaDR6QzdDREo5ZTVxTkhpVFcyakxYSUFaS3hVaHc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
+      "yes": 55,
+      "change24h": 2,
+      "vol24h": 80482,
+      "headlines": [
+        {
+          "title": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed report reveals more positives for the economy, though many might not feel it",
+          "source": "kare11.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRkJTSHcxVEtnblpfWmhwYmNsTU81MUxwSWdUaks3RTdRdVAyQjdBZjBQRU9MaC1MMVphckFFbFpwYUptbmFWZDNkcEx2NVVGUnFUY1NuOXJzNWFPWllsTEJ0SzJtbklaZlM5Ty1NaEk3ZEJMTXhfNThqNGVRTjVPdXc1bzRFUlVLdGotUmFZbGlYbG53QS05NVYwaTk3UWNTTy1EQXI4clRaX0FOSXBQRWsydV9xY1pIanVoRGVpMV9QRVlJRWpaY1NQMWphbGYxZDZkSm5XS1lBLU9VeHdnSC0zQzl5MFVJbkdqbGFKaDR6QzdDREo5ZTVxTkhpVFcyakxYSUFaS3hVaHc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the April 2027 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-april-2027-meeting",
+      "yes": 68,
+      "change24h": 2,
+      "vol24h": 12669,
+      "headlines": [
+        {
+          "title": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation",
+          "source": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR?oc=5",
+          "cat": "Macro"
+        },
+        {
+          "title": "Fed report reveals more positives for the economy, though many might not feel it",
+          "source": "kare11.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNRkJTSHcxVEtnblpfWmhwYmNsTU81MUxwSWdUaks3RTdRdVAyQjdBZjBQRU9MaC1MMVphckFFbFpwYUptbmFWZDNkcEx2NVVGUnFUY1NuOXJzNWFPWllsTEJ0SzJtbklaZlM5Ty1NaEk3ZEJMTXhfNThqNGVRTjVPdXc1bzRFUlVLdGotUmFZbGlYbG53QS05NVYwaTk3UWNTTy1EQXI4clRaX0FOSXBQRWsydV9xY1pIanVoRGVpMV9QRVlJRWpaY1NQMWphbGYxZDZkSm5XS1lBLU9VeHdnSC0zQzl5MFVJbkdqbGFKaDR6QzdDREo5ZTVxTkhpVFcyakxYSUFaS3hVaHc?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will the Los Angeles Rams win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-los-angeles-rams-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": 1,
+      "vol24h": 32663,
+      "headlines": [
+        {
+          "title": "Wednesday Night Football live discussion: Packers at Rams",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlFIRFlhNHRKM3BOdmhtLUVxZWJyeWtQWFJsV1BZSm9PXzdBNlFNdTZEczFPa1VjX1RWSW5XT0QxaG5TQU05ejU1VG8yOFliZUlFRFRDYzZjandOa3JYbDl2QVUwT1ZoT3FTZ0xDR0xtUndDb2Mwb0Q5MU5abHFxVDI3dVFjNWtCaWxNZzdFVEZpVG1hVkkyRA?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Denver Nuggets win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-denver-nuggets-win-the-2027-nba-finals",
-      "yes": 3,
-      "change24h": 1,
-      "vol24h": 18544,
+      "question": "Will the Green Bay Packers win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-green-bay-packers-win-the-2027-nfl-league-championship",
+      "yes": 2,
+      "change24h": 0,
+      "vol24h": 10579,
       "headlines": [
         {
-          "title": "David Adelman Doesn’t Hold Back With Damning Message After Nuggets’ 19-Point Loss to Mavs",
+          "title": "Wednesday Night Football live discussion: Packers at Rams",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkFKZUU3S0RVcUhyaktULXhmVmlwYVlyRUJ2MmJZSUZSaU1NbFJjeUJGVDFmWE4zbVhucFRtOHNyclEzeG1zaW1XQlNGUkVkeTEtUWd0b2JFSFc3d0RBeGhTSHpGUTh2dGpFSFdQa0gwazdHV0x3b1BBVkUweXgyVDJCSElYUQ?oc=5",
-          "cat": "NBA"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlFIRFlhNHRKM3BOdmhtLUVxZWJyeWtQWFJsV1BZSm9PXzdBNlFNdTZEczFPa1VjX1RWSW5XT0QxaG5TQU05ejU1VG8yOFliZUlFRFRDYzZjandOa3JYbDl2QVUwT1ZoT3FTZ0xDR0xtUndDb2Mwb0Q5MU5abHFxVDI3dVFjNWtCaWxNZzdFVEZpVG1hVkkyRA?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
   "moversOnly": [
     {
+      "question": "Will the price of Bitcoin be above $58,000 on November 27?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/bitcoin-above-58k-on-november-27-2026",
+      "yes": 90,
+      "change24h": 20,
+      "vol24h": 12021,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin reach $62,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-62pt5k-in-november-2026-from-november-23",
+      "yes": 62,
+      "change24h": 18,
+      "vol24h": 76631,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $56,000 November 23-29?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-56k-november-23-29-2026",
+      "yes": 17,
+      "change24h": -18,
+      "vol24h": 20362,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026",
+      "yes": 14,
+      "change24h": -15,
+      "vol24h": 274702,
+      "headlines": []
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
+      "yes": 49,
+      "change24h": -13,
+      "vol24h": 110759,
+      "headlines": []
+    },
+    {
       "question": "Will Nvidia’s market capitalization be less than $4.00T at the end of 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-nvidias-market-capitalization-be-less-than-3pt50t-at-the-end-of-2026-1785882876109",
-      "yes": 70,
-      "change24h": 8,
-      "vol24h": 19956,
+      "yes": 73,
+      "change24h": 13,
+      "vol24h": 19760,
+      "headlines": []
+    },
+    {
+      "question": "Will Ethereum dip to $1,500 in November?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/will-ethereum-dip-to-1500-in-november-2026",
+      "yes": 12,
+      "change24h": -12,
+      "vol24h": 10412,
       "headlines": []
     },
     {
       "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-under",
-      "yes": 70,
-      "change24h": 8,
-      "vol24h": 15428,
-      "headlines": []
-    },
-    {
-      "question": "US recession by end of 2027?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/us-recession-by-end-of-2027-20260807185409760",
-      "yes": 36,
-      "change24h": 5,
-      "vol24h": 11279,
+      "yes": 72,
+      "change24h": 11,
+      "vol24h": 16956,
       "headlines": []
     }
   ]
