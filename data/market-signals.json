@@ -1,18 +1,24 @@
 {
-  "updated": "2026-11-27T01:13:38.327Z",
+  "updated": "2026-11-27T15:43:49.008Z",
   "withNews": [
     {
-      "question": "Will Bitcoin dip to $58,000 November 23-29?",
+      "question": "Will Bitcoin reach $62,500 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-58k-november-23-29-2026-from-november-25",
-      "yes": 22,
-      "change24h": -15,
-      "vol24h": 36500,
+      "url": "https://polymarket.com/event/will-bitcoin-reach-62pt5k-in-november-2026-from-november-23",
+      "yes": 33,
+      "change24h": -19,
+      "vol24h": 97562,
       "headlines": [
         {
-          "title": "2 Dividend Stocks to Buy in November and 1 to Leave on the Shelf",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDh4LVBGWkJFYVJoX09zNnVySkp3TGlsZHFXOGVZNHNNTXY2X3R1dGMtRGRjdnVZQmVWdzNOd0ZzaXEwZFUxM0hTdVVrNk5oUzBGTmU5cW5VU3k4SzNGSV9HSklUYnJEV2J0VFkwbW9XRllZa2FNajZsZVIwWmpzLTIzQmVRRHQ3OUdtQTBoR0k0d19JYVl5Tl9BNA?oc=5",
+          "title": "How to watch LSU vs. Villanova women’s basketball: TV channel and streaming options for November 27",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1l4YksyZEs2azJ3S3NxekdqUjhVZFNmT3N2elNiMTVWcWZESmJDNkJHMmdMM2JXTUdRUzJrR2lfSE4tVm9EN3hrYzgyUjJaVzhmdWQzNjNZT2J3MG9IMjNrVnJtYzBVd3o0dHc1cmowaC1QMkgxMXFPR2dTZmVhbnNCcTNvbDBtZVRDSVlUdUNYdjFsTVRra3hzM3o?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "S&P 500 Gap Movers: Upside and Downside Stocks on November 27, 2026",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTJnQUZRN084ZWZaZl9xcmlPeDVXMk04aUNWUDR3eHB5dU1aZ3VtbGVKY1RsSUtMa3cwa0J5SllNTXQ0MHVJNXJPTTBkMll5WEYwM0xoWXk1NHVZaWNRUUFsbVJyNlJ4Mm14RHNLSGt0SGZKM0Q4M1BzeGE1TEI4YXdLSWNiaFVIeTNUWnotSWJ0bmplRGpORGZvRkFYWFJmei10a3ZNc3VjaWF5Ukh1OG5SR1ZZQQ?oc=5",
           "cat": "Markets"
         }
       ]
@@ -21,31 +27,37 @@
       "question": "Will Bitcoin reach $64,000 November 23-29?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-64k-november-23-29-2026-from-november-23",
-      "yes": 18,
+      "yes": 6,
       "change24h": -13,
-      "vol24h": 41358,
+      "vol24h": 14372,
       "headlines": [
         {
-          "title": "2 Dividend Stocks to Buy in November and 1 to Leave on the Shelf",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDh4LVBGWkJFYVJoX09zNnVySkp3TGlsZHFXOGVZNHNNTXY2X3R1dGMtRGRjdnVZQmVWdzNOd0ZzaXEwZFUxM0hTdVVrNk5oUzBGTmU5cW5VU3k4SzNGSV9HSklUYnJEV2J0VFkwbW9XRllZa2FNajZsZVIwWmpzLTIzQmVRRHQ3OUdtQTBoR0k0d19JYVl5Tl9BNA?oc=5",
+          "title": "How to watch LSU vs. Villanova women’s basketball: TV channel and streaming options for November 27",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1l4YksyZEs2azJ3S3NxekdqUjhVZFNmT3N2elNiMTVWcWZESmJDNkJHMmdMM2JXTUdRUzJrR2lfSE4tVm9EN3hrYzgyUjJaVzhmdWQzNjNZT2J3MG9IMjNrVnJtYzBVd3o0dHc1cmowaC1QMkgxMXFPR2dTZmVhbnNCcTNvbDBtZVRDSVlUdUNYdjFsTVRra3hzM3o?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "S&P 500 Gap Movers: Upside and Downside Stocks on November 27, 2026",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTJnQUZRN084ZWZaZl9xcmlPeDVXMk04aUNWUDR3eHB5dU1aZ3VtbGVKY1RsSUtMa3cwa0J5SllNTXQ0MHVJNXJPTTBkMll5WEYwM0xoWXk1NHVZaWNRUUFsbVJyNlJ4Mm14RHNLSGt0SGZKM0Q4M1BzeGE1TEI4YXdLSWNiaFVIeTNUWnotSWJ0bmplRGpORGZvRkFYWFJmei10a3ZNc3VjaWF5Ukh1OG5SR1ZZQQ?oc=5",
           "cat": "Markets"
         }
       ]
     },
     {
-      "question": "Will Bitcoin dip to $57,500 in November?",
+      "question": "Another NVIDIA board member announced resignation or removal by December 31, 2026?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-november-2026-from-november-25",
-      "yes": 26,
-      "change24h": -11,
-      "vol24h": 20329,
+      "url": "https://polymarket.com/event/another-nvidia-board-member-announced-resignation-or-removal-by-december-31-2026",
+      "yes": 18,
+      "change24h": -10,
+      "vol24h": 52949,
       "headlines": [
         {
-          "title": "2 Dividend Stocks to Buy in November and 1 to Leave on the Shelf",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDh4LVBGWkJFYVJoX09zNnVySkp3TGlsZHFXOGVZNHNNTXY2X3R1dGMtRGRjdnVZQmVWdzNOd0ZzaXEwZFUxM0hTdVVrNk5oUzBGTmU5cW5VU3k4SzNGSV9HSklUYnJEV2J0VFkwbW9XRllZa2FNajZsZVIwWmpzLTIzQmVRRHQ3OUdtQTBoR0k0d19JYVl5Tl9BNA?oc=5",
-          "cat": "Markets"
+          "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
+          "cat": "Macro"
         }
       ]
     },
@@ -54,8 +66,8 @@
       "topic": "Macro",
       "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-december-31-2026",
       "yes": 14,
-      "change24h": -8,
-      "vol24h": 36500,
+      "change24h": -6,
+      "vol24h": 25729,
       "headlines": [
         {
           "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
@@ -66,55 +78,23 @@
       ]
     },
     {
-      "question": "Will Chicago Bears win the 2027 NFL NFC Championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-chicago-bears-win-the-2027-nfl-nfc-championship-449",
-      "yes": 22,
-      "change24h": 4,
-      "vol24h": 9949,
-      "headlines": [
-        {
-          "title": "Caleb Williams’ TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "source": "The Mercury News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHh6djZCeWJaLXVuV3pUeXAtbHZwa25aZm1Zd0FrQ1VJVFlfRUpxc3BfamFPYUhXclM3WjZoMkVzVVJhc0dUTTlfRU1xX2pyVjhnWjEzYWd1WU8xRy1Xb2FWQ3NRSnJYOGt6T2lkOVczT0ZRRE5FV2xBUDc4SGFadUFxX3Z2THhCUU4wQ3JQVlJuVDMtN2h4blcwYy1pTGFVT3ozbVo5M0JYZjR4RHhaVmpCQ0IwQQ?oc=5",
-          "cat": "NFL"
-        }
-      ]
-    },
-    {
-      "question": "Will San Antonio Spurs win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-san-antonio-spurs-win-the-2027-nba-finals",
-      "yes": 24,
-      "change24h": 2,
-      "vol24h": 17368,
-      "headlines": [
-        {
-          "title": "‘An Absolute Superstar’ – NBA Insider Hypes ‘Underrated’ Western Conference Forward After 33-Point Explosion vs. Victor Wembanyama, Spurs",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlQtRlpwM3BTMnlCZml3U3llc1NRZ2xrVFdFNGEwbm84Q1dGUjNWeUVrSzhuQ2VQZ3NaMjA1X0E3VTZ2TThGY2U1ZGFZZ1VpdVgwa000MGltWEIyQ2pFdVdLbE42OUNCQ0lWcWhMVmE5Ujlwc0tBT3c1QmVPLW5kV1RPMnIzUHplT3dpWnZLRV9TNms?oc=5",
-          "cat": "NBA"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+      "question": "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?",
       "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506",
-      "yes": 54,
-      "change24h": -1,
-      "vol24h": 28631,
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2027-meeting",
+      "yes": 52,
+      "change24h": 4,
+      "vol24h": 18644,
       "headlines": [
+        {
+          "title": "Fed faces fresh rate hike as inflation and US growth defy expectations",
+          "source": "AzerNews",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQms1Ri1tNEd6TVJiSVd1ZTdtQ2xIejNYMl9CNV9EXzA0aldiVFRiSkcwb2lsbUMyZ3NlXzZ3b0tEN1NCVkVQVjRqdGM5c1JlSk1Jblhqaw?oc=5",
+          "cat": "Macro"
+        },
         {
           "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
           "source": "Financial Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-          "cat": "Macro"
-        },
-        {
-          "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
           "cat": "Macro"
         }
       ]
@@ -123,14 +103,20 @@
       "question": "Kimberly Powell announced resignation or removal by November 30, 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-november-30-2026",
-      "yes": 6,
-      "change24h": -1,
-      "vol24h": 14959,
+      "yes": 5,
+      "change24h": -2,
+      "vol24h": 13787,
       "headlines": [
         {
-          "title": "2 Dividend Stocks to Buy in November and 1 to Leave on the Shelf",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZDh4LVBGWkJFYVJoX09zNnVySkp3TGlsZHFXOGVZNHNNTXY2X3R1dGMtRGRjdnVZQmVWdzNOd0ZzaXEwZFUxM0hTdVVrNk5oUzBGTmU5cW5VU3k4SzNGSV9HSklUYnJEV2J0VFkwbW9XRllZa2FNajZsZVIwWmpzLTIzQmVRRHQ3OUdtQTBoR0k0d19JYVl5Tl9BNA?oc=5",
+          "title": "How to watch LSU vs. Villanova women’s basketball: TV channel and streaming options for November 27",
+          "source": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1l4YksyZEs2azJ3S3NxekdqUjhVZFNmT3N2elNiMTVWcWZESmJDNkJHMmdMM2JXTUdRUzJrR2lfSE4tVm9EN3hrYzgyUjJaVzhmdWQzNjNZT2J3MG9IMjNrVnJtYzBVd3o0dHc1cmowaC1QMkgxMXFPR2dTZmVhbnNCcTNvbDBtZVRDSVlUdUNYdjFsTVRra3hzM3o?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "S&P 500 Gap Movers: Upside and Downside Stocks on November 27, 2026",
+          "source": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTJnQUZRN084ZWZaZl9xcmlPeDVXMk04aUNWUDR3eHB5dU1aZ3VtbGVKY1RsSUtMa3cwa0J5SllNTXQ0MHVJNXJPTTBkMll5WEYwM0xoWXk1NHVZaWNRUUFsbVJyNlJ4Mm14RHNLSGt0SGZKM0Q4M1BzeGE1TEI4YXdLSWNiaFVIeTNUWnotSWJ0bmplRGpORGZvRkFYWFJmei10a3ZNc3VjaWF5Ukh1OG5SR1ZZQQ?oc=5",
           "cat": "Markets"
         }
       ]
@@ -141,50 +127,59 @@
       "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
       "yes": 9,
       "change24h": -1,
-      "vol24h": 10709,
+      "vol24h": 22003,
       "headlines": [
         {
-          "title": "Caleb Williams’ TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "source": "The Mercury News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHh6djZCeWJaLXVuV3pUeXAtbHZwa25aZm1Zd0FrQ1VJVFlfRUpxc3BfamFPYUhXclM3WjZoMkVzVVJhc0dUTTlfRU1xX2pyVjhnWjEzYWd1WU8xRy1Xb2FWQ3NRSnJYOGt6T2lkOVczT0ZRRE5FV2xBUDc4SGFadUFxX3Z2THhCUU4wQ3JQVlJuVDMtN2h4blcwYy1pTGFVT3ozbVo5M0JYZjR4RHhaVmpCQ0IwQQ?oc=5",
+          "title": "Pro Football Doc’s closer look at Bears TE Colston Loveland’s knee injury comes with surgery prediction",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnJIeldPbVEwcjkwY1g4cnlNNGRiSTlweTVxdnYzUUdiQkVjVW90TmFsU3ctbU9wR05ad0FURUQwMnYxMGZtXzI0cFl5MWJuM1FjaXVBNmo3OWF3LVpXTUwzcWpZNHcwaXE0MVBaX01uRlY3eEg0aGVoZWpaUVFVSkFxVXg3Z1JF?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will the Detroit Lions win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-detroit-lions-win-the-2027-nfl-league-championship",
-      "yes": 4,
+      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
+      "yes": 1,
       "change24h": 0,
-      "vol24h": 16433,
+      "vol24h": 20233,
       "headlines": [
         {
-          "title": "Caleb Williams’ TD pass with 3 seconds left gives Bears 39-35 win over Lions",
-          "source": "The Mercury News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHh6djZCeWJaLXVuV3pUeXAtbHZwa25aZm1Zd0FrQ1VJVFlfRUpxc3BfamFPYUhXclM3WjZoMkVzVVJhc0dUTTlfRU1xX2pyVjhnWjEzYWd1WU8xRy1Xb2FWQ3NRSnJYOGt6T2lkOVczT0ZRRE5FV2xBUDc4SGFadUFxX3Z2THhCUU4wQ3JQVlJuVDMtN2h4blcwYy1pTGFVT3ozbVo5M0JYZjR4RHhaVmpCQ0IwQQ?oc=5",
-          "cat": "NFL"
+          "title": "Every player from California to play for the Golden State Warriors - Adam Keefe",
+          "source": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFZZRFFFclZheDcxUVUtcUdDMko1d08yV2p6YlBBYmpka3ZKSHc2TFROd0lhcGpidEltYnQ2ZWYzZnFpWkJzVy1ZNUtnWVY3VmJMcHB5SnJ2ZjFoUE9lOTFWcjNfVnlVVWlGU1BCbS1WbFNRRVd0SmI2NF9yZXhOSGk3ZXg2bmpBX2hLY1FRMExNZw?oc=5",
+          "cat": "NBA"
         }
       ]
     }
   ],
   "moversOnly": [
     {
-      "question": "Will the Los Angeles Rams make the 2027 NFL Playoffs?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-los-angeles-rams-make-the-2027-nfl-playoffs",
-      "yes": 56,
-      "change24h": 20,
-      "vol24h": 10178,
+      "question": "Monastir 2: Federico Bondioli vs Semen Pankin",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/atp-bondiol-pankin-2026-11-27",
+      "yes": 0,
+      "change24h": -65,
+      "vol24h": 208413,
       "headlines": []
     },
     {
       "question": "Will the US federal government take a stake in NVIDIA Corporation?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-nvidia-corporation",
-      "yes": 43,
-      "change24h": 19,
-      "vol24h": 12812,
+      "yes": 31,
+      "change24h": -7,
+      "vol24h": 19246,
+      "headlines": []
+    },
+    {
+      "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be above $4T at the end of 2026?",
+      "topic": "Markets",
+      "url": "https://polymarket.com/event/jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-over",
+      "yes": 33,
+      "change24h": 5,
+      "vol24h": 13820,
       "headlines": []
     }
   ]
