@@ -1,101 +1,85 @@
 {
-  "updated": "2026-11-27T15:43:49.008Z",
+  "updated": "2026-11-28T00:46:05.862Z",
   "withNews": [
     {
       "question": "Will Bitcoin reach $62,500 in November?",
       "topic": "Markets",
       "url": "https://polymarket.com/event/will-bitcoin-reach-62pt5k-in-november-2026-from-november-23",
-      "yes": 33,
-      "change24h": -19,
-      "vol24h": 97562,
+      "yes": 26,
+      "change24h": -25,
+      "vol24h": 140039,
       "headlines": [
         {
-          "title": "How to watch LSU vs. Villanova women’s basketball: TV channel and streaming options for November 27",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1l4YksyZEs2azJ3S3NxekdqUjhVZFNmT3N2elNiMTVWcWZESmJDNkJHMmdMM2JXTUdRUzJrR2lfSE4tVm9EN3hrYzgyUjJaVzhmdWQzNjNZT2J3MG9IMjNrVnJtYzBVd3o0dHc1cmowaC1QMkgxMXFPR2dTZmVhbnNCcTNvbDBtZVRDSVlUdUNYdjFsTVRra3hzM3o?oc=5",
+          "title": "Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW9FcVp2UGVoYjZ4QmtwRDNjQ1RNTGlJSjM0c3ZxV1BxZzdzMUNSZUxwTTFyX2dDcG44U1FjcFpTbjJVUDlLWGFfRkZhZmxyeUUtNGt3Y0RxY092ZFNrRWdCUnVsVmVtQWEyRFdBa1VmazRrXzhBajJTY214aVZtRHl6SmNrSUc4SVBwYTEyc1RjM05XTE9HSHJtTQ?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "S&P 500 Gap Movers: Upside and Downside Stocks on November 27, 2026",
-          "source": "ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTJnQUZRN084ZWZaZl9xcmlPeDVXMk04aUNWUDR3eHB5dU1aZ3VtbGVKY1RsSUtMa3cwa0J5SllNTXQ0MHVJNXJPTTBkMll5WEYwM0xoWXk1NHVZaWNRUUFsbVJyNlJ4Mm14RHNLSGt0SGZKM0Q4M1BzeGE1TEI4YXdLSWNiaFVIeTNUWnotSWJ0bmplRGpORGZvRkFYWFJmei10a3ZNc3VjaWF5Ukh1OG5SR1ZZQQ?oc=5",
-          "cat": "Markets"
+          "title": "Celebrity Row: Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVhxTGxvTmliMlc2R3c0QnhqZ3U2MVNQT3c2MU5lQkt6aVBuc2VlLWtkcU80M0VURnJYd3hWOXh4T3UzOVVTSEVuYVo5X1pIU0tUS0Z4WElBWDZQenEwNjZLV3VuaEVXalFFYkZiaDZ0c1M5bVpvOFhoODdYV3MzX1FIS25XeXVGOEhrYTBSdVlWUjQwVlpYbVJjRjl2LTNDSExGY2VpVTdhQ0pERlE?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will Bitcoin reach $64,000 November 23-29?",
+      "question": "Will Ethereum reach $1,800 November 23-29?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-64k-november-23-29-2026-from-november-23",
+      "url": "https://polymarket.com/event/will-ethereum-reach-1800-november-23-29-2026-from-november-23",
       "yes": 6,
-      "change24h": -13,
-      "vol24h": 14372,
+      "change24h": -19,
+      "vol24h": 11358,
       "headlines": [
         {
-          "title": "How to watch LSU vs. Villanova women’s basketball: TV channel and streaming options for November 27",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1l4YksyZEs2azJ3S3NxekdqUjhVZFNmT3N2elNiMTVWcWZESmJDNkJHMmdMM2JXTUdRUzJrR2lfSE4tVm9EN3hrYzgyUjJaVzhmdWQzNjNZT2J3MG9IMjNrVnJtYzBVd3o0dHc1cmowaC1QMkgxMXFPR2dTZmVhbnNCcTNvbDBtZVRDSVlUdUNYdjFsTVRra3hzM3o?oc=5",
+          "title": "Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW9FcVp2UGVoYjZ4QmtwRDNjQ1RNTGlJSjM0c3ZxV1BxZzdzMUNSZUxwTTFyX2dDcG44U1FjcFpTbjJVUDlLWGFfRkZhZmxyeUUtNGt3Y0RxY092ZFNrRWdCUnVsVmVtQWEyRFdBa1VmazRrXzhBajJTY214aVZtRHl6SmNrSUc4SVBwYTEyc1RjM05XTE9HSHJtTQ?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "S&P 500 Gap Movers: Upside and Downside Stocks on November 27, 2026",
-          "source": "ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTJnQUZRN084ZWZaZl9xcmlPeDVXMk04aUNWUDR3eHB5dU1aZ3VtbGVKY1RsSUtMa3cwa0J5SllNTXQ0MHVJNXJPTTBkMll5WEYwM0xoWXk1NHVZaWNRUUFsbVJyNlJ4Mm14RHNLSGt0SGZKM0Q4M1BzeGE1TEI4YXdLSWNiaFVIeTNUWnotSWJ0bmplRGpORGZvRkFYWFJmei10a3ZNc3VjaWF5Ukh1OG5SR1ZZQQ?oc=5",
-          "cat": "Markets"
+          "title": "Celebrity Row: Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVhxTGxvTmliMlc2R3c0QnhqZ3U2MVNQT3c2MU5lQkt6aVBuc2VlLWtkcU80M0VURnJYd3hWOXh4T3UzOVVTSEVuYVo5X1pIU0tUS0Z4WElBWDZQenEwNjZLV3VuaEVXalFFYkZiaDZ0c1M5bVpvOFhoODdYV3MzX1FIS25XeXVGOEhrYTBSdVlWUjQwVlpYbVJjRjl2LTNDSExGY2VpVTdhQ0pERlE?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Another NVIDIA board member announced resignation or removal by December 31, 2026?",
+      "question": "Will Ethereum reach $1,800 in November?",
       "topic": "Markets",
-      "url": "https://polymarket.com/event/another-nvidia-board-member-announced-resignation-or-removal-by-december-31-2026",
-      "yes": 18,
-      "change24h": -10,
-      "vol24h": 52949,
+      "url": "https://polymarket.com/event/will-ethereum-reach-1800-in-november-2026-from-november-23",
+      "yes": 11,
+      "change24h": -18,
+      "vol24h": 29016,
       "headlines": [
         {
-          "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Kimberly Powell announced resignation or removal by December 31, 2026?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-december-31-2026",
-      "yes": 14,
-      "change24h": -6,
-      "vol24h": 25729,
-      "headlines": [
-        {
-          "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
-          "cat": "Macro"
-        }
-      ]
-    },
-    {
-      "question": "Will the Fed increase interest rates by 25 bps after the March 2027 meeting?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-march-2027-meeting",
-      "yes": 52,
-      "change24h": 4,
-      "vol24h": 18644,
-      "headlines": [
-        {
-          "title": "Fed faces fresh rate hike as inflation and US growth defy expectations",
-          "source": "AzerNews",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQms1Ri1tNEd6TVJiSVd1ZTdtQ2xIejNYMl9CNV9EXzA0aldiVFRiSkcwb2lsbUMyZ3NlXzZ3b0tEN1NCVkVQVjRqdGM5c1JlSk1Jblhqaw?oc=5",
-          "cat": "Macro"
+          "title": "Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW9FcVp2UGVoYjZ4QmtwRDNjQ1RNTGlJSjM0c3ZxV1BxZzdzMUNSZUxwTTFyX2dDcG44U1FjcFpTbjJVUDlLWGFfRkZhZmxyeUUtNGt3Y0RxY092ZFNrRWdCUnVsVmVtQWEyRFdBa1VmazRrXzhBajJTY214aVZtRHl6SmNrSUc4SVBwYTEyc1RjM05XTE9HSHJtTQ?oc=5",
+          "cat": "NBA"
         },
         {
-          "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
-          "source": "Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
-          "cat": "Macro"
+          "title": "Celebrity Row: Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVhxTGxvTmliMlc2R3c0QnhqZ3U2MVNQT3c2MU5lQkt6aVBuc2VlLWtkcU80M0VURnJYd3hWOXh4T3UzOVVTSEVuYVo5X1pIU0tUS0Z4WElBWDZQenEwNjZLV3VuaEVXalFFYkZiaDZ0c1M5bVpvOFhoODdYV3MzX1FIS25XeXVGOEhrYTBSdVlWUjQwVlpYbVJjRjl2LTNDSExGY2VpVTdhQ0pERlE?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the US federal government take a stake in NVIDIA Corporation?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-nvidia-corporation",
+      "yes": 26,
+      "change24h": -17,
+      "vol24h": 27941,
+      "headlines": [
+        {
+          "title": "S&P 500 Eyes 7,295.60 as Nvidia CEO Reinstatement and Tech Rally Test Buyer Conviction",
+          "source": "FXEmpire",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjRvcTdzQTZ5ZVV0S1pKU3k2TFJGQjVtTENZXzB6UWpoc0RPaEt0WWU3OFh0ZGNXOGN4SGUtUElfLXMzU1J1STA5dk11WnhPc0Fwa2JFNHJ5U1ZWY3k0bnhJdG85UjRUcFVScURBN2hJS3NtMC0zcXd5NVJLWGhYb21OQXdjdTNvVS1IczRuUURBejJhdFVuWnRNaGYybU1yOGIzT2pNODQ2elF1V1ZsSHF1cktzZEpPdlptVGg5LURncGppN2dEVllMSkpsdUct?oc=5",
+          "cat": "Markets"
         }
       ]
     },
@@ -103,84 +87,100 @@
       "question": "Kimberly Powell announced resignation or removal by November 30, 2026?",
       "topic": "Macro",
       "url": "https://polymarket.com/event/kimberly-powell-announced-resignation-or-removal-by-november-30-2026",
-      "yes": 5,
-      "change24h": -2,
-      "vol24h": 13787,
+      "yes": 2,
+      "change24h": -3,
+      "vol24h": 20183,
       "headlines": [
         {
-          "title": "How to watch LSU vs. Villanova women’s basketball: TV channel and streaming options for November 27",
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb1l4YksyZEs2azJ3S3NxekdqUjhVZFNmT3N2elNiMTVWcWZESmJDNkJHMmdMM2JXTUdRUzJrR2lfSE4tVm9EN3hrYzgyUjJaVzhmdWQzNjNZT2J3MG9IMjNrVnJtYzBVd3o0dHc1cmowaC1QMkgxMXFPR2dTZmVhbnNCcTNvbDBtZVRDSVlUdUNYdjFsTVRra3hzM3o?oc=5",
+          "title": "Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW9FcVp2UGVoYjZ4QmtwRDNjQ1RNTGlJSjM0c3ZxV1BxZzdzMUNSZUxwTTFyX2dDcG44U1FjcFpTbjJVUDlLWGFfRkZhZmxyeUUtNGt3Y0RxY092ZFNrRWdCUnVsVmVtQWEyRFdBa1VmazRrXzhBajJTY214aVZtRHl6SmNrSUc4SVBwYTEyc1RjM05XTE9HSHJtTQ?oc=5",
           "cat": "NBA"
         },
         {
-          "title": "S&P 500 Gap Movers: Upside and Downside Stocks on November 27, 2026",
-          "source": "ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTJnQUZRN084ZWZaZl9xcmlPeDVXMk04aUNWUDR3eHB5dU1aZ3VtbGVKY1RsSUtMa3cwa0J5SllNTXQ0MHVJNXJPTTBkMll5WEYwM0xoWXk1NHVZaWNRUUFsbVJyNlJ4Mm14RHNLSGt0SGZKM0Q4M1BzeGE1TEI4YXdLSWNiaFVIeTNUWnotSWJ0bmplRGpORGZvRkFYWFJmei10a3ZNc3VjaWF5Ukh1OG5SR1ZZQQ?oc=5",
-          "cat": "Markets"
+          "title": "Celebrity Row: Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVhxTGxvTmliMlc2R3c0QnhqZ3U2MVNQT3c2MU5lQkt6aVBuc2VlLWtkcU80M0VURnJYd3hWOXh4T3UzOVVTSEVuYVo5X1pIU0tUS0Z4WElBWDZQenEwNjZLV3VuaEVXalFFYkZiaDZ0c1M5bVpvOFhoODdYV3MzX1FIS25XeXVGOEhrYTBSdVlWUjQwVlpYbVJjRjl2LTNDSExGY2VpVTdhQ0pERlE?oc=5",
+          "cat": "NBA"
         }
       ]
     },
     {
-      "question": "Will the Chicago Bears win the 2027 NFL league championship?",
-      "topic": "NFL",
-      "url": "https://polymarket.com/event/will-the-chicago-bears-win-the-2027-nfl-league-championship",
-      "yes": 9,
-      "change24h": -1,
-      "vol24h": 22003,
+      "question": "No change in Bank of England’s interest rates after December 2026 meeting?",
+      "topic": "Macro",
+      "url": "https://polymarket.com/event/no-change-in-bank-of-england-interest-rates-after-december-2026-meeting",
+      "yes": 21,
+      "change24h": -2,
+      "vol24h": 10971,
       "headlines": [
         {
-          "title": "Pro Football Doc’s closer look at Bears TE Colston Loveland’s knee injury comes with surgery prediction",
-          "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONnJIeldPbVEwcjkwY1g4cnlNNGRiSTlweTVxdnYzUUdiQkVjVW90TmFsU3ctbU9wR05ad0FURUQwMnYxMGZtXzI0cFl5MWJuM1FjaXVBNmo3OWF3LVpXTUwzcWpZNHcwaXE0MVBaX01uRlY3eEg0aGVoZWpaUVFVSkFxVXg3Z1JF?oc=5",
+          "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFhyYVF6clphakpIUWg4aUl3d3p2YnhYek5IZlhLMEQybmpsTUFrazRhUzhYVzJYM3FpVDBRVkV3ZkwyNDIwZDVDdkx6d1ZKQlF4TnpGakxOOE00SEJYbUM0LWxlWk43UGZoUFJQMmFWUmExb19oVXhtZGFUaUJWdzFSdUVkMmtWWURZbXJmMUFoaDFjTW1wcG1zekJvTENIN0hodlV2WG5ubVI1RzROeTFXc0hQNlNYSzQ0REpQa3A5enpxaGZvZ3kxMklJZw?oc=5",
+          "cat": "Macro"
+        }
+      ]
+    },
+    {
+      "question": "Will New York Knicks win the 2027 NBA Finals?",
+      "topic": "NBA",
+      "url": "https://polymarket.com/event/will-new-york-knicks-win-the-2027-nba-finals",
+      "yes": 9,
+      "change24h": 1,
+      "vol24h": 33274,
+      "headlines": [
+        {
+          "title": "Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYW9FcVp2UGVoYjZ4QmtwRDNjQ1RNTGlJSjM0c3ZxV1BxZzdzMUNSZUxwTTFyX2dDcG44U1FjcFpTbjJVUDlLWGFfRkZhZmxyeUUtNGt3Y0RxY092ZFNrRWdCUnVsVmVtQWEyRFdBa1VmazRrXzhBajJTY214aVZtRHl6SmNrSUc4SVBwYTEyc1RjM05XTE9HSHJtTQ?oc=5",
+          "cat": "NBA"
+        },
+        {
+          "title": "Celebrity Row: Knicks on the Court: Sunday, November 25 vs. Cleveland Cavaliers",
+          "source": "NBA.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMVhxTGxvTmliMlc2R3c0QnhqZ3U2MVNQT3c2MU5lQkt6aVBuc2VlLWtkcU80M0VURnJYd3hWOXh4T3UzOVVTSEVuYVo5X1pIU0tUS0Z4WElBWDZQenEwNjZLV3VuaEVXalFFYkZiaDZ0c1M5bVpvOFhoODdYV3MzX1FIS25XeXVGOEhrYTBSdVlWUjQwVlpYbVJjRjl2LTNDSExGY2VpVTdhQ0pERlE?oc=5",
+          "cat": "NBA"
+        }
+      ]
+    },
+    {
+      "question": "Will the Denver Broncos win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-denver-broncos-win-the-2027-nfl-league-championship",
+      "yes": 5,
+      "change24h": -1,
+      "vol24h": 13952,
+      "headlines": [
+        {
+          "title": "Broncos-Steelers report card: Disastrous Bo Nix showing leads to blowout loss on Black Friday",
+          "source": "The Denver Post",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmJlcE9LTEhzVnRSTUVZQ0VtVEFDeXQtb1dWN0NsSkg5YzVhSVhJbUtPYldvTGV4cEYteEdXMnRadUFCSS1NMlE4Nzg2VHZ2Z09lZllXcWFDZF9iS2ZzY016SVE0WUk0ZFVnWkVkejFfRUVmRDF5WTVZVnVUNlNVM3BWcE9hbGFrdzZ6UVMtZw?oc=5",
+          "cat": "NFL"
+        },
+        {
+          "title": "NFL Week 12 Highlights: Broncos at Steelers Stream of National Football League",
+          "source": "CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObmxhNFR0RmQ0MUxNenRta0hZRldydk9KcDU2TnVRWm52Y19ZYnY4NjluSmRvb0RwYzJVOVowVk0zTHBzZF92Z09INDZOb1BoN3cxSUstMGNWVUVxTnNLcDhISkxZSTBiVktMSGo0VWNQR3BZR3FNQm1jVEtKYkJRM1NVbDlLWWpPakdjbA?oc=5",
           "cat": "NFL"
         }
       ]
     },
     {
-      "question": "Will Golden State Warriors win the 2027 NBA Finals?",
-      "topic": "NBA",
-      "url": "https://polymarket.com/event/will-golden-state-warriors-win-the-2027-nba-finals",
-      "yes": 1,
+      "question": "Will the Washington Commanders win the 2027 NFL league championship?",
+      "topic": "NFL",
+      "url": "https://polymarket.com/event/will-the-washington-commanders-win-the-2027-nfl-league-championship",
+      "yes": 0,
       "change24h": 0,
-      "vol24h": 20233,
+      "vol24h": 10612,
       "headlines": [
         {
-          "title": "Every player from California to play for the Golden State Warriors - Adam Keefe",
+          "title": "What Ja'Marr Chase said about Bengals' energy in loss to Commanders",
           "source": "Yahoo Sports",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFZZRFFFclZheDcxUVUtcUdDMko1d08yV2p6YlBBYmpka3ZKSHc2TFROd0lhcGpidEltYnQ2ZWYzZnFpWkJzVy1ZNUtnWVY3VmJMcHB5SnJ2ZjFoUE9lOTFWcjNfVnlVVWlGU1BCbS1WbFNRRVd0SmI2NF9yZXhOSGk3ZXg2bmpBX2hLY1FRMExNZw?oc=5",
-          "cat": "NBA"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcGVkdDVYN1R0YUMxZHNrX3Z1Q0dqSEc5X0FpMlVEYVZXMUR5MmU1YUozU0FaeVN3Mk5VWlJ5ZXNXSGtGOWJ0NU9udXRKSUE3Y3NjM0VwYXZOdEI1U0U1ejR3ckpnUkNUdEk0TjNGOGlPZzNTNE5yWmNuMkt2UEZHU1NUN1lVUlhxRHdYdTh3?oc=5",
+          "cat": "NFL"
         }
       ]
     }
   ],
-  "moversOnly": [
-    {
-      "question": "Monastir 2: Federico Bondioli vs Semen Pankin",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/atp-bondiol-pankin-2026-11-27",
-      "yes": 0,
-      "change24h": -65,
-      "vol24h": 208413,
-      "headlines": []
-    },
-    {
-      "question": "Will the US federal government take a stake in NVIDIA Corporation?",
-      "topic": "Macro",
-      "url": "https://polymarket.com/event/will-the-us-federal-government-take-a-stake-in-nvidia-corporation",
-      "yes": 31,
-      "change24h": -7,
-      "vol24h": 19246,
-      "headlines": []
-    },
-    {
-      "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be above $4T at the end of 2026?",
-      "topic": "Markets",
-      "url": "https://polymarket.com/event/jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-over",
-      "yes": 33,
-      "change24h": 5,
-      "vol24h": 13820,
-      "headlines": []
-    }
-  ]
+  "moversOnly": []
 }
